@@ -1,0 +1,2019 @@
+{
+ "kitap": "tarih-11",
+ "ders": "tarih",
+ "sinif": 11,
+ "baslik": "Tarih 11. Sınıf Ders Kitabı",
+ "sayfaUrl": "https://tymm.meb.gov.tr/kitap/428/tarih-11sinif-ders-kitabi",
+ "pdfUrl": "https://tymm.meb.gov.tr/assets/pdf/tarih-11sinif-ders-kitabi_20260908_185409_780.pdf",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Değişen Dünyada Osmanlı (1683-1789)",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Osmanlı Devleti'nin 1683-1789 Yılları Arasındaki Siyasi ve Askerî Mücadeleleri",
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "secmeli",
+       "soru": "Osmanlı Devleti ile Rus Çarlığı arasında 1681'de imzalanan ve Özi Nehri'ni iki devlet arasında sınır kabul eden ilk antlaşma hangisidir?",
+       "secenekler": [
+        "Zoravna Antlaşması",
+        "Vasvar Antlaşması",
+        "Bahçesaray (Çehrin) Antlaşması",
+        "Bucaş Antlaşması"
+       ],
+       "dogru": 2,
+       "bilgi": "Çehrin Kalesi'nin 1678'de fethinin ardından Rusların talebiyle imzalanan bu antlaşma, Rusların güneye inmesini de engelledi.",
+       "sayfa": 13
+      },
+      {
+       "id": "1.1-02",
+       "tur": "eslestir",
+       "yonerge": "XVII. yüzyılın ikinci yarısında imzalanan antlaşmaları sonuçlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Vasvar Antlaşması (1664)",
+         "Macaristan'daki en geniş sınırlara ulaşıldı"
+        ],
+        [
+         "Bucaş ve Zoravna Antlaşmaları",
+         "Podolya ve Ukrayna Osmanlı hâkimiyetine girdi"
+        ],
+        [
+         "Bahçesaray Antlaşması (1681)",
+         "Özi Nehri Osmanlı-Rus sınırı oldu"
+        ]
+       ],
+       "bilgi": "Uyvar (1663), Kamaniçe (1672) ve Çehrin (1678) kalelerinin fethinden sonra imzalanan bu antlaşmalarla Osmanlı batıda en geniş sınırlarına ulaştı.",
+       "sayfa": 13
+      },
+      {
+       "id": "1.1-03",
+       "tur": "secmeli",
+       "soru": "1683'te Padişah IV. Mehmed tarafından Belgrad'da serdar-ı ekrem atanarak Viyana'yı kuşatan sadrazam kimdir?",
+       "secenekler": [
+        "Köprülü Fazıl Ahmed Paşa",
+        "Merzifonlu Kara Mustafa Paşa",
+        "Baltacı Mehmed Paşa",
+        "Amcazâde Hüseyin Paşa"
+       ],
+       "dogru": 1,
+       "bilgi": "Merzifonlu Kara Mustafa Paşa komutasındaki Osmanlı ordusu 14 Temmuz 1683'te Viyana'yı kuşattı.",
+       "sayfa": 14
+      },
+      {
+       "id": "1.1-04",
+       "tur": "bosluk",
+       "cumle": "II. Viyana Kuşatması sırasında Osmanlı ordusu, 12 Eylül 1683'teki ___ Muharebesi'nde Leh ve Alman kuvvetlerine yenildi.",
+       "cevap": "Kahlenberg",
+       "celdiriciler": [
+        "Zenta",
+        "Petervaradin",
+        "Salankamen"
+       ],
+       "bilgi": "Lehistan Kralı III. Jan Sobieski komutasındaki müttefiklere yenilen Osmanlı ordusu Belgrad'a geri çekildi.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-05",
+       "tur": "dy",
+       "ifade": "Kutsal İttifak, 1684'te Papa XI. Innocentius'un öncülüğünde Avusturya, Venedik ve Lehistan tarafından kuruldu.",
+       "dogru": true,
+       "bilgi": "1686'da Rus Çarlığı'nın da katıldığı bu birliğe karşı Osmanlı Devleti yaklaşık on dört yıl dört cephede savaştı.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-06",
+       "tur": "secmeli",
+       "soru": "26 Ocak 1699'da imzalanan Karlofça Antlaşması'yla Avusturya'ya bırakılan yer aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Mora",
+        "Podolya",
+        "Azak",
+        "Erdel"
+       ],
+       "dogru": 3,
+       "bilgi": "Karlofça ile Osmanlı ilk kez kalıcı toprak kaybına uğradı; Avusturya Macaristan ve Erdel'i, Venedik Mora'yı, Lehistan Podolya'yı aldı.",
+       "sayfa": 21
+      },
+      {
+       "id": "1.1-07",
+       "tur": "dy",
+       "ifade": "1700 İstanbul Antlaşması'yla Osmanlı Devleti Azak Kalesi'ni Rus Çarlığı'na bıraktı ve Rus çarının çarlık unvanını resmen tanıdı.",
+       "dogru": true,
+       "bilgi": "Bu antlaşmayla Rusların İstanbul'da sürekli elçi bulundurma talebi de kabul edildi.",
+       "sayfa": 21
+      },
+      {
+       "id": "1.1-08",
+       "tur": "secmeli",
+       "soru": "1711 Prut Savaşı'nda Çar I. Petro'nun ordusunu Prut Nehri kıyısında kuşatan Osmanlı sadrazamı kimdir?",
+       "secenekler": [
+        "Baltacı Mehmed Paşa",
+        "Damat Ali Paşa",
+        "Nevşehirli Damad İbrahim Paşa",
+        "Muhsinzade Mehmed Paşa"
+       ],
+       "dogru": 0,
+       "bilgi": "Çariçe Katerina'nın barış teklifinin kabul edilmesiyle 21 Temmuz 1711'de imzalanan Prut Antlaşması'yla Azak Kalesi Osmanlı'ya geri verildi.",
+       "sayfa": 24
+      },
+      {
+       "id": "1.1-09",
+       "tur": "secmeli",
+       "soru": "21 Temmuz 1718 Pasarofça Antlaşması'yla Osmanlı Devleti'nin Avusturya'ya bıraktığı önemli kale şehri hangisidir?",
+       "secenekler": [
+        "Azak",
+        "Belgrad",
+        "Kamaniçe",
+        "Korfu"
+       ],
+       "dogru": 1,
+       "bilgi": "Nevşehirli Damad İbrahim Paşa'nın sadaretinde imzalanan Pasarofça ile Temeşvar ve Belgrad dâhil Kuzey Sırbistan Habsburglara bırakıldı.",
+       "sayfa": 28
+      },
+      {
+       "id": "1.1-10",
+       "tur": "dy",
+       "ifade": "Pasarofça Antlaşması'ndan sonra Osmanlı Devleti Orta Avrupa'da yeni fetihlere yönelen saldırgan bir dış politika izledi.",
+       "dogru": false,
+       "bilgi": "Pasarofça'dan sonra Osmanlı Orta Avrupa'dan çekilerek savunmaya geçti ve barışçıl bir dış politika izledi; ardından Lale Devri başladı.",
+       "sayfa": 29
+      },
+      {
+       "id": "1.1-11",
+       "tur": "bosluk",
+       "cumle": "I. Mahmud Dönemi'nde Humbaracı Ahmed Paşa'nın 1734'te açtığı ve mühendishanelerin ilk örneği sayılan kışla ve okula ___ denir.",
+       "cevap": "hendesehane",
+       "celdiriciler": [
+        "tophane",
+        "tersane",
+        "darülfünun"
+       ],
+       "bilgi": "Fransız asıllı Humbaracı Ahmed Paşa (Comte de Bonneval) Humbaracı Ocağını ıslah etti ve Topçu Ocağını düzene soktu.",
+       "sayfa": 29
+      },
+      {
+       "id": "1.1-12",
+       "tur": "secmeli",
+       "soru": "Osmanlı Devleti'nin Belgrad'ı geri aldığı 29 Eylül 1739 Belgrad Antlaşması hangi devletin arabuluculuğuyla imzalanmıştır?",
+       "secenekler": [
+        "İngiltere",
+        "Hollanda",
+        "İsveç",
+        "Fransa"
+       ],
+       "dogru": 3,
+       "bilgi": "Belgrad Antlaşması'yla Rusya'nın Karadeniz'de gemi bulundurması yasaklandı ve Avusturya ile elli yıla yakın sürecek barış dönemi başladı.",
+       "sayfa": 32
+      },
+      {
+       "id": "1.1-13",
+       "tur": "secmeli",
+       "soru": "1774 Küçük Kaynarca Antlaşması'nın hangi maddesi, Rusya'nın sonradan Osmanlı iç işlerine karışmasına dayanak oldu?",
+       "secenekler": [
+        "Ortodoks tebaanın koruyuculuğunun Ruslara verilmesi",
+        "Aksu (Buğ) Nehri'nin sınır olması",
+        "Rus ticaret gemilerinin Boğazlardan geçmesi",
+        "Kırım'ın siyasi olarak bağımsız olması"
+       ],
+       "dogru": 0,
+       "bilgi": "Küçük Kaynarca'yla Kırım siyasi açıdan bağımsız olup dinî konularda halifeye bağlı kaldı; Rusya 1783'te Kırım'ı ilhak etti.",
+       "sayfa": 35
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "Lale Devri'nin Devlet ve Toplum Hayatına Etkileri",
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "secmeli",
+       "soru": "Osmanlı tarihinde Lale Devri olarak adlandırılan dönem hangi iki olay arasındaki süreyi kapsar?",
+       "secenekler": [
+        "1699 Karlofça Antlaşması – 1718 Pasarofça Antlaşması",
+        "1718 Pasarofça Antlaşması – 1730 Patrona Halil İsyanı",
+        "1711 Prut Antlaşması – 1739 Belgrad Antlaşması",
+        "1739 Belgrad Antlaşması – 1774 Küçük Kaynarca"
+       ],
+       "dogru": 1,
+       "bilgi": "Padişahı III. Ahmed, sadrazamı Nevşehirli Damat İbrahim Paşa olan Lale Devri, Batılılaşmanın bilinçli olarak benimsendiği ilk dönem kabul edilir.",
+       "sayfa": 42
+      },
+      {
+       "id": "1.2-02",
+       "tur": "dy",
+       "ifade": "\"Lale Devri\" adı, dönemin kendisinde yaşamış Osmanlı tarihçileri tarafından verilmiştir.",
+       "dogru": false,
+       "bilgi": "1718-1730 arasındaki dönem XX. yüzyıl başlarında Lale Devri olarak adlandırılmıştır.",
+       "sayfa": 41
+      },
+      {
+       "id": "1.2-03",
+       "tur": "secmeli",
+       "soru": "1720'de Paris'e geçici elçi olarak gönderilen ve gözlemlerini Sefâretnâme adlı eserinde anlatan Osmanlı devlet adamı kimdir?",
+       "secenekler": [
+        "İbrahim Müteferrika",
+        "Mehmed Said Efendi",
+        "Yirmisekiz Çelebi Mehmed Efendi",
+        "Humbaracı Ahmed Paşa"
+       ],
+       "dogru": 2,
+       "bilgi": "Paris Sefâretnâmesi, Osmanlı'nın modernleşme sürecinde saray erkânına yön veren önemli kılavuzlardan biri oldu.",
+       "sayfa": 43
+      },
+      {
+       "id": "1.2-04",
+       "tur": "bosluk",
+       "cumle": "Osmanlı elçilerinin görevlendirildikleri yerlere dair izlenimlerini anlatmak için yazdıkları esere ___ denir.",
+       "cevap": "sefaretname",
+       "celdiriciler": [
+        "surname",
+        "layiha",
+        "siyasetname"
+       ],
+       "bilgi": "Lale Devri'nde Paris, Viyana ve Moskova gibi Avrupa başkentlerine ilk defa geçici elçiler gönderildi.",
+       "sayfa": 43
+      },
+      {
+       "id": "1.2-05",
+       "tur": "secmeli",
+       "soru": "Lale Devri'nde Damat İbrahim Paşa'nın Fontainebleau Sarayı resimlerinden esinlenerek yaptırdığı Sadâbâd Kasrı nerededir?",
+       "secenekler": [
+        "Üsküdar",
+        "Kağıthane",
+        "Çırağan",
+        "Beylerbeyi"
+       ],
+       "dogru": 1,
+       "bilgi": "Kağıthane'deki park ve bahçeler de Versailles Sarayı'nın bahçeleri örnek alınarak tasarlanıp lalelerle donatıldı.",
+       "sayfa": 44
+      },
+      {
+       "id": "1.2-06",
+       "tur": "eslestir",
+       "yonerge": "Lale Devri'yle ilişkilendirilen kişileri katkılarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Nedim",
+         "Dönemin yaşam anlayışını şiirlerine yansıttı"
+        ],
+        [
+         "Levnî",
+         "Saray eğlencelerini minyatürlerle resmetti"
+        ],
+        [
+         "Lady Mary Wortley Montagu",
+         "Çiçek aşısını mektuplarında övdü"
+        ],
+        [
+         "İbrahim Müteferrika",
+         "İlk Türk matbaasını kurdu"
+        ]
+       ],
+       "bilgi": "Lale Devri'nde zevk ve estetiği öne çıkaran hayat tarzı Nedim'in şiirleri ve Levnî'nin minyatürleriyle sanata yansıdı.",
+       "sayfa": 45
+      },
+      {
+       "id": "1.2-07",
+       "tur": "dy",
+       "ifade": "İbrahim Müteferrika'nın matbaasında basılan ilk eser, Kâtip Çelebi'nin Cihannüma adlı eseridir.",
+       "dogru": false,
+       "bilgi": "Müteferrika Matbaasında basılan ilk eser, Arapça bir sözlüğün tercümesi olan Vankulu Lügati'dir.",
+       "sayfa": 52
+      },
+      {
+       "id": "1.2-08",
+       "tur": "secmeli",
+       "soru": "Lale Devri'nde ilk Türk matbaasının açılmasına hangi koşulla izin verilmiştir?",
+       "secenekler": [
+        "Yalnızca Arapça eserlerin basılması",
+        "Basılan kitapların yalnızca sarayda kullanılması",
+        "Dinî ilimlerle ilgili eserlerin basılmaması",
+        "Matbaanın devlet memurlarınca işletilmesi"
+       ],
+       "dogru": 2,
+       "bilgi": "Müteferrika'nın Vesîletü't-Tıbâa risalesinden sonra şeyhülislamdan fetva, padişahtan ferman alınarak matbaaya izin verildi.",
+       "sayfa": 52
+      },
+      {
+       "id": "1.2-09",
+       "tur": "bosluk",
+       "cumle": "Lale Devri'nde Doğu ve Batı'da yazılmış önemli eserleri Türkçeye çevirmek amacıyla ___ adlı bir kurul oluşturuldu.",
+       "cevap": "Tercüme Heyeti",
+       "celdiriciler": [
+        "Divan-ı Hümayun",
+        "Meclis-i Meşveret",
+        "Encümen-i Dâniş"
+       ],
+       "bilgi": "Aynı dönemde nadir el yazması kitapların yurt dışına çıkarılması yasaklandı, bazı Türkçe eserler de Fransızcaya çevrildi.",
+       "sayfa": 49
+      },
+      {
+       "id": "1.2-10",
+       "tur": "dy",
+       "ifade": "Lale Devri'nde İstanbul'da Yeniçeri Ocağından seçilen tulumbacılarla ilk düzenli itfaiye teşkilatı kuruldu.",
+       "dogru": true,
+       "bilgi": "Lale Devri'nde ayrıca Kız Kulesi onarılmış, Tersane ıslah edilerek Avrupai tarzda üç ambarlı gemi yapımına başlanmıştır.",
+       "sayfa": 50
+      },
+      {
+       "id": "1.2-11",
+       "tur": "bosluk",
+       "cumle": "Avrupa'da gösterişi ve abartıyı simgeleyen, Lale Devri'nde Osmanlı mimarisini etkileyen üsluba ___ denir.",
+       "cevap": "barok",
+       "celdiriciler": [
+        "gotik",
+        "ampir",
+        "neoklasik"
+       ],
+       "bilgi": "Lale Devri mimarisi barok ile zarif ve kavisli süslemelerden oluşan rokoko üsluplarından etkilendi; bu etki en çok çeşme, sebil ve türbelerde görülür.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.2-12",
+       "tur": "secmeli",
+       "soru": "1730'da çıkan Patrona Halil İsyanı'nın sonuçlarından biri aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Yeniçeri Ocağı'nın kaldırılması",
+        "İlk Türk matbaasının kapatılması",
+        "Pasarofça Antlaşması'nın imzalanması",
+        "III. Ahmed'in tahtı I. Mahmud'a bırakması"
+       ],
+       "dogru": 3,
+       "bilgi": "İsyancıların isteğiyle Sadrazam Nevşehirli Damat İbrahim Paşa idam edildi, lale bahçeleri ve köşkler yakılıp talan edildi.",
+       "sayfa": 59
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "1755 Lizbon ve 1766 İstanbul Depremlerinin Etkileri",
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "secmeli",
+       "soru": "1 Kasım 1755 Lizbon Depremi'nden sonra Kral I. José tarafından acil müdahale ve yeniden yapılanma için geniş yetkilerle donatılan bakan kimdir?",
+       "secenekler": [
+        "Carlos Mardel",
+        "Eugénio dos Santos",
+        "I. Sebastian",
+        "Marqués de Pombal"
+       ],
+       "dogru": 3,
+       "bilgi": "Azizler Günü'nde meydana gelen depremden sonra Pombal ve ekibinin çalışmalarıyla yönetimde güçlü bir merkezîleşme sağlandı.",
+       "sayfa": 67
+      },
+      {
+       "id": "1.3-02",
+       "tur": "bosluk",
+       "cumle": "Lizbon'un yeniden inşasında depreme karşı esneklik sağlamak için duvar örgüsüne yerleştirilen üç boyutlu ahşap kafes sistemine ___ denir.",
+       "cevap": "Gaiola Pombalina",
+       "celdiriciler": [
+        "Cais de Pedra",
+        "sismik izolatör",
+        "Baixa Pombalina"
+       ],
+       "bilgi": "Gemi yapım yöntemlerinden esinlenen bu sistemle yapılan Pombalina binaları dünyadaki ilk sismik korumalı yapılar olarak tarihe geçti.",
+       "sayfa": 69
+      },
+      {
+       "id": "1.3-03",
+       "tur": "dy",
+       "ifade": "1755 Lizbon Depremi'nden sonra yapılan çalışmalarla sismoloji biliminin temelleri atıldı.",
+       "dogru": true,
+       "bilgi": "Lizbon Depremi'nden sonra deprem olgusuna dair veri toplanmaya başlandı; Pombal ülkenin farklı bölgelerine anket soruları gönderdi.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.3-04",
+       "tur": "eslestir",
+       "yonerge": "1755 Lizbon Depremi'yle ilgili kişileri rolleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Voltaire",
+         "Candide ve Lizbon Felaketi Üzerine Şiir'i yazdı"
+        ],
+        [
+         "Jean-Jacques Rousseau",
+         "Depremi şehirlerin kalabalıklaşmasına bağladı"
+        ],
+        [
+         "Marqués de Pombal",
+         "Yeniden yapılanmayı geniş yetkilerle yönetti"
+        ],
+        [
+         "I. José",
+         "Bakanını acil durum için yetkilendiren kral"
+        ]
+       ],
+       "bilgi": "Aydınlanmacı düşünürler Lizbon Depremi'ni doğanın kör kuvveti olarak yorumlarken halk arasında Tanrı'nın cezası düşüncesi ağır bastı.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.3-05",
+       "tur": "dy",
+       "ifade": "Lizbon Depremi'nden sonra şehir yeniden inşa edilirken barok mimari yaygınlaştırıldı.",
+       "dogru": false,
+       "bilgi": "Lizbon'un yeniden inşasında barok mimariden vazgeçilerek yeni ve bilimsel bir şehircilik anlayışı benimsendi.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.3-06",
+       "tur": "secmeli",
+       "soru": "Lizbon Depremi'nden sonra Bakan Pombal'ın girişimleriyle yönetimi merkezîleştirme çabaları kapsamında 1761'de ne kuruldu?",
+       "secenekler": [
+        "Kraliyet hazinesi",
+        "Merkez bankası",
+        "Ticaret odası",
+        "Gümrük idaresi"
+       ],
+       "dogru": 0,
+       "bilgi": "Deprem sonrası Portekiz soylu sınıfa yeni vergiler getirdi, Kilise gelirlerinin çoğuna el koydu ve inşaat sektörüyle ekonomi canlandı.",
+       "sayfa": 73
+      },
+      {
+       "id": "1.3-07",
+       "tur": "secmeli",
+       "soru": "22 Mayıs 1766'da Kurban Bayramı'nın üçüncü günü meydana gelen İstanbul Depremi sırasında Osmanlı tahtında hangi padişah vardı?",
+       "secenekler": [
+        "I. Mahmud",
+        "I. Abdülhamid",
+        "III. Mustafa",
+        "III. Selim"
+       ],
+       "dogru": 2,
+       "bilgi": "Yaklaşık 7,5 büyüklüğündeki depremde 4-5 bin kişi öldü; Fatih, Bayezid ve Şehzadebaşı camileri ile Kapalıçarşı ağır hasar gördü.",
+       "sayfa": 75
+      },
+      {
+       "id": "1.3-08",
+       "tur": "bosluk",
+       "cumle": "1766 İstanbul Depremi'nde büyük hasar gören Fatih Camisi, mimar ___ tarafından yeniden inşa edildi.",
+       "cevap": "Tahir Ağa",
+       "celdiriciler": [
+        "Halit Efendi",
+        "Mimar Sinan",
+        "Sedefkâr Mehmed Ağa"
+       ],
+       "bilgi": "Deprem bölgesindeki hasar tespit çalışmaları Mimarbaşı Halit Efendi başkanlığındaki teknik bir heyet tarafından yapıldı.",
+       "sayfa": 76
+      },
+      {
+       "id": "1.3-09",
+       "tur": "dy",
+       "ifade": "1766 İstanbul Depremi'nden sonra yıkılan ahşap yapılar yerine taş ve kâgir binalar yapılması için ferman çıkarıldı.",
+       "dogru": true,
+       "bilgi": "Devletin kâgir yapı zorunluluğuna rağmen halkın büyük bölümü barınma ihtiyacını hızlı karşılamak için ahşap evlerde ısrar etti.",
+       "sayfa": 76
+      },
+      {
+       "id": "1.3-10",
+       "tur": "dy",
+       "ifade": "1766 İstanbul Depremi'nden sonra taşradan İstanbul'a yoğun bir göç yaşandı ve şehrin nüfusu arttı.",
+       "dogru": false,
+       "bilgi": "Depremden sonra İstanbul'dan taşraya yoğun göç yaşandı ve şehrin nüfusu azaldı.",
+       "sayfa": 78
+      },
+      {
+       "id": "1.3-11",
+       "tur": "secmeli",
+       "soru": "1766 İstanbul Depremi'nden sonra inşaat malzemesi fiyatlarını ve işçilik ücretlerini dengede tutmak için hangi uygulamaya başvuruldu?",
+       "secenekler": [
+        "İltizam",
+        "Narh",
+        "Avarız",
+        "Müsadere"
+       ],
+       "dogru": 1,
+       "bilgi": "Hasarı gidermek için Divan-ı Hümayun her evden 22 akçe ek vergi alınmasına, II. Bayezid vakfının dört yıllık gelirinin onarıma ayrılmasına karar verdi.",
+       "sayfa": 80
+      }
+     ]
+    },
+    {
+     "no": "1.4",
+     "ad": "Sanayi Devrimi'nin Meydana Getirdiği Siyasi, Sosyal ve Ekonomik Değişim",
+     "kartlar": [
+      {
+       "id": "1.4-01",
+       "tur": "secmeli",
+       "soru": "Sanayi Devrimi ilk olarak hangi ülkede ve hangi dönemde başlamıştır?",
+       "secenekler": [
+        "1820'lerde Fransa'da",
+        "1850'lerde Almanya'da",
+        "1770'lerde İngiltere'de",
+        "1830'larda ABD'de"
+       ],
+       "dogru": 2,
+       "bilgi": "İngiltere'nin hem iç pazarda güçlenmesi hem de sömürge ticaretinden daha fazla yararlanması Sanayi Devrimi'ne öncülük etmesindeki en önemli etkenlerdi.",
+       "sayfa": 90
+      },
+      {
+       "id": "1.4-02",
+       "tur": "bosluk",
+       "cumle": "İngiltere'de küçük çiftçilerin ortak arazilerinin özel mülkiyete devredilip çitlerle çevrilerek büyük çiftliklere dönüştürüldüğü uygulamalara ___ denir.",
+       "cevap": "Çitleme Yasaları",
+       "celdiriciler": [
+        "Tahıl Yasaları",
+        "Fabrika Yasası",
+        "Seyrüsefer Kararnamesi"
+       ],
+       "bilgi": "Çitleme uygulamalarıyla araziler büyük toprak sahiplerinin elinde toplandı, köylüler emeğini kiralayan bir iş gücüne dönüştü.",
+       "sayfa": 92
+      },
+      {
+       "id": "1.4-03",
+       "tur": "dy",
+       "ifade": "XVIII. yüzyılda İngiltere'de yaşanan Tarım Devrimi, tarımda iş gücü ihtiyacını artırarak kentlerden kırsala göçe yol açtı.",
+       "dogru": false,
+       "bilgi": "Tarım Devrimi tarımsal iş gücü ihtiyacını azalttı; kırsal nüfus kentlere göç ederek sanayi üretimine gereken iş gücünü oluşturdu.",
+       "sayfa": 92
+      },
+      {
+       "id": "1.4-04",
+       "tur": "bosluk",
+       "cumle": "Sanayi Devrimi öncesinde tüccarların hanelere ham madde vererek ürün yaptırdığı üretim sistemine ___ denir.",
+       "cevap": "eve iş verme sistemi",
+       "celdiriciler": [
+        "fabrika sistemi",
+        "lonca sistemi",
+        "plantasyon sistemi"
+       ],
+       "bilgi": "Eve iş verme sisteminin yaygınlaşmasıyla kırsal kesimler pazara yönelik üretime daha fazla katıldı.",
+       "sayfa": 93
+      },
+      {
+       "id": "1.4-05",
+       "tur": "eslestir",
+       "yonerge": "Dokumacılıkta üretimi artıran buluşları mucitleriyle eşleştir.",
+       "ciftler": [
+        [
+         "John Kay",
+         "Uçan mekik (1733)"
+        ],
+        [
+         "James Hargreaves",
+         "Spinning Jenny (1765)"
+        ],
+        [
+         "Richard Arkwright",
+         "Su çerçevesi (1768)"
+        ],
+        [
+         "Samuel Crompton",
+         "Spinning mule (1779)"
+        ]
+       ],
+       "bilgi": "Özellikle Arkwright ve Crompton'un icatları fabrikalaşma sürecine geçişin habercisi oldu.",
+       "sayfa": 96
+      },
+      {
+       "id": "1.4-06",
+       "tur": "secmeli",
+       "soru": "Kömür madenlerinde biriken suyu dışarı pompalamak için 1712'de buhar makinesini icat eden kişi kimdir?",
+       "secenekler": [
+        "James Watt",
+        "Thomas Newcomen",
+        "Richard Trevithick",
+        "Henry Cort"
+       ],
+       "dogru": 1,
+       "bilgi": "James Watt 1769'da Newcomen'ın makinesini daha verimli hâle getirdi ve 1775'te Matthew Boulton'la ortaklık kurarak seri üretime başladı.",
+       "sayfa": 97
+      },
+      {
+       "id": "1.4-07",
+       "tur": "dy",
+       "ifade": "İki büyük şehri birbirine bağlayan ilk demir yolu hattı 1830'da Manchester ile Liverpool arasında açıldı.",
+       "dogru": true,
+       "bilgi": "Bu hat için George ve Robert Stephenson'ın tasarladığı Rocket lokomotifi seçildi; ilk buharlı lokomotifi ise 1804'te Richard Trevithick çalıştırdı.",
+       "sayfa": 101
+      },
+      {
+       "id": "1.4-08",
+       "tur": "dy",
+       "ifade": "Sanayi Devrimi'yle birlikte İngiltere'de şehir nüfusunun toplam nüfus içindeki oranı giderek azaldı.",
+       "dogru": false,
+       "bilgi": "İngiltere'de 1750'lerde %15 olan şehir nüfusu oranı 1850'de %50'ye, 1880'de %80'e ulaştı.",
+       "sayfa": 104
+      },
+      {
+       "id": "1.4-09",
+       "tur": "secmeli",
+       "soru": "1811'de tekstil işçilerinin örgütlenmesiyle ortaya çıkan ve makinelere saldırarak iş kayıplarını protesto eden hareket hangisidir?",
+       "secenekler": [
+        "Çartist Hareket",
+        "1848 Devrimleri",
+        "Çalışkanlık Devrimi",
+        "Ludizm"
+       ],
+       "dogru": 3,
+       "bilgi": "Ludizm Sanayi Devrimi'ne karşı ilk büyük tepkiydi; ayaklanmalar Parlamento tarafından ağır şekilde cezalandırıldı.",
+       "sayfa": 108
+      },
+      {
+       "id": "1.4-10",
+       "tur": "dy",
+       "ifade": "1830'ların sonunda doğan Çartist Hareket; erkekler için genel oy hakkı, gizli oy ve yılda bir kez seçim talep ediyordu.",
+       "dogru": true,
+       "bilgi": "Çartistlerin milyonlarca imzayla sundukları talep Parlamentoca reddedilse de işçi hakları ve sendikaların yasallaşması yolunda önemli bir aşama oldu.",
+       "sayfa": 108
+      },
+      {
+       "id": "1.4-11",
+       "tur": "secmeli",
+       "soru": "1867'de yayımlanan Kapital adlı eserinde kapitalizmin emek sömürüsüne dayalı bir sistem olduğunu savunan düşünür kimdir?",
+       "secenekler": [
+        "Karl Marx",
+        "Jean-Jacques Rousseau",
+        "Voltaire",
+        "Montesquieu"
+       ],
+       "dogru": 0,
+       "bilgi": "Karl Marx dönemin ekonomik koşullarından yola çıkarak sosyalizm ve komünizmin temellerini oluşturdu.",
+       "sayfa": 110
+      },
+      {
+       "id": "1.4-12",
+       "tur": "bosluk",
+       "cumle": "Bireysel özgürlükleri ve serbest piyasayı savunan, \"Bırakınız yapsınlar, bırakınız geçsinler.\" sloganıyla bilinen siyasi öğretiye ___ denir.",
+       "cevap": "liberalizm",
+       "celdiriciler": [
+        "sosyalizm",
+        "merkantilizm",
+        "komünizm"
+       ],
+       "bilgi": "İngiltere'de 1846'da Tahıl Yasaları'nın kaldırılması serbest ticaretin önünü açtı; 1850'lerden 1929 Buhranı'na kadar liberal politikalar uygulandı.",
+       "sayfa": 110
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Dönüşüm Sürecinde Osmanlı (1789-1908)",
+   "konular": [
+    {
+     "no": "2.1",
+     "ad": "Fransız İhtilali'nin Devlet ve Toplum Hayatında Meydana Getirdiği Değişim",
+     "kartlar": [
+      {
+       "id": "2.1-01",
+       "tur": "secmeli",
+       "soru": "1543'te yazdığı Gök Cisimlerinin Dönüşü Üzerine adlı eseriyle Güneş merkezli evren teorisini ortaya koyan astronom kimdir?",
+       "secenekler": [
+        "Johannes Kepler",
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Nicolaus Copernicus"
+       ],
+       "dogru": 3,
+       "bilgi": "Copernicus'in teorisi, Aristoteles'in Dünya merkezli (jeosentrik) evren görüşüne karşı ilk büyük meydan okumaydı.",
+       "sayfa": 126
+      },
+      {
+       "id": "2.1-02",
+       "tur": "dy",
+       "ifade": "Johannes Kepler, gezegenlerin Güneş'in etrafında dairesel değil eliptik yörüngelerde hareket ettiğini ortaya koydu.",
+       "dogru": true,
+       "bilgi": "Kepler'in yasaları, gezegenlerin Güneş'in etrafında döndüğünü matematiksel olarak kanıtlayarak Copernicus'i doğruladı.",
+       "sayfa": 127
+      },
+      {
+       "id": "2.1-03",
+       "tur": "eslestir",
+       "yonerge": "Bilim devriminin önemli isimlerini katkılarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Galileo Galilei",
+         "Yıldız Habercisi"
+        ],
+        [
+         "Francis Bacon",
+         "Novum Organum"
+        ],
+        [
+         "René Descartes",
+         "Yöntem Üzerine Söylem"
+        ],
+        [
+         "Isaac Newton",
+         "Yer çekimi yasası"
+        ]
+       ],
+       "bilgi": "Copernicus, Kepler, Galilei ve Newton'ın başlattığı değişim, gözlem-hipotez-deney-sonuç adımlarından oluşan bilimsel yöntemin önünü açtı.",
+       "sayfa": 129
+      },
+      {
+       "id": "2.1-04",
+       "tur": "secmeli",
+       "soru": "Leviathan adlı eserinde ideal yönetimin, mutlak itaat karşılığında toplumsal düzen vadeden monarşi olduğunu savunan düşünür kimdir?",
+       "secenekler": [
+        "John Locke",
+        "Thomas Hobbes",
+        "Jean Jacques Rousseau",
+        "Cesare Beccaria"
+       ],
+       "dogru": 1,
+       "bilgi": "İngiliz İç Savaşı'na tanıklık eden Hobbes, insanların doğuştan kötü ve bencil olduğunu düşünüyordu.",
+       "sayfa": 130
+      },
+      {
+       "id": "2.1-05",
+       "tur": "bosluk",
+       "cumle": "John Locke'a göre hükûmetlerin görevi insanların üç doğal hakkı olan yaşam, özgürlük ve ___ hakkını korumaktır.",
+       "cevap": "mülkiyet",
+       "celdiriciler": [
+        "eşitlik",
+        "güvenlik",
+        "seyahat"
+       ],
+       "bilgi": "Locke'un yönetimde meşruiyetin halkın rızasına dayandığı fikri modern demokrasinin temelini oluşturdu.",
+       "sayfa": 130
+      },
+      {
+       "id": "2.1-06",
+       "tur": "eslestir",
+       "yonerge": "Aydınlanma düşünürlerini eserleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Montesquieu",
+         "Kanunların Ruhu"
+        ],
+        [
+         "Jean Jacques Rousseau",
+         "Toplum Sözleşmesi"
+        ],
+        [
+         "Cesare Beccaria",
+         "Suçlar ve Cezalar Hakkında"
+        ],
+        [
+         "John Locke",
+         "İnsan Anlayışı Üzerine Bir Deneme"
+        ]
+       ],
+       "bilgi": "Montesquieu güçler ayrılığını, Rousseau doğrudan demokrasiyi, Beccaria ise işkence ve idam cezasının kaldırılmasını savundu.",
+       "sayfa": 131
+      },
+      {
+       "id": "2.1-07",
+       "tur": "secmeli",
+       "soru": "John Locke'un fikirlerinden etkilenerek 1776 Amerikan Bağımsızlık Bildirgesi'nin taslağını hazırlayan kişi kimdir?",
+       "secenekler": [
+        "George Washington",
+        "Benjamin Franklin",
+        "Thomas Jefferson",
+        "Thomas Paine"
+       ],
+       "dogru": 2,
+       "bilgi": "Elli altı temsilcinin imzaladığı bildirgeyle 4 Temmuz 1776'da kolonilerin bağımsızlığı ilan edildi; İngiltere bunu 1783 Paris Antlaşması'yla tanıdı.",
+       "sayfa": 137
+      },
+      {
+       "id": "2.1-08",
+       "tur": "dy",
+       "ifade": "1773 Boston Çay Partisi, gazete kâğıtlarına ve hukuki belgelere vergi getiren Damga Yasası'nı protesto etmek için yapıldı.",
+       "dogru": false,
+       "bilgi": "Boston Çay Partisi, çay ihracı tekelini Doğu Hindistan Şirketine veren Çay Yasası'na tepki olarak yapıldı; limana 342 kasa çay döküldü.",
+       "sayfa": 136
+      },
+      {
+       "id": "2.1-09",
+       "tur": "secmeli",
+       "soru": "Fransız İhtilali öncesinde nüfusun yaklaşık %97'sini oluşturan; burjuvaların, köylülerin ve işçilerin yer aldığı sınıf hangisidir?",
+       "secenekler": [
+        "Üçüncü sınıf",
+        "Birinci sınıf",
+        "İkinci sınıf",
+        "Ruhban sınıfı"
+       ],
+       "dogru": 0,
+       "bilgi": "Ruhbanlar birinci, nüfusun %2'sini oluşturan soylular ikinci sınıftı; soylular toprakların %20'sine sahip olmalarına rağmen neredeyse hiç vergi ödemiyordu.",
+       "sayfa": 140
+      },
+      {
+       "id": "2.1-10",
+       "tur": "bosluk",
+       "cumle": "Fransa'da üç sınıfın temsilcilerinden oluşan ve 1614'ten beri toplanmayan Genel Meclise ___ denir.",
+       "cevap": "États-Généraux",
+       "celdiriciler": [
+        "Konvansiyon Meclisi",
+        "Ulusal Meclis",
+        "Jakobenler Kulübü"
+       ],
+       "bilgi": "États-Généraux 5 Mayıs 1789'da Versailles'da toplandı ancak sınıfların oy hakkı konusunda uzlaşma sağlanamadı.",
+       "sayfa": 142
+      },
+      {
+       "id": "2.1-11",
+       "tur": "secmeli",
+       "soru": "Paris halkının kraliyet otoritesini temsil eden Bastille Hapishanesine baskın yaparak burayı ele geçirdiği tarih hangisidir?",
+       "secenekler": [
+        "5 Mayıs 1789",
+        "4 Ağustos 1789",
+        "14 Temmuz 1789",
+        "21 Ocak 1793"
+       ],
+       "dogru": 2,
+       "bilgi": "Bastille'in düşmesi tiranlığın sona erebileceğine dair umutları artırdı; Ağustos 1789'da 17 maddelik İnsan ve Yurttaş Hakları Bildirgesi kabul edildi.",
+       "sayfa": 143
+      },
+      {
+       "id": "2.1-12",
+       "tur": "dy",
+       "ifade": "1791 Fransız Anayasası, kadınlara aktif vatandaşlık statüsüyle oy kullanma hakkı tanıdı.",
+       "dogru": false,
+       "bilgi": "1791 Anayasası yalnızca yirmi beş yaş üstü vergi mükellefi erkeklere aktif vatandaşlıkla oy hakkı verdi; kadınlar pasif vatandaş sayıldı.",
+       "sayfa": 144
+      },
+      {
+       "id": "2.1-13",
+       "tur": "bosluk",
+       "cumle": "1804'te yürürlüğe giren ve Medeni Kanun olarak da bilinen, mülkiyet ve sözleşme gibi medeni hakları güvenceye alan kanun ___ Kanunu'dur.",
+       "cevap": "Napoléon",
+       "celdiriciler": [
+        "Robespierre",
+        "Metternich",
+        "Louis Philippe"
+       ],
+       "bilgi": "Napoléon Kanunu bugün de Fransız medeni hukukunun temelidir ve Avrupa, Latin Amerika ve Afrika'daki pek çok ülkeye örnek olmuştur.",
+       "sayfa": 147
+      },
+      {
+       "id": "2.1-14",
+       "tur": "secmeli",
+       "soru": "1815 Viyana Kongresi'nden sonra liberal görüşlere karşı monarşileri korumak amacıyla Avusturya, Prusya ve Rusya'nın oluşturduğu birlik hangisidir?",
+       "secenekler": [
+        "Koalisyon Birliği",
+        "Kutsal İttifak",
+        "Üçlü İtilaf",
+        "Alman Konfederasyonu"
+       ],
+       "dogru": 1,
+       "bilgi": "Avusturya Başbakanı Metternich'in başkanlığında toplanan Viyana Kongresi'nin ardından kurulan Kutsal İttifak, 1830 ve 1848 ihtilallerini önleyemedi.",
+       "sayfa": 148
+      },
+      {
+       "id": "2.1-15",
+       "tur": "dy",
+       "ifade": "1848'de Fransa'da Kral Louis Philippe tahttan indirilerek yeniden cumhuriyet yönetimine geçildi.",
+       "dogru": true,
+       "bilgi": "1830 İhtilali'nde X. Charles'ın yerine getirilen Louis Philippe, özgürlükçü politikalardan uzaklaşınca 1848'de işçi ve halk ayaklanmasıyla devrildi.",
+       "sayfa": 148
+      }
+     ]
+    },
+    {
+     "no": "2.2",
+     "ad": "1789-1908 Yılları Arasında Osmanlı Devleti'nde Meydana Gelen Siyasi, Askerî ve İdari Gelişmeler",
+     "kartlar": [
+      {
+       "id": "2.2-01",
+       "tur": "secmeli",
+       "soru": "Avrupa devletlerinin Osmanlı topraklarını paylaşma rekabetini ifade eden Şark Meselesi terimini uluslararası bir toplantıda ilk kez kim kullandı?",
+       "secenekler": [
+        "Metternich",
+        "Napoléon Bonaparte",
+        "Rus Çarı I. Aleksandr",
+        "Rus Çarı I. Nikola"
+       ],
+       "dogru": 2,
+       "bilgi": "Şark Meselesi terimi ilk kez 1815 Viyana Kongresi'nde kullanıldı; Osmanlı Devleti iç işlerine karışılmasını istemediği için kongreye katılmadı.",
+       "sayfa": 155
+      },
+      {
+       "id": "2.2-02",
+       "tur": "eslestir",
+       "yonerge": "XVIII-XIX. yüzyılda Osmanlı'yı etkileyen kavram ve projeleri açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Grek Projesi",
+         "İstanbul başkentli Doğu Roma'yı yeniden kurma planı"
+        ],
+        [
+         "Panslavizm",
+         "Slav halklarını birleştirmeyi amaçlayan akım"
+        ],
+        [
+         "Megali İdea",
+         "İstanbul başkentli Büyük Yunanistan hedefi"
+        ],
+        [
+         "Filhelenizm",
+         "Antik Yunan hayranlığına dayanan düşünce"
+        ]
+       ],
+       "bilgi": "Grek ve Dakya projeleri 1781 Avusturya-Rus ittifakıyla ortaya kondu; Megali İdea'nın temelleri ise Filiki Eterya tarafından atıldı.",
+       "sayfa": 158
+      },
+      {
+       "id": "2.2-03",
+       "tur": "bosluk",
+       "cumle": "Sultan III. Selim'in sivil ve askerî kurumları Avrupa örneğine göre yeniden yapılandırmak için başlattığı harekete ___ denir.",
+       "cevap": "Nizam-ı Cedit",
+       "celdiriciler": [
+        "Tanzimat",
+        "Vaka-i Hayriye",
+        "Asakir-i Mansure"
+       ],
+       "bilgi": "III. Selim Döneminde Nizam-ı Cedit ordusu kuruldu ve Londra, Paris, Berlin ile Viyana'da daimî elçilikler açıldı.",
+       "sayfa": 154
+      },
+      {
+       "id": "2.2-04",
+       "tur": "secmeli",
+       "soru": "XIX. yüzyılda Balkanlarda Osmanlı Devleti'ne karşı ilk isyanı başlatan topluluk hangisidir?",
+       "secenekler": [
+        "Rumlar",
+        "Bulgarlar",
+        "Karadağlılar",
+        "Sırplar"
+       ],
+       "dogru": 3,
+       "bilgi": "1804'te Kara Yorgi liderliğinde başlayan Sırp isyanları sonucunda Sırplar 1829 Edirne Antlaşması'yla özerklik, 1878 Berlin Antlaşması'yla bağımsızlık kazandı.",
+       "sayfa": 159
+      },
+      {
+       "id": "2.2-05",
+       "tur": "secmeli",
+       "soru": "Sultan II. Mahmud'un 1826'da yeniçeri isyanını bastırarak Yeniçeri Ocağı'nı kaldırdığı olaya ne ad verilir?",
+       "secenekler": [
+        "Kuleli Vakası",
+        "Vaka-i Hayriye",
+        "Patrona Halil İsyanı",
+        "Cidde Olayları"
+       ],
+       "dogru": 1,
+       "bilgi": "Yeniçerilerin Eşkinci Ocağı'na tepkisiyle başlayan olayın ardından Asakir-i Mansure-i Muhammediyye adlı yeni ordu kuruldu.",
+       "sayfa": 163
+      },
+      {
+       "id": "2.2-06",
+       "tur": "secmeli",
+       "soru": "1828-1829 Osmanlı-Rus Savaşı'nı sona erdiren Edirne Antlaşması'yla Osmanlı Devleti neyi kabul etmek zorunda kalmıştır?",
+       "secenekler": [
+        "Yunanistan'ın bağımsızlığını",
+        "Kıbrıs'ın İngiltere'ye bırakılmasını",
+        "Mısır valiliğinin babadan oğula geçmesini",
+        "Bosna-Hersek'in Avusturya'ya verilmesini"
+       ],
+       "dogru": 0,
+       "bilgi": "Edirne Antlaşması'yla ayrıca Sırplara özerklik verildi ve Eflak-Boğdan'a tanınan ayrıcalıklar artırıldı.",
+       "sayfa": 164
+      },
+      {
+       "id": "2.2-07",
+       "tur": "secmeli",
+       "soru": "Kavalalı Mehmed Ali Paşa isyanı sırasında 1833'te Rus Çarlığı ile imzalanan ve Rusya'ya Boğazlar üzerinde büyük bir imtiyaz sağlayan antlaşma hangisidir?",
+       "secenekler": [
+        "Kütahya Antlaşması",
+        "Balta Limanı Antlaşması",
+        "Londra Antlaşması",
+        "Hünkâr İskelesi Antlaşması"
+       ],
+       "dogru": 3,
+       "bilgi": "Bu antlaşmaya göre Rusya ile bir Avrupa devleti savaşırsa Osmanlı, Rus donanması dışındaki yabancı savaş gemilerini Boğazlardan geçirmeyecekti.",
+       "sayfa": 167
+      },
+      {
+       "id": "2.2-08",
+       "tur": "dy",
+       "ifade": "1841 Londra Boğazlar Sözleşmesi'ne göre barış zamanında hiçbir yabancı savaş gemisi İstanbul ve Çanakkale Boğazlarından geçemeyecekti.",
+       "dogru": true,
+       "bilgi": "Sözleşmeyle Rusya'nın Boğazlar üzerindeki etkisi sona erdi ancak Boğazlara uluslararası statü verildiği için Osmanlı'nın egemenlik hakkı sınırlandı.",
+       "sayfa": 169
+      },
+      {
+       "id": "2.2-09",
+       "tur": "secmeli",
+       "soru": "3 Kasım 1839'da Tanzimat Fermanı'nı Gülhane Meydanı'nda okuyan Hariciye Nazırı kimdir?",
+       "secenekler": [
+        "Mehmed Emin Âli Paşa",
+        "Mustafa Reşid Paşa",
+        "Mithat Paşa",
+        "Hüseyin Avni Paşa"
+       ],
+       "dogru": 1,
+       "bilgi": "Balta Limanı Ticaret Antlaşması'nın da mimarı olan Mustafa Reşid Paşa, 1845-1857 arasında aralıklarla altı defa sadrazamlık yaptı.",
+       "sayfa": 170
+      },
+      {
+       "id": "2.2-10",
+       "tur": "dy",
+       "ifade": "Tanzimat Fermanı'na göre padişah, çıkarılacak kanun ve nizamnamelerin üstünde kabul edildi.",
+       "dogru": false,
+       "bilgi": "Tanzimat Fermanı'na göre başta padişah olmak üzere hiç kimse çıkarılacak kanun ve nizamnamelere aykırı davranamayacaktı.",
+       "sayfa": 170
+      },
+      {
+       "id": "2.2-11",
+       "tur": "secmeli",
+       "soru": "Kırım Harbi'ni sona erdiren 30 Mart 1856 Paris Antlaşması'nın hükümlerinden biri aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Kars, Ardahan ve Batum'un Rusya'ya bırakılması",
+        "Karadeniz'in savaş gemilerine kapatılması",
+        "Kıbrıs'ın idaresinin İngiltere'ye verilmesi",
+        "Yunanistan'ın bağımsızlığının tanınması"
+       ],
+       "dogru": 1,
+       "bilgi": "Paris Antlaşması'yla Osmanlı Devleti Avrupa devleti kabul edildi ve toprak bütünlüğü imzacı devletlerin garantisine alındı.",
+       "sayfa": 176
+      },
+      {
+       "id": "2.2-12",
+       "tur": "dy",
+       "ifade": "Osmanlı Devleti ilk kez Kırım Harbi sırasında, 1854'te dış borç aldı.",
+       "dogru": true,
+       "bilgi": "1875'e gelindiğinde devlet gelirlerinin üçte ikisi yalnızca borç ödemelerine gidiyor, faizler bile ödenemez hâle gelmişti.",
+       "sayfa": 190
+      },
+      {
+       "id": "2.2-13",
+       "tur": "bosluk",
+       "cumle": "1865'te muhalefet hareketi olarak ortaya çıkan ve padişahın yetkilerinin sınırlandırılıp meşruti yönetime geçilmesini savunan aydınlara ___ denir.",
+       "cevap": "Genç Osmanlılar",
+       "celdiriciler": [
+        "İttihatçılar",
+        "Filhelenler",
+        "Siyon Âşıkları"
+       ],
+       "bilgi": "Namık Kemal, Ziya Paşa, Ali Suavi ve Mustafa Fazıl Paşa'nın öncülük ettiği hareket görüşlerini Muhbir ve Hürriyet gibi gazetelerle yaydı.",
+       "sayfa": 181
+      },
+      {
+       "id": "2.2-14",
+       "tur": "secmeli",
+       "soru": "Osmanlı Devleti'nin ilk anayasası Kanun-ı Esasi, 23 Aralık 1876'da hangi uluslararası toplantı sürerken ilan edildi?",
+       "secenekler": [
+        "Berlin Kongresi",
+        "Paris Kongresi",
+        "Tersane Konferansı",
+        "Londra Konferansı"
+       ],
+       "dogru": 2,
+       "bilgi": "Mithat Paşa başkanlığındaki komisyonun Belçika, Prusya ve Polonya anayasalarını örnek alarak hazırladığı Kanun-ı Esasi'yle I. Meşrutiyet başladı.",
+       "sayfa": 183
+      },
+      {
+       "id": "2.2-15",
+       "tur": "dy",
+       "ifade": "Kanun-ı Esasi'ye göre kurulan Meclis-i Umumi, yalnızca halkın seçtiği tek bir meclisten oluşuyordu.",
+       "dogru": false,
+       "bilgi": "Meclis-i Umumi, Âyan ve Mebusan adlı iki meclisten oluşuyordu; II. Abdülhamid 93 Harbi sırasında Meclisi tatil etti.",
+       "sayfa": 183
+      },
+      {
+       "id": "2.2-16",
+       "tur": "eslestir",
+       "yonerge": "93 Harbi'nde öne çıkan kişileri mücadele ettikleri yerlerle eşleştir.",
+       "ciftler": [
+        [
+         "Gazi Osman Paşa",
+         "Plevne savunması"
+        ],
+        [
+         "Gazi Ahmed Muhtar Paşa",
+         "Gedikler ve Yahni Dağı muharebeleri"
+        ],
+        [
+         "Nene Hatun",
+         "Erzurum Aziziye tabyası"
+        ]
+       ],
+       "bilgi": "Rumi takvime göre 1293'te yapıldığı için 93 Harbi denilen 1877-1878 Osmanlı-Rus Savaşı Tuna ve Kafkasya cephelerinde geçti.",
+       "sayfa": 186
+      },
+      {
+       "id": "2.2-17",
+       "tur": "secmeli",
+       "soru": "1878 Berlin Kongresi öncesinde Osmanlı Devleti, Avrupalı devletlerin desteğini almak için hangi adanın idaresini İngiltere'ye bıraktı?",
+       "secenekler": [
+        "Girit",
+        "Rodos",
+        "Kıbrıs",
+        "Midilli"
+       ],
+       "dogru": 2,
+       "bilgi": "Bismarck başkanlığında toplanan kongrede imzalanan Berlin Antlaşması'yla Kars, Ardahan ve Batum Rusya'ya bırakıldı, Bosna-Hersek'in Avusturya-Macaristan'ca işgali kabul edildi.",
+       "sayfa": 187
+      },
+      {
+       "id": "2.2-18",
+       "tur": "secmeli",
+       "soru": "Osmanlı dış borçlarını yeniden düzenleyen ve Düyûn-ı Umûmiyye İdaresinin esaslarını ilan eden 20 Aralık 1881 tarihli belge hangisidir?",
+       "secenekler": [
+        "Muharrem Kararnamesi",
+        "Islahat Fermanı",
+        "Arazi Kanunnamesi",
+        "Gülhane Hatt-ı Hümâyûnu"
+       ],
+       "dogru": 0,
+       "bilgi": "Düyûn-ı Umûmiyye vergi gelirlerinin büyük bölümünü topladı; Lozan Antlaşması'yla hukuken, 1928 Paris Sözleşmesi'yle fiilen sona erdi.",
+       "sayfa": 190
+      },
+      {
+       "id": "2.2-19",
+       "tur": "secmeli",
+       "soru": "1897'de Basel'de Birinci Siyonist Kongresi'ni düzenleyen ve siyasi siyonizmin kurucusu kabul edilen kişi kimdir?",
+       "secenekler": [
+        "Laurance Oliphant",
+        "Edmond Rothschild",
+        "David Wolffsohn",
+        "Theodor Herzl"
+       ],
+       "dogru": 3,
+       "bilgi": "Sultan II. Abdülhamid, Yahudilerin Filistin'e yerleştirilmesi karşılığında Herzl'in dış borçları ödeme teklifini reddetti.",
+       "sayfa": 194
+      }
+     ]
+    },
+    {
+     "no": "2.3",
+     "ad": "1789-1908 Yılları Arasında Osmanlı Devleti'nde Bilim, Sanat ve Teknoloji Alanlarında Meydana Gelen Gelişmeler",
+     "kartlar": [
+      {
+       "id": "2.3-01",
+       "tur": "secmeli",
+       "soru": "Sultan III. Selim'in 1795'te Nizam-ı Cedit subaylarına topçuluk, istihkâm ve haritacılık eğitimi vermek için açtığı okul hangisidir?",
+       "secenekler": [
+        "Mühendishane-i Bahrî-i Hümayun",
+        "Mühendishane-i Berrî-i Hümayun",
+        "Mekteb-i Sanayi-i Nefîse",
+        "Tersane Tıp Mektebi"
+       ],
+       "dogru": 1,
+       "bilgi": "Kara Harp Okulu olarak da bilinen bu okulda Avrupa'dan getirtilen kitaplar okutuldu ve öğrencilerin Batı dillerini öğrenmesi zorunluydu.",
+       "sayfa": 203
+      },
+      {
+       "id": "2.3-02",
+       "tur": "bosluk",
+       "cumle": "1770 Çeşme Baskını'ndan sonra bahriye mühendisi yetiştirmek için açılan okula 1775'te ___ adı verildi.",
+       "cevap": "Mühendishane-i Bahrî-i Hümayun",
+       "celdiriciler": [
+        "Mühendishane-i Berrî-i Hümayun",
+        "Humbarahane",
+        "Mekteb-i Harbiye"
+       ],
+       "bilgi": "Kaptanıderya Gazi Hasan Paşa'nın talebi ve Baron de Tott'un yardımıyla 1773'te açılan okul, I. Abdülhamid Döneminde bu adı aldı.",
+       "sayfa": 203
+      },
+      {
+       "id": "2.3-03",
+       "tur": "dy",
+       "ifade": "Hamidiye Etfal Hastahanesi, Osmanlı Devleti'ndeki ilk çocuk hastanesidir.",
+       "dogru": true,
+       "bilgi": "Hastaneyi Sultan II. Abdülhamid, sekiz aylıkken difteriden ölen kızı Hatice Sultan'ın anısına yaptırdı.",
+       "sayfa": 205
+      },
+      {
+       "id": "2.3-04",
+       "tur": "secmeli",
+       "soru": "Modern ilimleri yaygınlaştırmak amacıyla 1851'de kurulan ve ilk Türk akademisi kabul edilen kurum hangisidir?",
+       "secenekler": [
+        "Darülfünun",
+        "Rasathane-i Âmire",
+        "Encümen-i Daniş",
+        "Müze-i Hümayun"
+       ],
+       "dogru": 2,
+       "bilgi": "Programını Cevdet Paşa'nın hazırladığı Encümen-i Daniş ders kitapları hazırlayarak eğitime ve bilimsel literatüre katkı sağladı.",
+       "sayfa": 206
+      },
+      {
+       "id": "2.3-05",
+       "tur": "bosluk",
+       "cumle": "Tanzimat Döneminde modern bilimleri yaygınlaştırmak için kurulan ve \"fenler evi\" anlamına gelen ilk sivil üniversiteye ___ denir.",
+       "cevap": "Darülfünun",
+       "celdiriciler": [
+        "Encümen-i Daniş",
+        "Mekteb-i Sultani",
+        "Mühendishane"
+       ],
+       "bilgi": "Açılış dersi 1863'te Derviş Paşa'nın fizik deneyleriyle yapılan Darülfünun, 1933'te İstanbul Üniversitesi adını aldı.",
+       "sayfa": 207
+      },
+      {
+       "id": "2.3-06",
+       "tur": "dy",
+       "ifade": "1868'de açılan Rasathane-i Âmire, ilk yıllarında ağırlıklı olarak gök cisimlerinin hareketlerini gözlemledi.",
+       "dogru": false,
+       "bilgi": "Osmanlı'nın ilk resmî rasathanesi Rasathane-i Âmire ilk yıllarında meteorolojik değişimler ve saat ayarlarıyla ilgili çalışmalar yaptı.",
+       "sayfa": 209
+      },
+      {
+       "id": "2.3-07",
+       "tur": "secmeli",
+       "soru": "Osmanlı topraklarındaki ilk demir yolu hattı 1851'de hangi iki şehir arasında açılmıştır?",
+       "secenekler": [
+        "İzmir-Aydın",
+        "İstanbul-Edirne",
+        "Kahire-İskenderiye",
+        "Haydarpaşa-Ankara"
+       ],
+       "dogru": 2,
+       "bilgi": "İlk hat Mısır'da İngilizlerin girişimiyle açıldı; Anadolu'daki ilk demir yolu da yine İngilizlerce İzmir ile Aydın arasında yapıldı.",
+       "sayfa": 213
+      },
+      {
+       "id": "2.3-08",
+       "tur": "dy",
+       "ifade": "1908'de tamamlanan Hicaz demir yolu, Alman sermayesinin katkısıyla inşa edilmiştir.",
+       "dogru": false,
+       "bilgi": "1900-1908 arasında yapılan Hicaz demir yolu tamamen millî sermayeyle inşa edildi; Alman sermayesi İstanbul-Bağdat demir yolunda kullanıldı.",
+       "sayfa": 213
+      },
+      {
+       "id": "2.3-09",
+       "tur": "secmeli",
+       "soru": "Osmanlı Devleti'ndeki ilk telgraf hattı hangi savaş sırasında kurulmuştur?",
+       "secenekler": [
+        "Kırım Savaşı",
+        "93 Harbi",
+        "1828-1829 Osmanlı-Rus Savaşı",
+        "Nizip Savaşı"
+       ],
+       "dogru": 0,
+       "bilgi": "İlk hat Fransız ve İngiliz uzmanlarca İstanbul-Edirne ve Edirne-Şumnu arasında kuruldu; 1855'te Osmanlı Telgraf İdaresi oluşturuldu.",
+       "sayfa": 216
+      },
+      {
+       "id": "2.3-10",
+       "tur": "dy",
+       "ifade": "1853-1856 Kırım Savaşı'nda çekilen fotoğraflar, dünyada savaş fotoğrafçılığının ilk örnekleri kabul edilir.",
+       "dogru": true,
+       "bilgi": "İlk kalıcı fotoğraf 1839'da elde edildi; fotoğraf teknolojisi XIX. yüzyıl ortalarında Osmanlı sarayında da geniş kabul gördü.",
+       "sayfa": 217
+      },
+      {
+       "id": "2.3-11",
+       "tur": "bosluk",
+       "cumle": "II. Abdülhamid Döneminde resim, heykel, mimarlık ve hakkâklık eğitimi vermek için ___ kuruldu.",
+       "cevap": "Sanayi-i Nefîse Mektebi",
+       "celdiriciler": [
+        "Darülfünun",
+        "Encümen-i Daniş",
+        "Muzıka-yı Hümayun"
+       ],
+       "bilgi": "Mekteb-i Sanayi-i Nefîse-i Şahane adıyla açılan okulun kurucu müdürü Osman Hamdi Bey'di.",
+       "sayfa": 218
+      },
+      {
+       "id": "2.3-12",
+       "tur": "eslestir",
+       "yonerge": "XIX. yüzyıl Osmanlı sanat hayatındaki kişileri katkılarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Osman Hamdi Bey",
+         "Müze-i Hümayun'da modern müzeciliği yerleştirdi"
+        ],
+        [
+         "Sultan Abdülaziz",
+         "Avrupa'yı ziyaret eden ilk padişah oldu"
+        ],
+        [
+         "Sultan III. Selim",
+         "İlhamî mahlasıyla şiir yazıp besteledi"
+        ],
+        [
+         "Sultan II. Mahmud",
+         "Mehter yerine Muzıka-yı Hümayun'u kurdu"
+        ]
+       ],
+       "bilgi": "Abdülaziz Avrupa başkentlerindeki heykellerden etkilenerek kendi heykelini yaptırdı; II. Mahmud Döneminde devlet dairelerine ilk kez padişah resimleri asıldı.",
+       "sayfa": 218
+      },
+      {
+       "id": "2.3-13",
+       "tur": "secmeli",
+       "soru": "Sultan Abdülmecid Döneminde inşa edilen ve önündeki bahçe alanı deniz doldurularak elde edildiği için bu adla anılan saray hangisidir?",
+       "secenekler": [
+        "Yıldız Sarayı",
+        "Beylerbeyi Sarayı",
+        "Çırağan Sarayı",
+        "Dolmabahçe Sarayı"
+       ],
+       "dogru": 3,
+       "bilgi": "Rönesans, barok ve ampir üslupların bir arada kullanıldığı Dolmabahçe Sarayı, XIX. yüzyıl mimarisindeki Batılılaşmanın önemli göstergelerindendir.",
+       "sayfa": 220
+      }
+     ]
+    },
+    {
+     "no": "2.4",
+     "ad": "Osmanlı Devleti'nde Sanayileşme Çabaları",
+     "kartlar": [
+      {
+       "id": "2.4-01",
+       "tur": "secmeli",
+       "soru": "Osmanlı Devleti tarafından kurulan ilk modern fabrika kabul edilen ve askerî üniforma üreten tesis hangisidir?",
+       "secenekler": [
+        "Hamidiye Kâğıt Fabrikası",
+        "İzmit Çuha Fabrikası",
+        "Feshane",
+        "Zeytinburnu Fişek Fabrikası"
+       ],
+       "dogru": 2,
+       "bilgi": "Buhar gücüyle çalışan Feshane, kalite ve kapasite bakımından Avrupa'daki benzerleriyle yarışabilecek nitelikteydi.",
+       "sayfa": 227
+      },
+      {
+       "id": "2.4-02",
+       "tur": "eslestir",
+       "yonerge": "Osmanlı ekonomisiyle ilgili kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Fiskalizm",
+         "Hazine gelirlerini en yüksek düzeye çıkarma anlayışı"
+        ],
+        [
+         "Provizyonizm",
+         "Temel ihtiyaçların ucuz ve düzenli sağlanması; iaşecilik"
+        ],
+        [
+         "Tağşiş",
+         "Paradaki altın ve gümüş oranını düşürme"
+        ],
+        [
+         "Geçimlik üretim",
+         "Kâr amacı gütmeden ihtiyaç için yapılan üretim"
+        ]
+       ],
+       "bilgi": "Osmanlı Devleti 1838 Baltalimanı Ticaret Antlaşması'na kadar fiskalist ve provizyonist iktisadi politikalar izledi.",
+       "sayfa": 235
+      },
+      {
+       "id": "2.4-03",
+       "tur": "secmeli",
+       "soru": "1838 Baltalimanı Ticaret Antlaşması'yla kaldırılan, bir malın dış ticaretinin devletin belirlediği tek bir kişinin tekeline bırakıldığı sistem hangisidir?",
+       "secenekler": [
+        "Yed-i vahit",
+        "İltizam",
+        "Tımar",
+        "Kapitülasyon"
+       ],
+       "dogru": 0,
+       "bilgi": "Baltalimanı'yla ihracat vergisi %12'ye çıkarılıp ithalat vergisi %5 olarak belirlendi; Osmanlı zamanla gümrük oranlarını tek başına belirleyemez hâle geldi.",
+       "sayfa": 237
+      },
+      {
+       "id": "2.4-04",
+       "tur": "dy",
+       "ifade": "Baltalimanı Ticaret Antlaşması'ndan sonra yerli tüccarlar iç gümrük vergisinden muaf tutuldu, yabancı tüccarlar ise bu vergiyi ödemeye devam etti.",
+       "dogru": false,
+       "bilgi": "Antlaşmadan sonra yerli tüccarlar iç gümrük vergisini ödemeye devam ederken yabancı tüccarlar bu yükümlülükten muaf tutuldu.",
+       "sayfa": 238
+      },
+      {
+       "id": "2.4-05",
+       "tur": "dy",
+       "ifade": "Osmanlı Devleti'nde 1831'de yapılan ilk nüfus sayımında yalnızca erkekler sayıldı.",
+       "dogru": true,
+       "bilgi": "Vergi mükelleflerini ve askerlik yapacak nüfusu belirlemek için yapılan sayımda 3.722.738 erkek kaydedildi.",
+       "sayfa": 232
+      },
+      {
+       "id": "2.4-06",
+       "tur": "bosluk",
+       "cumle": "1850'de Cevdet Paşa ile Fuat Paşa'nın öncülüğünde Boğaziçi'nde vapur seferleri yapmak için Türkiye'nin ilk anonim şirketi olan ___ kuruldu.",
+       "cevap": "Şirket-i Hayriye",
+       "celdiriciler": [
+        "Dersaadet Bankası",
+        "Bank-ı Osmanî-i Şahane",
+        "Düyûn-ı Umûmiyye"
+       ],
+       "bilgi": "Şirket-i Hayriye halka anonim şirket örneği göstermek amacıyla kuruldu; 1849-1910 arasında 95 şirket faaliyet gösterdi.",
+       "sayfa": 247
+      },
+      {
+       "id": "2.4-07",
+       "tur": "secmeli",
+       "soru": "1840'ta faiz getirili borç senedi olarak basılan ve ilk Osmanlı kâğıt parası olarak bilinen uygulama hangisidir?",
+       "secenekler": [
+        "Esham",
+        "Kaime",
+        "Tahvil",
+        "Akçe"
+       ],
+       "dogru": 1,
+       "bilgi": "Kaime hızla değer kaybedip taklit edilebildiği için uygulamasına son verildi; bu durum maliyenin istikrar kazanmasını zorlaştırdı.",
+       "sayfa": 247
+      },
+      {
+       "id": "2.4-08",
+       "tur": "secmeli",
+       "soru": "1849'da Galata bankerleri Baltazzi ve Alléon ile devletin ortaklığıyla kurulan ve 1852'de faaliyetine son veren banka hangisidir?",
+       "secenekler": [
+        "Osmanlı Bankası",
+        "Ziraat Bankası",
+        "Emniyet Sandığı",
+        "Dersaadet Bankası"
+       ],
+       "dogru": 3,
+       "bilgi": "Dersaadet Bankası'nın yerine 1856'da İngiliz sermayesiyle Osmanlı Bankası kuruldu ve zamanla resmî devlet bankası hâline geldi.",
+       "sayfa": 247
+      },
+      {
+       "id": "2.4-09",
+       "tur": "secmeli",
+       "soru": "1864'te kurulan, esnaf ve zanaatkârları şirketleştirmeyi hedefleyen ve bugünkü ticaret ve sanayi odalarının temeli sayılan kurum hangisidir?",
+       "secenekler": [
+        "Meclis-i Vâlâ",
+        "Islah-ı Sanayi Komisyonu",
+        "Düyûn-ı Umûmiyye İdaresi",
+        "Encümen-i Daniş"
+       ],
+       "dogru": 1,
+       "bilgi": "Komisyonun çalışmalarıyla simkeş, debbağ, saraç, dökümcü ve demirci loncaları şirket kurdu ancak sermaye ve deneyim eksikliğiyle bu birlikler uzun ömürlü olmadı.",
+       "sayfa": 247
+      },
+      {
+       "id": "2.4-10",
+       "tur": "dy",
+       "ifade": "Osmanlı Devleti'nin katıldığı ilk uluslararası fuar 1867 Paris Fuarı'dır.",
+       "dogru": false,
+       "bilgi": "Osmanlı'nın katıldığı ilk uluslararası fuar 1851 Londra Fuarı'ydı; Sultan Abdülaziz ise 1867 Paris Fuarı'nı ziyaret etti.",
+       "sayfa": 248
+      },
+      {
+       "id": "2.4-11",
+       "tur": "dy",
+       "ifade": "Osmanlı Devleti'nde büyük ölçekli sanayi işletmelerinin ilk dalgası 1830-1840'larda devlet eliyle başlatıldı.",
+       "dogru": true,
+       "bilgi": "İthal teknolojilerle kurulan işletmelerin ikinci dalgası ise 1880'lerden itibaren yerli ve yabancı sermayedarlarca gerçekleştirildi.",
+       "sayfa": 243
+      },
+      {
+       "id": "2.4-12",
+       "tur": "eslestir",
+       "yonerge": "Rusya ve Japonya'nın sanayileşmesiyle ilgili kavram ve kişileri açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Sergey Witte",
+         "Rusya'da sanayi atılımını yöneten maliye bakanı"
+        ],
+        [
+         "Meiji Restorasyonu",
+         "1868'de Japonya'da feodal düzenin kaldırılması"
+        ],
+        [
+         "Zaibatsu",
+         "Japonya'daki büyük aile şirketleri"
+        ],
+        [
+         "Komodor Perry",
+         "1853'te Japonya'yı zorla ticarete açan Amerikalı"
+        ]
+       ],
+       "bilgi": "Rusya sanayileşmeyi yabancı sermayeyle yukarıdan dayatırken Japonya zorunlu eğitim ve yüksek okuryazarlıkla hızlı bir atılım yaptı.",
+       "sayfa": 253
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "ad": "Savaşlar Sarmalında Osmanlı (1908-1918)",
+   "konular": [
+    {
+     "no": "3.1",
+     "ad": "1908-1918 Yılları Arasında Osmanlı Devleti'nde Meydana Gelen Siyasi ve Askerî Gelişmeler",
+     "kartlar": [
+      {
+       "id": "3.1-01",
+       "tur": "secmeli",
+       "soru": "1889'da Jön Türk hareketine mensup tıbbiye öğrencilerince kurulan ve II. Abdülhamid yönetimine karşı muhalefetin öncüsü hâline gelen cemiyet hangisidir?",
+       "secenekler": [
+        "Osmanlı Hürriyet Cemiyeti",
+        "İttihat ve Terakki Cemiyeti",
+        "Osmanlı Ahrar Fırkası",
+        "Genç Osmanlılar Cemiyeti"
+       ],
+       "dogru": 1,
+       "bilgi": "İttihat ve Terakki 1907'de Selânik'teki Osmanlı Hürriyet Cemiyeti ile birleşerek Rumeli'deki genç subaylar üzerinde nüfuzunu artırdı.",
+       "sayfa": 269
+      },
+      {
+       "id": "3.1-02",
+       "tur": "secmeli",
+       "soru": "II. Meşrutiyet'in ilanından kısa süre sonra, 5 Ekim 1908'de yaşanan gelişme aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Trablusgarp'ın İtalya'ya bırakılması",
+        "Tunus'un Fransa tarafından işgali",
+        "Bulgaristan'ın bağımsızlık ilanı",
+        "Kıbrıs'ın İngiltere'ye bırakılması"
+       ],
+       "dogru": 2,
+       "bilgi": "Aynı süreçte Girit Meclisi Yunanistan'a bağlanma kararı aldı, Avusturya-Macaristan da Bosna-Hersek'i ilhak etti; Osmanlı bu oldubittileri kabul etmek zorunda kaldı.",
+       "sayfa": 271
+      },
+      {
+       "id": "3.1-03",
+       "tur": "eslestir",
+       "yonerge": "II. Meşrutiyet Dönemi düşünce akımlarını temsilcileriyle eşleştir.",
+       "ciftler": [
+        [
+         "Osmanlıcılık",
+         "Namık Kemal, Ziya Paşa"
+        ],
+        [
+         "İslamcılık",
+         "Cemaleddin Afgani, Mehmet Akif"
+        ],
+        [
+         "Batıcılık",
+         "Abdullah Cevdet, Tevfik Fikret"
+        ],
+        [
+         "Türkçülük",
+         "Ziya Gökalp, Yusuf Akçura"
+        ],
+        [
+         "Ademimerkeziyetçilik",
+         "Prens Sabahattin"
+        ]
+       ],
+       "bilgi": "Yusuf Akçura \"Üç Tarz-ı Siyaset\" makalesinde Osmanlıcılık, İslamcılık ve Türkçülüğü dönemin en önemli akımları olarak ele aldı.",
+       "sayfa": 272
+      },
+      {
+       "id": "3.1-04",
+       "tur": "secmeli",
+       "soru": "31 Mart Olayı'nı bastırmak için Selânik'ten İstanbul'a gelen Hareket Ordusu'nun komutanı kimdir?",
+       "secenekler": [
+        "Enver Bey",
+        "Hüseyin Hilmi Paşa",
+        "Ahmed Muhtar Paşa",
+        "Mahmud Şevket Paşa"
+       ],
+       "dogru": 3,
+       "bilgi": "Hareket Ordusu'nun kurmay başkanı Kolağası Mustafa Kemal'di; olayın ardından II. Abdülhamid tahttan indirilerek yerine V. Mehmed Reşad getirildi.",
+       "sayfa": 273
+      },
+      {
+       "id": "3.1-05",
+       "tur": "dy",
+       "ifade": "31 Mart Olayı'ndan sonra 1909'da Kanun-ı Esasi'de yapılan değişikliklerle padişahın yetkileri genişletildi.",
+       "dogru": false,
+       "bilgi": "1909 değişiklikleriyle padişahın yürütme ve Meclisi feshetme yetkileri sınırlandırıldı, Meclisin yasama yetkisi güçlendirildi.",
+       "sayfa": 274
+      },
+      {
+       "id": "3.1-06",
+       "tur": "secmeli",
+       "soru": "Trablusgarp Savaşı'nı sona erdiren ve Osmanlı Devleti'nin Kuzey Afrika'daki egemenliğine son veren 18 Ekim 1912 tarihli antlaşma hangisidir?",
+       "secenekler": [
+        "Uşi Antlaşması",
+        "Londra Antlaşması",
+        "Bükreş Antlaşması",
+        "İstanbul Antlaşması"
+       ],
+       "dogru": 0,
+       "bilgi": "İsviçre'de imzalanan antlaşmayla Trablusgarp ve Bingazi İtalya'ya bırakıldı; Balkan Savaşı başlayınca Ege adalarının yönetimi de geçici olarak İtalya'da kaldı.",
+       "sayfa": 277
+      },
+      {
+       "id": "3.1-07",
+       "tur": "dy",
+       "ifade": "Dünya havacılık tarihindeki ilk keşif uçuşu ve ilk hava bombardımanı Trablusgarp Savaşı sırasında gerçekleştirildi.",
+       "dogru": true,
+       "bilgi": "Bu savaşta uçaklar arasındaki ilk telsiz görüşmesi de yapıldı; Mustafa Kemal Tobruk ve Derne'de yerel halkı teşkilatlandırarak İtalyanlara karşı savaştı.",
+       "sayfa": 276
+      },
+      {
+       "id": "3.1-08",
+       "tur": "secmeli",
+       "soru": "Enver ve Talat Beylerin yönetimindeki İttihatçıların 23 Ocak 1913'te gerçekleştirdiği Bâbıâli Baskını'na hangi gelişme yol açmıştır?",
+       "secenekler": [
+        "Hareket Ordusu'nun İstanbul'a girmesi",
+        "Edirne'nin Bulgarlara verilebileceği eğiliminin duyulması",
+        "Trablusgarp'ın İtalya'ya bırakılması",
+        "Selânik'in Yunanlar tarafından alınması"
+       ],
+       "dogru": 1,
+       "bilgi": "Kâmil Paşa hükûmetini deviren baskından sonra Mahmud Şevket Paşa sadrazam oldu ve Avrupalı devletlerin notası reddedildi.",
+       "sayfa": 279
+      },
+      {
+       "id": "3.1-09",
+       "tur": "bosluk",
+       "cumle": "I. Balkan Savaşı'ndan sonra imzalanan 30 Mayıs 1913 Londra Antlaşması'yla Osmanlı-Bulgar sınırı ___ hattı olarak kabul edildi.",
+       "cevap": "Midye-Enez",
+       "celdiriciler": [
+        "Meriç Nehri",
+        "Çatalca",
+        "Kırkkilise-Lüleburgaz"
+       ],
+       "bilgi": "Londra Antlaşması'yla Edirne, Trakya ve Dedeağaç Bulgaristan'a; Selânik, Güney Makedonya ve Girit Yunanistan'a bırakıldı.",
+       "sayfa": 280
+      },
+      {
+       "id": "3.1-10",
+       "tur": "dy",
+       "ifade": "II. Balkan Savaşı sırasında Edirne Bulgar işgalinden kurtarıldı ve 1913 İstanbul Antlaşması'yla Meriç Nehri Osmanlı-Bulgar sınırı kabul edildi.",
+       "dogru": true,
+       "bilgi": "İstanbul Antlaşması'yla Batı Trakya'nın Bulgaristan'a iade edilmesiyle bölgedeki Türk nüfusunun durumuna ilişkin Batı Trakya Sorunu ortaya çıktı.",
+       "sayfa": 281
+      },
+      {
+       "id": "3.1-11",
+       "tur": "secmeli",
+       "soru": "Osmanlı Devleti'nin I. Dünya Savaşı'na fiilen İttifak Devletleri yanında girmesine yol açan olay aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Almanya ile gizli ittifak antlaşması imzalanması",
+        "Osmanlı donanmasının Rus limanlarını topa tutması",
+        "Goeben ve Breslau'nun Osmanlı'ya sığınması",
+        "Çanakkale tabyalarının bombalanması"
+       ],
+       "dogru": 1,
+       "bilgi": "Amiral Souchon komutasındaki donanma 28 Ekim 1914 gecesi Odesa ve Sivastopol'ü bombaladı; Goeben ve Breslau'ya Yavuz ve Midilli adları verilmişti.",
+       "sayfa": 285
+      },
+      {
+       "id": "3.1-12",
+       "tur": "eslestir",
+       "yonerge": "I. Dünya Savaşı'nda Osmanlı'nın savaştığı cepheleri bu cephelerdeki olaylarla eşleştir.",
+       "ciftler": [
+        [
+         "Kafkas Cephesi",
+         "Sarıkamış Harekâtı"
+        ],
+        [
+         "Irak Cephesi",
+         "Kûtül'amâre Zaferi"
+        ],
+        [
+         "Hicaz ve Yemen Cephesi",
+         "Medine Müdafaası"
+        ],
+        [
+         "Kanal Cephesi",
+         "Süveyş Kanalı'na taarruz"
+        ],
+        [
+         "Çanakkale Cephesi",
+         "18 Mart Deniz Zaferi"
+        ]
+       ],
+       "bilgi": "Osmanlı'nın savaşa girmesiyle açılan yeni cepheler Almanya ve Avusturya-Macaristan ordularını Avrupa'da büyük ölçüde rahatlattı.",
+       "sayfa": 286
+      },
+      {
+       "id": "3.1-13",
+       "tur": "secmeli",
+       "soru": "Kafkas Cephesi'nde 3. Ordu komutanlığını devralarak Sarıkamış Harekâtı'nı başlatan Harbiye Nazırı kimdir?",
+       "secenekler": [
+        "Hasan İzzet Paşa",
+        "Kazım Karabekir Paşa",
+        "Enver Paşa",
+        "Liman von Sanders"
+       ],
+       "dogru": 2,
+       "bilgi": "22 Aralık 1914'te başlayan harekât başarısız oldu; Allahuekber Dağları'nı aşmaya çalışan binlerce asker donarak şehit düştü.",
+       "sayfa": 288
+      },
+      {
+       "id": "3.1-14",
+       "tur": "secmeli",
+       "soru": "29 Nisan 1916'da General Townshend komutasındaki İngiliz kuvvetlerinin teslim olduğu Kûtül'amâre Zaferi'nde Türk ordusunun komutanı kimdir?",
+       "secenekler": [
+        "Nurettin Bey",
+        "Halil (Kut) Paşa",
+        "Süleyman Askerî Bey",
+        "Colmar von der Goltz"
+       ],
+       "dogru": 1,
+       "bilgi": "Kuşatma öncesinde Nurettin Bey komutasındaki birlikler 1915'teki Selman-ı Pak Muharebesi'nde İngilizlere karşı büyük bir zafer kazanmıştı.",
+       "sayfa": 297
+      },
+      {
+       "id": "3.1-15",
+       "tur": "dy",
+       "ifade": "Fahreddin Paşa, Mondros Ateşkes Antlaşması imzalanır imzalanmaz Medine'yi İngilizlere teslim etti.",
+       "dogru": false,
+       "bilgi": "\"Çöl Kaplanı\" olarak anılan Fahreddin Paşa, Mondros'a rağmen Medine'yi 10 Ocak 1919'a kadar savundu.",
+       "sayfa": 299
+      },
+      {
+       "id": "3.1-16",
+       "tur": "secmeli",
+       "soru": "15 Eylül 1918'de Bakü'yü Rus-Ermeni işgalinden kurtaran Kafkas İslam Ordusu'nun komutanı kimdir?",
+       "secenekler": [
+        "Halil (Kut) Paşa",
+        "Enver Paşa",
+        "Kazım Karabekir Paşa",
+        "Nuri (Killigil) Paşa"
+       ],
+       "dogru": 3,
+       "bilgi": "Enver Paşa'nın kurduğu Kafkas İslam Ordusu'nun başarısıyla 28 Mayıs'ta kurulan Azerbaycan Cumhuriyeti gerçek bağımsızlığına kavuştu.",
+       "sayfa": 300
+      },
+      {
+       "id": "3.1-17",
+       "tur": "bosluk",
+       "cumle": "Savaş bölgelerine yakın yerlerdeki Ermenilerin güneydeki Osmanlı topraklarına sevkini öngören ___ 27 Mayıs 1915'te çıkarıldı.",
+       "cevap": "Sevk ve İskân Kanunu",
+       "celdiriciler": [
+        "Tekâlif-i Harbiye",
+        "Muharrem Kararnamesi",
+        "Arazi Kanunnamesi"
+       ],
+       "bilgi": "Göç sırasında görevini kötüye kullanan devlet görevlileri yargılanıp cezalandırıldı; Ermenilerin bir kısmı savaştan sonra eski yerlerine döndü.",
+       "sayfa": 302
+      },
+      {
+       "id": "3.1-18",
+       "tur": "secmeli",
+       "soru": "Mondros Ateşkes Antlaşması'nın İtilaf Devletleri'ne güvenliklerini tehdit eden bir durumda stratejik noktaları işgal hakkı veren maddesi hangisidir?",
+       "secenekler": [
+        "24. madde",
+        "7. madde",
+        "1. madde",
+        "12. madde"
+       ],
+       "dogru": 1,
+       "bilgi": "25 maddelik antlaşmanın 24. maddesi de Vilayet-i Sitte'de kargaşa çıkması hâlinde bu şehirlerin işgal edilebileceğini öngörüyordu.",
+       "sayfa": 304
+      }
+     ]
+    },
+    {
+     "no": "3.2",
+     "ad": "1908-1918 Yılları Arasında Yaşanan Kitlesel Göç ve Salgınlar",
+     "kartlar": [
+      {
+       "id": "3.2-01",
+       "tur": "dy",
+       "ifade": "Balkan milliyetçiliği, Batı Avrupa milliyetçiliğinden farklı olarak etnik köken, din, mezhep ve dil birlikteliğini öne çıkardı.",
+       "dogru": true,
+       "bilgi": "Romantizmden beslenen Balkan milliyetçiliğinde Sırp, Bulgar ve Yunan kiliseleri ulusal kimliğin güçlenmesine büyük destek verdi.",
+       "sayfa": 312
+      },
+      {
+       "id": "3.2-02",
+       "tur": "bosluk",
+       "cumle": "Balkan Savaşları'nda kaybedilen yaklaşık 2,3 milyon nüfuslu bölgedeki Müslümanların yaklaşık yüzde ___'si öldürüldü ya da göç etmek zorunda kaldı.",
+       "cevap": "62",
+       "celdiriciler": [
+        "27",
+        "45",
+        "80"
+       ],
+       "bilgi": "İçişleri Bakanlığı verilerine göre Balkan Savaşları'nda göç etmek zorunda kalan Müslümanların sayısı 413.922 idi.",
+       "sayfa": 316
+      },
+      {
+       "id": "3.2-03",
+       "tur": "dy",
+       "ifade": "Balkan Savaşları sırasında göçmen toplanma alanlarında ve askerler arasında en çok görülen salgın hastalık sıtmaydı.",
+       "dogru": false,
+       "bilgi": "Balkan Savaşları sırasında göçmenler ve askerler arasında en çok görülen salgın koleraydı; hijyen eksikliğine bağlı tifüs de yaygındı.",
+       "sayfa": 316
+      },
+      {
+       "id": "3.2-04",
+       "tur": "eslestir",
+       "yonerge": "1908-1918 yıllarında görülen salgın hastalıkları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Kolera",
+         "Kirli su ve gıdayla bulaşan, şiddetli ishalle seyreden hastalık"
+        ],
+        [
+         "Tifüs",
+         "Bit ve pireyle bulaşan, lekeli humma da denen hastalık"
+        ],
+        [
+         "Sıtma",
+         "Mücadele için halka kinin tabletleri dağıtılan hastalık"
+        ]
+       ],
+       "bilgi": "Gülhane'de Dr. Reşat Rıza ve Dr. Mustafa Beylerin hazırladığı kolera aşısı 1913'te orduda kullanılmaya başlandı.",
+       "sayfa": 316
+      },
+      {
+       "id": "3.2-05",
+       "tur": "secmeli",
+       "soru": "Balkan göçmenlerine yönelik geçici iskân, sağlık hizmeti, yardım dağıtımı, iş ve arazi tahsisini düzenleyen 1913 tarihli düzenleme hangisidir?",
+       "secenekler": [
+        "Sevk ve İskân Kanunu",
+        "Arazi Kanunnamesi",
+        "İskân-ı Muhacirin Nizamnamesi",
+        "Tekâlif-i Harbiye"
+       ],
+       "dogru": 2,
+       "bilgi": "Göçmenler alıştıkları iklime ve yaptıkları mesleklere göre yerleştirilmeye çalışıldı; Eskişehir, İzmir ve Adana'da birçok muhacir köyü kuruldu.",
+       "sayfa": 318
+      },
+      {
+       "id": "3.2-06",
+       "tur": "bosluk",
+       "cumle": "1914 yılı başlarında göçmenlerin sevk, iaşe ve iskân işlerini düzenlemek amacıyla ___ adlı kurum oluşturuldu.",
+       "cevap": "Aşâir ve Muhacirîn Müdüriyeti Umumisi",
+       "celdiriciler": [
+        "Hilâl-i Ahmer Cemiyeti",
+        "Sıhhiye Nezareti",
+        "Islah-ı Sanayi Komisyonu"
+       ],
+       "bilgi": "Göçmenlere vergi muafiyetleri ve çeşitli kolaylıklar sağlandı; Maliye Nezareti dağıtılmak üzere çiftlik arazileri satın aldı.",
+       "sayfa": 318
+      },
+      {
+       "id": "3.2-07",
+       "tur": "dy",
+       "ifade": "Osmanlı uygulamasında antlaşmayla başka devlete bırakılan topraklardan gelenlere mülteci, düşman istilasındaki yerlerden kaçanlara muhacir deniyordu.",
+       "dogru": false,
+       "bilgi": "Antlaşmayla bırakılan topraklardan gelenlere muhacir, savaş nedeniyle istila edilen yerlerden kaçanlara mülteci deniyordu.",
+       "sayfa": 319
+      },
+      {
+       "id": "3.2-08",
+       "tur": "secmeli",
+       "soru": "Balkan Savaşları'nda hastaneler ve istasyonlarda çayhaneler açan, göçmenlere yardım edip kolera ve tifüsle mücadele eden kuruluş hangisidir?",
+       "secenekler": [
+        "Hilâl-i Ahmer Cemiyeti",
+        "Darülaceze",
+        "Şirket-i Hayriye",
+        "Muhacir Komisyonu"
+       ],
+       "dogru": 0,
+       "bilgi": "Bugünkü Kızılay olan Hilâl-i Ahmer Cemiyeti'nin Muhacirîn Hastanesi ve seyyar ekipleri bir yılda yaklaşık 55.000 kişiyi muayene ve tedavi etti.",
+       "sayfa": 320
+      },
+      {
+       "id": "3.2-09",
+       "tur": "secmeli",
+       "soru": "Balkan göçlerinin Osmanlı Devleti'ne uzun vadeli etkileriyle ilgili aşağıdakilerden hangisi doğrudur?",
+       "secenekler": [
+        "Anadolu'daki kırsal nüfusun belirgin biçimde azalması",
+        "Pulluk kullanımının ve patates üretiminin artması",
+        "İttihat ve Terakki'nin Osmanlıcılığa yönelmesi",
+        "İstanbul'daki dokuma sanayisinin gerilemesi"
+       ],
+       "dogru": 1,
+       "bilgi": "Göçler kırsal nüfusu artırdı, Selânik göçmenleri İstanbul'da dokumacılığı geliştirdi ve İttihat ve Terakki Osmanlıcılıktan vazgeçip Türkçülüğe yöneldi.",
+       "sayfa": 323
+      },
+      {
+       "id": "3.2-10",
+       "tur": "bosluk",
+       "cumle": "I. Dünya Savaşı'nda Rus işgali nedeniyle doğu vilayetlerinden göç edenlerin yöneldiği ___ şehrinde 1916 sonunda göçmen sayısı 300 bine ulaştı.",
+       "cevap": "Sivas",
+       "celdiriciler": [
+        "Samsun",
+        "Trabzon",
+        "Konya"
+       ],
+       "bilgi": "Sarıkamış yenilgisinden sonra başlayan göçlerde Samsun ve çevresine 85 binden fazla, Diyarbakır-Urfa hattına 200 bin göçmen ulaştı.",
+       "sayfa": 324
+      }
+     ]
+    },
+    {
+     "no": "3.3",
+     "ad": "Osmanlı Devleti'nin İnsanlık Tarihine Katkıları",
+     "kartlar": [
+      {
+       "id": "3.3-01",
+       "tur": "secmeli",
+       "soru": "1513'te Gelibolu'da çizdiği ve 2017'de UNESCO Dünya Belleği Programı'na alınan dünya haritasıyla tanınan Osmanlı denizcisi kimdir?",
+       "secenekler": [
+        "Kâtip Çelebi",
+        "Barbaros Hayreddin",
+        "Piri Reis",
+        "Seydi Ali Reis"
+       ],
+       "dogru": 2,
+       "bilgi": "Piri Reis'in haritasında İspanya, Portekiz, Batı Afrika kıyıları ve Amerika kıtasının doğu kıyıları doğru işaretlenmiştir.",
+       "sayfa": 326
+      },
+      {
+       "id": "3.3-02",
+       "tur": "secmeli",
+       "soru": "ABD Kongre Binası'nda Amerikan hukuk sisteminin ilkelerine esin kaynağı olan tarihî şahsiyetlerin rölyefleri arasında yer alan Osmanlı padişahı kimdir?",
+       "secenekler": [
+        "Fatih Sultan Mehmed",
+        "Kanuni Sultan Süleyman",
+        "Yavuz Sultan Selim",
+        "Sultan II. Abdülhamid"
+       ],
+       "dogru": 1,
+       "bilgi": "Sultan I. Süleyman'ın toplumsal adaleti sağlamak için yaptığı hukuki düzenlemeler onun Kanuni olarak anılmasını sağladı.",
+       "sayfa": 328
+      },
+      {
+       "id": "3.3-03",
+       "tur": "bosluk",
+       "cumle": "XVI. yüzyıldan başlayarak yaklaşık 250 yıl boyunca Avrupa'yı etkileyen Türk hayranlığı modasına ___ denir.",
+       "cevap": "Turquerie",
+       "celdiriciler": [
+        "Pax Ottomana",
+        "Alla Turca",
+        "İstimalet"
+       ],
+       "bilgi": "Bu dönemde Türk kumaşları, dekorasyon eşyaları, mineli saatler ve işlemeler Avrupa'da büyük rağbet gördü.",
+       "sayfa": 332
+      },
+      {
+       "id": "3.3-04",
+       "tur": "eslestir",
+       "yonerge": "Osmanlı'nın insanlık tarihine katkılarıyla ilgili kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Pax Ottomana",
+         "Osmanlı'nın dünya barışına katkısını anlatan kavram"
+        ],
+        [
+         "İstimalet",
+         "Fethedilen yerlerde uygulanan gönül alma politikası"
+        ],
+        [
+         "Alla Turca",
+         "Mehter müziğinden etkilenen Batı marşları"
+        ],
+        [
+         "Spahis",
+         "Fransızların Kuzey Afrikalılardan kurduğu süvari birlikleri"
+        ]
+       ],
+       "bilgi": "Sömürge düzeni kurmayan Osmanlı Devleti, tebaasındaki farklı din ve ırklardan insanlara çeşitli hak ve özgürlükler tanıdı.",
+       "sayfa": 331
+      },
+      {
+       "id": "3.3-05",
+       "tur": "dy",
+       "ifade": "Osmanlı mehter takımlarından etkilenen Lehistan, Avusturya, Rusya, Prusya ve İngiltere orduları kendi askerî bandolarını kurdu.",
+       "dogru": true,
+       "bilgi": "Avrupa'ya giden Osmanlı elçilerinin yanlarında götürdüğü mehter takımları Türk askerî müziğinin Batı'da tanınmasını sağladı.",
+       "sayfa": 331
+      },
+      {
+       "id": "3.3-06",
+       "tur": "secmeli",
+       "soru": "Rondo Alla Turca adlı bestesinde Türk düğün havaları ve mehter müziğiyle benzerlik gösteren ritimler kullanan besteci kimdir?",
+       "secenekler": [
+        "Beethoven",
+        "Haydn",
+        "Mozart",
+        "Reinhard Keiser"
+       ],
+       "dogru": 2,
+       "bilgi": "Haydn'ın Askeriye adlı 100 No.lu Senfoni'si ve Beethoven'ın Türk Marşı da Türk çalgılarıyla icra edilen eserler arasındadır.",
+       "sayfa": 333
+      },
+      {
+       "id": "3.3-07",
+       "tur": "secmeli",
+       "soru": "Osmanlı şehirlerinde dokunup Avrupalı din adamlarının giysilerinde kullanılan ve Venedik, Floransa gibi kentlerde taklit edilen değerli ipek kumaş hangisidir?",
+       "secenekler": [
+        "Kemha",
+        "Çuha",
+        "Şayak",
+        "Basma"
+       ],
+       "dogru": 0,
+       "bilgi": "Damask, kemha ve kadife gibi Osmanlı kumaşlarının yanı sıra Osmanlı halıları da Avrupa'da masa örtüsü ve duvar halısı olarak kullanıldı.",
+       "sayfa": 332
+      },
+      {
+       "id": "3.3-08",
+       "tur": "dy",
+       "ifade": "Ebrulu kâğıtlar XVI. yüzyıl sonlarında Avrupa'dan Osmanlı'ya getirilerek minyatür çerçevelerinde kullanılmaya başlandı.",
+       "dogru": false,
+       "bilgi": "Osmanlı'da minyatür çerçevelerinde kullanılan ebrulu kâğıtlar XVI. yüzyıl sonlarında Avrupa'ya ithal edilip kitap kapaklarının iç sayfalarında kullanıldı.",
+       "sayfa": 333
+      },
+      {
+       "id": "3.3-09",
+       "tur": "bosluk",
+       "cumle": "Müslümanların yaşadığı coğrafyalara yayılarak bayram ve cenaze namazlarında topluca okunan Segâh Tekbir'i ___ bestelemiştir.",
+       "cevap": "Buhurizade Mustafa Itri",
+       "celdiriciler": [
+        "Sultan III. Selim",
+        "Hammâmîzâde İsmail Dede Efendi",
+        "Zekâi Dede"
+       ],
+       "bilgi": "Osmanlı kahve ve kahvehane kültürünün etkisiyle Avrupa'da kafe adı verilen yeni mekânlar açıldı.",
+       "sayfa": 333
+      },
+      {
+       "id": "3.3-10",
+       "tur": "dy",
+       "ifade": "Mimar Sinan, 1557'de tamamladığı Süleymaniye Camisi'ni \"kalfalık eserim\" olarak tanımlamıştır.",
+       "dogru": true,
+       "bilgi": "İstanbul'un tarihî alanları 1985'te UNESCO Dünya Kültürel Mirası Listesi'ne alındı.",
+       "sayfa": 336
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
