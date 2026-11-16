@@ -1,13 +1,15 @@
-import type { DersKey, KartRef, KitapJson, Konu } from "./types";
+import type { KartRef, KitapJson, Konu, Kurs } from "./types";
 import { DERS_SIRASI } from "./subjects";
+import { kitabinSinavi, kursId, type Sinav } from "./kurslar";
 
 export interface Dizin {
   kitaplar: KitapJson[];
-  dersler: DersKey[]; // içeriği olan dersler, sıralı
-  kitaplarByDers: Map<DersKey, KitapJson[]>;
+  /** YKS dersleri sırayla: önce TYT, sonra AYT */
+  kurslar: Kurs[];
+  kurs: Map<string, Kurs>;
   konular: Map<string, Konu>;
-  konularByKitap: Map<string, Konu[]>;
   kartlar: Map<string, KartRef>;
+  kitapKursu: Map<string, Kurs>; // kitap anahtarı -> YKS dersi
 }
 
 // Her kitap ayrı bir parça olarak yüklenir (service worker önbelleğe alır).
@@ -15,41 +17,64 @@ const yukleyiciler = import.meta.glob<KitapJson>("../content/*.json", { import: 
 
 export async function icerikYukle(): Promise<Dizin> {
   const kitaplar = await Promise.all(Object.values(yukleyiciler).map((f) => f()));
-  // Dersler uygulamadaki sırayla (DERS_SIRASI), her derste kitaplar sınıf sırasıyla
-  kitaplar.sort((a, b) => DERS_SIRASI.indexOf(a.ders) - DERS_SIRASI.indexOf(b.ders) || a.sinif - b.sinif);
   return dizinKur(kitaplar);
 }
 
+const SINAV_SIRASI: Sinav[] = ["TYT", "AYT"];
+
 export function dizinKur(kitaplar: KitapJson[]): Dizin {
-  const kitaplarByDers = new Map<DersKey, KitapJson[]>();
+  // Dersler uygulamadaki sırayla, her derste kitaplar müfredat sırasıyla
+  kitaplar.sort((a, b) => DERS_SIRASI.indexOf(a.ders) - DERS_SIRASI.indexOf(b.ders) || a.sinif - b.sinif);
+
+  const kurs = new Map<string, Kurs>();
   const konular = new Map<string, Konu>();
-  const konularByKitap = new Map<string, Konu[]>();
   const kartlar = new Map<string, KartRef>();
+  const kitapKursu = new Map<string, Kurs>();
 
   for (const kitap of kitaplar) {
-    const liste = kitaplarByDers.get(kitap.ders) ?? [];
-    liste.push(kitap);
-    kitaplarByDers.set(kitap.ders, liste);
+    const sinav = kitabinSinavi(kitap);
+    const id = kursId(sinav, kitap.ders);
+    let k = kurs.get(id);
+    if (!k) {
+      k = { id, sinav, ders: kitap.ders, kitaplar: [], uniteler: [], konular: [], kartlar: [] };
+      kurs.set(id, k);
+    }
+    k.kitaplar.push(kitap);
+    kitapKursu.set(kitap.kitap, k);
 
-    const kitapKonulari: Konu[] = [];
     for (const u of kitap.uniteler) {
-      for (const k of u.konular) {
-        const id = `${kitap.kitap}/${k.no}`;
-        const konu: Konu = { id, no: k.no, ad: k.ad, uniteNo: u.no, uniteAd: u.ad, kitap, kartlar: [] };
-        for (const kart of k.kartlar) {
-          const ref: KartRef = { uid: `${kitap.kitap}/${kart.id}`, kart, konuId: id, kitap };
+      const unite = { sira: k.uniteler.length + 1, ad: u.ad, konular: [] as Konu[] };
+      k.uniteler.push(unite);
+      u.konular.forEach((kj, i) => {
+        const konuId = `${kitap.kitap}/${kj.no}`;
+        const konu: Konu = {
+          id: konuId,
+          no: kj.no,
+          ad: kj.ad,
+          uniteAd: u.ad,
+          kitap,
+          kartlar: [],
+          kursId: id,
+          uniteSira: unite.sira,
+          konuSira: i + 1,
+        };
+        for (const kart of kj.kartlar) {
+          const ref: KartRef = { uid: `${kitap.kitap}/${kart.id}`, kart, konuId, kitap };
           konu.kartlar.push(ref);
           kartlar.set(ref.uid, ref);
+          k.kartlar.push(ref);
         }
-        konular.set(id, konu);
-        kitapKonulari.push(konu);
-      }
+        unite.konular.push(konu);
+        k.konular.push(konu);
+        konular.set(konuId, konu);
+      });
     }
-    konularByKitap.set(kitap.kitap, kitapKonulari);
   }
 
-  const dersler = DERS_SIRASI.filter((d) => kitaplarByDers.has(d));
-  return { kitaplar, dersler, kitaplarByDers, konular, konularByKitap, kartlar };
+  const kurslar = [...kurs.values()].sort(
+    (a, b) => SINAV_SIRASI.indexOf(a.sinav) - SINAV_SIRASI.indexOf(b.sinav) || DERS_SIRASI.indexOf(a.ders) - DERS_SIRASI.indexOf(b.ders),
+  );
+  return { kitaplar, kurslar, kurs, konular, kartlar, kitapKursu };
 }
 
 export function kaynakLinki(kitap: KitapJson, sayfa: number): string {

@@ -3,11 +3,9 @@ import { icerikYukle, type Dizin } from "./content";
 import { useIlerleme } from "./store";
 import { vadeliKartlar, type OturumTipi } from "./oturum";
 import { useRota, git } from "./router";
-import type { DersKey } from "./types";
-import { DERSLER } from "./subjects";
 import { Ikon, IKON } from "./ui";
 import { Bugun } from "./screens/Bugun";
-import { DersDetay, DersListesi, KonuOzeti } from "./screens/Dersler";
+import { DersListesi, KonuOzeti, KursDetay } from "./screens/Dersler";
 import { Oturum } from "./screens/Oturum";
 import { Kaynaklar, Profil } from "./screens/Profil";
 import { Kurulum } from "./screens/Kurulum";
@@ -37,12 +35,12 @@ export function App() {
 
   if (bolum === "oturum") {
     const s = rota.sorgu;
-    const ders = (s.get("ders") as DersKey | null) ?? undefined;
+    const kurs = s.get("kurs") ?? undefined;
     const tip: OturumTipi = s.get("konu")
       ? { tip: "konu", konuId: s.get("konu")! }
       : s.get("tekrar")
-        ? { tip: "tekrar", ders }
-        : { tip: "karisik", ders };
+        ? { tip: "tekrar", kurs }
+        : { tip: "karisik", kurs };
     // Aynı rotada yeni oturum açılınca bileşen sıfırdan kurulsun
     return <Oturum key={window.location.hash} dizin={dizin} tip={tip} />;
   }
@@ -52,8 +50,8 @@ export function App() {
   if (bolum === "dersler") {
     icerik = <DersListesi dizin={dizin} />;
     sekme = "dersler";
-  } else if (bolum === "ders" && arg && arg in DERSLER) {
-    icerik = <DersDetay key={arg} dizin={dizin} ders={arg as DersKey} />;
+  } else if (bolum === "kurs" && arg && dizin.kurs.has(arg)) {
+    icerik = <KursDetay key={arg} dizin={dizin} kursId={arg} />;
     sekme = "dersler";
   } else if (bolum === "ozet" && arg) {
     icerik = <KonuOzeti dizin={dizin} konuId={arg} />;

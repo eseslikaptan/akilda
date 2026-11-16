@@ -1,6 +1,7 @@
 import type { CSSProperties } from "react";
 import type { Dizin } from "../content";
-import { dersKartlari, kartlarOzet, siradakiKonu, vadeliKartlar } from "../oturum";
+import { aktifKurslar, kartlarOzet, siradakiKonu, vadeliKartlar } from "../oturum";
+import { kursAdi } from "./Dersler";
 import { gunAnahtari, seri, useIlerleme } from "../store";
 import { DERSLER } from "../subjects";
 import { git } from "../router";
@@ -21,7 +22,7 @@ export function Bugun({ dizin }: { dizin: Dizin }) {
   const gunSeri = seri(p);
   const vadeli = vadeliKartlar(dizin, p);
   const sonraki = siradakiKonu(dizin, p);
-  const dersler = p.ayarlar.dersler.length ? dizin.dersler.filter((d) => p.ayarlar.dersler.includes(d)) : dizin.dersler;
+  const kurslar = aktifKurslar(dizin, p);
   const gorulenToplam = Object.keys(p.kartlar).length;
 
   return (
@@ -80,7 +81,7 @@ export function Bugun({ dizin }: { dizin: Dizin }) {
             <DersRozeti hue={DERSLER[sonraki.kitap.ders].hue} ikon={DERSLER[sonraki.kitap.ders].ikon} />
             <span className="devam-metin">
               <span className="ust-etiket">
-                {DERSLER[sonraki.kitap.ders].kisa} {sonraki.kitap.sinif} · Ünite {sonraki.uniteNo}
+                {kursAdi(dizin.kurs.get(sonraki.kursId)!)} · {sonraki.uniteSira}. Ünite
               </span>
               <strong>{sonraki.ad}</strong>
             </span>
@@ -96,25 +97,34 @@ export function Bugun({ dizin }: { dizin: Dizin }) {
             <Ikon d={IKON.karisik} boyut={16} /> Karışık test
           </button>
         </div>
-        <div className="ders-izgara">
-          {dersler.map((d) => {
-            const bilgi = DERSLER[d];
-            const o = kartlarOzet(dersKartlari(dizin, d), p);
-            return (
-              <button key={d} className="ders-kart" style={{ "--hue": bilgi.hue } as CSSProperties} onClick={() => git(`/ders/${d}`)}>
-                <div className="ders-kart-ust">
-                  <DersRozeti hue={bilgi.hue} ikon={bilgi.ikon} boyut={36} />
-                  {o.vadeli > 0 && <span className="rozet uyari">{o.vadeli}</span>}
-                </div>
-                <strong>{bilgi.kisa}</strong>
-                <HafizaCubugu hafiza={o.hafiza} gorulen={o.gorulen} toplam={o.toplam} />
-                <span className="soluk-metin">
-                  {o.gorulen ? `Hafıza ${yuzde(o.hafiza)} · ${o.gorulen}/${o.toplam}` : `${o.toplam} bilgi`}
-                </span>
-              </button>
-            );
-          })}
-        </div>
+        {(["TYT", "AYT"] as const).map((sinav) => {
+          const grup = kurslar.filter((k) => k.sinav === sinav);
+          if (!grup.length) return null;
+          return (
+            <div key={sinav} className="harita-grup">
+              <span className={`sinav-rozet ${sinav.toLowerCase()}`}>{sinav}</span>
+              <div className="ders-izgara">
+                {grup.map((k) => {
+                  const bilgi = DERSLER[k.ders];
+                  const o = kartlarOzet(k.kartlar, p);
+                  return (
+                    <button key={k.id} className="ders-kart" style={{ "--hue": bilgi.hue } as CSSProperties} onClick={() => git(`/kurs/${k.id}`)}>
+                      <div className="ders-kart-ust">
+                        <DersRozeti hue={bilgi.hue} ikon={bilgi.ikon} boyut={36} />
+                        {o.vadeli > 0 && <span className="rozet uyari">{o.vadeli}</span>}
+                      </div>
+                      <strong>{bilgi.kisa}</strong>
+                      <HafizaCubugu hafiza={o.hafiza} gorulen={o.gorulen} toplam={o.toplam} />
+                      <span className="soluk-metin">
+                        {o.gorulen ? `Hafıza ${yuzde(o.hafiza)} · ${o.gorulen}/${o.toplam}` : `${o.toplam} bilgi`}
+                      </span>
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+          );
+        })}
       </section>
     </div>
   );

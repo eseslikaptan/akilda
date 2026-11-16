@@ -1,25 +1,17 @@
-import { useState, type CSSProperties } from "react";
+import { useState } from "react";
 import type { Dizin } from "../content";
-import type { DersKey } from "../types";
 import { kurulumuTamamla } from "../store";
-import { DERSLER } from "../subjects";
-import { DersRozeti, Ikon, IKON } from "../ui";
-import { HEDEFLER } from "./Profil";
+import { ALANLAR, type AlanKey } from "../kurslar";
+import { Ikon, IKON } from "../ui";
+import { AlanSecici, HEDEFLER } from "./Profil";
 
 export function Kurulum({ dizin }: { dizin: Dizin }) {
   const [adim, setAdim] = useState(0);
   const [ad, setAd] = useState("");
-  const [dersler, setDersler] = useState<DersKey[]>(dizin.dersler);
+  const [alan, setAlan] = useState<AlanKey>(ALANLAR[0].key);
   const [hedef, setHedef] = useState(100);
 
-  const toggle = (d: DersKey) => setDersler((l) => (l.includes(d) ? l.filter((x) => x !== d) : [...l, d]));
-
-  const bitir = () =>
-    kurulumuTamamla({
-      ad: ad.trim(),
-      gunlukHedef: hedef,
-      dersler: dersler.length === dizin.dersler.length || dersler.length === 0 ? [] : dersler,
-    });
+  const bitir = () => kurulumuTamamla({ ad: ad.trim(), gunlukHedef: hedef, alan });
 
   return (
     <div className="kurulum">
@@ -53,24 +45,10 @@ export function Kurulum({ dizin }: { dizin: Dizin }) {
 
       {adim === 1 && (
         <section className="kurulum-adim">
-          <h1>Hangi dersleri çalışıyorsun?</h1>
-          <p>Tekrarlar bu derslerden gelir. Sonra değiştirebilirsin.</p>
-          <div className="kurulum-dersler">
-            {dizin.dersler.map((d) => (
-              <button
-                key={d}
-                className={`kurulum-ders ${dersler.includes(d) ? "secili" : ""}`}
-                style={{ "--hue": DERSLER[d].hue } as CSSProperties}
-                aria-pressed={dersler.includes(d)}
-                onClick={() => toggle(d)}
-              >
-                <DersRozeti hue={DERSLER[d].hue} ikon={DERSLER[d].ikon} boyut={36} />
-                <span>{DERSLER[d].kisa}</span>
-                {dersler.includes(d) && <Ikon d={IKON.tik} boyut={18} kalin={2.4} className="tik" />}
-              </button>
-            ))}
-          </div>
-          <button className="dugme birincil genis" disabled={!dersler.length} onClick={() => setAdim(2)}>
+          <h1>Hangi alandasın?</h1>
+          <p>TYT dersleri herkese gelir; AYT dersleri alanına göre seçilir. Sonra değiştirebilirsin.</p>
+          <AlanSecici dizin={dizin} secili={alan} onSec={setAlan} />
+          <button className="dugme birincil genis" onClick={() => setAdim(2)}>
             Devam
           </button>
         </section>

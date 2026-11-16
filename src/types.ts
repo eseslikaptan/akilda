@@ -79,12 +79,31 @@ export interface KartRef {
 }
 
 export interface Konu {
-  id: string; // "<kitap>/<konu no>"
+  id: string; // "<kitap>/<konu no>" — ilerleme kayıtları bu kimliğe bağlı
   no: string;
   ad: string;
-  uniteNo: number;
   uniteAd: string;
   kitap: KitapJson;
+  kartlar: KartRef[];
+  kursId: string; // "tyt-tarih"
+  uniteSira: number; // YKS dersi içinde kesintisiz ünite numarası
+  konuSira: number; // ünite içindeki sıra (1'den)
+}
+
+export interface KursUnite {
+  sira: number;
+  ad: string;
+  konular: Konu[];
+}
+
+/** Bir YKS dersi: ör. TYT Tarih. Birden çok MEB kitabını tek bir yolda birleştirir. */
+export interface Kurs {
+  id: string;
+  sinav: "TYT" | "AYT";
+  ders: DersKey;
+  kitaplar: KitapJson[];
+  uniteler: KursUnite[];
+  konular: Konu[];
   kartlar: KartRef[];
 }
 
@@ -103,7 +122,7 @@ export interface KartDurum {
 export interface Ayarlar {
   ad: string;
   gunlukHedef: number; // XP
-  dersler: DersKey[]; // seçili dersler (boşsa hepsi)
+  alan: "TYT" | "SAY" | "EA" | "SOZ" | "HEPSI";
   ses: boolean;
 }
 

@@ -7,7 +7,7 @@ const ANAHTAR = "akilda:v1";
 const BOS: Ilerleme = {
   v: 1,
   kurulum: false,
-  ayarlar: { ad: "", gunlukHedef: 100, dersler: [], ses: true },
+  ayarlar: { ad: "", gunlukHedef: 100, alan: "HEPSI", ses: true },
   kartlar: {},
   gunler: {},
   toplamXp: 0,

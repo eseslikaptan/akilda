@@ -1,11 +1,12 @@
 import type { Dizin } from "./content";
-import type { DersKey, Ilerleme, KartRef, Konu } from "./types";
+import type { Ilerleme, KartRef, Konu, Kurs } from "./types";
 import { hatirlama, vadesiGeldi } from "./srs";
+import { alanBilgi, alandaMi } from "./kurslar";
 
 export type OturumTipi =
   | { tip: "konu"; konuId: string }
-  | { tip: "tekrar"; ders?: DersKey }
-  | { tip: "karisik"; ders?: DersKey };
+  | { tip: "tekrar"; kurs?: string }
+  | { tip: "karisik"; kurs?: string };
 
 const KONU_KART = 10;
 const TEKRAR_KART = 15;
@@ -20,18 +21,27 @@ export function karistir<T>(dizi: T[]): T[] {
   return a;
 }
 
-function seciliDersler(d: Dizin, p: Ilerleme, ders?: DersKey): Set<DersKey> {
-  if (ders) return new Set([ders]);
-  return new Set(p.ayarlar.dersler.length ? p.ayarlar.dersler : d.dersler);
+/** Kullanıcının alanına göre çalıştığı YKS dersleri (ya da tek bir ders) */
+export function aktifKurslar(d: Dizin, p: Ilerleme, kursId?: string): Kurs[] {
+  if (kursId) {
+    const k = d.kurs.get(kursId);
+    return k ? [k] : [];
+  }
+  const alan = alanBilgi(p.ayarlar.alan);
+  return d.kurslar.filter((k) => alandaMi(alan, k.sinav, k.ders));
 }
 
-export function vadeliKartlar(d: Dizin, p: Ilerleme, ders?: DersKey): KartRef[] {
-  const dersler = seciliDersler(d, p, ders);
+function aktifKitaplar(d: Dizin, p: Ilerleme, kursId?: string): Set<string> {
+  return new Set(aktifKurslar(d, p, kursId).flatMap((k) => k.kitaplar.map((b) => b.kitap)));
+}
+
+export function vadeliKartlar(d: Dizin, p: Ilerleme, kursId?: string): KartRef[] {
+  const kitaplar = aktifKitaplar(d, p, kursId);
   const simdi = Date.now();
   const liste: KartRef[] = [];
   for (const [uid, durum] of Object.entries(p.kartlar)) {
     const ref = d.kartlar.get(uid);
-    if (ref && dersler.has(ref.kitap.ders) && vadesiGeldi(durum, simdi)) liste.push(ref);
+    if (ref && kitaplar.has(ref.kitap.kitap) && vadesiGeldi(durum, simdi)) liste.push(ref);
   }
   return liste.sort((a, b) => hatirlama(p.kartlar[a.uid], simdi) - hatirlama(p.kartlar[b.uid], simdi));
 }
@@ -49,10 +59,9 @@ export function oturumKartlari(d: Dizin, p: Ilerleme, o: OturumTipi): KartRef[] 
     const tekrar = eski.slice(0, KONU_KART - secilen.length);
     return araya(secilen, tekrar);
   }
-  if (o.tip === "tekrar") return karistir(vadeliKartlar(d, p, o.ders).slice(0, TEKRAR_KART));
+  if (o.tip === "tekrar") return karistir(vadeliKartlar(d, p, o.kurs).slice(0, TEKRAR_KART));
 
-  const dersler = seciliDersler(d, p, o.ders);
-  const havuz = [...d.kartlar.values()].filter((k) => dersler.has(k.kitap.ders));
+  const havuz = aktifKurslar(d, p, o.kurs).flatMap((k) => k.kartlar);
   const gorulen = havuz.filter((k) => p.kartlar[k.uid]);
   return karistir(gorulen.length >= 6 ? gorulen : havuz).slice(0, KARISIK_KART);
 }
@@ -96,21 +105,19 @@ export function konuOzet(konu: Konu, p: Ilerleme): Ozet {
   return kartlarOzet(konu.kartlar, p);
 }
 
-export function dersKartlari(d: Dizin, ders: DersKey): KartRef[] {
-  return [...d.kartlar.values()].filter((k) => k.kitap.ders === ders);
-}
-
-/** Sıradaki çalışılacak konu: son çalışılan kitapta yarım kalan ya da ilk başlanmamış konu */
-export function siradakiKonu(d: Dizin, p: Ilerleme, ders?: DersKey): Konu | undefined {
-  const dersler = seciliDersler(d, p, ders);
-  const tumu = [...d.konular.values()].filter((k) => dersler.has(k.kitap.ders));
-  const son = p.sonKonu ? d.konular.get(p.sonKonu) : undefined;
+/** Sıradaki çalışılacak konu: son çalışılan derste yarım kalan ya da ilk başlanmamış konu */
+export function siradakiKonu(d: Dizin, p: Ilerleme, kursId?: string): Konu | undefined {
+  const kurslar = aktifKurslar(d, p, kursId);
   const yarim = (k: Konu) => k.kartlar.some((c) => !p.kartlar[c.uid]);
-  if (son && dersler.has(son.kitap.ders)) {
-    if (yarim(son)) return son;
-    const ayniKitap = d.konularByKitap.get(son.kitap.kitap) ?? [];
-    const sonraki = ayniKitap.slice(ayniKitap.indexOf(son) + 1).find(yarim);
+  const son = p.sonKonu ? d.konular.get(p.sonKonu) : undefined;
+  const sonKurs = son ? kurslar.find((k) => k.id === son.kursId) : undefined;
+  if (son && sonKurs) {
+    const sonraki = sonKurs.konular.slice(sonKurs.konular.indexOf(son)).find(yarim);
     if (sonraki) return sonraki;
   }
-  return tumu.find(yarim);
+  for (const k of kurslar) {
+    const ilk = k.konular.find(yarim);
+    if (ilk) return ilk;
+  }
+  return undefined;
 }

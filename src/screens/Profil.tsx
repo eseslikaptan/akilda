@@ -1,7 +1,8 @@
 import { useRef, useState, type CSSProperties } from "react";
 import type { Dizin } from "../content";
-import type { DersKey } from "../types";
-import { dersKartlari, kartlarOzet } from "../oturum";
+import { aktifKurslar, kartlarOzet } from "../oturum";
+import { ALANLAR, alanBilgi, alandaMi, type AlanKey } from "../kurslar";
+import { kursAdi } from "./Dersler";
 import { ayarlariGuncelle, disaAktar, gunAnahtari, iceAktar, seri, sifirla, useIlerleme } from "../store";
 import { seviye } from "../srs";
 import { DERSLER } from "../subjects";
@@ -63,12 +64,7 @@ export function Profil({ dizin }: { dizin: Dizin }) {
     }
   };
 
-  const dersSec = (d: DersKey) => {
-    const mevcut = p.ayarlar.dersler.length ? p.ayarlar.dersler : dizin.dersler;
-    const yeni = mevcut.includes(d) ? mevcut.filter((x) => x !== d) : [...mevcut, d];
-    ayarlariGuncelle({ dersler: yeni.length === dizin.dersler.length ? [] : yeni });
-  };
-  const seciliMi = (d: DersKey) => !p.ayarlar.dersler.length || p.ayarlar.dersler.includes(d);
+  const kurslar = aktifKurslar(dizin, p);
 
   return (
     <div className="sayfa">
@@ -118,14 +114,14 @@ export function Profil({ dizin }: { dizin: Dizin }) {
       <section className="kutu">
         <h2 className="bolum-baslik">Derslere göre</h2>
         <ul className="ders-ozet-liste">
-          {dizin.dersler.map((d) => {
-            const o = kartlarOzet(dersKartlari(dizin, d), p);
+          {kurslar.map((k) => {
+            const o = kartlarOzet(k.kartlar, p);
             return (
-              <li key={d} style={{ "--hue": DERSLER[d].hue } as CSSProperties}>
-                <DersRozeti hue={DERSLER[d].hue} ikon={DERSLER[d].ikon} boyut={32} />
+              <li key={k.id} style={{ "--hue": DERSLER[k.ders].hue } as CSSProperties}>
+                <DersRozeti hue={DERSLER[k.ders].hue} ikon={DERSLER[k.ders].ikon} boyut={32} />
                 <div>
                   <div className="satir-ust">
-                    <strong>{DERSLER[d].kisa}</strong>
+                    <strong>{kursAdi(k)}</strong>
                     <span className="soluk-metin">{yuzde(o.hafiza)}</span>
                   </div>
                   <HafizaCubugu hafiza={o.hafiza} gorulen={o.gorulen} toplam={o.toplam} />
@@ -154,14 +150,8 @@ export function Profil({ dizin }: { dizin: Dizin }) {
           </div>
         </div>
         <div className="alan">
-          <span>Tekrar ve karışık testlere dahil dersler</span>
-          <div className="cipler sol">
-            {dizin.dersler.map((d) => (
-              <button key={d} className={`cip ${seciliMi(d) ? "secili" : ""}`} aria-pressed={seciliMi(d)} onClick={() => dersSec(d)}>
-                {DERSLER[d].kisa}
-              </button>
-            ))}
-          </div>
+          <span>Alanın</span>
+          <AlanSecici dizin={dizin} secili={p.ayarlar.alan} onSec={(alan) => ayarlariGuncelle({ alan })} />
         </div>
         <label className="alan satir">
           <span>Sesler</span>
@@ -242,6 +232,23 @@ export function Kaynaklar({ dizin }: { dizin: Dizin }) {
           </li>
         ))}
       </ul>
+    </div>
+  );
+}
+
+/** Alan seçimi: her seçeneğin altında hangi YKS derslerinin geleceği yazar */
+export function AlanSecici({ dizin, secili, onSec }: { dizin: Dizin; secili: AlanKey; onSec: (a: AlanKey) => void }) {
+  return (
+    <div className="alan-liste" role="radiogroup">
+      {ALANLAR.map((a) => {
+        const ayt = dizin.kurslar.filter((k) => k.sinav === "AYT" && alandaMi(alanBilgi(a.key), k.sinav, k.ders));
+        return (
+          <button key={a.key} role="radio" aria-checked={secili === a.key} className={`alan-secim ${secili === a.key ? "aktif" : ""}`} onClick={() => onSec(a.key)}>
+            <strong>{a.ad}</strong>
+            <span>{a.key === "TYT" ? "Sadece TYT dersleri" : ayt.length ? `TYT + AYT ${ayt.map((k) => DERSLER[k.ders].kisa).join(", ")}` : a.aciklama}</span>
+          </button>
+        );
+      })}
     </div>
   );
 }

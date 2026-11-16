@@ -779,6 +779,86 @@ h3 {
   padding: 10px;
 }
 
+/* YKS: TYT / AYT grupları */
+.sinav-bolum {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.sinav-baslik {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.sinav-rozet {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  padding: 3px 9px;
+  border-radius: 7px;
+  color: var(--surface);
+  background: var(--ink);
+  width: fit-content;
+}
+.sinav-rozet.ayt {
+  background: var(--accent-strong);
+}
+.harita-grup {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.harita-grup + .harita-grup {
+  margin-top: 12px;
+}
+.ders-satir.alan-disi {
+  opacity: 0.6;
+}
+.ders-kapak .sinav-rozet {
+  margin-bottom: 4px;
+}
+.karisik-satir {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  background: var(--ders-soft);
+  color: var(--ders-ink);
+  border-radius: var(--r-m);
+}
+.karisik-satir > span {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.karisik-satir .soluk-metin {
+  color: inherit;
+  opacity: 0.8;
+}
+.alan-liste {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.alan-secim {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 12px 14px;
+  border: 2px solid var(--line);
+  border-radius: var(--r-m);
+  background: var(--surface);
+}
+.alan-secim span {
+  font-size: 13px;
+  color: var(--ink-2);
+}
+.alan-secim.aktif {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
 /* Konu özeti */
 .ozet-liste {
   list-style: none;
@@ -970,9 +1050,27 @@ h3 {
 .secenek.soluk {
   opacity: 0.45;
 }
-.secenek.dogru kbd,
-.secenek.yanlis kbd {
-  border-color: currentColor;
+.sik-harf {
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  border: 2px solid var(--line);
+  font-weight: 800;
+  font-size: 14px;
+  color: var(--ink-2);
+}
+.secenek.dogru .sik-harf {
+  border-color: var(--good);
+  background: var(--good);
+  color: #fff;
+}
+.secenek.yanlis .sik-harf {
+  border-color: var(--bad);
+  background: var(--bad);
+  color: #fff;
 }
 
 .ifade {

@@ -33,13 +33,16 @@ export function soruEtiketi(k: Kart): string {
   return { secmeli: "Doğru cevabı seç", dy: "Doğru mu, yanlış mı?", bosluk: "Boşluğu doldur", eslestir: "Eşleştir" }[k.tur];
 }
 
-/** 1-9 tuşlarıyla seçim */
-function useRakamTuslari(aktif: boolean, adet: number, sec: (i: number) => void) {
+export const HARFLER = ["A", "B", "C", "D", "E"];
+
+/** 1-9 tuşlarıyla (harfli şıklarda A-E ile de) seçim */
+function useRakamTuslari(aktif: boolean, adet: number, sec: (i: number) => void, harfli = false) {
   useEffect(() => {
     if (!aktif) return;
     const f = (e: KeyboardEvent) => {
       if (e.metaKey || e.ctrlKey || e.altKey) return;
-      const n = Number(e.key);
+      const harf = harfli ? HARFLER.indexOf(e.key.toLocaleUpperCase("tr")) : -1;
+      const n = harf >= 0 ? harf + 1 : Number(e.key);
       if (n >= 1 && n <= adet) {
         e.preventDefault();
         sec(n - 1);
@@ -47,14 +50,14 @@ function useRakamTuslari(aktif: boolean, adet: number, sec: (i: number) => void)
     };
     window.addEventListener("keydown", f);
     return () => window.removeEventListener("keydown", f);
-  }, [aktif, adet, sec]);
+  }, [aktif, adet, sec, harfli]);
 }
 
 function Secmeli({ kart, cevap, onCevap }: Props<SecmeliKart>) {
   const dogruMetin = kart.secenekler[kart.dogru];
   const secenekler = useMemo(() => karistir(kart.secenekler), [kart]);
   const sec = (i: number) => onCevap({ dogru: secenekler[i] === dogruMetin, secim: secenekler[i] });
-  useRakamTuslari(!cevap, secenekler.length, sec);
+  useRakamTuslari(!cevap, secenekler.length, sec, true);
 
   return (
     <>
@@ -69,7 +72,7 @@ function Secmeli({ kart, cevap, onCevap }: Props<SecmeliKart>) {
           }
           return (
             <button key={s} className={`secenek ${durum}`} disabled={!!cevap} onClick={() => sec(i)}>
-              <kbd>{i + 1}</kbd>
+              <span className="sik-harf">{HARFLER[i]}</span>
               <span>{s}</span>
             </button>
           );

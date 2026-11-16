@@ -9,6 +9,7 @@ import { SoruGovdesi, soruEtiketi, type Cevap } from "../sorular";
 import { sesler } from "../ses";
 import { DERSLER } from "../subjects";
 import { git } from "../router";
+import { kursAdi } from "./Dersler";
 import { Ikon, IKON, yuzde } from "../ui";
 
 interface Adim {
@@ -180,7 +181,7 @@ export function Oturum({ dizin, tip }: { dizin: Dizin; tip: OturumTipi }) {
         </div>
         <SoruGovdesi kart={kart} cevap={cevap} onCevap={cevapla} />
         <p className="soru-kaynak">
-          {ders.kisa} · {adim.ref.kitap.sinif}. sınıf · {dizin.konular.get(adim.ref.konuId)?.ad}
+          {kursAdi(dizin.kitapKursu.get(adim.ref.kitap.kitap)!)} · {dizin.konular.get(adim.ref.konuId)?.ad}
         </p>
       </main>
 
@@ -199,8 +200,8 @@ export function Oturum({ dizin, tip }: { dizin: Dizin; tip: OturumTipi }) {
             )}
           </div>
           <p className="gb-bilgi">{kart.bilgi}</p>
-          <a className="gb-kaynak" href={kaynakLinki(adim.ref.kitap, kart.sayfa)} target="_blank" rel="noreferrer">
-            MEB {adim.ref.kitap.baslik} · s. {kart.sayfa}
+          <a className="gb-kaynak" href={kaynakLinki(adim.ref.kitap, kart.sayfa)} target="_blank" rel="noreferrer" title={adim.ref.kitap.baslik}>
+            Kaynak: MEB {ders.ad} ders kitabı · s. {kart.sayfa}
             <Ikon d={IKON.dis} boyut={14} />
           </a>
           <button className="dugme birincil genis" onClick={devam} ref={(b) => b?.focus({ preventScroll: true })}>
@@ -220,7 +221,7 @@ function ovgu() {
 function SonucEkrani({ sonuc, dizin, tip }: { sonuc: Sonuc; dizin: Dizin; tip: OturumTipi }) {
   const p = useIlerleme();
   const isabet = sonuc.toplam ? sonuc.dogru / sonuc.toplam : 0;
-  const sonraki = tip.tip === "konu" ? siradakiKonu(dizin, p, dizin.konular.get(tip.konuId)?.kitap.ders) : undefined;
+  const sonraki = tip.tip === "konu" ? siradakiKonu(dizin, p, dizin.konular.get(tip.konuId)?.kursId) : undefined;
   const dk = Math.floor(sonuc.sureSn / 60);
   const sn = sonuc.sureSn % 60;
 
@@ -257,8 +258,8 @@ function SonucEkrani({ sonuc, dizin, tip }: { sonuc: Sonuc; dizin: Dizin; tip: O
             {sonuc.kacanlar.map((r) => (
               <li key={r.uid}>
                 <p>{r.kart.bilgi}</p>
-                <a href={kaynakLinki(r.kitap, r.kart.sayfa)} target="_blank" rel="noreferrer">
-                  s. {r.kart.sayfa} <Ikon d={IKON.dis} boyut={12} />
+                <a href={kaynakLinki(r.kitap, r.kart.sayfa)} target="_blank" rel="noreferrer" title={r.kitap.baslik}>
+                  MEB · s. {r.kart.sayfa} <Ikon d={IKON.dis} boyut={12} />
                 </a>
               </li>
             ))}
