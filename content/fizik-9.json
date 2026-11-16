@@ -1,0 +1,2877 @@
+{
+ "kitap": "fizik-9",
+ "ders": "fizik",
+ "sinif": 9,
+ "baslik": "Fizik Dersi 9. Sınıf Ders Kitabı",
+ "sayfaUrl": "https://tymm.meb.gov.tr/kitap/38/fizik-dersi-9sinif-ders-kitabi",
+ "pdfUrl": "https://tymm.meb.gov.tr/assets/pdf/fizik-dersi-9sinif-ders-kitabi_20261006_194425_076.pdf",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Fizik Bilimi ve Kariyer Keşfi",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Fizik Bilimi",
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "secmeli",
+       "soru": "Fizik bilimi evreni hangi ilişkiler çerçevesinde inceleyen yasalar ve teoriler bütünü olarak tanımlanır?",
+       "secenekler": [
+        "Hücre, doku, organ ve sistem ilişkileri",
+        "Kuvvet, madde, enerji, uzay ve zaman ilişkileri",
+        "Element, bileşik, karışım ve tepkime ilişkileri",
+        "İklim, yer şekilleri, nüfus ve ekonomi ilişkileri"
+       ],
+       "dogru": 1,
+       "bilgi": "Fizik; evreni kuvvet, madde, enerji, uzay ve zaman ilişkileri çerçevesinde matematiksel hesaplamalar ve gözlemle inceleyen yasalar ve teoriler bütünüdür.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1-02",
+       "tur": "bosluk",
+       "cumle": "Fizik bilimi ortaya koyduğu bağıntıları ve yasaları ifade ederken genellikle ___ dilini kullanır.",
+       "cevap": "matematik",
+       "celdiriciler": [
+        "felsefe",
+        "kimya",
+        "coğrafya"
+       ],
+       "bilgi": "Fizik, yasa ve bağıntılarını ifade ederken genellikle matematik dilini kullanır.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1-03",
+       "tur": "bosluk",
+       "cumle": "Eski Çağ'da fizik alanındaki araştırmalar ___ felsefesinin sınırları içinde yürütülmekteydi.",
+       "cevap": "doğa",
+       "celdiriciler": [
+        "siyaset",
+        "ahlak",
+        "sanat"
+       ],
+       "bilgi": "Eski Çağ'da fizik araştırmaları doğa felsefesi içinde yapılıyordu; Aristo da evrenle ilgili düşüncelerini bu çerçevede açıklamıştır.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1-04",
+       "tur": "secmeli",
+       "soru": "Aristo'nun hareket, mekân, boşluk ve zaman gibi kavramları açıklamaya çalıştığı ve fizikte değişimin genel prensiplerini belirlediği eseri hangisidir?",
+       "secenekler": [
+        "Almagest",
+        "Principia",
+        "Makale Fi'ş-Şükûk Alâ Batlamyus",
+        "Physica"
+       ],
+       "dogru": 3,
+       "bilgi": "Aristo, \"Physica\" adlı eserinde fizikte değişimin genel prensiplerini belirlemiş; hareket, mekân, boşluk ve zaman kavramlarını ele almıştır.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1-05",
+       "tur": "dy",
+       "ifade": "Fizik bilimi olay ve olguları açıklarken deney ve gözleme başvurmaz, yalnızca kuramsal düşünceye dayanır.",
+       "dogru": false,
+       "bilgi": "Fizik bilimi olay ve olguları açıklarken deney ve gözlemle elde edilen bilgilerden yararlanır.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1-06",
+       "tur": "secmeli",
+       "soru": "Fotosentezde Güneş ışığının bitki tarafından soğurulması ve bu enerjinin dönüşümü hangi disiplinle açıklanır?",
+       "secenekler": [
+        "Fizik",
+        "Coğrafya",
+        "Biyoloji",
+        "Astronomi"
+       ],
+       "dogru": 0,
+       "bilgi": "Fotosentezde ışığın soğurulması ve enerji dönüşümü fizikle, karbondioksitin besine dönüşümü ise kimya ve biyolojiyle açıklanır.",
+       "sayfa": 14
+      },
+      {
+       "id": "1.1-07",
+       "tur": "eslestir",
+       "yonerge": "Doğa olaylarını, onları inceleyen disiplinlerle eşleştir.",
+       "ciftler": [
+        [
+         "Güneş'in hareketleri",
+         "Fizik, astronomi ve uzay bilimleri, coğrafya"
+        ],
+        [
+         "İklim olayları",
+         "Fizik ve coğrafya"
+        ],
+        [
+         "Su döngüsü",
+         "Fizik, kimya, biyoloji ve coğrafya"
+        ]
+       ],
+       "bilgi": "Bazı olgular tek bir disiplinin, bazıları ise birden fazla disiplinin inceleme alanına girer.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1-08",
+       "tur": "bosluk",
+       "cumle": "GPS cihazlarının ve LED lambaların çalışma prensipleri ___ ve manyetizma konularıyla açıklanabilir.",
+       "cevap": "elektrik",
+       "celdiriciler": [
+        "ısı",
+        "ses",
+        "basınç"
+       ],
+       "bilgi": "GPS cihazları ve LED lambalar gibi teknolojilerin çalışma prensipleri elektrik ve manyetizma konularına dayanır.",
+       "sayfa": 20
+      },
+      {
+       "id": "1.1-09",
+       "tur": "secmeli",
+       "soru": "Mimar Sinan'ın Süleymaniye Camisi'nde hava akımıyla bir odada topladığı kandil isi daha sonra ne amaçla kullanılmıştır?",
+       "secenekler": [
+        "Çini boyası yapımında",
+        "Sabun üretiminde",
+        "Mürekkep yapımında",
+        "Barut üretiminde"
+       ],
+       "dogru": 2,
+       "bilgi": "Mimar Sinan, kandillerden çıkan isi hava akımıyla kanallar aracılığıyla bir odaya yönlendirmiş; biriken is mürekkep yapımında kullanılmıştır.",
+       "sayfa": 16
+      },
+      {
+       "id": "1.1-10",
+       "tur": "dy",
+       "ifade": "Fizik bilimi doğayı, galaksiler kadar büyük ve atom altı parçacıklar kadar küçük ölçeklerde inceler.",
+       "dogru": true,
+       "bilgi": "Fizik, evrendeki galaksilerden atom altı parçacıklara kadar çok farklı ölçeklerde doğayı inceler.",
+       "sayfa": 22
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "Fizik Biliminin Alt Dalları",
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "secmeli",
+       "soru": "Bilimlerin tasnifi (sınıflandırılması) üzerine yaptığı çalışmalarla bilim tarihine önemli katkı sağlayan Türk bilgini kimdir?",
+       "secenekler": [
+        "Hazini",
+        "Farabi",
+        "İbnülheysem",
+        "Cezeri"
+       ],
+       "dogru": 1,
+       "bilgi": "Farabi; felsefe, fizik, mantık, müzik ve tıp gibi alanlarda eser vermiş, bilimlerin sınıflandırılması üzerine çalışmıştır.",
+       "sayfa": 22
+      },
+      {
+       "id": "1.2-02",
+       "tur": "bosluk",
+       "cumle": "Atom çekirdeğini, temel taneciklerin etkileşimini ve çekirdek tepkimelerini inceleyen nükleer fizik, ___ fiziği olarak da adlandırılır.",
+       "cevap": "çekirdek",
+       "celdiriciler": [
+        "parçacık",
+        "kristal",
+        "plazma"
+       ],
+       "bilgi": "Nükleer fizik, çekirdek fiziği olarak da bilinir; çekirdekteki proton ve nötronları bir arada tutan kuvvetleri ve ışımaları inceler.",
+       "sayfa": 27
+      },
+      {
+       "id": "1.2-03",
+       "tur": "secmeli",
+       "soru": "Kristal yapıya sahip katıların oluşumu ve atom dizilişleriyle ilgilenen fizik alt dalı hangisidir?",
+       "secenekler": [
+        "Atom fiziği",
+        "Termodinamik",
+        "Katı hâl fiziği",
+        "Nükleer fizik"
+       ],
+       "dogru": 2,
+       "bilgi": "Katı hâl fiziği; kristal yapılı katıların manyetik, elektriksel, esneklik, optik ve termal özelliklerini inceler.",
+       "sayfa": 27
+      },
+      {
+       "id": "1.2-04",
+       "tur": "secmeli",
+       "soru": "Yüksek enerji ve plazma fiziğinin incelediği \"maddenin dördüncü hâli\" hangisidir?",
+       "secenekler": [
+        "Plazma",
+        "Sıvı kristal",
+        "Buhar",
+        "İyonik katı"
+       ],
+       "dogru": 0,
+       "bilgi": "Yüksek enerji ve plazma fiziği atom altı parçacıkları ve maddenin dördüncü hâli olan plazmayı inceler; floresan ve neon lambalar bu alanla ilişkilidir.",
+       "sayfa": 28
+      },
+      {
+       "id": "1.2-05",
+       "tur": "dy",
+       "ifade": "Karbon-14 yöntemiyle yaş tayini ve bilgisayarlı tomografi (BT) cihazları atom fiziğinin uygulama alanlarıdır.",
+       "dogru": false,
+       "bilgi": "Karbon-14 ile yaş tayini, BT cihazı, nükleer tıp ve gıdaların raf ömrünün uzatılması nükleer fiziğin uygulama alanlarıdır.",
+       "sayfa": 27
+      },
+      {
+       "id": "1.2-06",
+       "tur": "eslestir",
+       "yonerge": "Fizik alt dallarını uygulama örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Optik",
+         "Dürbün ve fiber optik kablo"
+        ],
+        [
+         "Elektromanyetizma",
+         "Pusula ile yön bulma"
+        ],
+        [
+         "Termodinamik",
+         "Bina ısı yalıtımı"
+        ],
+        [
+         "Katı hâl fiziği",
+         "Hafızalı metaller ve LCD ekranlar"
+        ],
+        [
+         "Atom fiziği",
+         "Lazer ve elektron mikroskobu"
+        ]
+       ],
+       "bilgi": "Fiziğin her alt dalı, günlük hayatta kullanılan farklı teknolojilerin geliştirilmesine katkı sağlar.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-07",
+       "tur": "secmeli",
+       "soru": "Kuvvet, hareket ve enerji arasındaki ilişkiler ile cisimlerin hareket ve denge şartlarını inceleyen fizik alt dalı hangisidir?",
+       "secenekler": [
+        "Optik",
+        "Elektromanyetizma",
+        "Atom fiziği",
+        "Mekanik"
+       ],
+       "dogru": 3,
+       "bilgi": "Mekanik; yıldız ve gezegenlerin hareketi, sesin oluşumu gibi olayları açıklar; bisiklet ve kaykay gibi araçlar mekanikten yararlanılarak üretilir.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.2-08",
+       "tur": "dy",
+       "ifade": "Optik; yansıma, kırılma, gölge ve renk oluşumu gibi ışıkla ilgili konuları inceler.",
+       "dogru": true,
+       "bilgi": "Optik ışık ve ışık olaylarını inceler; gözlük, dürbün ve fiber optik kablolar optiğin uygulama alanındadır.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-09",
+       "tur": "bosluk",
+       "cumle": "Yüklü parçacıkların etkileşimi, mıknatıslar ve çevrelerinde oluşan manyetik alanlar ___ alt dalının çalışma alanındadır.",
+       "cevap": "elektromanyetizma",
+       "celdiriciler": [
+        "termodinamik",
+        "mekanik",
+        "optik"
+       ],
+       "bilgi": "Elektromanyetizma elektrik ve manyetizmayla ilgilenir; metal atıkların mıknatısla ayrıştırılması da bu alanla ilişkilidir.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-10",
+       "tur": "secmeli",
+       "soru": "Güneş ışınlarının yağmur damlalarında kırılıp yansımasıyla gökkuşağının oluşması fiziğin hangi alt dalıyla ilişkilidir?",
+       "secenekler": [
+        "Termodinamik",
+        "Optik",
+        "Mekanik",
+        "Nükleer fizik"
+       ],
+       "dogru": 1,
+       "bilgi": "Gökkuşağı, güneş ışınlarının yağmur damlalarına girip kırılması, yansıması ve tekrar kırılmasıyla oluşur; bu olay optikle açıklanır.",
+       "sayfa": 28
+      },
+      {
+       "id": "1.2-11",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi fizik biliminin zaman içinde alt dallara ayrılmasının nedenlerinden biridir?",
+       "secenekler": [
+        "Çalışılan konuların daralması",
+        "Bilgi birikiminin artması",
+        "Deneysel çalışmaların azalması",
+        "Matematiğin fizikten ayrılması"
+       ],
+       "dogru": 1,
+       "bilgi": "Alt dallara ayrılmanın nedenleri bilgi birikiminin artması, konuların geniş çaplı olması ve karmaşıklığın giderilmesi ihtiyacıdır.",
+       "sayfa": 22
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "Fizik Bilimine Yön Verenler",
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "secmeli",
+       "soru": "Batlamyus'un astronomi çalışmalarını eleştirdiği ve bilgi edinmede şüphenin önemini vurguladığı eseri yazan bilim insanı kimdir?",
+       "secenekler": [
+        "Hazini",
+        "Farabi",
+        "İbnülheysem",
+        "Cezeri"
+       ],
+       "dogru": 2,
+       "bilgi": "İbnülheysem, \"Makale Fi'ş-Şükûk Alâ Batlamyus\" adlı eserinde eleştirel düşüncenin ve şüphenin önemini vurgulamıştır.",
+       "sayfa": 29
+      },
+      {
+       "id": "1.3-02",
+       "tur": "bosluk",
+       "cumle": "XII. yüzyılda maddelerin yoğunluklarını ölçmeye çalışan ___, icat ettiği terazilerle günümüz hassas terazilerinin ilk örneklerini ortaya koymuştur.",
+       "cevap": "Hazini",
+       "celdiriciler": [
+        "İbnülheysem",
+        "Cezeri",
+        "Farabi"
+       ],
+       "bilgi": "Hazini'nin yoğunluk hesapları günümüzde teknolojik cihazlarla elde edilen değerlere çok yakındır.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.3-03",
+       "tur": "secmeli",
+       "soru": "Isaac Newton, dinamiğin üç yasasını ve evrensel kütle çekim yasasını hangi bilim insanlarının yasalarından hareketle bulmuştur?",
+       "secenekler": [
+        "Galileo Galilei ve Johannes Kepler",
+        "Aristo ve Batlamyus",
+        "Michael Faraday ve James Maxwell",
+        "Pierre Curie ve Marie Curie"
+       ],
+       "dogru": 0,
+       "bilgi": "Newton'ın \"omuzlarından baktığım devler\" dediği bilim insanları Galileo Galilei ve Johannes Kepler'dir.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.3-04",
+       "tur": "dy",
+       "ifade": "Marie Curie ve Pierre Curie, 1898 yılında radyum ve polonyum elementlerini keşfetmiştir.",
+       "dogru": true,
+       "bilgi": "Radyoaktivite üzerine çalışan Curie çifti 1898'de radyum ve polonyumu keşfetmiş; Marie Curie fizik ve kimya alanlarında Nobel Ödülü almıştır.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.3-05",
+       "tur": "dy",
+       "ifade": "Maria Goeppert-Mayer, fizik alanında Nobel Ödülü alan ilk kadın bilim insanıdır.",
+       "dogru": false,
+       "bilgi": "Maria Goeppert-Mayer, atom çekirdeğindeki nükleer kabukların yapısı üzerine çalışmalarıyla fizik Nobel Ödülü alan ikinci kadın bilim insanıdır.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.3-06",
+       "tur": "eslestir",
+       "yonerge": "Bilim insanlarını çalışmalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Isaac Newton",
+         "Evrensel kütle çekim yasası"
+        ],
+        [
+         "Albert Einstein",
+         "Genel Görelilik Teorisi"
+        ],
+        [
+         "Marie Curie",
+         "Radyum ve polonyumun keşfi"
+        ],
+        [
+         "Maria Goeppert-Mayer",
+         "Nükleer kabukların yapısı"
+        ],
+        [
+         "Hazini",
+         "Yoğunluk ölçümünde kullanılan teraziler"
+        ]
+       ],
+       "bilgi": "Fizik bilim insanlarının çalışmaları fiziğin temel kavramlarını, yasalarını ve teorilerini oluşturmuştur.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.3-07",
+       "tur": "secmeli",
+       "soru": "Matematik eksikliği nedeniyle teorilerini matematiksel olarak ifade edemeyen Michael Faraday'in bu boşluğunu hangi bilim insanı doldurmuştur?",
+       "secenekler": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Stephen Hawking",
+        "James Maxwell"
+       ],
+       "dogru": 3,
+       "bilgi": "Kitapçıda çalışırken kendini eğiten Faraday'in teorilerindeki matematiksel boşluğu iyi bir eğitim almış olan James Maxwell doldurmuştur.",
+       "sayfa": 32
+      },
+      {
+       "id": "1.3-08",
+       "tur": "bosluk",
+       "cumle": "Albert Einstein, Özel Görelilik Teorisi'nin temellerini atan makalelerini ___ yılında yayımlamıştır.",
+       "cevap": "1905",
+       "celdiriciler": [
+        "1900",
+        "1915",
+        "1898"
+       ],
+       "bilgi": "Einstein 1905'te Özel Görelilik ve E = m·c² ile ilgili makalelerini, 1915'te ise Genel Görelilik Teorisi'ni yayımlamıştır.",
+       "sayfa": 35
+      },
+      {
+       "id": "1.3-09",
+       "tur": "secmeli",
+       "soru": "Atom fiziği alanındaki teorik araştırmalarıyla dünya çapında tanınan Türk bilim insanları hangi seçenekte birlikte verilmiştir?",
+       "secenekler": [
+        "Farabi, Hazini, İbnülheysem",
+        "Feza Gürsey, Asım Orhan Barut, Behram Kurşunoğlu",
+        "Cezeri, Farabi, Mimar Sinan",
+        "Hazini, Cezeri, Alper Gezeravcı"
+       ],
+       "dogru": 1,
+       "bilgi": "Feza Gürsey, Asım Orhan Barut ve Behram Kurşunoğlu atom fiziğindeki özgün teorik çalışmalarıyla genç araştırmacılara ilham olmuştur.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.3-10",
+       "tur": "dy",
+       "ifade": "Albert Einstein'ı bilime yönelten \"pusula olayı\"nda pusulayı ona öğretmeni hediye etmiştir.",
+       "dogru": false,
+       "bilgi": "Einstein'a pusulayı amcası hediye etmiş; iğnenin hep kuzeyi göstermesi onda derin ve kalıcı bir merak uyandırmıştır.",
+       "sayfa": 34
+      },
+      {
+       "id": "1.3-11",
+       "tur": "bosluk",
+       "cumle": "Einstein, Genel Görelilik Teorisi için hızlanan asansörleri hayal ettiği ___ deneyleri yapmış, bulgularını sonra denklemlere çevirmiştir.",
+       "cevap": "düşünce",
+       "celdiriciler": [
+        "laboratuvar",
+        "saha",
+        "kontrollü"
+       ],
+       "bilgi": "Einstein düşünce deneyleriyle elde ettiği bulguları denklemlere dönüştürmüş, eleştirilere rağmen teorilerini geliştirmeyi sürdürmüştür.",
+       "sayfa": 35
+      }
+     ]
+    },
+    {
+     "no": "1.4",
+     "ad": "Fizik Bilimi ile İlgili Kariyer Keşfi",
+     "kartlar": [
+      {
+       "id": "1.4-01",
+       "tur": "secmeli",
+       "soru": "Atom üzerine çalışacak bir Avrupa laboratuvarı (CERN) kurma fikrini 1949'da ortaya atan fizikçi kimdir?",
+       "secenekler": [
+        "James Maxwell",
+        "Louis de Broglie",
+        "Michael Faraday",
+        "Stephen Hawking"
+       ],
+       "dogru": 1,
+       "bilgi": "CERN fikrini 1949'da Louis de Broglie ortaya atmış, laboratuvar 1954'te 12 ülkenin iş birliğiyle resmen kurulmuştur.",
+       "sayfa": 36
+      },
+      {
+       "id": "1.4-02",
+       "tur": "bosluk",
+       "cumle": "Genel ağın temeli olan World Wide Web (WWW) ___ bünyesinde geliştirilmiştir.",
+       "cevap": "CERN",
+       "celdiriciler": [
+        "NASA",
+        "ESA",
+        "TÜBİTAK"
+       ],
+       "bilgi": "Dokunmatik ekranlar, tıbbi görüntüleme teknolojileri ve WWW, CERN'de yapılan çalışmalarla geliştirilmiştir.",
+       "sayfa": 36
+      },
+      {
+       "id": "1.4-03",
+       "tur": "bosluk",
+       "cumle": "CERN'deki Büyük Hadron Çarpıştırıcısı, yerin yaklaşık 100 metre altında bulunan ___ km uzunluğunda halka şeklinde bir yapıdır.",
+       "cevap": "27",
+       "celdiriciler": [
+        "10",
+        "54",
+        "100"
+       ],
+       "bilgi": "Dünyanın en büyük parçacık hızlandırıcısı olan Büyük Hadron Çarpıştırıcısı, Fransa-İsviçre sınırında Cenevre yakınlarındadır.",
+       "sayfa": 36
+      },
+      {
+       "id": "1.4-04",
+       "tur": "eslestir",
+       "yonerge": "Kurumları başlıca çalışma alanlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "TENMAK",
+         "Nükleer teknoloji ve radyoaktif atık yönetimi"
+        ],
+        [
+         "MTA",
+         "Yer bilimleri ve madencilik araştırmaları"
+        ],
+        [
+         "TUA",
+         "Uzay ve havacılık teknolojileri"
+        ],
+        [
+         "ASELSAN",
+         "Savunma elektroniği ve haberleşme sistemleri"
+        ],
+        [
+         "TÜBİTAK",
+         "AR-GE çalışmalarını destekleme ve koordine etme"
+        ]
+       ],
+       "bilgi": "TÜBİTAK, TENMAK, MTA, TUA ve ASELSAN fizik bilimiyle ilgili çalışmaların yapıldığı başlıca Türk kurumlarıdır.",
+       "sayfa": 40
+      },
+      {
+       "id": "1.4-05",
+       "tur": "secmeli",
+       "soru": "Türk Silahlı Kuvvetlerinin haberleşme ihtiyaçlarını millî imkânlarla karşılamak amacıyla 1975'te kurulan kuruluş hangisidir?",
+       "secenekler": [
+        "TENMAK",
+        "MTA",
+        "TUA",
+        "ASELSAN"
+       ],
+       "dogru": 3,
+       "bilgi": "1975'te kurulan ASELSAN'da radar, elektronik harp, insansız sistemler ve hava savunma gibi alanlarda çalışmalar yapılır.",
+       "sayfa": 40
+      },
+      {
+       "id": "1.4-06",
+       "tur": "dy",
+       "ifade": "ESA, ABD'de kurulmuş ve ülkenin uzay programlarını yürüten bir araştırma merkezidir.",
+       "dogru": false,
+       "bilgi": "ESA, uzayın keşfini amaçlayan ve Paris'te kurulan hükûmetler arası bir organizasyondur; ABD'deki uzay kurumu NASA'dır.",
+       "sayfa": 41
+      },
+      {
+       "id": "1.4-07",
+       "tur": "secmeli",
+       "soru": "Fizik mezunlarının radyoloji, nükleer tıp ve radyoterapi gibi alanlarda uzman veya araştırmacı olarak çalıştığı kariyer alanı hangisidir?",
+       "secenekler": [
+        "Medikal fizik",
+        "Bilgi teknolojileri",
+        "Akademik kariyer",
+        "Eğitim alanı"
+       ],
+       "dogru": 0,
+       "bilgi": "Medikal fizik; radyoloji, nükleer tıp ve radyoterapi alanlarında fizikçilere kariyer olanağı sunar.",
+       "sayfa": 43
+      },
+      {
+       "id": "1.4-08",
+       "tur": "bosluk",
+       "cumle": "CERN'deki Büyük Hadron Çarpıştırıcısı (LHC), ___ ışık süratine yakın süratlerde çarpıştırır.",
+       "cevap": "protonları",
+       "celdiriciler": [
+        "elektronları",
+        "nötronları",
+        "fotonları"
+       ],
+       "bilgi": "Dünyanın en büyük parçacık fiziği laboratuvarı olan CERN, atom altı parçacıkları büyük hızlandırıcılarla inceler.",
+       "sayfa": 41
+      },
+      {
+       "id": "1.4-09",
+       "tur": "secmeli",
+       "soru": "Makine mühendisliği eğitimindeki \"ısı transferi\" dersi fiziğin hangi alt dalıyla ilişkilidir?",
+       "secenekler": [
+        "Mekanik",
+        "Termodinamik",
+        "Optik",
+        "Katı hâl fiziği"
+       ],
+       "dogru": 1,
+       "bilgi": "Makine mühendisliğinde mukavemet ve dinamik mekanikle, ısı transferi termodinamikle, nanoteknoloji katı hâl fiziğiyle ilişkilidir.",
+       "sayfa": 41
+      },
+      {
+       "id": "1.4-10",
+       "tur": "dy",
+       "ifade": "Türkiye'nin insanlı ilk uzay görevi, Türkiye Uzay Ajansının Millî Uzay Programı kapsamında Alper Gezeravcı tarafından gerçekleştirilmiştir.",
+       "dogru": true,
+       "bilgi": "Türkiye'nin ilk astronotu Alper Gezeravcı, TUA'nın Millî Uzay Programı kapsamında insanlı ilk uzay görevini gerçekleştirmiştir.",
+       "sayfa": 15
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Kuvvet ve Hareket",
+   "konular": [
+    {
+     "no": "2.1",
+     "ad": "Temel ve Türetilmiş Nicelikler",
+     "kartlar": [
+      {
+       "id": "2.1-01",
+       "tur": "secmeli",
+       "soru": "Uluslararası Birimler Sistemi (SI) hangi yıl ve nerede düzenlenen \"Ağırlıklar ve Ölçümler Konferansı\"nda tanımlanmıştır?",
+       "secenekler": [
+        "1875, Londra",
+        "1954, Cenevre",
+        "1960, Paris",
+        "1905, Berlin"
+       ],
+       "dogru": 2,
+       "bilgi": "SI, 1960'ta Paris'teki Ağırlıklar ve Ölçümler Konferansı'nda tanımlanıp resmî statü kazanmış ve uluslararası iletişimi kolaylaştırmıştır.",
+       "sayfa": 54
+      },
+      {
+       "id": "2.1-02",
+       "tur": "bosluk",
+       "cumle": "SI'nın kabul edildiği konferansta ___ temel nicelik belirlenmiştir.",
+       "cevap": "yedi",
+       "celdiriciler": [
+        "beş",
+        "altı",
+        "dokuz"
+       ],
+       "bilgi": "Yedi temel nicelik: uzunluk, kütle, zaman, elektrik akımı, sıcaklık, ışık şiddeti ve madde miktarıdır.",
+       "sayfa": 54
+      },
+      {
+       "id": "2.1-03",
+       "tur": "eslestir",
+       "yonerge": "Temel nicelikleri SI'daki birimleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Elektrik akımı",
+         "amper (A)"
+        ],
+        [
+         "Sıcaklık",
+         "kelvin (K)"
+        ],
+        [
+         "Işık şiddeti",
+         "kandela (cd)"
+        ],
+        [
+         "Madde miktarı",
+         "mol (mol)"
+        ],
+        [
+         "Kütle",
+         "kilogram (kg)"
+        ]
+       ],
+       "bilgi": "SI'da uzunluk metre, kütle kilogram, zaman saniye, elektrik akımı amper, sıcaklık kelvin, ışık şiddeti kandela, madde miktarı mol ile ölçülür.",
+       "sayfa": 55
+      },
+      {
+       "id": "2.1-04",
+       "tur": "dy",
+       "ifade": "Temel nicelikler doğrudan ölçülüp kendi başına ifade edilebilirken türetilmiş nicelikler temel niceliklerle kurulan matematiksel modellerle tanımlanır.",
+       "dogru": true,
+       "bilgi": "Fiziksel nicelikler temel ve türetilmiş olarak ikiye ayrılır; türetilmiş nicelikler temel niceliklerden elde edilir.",
+       "sayfa": 57
+      },
+      {
+       "id": "2.1-05",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi temel niceliktir?",
+       "secenekler": [
+        "Kuvvet",
+        "Işık şiddeti",
+        "Yoğunluk",
+        "Hacim"
+       ],
+       "dogru": 1,
+       "bilgi": "Işık şiddeti temel niceliktir; kuvvet, yoğunluk ve hacim ise türetilmiş niceliklerdir.",
+       "sayfa": 59
+      },
+      {
+       "id": "2.1-06",
+       "tur": "secmeli",
+       "soru": "Temel niceliklerden ışık şiddetini ölçmede kullanılan alet hangisidir?",
+       "secenekler": [
+        "Ampermetre",
+        "Termometre",
+        "Dinamometre",
+        "Fotometre"
+       ],
+       "dogru": 3,
+       "bilgi": "Işık şiddeti fotometreyle, elektrik akımı ampermetreyle, sıcaklık termometreyle ölçülür.",
+       "sayfa": 55
+      },
+      {
+       "id": "2.1-07",
+       "tur": "bosluk",
+       "cumle": "Türetilmiş bir nicelik olan basıncın SI'daki birimine ___ denir.",
+       "cevap": "pascal",
+       "celdiriciler": [
+        "newton",
+        "joule",
+        "coulomb"
+       ],
+       "bilgi": "Türetilmiş birimlerden kuvvet newton, enerji joule, basınç pascal, elektrik yükü coulomb olarak adlandırılır.",
+       "sayfa": 57
+      },
+      {
+       "id": "2.1-08",
+       "tur": "dy",
+       "ifade": "SI'da birimi joule olan enerji bir temel niceliktir.",
+       "dogru": false,
+       "bilgi": "Enerji, birimi joule (kg·m²/s²) olan türetilmiş bir niceliktir.",
+       "sayfa": 57
+      },
+      {
+       "id": "2.1-09",
+       "tur": "secmeli",
+       "soru": "SI'daki birimi kg·m²/s³ olan güç niceliği hangi temel niceliklerden türetilmiştir?",
+       "secenekler": [
+        "Kütle, uzunluk ve zaman",
+        "Kütle, sıcaklık ve zaman",
+        "Uzunluk, elektrik akımı ve zaman",
+        "Madde miktarı, uzunluk ve zaman"
+       ],
+       "dogru": 0,
+       "bilgi": "Birimdeki kg kütleyi, m uzunluğu, s zamanı gösterdiğinden güç bu üç temel nicelikten türetilir.",
+       "sayfa": 57
+      },
+      {
+       "id": "2.1-10",
+       "tur": "dy",
+       "ifade": "Bir niceliği ölçmek, onu farklı cinsten bir büyüklükle karşılaştırmak demektir.",
+       "dogru": false,
+       "bilgi": "Ölçme, niceliği aynı cinsten ve standart olarak belirlenmiş bir büyüklükle karşılaştırmaktır.",
+       "sayfa": 54
+      }
+     ]
+    },
+    {
+     "no": "2.2",
+     "ad": "Skaler ve Vektörel Nicelikler",
+     "kartlar": [
+      {
+       "id": "2.2-01",
+       "tur": "bosluk",
+       "cumle": "Yalnızca bir sayı ve bir birimle ifade edilebilen niceliklere ___ nicelik denir.",
+       "cevap": "skaler",
+       "celdiriciler": [
+        "vektörel",
+        "türetilmiş",
+        "temel"
+       ],
+       "bilgi": "Kütle, sıcaklık, hacim ve zaman gibi nicelikler skalerdir; yön bilgisi gerektirmez.",
+       "sayfa": 61
+      },
+      {
+       "id": "2.2-02",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi vektörel bir niceliktir?",
+       "secenekler": [
+        "Kütle",
+        "Sıcaklık",
+        "Kuvvet",
+        "Yoğunluk"
+       ],
+       "dogru": 2,
+       "bilgi": "Kuvvet ve hız vektörel; kütle, sıcaklık, yoğunluk, hacim, uzunluk, enerji ve zaman skaler niceliklerdir.",
+       "sayfa": 63
+      },
+      {
+       "id": "2.2-03",
+       "tur": "dy",
+       "ifade": "Yolculuk süresini belirten zaman niceliği, yön bilgisine ihtiyaç duymadığı için skalerdir.",
+       "dogru": true,
+       "bilgi": "Zaman yön gerektirmeyen skaler bir niceliktir.",
+       "sayfa": 60
+      },
+      {
+       "id": "2.2-04",
+       "tur": "secmeli",
+       "soru": "Vektörel nicelikleri skaler niceliklerden ayıran temel özellik hangisidir?",
+       "secenekler": [
+        "Doğrudan ölçülebilmeleri",
+        "Yön bilgisi de gerektirmeleri",
+        "Temel niceliklerden türetilmeleri",
+        "Birimsiz ifade edilebilmeleri"
+       ],
+       "dogru": 1,
+       "bilgi": "Vektörel niceliklerde sayı ve birimin yanında yönün de belirtilmesi gerekir.",
+       "sayfa": 63
+      },
+      {
+       "id": "2.2-05",
+       "tur": "dy",
+       "ifade": "Bir cisme etki eden toplam kuvvet, kuvvetlerin büyüklüğünün yanı sıra uygulanma yönlerine de bağlıdır.",
+       "dogru": true,
+       "bilgi": "Aynı yönlü kuvvetlerin etkisi toplanır, zıt yönlü kuvvetlerin etkisi birbirinden çıkarılır; bu yüzden kuvvet vektöreldir.",
+       "sayfa": 61
+      },
+      {
+       "id": "2.2-06",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki ifadelerin hangisinde vektörel bir nicelik verilmiştir?",
+       "secenekler": [
+        "Suyun yoğunluğu 1.000 kg/m³'tür.",
+        "Rüzgâr kuzeybatı yönünde 12 km/h hızla esiyor.",
+        "Ölçülebilecek en düşük sıcaklık 0 K'dir.",
+        "Yolculuk ortalama 6 saat sürmektedir."
+       ],
+       "dogru": 1,
+       "bilgi": "Yönüyle birlikte verilen hız vektöreldir; yoğunluk, sıcaklık ve zaman skalerdir.",
+       "sayfa": 62
+      },
+      {
+       "id": "2.2-07",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi hem skaler hem de temel niceliktir?",
+       "secenekler": [
+        "Enerji",
+        "Kuvvet",
+        "Hız",
+        "Kütle"
+       ],
+       "dogru": 3,
+       "bilgi": "Kütle hem skaler hem temel niceliktir; enerji skaler ama türetilmiş, kuvvet ve hız ise vektörel ve türetilmiştir.",
+       "sayfa": 63
+      },
+      {
+       "id": "2.2-08",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi skaler ve türetilmiş bir niceliktir?",
+       "secenekler": [
+        "Hacim",
+        "Zaman",
+        "Kuvvet",
+        "Uzunluk"
+       ],
+       "dogru": 0,
+       "bilgi": "Hacim (m³) skaler ve türetilmiş bir niceliktir; zaman ve uzunluk temel, kuvvet vektöreldir.",
+       "sayfa": 59
+      },
+      {
+       "id": "2.2-09",
+       "tur": "bosluk",
+       "cumle": "Pazardan alınan 3 kg sebze ile 2 kg meyvenin toplam kütlesi bulunurken ___ bilgisine ihtiyaç duyulmaz.",
+       "cevap": "yön",
+       "celdiriciler": [
+        "birim",
+        "miktar",
+        "büyüklük"
+       ],
+       "bilgi": "Skaler niceliklerle işlem yaparken büyüklük ve birim yeterlidir, yön bilgisi gerekmez.",
+       "sayfa": 61
+      }
+     ]
+    },
+    {
+     "no": "2.3",
+     "ad": "Vektörler",
+     "kartlar": [
+      {
+       "id": "2.3-01",
+       "tur": "bosluk",
+       "cumle": "İki veya daha fazla vektörel niceliğin yaptığı etkiyi tek başına yapabilen vektöre ___ vektör denir.",
+       "cevap": "bileşke",
+       "celdiriciler": [
+        "eşit",
+        "zıt",
+        "konum"
+       ],
+       "bilgi": "Bileşke vektör R ile gösterilir ve vektörlerin toplanmasıyla bulunur.",
+       "sayfa": 72
+      },
+      {
+       "id": "2.3-02",
+       "tur": "secmeli",
+       "soru": "Vektörlerin toplanmasında kullanılan uç uca ekleme yöntemi başka hangi adla da bilinir?",
+       "secenekler": [
+        "Paralelkenar yöntemi",
+        "Üçgen yöntemi",
+        "Bileşenlere ayırma yöntemi",
+        "İz düşüm yöntemi"
+       ],
+       "dogru": 1,
+       "bilgi": "Uç uca ekleme (üçgen) yönteminde bir vektör, yönü ve büyüklüğü değiştirilmeden diğerinin bitiş noktasına taşınır.",
+       "sayfa": 75
+      },
+      {
+       "id": "2.3-03",
+       "tur": "dy",
+       "ifade": "Yönü ve büyüklüğü aynı olan iki vektör eşit vektördür; bu nedenle bir vektör özellikleri değiştirilmeden paralel olarak taşınabilir.",
+       "dogru": true,
+       "bilgi": "Eşit vektörlerin yönü ve büyüklüğü aynıdır; zıt vektörlerin büyüklüğü aynı, yönü terstir.",
+       "sayfa": 68
+      },
+      {
+       "id": "2.3-04",
+       "tur": "secmeli",
+       "soru": "Bir vektör 0 ile 1 arasındaki pozitif bir gerçek sayıyla çarpılırsa vektörde ne olur?",
+       "secenekler": [
+        "Yönü değişmez, büyüklüğü artar.",
+        "Yönü ters döner, büyüklüğü azalır.",
+        "Yönü değişmez, büyüklüğü azalır.",
+        "Yönü ters döner, büyüklüğü değişmez."
+       ],
+       "dogru": 2,
+       "bilgi": "Pozitif sayıyla çarpılan vektörün yönü değişmez; sayı 1'den büyükse büyüklüğü artar, 1'den küçükse azalır.",
+       "sayfa": 68
+      },
+      {
+       "id": "2.3-05",
+       "tur": "dy",
+       "ifade": "Bir vektör -1 ile çarpıldığında hem yönü hem de büyüklüğü değişir.",
+       "dogru": false,
+       "bilgi": "-1 ile çarpılan vektörün yönü ters döner ama büyüklüğü değişmez; negatif sayıyla çarpım her zaman yönü değiştirir.",
+       "sayfa": 71
+      },
+      {
+       "id": "2.3-06",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki vektörel niceliklerden hangileri birbiriyle toplanamaz?",
+       "secenekler": [
+        "Motorun ve rüzgârın uçağa uyguladığı itme kuvvetleri",
+        "Hız vektörü ile kuvvet vektörü",
+        "Uçak motorunun sağladığı hız ile rüzgârın sürükleme hızı",
+        "Aynı cisme etki eden iki kuvvet vektörü"
+       ],
+       "dogru": 1,
+       "bilgi": "Yalnızca aynı tür nicelikler toplanabilir: kuvvet kuvvetle, hız hızla toplanır; hız ile kuvvet toplanamaz.",
+       "sayfa": 72
+      },
+      {
+       "id": "2.3-07",
+       "tur": "bosluk",
+       "cumle": "Bir vektörün koordinat sisteminin eksenleri üzerindeki iz düşümlerinin her birine ___ denir.",
+       "cevap": "bileşen",
+       "celdiriciler": [
+        "bileşke",
+        "orijin",
+        "doğrultu"
+       ],
+       "bilgi": "Bir vektörün x ve y eksenlerindeki bileşenlerinin vektörel toplamı vektörün kendisine eşittir.",
+       "sayfa": 79
+      },
+      {
+       "id": "2.3-08",
+       "tur": "eslestir",
+       "yonerge": "Vektörlerle ilgili yöntem ve kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Uç uca ekleme yöntemi",
+         "Bir vektör diğerinin bitiş noktasına taşınır."
+        ],
+        [
+         "Paralelkenar yöntemi",
+         "İki vektörün başlangıç noktaları aynı noktaya getirilir."
+        ],
+        [
+         "Bileşenlere ayırma",
+         "Vektörün başlangıcı koordinat sisteminin orijinine getirilir."
+        ],
+        [
+         "Zıt vektör",
+         "Büyüklüğü aynı, yönü ters olan vektör"
+        ]
+       ],
+       "bilgi": "Vektörler uç uca ekleme, paralelkenar veya bileşenlere ayırma yöntemleriyle toplanabilir.",
+       "sayfa": 85
+      },
+      {
+       "id": "2.3-09",
+       "tur": "dy",
+       "ifade": "Vektörlerin toplanmasında elde edilen bileşke vektör, vektörlerin toplanma sırasına göre değişir.",
+       "dogru": false,
+       "bilgi": "Vektörel toplama sırasından bağımsızdır; değişme özelliğine göre A + B = B + A'dır.",
+       "sayfa": 76
+      },
+      {
+       "id": "2.3-10",
+       "tur": "secmeli",
+       "soru": "Vektörler modern hâliyle hangi dönemde, hangi alanın yasalarını ifade etmek için kullanılmaya başlanmıştır?",
+       "secenekler": [
+        "XIX. yüzyıl sonu, elektromanyetizma",
+        "XVII. yüzyıl, gök cisimlerinin hareketleri",
+        "XX. yüzyıl başı, atom fiziği",
+        "XVIII. yüzyıl, termodinamik"
+       ],
+       "dogru": 0,
+       "bilgi": "Vektörler XIX. yüzyılın sonlarında elektromanyetizma yasalarını ifade etmek için kullanılmaya başlanmıştır.",
+       "sayfa": 64
+      },
+      {
+       "id": "2.3-11",
+       "tur": "bosluk",
+       "cumle": "Eksenleri birbirine dik olan dik kartezyen koordinat sisteminde eksenlerin kesiştiği nokta ___ olarak adlandırılır.",
+       "cevap": "orijin",
+       "celdiriciler": [
+        "bileşke",
+        "iz düşüm",
+        "denge noktası"
+       ],
+       "bilgi": "Orijin \"O\" harfiyle gösterilir; kartezyen koordinat sistemi bir cismin bulunduğu yeri tanımlamak için kullanılır.",
+       "sayfa": 80
+      }
+     ]
+    },
+    {
+     "no": "2.4",
+     "ad": "Doğadaki Temel Kuvvetler",
+     "kartlar": [
+      {
+       "id": "2.4-01",
+       "tur": "secmeli",
+       "soru": "Atom çekirdeğindeki proton ve nötronları bir arada tutan, etki mesafesi çekirdekle sınırlı olan en güçlü temel kuvvet hangisidir?",
+       "secenekler": [
+        "Zayıf nükleer kuvvet",
+        "Elektromanyetik kuvvet",
+        "Güçlü nükleer kuvvet",
+        "Kütle çekim kuvveti"
+       ],
+       "dogru": 2,
+       "bilgi": "Güçlü nükleer kuvvet doğadaki en güçlü kuvvettir ve atom çekirdeğinin yapısını korur.",
+       "sayfa": 86
+      },
+      {
+       "id": "2.4-02",
+       "tur": "bosluk",
+       "cumle": "Bir cismi harekete geçirebilen, durdurabilen, yönünü veya şeklini değiştirebilen etki olan kuvvetin SI'daki birimi ___ olarak adlandırılır.",
+       "cevap": "newton",
+       "celdiriciler": [
+        "joule",
+        "pascal",
+        "kelvin"
+       ],
+       "bilgi": "Kuvvet F sembolüyle gösterilir ve birimi newtondur (N).",
+       "sayfa": 89
+      },
+      {
+       "id": "2.4-03",
+       "tur": "dy",
+       "ifade": "Güçlü nükleer kuvvetin etki mesafesinin sonsuz olduğu kabul edilir.",
+       "dogru": false,
+       "bilgi": "Güçlü nükleer kuvvetin etki mesafesi atom çekirdeğiyle sınırlıdır; etki mesafesi sonsuz kabul edilenler elektromanyetik ve kütle çekim kuvvetleridir.",
+       "sayfa": 87
+      },
+      {
+       "id": "2.4-04",
+       "tur": "secmeli",
+       "soru": "Atom çekirdeğinin kararsız olmasına yol açan ve nükleer santrallerin temelini oluşturan çekirdek parçalanmalarında etkili olan kuvvet hangisidir?",
+       "secenekler": [
+        "Kütle çekim kuvveti",
+        "Zayıf nükleer kuvvet",
+        "Elektromanyetik kuvvet",
+        "Sürtünme kuvveti"
+       ],
+       "dogru": 1,
+       "bilgi": "Zayıf nükleer kuvvet proton ve nötronların başka parçacıklara dönüşmesini sağlar; etki alanı güçlü nükleer kuvvetten kısadır.",
+       "sayfa": 90
+      },
+      {
+       "id": "2.4-05",
+       "tur": "eslestir",
+       "yonerge": "Olayları, gerçekleşmesinde etkili olan temel kuvvetle eşleştir.",
+       "ciftler": [
+        [
+         "Okyanuslarda gelgit oluşması",
+         "Kütle çekim kuvveti"
+        ],
+        [
+         "Pusulayla yön bulunması",
+         "Elektromanyetik kuvvet"
+        ],
+        [
+         "Demir çekirdeğinin dağılmadan bir arada kalması",
+         "Güçlü nükleer kuvvet"
+        ],
+        [
+         "Yaş tayininde karbon atomlarının azota dönüşmesi",
+         "Zayıf nükleer kuvvet"
+        ]
+       ],
+       "bilgi": "Doğadaki dört temel kuvvet güçlü nükleer, zayıf nükleer, elektromanyetik ve kütle çekim kuvvetleridir.",
+       "sayfa": 90
+      },
+      {
+       "id": "2.4-06",
+       "tur": "dy",
+       "ifade": "Aristo'nun kuvvet anlayışında kuvvetin etki edebilmesi için maddelerin temas hâlinde olması gerekmiyordu.",
+       "dogru": false,
+       "bilgi": "Aristo'nun kuvvet kavramı maddelerin temas hâlinde olmasını gerektiriyordu; bu yaklaşım 1500'lü yıllara kadar kabul görmüştür.",
+       "sayfa": 86
+      },
+      {
+       "id": "2.4-07",
+       "tur": "secmeli",
+       "soru": "Zayıf ve elektromanyetik kuvvetlerin birleşik alan teorisiyle 1979'da Nobel Fizik Ödülü alan bilim insanı kimdir?",
+       "secenekler": [
+        "Feza Gürsey",
+        "Stephen Hawking",
+        "Albert Einstein",
+        "Muhammed Abdüsselam"
+       ],
+       "dogru": 3,
+       "bilgi": "Muhammed Abdüsselam'ın bu çalışması Glashow-Selam-Weinberg Teorisi olarak adlandırılır.",
+       "sayfa": 91
+      },
+      {
+       "id": "2.4-08",
+       "tur": "bosluk",
+       "cumle": "Aristo'nun kuvvetle ilgili yaklaşımının yanlışlığını Galileo Galilei ve ___ göstermiş, klasik mekaniğin temellerini oluşturmuştur.",
+       "cevap": "Isaac Newton",
+       "celdiriciler": [
+        "Arşimet",
+        "Johannes Kepler",
+        "Albert Einstein"
+       ],
+       "bilgi": "Galileo ve Newton'ın çalışmalarıyla Aristo'nun kuvvet anlayışı terk edilmiş, klasik mekanik kurulmuştur.",
+       "sayfa": 86
+      },
+      {
+       "id": "2.4-09",
+       "tur": "secmeli",
+       "soru": "Arşimet'in hareket enerjisini potansiyel enerjiye dönüştüren buluşu hangisidir?",
+       "secenekler": [
+        "Arşimet vidası",
+        "Hassas terazi",
+        "Su saati",
+        "Pusula"
+       ],
+       "dogru": 0,
+       "bilgi": "Arşimet; kaldırma kuvvetini açıklamış, Arşimet vidasını geliştirmiş ve kaldıraçlardaki denge ilkesini ortaya koymuştur.",
+       "sayfa": 86
+      },
+      {
+       "id": "2.4-10",
+       "tur": "bosluk",
+       "cumle": "Güneş'in merkezine yakın bölgede hidrojen çekirdeklerinin birleşerek ___ dönüşmesinde güçlü nükleer kuvvet etkilidir.",
+       "cevap": "helyuma",
+       "celdiriciler": [
+        "oksijene",
+        "karbona",
+        "azota"
+       ],
+       "bilgi": "Güçlü nükleer kuvvet atom çekirdeğinin yapısını korur ve Güneş'teki hidrojen-helyum dönüşümünde etkilidir.",
+       "sayfa": 89
+      },
+      {
+       "id": "2.4-11",
+       "tur": "secmeli",
+       "soru": "Saça sürtülen plastik tarağın kâğıt parçalarını çekmesi ve maglev trenlerinin hareketi hangi temel kuvvetle açıklanır?",
+       "secenekler": [
+        "Kütle çekim kuvveti",
+        "Güçlü nükleer kuvvet",
+        "Elektromanyetik kuvvet",
+        "Zayıf nükleer kuvvet"
+       ],
+       "dogru": 2,
+       "bilgi": "Elektromanyetik kuvvet elektrik yüklerinin ve manyetik kutupların etkileşimiyle oluşur.",
+       "sayfa": 89
+      }
+     ]
+    },
+    {
+     "no": "2.5",
+     "ad": "Hareket ve Hareket Türleri",
+     "kartlar": [
+      {
+       "id": "2.5-01",
+       "tur": "bosluk",
+       "cumle": "Bir cismin konumunu belirtmek için seçilen ve hareket etmediği kabul edilen noktaya ___ denir.",
+       "cevap": "referans noktası",
+       "celdiriciler": [
+        "denge noktası",
+        "bitiş noktası",
+        "kesişim noktası"
+       ],
+       "bilgi": "Bir cismin hareket edip etmediği ve hareket türü seçilen referans noktasına göre belirlenir.",
+       "sayfa": 105
+      },
+      {
+       "id": "2.5-02",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi skaler bir niceliktir?",
+       "secenekler": [
+        "Konum",
+        "Yer değiştirme",
+        "İvme",
+        "Alınan yol"
+       ],
+       "dogru": 3,
+       "bilgi": "Alınan yol, cismin hareketi boyunca çizdiği yörüngenin uzunluğudur ve skalerdir; konum, yer değiştirme ve ivme vektöreldir.",
+       "sayfa": 105
+      },
+      {
+       "id": "2.5-03",
+       "tur": "dy",
+       "ifade": "Konum, referans noktasından cismin bulunduğu noktaya çizilen vektörle gösterilen vektörel bir niceliktir.",
+       "dogru": true,
+       "bilgi": "Konum, cismin herhangi bir anda referans noktasına göre bulunduğu yerdir; SI'daki birimi metredir.",
+       "sayfa": 105
+      },
+      {
+       "id": "2.5-04",
+       "tur": "secmeli",
+       "soru": "Bir hareketlinin son konumu ile ilk konumu arasındaki yönlü uzaklığa ne ad verilir?",
+       "secenekler": [
+        "Yer değiştirme",
+        "Alınan yol",
+        "Konum",
+        "Sürat"
+       ],
+       "dogru": 0,
+       "bilgi": "Yer değiştirme Δx ile gösterilen vektörel bir niceliktir ve SI'daki birimi metredir.",
+       "sayfa": 106
+      },
+      {
+       "id": "2.5-05",
+       "tur": "eslestir",
+       "yonerge": "Hareketle ilgili kavramları tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Sürat",
+         "Birim zamanda alınan yol"
+        ],
+        [
+         "Hız",
+         "Birim zamanda yapılan yer değiştirme"
+        ],
+        [
+         "İvme",
+         "Birim zamandaki hız değişimi"
+        ],
+        [
+         "Anlık sürat",
+         "Anlık hızın büyüklüğü"
+        ],
+        [
+         "Ortalama hız",
+         "Toplam yer değiştirmenin hareket süresine oranı"
+        ]
+       ],
+       "bilgi": "Sürat, anlık sürat ve ortalama sürat skaler; hız, anlık hız, ortalama hız ve ivme vektörel niceliklerdir.",
+       "sayfa": 107
+      },
+      {
+       "id": "2.5-06",
+       "tur": "bosluk",
+       "cumle": "Hareketlinin birim zamandaki hız değişimi olan ivmenin SI'daki birimi ___ şeklinde yazılır.",
+       "cevap": "m/s²",
+       "celdiriciler": [
+        "m/s",
+        "m²/s",
+        "kg·m/s"
+       ],
+       "bilgi": "İvme a sembolüyle gösterilen vektörel bir niceliktir ve birimi metre/saniyekaredir.",
+       "sayfa": 107
+      },
+      {
+       "id": "2.5-07",
+       "tur": "dy",
+       "ifade": "Bir aracın sürat göstergesinde o an okunan 60 km/h değeri, aracın ortalama süratidir.",
+       "dogru": false,
+       "bilgi": "Sürat göstergesinde anlık okunan değer aracın anlık süratidir; ortalama sürat toplam yolun toplam süreye oranıdır.",
+       "sayfa": 106
+      },
+      {
+       "id": "2.5-08",
+       "tur": "dy",
+       "ifade": "Sabah odasından çıkıp gün içinde farklı yerlere giden ve akşam yine odasına dönen bir kişinin yer değiştirmesi sıfırdır.",
+       "dogru": true,
+       "bilgi": "İlk ve son konum aynı olduğunda yer değiştirme sıfırdır, ancak alınan yol sıfır değildir.",
+       "sayfa": 108
+      },
+      {
+       "id": "2.5-09",
+       "tur": "secmeli",
+       "soru": "Harekete geçen bir trende olduğu gibi cismi oluşturan parçaların birlikte ve aynı yönde hareket etmesine ne denir?",
+       "secenekler": [
+        "Dönme hareketi",
+        "Titreşim hareketi",
+        "Öteleme hareketi",
+        "Yuvarlanma hareketi"
+       ],
+       "dogru": 2,
+       "bilgi": "Balkondan düşen saksı, itilen masa ve buz pistinde ilerleyen patenci öteleme hareketi yapar.",
+       "sayfa": 114
+      },
+      {
+       "id": "2.5-10",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi titreşim hareketine örnektir?",
+       "secenekler": [
+        "Dönme dolabın hareketi",
+        "Ses çatalına vurulduğunda çatalın hareketi",
+        "Buz pistinde ilerleyen patencinin hareketi",
+        "Helikopter pervanesinin hareketi"
+       ],
+       "dogru": 1,
+       "bilgi": "Titreşim, bir denge konumundan geçerek yapılan gidip gelme hareketidir; gitar teli, salıncak ve su dalgaları da örnektir.",
+       "sayfa": 114
+      },
+      {
+       "id": "2.5-11",
+       "tur": "bosluk",
+       "cumle": "Cismin sabit bir nokta etrafında çember çizerek yaptığı harekete ___ hareketi denir.",
+       "cevap": "dönme",
+       "celdiriciler": [
+        "öteleme",
+        "titreşim",
+        "yuvarlanma"
+       ],
+       "bilgi": "Dönme dolap, saatin akrep ve yelkovanı ile fan pervanesi dönme hareketi yapar.",
+       "sayfa": 114
+      },
+      {
+       "id": "2.5-12",
+       "tur": "secmeli",
+       "soru": "Zıplama çubuğuyla ilerleyen bir çocuğun hareketi hangi hareket türlerini aynı anda içerir?",
+       "secenekler": [
+        "Öteleme ve dönme",
+        "Dönme ve titreşim",
+        "Yalnızca dönme",
+        "Öteleme ve titreşim"
+       ],
+       "dogru": 3,
+       "bilgi": "Bazı hareketler birden fazla türü içerir: bisiklet tekerleği öteleme ve dönme, atlıkarınca dönme ve titreşim hareketi yapar.",
+       "sayfa": 115
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "ad": "Akışkanlar",
+   "konular": [
+    {
+     "no": "3.1",
+     "ad": "Basınç",
+     "kartlar": [
+      {
+       "id": "3.1-01",
+       "tur": "bosluk",
+       "cumle": "Birim yüzeye etki eden dik kuvvetin büyüklüğüne ___ denir.",
+       "cevap": "basınç",
+       "celdiriciler": [
+        "ağırlık",
+        "kaldırma kuvveti",
+        "yoğunluk"
+       ],
+       "bilgi": "Basınç P sembolüyle gösterilir; kuvvet sabitken yüzey alanı küçüldükçe basınç artar.",
+       "sayfa": 139
+      },
+      {
+       "id": "3.1-02",
+       "tur": "secmeli",
+       "soru": "Basıncın SI'daki birimi ve büyüklük türü hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "Newton, vektörel",
+        "Pascal, vektörel",
+        "Joule, skaler",
+        "Pascal, skaler"
+       ],
+       "dogru": 3,
+       "bilgi": "Basınç skaler bir büyüklüktür; SI'daki birimi pascaldır (Pa) ve N/m² olarak da yazılabilir.",
+       "sayfa": 139
+      },
+      {
+       "id": "3.1-03",
+       "tur": "dy",
+       "ifade": "Katı bir yüzeye uygulanan kuvvet sabitken kuvvetin etki ettiği yüzey alanı artırılırsa basınç da artar.",
+       "dogru": false,
+       "bilgi": "Aynı kuvvet daha büyük bir yüzeye uygulandığında basınç azalır, daha küçük bir yüzeye uygulandığında artar.",
+       "sayfa": 143
+      },
+      {
+       "id": "3.1-04",
+       "tur": "secmeli",
+       "soru": "Kar yağışının yoğun olduğu bölgelerde tabanı geniş kar ayakkabıları kullanılmasının amacı nedir?",
+       "secenekler": [
+        "Kara uygulanan kuvveti artırmak",
+        "Kara uygulanan basıncı azaltmak",
+        "Kardaki basıncı artırıp kaymayı önlemek",
+        "Ayakkabının ağırlığını azaltmak"
+       ],
+       "dogru": 1,
+       "bilgi": "Kar ayakkabısının yüzey alanı büyük olduğundan kara uygulanan basınç azalır ve ayak kara batmaz.",
+       "sayfa": 134
+      },
+      {
+       "id": "3.1-05",
+       "tur": "dy",
+       "ifade": "Çiviye uygulanan kuvvet çivinin ucuna yönü ve büyüklüğü değişmeden iletilir; uç kısmın yüzey alanı küçük olduğundan uçtaki basınç büyüktür.",
+       "dogru": true,
+       "bilgi": "Katı cisimler üzerlerine uygulanan kuvveti yönünü ve büyüklüğünü değiştirmeden aynen iletir.",
+       "sayfa": 139
+      },
+      {
+       "id": "3.1-06",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerin hangisinde yüzeye uygulanan basıncın artırılması amaçlanmıştır?",
+       "secenekler": [
+        "Kar ayakkabılarının tabanının geniş yapılması",
+        "İş makinelerinde palet kullanılması",
+        "Bıçağın keskin kenarının ince yapılması",
+        "Traktörlerin arka tekerleklerinin geniş seçilmesi"
+       ],
+       "dogru": 2,
+       "bilgi": "Bıçak, çivi ve raptiye gibi aletlerde yüzey alanı küçültülerek basınç artırılır; geniş taban ve paletler ise basıncı azaltır.",
+       "sayfa": 142
+      },
+      {
+       "id": "3.1-07",
+       "tur": "bosluk",
+       "cumle": "Paletli iş makineleri ___ zeminleri aşındırdığı için bu yollarda uzun süre hareket ettirilmez ve trafiğe çıkarılmaz.",
+       "cevap": "asfalt",
+       "celdiriciler": [
+        "toprak",
+        "çamurlu",
+        "kumlu"
+       ],
+       "bilgi": "Paletler zemine uygulanan basıncı azaltarak iş makinelerinin toprak ve çamurlu zeminde batmadan ilerlemesini sağlar.",
+       "sayfa": 139
+      },
+      {
+       "id": "3.1-08",
+       "tur": "secmeli",
+       "soru": "Katıların şekil değişikliklerine sıvı ve gazlardan daha fazla direnç göstermesinin nedeni nedir?",
+       "secenekler": [
+        "Moleküller arası çekim kuvvetinin güçlü olması",
+        "Moleküllerinin bir yerden başka yere kolayca geçebilmesi",
+        "Moleküller arası boşluğun çok büyük olması",
+        "Belirli bir hacimlerinin olmaması"
+       ],
+       "dogru": 0,
+       "bilgi": "Sıvı ve gaz molekülleri kolayca yer değiştirebildiği için bu maddeler akışkandır; katılarda moleküller arası çekim güçlüdür.",
+       "sayfa": 132
+      },
+      {
+       "id": "3.1-09",
+       "tur": "bosluk",
+       "cumle": "Yatay bir zeminde duran bir cismin zemine uyguladığı kuvvetin büyüklüğü cismin ___ eşittir.",
+       "cevap": "ağırlığına",
+       "celdiriciler": [
+        "hacmine",
+        "yoğunluğuna",
+        "yüzey alanına"
+       ],
+       "bilgi": "Cisimler ağırlıklarının bir sonucu olarak bulundukları yüzeye basınç uygular.",
+       "sayfa": 139
+      }
+     ]
+    },
+    {
+     "no": "3.2",
+     "ad": "Sıvılarda Basınç",
+     "kartlar": [
+      {
+       "id": "3.2-01",
+       "tur": "secmeli",
+       "soru": "Durgun bir sıvının belirli bir noktadaki basıncı aşağıdakilerden hangisine bağlı değildir?",
+       "secenekler": [
+        "Sıvının yoğunluğuna",
+        "Noktanın derinliğine",
+        "Kabın şekline",
+        "Yer çekimi ivmesine"
+       ],
+       "dogru": 2,
+       "bilgi": "Sıvı basıncı yoğunluğa, yer çekimi ivmesine ve derinliğe bağlıdır; kabın şekline ve taban alanına bağlı değildir.",
+       "sayfa": 149
+      },
+      {
+       "id": "3.2-02",
+       "tur": "dy",
+       "ifade": "Katı cisimler yalnızca üzerinde bulundukları yüzeye basınç uygularken sıvılar, içinde bulundukları kabın temas ettikleri tüm yüzeylerine basınç uygular.",
+       "dogru": true,
+       "bilgi": "Sıvılar kabın tabanına olduğu gibi yan yüzeylerine de basınç uygular.",
+       "sayfa": 149
+      },
+      {
+       "id": "3.2-03",
+       "tur": "bosluk",
+       "cumle": "Ani basınç değişikliklerinde vücutta gaz kabarcıkları oluşmasına ___ (dekompresyon hastalığı) denir.",
+       "cevap": "vurgun",
+       "celdiriciler": [
+        "kramp",
+        "migren",
+        "tansiyon"
+       ],
+       "bilgi": "Vurgunun tedavisinde basınç odasında (hiperbarik merkez) yüksek basınçlı oksijen kullanılır.",
+       "sayfa": 145
+      },
+      {
+       "id": "3.2-04",
+       "tur": "secmeli",
+       "soru": "Kapalı bir kaptaki sıvıya dışarıdan uygulanan basıncın sıvının her noktasına eşit büyüklükte ve her yönde iletildiğini ifade eden yasa hangisidir?",
+       "secenekler": [
+        "Arşimet İlkesi",
+        "Pascal Yasası",
+        "Bernoulli İlkesi",
+        "Torricelli Yasası"
+       ],
+       "dogru": 1,
+       "bilgi": "Pascal Yasası, kabın her noktasında basıncın değil meydana gelen basınç değişiminin eşit olduğunu ifade eder.",
+       "sayfa": 156
+      },
+      {
+       "id": "3.2-05",
+       "tur": "bosluk",
+       "cumle": "Blaise Pascal, sıvı basıncıyla ilgili \"___ deneyi\" olarak bilinen deneyi gerçekleştirmiştir.",
+       "cevap": "patlayan fıçı",
+       "celdiriciler": [
+        "Magdeburg yarım küreleri",
+        "cıvalı barometre",
+        "altın taç"
+       ],
+       "bilgi": "Pascal, fıçıya bağlı ince boruya az miktarda su ekleyerek su sütununu yükseltmiş ve fıçıdaki basıncın büyük ölçüde arttığını görmüştür.",
+       "sayfa": 156
+      },
+      {
+       "id": "3.2-06",
+       "tur": "dy",
+       "ifade": "Sıvılara basınç uygulandığında hacimlerinde büyük bir değişim olur; bu nedenle sıvılar kolayca sıkıştırılabilir.",
+       "dogru": false,
+       "bilgi": "Basınç altında sıvıların hacmindeki değişim ihmal edilebilecek kadar küçüktür; bu yüzden sıvılar sıkıştırılamaz kabul edilir.",
+       "sayfa": 156
+      },
+      {
+       "id": "3.2-07",
+       "tur": "secmeli",
+       "soru": "Birleşik kaplar sisteminde aynı tür sıvı kullanıldığında kollardaki sıvı seviyeleri için ne söylenebilir?",
+       "secenekler": [
+        "Kesit alanı büyük olan kolda daha yüksek olur.",
+        "Kesit alanı küçük olan kolda daha yüksek olur.",
+        "Kolların hacmine göre farklılaşır.",
+        "Tüm kollarda eşit olur."
+       ],
+       "dogru": 3,
+       "bilgi": "Birleşik kaplarda sıvı, taban basınçları eşitlenene kadar akar ve sonunda tüm kollarda seviyeler eşitlenir.",
+       "sayfa": 157
+      },
+      {
+       "id": "3.2-08",
+       "tur": "bosluk",
+       "cumle": "Akışkanlar, basıncın ___ olduğu yerden düşük olduğu yere doğru akma eğilimindedir.",
+       "cevap": "yüksek",
+       "celdiriciler": [
+        "eşit",
+        "sabit",
+        "sıfır"
+       ],
+       "bilgi": "Musluğu açılan birleşik kapta sıvı, seviyesi yüksek olan kaptan seviyesi düşük olana doğru akar.",
+       "sayfa": 156
+      },
+      {
+       "id": "3.2-09",
+       "tur": "eslestir",
+       "yonerge": "Pascal Yasası'ndan yararlanılan sistem gruplarını örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Sıkıştırma sistemleri",
+         "Hidrolik pres"
+        ],
+        [
+         "Taşıma sistemleri",
+         "İtfaiye merdiveni"
+        ],
+        [
+         "Basınç ölçmek için kullanılan araçlar",
+         "Manometre"
+        ],
+        [
+         "Diğer sistemler",
+         "Tulumba"
+        ]
+       ],
+       "bilgi": "Hidrolik fren, hidrolik lift, vinç, barometre ve altimetre gibi pek çok sistem Pascal Yasası'ndan yararlanır.",
+       "sayfa": 158
+      },
+      {
+       "id": "3.2-10",
+       "tur": "secmeli",
+       "soru": "Su cenderesinde yüzey alanı büyük olan pistonda oluşan kuvvet, küçük pistona uygulanan kuvvetle karşılaştırıldığında nasıldır?",
+       "secenekler": [
+        "Daha küçüktür.",
+        "Eşittir.",
+        "Daha büyüktür.",
+        "Sıfırdır."
+       ],
+       "dogru": 2,
+       "bilgi": "Küçük pistondaki basınç sıvı aracılığıyla büyük pistona aynen iletilir; böylece küçük bir kuvvetle büyük kütleler kaldırılabilir.",
+       "sayfa": 157
+      },
+      {
+       "id": "3.2-11",
+       "tur": "secmeli",
+       "soru": "Sıvı dolu bir dereceli silindirin tabanındaki sıvı basıncını artırmak için aşağıdakilerden hangisi yapılabilir?",
+       "secenekler": [
+        "Sıvıya tuz katarak yoğunluğunu artırmak",
+        "Silindiri Ekvator'a götürmek",
+        "Sıvının bir kısmını boşaltmak",
+        "Sıvıyı aynı yükseklikte daha geniş tabanlı bir kaba aktarmak"
+       ],
+       "dogru": 0,
+       "bilgi": "Derinlik, sıvının yoğunluğu veya yer çekimi ivmesi artırılırsa sıvının taban basıncı artar.",
+       "sayfa": 150
+      },
+      {
+       "id": "3.2-12",
+       "tur": "dy",
+       "ifade": "Aynı sıvı sütununun tabanındaki basınç, yer çekimi ivmesinin daha küçük olduğu Ekvator'da kutuplara göre daha büyüktür.",
+       "dogru": false,
+       "bilgi": "Yer çekimi ivmesi kutuplarda büyük, Ekvator'da küçüktür; bu yüzden aynı sıvı sütununun basıncı Ekvator'da daha azdır.",
+       "sayfa": 150
+      }
+     ]
+    },
+    {
+     "no": "3.3",
+     "ad": "Açık Hava Basıncı",
+     "kartlar": [
+      {
+       "id": "3.3-01",
+       "tur": "bosluk",
+       "cumle": "Atmosferi oluşturan gazların ağırlıkları nedeniyle temas ettikleri yüzeylere uyguladığı basınca ___ basıncı denir.",
+       "cevap": "açık hava",
+       "celdiriciler": [
+        "sıvı",
+        "buhar",
+        "akışkan"
+       ],
+       "bilgi": "Açık hava basıncı P₀ ile gösterilir; gazlar ağırlıkları ve taneciklerinin çarpmasıyla yüzeylere basınç uygular.",
+       "sayfa": 164
+      },
+      {
+       "id": "3.3-02",
+       "tur": "secmeli",
+       "soru": "Açık hava basıncını ölçmek için deniz seviyesinde cıva dolu bir cam boruyla deney yapan ve cıvalı barometreyi icat eden bilim insanı kimdir?",
+       "secenekler": [
+        "Blaise Pascal",
+        "Daniel Bernoulli",
+        "Evangelista Torricelli",
+        "Otto von Guericke"
+       ],
+       "dogru": 2,
+       "bilgi": "Torricelli, ayrıca sıvının bir delikten ne kadar hızlı çıktığını açıklayan Torricelli Yasası ile hidrodinamiğe katkı sağlamıştır.",
+       "sayfa": 164
+      },
+      {
+       "id": "3.3-03",
+       "tur": "secmeli",
+       "soru": "0 °C sıcaklıkta ve deniz seviyesinde yapılan Torricelli deneyinde cıva sütununun yüksekliği kaç cm ölçülmüştür?",
+       "secenekler": [
+        "76",
+        "100",
+        "50",
+        "13,6"
+       ],
+       "dogru": 0,
+       "bilgi": "Deniz seviyesinde ve 0 °C'de açık hava basıncı 76 cmHg'dir; bu değer 1 atm olarak adlandırılır.",
+       "sayfa": 164
+      },
+      {
+       "id": "3.3-04",
+       "tur": "dy",
+       "ifade": "Torricelli deneyinde kullanılan borunun şekli veya kesit alanı değiştirilirse cıva sütununun yüksekliği de değişir.",
+       "dogru": false,
+       "bilgi": "Borunun şekli, kesiti, konumu ve duruşu cıva seviyesini değiştirmez; cıva deniz seviyesinde hep 76 cm'ye yükselir.",
+       "sayfa": 164
+      },
+      {
+       "id": "3.3-05",
+       "tur": "dy",
+       "ifade": "Deniz seviyesinden yukarı çıkıldıkça açık hava basıncı azalır.",
+       "dogru": true,
+       "bilgi": "Atmosferin üst katmanlarındaki gazların yoğunluğu ve ağırlığı daha az olduğundan yükseldikçe açık hava basıncı azalır.",
+       "sayfa": 164
+      },
+      {
+       "id": "3.3-06",
+       "tur": "secmeli",
+       "soru": "Atmosferin bileşiminde en yüksek oranda bulunan gaz hangisidir?",
+       "secenekler": [
+        "Oksijen",
+        "Azot",
+        "Karbondioksit",
+        "Argon"
+       ],
+       "dogru": 1,
+       "bilgi": "Atmosferin yaklaşık %78'i azot, %21'i oksijen, %1'i karbondioksit, argon, su buharı ve diğer gazlardır.",
+       "sayfa": 165
+      },
+      {
+       "id": "3.3-07",
+       "tur": "secmeli",
+       "soru": "Sıcaklığı artan hava için aşağıdakilerden hangisi doğrudur?",
+       "secenekler": [
+        "Büzülür, yoğunluğu artar, alçalır; yüksek basınç oluşur.",
+        "Büzülür, yoğunluğu azalır, yükselir; alçak basınç oluşur.",
+        "Genleşir, yoğunluğu artar, alçalır; yüksek basınç oluşur.",
+        "Genleşir, yoğunluğu azalır, yükselir; alçak basınç oluşur."
+       ],
+       "dogru": 3,
+       "bilgi": "Isınan hava genleşip yükselir ve alçak basınç oluşturur; soğuyan hava yoğunlaşıp çöker ve yüksek basınç oluşturur.",
+       "sayfa": 165
+      },
+      {
+       "id": "3.3-08",
+       "tur": "bosluk",
+       "cumle": "Otto von Guericke'nin, havası boşaltılan iki metal yarım kürenin atlarla bile ayrılamadığını gösterdiği deney ___ deneyi olarak bilinir.",
+       "cevap": "Magdeburg",
+       "celdiriciler": [
+        "Torricelli",
+        "patlayan fıçı",
+        "Venturi"
+       ],
+       "bilgi": "Magdeburg deneyinde yarım küreleri bir arada tutan, dışarıdaki atmosfer basıncıdır.",
+       "sayfa": 165
+      },
+      {
+       "id": "3.3-09",
+       "tur": "eslestir",
+       "yonerge": "Bilim insanlarını açık hava basıncıyla ilgili çalışmalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Evangelista Torricelli",
+         "Cıvalı barometreyi icat etti."
+        ],
+        [
+         "Otto von Guericke",
+         "Magdeburg yarım küreleri deneyini yaptı."
+        ],
+        [
+         "Blaise Pascal",
+         "Hava basıncının yükseklikle azaldığını gösterdi."
+        ]
+       ],
+       "bilgi": "Açık hava basıncının ölçülmesi ve etkilerinin gösterilmesinde Torricelli, Guericke ve Pascal'ın çalışmaları önemlidir.",
+       "sayfa": 164
+      },
+      {
+       "id": "3.3-10",
+       "tur": "bosluk",
+       "cumle": "Deniz seviyesindeki açık hava basıncı olan 76 cmHg yaklaşık 101.300 Pa'dır ve bu değere 1 ___ denir.",
+       "cevap": "atmosfer",
+       "celdiriciler": [
+        "pascal",
+        "bar",
+        "newton"
+       ],
+       "bilgi": "1 atm = 76 cmHg ≈ 1,013·10⁵ Pa eşitliği deniz seviyesindeki açık hava basıncını ifade eder.",
+       "sayfa": 165
+      },
+      {
+       "id": "3.3-11",
+       "tur": "secmeli",
+       "soru": "Rüzgâr, atmosferde hangi hava hareketiyle oluşur?",
+       "secenekler": [
+        "Alçak basınç alanlarından yüksek basınç alanlarına",
+        "Yüksek basınç alanlarından alçak basınç alanlarına",
+        "Basıncın her yerde eşit olduğu alanlar arasında",
+        "Yalnızca okyanuslardan karalara doğru"
+       ],
+       "dogru": 1,
+       "bilgi": "Rüzgârın hızı basınç farkının büyüklüğüne, Dünya'nın dönüşüne, yüzey sürtünmesine ve coğrafi engellere bağlıdır.",
+       "sayfa": 162
+      }
+     ]
+    },
+    {
+     "no": "3.4",
+     "ad": "Kaldırma Kuvveti",
+     "kartlar": [
+      {
+       "id": "3.4-01",
+       "tur": "bosluk",
+       "cumle": "Doğadaki sistem, model veya canlılar örnek alınarak tasarım yapılmasına ve teknoloji geliştirilmesine ___ denir.",
+       "cevap": "biyomimikri",
+       "celdiriciler": [
+        "biyoteknoloji",
+        "aerodinamik",
+        "hidrodinamik"
+       ],
+       "bilgi": "Su altı araçlarının tasarımında nautilus, yayın balığı ve yunus gibi canlıların hareketlerinden ilham alınmıştır.",
+       "sayfa": 169
+      },
+      {
+       "id": "3.4-02",
+       "tur": "secmeli",
+       "soru": "Bir denizaltının suya dalabilmesi için safra tanklarında ne yapılır?",
+       "secenekler": [
+        "Tanklara hava pompalanarak denizaltının yoğunluğu artırılır.",
+        "Tanklar su ile doldurularak denizaltının yoğunluğu artırılır.",
+        "Tanklardaki su boşaltılarak denizaltının yoğunluğu azaltılır.",
+        "Tanklara hava pompalanarak denizaltının hacmi küçültülür."
+       ],
+       "dogru": 1,
+       "bilgi": "Safra tankları suyla dolunca denizaltı batar; su boşaltılıp hava pompalanınca yoğunluğu azalır ve yükselir.",
+       "sayfa": 169
+      },
+      {
+       "id": "3.4-03",
+       "tur": "dy",
+       "ifade": "Akışkanların cisimlere uyguladığı kaldırma kuvvetinin varlığını ilk kez Blaise Pascal kanıtlamıştır.",
+       "dogru": false,
+       "bilgi": "Kaldırma kuvvetinin varlığını ilk kez Arşimet kanıtlamıştır; bu keşif Arşimet İlkesi olarak bilinir.",
+       "sayfa": 183
+      },
+      {
+       "id": "3.4-04",
+       "tur": "secmeli",
+       "soru": "Arşimet İlkesi'ne göre bir kısmı veya tamamı durgun akışkana batan cisme etki eden kaldırma kuvveti neye eşittir?",
+       "secenekler": [
+        "Her durumda cismin kendi ağırlığına",
+        "Cismin üst yüzeyine etki eden basınç kuvvetine",
+        "Kaptaki sıvının toplam ağırlığına",
+        "Yeri değiştirilen sıvının ağırlığına"
+       ],
+       "dogru": 3,
+       "bilgi": "Kaldırma kuvveti Fk ile gösterilir, birimi newtondur ve yeri değiştirilen sıvının ağırlığına eşittir.",
+       "sayfa": 180
+      },
+      {
+       "id": "3.4-05",
+       "tur": "eslestir",
+       "yonerge": "Cismin sıvıdaki durumunu yoğunluk koşuluyla eşleştir.",
+       "ciftler": [
+        [
+         "Yüzme",
+         "Cismin yoğunluğu sıvınınkinden küçük"
+        ],
+        [
+         "Askıda kalma",
+         "Cismin yoğunluğu sıvınınkine eşit"
+        ],
+        [
+         "Batma",
+         "Cismin yoğunluğu sıvınınkinden büyük"
+        ]
+       ],
+       "bilgi": "Yüzen ve askıda kalan cisimde kaldırma kuvveti ağırlığa eşit, batan cisimde ağırlıktan küçüktür.",
+       "sayfa": 181
+      },
+      {
+       "id": "3.4-06",
+       "tur": "dy",
+       "ifade": "Sıvıda batan bir cisme etki eden kaldırma kuvvetinin büyüklüğü cismin ağırlığından küçüktür.",
+       "dogru": true,
+       "bilgi": "Batma hâlinde Fk < G'dir; cismin sıvı içindeki konumundan bağımsız olarak kaldırma kuvveti her zaman vardır.",
+       "sayfa": 181
+      },
+      {
+       "id": "3.4-07",
+       "tur": "secmeli",
+       "soru": "Çelikten yapılmış dev gemilerin suda yüzebilmesinin nedeni nedir?",
+       "secenekler": [
+        "Ortalama yoğunluklarının suyunkinden küçük olması",
+        "Çeliğin yoğunluğunun sudan küçük olması",
+        "Ağırlıklarının kaldırma kuvvetinden büyük olması",
+        "Suyun gemilere kaldırma kuvveti uygulamaması"
+       ],
+       "dogru": 0,
+       "bilgi": "Gemiler geniş ve içi boş yapıları sayesinde çok hava içerir, bu yüzden ortalama yoğunlukları sudan küçüktür; su aldıkça yoğunlukları artar.",
+       "sayfa": 181
+      },
+      {
+       "id": "3.4-08",
+       "tur": "bosluk",
+       "cumle": "Tamamı sıvı içindeki bir cisme etki eden kaldırma kuvveti, cismin alt ve üst yüzeylerine uygulanan ___ farkından kaynaklanır.",
+       "cevap": "basınç",
+       "celdiriciler": [
+        "sıcaklık",
+        "hacim",
+        "sürat"
+       ],
+       "bilgi": "Alt yüzey daha derinde olduğundan oradaki basınç kuvveti büyüktür; yan yüzeylerdeki kuvvetler ise birbirini dengeler.",
+       "sayfa": 180
+      },
+      {
+       "id": "3.4-09",
+       "tur": "dy",
+       "ifade": "Tamamı sıvıya batmış ve hacmi değişmeyen bir cisme etki eden kaldırma kuvveti, cisim daha derine indirildikçe artar.",
+       "dogru": false,
+       "bilgi": "Tamamı batmış, hacmi değişmeyen bir cisme etki eden kaldırma kuvveti derinliğe bağlı değildir.",
+       "sayfa": 180
+      },
+      {
+       "id": "3.4-10",
+       "tur": "secmeli",
+       "soru": "Suda yüzen bir topun bulunduğu suya tuz katılıp karıştırılırsa ne olur?",
+       "secenekler": [
+        "Batan hacmi artar, kaldırma kuvveti artar.",
+        "Batan hacmi azalır, kaldırma kuvveti değişmez.",
+        "Batan hacmi azalır, kaldırma kuvveti azalır.",
+        "Batan hacmi değişmez, kaldırma kuvveti artar."
+       ],
+       "dogru": 1,
+       "bilgi": "Yüzen bir cismin bulunduğu akışkanın yoğunluğu arttıkça batan hacmi azalır; kaldırma kuvveti ağırlığa eşit kalır.",
+       "sayfa": 175
+      },
+      {
+       "id": "3.4-11",
+       "tur": "bosluk",
+       "cumle": "Buzun yoğunluğu suyun yoğunluğundan ___ olduğu için buz dağları suyun üzerinde yüzer.",
+       "cevap": "küçük",
+       "celdiriciler": [
+        "büyük",
+        "eşit"
+       ],
+       "bilgi": "Yoğunluğu sıvınınkinden küçük olan cisimler sıvıda yüzer.",
+       "sayfa": 183
+      },
+      {
+       "id": "3.4-12",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi bir cisme etki eden kaldırma kuvvetini artırır?",
+       "secenekler": [
+        "Sıvının yoğunluğunun azalması",
+        "Yer çekimi ivmesinin azalması",
+        "Cismin sıvıya batan hacminin artması",
+        "Tamamen batmış cismin daha derine indirilmesi"
+       ],
+       "dogru": 2,
+       "bilgi": "Kaldırma kuvveti batan hacim, sıvının yoğunluğu ve yer çekimi ivmesi arttıkça artar.",
+       "sayfa": 175
+      }
+     ]
+    },
+    {
+     "no": "3.5",
+     "ad": "Bernoulli İlkesi",
+     "kartlar": [
+      {
+       "id": "3.5-01",
+       "tur": "secmeli",
+       "soru": "Akışkanların sürati ile basıncı arasında ilişki olduğunu ilk kez ortaya koyan bilim insanı kimdir?",
+       "secenekler": [
+        "Blaise Pascal",
+        "Daniel Bernoulli",
+        "Evangelista Torricelli",
+        "Arşimet"
+       ],
+       "dogru": 1,
+       "bilgi": "1700-1782 yılları arasında yaşayan matematikçi ve fizikçi Daniel Bernoulli, matematiği akışkanlar mekaniğine uygulamıştır.",
+       "sayfa": 189
+      },
+      {
+       "id": "3.5-02",
+       "tur": "bosluk",
+       "cumle": "Bernoulli İlkesi'ne göre bir akışkanın sürati arttığında basıncı ___.",
+       "cevap": "azalır",
+       "celdiriciler": [
+        "artar",
+        "değişmez",
+        "iki katına çıkar"
+       ],
+       "bilgi": "Bir boruda veya kanalda akan akışkanın basıncı, durgun hâldeki basıncından küçüktür.",
+       "sayfa": 189
+      },
+      {
+       "id": "3.5-03",
+       "tur": "dy",
+       "ifade": "Bir Venturi tüpünde kesit alanı daraldıkça akışkanın sürati artar ve tüp çeperlerine yaptığı basınç azalır.",
+       "dogru": true,
+       "bilgi": "Venturi tüpünün temel işlevi akışkanın süratini ve basıncını ölçmektir; dar kesitte sürat büyük, basınç küçüktür.",
+       "sayfa": 190
+      },
+      {
+       "id": "3.5-04",
+       "tur": "secmeli",
+       "soru": "Fırtınalı havalarda evlerin çatısının uçmasının nedeni nedir?",
+       "secenekler": [
+        "Rüzgârın çatıya uyguladığı basınç artar, çatı aşağı bastırılır.",
+        "Ev içindeki hava hızlanır, iç basınç dış basınçtan küçük olur.",
+        "Çatı üstündeki havanın basıncı düşer, içteki basınç çatıyı iter.",
+        "Çatının ağırlığı azalır ve kaldırma kuvveti onu yukarı taşır."
+       ],
+       "dogru": 2,
+       "bilgi": "İç ve dış basınç farkı çatı bağlantılarının dayanımını aşarsa çatı evden ayrılabilir; şemsiyenin ters dönmesi de aynı ilkeyle açıklanır.",
+       "sayfa": 189
+      },
+      {
+       "id": "3.5-05",
+       "tur": "eslestir",
+       "yonerge": "Akışkanlarla ilgili kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Laminer akış",
+         "Düzenli ve düzgün katmanlar hâlinde akış"
+        ],
+        [
+         "Türbülanslı akış",
+         "Düzensiz ve karışık akış"
+        ],
+        [
+         "Venturi tüpü",
+         "Akışkanın sürati ve basıncını ölçen boru"
+        ],
+        [
+         "Sürükleme kuvveti",
+         "Hareket sırasında havanın gösterdiği direnç"
+        ]
+       ],
+       "bilgi": "Mumun üzerindeki duman önce laminer akar, hava akımlarıyla karşılaşınca türbülanslı hâle gelir.",
+       "sayfa": 188
+      },
+      {
+       "id": "3.5-06",
+       "tur": "dy",
+       "ifade": "Uçakların uçabilmesinde yalnızca Bernoulli İlkesi etkilidir.",
+       "dogru": false,
+       "bilgi": "Uçakların uçmasında Bernoulli İlkesi'nin yanı sıra ağırlık, kaldırma, sürükleme ve itme kuvvetleri de etkilidir.",
+       "sayfa": 191
+      },
+      {
+       "id": "3.5-07",
+       "tur": "secmeli",
+       "soru": "Uçak kanadının üst yüzeyinin alt yüzeyine göre daha bombeli olmasının sonucu nedir?",
+       "secenekler": [
+        "Üstten geçen havanın sürati artar, basıncı azalır.",
+        "Üstten geçen havanın sürati azalır, basıncı artar.",
+        "Alttan geçen havanın sürati artar, basıncı düşer.",
+        "Kanadın iki yüzündeki basınç eşitlenir."
+       ],
+       "dogru": 0,
+       "bilgi": "Kanadın altındaki yüksek basınç ile üstündeki düşük basınç arasındaki fark kanatta kaldırma kuvveti oluşturur.",
+       "sayfa": 191
+      },
+      {
+       "id": "3.5-08",
+       "tur": "bosluk",
+       "cumle": "Yüksek süratle yan yana geçen iki araç arasındaki havanın sürati arttığından basıncı düşer ve araçlar birbirine doğru ___.",
+       "cevap": "çekilir",
+       "celdiriciler": [
+        "itilir",
+        "yükselir",
+        "yavaşlar"
+       ],
+       "bilgi": "Araçların dış tarafındaki havanın basıncı aradaki havanınkinden büyük olduğu için oluşan kuvvet araçları birbirine yaklaştırır.",
+       "sayfa": 190
+      },
+      {
+       "id": "3.5-09",
+       "tur": "secmeli",
+       "soru": "Daniel Bernoulli'nin atardamarlarda meydana gelen daralmaya ilişkin ortaya koyduğu sonuç hangisidir?",
+       "secenekler": [
+        "Kanın sürati azalır, basınç artar.",
+        "Kanın sürati ve basıncı değişmez.",
+        "Kanın sürati azalır, basınç da düşer.",
+        "Kanın sürati artar, basınç düşer."
+       ],
+       "dogru": 3,
+       "bilgi": "Bernoulli'nin borulardaki su akışı üzerine çalışmaları, kanın vücuttaki akışıyla ilgili tıp araştırmalarına ilham vermiştir.",
+       "sayfa": 191
+      },
+      {
+       "id": "3.5-10",
+       "tur": "dy",
+       "ifade": "Yarış arabalarında ters çevrilmiş uçak kanadına benzeyen rüzgârlıklar, araç yüksek süratte giderken havalanmasını önler.",
+       "dogru": true,
+       "bilgi": "Rüzgârlıklarda bombeli yüzey alttadır; üstteki basınç daha büyük olduğu için araca yere doğru bir kuvvet etki eder.",
+       "sayfa": 187
+      },
+      {
+       "id": "3.5-11",
+       "tur": "bosluk",
+       "cumle": "Türk Havacılık ve Uzay Sanayii'nde inşa edilen ses altı rüzgâr tünelinin özellikle millî muharip uçak ___ tasarımına katkı sunması beklenmektedir.",
+       "cevap": "KAAN",
+       "celdiriciler": [
+        "HÜRJET",
+        "ANKA",
+        "AKINCI"
+       ],
+       "bilgi": "Bu tesis Türkiye'nin en büyük, Avrupa'nın ikinci büyük ses altı rüzgâr tüneli olarak inşa edilmektedir.",
+       "sayfa": 185
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "ad": "Enerji",
+   "konular": [
+    {
+     "no": "4.1",
+     "ad": "İç Enerji, Isı ve Sıcaklık Arasındaki İlişki",
+     "kartlar": [
+      {
+       "id": "4.1-01",
+       "tur": "bosluk",
+       "cumle": "Maddeyi oluşturan her bir taneciğin ortalama kinetik enerjisinin göstergesine ___ denir.",
+       "cevap": "sıcaklık",
+       "celdiriciler": [
+        "ısı",
+        "iç enerji",
+        "öz ısı"
+       ],
+       "bilgi": "Sıcaklığın SI'daki birimi kelvindir (K) ve termometreyle dolaylı yoldan ölçülür.",
+       "sayfa": 213
+      },
+      {
+       "id": "4.1-02",
+       "tur": "secmeli",
+       "soru": "Isının SI'daki birimi ve ısının dolaylı yoldan ölçüldüğü araç hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "Joule, kalorimetre kabı",
+        "Kelvin, termometre",
+        "Joule, termometre",
+        "Kelvin, kalorimetre kabı"
+       ],
+       "dogru": 0,
+       "bilgi": "Isı, sıcaklık farkı nedeniyle aktarılan enerjidir; birimi joule olup kalorimetre kabıyla dolaylı ölçülür.",
+       "sayfa": 213
+      },
+      {
+       "id": "4.1-03",
+       "tur": "dy",
+       "ifade": "Isı, maddeler arasında aktarılan enerji olduğundan bir maddenin sahip olduğu ısıdan söz edilemez.",
+       "dogru": true,
+       "bilgi": "Maddeler ısıya sahip olmaz; iç enerjiye sahiptir. Isı yalnızca sıcaklık farkı nedeniyle aktarılan enerjidir.",
+       "sayfa": 213
+      },
+      {
+       "id": "4.1-04",
+       "tur": "secmeli",
+       "soru": "Sıcaklığı 0 K'den büyük olan bir maddenin tanecikleri hangi hareketleri yapar?",
+       "secenekler": [
+        "Yalnızca öteleme",
+        "Yalnızca titreşim",
+        "Dönme, öteleme veya titreşim",
+        "Hiçbir hareket yapmaz"
+       ],
+       "dogru": 2,
+       "bilgi": "Taneciklerin dönme, öteleme ve titreşim hareketleri kinetik enerjilerini oluşturur.",
+       "sayfa": 210
+      },
+      {
+       "id": "4.1-05",
+       "tur": "dy",
+       "ifade": "Isı aktarımı, sıcaklığı düşük olan maddeden sıcaklığı yüksek olan maddeye doğru gerçekleşir.",
+       "dogru": false,
+       "bilgi": "Isı, sıcaklığı yüksek olan maddeden sıcaklığı düşük olan maddeye doğru aktarılır.",
+       "sayfa": 213
+      },
+      {
+       "id": "4.1-06",
+       "tur": "secmeli",
+       "soru": "Aynı sıcaklıktaki bir bardak su ile bir kova dolusu suyun iç enerjileri için ne söylenebilir?",
+       "secenekler": [
+        "Bardaktaki suyun iç enerjisi daha büyüktür.",
+        "Kovadaki suyun iç enerjisi daha büyüktür.",
+        "İç enerjileri eşittir.",
+        "İç enerjileri karşılaştırılamaz."
+       ],
+       "dogru": 1,
+       "bilgi": "İç enerji madde miktarına ve sıcaklığa bağlıdır; aynı sıcaklıkta kütlesi büyük olanın iç enerjisi büyüktür.",
+       "sayfa": 213
+      },
+      {
+       "id": "4.1-07",
+       "tur": "eslestir",
+       "yonerge": "Kavramları tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Isı",
+         "Sıcaklık farkı nedeniyle aktarılan enerji"
+        ],
+        [
+         "Sıcaklık",
+         "Taneciklerin ortalama kinetik enerjisinin göstergesi"
+        ],
+        [
+         "İç enerji",
+         "Maddeyi oluşturan tüm taneciklerin toplam enerjisi"
+        ]
+       ],
+       "bilgi": "İç enerji; taneciklerin kinetik enerjisi, elektriksel potansiyel enerjisi ve etkileşim enerjilerinin toplamıdır.",
+       "sayfa": 213
+      },
+      {
+       "id": "4.1-08",
+       "tur": "bosluk",
+       "cumle": "Isının SI'daki birimi joule olmakla birlikte bazı hesaplamalarda ___ birimi de kullanılabilir.",
+       "cevap": "kalori",
+       "celdiriciler": [
+        "watt",
+        "pascal",
+        "kelvin"
+       ],
+       "bilgi": "Isı birimi olarak joule (J) yerine kalori (cal) de kullanılabilir.",
+       "sayfa": 213
+      },
+      {
+       "id": "4.1-09",
+       "tur": "dy",
+       "ifade": "Isı alışverişi sonucunda ısı alan ya da veren maddenin iç enerjisi kesinlikle değişir.",
+       "dogru": true,
+       "bilgi": "Isı alan maddenin iç enerjisi artar, ısı veren maddenin iç enerjisi azalır.",
+       "sayfa": 213
+      },
+      {
+       "id": "4.1-10",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki cümlelerin hangisinde \"ısı\" kavramı bilimsel olarak doğru kullanılmıştır?",
+       "secenekler": [
+        "Çocuğun vücut ısısı 39 °C olmuş.",
+        "Isı termometreyle ölçülür.",
+        "Öğle vakti metalin ısısı havadan fazlaydı.",
+        "Soba yandığında çevresine ısı verir."
+       ],
+       "dogru": 3,
+       "bilgi": "Isı aktarılan enerjidir; \"°C\" ile ifade edilen ve termometreyle ölçülen büyüklük sıcaklıktır.",
+       "sayfa": 213
+      }
+     ]
+    },
+    {
+     "no": "4.2",
+     "ad": "Isı, Öz Isı, Isı Sığası ve Sıcaklık Farkı Arasındaki İlişki",
+     "kartlar": [
+      {
+       "id": "4.2-01",
+       "tur": "secmeli",
+       "soru": "Isı tutma kapasitesi havaya göre yüksek olduğu için otomobil radyatörlerinde ve kalorifer sistemlerinde çoğunlukla kullanılan madde hangisidir?",
+       "secenekler": [
+        "Zeytinyağı",
+        "Cıva",
+        "Su",
+        "Etil alkol"
+       ],
+       "dogru": 2,
+       "bilgi": "Su aldığı ısıyı depolayıp yavaş yavaş geri verir; \"su duvarı\" sistemleri de bu özellikten yararlanır.",
+       "sayfa": 215
+      },
+      {
+       "id": "4.2-02",
+       "tur": "eslestir",
+       "yonerge": "Termometre türlerini çalışma ilkeleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Gazlı termometre",
+         "Sabit hacimdeki gaz basıncının sıcaklıkla değişimi"
+        ],
+        [
+         "Kızılötesi termometre",
+         "Yüzeyden yayılan ışınları temas etmeden algılama"
+        ],
+        [
+         "Dijital termometre",
+         "Direnci sıcaklıkla değişen devre elemanları"
+        ],
+        [
+         "Metal termometre",
+         "Sıcaklığı artan metalin genleşmesi"
+        ]
+       ],
+       "bilgi": "Termometreler kullanım amacına göre sıvılı, metal, gazlı, kızılötesi ve dijital olmak üzere beş gruba ayrılır.",
+       "sayfa": 216
+      },
+      {
+       "id": "4.2-03",
+       "tur": "dy",
+       "ifade": "Dijital termometreler, devre elemanlarının tepki süresi kısa olduğu için ani sıcaklık değişimlerini kolayca yakalar.",
+       "dogru": false,
+       "bilgi": "Dijital termometrelerdeki devre elemanlarının tepki süresi uzundur; bu termometreler ani sıcaklık değişimlerini yakalayamaz.",
+       "sayfa": 217
+      },
+      {
+       "id": "4.2-04",
+       "tur": "secmeli",
+       "soru": "1 K gibi çok düşük sıcaklıkları ölçebilen ve genellikle laboratuvarlarda kullanılan termometre türü hangisidir?",
+       "secenekler": [
+        "Gazlı termometre",
+        "Metal termometre",
+        "Sıvılı termometre",
+        "Dijital termometre"
+       ],
+       "dogru": 0,
+       "bilgi": "Metal termometreler ise yüksek sıcaklıklarda kullanılır, çok düşük sıcaklıklarda hassas ölçüm yapamaz.",
+       "sayfa": 217
+      },
+      {
+       "id": "4.2-05",
+       "tur": "bosluk",
+       "cumle": "Fahrenheit ölçeğinde suyun donma sıcaklığı 32 °F, kaynama sıcaklığı ise ___ °F olarak alınır.",
+       "cevap": "212",
+       "celdiriciler": [
+        "100",
+        "180",
+        "373"
+       ],
+       "bilgi": "Suyun donma ve kaynama sıcaklıkları Kelvin'de 273 K ve 373 K, Celsius'ta 0 °C ve 100 °C'tur.",
+       "sayfa": 218
+      },
+      {
+       "id": "4.2-06",
+       "tur": "secmeli",
+       "soru": "Bazı ülkelerin sağlık alanında Fahrenheit ölçekli termometreleri tercih etmesinin nedeni nedir?",
+       "secenekler": [
+        "Suyun donma sıcaklığını 0 kabul etmesi",
+        "Bölme sayısının fazla olması",
+        "Ölçeğin mutlak sıfırdan başlaması",
+        "Temas etmeden ölçüm yapabilmesi"
+       ],
+       "dogru": 1,
+       "bilgi": "Fahrenheit termometresinin bölme sayısı fazladır ve bu hassas ölçüm sağlar; ortam ölçümünde Celsius, bilimsel çalışmalarda Kelvin tercih edilir.",
+       "sayfa": 218
+      },
+      {
+       "id": "4.2-07",
+       "tur": "bosluk",
+       "cumle": "Saf bir maddenin birim kütlesinin sıcaklığını 1 °C veya 1 K değiştirmek için gereken ısı miktarına ___ denir.",
+       "cevap": "öz ısı",
+       "celdiriciler": [
+        "ısı sığası",
+        "erime ısısı",
+        "iç enerji"
+       ],
+       "bilgi": "Öz ısı c ile gösterilir, SI'daki birimi J/kg·K'dir ve maddeler için ayırt edici bir özelliktir.",
+       "sayfa": 219
+      },
+      {
+       "id": "4.2-08",
+       "tur": "dy",
+       "ifade": "Isı sığası maddenin kütlesine bağlı olduğundan maddeler için ayırt edici bir özellik değildir.",
+       "dogru": true,
+       "bilgi": "Isı sığası (C) kütle ile öz ısının çarpımıdır; birimi J/K'dir. 2 kg bakırın ısı sığası 1 kg bakırınkinin iki katıdır.",
+       "sayfa": 219
+      },
+      {
+       "id": "4.2-09",
+       "tur": "secmeli",
+       "soru": "Bir maddenin öz ısısı aşağıdakilerden hangisine bağlıdır?",
+       "secenekler": [
+        "Maddenin kütlesine",
+        "Maddeye verilen ısı miktarına",
+        "Maddenin bulunduğu kabın şekline",
+        "Maddenin cinsine ve fiziksel hâline"
+       ],
+       "dogru": 3,
+       "bilgi": "Örneğin suyun öz ısısı 4.186 J/kg·°C iken buzunki 2.100 J/kg·°C'tur; aynı maddenin farklı hâllerinin öz ısısı farklıdır.",
+       "sayfa": 219
+      },
+      {
+       "id": "4.2-10",
+       "tur": "secmeli",
+       "soru": "Hâl değişiminin olmadığı durumlarda saf bir maddenin sıcaklık değişimi ile maddeye verilen ısı arasındaki ilişki nedir?",
+       "secenekler": [
+        "Ters orantılıdır.",
+        "Doğru orantılıdır.",
+        "Aralarında ilişki yoktur.",
+        "Isı arttıkça sıcaklık değişimi azalır."
+       ],
+       "dogru": 1,
+       "bilgi": "Saf bir maddeye ısı verildiğinde ya sıcaklığı artar ya da madde hâl değiştirir; hâl değişimi yoksa sıcaklık değişimi verilen ısıyla doğru orantılıdır.",
+       "sayfa": 221
+      }
+     ]
+    },
+    {
+     "no": "4.3",
+     "ad": "Hâl Değişimi",
+     "kartlar": [
+      {
+       "id": "4.3-01",
+       "tur": "secmeli",
+       "soru": "Isı alarak hâl değiştiren saf bir maddenin taneciklerinin enerjileri için ne söylenebilir?",
+       "secenekler": [
+        "Kinetik enerji artar, potansiyel enerji sabit kalır.",
+        "Kinetik enerji sabit kalır, potansiyel enerji artar.",
+        "Her ikisi de azalır.",
+        "Her ikisi de sabit kalır."
+       ],
+       "dogru": 1,
+       "bilgi": "Hâl değişimi sırasında sıcaklık sabit kaldığından kinetik enerji değişmez; alınan ısı potansiyel enerjiyi artırır.",
+       "sayfa": 233
+      },
+      {
+       "id": "4.3-02",
+       "tur": "dy",
+       "ifade": "Suya tuz eklendiğinde suyun kaynama sıcaklığı düşer.",
+       "dogru": false,
+       "bilgi": "Saflığı bozulan suyun kaynama sıcaklığı yükselir; buza tuz eklenmesi ise erime sıcaklığını düşürür.",
+       "sayfa": 231
+      },
+      {
+       "id": "4.3-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki maddelerden hangisi erirken hacmi azalan maddelerdendir?",
+       "secenekler": [
+        "Demir",
+        "Alüminyum",
+        "Kalay",
+        "Bizmut"
+       ],
+       "dogru": 3,
+       "bilgi": "Buz, antimon ve bizmut erirken hacmi azalır; bunlarda basınç artınca erime sıcaklığı düşer.",
+       "sayfa": 231
+      },
+      {
+       "id": "4.3-04",
+       "tur": "bosluk",
+       "cumle": "Düdüklü tencerede oluşan yaklaşık 2 atm basınç, suyun kaynama sıcaklığını yaklaşık ___ °C'a yükseltir.",
+       "cevap": "120",
+       "celdiriciler": [
+        "100",
+        "90",
+        "150"
+       ],
+       "bilgi": "Basıncın artması tüm maddelerin kaynama sıcaklığını yükseltir; bu yüzden düdüklü tencerede yemek daha kısa sürede pişer.",
+       "sayfa": 232
+      },
+      {
+       "id": "4.3-05",
+       "tur": "dy",
+       "ifade": "Saf maddeler hâl değiştirirken sıcaklıkları sabit kalır.",
+       "dogru": true,
+       "bilgi": "Saf maddenin tamamı hâl değiştirinceye kadar sıcaklık sabit kalır; grafikte bu bölümler yatay çizgiyle gösterilir.",
+       "sayfa": 233
+      },
+      {
+       "id": "4.3-06",
+       "tur": "secmeli",
+       "soru": "Hâl değişim ısısının (L) SI'daki birimi hangisidir?",
+       "secenekler": [
+        "J/kg",
+        "J/kg·K",
+        "J/K",
+        "W"
+       ],
+       "dogru": 0,
+       "bilgi": "Hâl değişim ısısı, birim kütlenin tamamen hâl değiştirmesi için gereken ısıdır ve maddeler için ayırt edicidir.",
+       "sayfa": 232
+      },
+      {
+       "id": "4.3-07",
+       "tur": "bosluk",
+       "cumle": "Saf maddelerde erime ısısı ___ ısısına eşittir.",
+       "cevap": "donma",
+       "celdiriciler": [
+        "buharlaşma",
+        "yoğuşma",
+        "kaynama"
+       ],
+       "bilgi": "0 °C'taki 1 kg buzu eritmek için 334 kJ ısı vermek, aynı miktar suyu dondurmak için 334 kJ ısı almak gerekir; buharlaşma ısısı da yoğuşma ısısına eşittir.",
+       "sayfa": 233
+      },
+      {
+       "id": "4.3-08",
+       "tur": "secmeli",
+       "soru": "Kar yağarken hava sıcaklığında bir miktar artış olmasının nedeni nedir?",
+       "secenekler": [
+        "Kar tanelerinin havadan ısı alması",
+        "Kar yağışının hava basıncını azaltması",
+        "Su damlalarının donarken havaya ısı vermesi",
+        "Bulutların havaya ışıma yapması"
+       ],
+       "dogru": 2,
+       "bilgi": "Maddeler hâl değiştirirken ortamdan ısı alır ya da ortama ısı verir; donma sırasında ortama ısı verilir.",
+       "sayfa": 234
+      },
+      {
+       "id": "4.3-09",
+       "tur": "eslestir",
+       "yonerge": "Günlük hayattaki olayları hâl değişimiyle ilgili açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Araç lastiklerinin geçtiği yerde karın erimesi",
+         "Basınç artışı buzun erime sıcaklığını düşürür."
+        ],
+        [
+         "Buzlu yollara tuz serpilmesi",
+         "Saflığın bozulması erime sıcaklığını düşürür."
+        ],
+        [
+         "Düdüklü tencerede yemeğin çabuk pişmesi",
+         "Basınç artışı kaynama sıcaklığını yükseltir."
+        ],
+        [
+         "İri buz parçalarının geç erimesi",
+         "Kütle arttıkça hâl değişimi için gereken ısı artar."
+        ]
+       ],
+       "bilgi": "Maddenin saflığı ve üzerine etki eden basınç hâl değişim sıcaklığını; kütle ve cins ise gereken ısı miktarını etkiler.",
+       "sayfa": 231
+      },
+      {
+       "id": "4.3-10",
+       "tur": "dy",
+       "ifade": "Hâl değişimi süresince maddenin kütlesi azalır.",
+       "dogru": false,
+       "bilgi": "Hâl değişimi süresince kütle korunur.",
+       "sayfa": 236
+      }
+     ]
+    },
+    {
+     "no": "4.4",
+     "ad": "Isıl Denge",
+     "kartlar": [
+      {
+       "id": "4.4-01",
+       "tur": "bosluk",
+       "cumle": "Isı alışverişi yapan maddelerin süreç sonunda ulaştıkları ortak son sıcaklığa ___ sıcaklığı denir.",
+       "cevap": "denge",
+       "celdiriciler": [
+        "erime",
+        "kaynama",
+        "başlangıç"
+       ],
+       "bilgi": "Denge sıcaklığı TD ile gösterilir; bu duruma ısıl denge adı verilir.",
+       "sayfa": 239
+      },
+      {
+       "id": "4.4-02",
+       "tur": "secmeli",
+       "soru": "Isıca yalıtılmış ortamdaki sıcaklıkları farklı iki madde arasındaki ısı aktarımı ne zamana kadar sürer?",
+       "secenekler": [
+        "Maddelerin iç enerjileri eşitlenene kadar",
+        "Maddelerin sıcaklıkları eşitlenene kadar",
+        "Sıcak maddenin sıcaklığı 0 °C olana kadar",
+        "Maddelerin kütleleri eşitlenene kadar"
+       ],
+       "dogru": 1,
+       "bilgi": "Isı sıcak maddeden soğuk maddeye, son sıcaklıklar eşit oluncaya kadar aktarılır.",
+       "sayfa": 239
+      },
+      {
+       "id": "4.4-03",
+       "tur": "dy",
+       "ifade": "Yalıtılmış bir ortamda ısıl dengeye ulaşılana kadar sıcak maddenin verdiği ısı, soğuk maddenin aldığı ısıya eşittir.",
+       "dogru": true,
+       "bilgi": "Isıl dengeye gelinceye kadar alınan ısı verilen ısıya eşittir.",
+       "sayfa": 239
+      },
+      {
+       "id": "4.4-04",
+       "tur": "dy",
+       "ifade": "Sıcaklıkları eşit olan iki madde birbiriyle etkileştiğinde aralarındaki ısı alışverişi devam eder.",
+       "dogru": false,
+       "bilgi": "Sıcaklıkları eşit olan maddeler zaten ısıl dengededir ve aralarında ısı alışverişi olmaz.",
+       "sayfa": 239
+      },
+      {
+       "id": "4.4-05",
+       "tur": "secmeli",
+       "soru": "Vücut sıcaklığı ölçülürken termometrenin gösterdiği değerin vücut sıcaklığına çok yakın olmasının nedeni nedir?",
+       "secenekler": [
+        "Termometrenin ölçüm sırasında vücuttan hiç ısı almaması",
+        "Cıvanın öz ısısının vücudunkinden çok büyük olması",
+        "Vücudun öz ısısının termometreninkinden çok büyük olması",
+        "Vücudun termometreye hiçbir şekilde ısı vermemesi"
+       ],
+       "dogru": 2,
+       "bilgi": "Termometre ölçümü ısıl dengeye örnektir; gösterilen değer termometre ile cismin denge sıcaklığıdır.",
+       "sayfa": 240
+      },
+      {
+       "id": "4.4-06",
+       "tur": "secmeli",
+       "soru": "Isıca yalıtılmış ortamda A cisminden B cismine ısı akıyor ve A'nın ısı sığası B'ninkinden büyükse denge sıcaklığı hangisine daha yakındır?",
+       "secenekler": [
+        "A'nın ilk sıcaklığına",
+        "B'nin ilk sıcaklığına",
+        "İki ilk sıcaklığın tam ortalamasına",
+        "B'nin ilk sıcaklığından daha düşük bir değere"
+       ],
+       "dogru": 0,
+       "bilgi": "Isı sığası büyük olan cismin sıcaklığı daha az değişir; bu yüzden denge sıcaklığı onun ilk sıcaklığına yakın olur.",
+       "sayfa": 240
+      },
+      {
+       "id": "4.4-07",
+       "tur": "bosluk",
+       "cumle": "Buzdolabı, klima ve ısı pompası gibi soğutma sistemleri, soğutulmak istenen bölgeden ___ alarak dış ortama aktarır.",
+       "cevap": "ısıyı",
+       "celdiriciler": [
+        "sıcaklığı",
+        "basıncı",
+        "kütleyi"
+       ],
+       "bilgi": "Isıtma sistemleri enerjiyi sıcak ortamdan soğuk ortama aktararak ısıtır; soğutma sistemleri ise ısıyı soğutulacak bölgeden uzaklaştırır.",
+       "sayfa": 236
+      },
+      {
+       "id": "4.4-08",
+       "tur": "bosluk",
+       "cumle": "Sıcaklıkları farklı maddelerin son sıcaklıklarının eşitlendiği ısıl denge durumu ___ denge olarak da adlandırılır.",
+       "cevap": "termal",
+       "celdiriciler": [
+        "mekanik",
+        "kimyasal",
+        "statik"
+       ],
+       "bilgi": "Isıl (termal) dengeye gelen maddelerin sıcaklıkları eşittir.",
+       "sayfa": 239
+      }
+     ]
+    },
+    {
+     "no": "4.5",
+     "ad": "Isı Aktarım Yolları",
+     "kartlar": [
+      {
+       "id": "4.5-01",
+       "tur": "secmeli",
+       "soru": "Maddesel ortama ihtiyaç duymadan boşlukta da gerçekleşebilen ısı aktarım yolu hangisidir?",
+       "secenekler": [
+        "İletim",
+        "Konveksiyon",
+        "Işıma",
+        "Sürüklenme"
+       ],
+       "dogru": 2,
+       "bilgi": "Işıma, ısının elektromanyetik dalgalarla yayılmasıdır; bu dalgalar boşlukta ışık hızında yayılır.",
+       "sayfa": 244
+      },
+      {
+       "id": "4.5-02",
+       "tur": "bosluk",
+       "cumle": "Isının madde içinde tanecikten taneciğe titreşimlerle aktarılarak yayılmasına ___ denir.",
+       "cevap": "iletim",
+       "celdiriciler": [
+        "konveksiyon",
+        "ışıma",
+        "yoğuşma"
+       ],
+       "bilgi": "İletim, tanecikleri birbirine daha yakın olan katılarda etkili bir ısı aktarım yoludur.",
+       "sayfa": 243
+      },
+      {
+       "id": "4.5-03",
+       "tur": "dy",
+       "ifade": "Sıvı ve gazlarda iletim yoluyla ısı aktarımı hiç gerçekleşmez.",
+       "dogru": false,
+       "bilgi": "Sıvı ve gazlarda tanecikler arası mesafe büyük olduğundan iletim zordur, ancak hiç olmadığı anlamına gelmez.",
+       "sayfa": 243
+      },
+      {
+       "id": "4.5-04",
+       "tur": "bosluk",
+       "cumle": "Akışkanlarda gerçekleşen konveksiyon, \"sürüklenme\" ve \"___\" hareketlerinin birleşimidir.",
+       "cevap": "yayılma",
+       "celdiriciler": [
+        "titreşim",
+        "dönme",
+        "yansıma"
+       ],
+       "bilgi": "Isınan ve yoğunluğu azalan tanecikler yükselir (sürüklenme), çarpışmalarla enerjisini soğuk taneciklere aktarır (yayılma).",
+       "sayfa": 244
+      },
+      {
+       "id": "4.5-05",
+       "tur": "eslestir",
+       "yonerge": "Olayları, etkili olan ısı aktarım yoluyla eşleştir.",
+       "ciftler": [
+        [
+         "Yemeği metal kaşıkla karıştıranın elinin ısınması",
+         "İletim"
+        ],
+        [
+         "Sobada yanan odunun tüm odayı ısıtması",
+         "Konveksiyon"
+        ],
+        [
+         "Güneş'in Dünya'yı ısıtması",
+         "Işıma"
+        ]
+       ],
+       "bilgi": "Isı; iletim, konveksiyon ve ışıma olmak üzere üç yolla aktarılır.",
+       "sayfa": 244
+      },
+      {
+       "id": "4.5-06",
+       "tur": "secmeli",
+       "soru": "Kalorifer peteklerinin odanın zeminine yakın yerleştirilmesinin nedeni nedir?",
+       "secenekler": [
+        "Zemin, ısıyı iletim yoluyla tavana kadar taşır.",
+        "Isınan hava yükselir, konveksiyonla tüm oda ısınır.",
+        "Işıma yalnızca aşağıdan yukarıya doğru yayılır.",
+        "Soğuk hava yükselir, sıcak hava zemine çöker."
+       ],
+       "dogru": 1,
+       "bilgi": "Petekler tavana yakın olsaydı konveksiyona yalnızca üstteki hava katılır, zemindeki hava ısınmazdı.",
+       "sayfa": 245
+      },
+      {
+       "id": "4.5-07",
+       "tur": "dy",
+       "ifade": "Koyu renkli nesneler, açık renkli nesnelere göre Güneş'ten gelen ışınları daha fazla soğurur.",
+       "dogru": true,
+       "bilgi": "Işımayla ısı aktarımında kızılötesi ışınların yanı sıra görünür ışık ve morötesi ışınlar da etkilidir.",
+       "sayfa": 244
+      },
+      {
+       "id": "4.5-08",
+       "tur": "secmeli",
+       "soru": "Elini mum alevine üstten yaklaştıran kişinin, yandan yaklaştırana göre daha fazla sıcaklık hissetmesinin nedeni nedir?",
+       "secenekler": [
+        "Üstte hem konveksiyon hem ışıma etkilidir.",
+        "Üstte yalnızca iletim yoluyla ısınma olur.",
+        "Yanda ışıma yoluyla hiç ısınma gerçekleşmez.",
+        "Üstte ışıma olmaz, yalnızca konveksiyon olur."
+       ],
+       "dogru": 0,
+       "bilgi": "Isınan hava yukarı yükseldiği için alevin üstünde konveksiyon da etkilidir; yanda ise el çoğunlukla ışımayla ısınır.",
+       "sayfa": 245
+      },
+      {
+       "id": "4.5-09",
+       "tur": "bosluk",
+       "cumle": "Sıcaklığı 0 K'nin üzerindeki tüm maddelerden, elektromanyetik dalgalar grubunda yer alan ___ ışınlar yayılır.",
+       "cevap": "kızılötesi",
+       "celdiriciler": [
+        "morötesi",
+        "gama",
+        "X"
+       ],
+       "bilgi": "Elektromanyetik dalgalar, elektrik yüklü parçacıkların ivmeli hareketleri sonucunda oluşur.",
+       "sayfa": 244
+      }
+     ]
+    },
+    {
+     "no": "4.6",
+     "ad": "Isı İletim Hızı",
+     "kartlar": [
+      {
+       "id": "4.6-01",
+       "tur": "bosluk",
+       "cumle": "Sıcaklıkları farklı iki ortam arasında birim zamanda aktarılan ısı miktarına ___ denir.",
+       "cevap": "ısı iletim hızı",
+       "celdiriciler": [
+        "ısı sığası",
+        "öz ısı",
+        "denge sıcaklığı"
+       ],
+       "bilgi": "Isı iletim hızına enerji iletim hızı da denir.",
+       "sayfa": 250
+      },
+      {
+       "id": "4.6-02",
+       "tur": "secmeli",
+       "soru": "Isı iletim hızının birimi hangisidir?",
+       "secenekler": [
+        "Joule",
+        "Pascal",
+        "Kelvin",
+        "Watt"
+       ],
+       "dogru": 3,
+       "bilgi": "Isı iletim hızının birimi joule/saniye yani watttır; bu birim güç birimiyle aynıdır.",
+       "sayfa": 250
+      },
+      {
+       "id": "4.6-03",
+       "tur": "secmeli",
+       "soru": "Isı iletim hızıyla ilgili aşağıdakilerden hangisi doğrudur?",
+       "secenekler": [
+        "Ortamları ayıran maddenin kalınlığıyla ters orantılıdır.",
+        "Isının iletildiği yüzeyin alanıyla ters orantılıdır.",
+        "Ortamlar arasındaki sıcaklık farkıyla ters orantılıdır.",
+        "Ortamları ayıran maddenin cinsinden bağımsızdır."
+       ],
+       "dogru": 0,
+       "bilgi": "Isı iletim hızı yüzey alanı ve sıcaklık farkıyla doğru, kalınlıkla ters orantılıdır; maddenin cinsi de etkilidir.",
+       "sayfa": 250
+      },
+      {
+       "id": "4.6-04",
+       "tur": "dy",
+       "ifade": "Isı iletim katsayısı en yüksek olan madde elmastır.",
+       "dogru": true,
+       "bilgi": "Genel olarak saf metallerin ısı iletim katsayıları büyüktür; en yüksek katsayıya sahip madde ise elmastır.",
+       "sayfa": 251
+      },
+      {
+       "id": "4.6-05",
+       "tur": "dy",
+       "ifade": "Isı iletim katsayısı küçük olan maddeler ısıyı hızlı iletir ve ısı iletkeni kabul edilir.",
+       "dogru": false,
+       "bilgi": "Isı iletim katsayısı büyük olan maddeler ısı iletkeni, küçük olanlar ısı yalıtkanıdır.",
+       "sayfa": 251
+      },
+      {
+       "id": "4.6-06",
+       "tur": "secmeli",
+       "soru": "Binalarda ısı yalıtımı için dış cephenin kaplanmasında kullanılan, ısı iletim katsayısı düşük malzeme hangisidir?",
+       "secenekler": [
+        "Alüminyum",
+        "Strafor",
+        "Çelik",
+        "Pirinç"
+       ],
+       "dogru": 1,
+       "bilgi": "Dış cephede strafor, çatı ile tavan arasında strafor veya cam yünü kullanılır; duvarların kalın olması da ısı kaybını azaltır.",
+       "sayfa": 252
+      },
+      {
+       "id": "4.6-07",
+       "tur": "eslestir",
+       "yonerge": "Uygulamaları ısı iletimiyle ilgili amaçlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Tencere tabanının metalden yapılması",
+         "Isıyı hızlı iletmek"
+        ],
+        [
+         "Tencere sapının yalıtkan malzemeden yapılması",
+         "Isıyı yavaş iletmek"
+        ],
+        [
+         "Çift camlı pencere",
+         "Camlar arasındaki seyreltilmiş havayla ısı geçişini azaltmak"
+        ],
+        [
+         "Termal kumaştan giysi",
+         "Vücut ile dış ortam arasındaki ısı iletimini azaltmak"
+        ]
+       ],
+       "bilgi": "Isı yalıtımı tasarruf ve konfor sağlar; bazı uygulamalarda ise ısının hızlı iletilmesi istenir.",
+       "sayfa": 252
+      },
+      {
+       "id": "4.6-08",
+       "tur": "bosluk",
+       "cumle": "Bir maddenin ısıyı iletme kabiliyetinin ölçüsü olan ___, maddeler için ayırt edici bir özelliktir.",
+       "cevap": "ısıl iletkenlik",
+       "celdiriciler": [
+        "ısı sığası",
+        "iç enerji",
+        "sıcaklık"
+       ],
+       "bilgi": "Maddelerin ısıl iletkenlikleri ısı iletim katsayılarıyla karşılaştırılır.",
+       "sayfa": 251
+      },
+      {
+       "id": "4.6-09",
+       "tur": "secmeli",
+       "soru": "Kalorifer peteklerinin yapımında ısı iletim katsayısı büyük malzemeler tercih edilmesinin amacı nedir?",
+       "secenekler": [
+        "Isının petekte uzun süre depolanması",
+        "Peteklerin hafif olması",
+        "Sıcak sudaki ısının odaya hızlı iletilmesi",
+        "Odadan dışarıya ısı kaybının engellenmesi"
+       ],
+       "dogru": 2,
+       "bilgi": "Petekler, içlerindeki sıcak suyun ısısını odaya mümkün olduğunca hızlı iletmesi için iyi ısı iletkeni malzemeden yapılır.",
+       "sayfa": 252
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

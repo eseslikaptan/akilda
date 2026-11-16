@@ -1,0 +1,3000 @@
+{
+ "kitap": "kimya-9",
+ "ders": "kimya",
+ "sinif": 9,
+ "baslik": "Kimya 9. Sınıf Ders Kitabı",
+ "sayfaUrl": "https://tymm.meb.gov.tr/kitap/39/kimya-9sinif-ders-kitabi",
+ "pdfUrl": "https://tymm.meb.gov.tr/assets/pdf/kimya-9sinif-ders-kitabi_20260908_105401_982.pdf",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Etkileşim",
+   "konular": [
+    {
+     "no": "1.1.1",
+     "ad": "Günlük Hayatta Kimya",
+     "kartlar": [
+      {
+       "id": "1.1.1-01",
+       "tur": "secmeli",
+       "soru": "Günlük hayatta kimyanın katkısına örnek gösterilen bilgisayar çiplerinin yapımında hangi element kullanılır?",
+       "secenekler": [
+        "Silisyum",
+        "Sodyum",
+        "Cıva",
+        "Kurşun"
+       ],
+       "dogru": 0,
+       "bilgi": "Bilgisayardaki silisyum çipi, günlük hayatta kimyasal maddelerin ve olayların yer aldığı örneklerden biridir.",
+       "sayfa": 20
+      },
+      {
+       "id": "1.1.1-02",
+       "tur": "dy",
+       "ifade": "Bilgisayarların çalışması ve telefonların şarj olması gibi olaylar, atomun yapısındaki elektronların hareketine dayanır.",
+       "dogru": true,
+       "bilgi": "Bilgisayarların işlemesi, telefonların şarj olması ve televizyon ekranlarının ışıldaması atomdaki elektronların hareketine dayanır.",
+       "sayfa": 17
+      },
+      {
+       "id": "1.1.1-03",
+       "tur": "bosluk",
+       "cumle": "Çaydanlıkta biriken kireç kimyasal olarak ___ karbonattır.",
+       "cevap": "kalsiyum",
+       "celdiriciler": [
+        "sodyum",
+        "magnezyum",
+        "potasyum"
+       ],
+       "bilgi": "Çaydanlıkta biriken kireç kalsiyum karbonattır; bu kireci çözmek için limon tuzu tercih edilir.",
+       "sayfa": 21
+      },
+      {
+       "id": "1.1.1-04",
+       "tur": "secmeli",
+       "soru": "Doğada güvenli su tüketimi için en iyi yöntem hangisidir?",
+       "secenekler": [
+        "Suyu dondurup eritmek",
+        "Suya tuz eklemek",
+        "Suyu güneşte bekletmek",
+        "Suyu kaynatmak"
+       ],
+       "dogru": 3,
+       "bilgi": "Güvenli su tüketimi için en iyi yöntem suyu kaynatmaktır; akarsular durgun sulara göre genellikle daha güvenilirdir.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1.1-05",
+       "tur": "secmeli",
+       "soru": "FAO ve WHO raporlarına göre alüminyum içeren malzemelerin uzun süre kullanılması hangi hastalıkların ortaya çıkmasında risk oluşturur?",
+       "secenekler": [
+        "Alzheimer ve Parkinson",
+        "Astım ve bronşit",
+        "Diyabet ve guatr",
+        "Kızamık ve suçiçeği"
+       ],
+       "dogru": 0,
+       "bilgi": "Uzun süre alüminyum içeren malzeme kullanımının Alzheimer ve Parkinson gibi hastalıklar için risk oluşturduğu belirtilmektedir.",
+       "sayfa": 24
+      },
+      {
+       "id": "1.1.1-06",
+       "tur": "bosluk",
+       "cumle": "Mide yanmasını gidermek için kullanılan çiğneme tabletlerine ___ tablet denir.",
+       "cevap": "antiasit",
+       "celdiriciler": [
+        "antibiyotik",
+        "antiseptik",
+        "vitamin"
+       ],
+       "bilgi": "Antiasit tabletler, mide yanmasını gidermek için kullanılan çiğneme tabletleridir.",
+       "sayfa": 21
+      },
+      {
+       "id": "1.1.1-07",
+       "tur": "secmeli",
+       "soru": "Doğada basit bir su filtresi hazırlamak için boş bir pet şişeye hangi malzemeler yerleştirilebilir?",
+       "secenekler": [
+        "Tuz, şeker, un ve pamuk",
+        "Çakıl, kum, odun kömürü ve kumaş",
+        "Kireç, sirke, karbonat ve sabun",
+        "Talaş, kâğıt, plastik ve folyo"
+       ],
+       "dogru": 1,
+       "bilgi": "Pet şişeye çakıl, kum, odun kömürü ve kumaş parçası yerleştirilerek basit bir su filtresi yapılabilir.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1.1-08",
+       "tur": "bosluk",
+       "cumle": "Kimya, insanların hem ruhsal hem de ___ ihtiyaçlarına yönelik çözümler sunan temel bir bilim dalıdır.",
+       "cevap": "bedensel",
+       "celdiriciler": [
+        "ekonomik",
+        "sosyal",
+        "kültürel"
+       ],
+       "bilgi": "Kimya, insan hayatıyla derin bir etkileşim içinde olan ve ruhsal ile bedensel ihtiyaçlara çözüm sunan temel bir bilimdir.",
+       "sayfa": 20
+      }
+     ]
+    },
+    {
+     "no": "1.1.2",
+     "ad": "Kimyanın Alt Disiplinleri",
+     "kartlar": [
+      {
+       "id": "1.1.2-01",
+       "tur": "secmeli",
+       "soru": "Maddelerin hangi bileşenlerden oluştuğunu ve bu bileşenlerin miktarlarını inceleyen kimya disiplini hangisidir?",
+       "secenekler": [
+        "Analitik kimya",
+        "Polimer kimyası",
+        "Fizikokimya",
+        "Organik kimya"
+       ],
+       "dogru": 0,
+       "bilgi": "Analitik kimya maddelerin bileşenlerini ve miktarlarını inceler; nitel ve nicel analiz yöntemlerini kullanır.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.1.2-02",
+       "tur": "bosluk",
+       "cumle": "Bir maddenin hangi element ve bileşiklerden oluştuğunu bulmaya yarayan analiz türüne ___ analiz denir.",
+       "cevap": "nitel",
+       "celdiriciler": [
+        "nicel",
+        "kantitatif",
+        "termal"
+       ],
+       "bilgi": "Bileşenleri belirleyen analiz nitel (kalitatif), bileşenlerin miktarını belirleyen analiz nicel (kantitatif) analizdir.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.1.2-03",
+       "tur": "secmeli",
+       "soru": "Karbon kimyası olarak da adlandırılan ve bileşik çeşitliliği nedeniyle kimyanın en geniş alanı olan disiplin hangisidir?",
+       "secenekler": [
+        "Anorganik kimya",
+        "Biyokimya",
+        "Analitik kimya",
+        "Organik kimya"
+       ],
+       "dogru": 3,
+       "bilgi": "Organik kimya (karbon kimyası), organik bileşiklerin çeşitliliği nedeniyle kimyanın en geniş alanıdır.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.1.2-04",
+       "tur": "bosluk",
+       "cumle": "Biyokimya adı, canlı anlamına gelen Yunanca ___ kelimesinden türemiştir.",
+       "cevap": "bios",
+       "celdiriciler": [
+        "logos",
+        "genos",
+        "physis"
+       ],
+       "bilgi": "Biyokimya canlı kimyasıdır; canlılardaki bileşiklerin yapısını ve yaşam süreci boyunca gerçekleşen tepkimeleri inceler.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.1.2-05",
+       "tur": "dy",
+       "ifade": "Polimer kimyası, tek atomlu küçük taneciklerin kimyasıdır.",
+       "dogru": false,
+       "bilgi": "Polimer kimyası makromoleküllerin (büyük moleküller) kimyasıdır; plastik, kauçuk, fiber ve yapıştırıcıları inceler.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.1.2-06",
+       "tur": "secmeli",
+       "soru": "Sıcaklık, basınç, hacim ve derişimin tepkimelere etkisini ve tepkimelerdeki enerji dönüşümlerini inceleyen disiplin hangisidir?",
+       "secenekler": [
+        "Fizikokimya",
+        "Biyokimya",
+        "Polimer kimyası",
+        "Anorganik kimya"
+       ],
+       "dogru": 0,
+       "bilgi": "Fizikokimya; fiziksel faktörlerin tepkimelere etkisini ve sistemlerdeki ısı ve enerji dönüşümlerini inceler.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.1.2-07",
+       "tur": "eslestir",
+       "yonerge": "Kimya disiplinlerini uygulama örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Analitik kimya",
+         "Suların sertlik derecesinin tayini"
+        ],
+        [
+         "Biyokimya",
+         "Protein, hormon ve vitaminlerin incelenmesi"
+        ],
+        [
+         "Polimer kimyası",
+         "Plastik, kauçuk ve fiberlerin incelenmesi"
+        ],
+        [
+         "Fizikokimya",
+         "Buzun erimesindeki değişimlerin anlaşılması"
+        ],
+        [
+         "Anorganik kimya",
+         "Asit, baz, tuz ve minerallerin incelenmesi"
+        ]
+       ],
+       "bilgi": "Kimya; analitik, biyokimya, organik, anorganik, fizikokimya ve polimer kimyası gibi alt disiplinlere ayrılır.",
+       "sayfa": 26
+      }
+     ]
+    },
+    {
+     "no": "1.1.3",
+     "ad": "Kimya Alanında Kariyer Olanakları",
+     "kartlar": [
+      {
+       "id": "1.1.3-01",
+       "tur": "bosluk",
+       "cumle": "Kimya teknolojisi ön lisans programlarını tamamlayanlar kimya ___ ünvanını alır.",
+       "cevap": "teknikeri",
+       "celdiriciler": [
+        "mühendisi",
+        "öğretmeni",
+        "uzmanı"
+       ],
+       "bilgi": "Ön lisans mezunları kimya teknikeri; kimya, kimya mühendisliği ve kimya öğretmenliği lisans mezunları kimyager, kimya mühendisi ve kimya öğretmeni olur.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.1.3-02",
+       "tur": "secmeli",
+       "soru": "Aziz Sancar 2015 Nobel Kimya Ödülü'nü hangi konudaki çalışmalarıyla kazanmıştır?",
+       "secenekler": [
+        "Atom ve moleküllerde çoklu elektron kuramı",
+        "Hasar gören DNA'nın hücrelerce onarımı",
+        "Elektromanyetik indüksiyon ve elektroliz",
+        "Gazların hacmi ile tanecik sayısı ilişkisi"
+       ],
+       "dogru": 1,
+       "bilgi": "Aziz Sancar, hasar gören DNA'ların hücreler tarafından onarımı ve genetik bilginin korunması araştırmalarıyla 2015 Nobel Kimya Ödülü'nü kazandı.",
+       "sayfa": 28
+      },
+      {
+       "id": "1.1.3-03",
+       "tur": "dy",
+       "ifade": "Aziz Sancar, Nobel Ödülü madalyası ve sertifikasını Anıtkabir'e teslim etmiştir.",
+       "dogru": true,
+       "bilgi": "Kimya alanında Nobel alan ilk Türk vatandaşı Aziz Sancar, ödülünü Atatürk'ün eğitim devrimine bağlayarak Anıtkabir'e teslim etmiştir.",
+       "sayfa": 28
+      },
+      {
+       "id": "1.1.3-04",
+       "tur": "secmeli",
+       "soru": "Kimya, biyokimya ve moleküler biyofizik alanlarındaki buluşlarıyla \"Türk Aynştaynı\" olarak tanınan bilim insanı kimdir?",
+       "secenekler": [
+        "Oktay Sinanoğlu",
+        "Cabir bin Hayyan",
+        "Aziz Sancar",
+        "Biruni"
+       ],
+       "dogru": 0,
+       "bilgi": "Oktay Sinanoğlu \"Türk Aynştaynı\" olarak tanınır ve 25 yaşında en genç profesör ünvanını almıştır.",
+       "sayfa": 28
+      },
+      {
+       "id": "1.1.3-05",
+       "tur": "dy",
+       "ifade": "Oktay Sinanoğlu, 2015 Nobel Kimya Ödülü'nü kazanan Türk bilim insanıdır.",
+       "dogru": false,
+       "bilgi": "2015 Nobel Kimya Ödülü'nü Aziz Sancar kazanmıştır; Oktay Sinanoğlu ise iki kez Nobel Ödülü'ne aday gösterilmiştir.",
+       "sayfa": 28
+      },
+      {
+       "id": "1.1.3-06",
+       "tur": "secmeli",
+       "soru": "Nitrik asit, sülfürik asit ve kral suyunu elde eden, damıtmada kullanılan imbiği geliştiren İslam alimi kimdir?",
+       "secenekler": [
+        "İbni Sina",
+        "Biruni",
+        "Ebû Bekir er-Râzî",
+        "Cabir bin Hayyan"
+       ],
+       "dogru": 3,
+       "bilgi": "Cabir bin Hayyan, deney ve teoriye dayalı kimyanın öncüsü kabul edilir; baz kavramıyla da kimyanın gelişimine katkı sağlamıştır.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.1.3-07",
+       "tur": "bosluk",
+       "cumle": "Alkolü tıpta antiseptik olarak kullanan ve karıncalardan damıtma yoluyla formik asit elde eden alim ___ olarak bilinir.",
+       "cevap": "Ebû Bekir er-Râzî",
+       "celdiriciler": [
+        "İbni Sina",
+        "Biruni",
+        "Cabir bin Hayyan"
+       ],
+       "bilgi": "Ebû Bekir er-Râzî simyayı tıbbın hizmetine sunan ilk kişidir; kostik soda ve gliserini keşfetmiş, kroze ve fırın geliştirmiştir.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.1.3-08",
+       "tur": "secmeli",
+       "soru": "Matematik, astronomi ve coğrafyanın yanı sıra metaller ve taşlarla ilgili görüşler öne süren, madenî kökenli ilaçlar da hazırlayan alim kimdir?",
+       "secenekler": [
+        "Biruni",
+        "İbni Sina",
+        "Cabir bin Hayyan",
+        "Ebû Bekir er-Râzî"
+       ],
+       "dogru": 0,
+       "bilgi": "Biruni kimyada metaller ve taşlarla ilgili görüşler öne sürmüş; bitkisel, hayvansal ve madenî kökenli ilaçlar hazırlamıştır.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.1.3-09",
+       "tur": "eslestir",
+       "yonerge": "Bilim insanlarını kimyaya katkılarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Robert Boyle",
+         "Elementi daha basit maddelere ayrılamayan saf madde olarak tanımladı"
+        ],
+        [
+         "Amedeo Avogadro",
+         "Eşit hacimdeki gazların tanecik sayılarının eşit olduğunu öne sürdü"
+        ],
+        [
+         "Antoine L. Lavoisier",
+         "Kütlenin korunumu kanununu terazi kullanarak buldu"
+        ],
+        [
+         "Michael Faraday",
+         "Elektromanyetik indüksiyon ve elektroliz prensiplerini buldu"
+        ]
+       ],
+       "bilgi": "Boyle element tanımını ve Boyle kanununu, Avogadro hipotezini, Lavoisier kütlenin korunumunu, Faraday elektrolizi ortaya koymuştur.",
+       "sayfa": 31
+      },
+      {
+       "id": "1.1.3-10",
+       "tur": "dy",
+       "ifade": "Lavoisier, havada bulunan ve yanmaya neden olan gazın azot olduğunu ispatlamıştır.",
+       "dogru": false,
+       "bilgi": "Fransız bilim insanı Lavoisier, havada bulunan ve yanmaya neden olan gazın oksijen (O₂) olduğunu ispatlamıştır.",
+       "sayfa": 31
+      }
+     ]
+    },
+    {
+     "no": "1.1.4",
+     "ad": "Kimyasal Maddelerin Kullanımı ve Güvenlik",
+     "kartlar": [
+      {
+       "id": "1.1.4-01",
+       "tur": "secmeli",
+       "soru": "Laboratuvarda sıvılar pipetle aktarılırken pipetin arkasına takılarak kullanılması gereken malzeme hangisidir?",
+       "secenekler": [
+        "Spatül",
+        "Puar",
+        "Baget",
+        "Saat camı"
+       ],
+       "dogru": 1,
+       "bilgi": "Sıvılar pipetle aktarılırken kesinlikle puar kullanılmalı, sıvı asla ağızla çekilmemelidir.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.1.4-02",
+       "tur": "dy",
+       "ifade": "Asit çözeltisi hazırlanırken su, asidin içine hızla dökülmelidir.",
+       "dogru": false,
+       "bilgi": "Asit çözeltisi hazırlanırken asit, pipet yardımıyla yavaşça suyun içine dökülerek seyreltilmelidir.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.1.4-03",
+       "tur": "bosluk",
+       "cumle": "Zehirli buhar ve gaz oluşturan maddelerle çalışılırken ___ kullanılmalıdır.",
+       "cevap": "çeker ocak",
+       "celdiriciler": [
+        "bünzen beki",
+        "ispirto ocağı",
+        "kroze"
+       ],
+       "bilgi": "Zehirli buhar ve gaz oluşturan maddelerle yapılan çalışmalarda çeker ocak kullanılmalıdır.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.1.4-04",
+       "tur": "secmeli",
+       "soru": "Doğru ölçüm yapmak için sıvıların hacim ölçümünde aşağıdaki malzemelerden hangisi kullanılmamalıdır?",
+       "secenekler": [
+        "Beherglas",
+        "Mezür",
+        "Pipet",
+        "Damlalık"
+       ],
+       "dogru": 0,
+       "bilgi": "Sıvıların hacmi damlalık, pipet ve mezürle ölçülmeli; doğru ölçüm için beherglas kullanılmamalıdır.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.1.4-05",
+       "tur": "secmeli",
+       "soru": "Laboratuvarda kimyasal madde cilde veya göze temas ettiğinde bölge en az ne kadar süre bol suyla yıkanmalıdır?",
+       "secenekler": [
+        "2 dakika",
+        "5 dakika",
+        "15 dakika",
+        "1 saat"
+       ],
+       "dogru": 2,
+       "bilgi": "Kimyasal madde temasında cilt ve göz en az 15 dakika bol suyla yıkanmalı, ilk yardım kurallarına uyulmalıdır.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.1.4-06",
+       "tur": "bosluk",
+       "cumle": "Kimyasal madde etiketlerinde sağlık ve güvenlik amacıyla kullanılan işaretlere risk ___ denir.",
+       "cevap": "piktogramları",
+       "celdiriciler": [
+        "kodları",
+        "matrisleri",
+        "tabloları"
+       ],
+       "bilgi": "Kimyasal madde etiketlerindeki sağlık ve güvenlik işaretleri risk piktogramlarıdır; madde kullanılmadan önce etiket okunmalıdır.",
+       "sayfa": 38
+      },
+      {
+       "id": "1.1.4-07",
+       "tur": "eslestir",
+       "yonerge": "Güvenlik uyarı işaretlerini anlamlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Korozif madde",
+         "Canlı dokuyu tahrip eder, metalleri aşındırır"
+        ],
+        [
+         "Oksitleyici madde",
+         "Yanıcı maddelerle karışınca patlamaya yol açabilir"
+        ],
+        [
+         "Radyoaktif madde",
+         "Çevresine radyasyon yayar"
+        ],
+        [
+         "Tıbbi atık",
+         "Enfeksiyon riski taşıyan sağlık ünitesi atığıdır"
+        ],
+        [
+         "Gaz",
+         "Basınç altında gaz içerir"
+        ]
+       ],
+       "bilgi": "Risk piktogramları; korozif, oksitleyici, radyoaktif, tıbbi atık ve basınçlı gaz gibi tehlikeleri gösterir.",
+       "sayfa": 38
+      },
+      {
+       "id": "1.1.4-08",
+       "tur": "secmeli",
+       "soru": "Çamaşır suyunun yapısındaki etken madde genellikle hangisidir?",
+       "secenekler": [
+        "Sodyum hipoklorit",
+        "Sodyum hidroksit",
+        "Hidrojen klorür",
+        "Kalsiyum karbonat"
+       ],
+       "dogru": 0,
+       "bilgi": "Çamaşır suyunun etken maddesi genellikle sodyum hipoklorittir (NaClO); ağartma ve dezenfeksiyonda kullanılır, baz özellik gösterir.",
+       "sayfa": 39
+      },
+      {
+       "id": "1.1.4-09",
+       "tur": "dy",
+       "ifade": "Çamaşır suyu ve tuz ruhu gibi temizlik ürünlerinin karıştırılması sonucu klor gazı ortaya çıkabilir.",
+       "dogru": true,
+       "bilgi": "Çamaşır suyu ile tuz ruhunun karışmasıyla oluşan klor gazı solunduğunda nefes darlığı, öksürük ve göğüs ağrısı yapabilir.",
+       "sayfa": 39
+      },
+      {
+       "id": "1.1.4-10",
+       "tur": "secmeli",
+       "soru": "Cıvanın sucul kaynaklardan besin zinciri yoluyla insanlara ulaşmasıyla ortaya çıkan hastalık hangisidir?",
+       "secenekler": [
+        "Alzheimer",
+        "Minamata",
+        "Parkinson",
+        "Raşitizm"
+       ],
+       "dogru": 1,
+       "bilgi": "Oda sıcaklığında sıvı ve toksik bir metal olan cıva, besin zinciri yoluyla Minamata hastalığına neden olabilir.",
+       "sayfa": 39
+      },
+      {
+       "id": "1.1.4-11",
+       "tur": "eslestir",
+       "yonerge": "Laboratuvar malzemelerini kullanım amaçlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Büret",
+         "Titrasyonda bilinmeyen derişimi tespit etme"
+        ],
+        [
+         "Balon joje",
+         "Derişimi belli çözelti hazırlama"
+        ],
+        [
+         "Ayırma hunisi",
+         "Heterojen sıvı-sıvı karışımları ayırma"
+        ],
+        [
+         "Havan",
+         "Katıları ezip toz hâline getirme"
+        ],
+        [
+         "Kroze",
+         "Yüksek sıcaklıkta ısıtma ve yakma"
+        ]
+       ],
+       "bilgi": "Büret titrasyonda, balon joje çözelti hazırlamada, ayırma hunisi sıvı-sıvı ayırmada, havan ezmede, kroze yüksek sıcaklıkta kullanılır.",
+       "sayfa": 41
+      }
+     ]
+    },
+    {
+     "no": "1.2.1",
+     "ad": "Atom Teorileri ve Atomun Yapısı",
+     "kartlar": [
+      {
+       "id": "1.2.1-01",
+       "tur": "secmeli",
+       "soru": "Her şeyin temelinde bölünemez atomların bulunduğunu savunan Antik Yunan filozofu kimdir?",
+       "secenekler": [
+        "Demokritos",
+        "Aristo",
+        "Platon",
+        "Thales"
+       ],
+       "dogru": 0,
+       "bilgi": "Demokritos bölünemez atomların varlığını savunmuştur; bilimsel temelli atom teorileri ise 19. yüzyılın başlarında ivme kazanmıştır.",
+       "sayfa": 46
+      },
+      {
+       "id": "1.2.1-02",
+       "tur": "dy",
+       "ifade": "Demokritos'un atom hakkındaki düşüncesi deneylere dayanan bilimsel bir teoridir.",
+       "dogru": false,
+       "bilgi": "Demokritos'un atom düşüncesi felsefi bir yaklaşımdan ibarettir ve bilimsel bir temele dayanmaz.",
+       "sayfa": 46
+      },
+      {
+       "id": "1.2.1-03",
+       "tur": "eslestir",
+       "yonerge": "Kavramları tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Teori",
+         "Bir olgu hakkında genel ve sistemli açıklama"
+        ],
+        [
+         "Model",
+         "Teoriyi temsil eden sembol, görsel veya matematiksel ifade"
+        ],
+        [
+         "Orbital",
+         "Elektronun bulunma olasılığının yüksek olduğu bölge"
+        ],
+        [
+         "Emisyon",
+         "Uyarılmış atomun enerjiyi ışıma olarak geri yayması"
+        ]
+       ],
+       "bilgi": "Teori olguları açıklayan genel çerçevedir; model ise teoriyi temsil etmek için kullanılan sembol, görsel veya matematiksel ifadedir.",
+       "sayfa": 49
+      },
+      {
+       "id": "1.2.1-04",
+       "tur": "secmeli",
+       "soru": "Nötronu 1932 yılında keşfeden bilim insanı kimdir?",
+       "secenekler": [
+        "J. J. Thomson",
+        "E. Goldstein",
+        "J. Chadwick",
+        "M. Faraday"
+       ],
+       "dogru": 2,
+       "bilgi": "Nötron 1932'de J. Chadwick tarafından keşfedilmiştir; atomda eksi yükü 1891'de J. J. Thomson ortaya koymuştur.",
+       "sayfa": 48
+      },
+      {
+       "id": "1.2.1-05",
+       "tur": "secmeli",
+       "soru": "Bir proton veya nötronun kütlesi, bir elektronun kütlesinin yaklaşık kaç katıdır?",
+       "secenekler": [
+        "18",
+        "10 000",
+        "300",
+        "1836"
+       ],
+       "dogru": 3,
+       "bilgi": "Protonlar ve nötronlar atom kütlesinin büyük kısmını oluşturur; kütleleri elektronunkinin yaklaşık 1836 katıdır.",
+       "sayfa": 50
+      },
+      {
+       "id": "1.2.1-06",
+       "tur": "bosluk",
+       "cumle": "Bir elementin atomlarındaki proton sayısına o elementin ___ denir.",
+       "cevap": "atom numarası",
+       "celdiriciler": [
+        "kütle numarası",
+        "nötron sayısı",
+        "iyon yükü"
+       ],
+       "bilgi": "Aynı sayıda protona sahip atomlar aynı elementin atomlarıdır; bu proton sayısı atom numarasıdır (Z).",
+       "sayfa": 50
+      },
+      {
+       "id": "1.2.1-07",
+       "tur": "bosluk",
+       "cumle": "Bohr teorisine göre elektronların bulunabileceği en düşük enerjili yörüngede bulunduğu duruma ___ denir.",
+       "cevap": "temel hâl",
+       "celdiriciler": [
+        "uyarılmış hâl",
+        "iyon hâli",
+        "geçiş hâli"
+       ],
+       "bilgi": "Bohr'a göre elektronun en düşük enerjili yörüngede bulunduğu durum temel hâldir; çekirdekten uzaklaştıkça yörünge enerjisi artar.",
+       "sayfa": 50
+      },
+      {
+       "id": "1.2.1-08",
+       "tur": "secmeli",
+       "soru": "Temel hâldeki bir atomun enerji alarak elektronunu daha üst yörüngeye geçirmesi olayına ne ad verilir?",
+       "secenekler": [
+        "Soğurma",
+        "Yayma (emisyon)",
+        "İyonlaşma",
+        "Yoğuşma"
+       ],
+       "dogru": 0,
+       "bilgi": "Elektronun enerji alarak üst yörüngeye geçmesi soğurmadır; soğurulan enerji yörüngeler arasındaki enerji farkına eşittir.",
+       "sayfa": 50
+      },
+      {
+       "id": "1.2.1-09",
+       "tur": "secmeli",
+       "soru": "Bohr atom teorisi aşağıdakilerden hangisi için geçerlidir?",
+       "secenekler": [
+        "Çok elektronlu tüm atom ve iyonlar",
+        "Yalnızca soy gaz atomları ve molekülleri",
+        "Yalnızca metal atomları ve katyonları",
+        "Hidrojen atomu ve tek elektronlu iyonlar"
+       ],
+       "dogru": 3,
+       "bilgi": "Bohr atom teorisi yalnızca hidrojen atomu ve tek elektronlu iyonlar için geçerlidir, çok elektronlu sistemlerde yetersiz kalır.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.2.1-10",
+       "tur": "bosluk",
+       "cumle": "Elektron gibi parçacıkların hızı ve konumunun aynı anda kesin olarak belirlenemeyeceğini ifade eden ilke ___ belirsizlik ilkesidir.",
+       "cevap": "Heisenberg",
+       "celdiriciler": [
+        "Pauli",
+        "Bohr",
+        "Aufbau"
+       ],
+       "bilgi": "Heisenberg belirsizlik ilkesi, elektronların belirli yörüngelerde değil olasılık dağılımı şeklinde bulunduğunu açıklar.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.2.1-11",
+       "tur": "dy",
+       "ifade": "Atom çekirdeğinin yarıçapı, atomun kendi yarıçapının yaklaşık on binde biri kadardır.",
+       "dogru": true,
+       "bilgi": "Proton ve nötronlar son derece küçük olan çekirdekte, elektronlar ise çekirdeğin dışında bulunur.",
+       "sayfa": 49
+      },
+      {
+       "id": "1.2.1-12",
+       "tur": "dy",
+       "ifade": "Uyarılmış bir atom kararlıdır ve aldığı enerjiyi ışıma olarak geri yaymaz.",
+       "dogru": false,
+       "bilgi": "Uyarılmış atom kararsızdır; yörüngeler arasındaki enerji farkına eşit ışın yayarak (emisyon) daha düşük enerji durumuna geçer.",
+       "sayfa": 51
+      }
+     ]
+    },
+    {
+     "no": "1.2.2",
+     "ad": "Atom Orbitalleri ve Elektron Dizilimi",
+     "kartlar": [
+      {
+       "id": "1.2.2-01",
+       "tur": "secmeli",
+       "soru": "Küre şeklinde olan, tüm enerji seviyelerinde bulunan ve simetrik olan orbital türü hangisidir?",
+       "secenekler": [
+        "p orbitali",
+        "d orbitali",
+        "f orbitali",
+        "s orbitali"
+       ],
+       "dogru": 3,
+       "bilgi": "s orbitalleri küre şeklindedir; bu orbitallerde elektron bulunma olasılığı açısal koordinatlara bağlı değildir.",
+       "sayfa": 54
+      },
+      {
+       "id": "1.2.2-02",
+       "tur": "bosluk",
+       "cumle": "Atomlarda p orbitalleri ___ enerji seviyesinden itibaren bulunur.",
+       "cevap": "ikinci",
+       "celdiriciler": [
+        "birinci",
+        "üçüncü",
+        "dördüncü"
+       ],
+       "bilgi": "p orbitalleri ikinci, d orbitalleri üçüncü, f orbitalleri dördüncü enerji seviyesinden itibaren bulunur.",
+       "sayfa": 54
+      },
+      {
+       "id": "1.2.2-03",
+       "tur": "eslestir",
+       "yonerge": "Orbital türlerini özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "s orbitali",
+         "Tüm enerji seviyelerinde bulunur"
+        ],
+        [
+         "p orbitali",
+         "Üç özdeş orbitalden oluşur"
+        ],
+        [
+         "d orbitali",
+         "Beş özdeş orbitalden oluşur"
+        ],
+        [
+         "f orbitali",
+         "Yedi özdeş orbitalden oluşur"
+        ]
+       ],
+       "bilgi": "Aynı enerji seviyesindeki p, d ve f orbitalleri kendi içinde eş enerjilidir ve sırasıyla 3, 5 ve 7 özdeş orbitalden oluşur.",
+       "sayfa": 54
+      },
+      {
+       "id": "1.2.2-04",
+       "tur": "secmeli",
+       "soru": "Birinci, ikinci ve üçüncü temel enerji seviyelerinde sırasıyla kaç alt enerji seviyesi bulunur?",
+       "secenekler": [
+        "2, 8, 18",
+        "1, 3, 5",
+        "1, 2, 3",
+        "2, 4, 6"
+       ],
+       "dogru": 2,
+       "bilgi": "Birinci temel enerji seviyesinde bir, ikincide iki, üçüncüde üç alt enerji seviyesi bulunur.",
+       "sayfa": 54
+      },
+      {
+       "id": "1.2.2-05",
+       "tur": "secmeli",
+       "soru": "Çok elektronlu atomlarda orbitallerin bağıl enerji sıralaması hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "3d < 4s < 4p",
+        "4s < 3d < 4p",
+        "4p < 3d < 4s",
+        "3d < 4p < 4s"
+       ],
+       "dogru": 1,
+       "bilgi": "Çok elektronlu atomlarda sıralama genellikle 1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p < 5s şeklindedir.",
+       "sayfa": 58
+      },
+      {
+       "id": "1.2.2-06",
+       "tur": "bosluk",
+       "cumle": "Elektronların önce düşük enerjili, sonra daha yüksek enerjili orbitallere yerleşmesini ifade eden kurala ___ denir.",
+       "cevap": "Aufbau ilkesi",
+       "celdiriciler": [
+        "Pauli dışlama ilkesi",
+        "Hund kuralı",
+        "Heisenberg belirsizlik ilkesi"
+       ],
+       "bilgi": "Aufbau ilkesine göre elektronlar önce düşük enerjili orbitallere yerleşir; bu yerleşme atomun daha kararlı olmasını sağlar.",
+       "sayfa": 61
+      },
+      {
+       "id": "1.2.2-07",
+       "tur": "dy",
+       "ifade": "Pauli dışlama ilkesine göre bir orbitalde aynı yönlü en fazla üç elektron bulunabilir.",
+       "dogru": false,
+       "bilgi": "Pauli dışlama ilkesine göre bir orbitalde zıt yönlü olmak koşuluyla en fazla iki elektron bulunabilir.",
+       "sayfa": 61
+      },
+      {
+       "id": "1.2.2-08",
+       "tur": "secmeli",
+       "soru": "Hund kuralına göre temel hâldeki elektronlar eş enerjili orbitallere nasıl yerleşir?",
+       "secenekler": [
+        "Önce birer birer aynı yönde, sonra eşleşerek zıt yönde",
+        "Önce bir orbitali doldurup sonra diğerine geçerek",
+        "Her orbitale aynı anda zıt yönlü ikişer elektron olarak",
+        "Yönden bağımsız ve rastgele biçimde"
+       ],
+       "dogru": 0,
+       "bilgi": "Birbirini iten elektronlar uzaklaşmak için eş enerjili orbitallere önce birer birer aynı yönde, sonra zıt yönde yerleşir.",
+       "sayfa": 62
+      },
+      {
+       "id": "1.2.2-09",
+       "tur": "bosluk",
+       "cumle": "Atomların en dış temel enerji kabuğundaki elektronlara ___ elektronları denir.",
+       "cevap": "valans",
+       "celdiriciler": [
+        "çekirdek",
+        "uyarılmış",
+        "serbest"
+       ],
+       "bilgi": "En dış temel enerji kabuğundaki elektronlar valans elektronlarıdır; örneğin sodyumun valans elektronu 3s orbitalindedir.",
+       "sayfa": 62
+      },
+      {
+       "id": "1.2.2-10",
+       "tur": "dy",
+       "ifade": "Çok elektronlu atomlarda 4s orbitalinin 3d orbitalinden önce dolması, atomun toplam enerjisinin daha düşük olmasını sağlar.",
+       "dogru": true,
+       "bilgi": "3d enerji seviyesi 4s'ye çok yakındır; 4s'nin önce dolması elektron itmeleri hesaba katıldığında toplam enerjiyi düşürür.",
+       "sayfa": 62
+      },
+      {
+       "id": "1.2.2-11",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki orbital doluluklarından hangisi yarı dolu orbital grubuna örnektir?",
+       "secenekler": [
+        "p⁴",
+        "d⁴",
+        "p³",
+        "d⁸"
+       ],
+       "dogru": 2,
+       "bilgi": "s¹, p³, d⁵, f⁷ yarı dolu; s², p⁶, d¹⁰, f¹⁴ tam dolu orbitallerdir ve bu dağılımlar atoma küresel simetri ve kararlılık kazandırır.",
+       "sayfa": 64
+      },
+      {
+       "id": "1.2.2-12",
+       "tur": "dy",
+       "ifade": "Krom (₂₄Cr) atomunun gözlenen elektron dağılımı 4s² 3d⁴ yerine 4s¹ 3d⁵ ile sona erer.",
+       "dogru": true,
+       "bilgi": "Cr atomunda 4s¹ 3d⁵ dağılımı yarı dolu orbitaller sayesinde küresel simetri sağladığı için daha kararlıdır.",
+       "sayfa": 64
+      }
+     ]
+    },
+    {
+     "no": "1.2.3",
+     "ad": "Periyodik Tabloda Yer Bulma",
+     "kartlar": [
+      {
+       "id": "1.2.3-01",
+       "tur": "secmeli",
+       "soru": "Günümüzde kullanılan periyodik tabloya en çok benzeyen tabloyu 1869'da oluşturan ilk bilim insanı kimdir?",
+       "secenekler": [
+        "Henry Moseley",
+        "Lothar Meyer",
+        "John Newlands",
+        "Dimitri Mendeleyev"
+       ],
+       "dogru": 3,
+       "bilgi": "Mendeleyev 1869'da elementleri kütlelerine göre sıralamış, keşfedilmemiş elementlerin yerlerini boş bırakmıştır.",
+       "sayfa": 67
+      },
+      {
+       "id": "1.2.3-02",
+       "tur": "bosluk",
+       "cumle": "Elementlerin periyodik tabloda atom numarasına göre sıralanmasını ___ önermiştir.",
+       "cevap": "Henry Moseley",
+       "celdiriciler": [
+        "Lothar Meyer",
+        "John Newlands",
+        "Döbereiner"
+       ],
+       "bilgi": "Moseley'in önerisiyle elementler günümüz periyodik tablosunda artan atom numaralarına göre sıralanmıştır.",
+       "sayfa": 67
+      },
+      {
+       "id": "1.2.3-03",
+       "tur": "dy",
+       "ifade": "Mendeleyev 1869'daki tablosunda elementleri artan atom numaralarına göre sıralamıştır.",
+       "dogru": false,
+       "bilgi": "Mendeleyev elementleri kütle numaralarına (atom kütlelerine) göre sıralamıştır; atom numarasına göre sıralamayı Moseley önermiştir.",
+       "sayfa": 67
+      },
+      {
+       "id": "1.2.3-04",
+       "tur": "dy",
+       "ifade": "Elektron dizilimi s veya p orbitali ile biten elementler A grubu elementleridir.",
+       "dogru": true,
+       "bilgi": "s veya p ile bitenler A grubu, d ile bitenler B grubu elementleridir; en yüksek temel enerji düzeyi periyot numarasını verir.",
+       "sayfa": 69
+      },
+      {
+       "id": "1.2.3-05",
+       "tur": "bosluk",
+       "cumle": "Periyodik tablonun d bloku elementleri ___ metalleri olarak adlandırılır.",
+       "cevap": "geçiş",
+       "celdiriciler": [
+        "iç geçiş",
+        "alkali",
+        "toprak"
+       ],
+       "bilgi": "d bloku elementleri geçiş metalleri, f bloku elementleri ise iç geçiş metalleri olarak adlandırılır.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.2.3-06",
+       "tur": "eslestir",
+       "yonerge": "Periyodik tablo gruplarını özel adlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "1A (H hariç)",
+         "Alkali metaller"
+        ],
+        [
+         "2A",
+         "Toprak alkali metaller"
+        ],
+        [
+         "3A",
+         "Toprak metalleri"
+        ],
+        [
+         "7A",
+         "Halojenler"
+        ],
+        [
+         "8A",
+         "Soy gazlar"
+        ]
+       ],
+       "bilgi": "1A alkali metaller, 2A toprak alkali metaller, 3A toprak metalleri, 7A halojenler, 8A soy (asal) gazlar olarak adlandırılır.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.2.3-07",
+       "tur": "secmeli",
+       "soru": "Alkali metaller su ile tepkimeye girdiğinde hangi ürünler oluşur?",
+       "secenekler": [
+        "Metal oksit ve oksijen gazı",
+        "Tuz ve karbondioksit",
+        "Metal hidroksit ve hidrojen gazı",
+        "Asit ve azot gazı"
+       ],
+       "dogru": 2,
+       "bilgi": "Alkali metaller su ile metal hidroksit ve hidrojen gazı oluşturur; bileşiklerinde yalnızca +1 yüklü iyon oluştururlar.",
+       "sayfa": 71
+      },
+      {
+       "id": "1.2.3-08",
+       "tur": "secmeli",
+       "soru": "7A grubu elementlerinden hangisi oda sıcaklığında sıvı hâlde bulunur?",
+       "secenekler": [
+        "Flor",
+        "Klor",
+        "İyot",
+        "Brom"
+       ],
+       "dogru": 3,
+       "bilgi": "Oda sıcaklığında flor ve klor gaz, brom sıvı; iyot, astatin ve tennesin katı hâldedir.",
+       "sayfa": 72
+      },
+      {
+       "id": "1.2.3-09",
+       "tur": "secmeli",
+       "soru": "Periyodik tablodaki en kararlı element olarak belirtilen ve bilinen kararlı bir bileşiği olmayan soy gaz hangisidir?",
+       "secenekler": [
+        "Neon",
+        "Ksenon",
+        "Kripton",
+        "Radon"
+       ],
+       "dogru": 0,
+       "bilgi": "Neonun bilinen kararlı bir bileşiği yoktur; özel şartlarda Kr, Xe ve Rn elementlerinin bileşikleri elde edilmiştir.",
+       "sayfa": 72
+      },
+      {
+       "id": "1.2.3-10",
+       "tur": "bosluk",
+       "cumle": "Elektron sayıları ve elektron dizilimleri aynı, proton sayıları farklı taneciklere ___ tanecikler denir.",
+       "cevap": "izoelektronik",
+       "celdiriciler": [
+        "izotop",
+        "izomer",
+        "izobar"
+       ],
+       "bilgi": "Na⁺, Mg²⁺ ve Ne izoelektroniktir; üçü de 10 elektrona ve 1s² 2s² 2p⁶ dizilimine sahiptir.",
+       "sayfa": 76
+      },
+      {
+       "id": "1.2.3-11",
+       "tur": "dy",
+       "ifade": "Nötr bir atom elektron aldığında pozitif yükle yüklenerek katyon oluşturur.",
+       "dogru": false,
+       "bilgi": "Nötr atom elektron verdiğinde pozitif yüklü katyon, elektron aldığında negatif yüklü anyon oluşturur.",
+       "sayfa": 74
+      },
+      {
+       "id": "1.2.3-12",
+       "tur": "dy",
+       "ifade": "Helyum, periyodik tabloda p bloğunda gösterilmesine rağmen elektron dizilimi s orbitali ile bittiği için s bloku elementidir.",
+       "dogru": true,
+       "bilgi": "Helyum soy gaz olduğu için p bloğunda gösterilir ancak elektron dizilimi 1s² ile bittiğinden s bloku elementidir.",
+       "sayfa": 70
+      }
+     ]
+    },
+    {
+     "no": "1.2.4",
+     "ad": "Periyodik Özellikler",
+     "kartlar": [
+      {
+       "id": "1.2.4-01",
+       "tur": "dy",
+       "ifade": "Orbitallerin belirli bir sınırı olmadığından bir atomun yarıçapı tam olarak ölçülemez.",
+       "dogru": true,
+       "bilgi": "Atom yarıçapı, birbiriyle temas hâlindeki veya bağ yapmış iki atomun çekirdekleri arasındaki uzaklık ölçülerek hesaplanır.",
+       "sayfa": 78
+      },
+      {
+       "id": "1.2.4-02",
+       "tur": "secmeli",
+       "soru": "Periyodik tabloda bir grupta yukarıdan aşağıya inildikçe atom yarıçapı ve 1. iyonlaşma enerjisi nasıl değişir?",
+       "secenekler": [
+        "Yarıçap artar, iyonlaşma enerjisi azalır",
+        "Yarıçap azalır, iyonlaşma enerjisi artar",
+        "İkisi de artar",
+        "İkisi de azalır"
+       ],
+       "dogru": 0,
+       "bilgi": "Grupta aşağı inildikçe atom çapı artar, son elektron çekirdekten uzaklaşır ve kolay koparıldığı için iyonlaşma enerjisi azalır.",
+       "sayfa": 82
+      },
+      {
+       "id": "1.2.4-03",
+       "tur": "bosluk",
+       "cumle": "Gaz hâlindeki nötr bir atomdan elektron koparıp pozitif yüklü iyon oluşturmak için gereken enerjiye ___ denir.",
+       "cevap": "iyonlaşma enerjisi",
+       "celdiriciler": [
+        "elektronegatiflik",
+        "bağ enerjisi",
+        "aktivasyon enerjisi"
+       ],
+       "bilgi": "İyonlaşma enerjisi nötr gaz atomundan elektron koparmak için gereken enerjidir; teorik olarak elektron sayısı kadar değeri vardır.",
+       "sayfa": 80
+      },
+      {
+       "id": "1.2.4-04",
+       "tur": "secmeli",
+       "soru": "Gaz hâlindeki nötr bir atomdan elektron koparılarak katyon oluşturulması için hangisi doğrudur?",
+       "secenekler": [
+        "Isı veren (ekzotermik) bir olaydır",
+        "Isı alan (endotermik) bir olaydır",
+        "Enerji değişimi gerçekleşmez",
+        "Yalnızca sıvı hâlde gerçekleşir"
+       ],
+       "dogru": 1,
+       "bilgi": "Nötr bir atomdan katyon oluşumu endotermik (ısıalan) bir olaydır.",
+       "sayfa": 80
+      },
+      {
+       "id": "1.2.4-05",
+       "tur": "secmeli",
+       "soru": "Aynı periyotta 2A ve 5A grubu elementlerinin 1. iyonlaşma enerjilerinin kendilerinden sonraki gruptan büyük olmasının nedeni nedir?",
+       "secenekler": [
+        "Atom yarıçaplarının daha büyük olması",
+        "Proton sayılarının daha az olması",
+        "Daha kararlı elektron dizilimine sahip olmaları",
+        "Valans elektronlarının d orbitalinde olması"
+       ],
+       "dogru": 2,
+       "bilgi": "2A ve 5A grubu atomları daha kararlı elektron dizilimine sahip olduğundan elektron koparmak daha zordur.",
+       "sayfa": 82
+      },
+      {
+       "id": "1.2.4-06",
+       "tur": "secmeli",
+       "soru": "Aynı periyotta 1. iyonlaşma enerjisinin gruplara göre değişimi hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "1A < 2A < 3A < 4A",
+        "2A < 1A < 3A < 4A",
+        "3A < 1A < 2A < 4A",
+        "1A < 3A < 2A < 4A"
+       ],
+       "dogru": 3,
+       "bilgi": "Periyotta soldan sağa 1. iyonlaşma enerjisi eğilimi 1A < 3A < 2A < 4A < 6A < 5A < 7A < 8A şeklindedir.",
+       "sayfa": 82
+      },
+      {
+       "id": "1.2.4-07",
+       "tur": "bosluk",
+       "cumle": "Kimyasal bağ yapan bir atomun bağ elektronlarını kendine doğru çekme gücüne ___ denir.",
+       "cevap": "elektronegatiflik",
+       "celdiriciler": [
+        "iyonlaşma enerjisi",
+        "atom yarıçapı",
+        "değerlik"
+       ],
+       "bilgi": "Elektronegatiflik göreceli bir kavramdır ve bağ ile molekül polarlığının tahmin edilmesinde kullanılır.",
+       "sayfa": 84
+      },
+      {
+       "id": "1.2.4-08",
+       "tur": "secmeli",
+       "soru": "Linus Pauling'in elektronegatiflik ölçeğinde değeri 4,0 olarak kabul edilen element hangisidir?",
+       "secenekler": [
+        "Flor",
+        "Oksijen",
+        "Azot",
+        "Klor"
+       ],
+       "dogru": 0,
+       "bilgi": "Pauling flor atomunun elektronegatifliğini 4,0 kabul edip bağ enerjileriyle diğer atomların değerlerini 0-4 aralığında hesaplamıştır.",
+       "sayfa": 84
+      },
+      {
+       "id": "1.2.4-09",
+       "tur": "dy",
+       "ifade": "Elektronegatiflik periyodik tabloda soldan sağa gidildikçe azalır, yukarıdan aşağı inildikçe artar.",
+       "dogru": false,
+       "bilgi": "Elektronegatiflik periyodik tabloda soldan sağa gidildikçe artar, yukarıdan aşağı inildikçe azalır.",
+       "sayfa": 85
+      },
+      {
+       "id": "1.2.4-10",
+       "tur": "dy",
+       "ifade": "Soy gaz atomları bağ yapmadıkları için elektronegatiflik değerine sahip değildir.",
+       "dogru": true,
+       "bilgi": "Soy gazlar bağ yapmadığından elektronegatiflik değerleri yoktur.",
+       "sayfa": 85
+      },
+      {
+       "id": "1.2.4-11",
+       "tur": "eslestir",
+       "yonerge": "Periyodik özellikleri tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Atom yarıçapı",
+         "Çekirdek ile en dış kabuk arasındaki mesafe"
+        ],
+        [
+         "1. iyonlaşma enerjisi",
+         "Nötr gaz atomundan bir elektron koparma enerjisi"
+        ],
+        [
+         "2. iyonlaşma enerjisi",
+         "X⁺ iyonundan bir elektron koparma enerjisi"
+        ],
+        [
+         "Elektronegatiflik",
+         "Bağ elektronlarını kendine çekme gücü"
+        ]
+       ],
+       "bilgi": "Ardışık iyonlaşma enerjileri giderek artar; aynı enerji seviyesindeki bir sonraki elektronu koparmak bir öncekinden fazla enerji ister.",
+       "sayfa": 83
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Çeşitlilik",
+   "konular": [
+    {
+     "no": "2.1.1",
+     "ad": "Metalik Bağ",
+     "kartlar": [
+      {
+       "id": "2.1.1-01",
+       "tur": "bosluk",
+       "cumle": "Kimyasal bağlar, maddeleri oluşturan tanecikleri bir arada tutan ___ kuvvetlerdir.",
+       "cevap": "elektrostatik",
+       "celdiriciler": [
+        "manyetik",
+        "nükleer",
+        "kütle çekim"
+       ],
+       "bilgi": "Kimyasal bağlar tanecikleri bir arada tutan elektrostatik kuvvetlerdir ve kimyasal türler arası etkileşimler olarak da adlandırılır.",
+       "sayfa": 108
+      },
+      {
+       "id": "2.1.1-02",
+       "tur": "secmeli",
+       "soru": "Coulomb yasasına göre birbirine yaklaşan iki atom arasında kimyasal bağ oluşması için hangi koşul sağlanmalıdır?",
+       "secenekler": [
+        "İtme kuvvetlerinin çekme kuvvetlerinden büyük olması",
+        "Çekme kuvvetlerinin itme kuvvetlerinden çok daha büyük olması",
+        "Atomların kütlelerinin eşit olması",
+        "Atomlardaki nötron sayısının eşit olması"
+       ],
+       "dogru": 1,
+       "bilgi": "Çekme kuvvetleri itmeden çok büyükse atomlar birbirine çekilir, net potansiyel enerji azalır ve kimyasal bağ oluşur.",
+       "sayfa": 109
+      },
+      {
+       "id": "2.1.1-03",
+       "tur": "secmeli",
+       "soru": "Metallerde metalik bağ hangi tanecikler arasındaki elektrostatik çekimle oluşur?",
+       "secenekler": [
+        "Metal çekirdeği ile kendi iç kabuk elektronları",
+        "Metal katyonları ile metal anyonları",
+        "Pozitif metal iyonları ile serbest valans elektronları",
+        "İki metal atomunun ortak kullandığı elektron çifti"
+       ],
+       "dogru": 2,
+       "bilgi": "Metalik bağ, metal örgüsündeki pozitif yüklü metal iyonları ile serbest dolaşan valans elektronları arasındaki çekimdir.",
+       "sayfa": 112
+      },
+      {
+       "id": "2.1.1-04",
+       "tur": "bosluk",
+       "cumle": "Metallerde serbest dolaşan valans elektronlarının oluşturduğu yapı, elektron ___ modeliyle açıklanır.",
+       "cevap": "denizi",
+       "celdiriciler": [
+        "çifti",
+        "kabuğu",
+        "orbitali"
+       ],
+       "bilgi": "Metal atomlarının valans elektronları serbestçe dolaşarak elektron denizini oluşturur, atomlar ise katyonlara dönüşür.",
+       "sayfa": 112
+      },
+      {
+       "id": "2.1.1-05",
+       "tur": "secmeli",
+       "soru": "Metal atomlarının valans elektronlarını zayıf çekmesinin nedeni hangisidir?",
+       "secenekler": [
+        "Büyük çap, düşük iyonlaşma enerjisi ve elektronegatiflik",
+        "Küçük çap, yüksek iyonlaşma enerjisi ve elektronegatiflik",
+        "Tüm orbitallerinin tamamen dolu olması",
+        "Çekirdeklerinde hiç nötron bulunmaması"
+       ],
+       "dogru": 0,
+       "bilgi": "Metallerin atom çapları nispeten büyük, iyonlaşma enerjileri ve elektronegatiflikleri düşük olduğundan valans elektronları zayıf çekilir.",
+       "sayfa": 112
+      },
+      {
+       "id": "2.1.1-06",
+       "tur": "dy",
+       "ifade": "Metal katyonunun yükü ve serbest valans elektron sayısı arttıkça metalik bağın kuvveti azalır.",
+       "dogru": false,
+       "bilgi": "Metal katyonunun yükü ve serbest valans elektron sayısı arttıkça metalik bağın kuvveti de artar.",
+       "sayfa": 112
+      },
+      {
+       "id": "2.1.1-07",
+       "tur": "eslestir",
+       "yonerge": "Metallerin özelliklerini sağladıkları kullanımlarla eşleştir.",
+       "ciftler": [
+        [
+         "Dövülebilme",
+         "Tabakalar hâlinde şekillendirilip araç ve gemi yapımı"
+        ],
+        [
+         "Çekilebilme",
+         "Uzun ve ince tellere dönüştürülme"
+        ],
+        [
+         "Parlaklık",
+         "Takı ve estetik amaçlı kullanım"
+        ],
+        [
+         "Hafiflik",
+         "Alüminyumun uçak parçaları ve içecek kutularında kullanımı"
+        ]
+       ],
+       "bilgi": "Metaller ısı ve elektriği iyi iletir, parlak, dövülebilir ve çekilebilir; bu özellikler kristal yapılarının özgünlüğünden kaynaklanır.",
+       "sayfa": 110
+      },
+      {
+       "id": "2.1.1-08",
+       "tur": "secmeli",
+       "soru": "Mükemmel ısı ve elektrik iletkeni olan, kolayca paslanmayan ve elektrik telleri ile tencere yapımında kullanılan metal hangisidir?",
+       "secenekler": [
+        "Sodyum",
+        "Cıva",
+        "Kalsiyum",
+        "Bakır"
+       ],
+       "dogru": 3,
+       "bilgi": "Bakır mükemmel ısı ve elektrik iletkenidir, sert ve güçlüdür, kolayca paslanmaz; elektrik kablolarında kullanılır.",
+       "sayfa": 107
+      }
+     ]
+    },
+    {
+     "no": "2.1.2",
+     "ad": "İyonik Bağ",
+     "kartlar": [
+      {
+       "id": "2.1.2-01",
+       "tur": "secmeli",
+       "soru": "İyonik bağ genellikle hangi atomlar arasında oluşur?",
+       "secenekler": [
+        "İki ametal atomu arasında",
+        "Aynı metalin atomları arasında",
+        "İki soy gaz atomu arasında",
+        "Metal ile ametal atomları arasında"
+       ],
+       "dogru": 3,
+       "bilgi": "Düşük iyonlaşma enerjili metal atomları ile yüksek elektronegatiflikli ametal atomları arasında iyonik bağ oluşur.",
+       "sayfa": 114
+      },
+      {
+       "id": "2.1.2-02",
+       "tur": "bosluk",
+       "cumle": "İyonik bir tuzu meydana getiren elementler arasında gerçekleşen elektron transferi ve iyon oluşumu sürecine iyonik ___ denir.",
+       "cevap": "bağlanma",
+       "celdiriciler": [
+        "çözünme",
+        "kristallenme",
+        "yükseltgenme"
+       ],
+       "bilgi": "Zıt yüklü iyonlar arasındaki güçlü elektrostatik etkileşim iyonik bağ, elektron transferi ve iyon oluşumu süreci iyonik bağlanmadır.",
+       "sayfa": 120
+      },
+      {
+       "id": "2.1.2-03",
+       "tur": "secmeli",
+       "soru": "NaCl kristal yapısında her bir Na⁺ iyonu kaç Cl⁻ iyonuyla çevrelenmiştir?",
+       "secenekler": [
+        "2",
+        "4",
+        "6",
+        "8"
+       ],
+       "dogru": 2,
+       "bilgi": "NaCl kristalinde her Na⁺ iyonu 6 Cl⁻ iyonuyla, her Cl⁻ iyonu da 6 Na⁺ iyonuyla çevrilidir.",
+       "sayfa": 121
+      },
+      {
+       "id": "2.1.2-04",
+       "tur": "dy",
+       "ifade": "NaCl kristalinde bir Na⁺ iyonu, çevresindeki Cl⁻ iyonlarından yalnızca birine çekim kuvveti uygular.",
+       "dogru": false,
+       "bilgi": "NaCl kristalinde bir Na⁺ iyonu ile onu çevreleyen her bir Cl⁻ iyonu arasında aynı büyüklükte çekim kuvveti vardır.",
+       "sayfa": 120
+      },
+      {
+       "id": "2.1.2-05",
+       "tur": "secmeli",
+       "soru": "Kalsiyum klorür (CaCl₂) bileşiğinde Ca²⁺ ve Cl⁻ iyonlarının sayıca oranı hangisidir?",
+       "secenekler": [
+        "1:1",
+        "1:2",
+        "2:1",
+        "2:3"
+       ],
+       "dogru": 1,
+       "bilgi": "İyonik bileşiklerde toplam yük sıfırdır; Ca²⁺ yükünü dengelemek için iki Cl⁻ gerektiğinden formül CaCl₂'dir.",
+       "sayfa": 121
+      },
+      {
+       "id": "2.1.2-06",
+       "tur": "bosluk",
+       "cumle": "NaOH bileşiğindeki hidroksit (OH⁻) iyonu, yüklü bir atom topluluğu olduğu için ___ bir iyondur.",
+       "cevap": "çok atomlu",
+       "celdiriciler": [
+        "tek atomlu",
+        "nötr",
+        "izoelektronik"
+       ],
+       "bilgi": "NaCl'deki Cl⁻ tek atomlu iyondur; NaOH'teki OH⁻ ise yüklü bir atom topluluğu olan çok atomlu iyondur.",
+       "sayfa": 121
+      },
+      {
+       "id": "2.1.2-07",
+       "tur": "secmeli",
+       "soru": "Isıtılan sodyumun klor gazıyla tepkimesi sırasında hangi gözlem yapılır?",
+       "secenekler": [
+        "Ortam soğur ve kapta buz kristalleri oluşur",
+        "Kabın içinde siyah ve kokulu bir duman oluşur",
+        "Mavi renkli bir sıvı oluşur ve gaz çıkışı olur",
+        "Parlak sarı ışık yayılır, yüksek ısı açığa çıkar"
+       ],
+       "dogru": 3,
+       "bilgi": "Sodyum ve klor tepkimesinde parlak sarı ışık ve yüksek ısı açığa çıkar; ürün beyaz, kristal yapılı ve kokusuz NaCl'dir.",
+       "sayfa": 120
+      },
+      {
+       "id": "2.1.2-08",
+       "tur": "dy",
+       "ifade": "Sodyum elementi doğada çoğunlukla saf ve element hâlinde bulunur.",
+       "dogru": false,
+       "bilgi": "Sodyum suyla çok hızlı tepkimeye girdiği için doğada çoğunlukla saf ve element hâlinde bulunmaz.",
+       "sayfa": 114
+      }
+     ]
+    },
+    {
+     "no": "2.1.3",
+     "ad": "Kovalent Bağ",
+     "kartlar": [
+      {
+       "id": "2.1.3-01",
+       "tur": "secmeli",
+       "soru": "Ametal atomları arasında elektronların ortaklaşa kullanılmasıyla oluşan bağ hangisidir?",
+       "secenekler": [
+        "İyonik bağ",
+        "Metalik bağ",
+        "Kovalent bağ",
+        "Hidrojen bağı"
+       ],
+       "dogru": 2,
+       "bilgi": "Atom çekirdekleri ile ortaklaşa kullanılan elektronlar arasında oluşan güçlü etkileşime kovalent bağ denir.",
+       "sayfa": 128
+      },
+      {
+       "id": "2.1.3-02",
+       "tur": "bosluk",
+       "cumle": "Ametal atomlarından elektron uzaklaştırmak zordur çünkü ametallerin iyonlaşma enerjileri ve elektronegatiflikleri ___.",
+       "cevap": "yüksektir",
+       "celdiriciler": [
+        "düşüktür",
+        "sıfırdır",
+        "değişkendir"
+       ],
+       "bilgi": "Ametaller yüksek iyonlaşma enerjisi ve elektronegatifliğe sahip olduğundan birbirleriyle elektronlarını ortak kullanarak bağ yapar.",
+       "sayfa": 125
+      },
+      {
+       "id": "2.1.3-03",
+       "tur": "bosluk",
+       "cumle": "Kovalent bağlarla bağlanan atom grubuna ___ denir.",
+       "cevap": "molekül",
+       "celdiriciler": [
+        "iyon",
+        "kristal",
+        "alaşım"
+       ],
+       "bilgi": "Molekül, kovalent bağlı bir elementin (H₂, Cl₂) ya da bileşiğin (H₂O, CO₂) kimyasal özelliğini gösteren en küçük yapı taşıdır.",
+       "sayfa": 128
+      },
+      {
+       "id": "2.1.3-04",
+       "tur": "dy",
+       "ifade": "Aynı elektronegatifliğe sahip atomlar arasında oluşan kovalent bağa polar kovalent bağ denir.",
+       "dogru": false,
+       "bilgi": "Aynı elektronegatiflikteki atomlar arasındaki bağ apolar (kutupsuz), elektronegatiflik farkı olanlar arasındaki bağ polar kovalent bağdır.",
+       "sayfa": 130
+      },
+      {
+       "id": "2.1.3-05",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki moleküllerden hangisi polar kovalent bağ içerir?",
+       "secenekler": [
+        "H₂",
+        "O₂",
+        "N₂",
+        "NH₃"
+       ],
+       "dogru": 3,
+       "bilgi": "H₂, O₂, N₂ ve Cl₂ apolar kovalent bağ; H₂O, HCl ve NH₃ ise polar kovalent bağ içerir.",
+       "sayfa": 130
+      },
+      {
+       "id": "2.1.3-06",
+       "tur": "dy",
+       "ifade": "Bağı oluşturan atomların elektronegatiflik farkı arttıkça bağın polarlığı da artar.",
+       "dogru": true,
+       "bilgi": "Elektronegatiflik farkı büyüdükçe bağ elektronları bir atoma daha çok çekilir ve bağın polarlığı artar.",
+       "sayfa": 130
+      },
+      {
+       "id": "2.1.3-07",
+       "tur": "secmeli",
+       "soru": "Su molekülünde bağ elektronları hangi atom tarafından daha kuvvetli çekilir ve bu atom nasıl yüklenir?",
+       "secenekler": [
+        "Hidrojen; kısmen negatif",
+        "Oksijen; kısmen negatif",
+        "Oksijen; kısmen pozitif",
+        "İkisi eşit çeker; yüksüz kalır"
+       ],
+       "dogru": 1,
+       "bilgi": "Su molekülünde elektronegatifliği büyük olan oksijen kısmen negatif (δ⁻), hidrojen atomları kısmen pozitif (δ⁺) yüklüdür.",
+       "sayfa": 130
+      },
+      {
+       "id": "2.1.3-08",
+       "tur": "secmeli",
+       "soru": "İki hidrojen atomu arasında kararlı kovalent bağın oluştuğu ideal mesafe hangi duruma karşılık gelir?",
+       "secenekler": [
+        "Potansiyel enerjinin en düşük olduğu nokta",
+        "Potansiyel enerjinin en yüksek olduğu nokta",
+        "Çekirdekler arası itmenin en büyük olduğu nokta",
+        "Atomlar arasında etkileşimin olmadığı nokta"
+       ],
+       "dogru": 0,
+       "bilgi": "Atomlar yaklaştıkça potansiyel enerji azalır; en düşük potansiyel enerjinin olduğu nokta kararlı kovalent bağ için ideal mesafedir.",
+       "sayfa": 130
+      },
+      {
+       "id": "2.1.3-09",
+       "tur": "eslestir",
+       "yonerge": "Kovalent bağla ilgili kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Apolar kovalent bağ",
+         "Bağ elektronlarının eşit kuvvetle çekildiği bağ"
+        ],
+        [
+         "Polar kovalent bağ",
+         "Elektronegatiflik farkı olan atomlar arasındaki bağ"
+        ],
+        [
+         "Bağ elektron çifti",
+         "Kovalent bağı oluşturan iki elektron"
+        ],
+        [
+         "Bağ uzunluğu",
+         "İki çekirdeğin merkezleri arasındaki mesafe"
+        ]
+       ],
+       "bilgi": "Kovalent bağda iki elektron bağ elektron çiftini, iki çekirdek merkezi arasındaki uzaklık bağ uzunluğunu oluşturur.",
+       "sayfa": 128
+      }
+     ]
+    },
+    {
+     "no": "2.1.4",
+     "ad": "Lewis Nokta Yapısı",
+     "kartlar": [
+      {
+       "id": "2.1.4-01",
+       "tur": "bosluk",
+       "cumle": "Element sembolü etrafında valans elektronlarının nokta olarak gösterilmesine ___ nokta yapısı denir.",
+       "cevap": "Lewis",
+       "celdiriciler": [
+        "Bohr",
+        "Pauling",
+        "Hund"
+       ],
+       "bilgi": "Lewis nokta yapısında sembol çekirdek ve iç elektronları, çevresindeki noktalar ise valans elektronlarını gösterir.",
+       "sayfa": 132
+      },
+      {
+       "id": "2.1.4-02",
+       "tur": "secmeli",
+       "soru": "Lewis nokta yapısında noktalar element sembolünün etrafına nasıl yerleştirilir?",
+       "secenekler": [
+        "Her zaman çiftler hâlinde",
+        "Tüm noktalar sembolün üstüne yan yana",
+        "Önce teker teker, dördü aşan elektronlar çift olarak",
+        "Önce çiftler hâlinde, kalanlar teker teker"
+       ],
+       "dogru": 2,
+       "bilgi": "Noktalar önce teker teker yerleştirilir; valans elektron sayısı dördü aşıyorsa fazla elektronlar çift olarak konumlandırılır.",
+       "sayfa": 132
+      },
+      {
+       "id": "2.1.4-03",
+       "tur": "secmeli",
+       "soru": "Azot (₇N) ve alüminyum (₁₃Al) atomlarının Lewis yapısında sembol çevresine sırasıyla kaç nokta yerleştirilir?",
+       "secenekler": [
+        "3 ve 5",
+        "7 ve 13",
+        "5 ve 3",
+        "2 ve 1"
+       ],
+       "dogru": 2,
+       "bilgi": "Azotun valans elektron sayısı 5, alüminyumunki 3'tür; sembol çevresine valans elektron sayısı kadar nokta konur.",
+       "sayfa": 132
+      },
+      {
+       "id": "2.1.4-04",
+       "tur": "bosluk",
+       "cumle": "Atomların son yörüngelerindeki elektron sayısını helyuma benzeterek 2'ye tamamlamasına ___ kuralı denir.",
+       "cevap": "dublet",
+       "celdiriciler": [
+        "oktet",
+        "Hund",
+        "Aufbau"
+       ],
+       "bilgi": "Son yörüngedeki elektronları helyum gibi 2'ye tamamlamaya dublet, diğer soy gazlar gibi 8'e tamamlamaya oktet kuralı denir.",
+       "sayfa": 133
+      },
+      {
+       "id": "2.1.4-05",
+       "tur": "dy",
+       "ifade": "Oktet kuralına göre atomlar son yörüngelerindeki elektron sayısını 8'e tamamlayarak helyuma benzemeye çalışır.",
+       "dogru": false,
+       "bilgi": "Helyumun valans elektron sayısı 2'dir; oktet kuralında atomlar 8 valans elektronlu diğer soy gazlara benzemeye çalışır.",
+       "sayfa": 133
+      },
+      {
+       "id": "2.1.4-06",
+       "tur": "secmeli",
+       "soru": "Bir molekülde bağ yapımına katılmayan valans elektronlarına ne ad verilir?",
+       "secenekler": [
+        "Bağ elektron çifti",
+        "Ortaklanmamış valans elektronu",
+        "Serbest metal elektronu",
+        "İç kabuk elektronu"
+       ],
+       "dogru": 1,
+       "bilgi": "Bağ yapımına katılmayan valans elektronları ortaklanmamış (eşleşmemiş) valans elektronlarıdır.",
+       "sayfa": 132
+      },
+      {
+       "id": "2.1.4-07",
+       "tur": "bosluk",
+       "cumle": "Bir molekül veya çok atomlu iyonun yapısında diğer atomların bağlandığı atoma ___ atom denir.",
+       "cevap": "merkez",
+       "celdiriciler": [
+        "uç",
+        "bağlayıcı",
+        "çekirdek"
+       ],
+       "bilgi": "Merkez atomda ortaklanmamış elektron çifti bulunması, elektron itmesi nedeniyle molekül yapısını etkiler.",
+       "sayfa": 134
+      }
+     ]
+    },
+    {
+     "no": "2.1.5",
+     "ad": "Molekül Polarlığı ve Apolarlığı",
+     "kartlar": [
+      {
+       "id": "2.1.5-01",
+       "tur": "bosluk",
+       "cumle": "Molekülün kutupsallığının ölçüsüne ___ denir.",
+       "cevap": "dipol moment",
+       "celdiriciler": [
+        "elektronegatiflik",
+        "bağ uzunluğu",
+        "iyonlaşma enerjisi"
+       ],
+       "bilgi": "Dipol moment molekülün kutupsallığının ölçüsüdür; yük dağılımı dengeli moleküllerde dipol moment sıfırdır.",
+       "sayfa": 137
+      },
+      {
+       "id": "2.1.5-02",
+       "tur": "dy",
+       "ifade": "Dipol momenti sıfır olan moleküller polar molekül olarak adlandırılır.",
+       "dogru": false,
+       "bilgi": "Dipol momenti sıfır olan moleküller apolar, dipol momenti sıfırdan farklı olan moleküller polardır.",
+       "sayfa": 137
+      },
+      {
+       "id": "2.1.5-03",
+       "tur": "secmeli",
+       "soru": "Merkez atomu üzerinde ortaklanmamış elektron çifti bulunan bir molekül için hangisi söylenir?",
+       "secenekler": [
+        "Yük dağılımı dengeli, dipol moment sıfırdır",
+        "Molekül her zaman iyonik bağ içerir",
+        "Yük dağılımı dengesiz, dipol moment sıfır değil",
+        "Molekül apolardır, kalıcı kutbu yoktur"
+       ],
+       "dogru": 2,
+       "bilgi": "Merkez atomunda elektron çifti bulunan moleküllerde yük dağılımı dengesizdir ve dipol moment sıfırdan farklıdır.",
+       "sayfa": 137
+      },
+      {
+       "id": "2.1.5-04",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki moleküllerden hangisi polardır?",
+       "secenekler": [
+        "H₂O",
+        "H₂",
+        "F₂",
+        "O₂"
+       ],
+       "dogru": 0,
+       "bilgi": "Element molekülleri (H₂, F₂, O₂) apolardır; su molekülünde kalıcı kutuplar oluştuğundan su polardır.",
+       "sayfa": 137
+      },
+      {
+       "id": "2.1.5-05",
+       "tur": "secmeli",
+       "soru": "H₂, F₂ ve O₂ gibi element moleküllerinde atomları bir arada tutan bağ hangisidir?",
+       "secenekler": [
+        "İyonik bağ",
+        "Polar kovalent bağ",
+        "Apolar kovalent bağ",
+        "Metalik bağ"
+       ],
+       "dogru": 2,
+       "bilgi": "Element moleküllerinde elektronlar eşit kuvvetle çekildiğinden bağ apolar kovalenttir, kalıcı kutup oluşmaz.",
+       "sayfa": 137
+      },
+      {
+       "id": "2.1.5-06",
+       "tur": "secmeli",
+       "soru": "Su molekülünün polar olmasının nedeni hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "Molekülde yalnızca apolar kovalent bağlar bulunması",
+        "Ortaklanmamış elektron çiftleri ve elektronegatiflik farkı",
+        "Oksijenin elektronegatifliğinin hidrojenden düşük olması",
+        "Molekülde hiç ortaklanmamış elektron çifti bulunmaması"
+       ],
+       "dogru": 1,
+       "bilgi": "Sudaki merkez atomun ortaklanmamış elektron çiftleri bağ elektronlarını iter; elektronegatiflik farkıyla birlikte molekül kutuplanır.",
+       "sayfa": 137
+      },
+      {
+       "id": "2.1.5-07",
+       "tur": "eslestir",
+       "yonerge": "Kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Polar molekül",
+         "Kalıcı pozitif ve negatif kutup oluşan molekül"
+        ],
+        [
+         "Apolar molekül",
+         "Elektron yük dağılımı dengeli molekül"
+        ],
+        [
+         "Kısmi negatif yük (δ⁻)",
+         "Elektronegatifliği yüksek atom üzerindeki yük"
+        ],
+        [
+         "Kısmi pozitif yük (δ⁺)",
+         "Elektronegatifliği düşük atom üzerindeki yük"
+        ]
+       ],
+       "bilgi": "Polar moleküllerde elektronegatifliği yüksek atom kısmen negatif, düşük olan atom kısmen pozitif yüklenir.",
+       "sayfa": 130
+      }
+     ]
+    },
+    {
+     "no": "2.1.6",
+     "ad": "Bileşiklerin Adlandırılması",
+     "kartlar": [
+      {
+       "id": "2.1.6-01",
+       "tur": "bosluk",
+       "cumle": "Anorganik bileşiklerin sistematik adlandırma kuralları ___ tarafından belirlenir.",
+       "cevap": "IUPAC",
+       "celdiriciler": [
+        "WHO",
+        "FAO",
+        "CERN"
+       ],
+       "bilgi": "Anorganik bileşikler IUPAC kurallarıyla adlandırılır; iyonik ve moleküler bileşikler için farklı adlandırma sistematiği vardır.",
+       "sayfa": 139
+      },
+      {
+       "id": "2.1.6-02",
+       "tur": "secmeli",
+       "soru": "Na₂S bileşiğinin sistematik adı hangisidir?",
+       "secenekler": [
+        "Disodyum sülfür",
+        "Sodyum sülfat",
+        "Sodyum sülfür",
+        "Sodyum(II) sülfür"
+       ],
+       "dogru": 2,
+       "bilgi": "İyonik bileşikler katyon ve anyon adı sırasıyla söylenerek adlandırılır; Na₂S \"sodyum sülfür\"dür.",
+       "sayfa": 142
+      },
+      {
+       "id": "2.1.6-03",
+       "tur": "dy",
+       "ifade": "İyonik bileşiklerin adlandırılmasında formüldeki atom sayıları Latince ön eklerle belirtilir.",
+       "dogru": false,
+       "bilgi": "İyonik bileşiklerin adlandırılmasında formüldeki atom sayıları dikkate alınmaz; Latince ön ekler moleküler bileşiklerde kullanılır.",
+       "sayfa": 142
+      },
+      {
+       "id": "2.1.6-04",
+       "tur": "secmeli",
+       "soru": "FeCl₃ bileşiği nasıl adlandırılır?",
+       "secenekler": [
+        "Demir triklorür",
+        "Demir(II) klorür",
+        "Demir klorat",
+        "Demir(III) klorür"
+       ],
+       "dogru": 3,
+       "bilgi": "Birden fazla katyon oluşturabilen metallerin yükseltgenme basamağı Romen rakamıyla belirtilir: FeCl₃ demir(III) klorürdür.",
+       "sayfa": 142
+      },
+      {
+       "id": "2.1.6-05",
+       "tur": "secmeli",
+       "soru": "AgF₂ bileşiğinin sistematik adı hangisidir?",
+       "secenekler": [
+        "Gümüş(II) florür",
+        "Gümüş florür",
+        "Gümüş diflorür",
+        "Gümüş(I) florür"
+       ],
+       "dogru": 0,
+       "bilgi": "Gümüşün yaygın yükseltgenme basamağı Romen rakamıyla verilmez: AgF gümüş florür, AgF₂ gümüş(II) florürdür.",
+       "sayfa": 142
+      },
+      {
+       "id": "2.1.6-06",
+       "tur": "eslestir",
+       "yonerge": "Çok atomlu anyonları adlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "SO₄²⁻",
+         "Sülfat"
+        ],
+        [
+         "NO₃⁻",
+         "Nitrat"
+        ],
+        [
+         "CO₃²⁻",
+         "Karbonat"
+        ],
+        [
+         "PO₄³⁻",
+         "Fosfat"
+        ],
+        [
+         "OH⁻",
+         "Hidroksit"
+        ]
+       ],
+       "bilgi": "Poliatomik iyonlar (sülfat, nitrat, karbonat, fosfat, hidroksit, amonyum) sistematik adlandırma kuralını değiştirmez.",
+       "sayfa": 141
+      },
+      {
+       "id": "2.1.6-07",
+       "tur": "secmeli",
+       "soru": "CCl₄ bileşiğinin sistematik adı hangisidir?",
+       "secenekler": [
+        "Karbon tetraklorür",
+        "Monokarbon tetraklorür",
+        "Karbon klorür",
+        "Tetrakarbon klorür"
+       ],
+       "dogru": 0,
+       "bilgi": "Moleküler bileşiklerde atom sayıları Latince ön eklerle belirtilir; ilk element için \"mono\" kullanılmaz: CCl₄ karbon tetraklorürdür.",
+       "sayfa": 142
+      },
+      {
+       "id": "2.1.6-08",
+       "tur": "bosluk",
+       "cumle": "Moleküler bileşiklerin adlandırılmasında ilk element için ___ ön eki basitlik amacıyla kullanılmaz.",
+       "cevap": "mono",
+       "celdiriciler": [
+        "di",
+        "tri",
+        "tetra"
+       ],
+       "bilgi": "İlk element için \"mono\" kullanılmaz, ikinci ametal için kullanılır; CO bu nedenle \"karbon monoksit\" olarak adlandırılır.",
+       "sayfa": 143
+      },
+      {
+       "id": "2.1.6-09",
+       "tur": "dy",
+       "ifade": "Moleküler bileşiklerin formüllerinde genellikle elektronegatifliği az olan element öne yazılır.",
+       "dogru": true,
+       "bilgi": "Moleküler bileşik formüllerinde elektronegatifliği az olan element önce, büyük olan element anyon adıyla sonra yazılır.",
+       "sayfa": 143
+      },
+      {
+       "id": "2.1.6-10",
+       "tur": "secmeli",
+       "soru": "Yaygın adı amonyak olan NH₃ bileşiğinin sistematik adı hangisidir?",
+       "secenekler": [
+        "Trihidrojen mononitrür",
+        "Azot trihidrür",
+        "Hidrojen nitrat",
+        "Amonyum hidroksit"
+       ],
+       "dogru": 0,
+       "bilgi": "NH₃'ün sistematik adı trihidrojen mononitrürdür; H₂O ve NH₃ için yaygın adlar (su, amonyak) kullanılır.",
+       "sayfa": 143
+      },
+      {
+       "id": "2.1.6-11",
+       "tur": "bosluk",
+       "cumle": "Moleküler bileşiklerin adlandırılmasında kullanılan Latince ön eklerden 6 sayısını ifade eden ___ ön ekidir.",
+       "cevap": "hekza",
+       "celdiriciler": [
+        "hepta",
+        "penta",
+        "okta"
+       ],
+       "bilgi": "Latince ön ekler: 1 mono, 2 di, 3 tri, 4 tetra, 5 penta, 6 hekza, 7 hepta, 8 okta.",
+       "sayfa": 143
+      }
+     ]
+    },
+    {
+     "no": "2.2.1",
+     "ad": "Moleküller Arası Etkileşimler",
+     "kartlar": [
+      {
+       "id": "2.2.1-01",
+       "tur": "dy",
+       "ifade": "Madde tanecikleri arasındaki etkileşimler, metalik, iyonik ve kovalent bağ oluşumundaki etkileşimlere göre daha zayıftır.",
+       "dogru": true,
+       "bilgi": "Moleküller arası etkileşimler kimyasal bağlardan zayıftır; katı ve sıvıları bir arada tutan önemli kuvvetlerdir.",
+       "sayfa": 147
+      },
+      {
+       "id": "2.2.1-02",
+       "tur": "bosluk",
+       "cumle": "Apolar moleküllerde elektron dağılımındaki dalgalanmalarla oluşan geçici kutuplaşmaya geçici dipol veya ___ dipol denir.",
+       "cevap": "indüklenmiş",
+       "celdiriciler": [
+        "kalıcı",
+        "iyonik",
+        "polar"
+       ],
+       "bilgi": "Polar moleküllerde kalıcı dipol bulunur; apolar molekül ve soy gazlarda ise anlık dalgalanmalarla indüklenmiş dipol oluşur.",
+       "sayfa": 150
+      },
+      {
+       "id": "2.2.1-03",
+       "tur": "secmeli",
+       "soru": "Yemek tuzunun suda çözünmesi sırasında iyonlar ile su molekülleri arasında hangi etkileşim oluşur?",
+       "secenekler": [
+        "London kuvveti",
+        "Dipol-indüklenmiş dipol etkileşimi",
+        "İyon-dipol etkileşimi",
+        "Metalik bağ"
+       ],
+       "dogru": 2,
+       "bilgi": "İyonik bileşikler polar çözücüde çözünürken iyonlarla polar moleküllerin kısmi yüklü bölgeleri arasında iyon-dipol etkileşimi oluşur.",
+       "sayfa": 151
+      },
+      {
+       "id": "2.2.1-04",
+       "tur": "secmeli",
+       "soru": "Soy gaz atomları ve apolar moleküllerde fiziksel özellikleri belirleyen çekim kuvveti hangisidir?",
+       "secenekler": [
+        "London kuvveti",
+        "Hidrojen bağı",
+        "Dipol-dipol etkileşimi",
+        "İyon-dipol etkileşimi"
+       ],
+       "dogru": 0,
+       "bilgi": "London kuvveti (dağılma kuvveti, indüklenmiş dipol-indüklenmiş dipol etkileşimi) tüm moleküller arasında bulunur.",
+       "sayfa": 151
+      },
+      {
+       "id": "2.2.1-05",
+       "tur": "eslestir",
+       "yonerge": "Etkileşim türlerini örnek tanecik çiftleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Dipol-dipol",
+         "HCl ile HCl"
+        ],
+        [
+         "İyon-dipol",
+         "Na⁺ ile H₂O"
+        ],
+        [
+         "İyon-indüklenmiş dipol",
+         "Na⁺ ile He"
+        ],
+        [
+         "Dipol-indüklenmiş dipol",
+         "HCl ile He"
+        ],
+        [
+         "London kuvveti",
+         "H₂ ile H₂"
+        ]
+       ],
+       "bilgi": "Etkileşim türü taneciklere göre belirlenir: polar molekül dipol, apolar molekül veya soy gaz indüklenmiş dipol, iyon ise iyon olarak adlandırılır.",
+       "sayfa": 152
+      },
+      {
+       "id": "2.2.1-06",
+       "tur": "dy",
+       "ifade": "Yapıdaki elektron sayısı fazla ve elektron bulutu dağınıksa kutuplanabilirlik zorlaşır ve London kuvveti azalır.",
+       "dogru": false,
+       "bilgi": "Elektron sayısı fazla ve elektron bulutu dağınık olan yapılarda kutuplanabilirlik kolaylaşır ve London kuvveti artar.",
+       "sayfa": 152
+      },
+      {
+       "id": "2.2.1-07",
+       "tur": "bosluk",
+       "cumle": "IUPAC; London kuvveti, dipol-dipol ve dipol-indüklenmiş dipol etkileşimlerini ___ kuvvetleri olarak adlandırır.",
+       "cevap": "van der Waals",
+       "celdiriciler": [
+        "Coulomb",
+        "nükleer",
+        "manyetik"
+       ],
+       "bilgi": "London kuvveti, dipol-dipol ve dipol-indüklenmiş dipol etkileşimleri IUPAC tarafından van der Waals kuvvetleri olarak adlandırılır.",
+       "sayfa": 152
+      },
+      {
+       "id": "2.2.1-08",
+       "tur": "secmeli",
+       "soru": "Hidrojen bağının oluşabilmesi için hidrojen atomu hangi atomlardan birine doğrudan bağlı olmalıdır?",
+       "secenekler": [
+        "C, S veya P",
+        "Cl, Br veya I",
+        "F, O veya N",
+        "Na, K veya Li"
+       ],
+       "dogru": 2,
+       "bilgi": "Hidrojen bağı için H, F, O veya N'ye bağlı olmalı; karşıda ortaklanmamış elektron çifti olan F, O veya N atomu bulunmalıdır.",
+       "sayfa": 154
+      },
+      {
+       "id": "2.2.1-09",
+       "tur": "dy",
+       "ifade": "Hidrojen bağı, dipol-dipol etkileşimine göre oldukça güçlü bir moleküller arası etkileşimdir.",
+       "dogru": true,
+       "bilgi": "F, O veya N'ye bağlı hidrojendeki yük yoğunluğu fazla olduğundan hidrojen bağı dipol-dipol etkileşiminden oldukça güçlüdür.",
+       "sayfa": 154
+      },
+      {
+       "id": "2.2.1-10",
+       "tur": "bosluk",
+       "cumle": "DNA'da G-C ve A-T bazları arasındaki ___ bağları iki zinciri birleştirerek genetik kodu korur.",
+       "cevap": "hidrojen",
+       "celdiriciler": [
+        "iyonik",
+        "metalik",
+        "peptit"
+       ],
+       "bilgi": "DNA'da adenin-timin ve guanin-sitozin bazları arasındaki hidrojen bağları birbirine dolanmış iki zinciri bir arada tutar.",
+       "sayfa": 155
+      }
+     ]
+    },
+    {
+     "no": "2.2.2",
+     "ad": "Katılar ve Özellikleri",
+     "kartlar": [
+      {
+       "id": "2.2.2-01",
+       "tur": "dy",
+       "ifade": "Katı, maddenin en düşük enerjili ve en düzenli hâlidir; tanecikleri yalnızca titreşim hareketi yapar.",
+       "dogru": true,
+       "bilgi": "Katılarda tanecikler arası çekim son derece güçlüdür; belirli şekil ve hacimleri vardır ve sıkıştırılamazlar.",
+       "sayfa": 159
+      },
+      {
+       "id": "2.2.2-02",
+       "tur": "bosluk",
+       "cumle": "Tanecikleri düzensiz olan ve belirli bir erime ve donma noktası bulunmayan katılara ___ katılar denir.",
+       "cevap": "amorf",
+       "celdiriciler": [
+        "kristal",
+        "iyonik",
+        "metalik"
+       ],
+       "bilgi": "Amorf katıların tanecikleri belirli bir geometrik düzen göstermez; bu nedenle belirli erime ve donma noktaları yoktur.",
+       "sayfa": 161
+      },
+      {
+       "id": "2.2.2-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi amorf katılara örnektir?",
+       "secenekler": [
+        "Sofra tuzu",
+        "Elmas",
+        "Mum",
+        "Buz"
+       ],
+       "dogru": 2,
+       "bilgi": "Cam, lastik, plastik, mum ve tereyağı amorf katılara örnektir.",
+       "sayfa": 161
+      },
+      {
+       "id": "2.2.2-04",
+       "tur": "bosluk",
+       "cumle": "Kristal örgünün tüm özelliklerini gösteren en küçük örgü parçasına ___ denir.",
+       "cevap": "birim hücre",
+       "celdiriciler": [
+        "molekül",
+        "örgü noktası",
+        "kristal çekirdeği"
+       ],
+       "bilgi": "Kristal katıların tanecikleri üç boyutlu örgüde düzenli dizilir; örgünün en küçük temsilci parçası birim hücredir.",
+       "sayfa": 161
+      },
+      {
+       "id": "2.2.2-05",
+       "tur": "eslestir",
+       "yonerge": "Kristal katı türlerini örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "İyonik katı",
+         "Sofra tuzu (NaCl)"
+        ],
+        [
+         "Moleküler katı",
+         "Kuru buz (katı CO₂)"
+        ],
+        [
+         "Kovalent katı",
+         "Elmas"
+        ],
+        [
+         "Metalik katı",
+         "Magnezyum"
+        ]
+       ],
+       "bilgi": "Kristal katılar iyonik, moleküler, kovalent ve metalik olmak üzere katıyı oluşturan birime göre dört gruba ayrılır.",
+       "sayfa": 162
+      },
+      {
+       "id": "2.2.2-06",
+       "tur": "secmeli",
+       "soru": "Moleküler katılarda molekülleri bir arada tutan kuvvetler hangileridir?",
+       "secenekler": [
+        "Yalnızca iyonik bağlar ve elektron denizi",
+        "Hidrojen bağı, dipol-dipol ve London kuvvetleri",
+        "Metal katyonları ile elektron denizi",
+        "Yalnızca ağ yapılı kovalent bağlar"
+       ],
+       "dogru": 1,
+       "bilgi": "Buz ve kuru buz gibi moleküler katılarda moleküller hidrojen bağı, dipol-dipol ve London kuvvetleriyle bir arada tutulur.",
+       "sayfa": 162
+      },
+      {
+       "id": "2.2.2-07",
+       "tur": "dy",
+       "ifade": "Buz, kovalent katılara bir örnektir.",
+       "dogru": false,
+       "bilgi": "Buz (katı H₂O) moleküler katıdır; elmas ve grafit ise kovalent katılara örnektir.",
+       "sayfa": 162
+      },
+      {
+       "id": "2.2.2-08",
+       "tur": "secmeli",
+       "soru": "Parlaklık ve iletkenlik özelliği gösteren kristal katı türü hangisidir?",
+       "secenekler": [
+        "İyonik katı",
+        "Moleküler katı",
+        "Kovalent katı",
+        "Metalik katı"
+       ],
+       "dogru": 3,
+       "bilgi": "Metalik katılar parlak ve iletkendir; erime noktaları düşük veya yüksek, kendileri yumuşak veya sert olabilir.",
+       "sayfa": 163
+      },
+      {
+       "id": "2.2.2-09",
+       "tur": "secmeli",
+       "soru": "Yüksek erime noktası, sertlik, kırılganlık ve yalıtkanlık hangi kristal katı türünün özellikleridir?",
+       "secenekler": [
+        "İyonik katı",
+        "Moleküler katı",
+        "Metalik katı",
+        "Amorf katı"
+       ],
+       "dogru": 0,
+       "bilgi": "NaCl, KI ve MgO gibi iyonik katılar yüksek erime noktalı, sert, kırılgan ve yalıtkandır.",
+       "sayfa": 163
+      },
+      {
+       "id": "2.2.2-10",
+       "tur": "secmeli",
+       "soru": "Düşük erime noktası, yumuşaklık ve yalıtkanlık hangi kristal katı türünün genel özellikleridir?",
+       "secenekler": [
+        "İyonik katı",
+        "Moleküler katı",
+        "Kovalent katı",
+        "Metalik katı"
+       ],
+       "dogru": 1,
+       "bilgi": "I₂, CO₂ ve H₂O gibi moleküler katıların erime noktası düşüktür; yumuşak ve yalıtkandırlar.",
+       "sayfa": 163
+      }
+     ]
+    },
+    {
+     "no": "2.2.3.1",
+     "ad": "Sıvılar ve Özellikleri: Buharlaşma, Buhar Basıncı ve Kaynama",
+     "kartlar": [
+      {
+       "id": "2.2.3.1-01",
+       "tur": "bosluk",
+       "cumle": "Birim zamanda sıvı hâlden gaz hâline geçen molekül sayısına ___ denir.",
+       "cevap": "buharlaşma hızı",
+       "celdiriciler": [
+        "yoğuşma hızı",
+        "buhar basıncı",
+        "kaynama noktası"
+       ],
+       "bilgi": "Kinetik enerjisi ortalamadan yüksek sıvı molekülleri yüzeyden ayrılır; birim zamanda ayrılan molekül sayısı buharlaşma hızıdır.",
+       "sayfa": 166
+      },
+      {
+       "id": "2.2.3.1-02",
+       "tur": "dy",
+       "ifade": "Kapalı bir kapta buharlaşma ve yoğuşma hızları eşitlendiğinde buharlaşma ve yoğuşma olayları durur.",
+       "dogru": false,
+       "bilgi": "Hızlar eşitlenince denge kurulur ancak buharlaşma ve yoğuşma durmaz, aynı hızla devam eder; buhar basıncı sabit kalır.",
+       "sayfa": 169
+      },
+      {
+       "id": "2.2.3.1-03",
+       "tur": "secmeli",
+       "soru": "Saf bir sıvının denge buhar basıncı aşağıdakilerden hangisine bağlıdır?",
+       "secenekler": [
+        "Kabın hacmine",
+        "Sıvının miktarına",
+        "Kabın şekline",
+        "Sıcaklığa"
+       ],
+       "dogru": 3,
+       "bilgi": "Denge buhar basıncı sıvının cinsine, sıcaklığa ve saflık derecesine bağlıdır; kabın hacmi, şekli ve sıvı miktarına bağlı değildir.",
+       "sayfa": 172
+      },
+      {
+       "id": "2.2.3.1-04",
+       "tur": "dy",
+       "ifade": "Molekülleri arasında hidrojen bağı oluşturabilen bir sıvının, benzer mol kütleli ancak hidrojen bağı oluşturamayan bir sıvıdan daha az uçucu olması beklenir.",
+       "dogru": true,
+       "bilgi": "Moleküller arası çekim zayıfladıkça buhar basıncı artar; hidrojen bağı yapan sıvılar daha az uçucudur.",
+       "sayfa": 172
+      },
+      {
+       "id": "2.2.3.1-05",
+       "tur": "secmeli",
+       "soru": "Aynı sıcaklıktaki iki farklı saf sıvıdan buhar basıncı büyük olanı için hangisi söylenir?",
+       "secenekler": [
+        "Moleküller arası çekimi daha güçlüdür",
+        "Daha uçucudur",
+        "Kaynama noktası daha yüksektir",
+        "Daha az buharlaşır"
+       ],
+       "dogru": 1,
+       "bilgi": "Aynı sıcaklıkta buhar basıncı büyük olan sıvı daha uçucu olarak nitelenir.",
+       "sayfa": 172
+      },
+      {
+       "id": "2.2.3.1-06",
+       "tur": "bosluk",
+       "cumle": "Bir sıvının buhar basıncının sıvı yüzeyine etki eden dış basınca eşit olduğu sıcaklığa ___ denir.",
+       "cevap": "kaynama noktası",
+       "celdiriciler": [
+        "erime noktası",
+        "donma noktası",
+        "yoğuşma noktası"
+       ],
+       "bilgi": "Kabarcıklardaki buharın iç basıncı dış basınca eşit olduğunda kaynama gözlenir.",
+       "sayfa": 183
+      },
+      {
+       "id": "2.2.3.1-07",
+       "tur": "dy",
+       "ifade": "Sıvı yüzeyine etki eden dış basınç arttıkça sıvıların kaynama sıcaklığı düşer.",
+       "dogru": false,
+       "bilgi": "Dış basınç arttıkça kaynama sıcaklığı artar, azaldıkça düşer; bu nedenle Everest'in zirvesinde su daha düşük sıcaklıkta kaynar.",
+       "sayfa": 184
+      },
+      {
+       "id": "2.2.3.1-08",
+       "tur": "secmeli",
+       "soru": "Aynı şartlarda metan (CH₄), hidrojen sülfür (H₂S) ve sudan (H₂O) kaynama sıcaklığı en yüksek olan hangisidir ve nedeni nedir?",
+       "secenekler": [
+        "CH₄; London kuvvetleri",
+        "H₂S; dipol-dipol etkileşimi",
+        "H₂O; hidrojen bağları",
+        "H₂S; hidrojen bağları"
+       ],
+       "dogru": 2,
+       "bilgi": "Kaynama sıcaklığı moleküller arası etkileşimle doğru orantılıdır: CH₄ (London) < H₂S (dipol-dipol) < H₂O (hidrojen bağı).",
+       "sayfa": 179
+      },
+      {
+       "id": "2.2.3.1-09",
+       "tur": "dy",
+       "ifade": "Saf bir sıvıya uçucu olmayan bir madde çözündüğünde oluşan çözeltinin kaynama sıcaklığı saf çözücüye göre yükselir.",
+       "dogru": true,
+       "bilgi": "Uçucu olmayan çözünen eklenince kaynama sıcaklığı yükselir; çözünen madde miktarı arttıkça kaynama sıcaklığı da artar.",
+       "sayfa": 185
+      },
+      {
+       "id": "2.2.3.1-10",
+       "tur": "secmeli",
+       "soru": "Saf bir sıvının kaynama sıcaklığı aşağıdakilerden hangisine bağlı değildir?",
+       "secenekler": [
+        "Dış basınca",
+        "Moleküller arası etkileşim türüne",
+        "Çözünmüş uçucu olmayan maddeye",
+        "Isıtıcının gücüne"
+       ],
+       "dogru": 3,
+       "bilgi": "Kaynama sıcaklığı dış basınca ve etkileşim türüne bağlıdır; ısıtıcının gücüne, sıvı miktarına ve kabın şekline bağlı değildir.",
+       "sayfa": 185
+      },
+      {
+       "id": "2.2.3.1-11",
+       "tur": "eslestir",
+       "yonerge": "Kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Buharlaşma",
+         "Her sıcaklıkta sıvının yüzeyinde gerçekleşir"
+        ],
+        [
+         "Kaynama",
+         "Buhar kabarcıklarının sıvı içinden yüzeye çıkması"
+        ],
+        [
+         "Denge buhar basıncı",
+         "Sıvısıyla dengedeki buharın basıncı"
+        ],
+        [
+         "Buhar basıncı",
+         "Buhar moleküllerinin kap çeperine çarpmasıyla oluşan kuvvet"
+        ]
+       ],
+       "bilgi": "Buharlaşma her sıcaklıkta ve sıvının yüzeyinde gerçekleşir; kaynamada sıvının iç kısmındaki moleküller de gaz hâline geçerek kabarcık oluşturur.",
+       "sayfa": 175
+      }
+     ]
+    },
+    {
+     "no": "2.2.3.2",
+     "ad": "Sıvılar ve Özellikleri: Viskozite",
+     "kartlar": [
+      {
+       "id": "2.2.3.2-01",
+       "tur": "bosluk",
+       "cumle": "Sıvıların akmaya karşı gösterdiği dirence ___ denir.",
+       "cevap": "viskozite",
+       "celdiriciler": [
+        "yüzey gerilimi",
+        "buhar basıncı",
+        "kohezyon"
+       ],
+       "bilgi": "Sıvıların akmaya karşı direnci viskozitedir; viskozitesi büyük sıvılara viskoz sıvı denir.",
+       "sayfa": 187
+      },
+      {
+       "id": "2.2.3.2-02",
+       "tur": "secmeli",
+       "soru": "Viskozitenin SI birim sistemindeki birimi hangisidir?",
+       "secenekler": [
+        "Newton/metre",
+        "Paskal.saniye",
+        "Joule/mol",
+        "Dyne/santimetre"
+       ],
+       "dogru": 1,
+       "bilgi": "Viskozitenin SI birimi paskal.saniyedir (Pa.s).",
+       "sayfa": 187
+      },
+      {
+       "id": "2.2.3.2-03",
+       "tur": "secmeli",
+       "soru": "Sıvıların sıcaklığı arttıkça akışkanlık ve viskozite nasıl değişir?",
+       "secenekler": [
+        "Akışkanlık azalır, viskozite artar",
+        "İkisi de artar",
+        "Akışkanlık artar, viskozite azalır",
+        "İkisi de değişmez"
+       ],
+       "dogru": 2,
+       "bilgi": "Sıcaklık artınca moleküller arası etkileşimler zayıflar; zift ısıtılarak dökülür, reçel sıcak doldurulur.",
+       "sayfa": 193
+      },
+      {
+       "id": "2.2.3.2-04",
+       "tur": "secmeli",
+       "soru": "Su, etilen glikol ve gliserin arasında viskozitesi en yüksek olan hangisidir ve nedeni nedir?",
+       "secenekler": [
+        "Su; molekülleri arasında hiç etkileşim olmaması",
+        "Gliserin; daha fazla hidrojen bağı yapması",
+        "Etilen glikol; molekülünün apolar olması",
+        "Su; mol kütlesinin en büyük olması"
+       ],
+       "dogru": 1,
+       "bilgi": "Hidrojen bağı sayısı arttıkça moleküller birbiri üzerinden zor kayar; gliserinin viskozitesi su ve etilen glikolden fazladır.",
+       "sayfa": 191
+      },
+      {
+       "id": "2.2.3.2-05",
+       "tur": "dy",
+       "ifade": "Apolar sıvılarda molekülün elektron sayısı arttıkça London kuvvetleri zayıflar ve viskozite azalır.",
+       "dogru": false,
+       "bilgi": "Apolar moleküllerde elektron sayısı arttıkça London kuvvetleri artar; pentandan oktana viskozite artar.",
+       "sayfa": 191
+      },
+      {
+       "id": "2.2.3.2-06",
+       "tur": "bosluk",
+       "cumle": "Laboratuvarlarda sıvıların viskozitesini ölçmek için genellikle ___ viskozimetresi kullanılır.",
+       "cevap": "Ostwald",
+       "celdiriciler": [
+        "Traube",
+        "Bunsen",
+        "Pauling"
+       ],
+       "bilgi": "Viskozite ölçen araçlara viskozimetre denir; laboratuvarlarda genellikle Ostwald viskozimetresi kullanılır.",
+       "sayfa": 189
+      },
+      {
+       "id": "2.2.3.2-07",
+       "tur": "secmeli",
+       "soru": "Benzer molekül yapısına sahip sıvılarda mol kütlesi ile akışkanlık arasındaki ilişki için hangisi doğrudur?",
+       "secenekler": [
+        "Mol kütlesi büyük olanın akışkanlığı daha fazladır",
+        "Mol kütlesi akışkanlığı hiç etkilemez",
+        "Mol kütlesi büyük olanın akışkanlığı genellikle daha azdır",
+        "Mol kütlesi küçük olanın viskozitesi daha fazladır"
+       ],
+       "dogru": 2,
+       "bilgi": "Benzer yapılı sıvılarda mol kütlesi büyük olanın akışkanlığı azdır; propil alkolün akışkanlığı etil alkolden azdır.",
+       "sayfa": 191
+      },
+      {
+       "id": "2.2.3.2-08",
+       "tur": "secmeli",
+       "soru": "Motor yağı seçiminde \"kalın yağ\" olarak bilinen viskozitesi yüksek yağ için hangisi doğrudur?",
+       "secenekler": [
+        "Akışkanlığı fazladır, parçalara kolay iletilir",
+        "Akışkanlığı azdır, parçalara iletilmesi zorlaşır",
+        "Sıcaklıktan hiç etkilenmez",
+        "Moleküller arası etkileşimi yoktur"
+       ],
+       "dogru": 1,
+       "bilgi": "Viskozitesi yüksek yağın akışkanlığı az, ince yağın ise fazladır; motor için ideal viskozite aralığındaki yağ seçilmelidir.",
+       "sayfa": 186
+      }
+     ]
+    },
+    {
+     "no": "2.2.3.3",
+     "ad": "Sıvılar ve Özellikleri: Adezyon, Kohezyon ve Yüzey Gerilimi",
+     "kartlar": [
+      {
+       "id": "2.2.3.3-01",
+       "tur": "eslestir",
+       "yonerge": "Kavramları tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Kohezyon",
+         "Aynı tür moleküllerin birbirine uyguladığı çekim"
+        ],
+        [
+         "Adezyon",
+         "Farklı maddelerin tanecikleri arasındaki çekim"
+        ],
+        [
+         "Kapiler etki",
+         "Sıvı sütununun kılcal tüpte kendiliğinden yükselmesi"
+        ],
+        [
+         "Yüzey aktif madde",
+         "Sıvıların yüzey özelliklerini değiştiren madde"
+        ]
+       ],
+       "bilgi": "Adezyon, kohezyon, yüzey gerilimi ve kılcallık moleküller arası çekim kuvvetlerinin sonucudur.",
+       "sayfa": 196
+      },
+      {
+       "id": "2.2.3.3-02",
+       "tur": "secmeli",
+       "soru": "Yaprak üzerindeki su damlasının yuvarlak bir şekil alması hangi kuvvete örnektir?",
+       "secenekler": [
+        "Adezyon",
+        "Kapiler etki",
+        "Viskozite",
+        "Kohezyon"
+       ],
+       "dogru": 3,
+       "bilgi": "Damlanın yuvarlak şekli kohezyon kuvvetlerine, damlanın yaprağa yapışması ise adezyon kuvvetlerine örnektir.",
+       "sayfa": 196
+      },
+      {
+       "id": "2.2.3.3-03",
+       "tur": "dy",
+       "ifade": "Sıvı ile yüzey arasındaki adezyon kuvvetleri kohezyon kuvvetlerinden büyükse sıvı yüzeyi ıslatır.",
+       "dogru": true,
+       "bilgi": "Adezyon kohezyondan büyükse sıvı yüzeyde yayılır ve ıslatır; kohezyon büyükse sıvı damlacık hâlinde kalır.",
+       "sayfa": 201
+      },
+      {
+       "id": "2.2.3.3-04",
+       "tur": "secmeli",
+       "soru": "Kohezyon kuvvetleri adezyon kuvvetlerinden büyük olan bir sıvının kaptaki yüzeyi nasıl görünür?",
+       "secenekler": [
+        "İçbükey",
+        "Dışbükey",
+        "Düz"
+       ],
+       "dogru": 1,
+       "bilgi": "Kohezyon büyükse sıvı yüzeyi dışbükey, adezyon büyükse içbükey olur; kuvvetler eşitse yüzey düz kalır.",
+       "sayfa": 201
+      },
+      {
+       "id": "2.2.3.3-05",
+       "tur": "bosluk",
+       "cumle": "Yüzey gerilimi, sıvılarda ___ kuvvetlerinin neden olduğu bir özelliktir.",
+       "cevap": "kohezyon",
+       "celdiriciler": [
+        "adezyon",
+        "manyetik",
+        "yer çekimi"
+       ],
+       "bilgi": "Yüzeydeki moleküller yalnızca alttan ve yanlardan çekildiği için yüzey küçülmeye çalışır; bu durum yüzey gerilimini oluşturur.",
+       "sayfa": 200
+      },
+      {
+       "id": "2.2.3.3-06",
+       "tur": "dy",
+       "ifade": "Suya tuz eklendiğinde suyun yüzey gerilimi azalır.",
+       "dogru": false,
+       "bilgi": "Suya tuz eklenince iyonlarla su arasında daha kuvvetli etkileşim oluşur ve yüzey gerilimi artar; sabun ve deterjan ise azaltır.",
+       "sayfa": 210
+      },
+      {
+       "id": "2.2.3.3-07",
+       "tur": "secmeli",
+       "soru": "Suya sabun veya deterjan eklendiğinde suyun yüzey gerilimi nasıl değişir ve bu tür maddelere ne ad verilir?",
+       "secenekler": [
+        "Artar; elektrolit",
+        "Azalır; yüzey aktif madde",
+        "Değişmez; katalizör",
+        "Artar; yüzey aktif madde"
+       ],
+       "dogru": 1,
+       "bilgi": "Sabun ve deterjan suyun yüzey gerilimini azaltır; yüzey özelliklerini değiştiren bu maddelere yüzey aktif madde denir.",
+       "sayfa": 210
+      },
+      {
+       "id": "2.2.3.3-08",
+       "tur": "bosluk",
+       "cumle": "Sabun ve deterjan molekülleri suyu seven ___ ve suyu sevmeyen hidrofob kısımlardan oluşur.",
+       "cevap": "hidrofil",
+       "celdiriciler": [
+        "hidrojen",
+        "hidroksit",
+        "hidrat"
+       ],
+       "bilgi": "Sabun moleküllerinin hidrofil kısımları yüzeydeki su moleküllerini çeker ve sıvı içindeki kohezyon kuvvetlerini azaltır.",
+       "sayfa": 210
+      },
+      {
+       "id": "2.2.3.3-09",
+       "tur": "secmeli",
+       "soru": "Ebru sanatında boyaların çökmeden yayılmasını sağlamak için suyun yüzey gerilimini azaltan hangi madde kullanılır?",
+       "secenekler": [
+        "Tuz",
+        "Şeker",
+        "Gliserin",
+        "Sığır ödü"
+       ],
+       "dogru": 3,
+       "bilgi": "Ebru sanatı suyun yüzey gerilimine dayanır; boyaların çökmeden yayılması için yüzey gerilimini azaltan sığır ödü kullanılır.",
+       "sayfa": 203
+      },
+      {
+       "id": "2.2.3.3-10",
+       "tur": "secmeli",
+       "soru": "Parmaktan ince bir tüple kan örneği alınması ve bitkilerin topraktan su çekmesi hangi olaya dayanır?",
+       "secenekler": [
+        "Buharlaşma ve yoğuşma",
+        "Kaynama noktası yükselmesi",
+        "Viskozite artışı",
+        "Kılcal hareket (kapiler etki)"
+       ],
+       "dogru": 3,
+       "bilgi": "Kılcal hareket, sıvı ile tüp çeperi arasındaki adezyona ve sıvı molekülleri arasındaki kohezyona bağlıdır.",
+       "sayfa": 201
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "ad": "Sürdürülebilirlik",
+   "konular": [
+    {
+     "no": "3.1.1",
+     "ad": "Metal Nanoparçacıklar",
+     "kartlar": [
+      {
+       "id": "3.1.1-01",
+       "tur": "bosluk",
+       "cumle": "Nanoteknoloji, ___ nanometre boyutlarındaki maddelerin üretilmesi, incelenmesi ve işlenmesi üzerine çalışır.",
+       "cevap": "1-100",
+       "celdiriciler": [
+        "100-1000",
+        "0,1-1",
+        "1000-10 000"
+       ],
+       "bilgi": "Nanoparçacık (NP), çapı 1-100 nm olan atomik ya da moleküler parçacıktır.",
+       "sayfa": 240
+      },
+      {
+       "id": "3.1.1-02",
+       "tur": "secmeli",
+       "soru": "1 nanometre, metrenin kaçta biridir?",
+       "secenekler": [
+        "Binde biri",
+        "Milyonda biri",
+        "Milyarda biri",
+        "Trilyonda biri"
+       ],
+       "dogru": 2,
+       "bilgi": "Nano (n) herhangi bir ölçünün milyarda biridir; 1 nm = 10⁻⁹ m'dir.",
+       "sayfa": 240
+      },
+      {
+       "id": "3.1.1-03",
+       "tur": "dy",
+       "ifade": "Nanoboyuttaki nesneler ışık mikroskobuyla görüntülenebilir.",
+       "dogru": false,
+       "bilgi": "Nanoboyutlu nesneler ışığın dalga boyundan küçük olduğundan çıplak gözle veya ışık mikroskobuyla görülemez; SEM ile görüntülenir.",
+       "sayfa": 242
+      },
+      {
+       "id": "3.1.1-04",
+       "tur": "bosluk",
+       "cumle": "Nanoboyuttaki nesneler, yüzeyi görüntülemek için elektronları kullanan taramalı ___ mikroskobu (SEM) ile görüntülenebilir.",
+       "cevap": "elektron",
+       "celdiriciler": [
+        "ışık",
+        "optik",
+        "floresan"
+       ],
+       "bilgi": "SEM malzeme yüzeyini elektronlarla görüntüler; çözünürlük sınırı yaklaşık 0,05 nm'dir.",
+       "sayfa": 242
+      },
+      {
+       "id": "3.1.1-05",
+       "tur": "secmeli",
+       "soru": "Makroboyutta sarı renkli ve kimyasal tepkimelere karşı pasif olan altın, nanoboyutta hangi özelliği kazanır?",
+       "secenekler": [
+        "Mavi renk alır, iletkenliğini kaybeder",
+        "Kırmızı renk alır, tepkimelere karşı aktifleşir",
+        "Renksizleşir, gaz hâline geçer",
+        "Sarı kalır, sıvı hâle geçer"
+       ],
+       "dogru": 1,
+       "bilgi": "Nanoboyutta altın kırmızı renkli ve aktif hâle gelir; bu sayede katalizör veya inhibitör olarak kullanılabilir.",
+       "sayfa": 243
+      },
+      {
+       "id": "3.1.1-06",
+       "tur": "dy",
+       "ifade": "Parçacık boyutu küçüldükçe yüzey alanı/hacim oranı artar.",
+       "dogru": true,
+       "bilgi": "Nanoboyutta artan yüzey alanı/hacim oranı, maddenin fiziksel ve kimyasal özelliklerinin değişmesine neden olur.",
+       "sayfa": 246
+      },
+      {
+       "id": "3.1.1-07",
+       "tur": "bosluk",
+       "cumle": "Grafit kırılgan bir yapıdayken benzer molekül geometrisine sahip grafen nanoparçacıklar oldukça ___ bir yapıya sahiptir.",
+       "cevap": "esnek",
+       "celdiriciler": [
+        "kırılgan",
+        "gevrek",
+        "sıvı"
+       ],
+       "bilgi": "Nanoboyutta maddelerin mekanik, optik, elektriksel, manyetik ve reaktiflik özellikleri değişir.",
+       "sayfa": 243
+      },
+      {
+       "id": "3.1.1-08",
+       "tur": "secmeli",
+       "soru": "Kurşun kalem ucundaki grafitten elektrik enerjisiyle grafen elde edilmesi hangi nanoparçacık sentez yaklaşımına örnektir?",
+       "secenekler": [
+        "Aşağıdan yukarıya yaklaşım",
+        "Yeşil sentez",
+        "Yukarıdan aşağıya yaklaşım",
+        "Biyolojik sentez"
+       ],
+       "dogru": 2,
+       "bilgi": "Yukarıdan aşağıya yaklaşımda yığınlar enerjiyle nanoboyuta ayrılır; aşağıdan yukarıya yaklaşımda atom ve moleküller tepkimeye sokulur.",
+       "sayfa": 247
+      },
+      {
+       "id": "3.1.1-09",
+       "tur": "eslestir",
+       "yonerge": "Nanoparçacıkları kullanım alanlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Gümüş nanoparçacık",
+         "Antibakteriyel ürünler ve yara bantları"
+        ],
+        [
+         "Bakır nanoparçacık",
+         "Elektronik devreler için iletken mürekkep"
+        ],
+        [
+         "Kuantum nokta nanoparçacık",
+         "Tıpta görüntüleme"
+        ],
+        [
+         "Demir nanoparçacık",
+         "Kanserli hücrelerin dıştan tespiti ve tedavisi"
+        ]
+       ],
+       "bilgi": "Bakır nanoparçacıklar bakır metalinden çok daha iletkendir; gümüş nanoparçacıklar antibakteriyel özellik gösterir.",
+       "sayfa": 247
+      }
+     ]
+    },
+    {
+     "no": "3.1.2",
+     "ad": "Yeşil Kimyanın Atık Önleme İlkesi",
+     "kartlar": [
+      {
+       "id": "3.1.2-01",
+       "tur": "bosluk",
+       "cumle": "Zararlı maddelerin kullanımını ve oluşumunu azaltmak için kimyasal işlemler tasarlamayı ve yürütmeyi amaçlayan yaklaşıma ___ denir.",
+       "cevap": "yeşil kimya",
+       "celdiriciler": [
+        "nanokimya",
+        "analitik kimya",
+        "fitoteknoloji"
+       ],
+       "bilgi": "Yeşil kimya, zararlı maddelerin kullanımını ve oluşumunu azaltacak kimyasal süreçler tasarlamayı amaçlar.",
+       "sayfa": 248
+      },
+      {
+       "id": "3.1.2-02",
+       "tur": "secmeli",
+       "soru": "Yeşil kimyanın \"atık önleme\" ilkesi neyi ifade eder?",
+       "secenekler": [
+        "Katalizör kullanarak enerji ihtiyacını azaltmayı",
+        "Atık oluşumunu en aza indirmeyi veya yok etmeyi",
+        "Çözücüleri gerekmedikçe kullanmamayı",
+        "Yenilenebilir ham maddelerle sentez yapmayı"
+       ],
+       "dogru": 1,
+       "bilgi": "Atık önleme, kimyasal bir süreç sonucunda atık oluşumunun en aza indirilmesi ve/veya yok edilmesidir.",
+       "sayfa": 248
+      },
+      {
+       "id": "3.1.2-03",
+       "tur": "secmeli",
+       "soru": "Enerji ihtiyacını azaltan, seçiciliği artıran ve daha az zararlı tepkime koşulları sağlayan maddelerin kullanımını öngören yeşil kimya ilkesi hangisidir?",
+       "secenekler": [
+        "Atom ekonomisi",
+        "Bozunmanın tasarımı",
+        "Atık önleme",
+        "Kataliz"
+       ],
+       "dogru": 3,
+       "bilgi": "Kataliz ilkesi; enerji ihtiyacını azaltan, seçiciliği artıran ve daha az zararlı koşullar sağlayan katalizörlerin kullanılmasıdır.",
+       "sayfa": 248
+      },
+      {
+       "id": "3.1.2-04",
+       "tur": "bosluk",
+       "cumle": "Ham maddenin daha verimli kullanılmasını ve daha az yan ürün oluşmasını hedefleyen yeşil kimya ilkesine atom ___ denir.",
+       "cevap": "ekonomisi",
+       "celdiriciler": [
+        "verimliliği",
+        "tasarrufu",
+        "dengesi"
+       ],
+       "bilgi": "Atom ekonomisi ilkesi ham maddenin verimli kullanımı, daha az yan ürün ve atık tasarrufu sağlamayı amaçlar.",
+       "sayfa": 248
+      },
+      {
+       "id": "3.1.2-05",
+       "tur": "dy",
+       "ifade": "Yeşil kimya ilkeleri, sürdürülebilir kalkınmanın 12. hedefi olan sorumlu üretim ve tüketim hedefine katkıda bulunur.",
+       "dogru": true,
+       "bilgi": "Yeşil kimya atık önleme ilkesiyle doğal kaynakların etkin kullanımına ve atıkların azaltılmasına katkı sağlar.",
+       "sayfa": 250
+      },
+      {
+       "id": "3.1.2-06",
+       "tur": "secmeli",
+       "soru": "Birleşmiş Milletlerin 2015'te kabul ettiği Sürdürülebilir Kalkınma Hedeflerinde kaç hedef vardır ve hedeflere ulaşılması öngörülen yıl hangisidir?",
+       "secenekler": [
+        "12 hedef, 2050",
+        "17 hedef, 2030",
+        "15 hedef, 2025",
+        "20 hedef, 2040"
+       ],
+       "dogru": 1,
+       "bilgi": "BM, 17 hedef için 2030'a kadar sürdürülebilir kalkınmayı sağlamaya yönelik bir yol haritası belirlemiştir.",
+       "sayfa": 237
+      },
+      {
+       "id": "3.1.2-07",
+       "tur": "eslestir",
+       "yonerge": "Kimya ile ilişkili sürdürülebilir kalkınma hedeflerini konularıyla eşleştir.",
+       "ciftler": [
+        [
+         "6. hedef",
+         "Temiz su ve sanitasyon"
+        ],
+        [
+         "7. hedef",
+         "Erişilebilir ve temiz enerji"
+        ],
+        [
+         "13. hedef",
+         "İklim eylemi"
+        ],
+        [
+         "14. hedef",
+         "Sudaki yaşam"
+        ],
+        [
+         "15. hedef",
+         "Karasal yaşam"
+        ]
+       ],
+       "bilgi": "Sürdürülebilir kalkınmanın 6, 7, 12, 13, 14 ve 15 numaralı hedefleri kimya bilimiyle ilişkilidir.",
+       "sayfa": 237
+      },
+      {
+       "id": "3.1.2-08",
+       "tur": "dy",
+       "ifade": "Gümüş nanoparçacıklar mikroorganizmaların büyümesini durdurma özelliği taşımadığı için sağlık alanında kullanılmaz.",
+       "dogru": false,
+       "bilgi": "Gümüş nanoparçacıklar mikroorganizmaları öldürür veya büyümelerini durdurur; AgNP emdirilmiş yara bantları enfeksiyonu azaltır.",
+       "sayfa": 250
+      }
+     ]
+    },
+    {
+     "no": "3.1.3",
+     "ad": "Metal, Alaşım ve Metal Nanoparçacıkların Çevresel Etkileri",
+     "kartlar": [
+      {
+       "id": "3.1.3-01",
+       "tur": "bosluk",
+       "cumle": "Yoğunlukları 5 g/cm³'ten yüksek olan metallere ___ metal denir.",
+       "cevap": "ağır",
+       "celdiriciler": [
+        "soy",
+        "alkali",
+        "hafif"
+       ],
+       "bilgi": "Sayıları 60'ı geçen ağır metallere kurşun, kadmiyum, krom, demir, kobalt, bakır, nikel, cıva ve çinko örnektir.",
+       "sayfa": 252
+      },
+      {
+       "id": "3.1.3-02",
+       "tur": "bosluk",
+       "cumle": "İki veya daha fazla metalin karıştırılıp eritildikten sonra soğutulmasıyla elde edilen homojen karışıma ___ denir.",
+       "cevap": "alaşım",
+       "celdiriciler": [
+        "kolloid",
+        "bileşik",
+        "süspansiyon"
+       ],
+       "bilgi": "Alaşımlar metal karakterlidir ancak karıştırılan metallerden farklı özellikler gösterir.",
+       "sayfa": 253
+      },
+      {
+       "id": "3.1.3-03",
+       "tur": "eslestir",
+       "yonerge": "Alaşımları içerdikleri elementlerle eşleştir.",
+       "ciftler": [
+        [
+         "Bronz",
+         "Bakır ve kalay"
+        ],
+        [
+         "Lehim",
+         "Kalay ve kurşun"
+        ],
+        [
+         "Pirinç",
+         "Bakır ve çinko"
+        ],
+        [
+         "Paslanmaz çelik",
+         "Demir, karbon ve krom"
+        ],
+        [
+         "Duralümin",
+         "Alüminyum, bakır, mangan ve magnezyum"
+        ]
+       ],
+       "bilgi": "Bronz heykel ve madalyada, lehim elektronikte, pirinç dekoratif eşyada, duralümin havacılık ve uzay endüstrisinde kullanılır.",
+       "sayfa": 253
+      },
+      {
+       "id": "3.1.3-04",
+       "tur": "dy",
+       "ifade": "Metaller asit, baz ve su ile genellikle tepkimeye girmediği için saf hâlde ticari olarak yaygın kullanılır.",
+       "dogru": false,
+       "bilgi": "Metaller genellikle asit, baz ve su ile tepkimeye girer; bu nedenle saf hâlde ticari kullanımları sınırlıdır ve alaşımlar üretilir.",
+       "sayfa": 253
+      },
+      {
+       "id": "3.1.3-05",
+       "tur": "secmeli",
+       "soru": "Deniz suyundaki bazı ağır metallerin toksisite sıralamasına göre en toksik olanı hangisidir?",
+       "secenekler": [
+        "Çinko",
+        "Kalay",
+        "Krom",
+        "Cıva"
+       ],
+       "dogru": 3,
+       "bilgi": "Deniz suyundaki toksisite sırası en toksikten başlayarak cıva, kadmiyum, gümüş, nikel, kurşun, krom, kalay, çinkodur.",
+       "sayfa": 262
+      },
+      {
+       "id": "3.1.3-06",
+       "tur": "dy",
+       "ifade": "Suda bulunan kolloitler, ince taneli çöl kumu ve volkanik dumanlar doğal kökenli nanoparçacık örnekleridir.",
+       "dogru": true,
+       "bilgi": "Nanoparçacıkların çoğu doğal kökenlidir; araba egzozu ve lehim dumanı ise insan faaliyetiyle istem dışı salınan örneklerdir.",
+       "sayfa": 254
+      },
+      {
+       "id": "3.1.3-07",
+       "tur": "secmeli",
+       "soru": "Zeytinyağı üretiminin yan ürünü olan ve sudan ağır metal temizliğinde kullanılan madde hangisidir?",
+       "secenekler": [
+        "Su mercimeği",
+        "Pirina",
+        "Sığır ödü",
+        "Membran"
+       ],
+       "dogru": 1,
+       "bilgi": "Pirina, zeytinlerin sıkılmasından sonra kalan katı kısımdır; bol, düşük maliyetli ve ağır metal bağlama kapasitesi yüksektir.",
+       "sayfa": 257
+      },
+      {
+       "id": "3.1.3-08",
+       "tur": "bosluk",
+       "cumle": "Toprak ve sudaki kirleticileri uzaklaştırmak, yok etmek veya tutmak için bitkilerin kullanıldığı yönteme ___ denir.",
+       "cevap": "fitoteknoloji",
+       "celdiriciler": [
+        "nanoteknoloji",
+        "biyokimya",
+        "yeşil sentez"
+       ],
+       "bilgi": "Fitoteknolojide metal biriktirici bitkiler ağır metalleri ve nanoparçacıkları normal bitkilerden daha fazla bünyelerinde tutar.",
+       "sayfa": 259
+      },
+      {
+       "id": "3.1.3-09",
+       "tur": "secmeli",
+       "soru": "Cıva kaynaklı çevre kirliliğini küresel ölçekte önlemek amacıyla \"Cıvaya İlişkin Minamata Sözleşmesi\" hangi kuruluşun liderliğinde hazırlanmıştır?",
+       "secenekler": [
+        "WHO",
+        "FAO",
+        "UNEP",
+        "CERN"
+       ],
+       "dogru": 2,
+       "bilgi": "1950'lerde Minamata Körfezi'ndeki cıva zehirlenmesinden yıllar sonra UNEP liderliğinde Minamata Sözleşmesi hazırlanmıştır.",
+       "sayfa": 264
+      },
+      {
+       "id": "3.1.3-10",
+       "tur": "secmeli",
+       "soru": "İnsanların üretim ve tüketim faaliyetleri sonucu doğaya bıraktığı atıkların etkisiz hâle getirilmesi için gereken toplam kara ve su alanına ne denir?",
+       "secenekler": [
+        "Ekolojik ayak izi",
+        "Atom ekonomisi",
+        "Biyolojik çeşitlilik",
+        "Karbon döngüsü"
+       ],
+       "dogru": 0,
+       "bilgi": "Ekolojik ayak izi; enerji tüketimini azaltmak, daha az plastik kullanmak ve geri dönüşüme önem vermek gibi tedbirlerle azaltılabilir.",
+       "sayfa": 283
+      },
+      {
+       "id": "3.1.3-11",
+       "tur": "dy",
+       "ifade": "Manyetik özellik gösteren demir oksit nanoparçacıklar, suya karışan metal nanoparçacıkları sudan uzaklaştırmak için kullanılabilir.",
+       "dogru": true,
+       "bilgi": "Demir oksit nanoparçacık içeren filtreler tekrar kullanılabilir ve özellikle kurşun ile bakırın gideriminde çok etkilidir.",
+       "sayfa": 260
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

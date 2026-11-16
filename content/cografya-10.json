@@ -1,0 +1,2198 @@
+{
+ "kitap": "cografya-10",
+ "ders": "cografya",
+ "sinif": 10,
+ "baslik": "Coğrafya Dersi 10. Sınıf Ders Kitabı",
+ "sayfaUrl": "https://tymm.meb.gov.tr/kitap/72/cografya-dersi-10sinif-ders-kitabi",
+ "pdfUrl": "https://tymm.meb.gov.tr/assets/pdf/cografya-dersi-10sinif-ders-kitabi_20261004_200628_795.pdf",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Coğrafyanın Doğası",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Coğrafi Bakış",
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "secmeli",
+       "soru": "Coğrafi olay ve olguları mekânsal bağlamda ele alıp dağılımını, nedenlerini ve sonuçlarını yerel, bölgesel ve küresel boyutta değerlendiren bakış açısı hangisidir?",
+       "secenekler": [
+        "Tarihsel bakış",
+        "Coğrafi bakış",
+        "Bölgesel kalkınma",
+        "Mekânsal planlama"
+       ],
+       "dogru": 1,
+       "bilgi": "Coğrafi bakış; mekânı ilişkiler, süreçler ve örüntüler bütünü olarak ele alan, insan-doğa ilişkisini bütüncül inceleyen bilimsel perspektiftir.",
+       "sayfa": 17
+      },
+      {
+       "id": "1.1-02",
+       "tur": "bosluk",
+       "cumle": "Coğrafi bakış; dünyayı \"nerede, neden orada ve ___\" sorularıyla anlamaya çalışan, mekânı merkeze alan bir perspektiftir.",
+       "cevap": "nasıl",
+       "celdiriciler": [
+        "ne zaman",
+        "kim",
+        "ne kadar"
+       ],
+       "bilgi": "Coğrafi bakış, coğrafya disiplinine özgü bilimsel bir bakış açısıdır.",
+       "sayfa": 17
+      },
+      {
+       "id": "1.1-03",
+       "tur": "dy",
+       "ifade": "Coğrafi bakış, mekânı yalnızca fiziksel bir alan olarak ele alır.",
+       "dogru": false,
+       "bilgi": "Coğrafi bakış mekânı yalnızca fiziksel bir alan olarak değil ilişkiler, süreçler ve örüntüler bütünü olarak ele alır.",
+       "sayfa": 17
+      },
+      {
+       "id": "1.1-04",
+       "tur": "secmeli",
+       "soru": "Mekân okuryazarlığının temelini oluşturan coğrafi bakışın bileşenleri hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "Kaynak, kronoloji, tarihçi yorumu",
+        "Nüfus, sermaye, teknoloji, pazar",
+        "Mekânsal düşünme, ölçek bilinci, insan-çevre etkileşimi",
+        "Enlem, boylam, yükselti, ölçek"
+       ],
+       "dogru": 2,
+       "bilgi": "Coğrafi bakış; mekânsal düşünme, ölçek bilinci, yer ve mekân algısı, insan-çevre etkileşimi ve coğrafi bağlantılardan oluşur.",
+       "sayfa": 17
+      },
+      {
+       "id": "1.1-05",
+       "tur": "dy",
+       "ifade": "1854 Londra kolera salgınında salgına yol açan su kuyusunun tespit edilip kullanımının durdurulması, coğrafi bakışın önemini yansıtan bir örnektir.",
+       "dogru": true,
+       "bilgi": "Salgın alanlarının doğal ve beşerî özellikleri incelenerek içme suyu kuyularındaki mikroorganizmaların salgının nedeni olduğu bulunmuştur.",
+       "sayfa": 17
+      },
+      {
+       "id": "1.1-06",
+       "tur": "bosluk",
+       "cumle": "Gediz Nehri'nin taşıdığı alüvyonların birikmesiyle oluşan Manisa'daki Marmara Gölü, oluşum bakımından bir ___ gölüdür.",
+       "cevap": "alüvyon set",
+       "celdiriciler": [
+        "tektonik",
+        "volkanik",
+        "karstik"
+       ],
+       "bilgi": "Alüvyon set gölü, suların alüvyonlardan oluşan bir setin arkasında toplanmasıyla oluşur.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-07",
+       "tur": "secmeli",
+       "soru": "Manisa'daki Marmara Gölü'nün 2022 yılında tamamen kurumasında hangi etkenler rol oynamıştır?",
+       "secenekler": [
+        "Depremle göl tabanının çökmesi",
+        "Volkanik faaliyetlerin artması",
+        "Aşırı yağışla gelen alüvyonun gölü doldurması",
+        "Besleyen kaynakların azalması, çekilen suyun artması ve kuraklık"
+       ],
+       "dogru": 3,
+       "bilgi": "Kuruma balıkçılığı, biyolojik çeşitliliği olumsuz etkilemiş; çekilme alanlarının paylaşımı toplumsal gerginlik yaratmıştır.",
+       "sayfa": 21
+      },
+      {
+       "id": "1.1-08",
+       "tur": "dy",
+       "ifade": "Marmara Gölü, IUCN kırmızı listesinde yer alan tepeli pelikanın üreme alanıdır.",
+       "dogru": true,
+       "bilgi": "Marmara Gölü 2017'de ulusal öneme haiz sulak alan olarak tescil edilmiştir.",
+       "sayfa": 19
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Mekânsal Bilgi Teknolojileri",
+   "konular": [
+    {
+     "no": "2.1",
+     "ad": "CBS ve Uzaktan Algılamanın Uygulama Alanları",
+     "kartlar": [
+      {
+       "id": "2.1-01",
+       "tur": "bosluk",
+       "cumle": "Uzaktan algılama ve ___; mekânsal verilerden elde edilen coğrafi bilgilerin toplanması, analizi, görüntülenmesi ve kullanılmasını sağlayan teknolojilerdir.",
+       "cevap": "CBS",
+       "celdiriciler": [
+        "sismograf",
+        "barometre",
+        "pusula"
+       ],
+       "bilgi": "Türkiye'de pek çok kamu ve özel kuruluş hizmetlerini uzaktan algılama ve CBS ile entegre hâle getirmektedir.",
+       "sayfa": 31
+      },
+      {
+       "id": "2.1-02",
+       "tur": "eslestir",
+       "yonerge": "CBS ve uzaktan algılamanın uygulama alanlarını örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Çevresel analiz",
+         "Ormansızlaşma ve çölleşmenin belirlenmesi"
+        ],
+        [
+         "Tarım uygulamaları",
+         "Tarımsal su kullanımının optimizasyonu"
+        ],
+        [
+         "Şehir yönetimi",
+         "Kentsel büyümenin izlenmesi ve ulaşım planlaması"
+        ],
+        [
+         "Afet yönetimi",
+         "Zararın belirlenmesi ve acil müdahalenin koordinasyonu"
+        ]
+       ],
+       "bilgi": "CBS ve uzaktan algılama su kaynakları yönetimi ile habitat ve biyoçeşitlilik izlemede de kullanılır.",
+       "sayfa": 31
+      },
+      {
+       "id": "2.1-03",
+       "tur": "secmeli",
+       "soru": "AFAD tarafından geliştirilen, mekânsal bilgi teknolojileriyle entegre web tabanlı afet karar destek sistemi hangisidir?",
+       "secenekler": [
+        "TAMP",
+        "İKAS",
+        "AYDES",
+        "UDAP"
+       ],
+       "dogru": 2,
+       "bilgi": "Afet Yönetim ve Karar Destek Sistemi (AYDES), Türkiye Afet Müdahale Planı'nın (TAMP) bilişim altyapısıdır.",
+       "sayfa": 32
+      },
+      {
+       "id": "2.1-04",
+       "tur": "secmeli",
+       "soru": "AYDES'in üç ana bileşeni hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "Olay Komuta Sistemi, Mekânsal Bilgi Sistemi, İyileştirme Sistemi",
+        "Kullanıcı, veri, donanım",
+        "Uydu ağı, yer kontrol ağı, alıcılar",
+        "Erken uyarı, tahliye, toplanma alanı"
+       ],
+       "dogru": 0,
+       "bilgi": "AYDES; Olay Komuta Sistemi, Mekânsal Bilgi Sistemi ve İyileştirme Sistemi ile bunların alt bileşenlerinden oluşur.",
+       "sayfa": 32
+      },
+      {
+       "id": "2.1-05",
+       "tur": "dy",
+       "ifade": "AYDES'in İyileştirme Sistemi; hasar tespiti, hak sahipliği ve yer seçimi süreçlerinin CBS destekli yürütülmesini hedefler.",
+       "dogru": true,
+       "bilgi": "İyileştirme Sistemi mobil uygulamalarla desteklenerek sahadan konum içeren verilerin toplanmasını sağlar.",
+       "sayfa": 35
+      },
+      {
+       "id": "2.1-06",
+       "tur": "dy",
+       "ifade": "AYDES'in Olay Komuta Sistemi, yalnızca afet sonrasında kalıcı konutların yer seçimini yapan bir bileşendir.",
+       "dogru": false,
+       "bilgi": "Olay Komuta Sistemi, TAMP hizmet gruplarının hazırlık, planlama ve müdahale süreçlerinin bütünleşik yönetimini sağlar.",
+       "sayfa": 33
+      },
+      {
+       "id": "2.1-07",
+       "tur": "bosluk",
+       "cumle": "AYDES, Türkiye Afet Müdahale Planı'nın (___) bilişim altyapısıdır.",
+       "cevap": "TAMP",
+       "celdiriciler": [
+        "TARAP",
+        "TAYSB",
+        "UDAP"
+       ],
+       "bilgi": "AYDES'in Mekânsal Bilgi Sistemi, afet öncesi, esnası ve sonrası veriye hızlı ulaşılmasını ve hızlı karar verilmesini sağlar.",
+       "sayfa": 32
+      }
+     ]
+    },
+    {
+     "no": "2.2",
+     "ad": "Mekânsal Verilerin Haritalara Aktarılması",
+     "kartlar": [
+      {
+       "id": "2.2-01",
+       "tur": "dy",
+       "ifade": "Mekânsal veri bir özelliğin konumunu ifade ederken mekânsal olmayan veri o özellik hakkındaki tanıtıcı bilgileri ifade eder.",
+       "dogru": true,
+       "bilgi": "Mekânsal veri \"nerede\" sorusunu, mekânsal olmayan veri ise konuma sahip özelliğin niteliklerini açıklar.",
+       "sayfa": 37
+      },
+      {
+       "id": "2.2-02",
+       "tur": "secmeli",
+       "soru": "Mekânsal verilerin haritalarda gösteriminde kullanılan üç sembol hangi seçenekte verilmiştir?",
+       "secenekler": [
+        "Renk, desen, yazı",
+        "Ölçek, lejant, yön oku",
+        "Enlem, boylam, yükselti",
+        "Nokta, çizgi, alan"
+       ],
+       "dogru": 3,
+       "bilgi": "Okul, ev gibi küçük unsurlar nokta; yol, akarsu çizgi; göl, orman alan sembolüyle gösterilir.",
+       "sayfa": 37
+      },
+      {
+       "id": "2.2-03",
+       "tur": "secmeli",
+       "soru": "Şekli ve sınırları küçük olan okul, ev, lokanta gibi mekânsal veriler haritada hangi sembolle gösterilir?",
+       "secenekler": [
+        "Çizgi",
+        "Nokta",
+        "Alan"
+       ],
+       "dogru": 1,
+       "bilgi": "Yol ve akarsu gibi uzanan unsurlar çizgi, göl ve orman gibi geniş unsurlar alan sembolüyle gösterilir.",
+       "sayfa": 37
+      },
+      {
+       "id": "2.2-04",
+       "tur": "bosluk",
+       "cumle": "Uydu görüntüsü üzerinde nokta, çizgi ve alan kullanılarak harita oluşturulmasında ___ veri yapısından yararlanılır.",
+       "cevap": "vektör",
+       "celdiriciler": [
+        "raster",
+        "sözel",
+        "tablo"
+       ],
+       "bilgi": "Vektör veriler (nokta, çizgi, alan), mekânsal unsurların haritaya aktarılmasında kullanılır.",
+       "sayfa": 38
+      },
+      {
+       "id": "2.2-05",
+       "tur": "dy",
+       "ifade": "Göl ve orman gibi mekânsal veriler haritada çizgi sembolüyle gösterilir.",
+       "dogru": false,
+       "bilgi": "Göl ve orman gibi geniş yer kaplayan mekânsal veriler haritada alan sembolüyle gösterilir.",
+       "sayfa": 37
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "ad": "Doğal Sistemler ve Süreçler",
+   "konular": [
+    {
+     "no": "3.1",
+     "ad": "Tektonik Süreçler",
+     "kartlar": [
+      {
+       "id": "3.1-01",
+       "tur": "secmeli",
+       "soru": "1915'te kıtaların kayması kuramını ortaya koyan Alman meteorolog ve jeofizikçi kimdir?",
+       "secenekler": [
+        "Carl Ritter",
+        "Von Humboldt",
+        "Alfred Wegener",
+        "Friedrich Ratzel"
+       ],
+       "dogru": 2,
+       "bilgi": "Wegener, uzak kıtaların kenarlarının yapboz parçaları gibi benzemesini kuramının temel kanıtı olarak göstermiştir.",
+       "sayfa": 49
+      },
+      {
+       "id": "3.1-02",
+       "tur": "bosluk",
+       "cumle": "Levha tektoniği kuramına göre kıtasal kabuk çok önceleri ___ adı verilen tek bir süper kıtayı oluşturmaktaydı.",
+       "cevap": "Pangea",
+       "celdiriciler": [
+        "Tethys",
+        "Atlantis",
+        "Avrasya"
+       ],
+       "bilgi": "Süper kıta önce parçalara ayrılmış, parçaların birbirinden uzaklaşmasıyla ayrı kıtalar oluşmuştur.",
+       "sayfa": 49
+      },
+      {
+       "id": "3.1-03",
+       "tur": "dy",
+       "ifade": "Levhaların yatay, dikey ve yanal hareketleri ile bu hareketlere bağlı süreçlerin tamamına tektonizma denir.",
+       "dogru": true,
+       "bilgi": "Levhalar, mantodaki konveksiyonel akıntıların etkisiyle hareket eder; levhalardaki kırık hatlarına fay denir.",
+       "sayfa": 49
+      },
+      {
+       "id": "3.1-04",
+       "tur": "eslestir",
+       "yonerge": "Levha hareketlerini örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Ayrılma (uzaklaşma)",
+         "Doğu Afrika rift hattı"
+        ],
+        [
+         "Yanal kayma (transform)",
+         "Kuzey Amerika'nın batısındaki faylar"
+        ],
+        [
+         "Yaklaşma (çarpışma)",
+         "Hint ve Avrasya levhalarının çarpışması"
+        ]
+       ],
+       "bilgi": "Levha sınırları; volkanizma, orojenez ve depremlerin en fazla görüldüğü, tektonik olarak en aktif bölgelerdir.",
+       "sayfa": 50
+      },
+      {
+       "id": "3.1-05",
+       "tur": "secmeli",
+       "soru": "Levhaların ayrılması ilerledikçe levha sınırının iki yanında oluşan ve büyük depremlerin sık görüldüğü yükseltilere ne ad verilir?",
+       "secenekler": [
+        "Ada yayları",
+        "Okyanus ortası sırtları",
+        "Derin okyanus çukurları",
+        "Kalkanlar"
+       ],
+       "dogru": 1,
+       "bilgi": "Ayrılma sürecinde önce rift vadisi, sonra deniz tabanı yayılması ve okyanus ortası sırtları oluşur.",
+       "sayfa": 51
+      },
+      {
+       "id": "3.1-06",
+       "tur": "bosluk",
+       "cumle": "Yaklaşan levhalarda yoğun okyanusal kabuğun kıtasal kabuğun altına dalmasıyla ___ zonu boyunca derin okyanus çukuru (hendek) oluşur.",
+       "cevap": "dalma-batma",
+       "celdiriciler": [
+        "rift",
+        "transform",
+        "sıcak nokta"
+       ],
+       "bilgi": "Dalan kabuğun ergimesiyle oluşan magma volkanizmaya, tortulların kıvrılması orojeneze (dağ oluşumuna) yol açar.",
+       "sayfa": 53
+      },
+      {
+       "id": "3.1-07",
+       "tur": "dy",
+       "ifade": "Appalaş, İskandinav ve Ural Dağları son 100 milyon yılda oluşmuş genç dağ kuşaklarıdır.",
+       "dogru": false,
+       "bilgi": "Appalaş, İskandinav ve Ural, 250-400 milyon yıl önce oluşmuş yaşlı dağlardır; Alp-Himalaya, Kayalık ve And dağları gençtir.",
+       "sayfa": 57
+      },
+      {
+       "id": "3.1-08",
+       "tur": "secmeli",
+       "soru": "Kıvrım dağlarında kıvrılan arazinin yüksekte kalan kesimlerine ne ad verilir?",
+       "secenekler": [
+        "Antiklinal",
+        "Senklinal",
+        "Horst",
+        "Graben"
+       ],
+       "dogru": 0,
+       "bilgi": "Kıvrımda yüksekte kalan kesim antiklinal, alçakta kalan senklinaldir; kırılmada yükselen kısım horst, çöken kısım grabendir.",
+       "sayfa": 57
+      },
+      {
+       "id": "3.1-09",
+       "tur": "eslestir",
+       "yonerge": "Volkan konisi türlerini örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Tabakalı volkan (stratovolkan)",
+         "Fuji, Etna ve Vezüv"
+        ],
+        [
+         "Kalkan volkan",
+         "Mauna Loa ve Kilauea"
+        ],
+        [
+         "Tüf konisi",
+         "Parikutin ve Kula'daki Divlit konileri"
+        ]
+       ],
+       "bilgi": "Tabakalı volkanlar dik yamaçlı, kalkan volkanlar akışkan bazaltik lavlarla yayvan, tüf konileri birkaç yüz metre yüksekliktedir.",
+       "sayfa": 58
+      },
+      {
+       "id": "3.1-10",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki ovalardan hangisi Kuzey Anadolu Fay Sistemi boyunca yer alan graben özellikli çöküntü alanlarındandır?",
+       "secenekler": [
+        "Amik Ovası",
+        "Gediz Ovası",
+        "Muş Ovası",
+        "Erzincan Ovası"
+       ],
+       "dogru": 3,
+       "bilgi": "KAF boyunca Adapazarı, Bolu, Düzce, Erzincan; DAF boyunca Amik, Muş; Batı Anadolu'da Gediz, Menderes ovaları bulunur.",
+       "sayfa": 66
+      },
+      {
+       "id": "3.1-11",
+       "tur": "dy",
+       "ifade": "Anadolu Levhası, Afrika ve Arabistan levhalarının kuzeye hareketiyle sıkışarak her yıl yaklaşık 2-3 cm batıya doğru kaymaktadır.",
+       "dogru": true,
+       "bilgi": "Bu süreçte Kuzey Anadolu, Doğu Anadolu fay sistemleri ve Batı Anadolu fay zonları oluşmuştur.",
+       "sayfa": 66
+      },
+      {
+       "id": "3.1-12",
+       "tur": "bosluk",
+       "cumle": "Jeolojik zaman çizelgesinde yaklaşık ilk 4 milyar yıllık süreci kapsayan üst zamana ___ denir.",
+       "cevap": "Prekambriyen",
+       "celdiriciler": [
+        "Fanerozoyik",
+        "Antroposen",
+        "Kalkolitik"
+       ],
+       "bilgi": "Son 542 milyon yıllık ve hakkında daha çok bilgi bulunan üst zaman Fanerozoyik olarak adlandırılır.",
+       "sayfa": 68
+      }
+     ]
+    },
+    {
+     "no": "3.2",
+     "ad": "İklim ve Kayaç Yapısının Aşınma ve Çözünme Süreçlerine Etkisi",
+     "kartlar": [
+      {
+       "id": "3.2-01",
+       "tur": "bosluk",
+       "cumle": "Kayaçların fiziksel ve kimyasal olarak ufalanması sürecine ___ denir.",
+       "cevap": "ayrışma",
+       "celdiriciler": [
+        "biriktirme",
+        "taşınma",
+        "sedimantasyon"
+       ],
+       "bilgi": "Ayrışma fiziksel ayrışma ve kimyasal çözünmeyle gerçekleşir; biyolojik etkenler de katkı sağlar ve sonunda toprak oluşur.",
+       "sayfa": 70
+      },
+      {
+       "id": "3.2-02",
+       "tur": "secmeli",
+       "soru": "Üstündeki malzemenin aşınmasıyla yükü azalan kaya kütlesinin soğan kabuğu gibi plakalar hâlinde ayrılmasına ne ad verilir?",
+       "secenekler": [
+        "Tuz çatlatması",
+        "Donma çatlaması",
+        "Kavlama",
+        "Karstlaşma"
+       ],
+       "dogru": 2,
+       "bilgi": "Kavlama (yük eksilmesi çatlaması) fiziksel ayrışma türlerindendir.",
+       "sayfa": 70
+      },
+      {
+       "id": "3.2-03",
+       "tur": "dy",
+       "ifade": "Fiziksel ayrışma, dünyanın kurak ve soğuk bölgelerinde genel olarak daha etkindir.",
+       "dogru": true,
+       "bilgi": "Fiziksel ayrışma kayaçların yüzey miktarını artırarak kimyasal ayrışmayı da hızlandırır.",
+       "sayfa": 70
+      },
+      {
+       "id": "3.2-04",
+       "tur": "dy",
+       "ifade": "Kimyasal çözünme, dünyanın kurak bölgelerinde nemli ve yağışlı bölgelere göre daha etkilidir.",
+       "dogru": false,
+       "bilgi": "Kimyasal çözünme nemli ve yağışlı bölgelerde daha etkilidir; su, karbondioksit ve oksijen başlıca etkenlerdir.",
+       "sayfa": 70
+      },
+      {
+       "id": "3.2-05",
+       "tur": "eslestir",
+       "yonerge": "Fiziksel ayrışma türlerini nedenleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Donma çatlaması",
+         "Kayaca sızan suyun donup hacminin artması"
+        ],
+        [
+         "Tuz çatlatması",
+         "Gözeneklerde biriken tuz kristallerinin etkisi"
+        ],
+        [
+         "Sıcaklık farkı çatlaması",
+         "Genleşme ve büzüşmenin kayaç yüzeyini çatlatması"
+        ],
+        [
+         "Islanma-kuruma çatlaması",
+         "Killi kayaçların tekrar tekrar ıslanıp kuruması"
+        ]
+       ],
+       "bilgi": "Fiziksel ayrışmada kayacın kimyasal özellikleri bozulmadan önce çatlama sonra küçük parçalara bölünme gerçekleşir.",
+       "sayfa": 70
+      },
+      {
+       "id": "3.2-06",
+       "tur": "secmeli",
+       "soru": "Granit, gabro ve siyenit gibi iri kristalli derinlik kayaçları ayrışmaya karşı nasıldır?",
+       "secenekler": [
+        "Kimyasal çözünmeye karşı çok dirençsizdir",
+        "Fiziksel ve kimyasal ayrışmaya oldukça dirençlidir",
+        "Yalnızca fiziksel ayrışmaya dirençlidir",
+        "Kolayca çözünerek mağara oluşturur"
+       ],
+       "dogru": 1,
+       "bilgi": "Dirençli kayaçların bulunduğu arazilerde sivri tepeler, dik yamaçlar ve uçurumlar görülür; tortul kayaçların direnci daha azdır.",
+       "sayfa": 72
+      },
+      {
+       "id": "3.2-07",
+       "tur": "secmeli",
+       "soru": "Sıcak ve nemli bölgelerde kayaçların ayrışmasıyla ilgili hangisi söylenebilir?",
+       "secenekler": [
+        "Fiziksel ayrışma etkili, toprak ince olur",
+        "Ayrışma durur, toprak oluşmaz",
+        "Yalnızca tuz çatlatması görülür",
+        "Kimyasal çözünme hızlı, toprak kalın olur"
+       ],
+       "dogru": 3,
+       "bilgi": "Sıcak ve nemli ortamda karbonik ve hümid asitler çözünmeyi hızlandırır; soğuk ve kurak ortamda ayrışma yavaş, toprak incedir.",
+       "sayfa": 72
+      },
+      {
+       "id": "3.2-08",
+       "tur": "bosluk",
+       "cumle": "Volkanizma sonucu magmanın yer kabuğu içinde veya yeryüzünde soğuyup katılaşmasıyla ___ kayaçlar oluşur.",
+       "cevap": "magmatik",
+       "celdiriciler": [
+        "tortul",
+        "başkalaşım",
+        "organik"
+       ],
+       "bilgi": "Aşınan malzemenin sıkışıp çimentolaşmasıyla tortul, sıcaklık ve basınçla değişime uğrayan kayaçlardan başkalaşım kayaçları oluşur.",
+       "sayfa": 73
+      },
+      {
+       "id": "3.2-09",
+       "tur": "dy",
+       "ifade": "Kayaçların oluşup birbirine dönüşmesi ve mantoda eriyerek tekrar magmaya dönüşmesi şeklindeki sürekli döngüye kayaç döngüsü denir.",
+       "dogru": true,
+       "bilgi": "Kayaç döngüsü (kayaç çevrimi), tektonik süreçlerin yer kabuğundaki önemli etkilerinden biridir.",
+       "sayfa": 73
+      }
+     ]
+    },
+    {
+     "no": "3.3",
+     "ad": "Aşınma, Taşınma ve Biriktirme Süreçlerinin Yeryüzünün Şekillenmesine Etkisi",
+     "kartlar": [
+      {
+       "id": "3.3-01",
+       "tur": "secmeli",
+       "soru": "Ana kaya üzerindeki toprak ve küçük malzemenin su, rüzgâr, canlılar gibi dış etkenlerce aşındırılıp taşınmasına ne ad verilir?",
+       "secenekler": [
+        "Kütle hareketi",
+        "Erozyon",
+        "Sedimantasyon",
+        "Kavlama"
+       ],
+       "dogru": 1,
+       "bilgi": "Arazinin eğimi, bitki örtüsü, malzemenin özellikleri ve insan faaliyetleri erozyonu etkileyen başlıca faktörlerdir.",
+       "sayfa": 77
+      },
+      {
+       "id": "3.3-02",
+       "tur": "dy",
+       "ifade": "Kutuplara yakın bölgelerde ve yüksek dağlarda buzullar, kurak ve yarı kurak bölgelerde ise daha çok rüzgârlar etkili dış kuvvettir.",
+       "dogru": true,
+       "bilgi": "Kıyılarda dalga ve akıntılar, ılıman ve yağışlı bölgelerde akarsular etkilidir.",
+       "sayfa": 78
+      },
+      {
+       "id": "3.3-03",
+       "tur": "bosluk",
+       "cumle": "Akarsuyun yatağını kaynaktan ağıza doğru akabileceği en düşük eğime indirip taban seviyesine yaklaştırmasıyla ___ profiline ulaşılır.",
+       "cevap": "denge",
+       "celdiriciler": [
+        "vadi",
+        "kıyı",
+        "eğim"
+       ],
+       "bilgi": "Akarsuyun taban seviyesi denize dökülüyorsa deniz, göle dökülüyorsa göl seviyesidir.",
+       "sayfa": 79
+      },
+      {
+       "id": "3.3-04",
+       "tur": "eslestir",
+       "yonerge": "Vadi tiplerini özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Çentik vadi",
+         "Derine aşındırmanın etkili olduğu V profilli, tabansız vadi"
+        ],
+        [
+         "Boğaz (yarma) vadi",
+         "Dağ sıralarını enine yaran derin ve dik yamaçlı vadi"
+        ],
+        [
+         "Kanyon vadi",
+         "Yatay tortul tabakalarda basamaklı yamaçlı derin vadi"
+        ],
+        [
+         "Asimetrik vadi",
+         "Yamaç eğimleri belirgin şekilde farklı olan vadi"
+        ]
+       ],
+       "bilgi": "Eğimin iyice azaldığı alanlarda alüvyal tabanlı vadiler oluşur.",
+       "sayfa": 82
+      },
+      {
+       "id": "3.3-05",
+       "tur": "bosluk",
+       "cumle": "Akarsuyun taşıdığı alüvyonları denize döküldüğü yerde biriktirmesiyle kıyıdan açığa doğru büyüyen düzlüklere ___ denir.",
+       "cevap": "delta",
+       "celdiriciler": [
+        "haliç",
+        "lagün",
+        "kumsal"
+       ],
+       "bilgi": "Delta oluşumu için kıyıda derinliğin az olması ve biriktirmeyi önleyecek akıntı ya da gelgit olmaması gerekir.",
+       "sayfa": 83
+      },
+      {
+       "id": "3.3-06",
+       "tur": "eslestir",
+       "yonerge": "Karstik şekilleri tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Lapya",
+         "Eğimli kayaç yüzeylerindeki oluk ve yarıntılar"
+        ],
+        [
+         "Dolin",
+         "Çözünmeyle oluşan çanak şeklindeki çukur"
+        ],
+        [
+         "Polye",
+         "Dolin ve uvalaların birleşmesiyle oluşan geniş çukurluk"
+        ],
+        [
+         "Düden",
+         "Suların yer altına sızdığı oyuk ve çatlaklar"
+        ],
+        [
+         "Traverten",
+         "Kalsiyum karbonatlı suyun yeryüzünde çökelmesi"
+        ]
+       ],
+       "bilgi": "Kireç taşı, dolomit, kaya tuzu ve jips gibi çözünebilen kayaçlarda gerçekleşen şekillenmeye karstlaşma denir.",
+       "sayfa": 83
+      },
+      {
+       "id": "3.3-07",
+       "tur": "secmeli",
+       "soru": "Mağaralarda tavandan damlayan sudaki çözünmüş minerallerin çökelmesiyle oluşan şekil hangisidir?",
+       "secenekler": [
+        "Sarkıt",
+        "Dikit",
+        "Sütun",
+        "Obruk"
+       ],
+       "dogru": 0,
+       "bilgi": "Suyun zemine düştüğü yerde dikit, sarkıt ve dikitlerin birleşmesiyle sütun oluşur.",
+       "sayfa": 84
+      },
+      {
+       "id": "3.3-08",
+       "tur": "secmeli",
+       "soru": "Dağların kıyıya paralel uzandığı, girinti çıkıntının az olduğu ve Türkiye'nin Karadeniz ile Akdeniz kıyılarında görülen kıyı tipi hangisidir?",
+       "secenekler": [
+        "Enine kıyı",
+        "Rialı kıyı",
+        "Dalmaçya kıyı",
+        "Boyuna kıyı"
+       ],
+       "dogru": 3,
+       "bilgi": "Ege kıyılarında dağlar kıyıya dik uzandığı için girintili çıkıntılı enine kıyı tipi görülür.",
+       "sayfa": 86
+      },
+      {
+       "id": "3.3-09",
+       "tur": "dy",
+       "ifade": "Fiyortlu kıyı tipi, Türkiye'nin güneybatı kıyılarında yaygın olarak görülür.",
+       "dogru": false,
+       "bilgi": "Fiyortlar eski buzul vadilerinin deniz altında kalmasıyla oluşur; İzlanda, Norveç, Grönland ve Güney Şili'de görülür.",
+       "sayfa": 86
+      },
+      {
+       "id": "3.3-10",
+       "tur": "bosluk",
+       "cumle": "Buzul vadilerinin en üst kısmında üç tarafı yamaçlarla çevrili kâse şeklindeki çukurlara ___ denir.",
+       "cevap": "sirk",
+       "celdiriciler": [
+        "moren",
+        "drumlin",
+        "sandur"
+       ],
+       "bilgi": "Buzullar V profilli akarsu vadilerini aşındırarak U profilli, tekne görünümlü buzul vadilerine dönüştürür.",
+       "sayfa": 88
+      },
+      {
+       "id": "3.3-11",
+       "tur": "secmeli",
+       "soru": "Rüzgârın havada asılı taşıdığı ince malzemeyi biriktirmesiyle oluşan, büyük oranda kuvars silt tanelerinden oluşan çökeller hangisidir?",
+       "secenekler": [
+        "Kumul",
+        "Moren",
+        "Lös",
+        "Alüvyon"
+       ],
+       "dogru": 2,
+       "bilgi": "Çin, Doğu Avrupa ve Kuzey Amerika'da geniş alanlar lös örtüleriyle kaplıdır; kumullar ise rüzgârın biriktirdiği kum tepeleridir.",
+       "sayfa": 92
+      },
+      {
+       "id": "3.3-12",
+       "tur": "bosluk",
+       "cumle": "Hollanda'da kıyıya setler yapılarak denizden kazanılan ve tarım ile yerleşmede kullanılan arazilere ___ denir.",
+       "cevap": "polder",
+       "celdiriciler": [
+        "lagün",
+        "delta",
+        "haliç"
+       ],
+       "bilgi": "Polderler, insanın yeryüzünü şekillendiren en etkili canlılardan biri olduğunu gösteren örneklerdendir.",
+       "sayfa": 92
+      }
+     ]
+    },
+    {
+     "no": "3.4",
+     "ad": "Yeryüzü Şekilleri ile İlgili Gözlem ve Saha Çalışması",
+     "kartlar": [
+      {
+       "id": "3.4-01",
+       "tur": "bosluk",
+       "cumle": "Coğrafya biliminin laboratuvarı ___ olduğundan gözlem ve saha çalışması araştırma yöntemlerinin temelini oluşturur.",
+       "cevap": "arazi",
+       "celdiriciler": [
+        "kütüphane",
+        "harita",
+        "bilgisayar"
+       ],
+       "bilgi": "Arazide elde edilen bilgi, belge ve görseller coğrafi araştırmaya kaynaklık eden en önemli unsurlardır.",
+       "sayfa": 97
+      },
+      {
+       "id": "3.4-02",
+       "tur": "dy",
+       "ifade": "Saha çalışması, bir ülkenin doğal zenginliklerinin fark edilmesine, korunmasına ve gelecek nesillere aktarılmasına katkı sağlar.",
+       "dogru": true,
+       "bilgi": "Saha çalışması coğrafya bilimine somut katkı sunmanın yanında doğal varlıkların değerinin bilinmesini de sağlar.",
+       "sayfa": 97
+      },
+      {
+       "id": "3.4-03",
+       "tur": "dy",
+       "ifade": "Gözlem ve saha çalışması, coğrafi araştırmalarda yalnızca ikincil ve destekleyici bir yöntemdir.",
+       "dogru": false,
+       "bilgi": "Gözlem ve saha çalışması coğrafi araştırma yöntemlerinin temelini oluşturur.",
+       "sayfa": 97
+      },
+      {
+       "id": "3.4-04",
+       "tur": "secmeli",
+       "soru": "Bir saha çalışmasında gezi güzergâhının belirlenmesi ve taslak gezi planının hazırlanması hangi aşamada yapılır?",
+       "secenekler": [
+        "Arazi çalışması",
+        "Hazırlık ve planlama",
+        "Raporlama ve sunma"
+       ],
+       "dogru": 1,
+       "bilgi": "Saha çalışması hazırlık ve planlama, arazi çalışması ile raporlama ve sunma aşamalarından oluşur.",
+       "sayfa": 97
+      },
+      {
+       "id": "3.4-05",
+       "tur": "secmeli",
+       "soru": "Sahada toplanan bilgilerin çözümlenip öngörülerle birlikte bir ürün dosyasında toplanması saha çalışmasının hangi aşamasıdır?",
+       "secenekler": [
+        "Hazırlık ve planlama",
+        "Arazi çalışması",
+        "Raporlama ve sunma"
+       ],
+       "dogru": 2,
+       "bilgi": "Arazi çalışması aşamasında yer şekilleri gözlemlenir ve oluşum süreçleri hakkında bilgi toplanır.",
+       "sayfa": 97
+      }
+     ]
+    },
+    {
+     "no": "3.5",
+     "ad": "Yeryüzü Şekilleri ile Beşerî Faaliyetler Arasındaki Etkileşim",
+     "kartlar": [
+      {
+       "id": "3.5-01",
+       "tur": "secmeli",
+       "soru": "Nil Vadisi, Büyük Menderes Vadisi ve Çukurova'nın tarih boyunca yoğun nüfuslu olmasının temel nedeni nedir?",
+       "secenekler": [
+        "Maden yataklarının zengin olması",
+        "Tarıma elverişli verimli düzlükler olması",
+        "Yükseltilerinin fazla olması",
+        "Ormanlarla kaplı olması"
+       ],
+       "dogru": 1,
+       "bilgi": "Dağlık bölgeler olumsuz coğrafi koşulları nedeniyle daha seyrek nüfuslu olmuştur.",
+       "sayfa": 99
+      },
+      {
+       "id": "3.5-02",
+       "tur": "eslestir",
+       "yonerge": "Yer şekillerini elverişli oldukları ekonomik faaliyetlerle eşleştir.",
+       "ciftler": [
+        [
+         "Ovalar",
+         "Tarım ve hayvancılık"
+        ],
+        [
+         "Dağlık alanlar",
+         "Ormancılık ve madencilik"
+        ],
+        [
+         "Kıyı bölgeleri",
+         "Balıkçılık, denizcilik ve turizm"
+        ]
+       ],
+       "bilgi": "Yer şekilleri bir bölgedeki ekonomik faaliyetlerin çeşitliliğini belirleyen en önemli etkenlerdendir.",
+       "sayfa": 99
+      },
+      {
+       "id": "3.5-03",
+       "tur": "dy",
+       "ifade": "Dağlık bölgelerde kara ve demir yolu yapımı, tünel ve viyadük gibi maliyeti artıran mühendislik çözümleri gerektirir.",
+       "dogru": true,
+       "bilgi": "Düzlük alanlar kara ve demir yolu yapım maliyetlerini azaltır; kıyılar deniz yolu ulaşımına avantaj sağlar.",
+       "sayfa": 99
+      },
+      {
+       "id": "3.5-04",
+       "tur": "dy",
+       "ifade": "Baraj inşaatları, nehirlerin akışını ve vadilerin yapısını değiştirmez.",
+       "dogru": false,
+       "bilgi": "Baraj inşaatları nehirlerin akışını ve vadilerin yapısını değiştirir; insan faaliyetleri de yeryüzü şekillerini etkiler.",
+       "sayfa": 99
+      },
+      {
+       "id": "3.5-05",
+       "tur": "secmeli",
+       "soru": "Nevşehir'de peribacalarının oyularak konut, ahır ve depo olarak kullanılmasını sağlayan özellik nedir?",
+       "secenekler": [
+        "Volkanik tüfün kolayca işlenebilmesi",
+        "Kireç taşının suda çözünmesi",
+        "Granitin çok dirençli olması",
+        "Alüvyonun verimli olması"
+       ],
+       "dogru": 0,
+       "bilgi": "Arazinin kolay aşınabilmesi yer altı şehirlerinin yapılmasını sağlamış; peribacaları bölgeyi turizm merkezi yapmıştır.",
+       "sayfa": 100
+      },
+      {
+       "id": "3.5-06",
+       "tur": "bosluk",
+       "cumle": "Dağlık bölgelerdeki bazı toplulukların izole yaşamaları, kendilerine özgü ___ özellikler geliştirmelerine yol açmıştır.",
+       "cevap": "kültürel",
+       "celdiriciler": [
+        "tektonik",
+        "iklimsel",
+        "jeolojik"
+       ],
+       "bilgi": "Karadeniz kıyı kuşağındaki dağ köylerinin yemek, müzik, halk oyunu ve mimarisi kendine has özellikler taşır.",
+       "sayfa": 100
+      },
+      {
+       "id": "3.5-07",
+       "tur": "secmeli",
+       "soru": "Verimli alüvyal toprakları sayesinde yoğun nüfuslu olan Nil Vadisi'nde yaşayanlar için tehlike oluşturan durum hangisidir?",
+       "secenekler": [
+        "Volkanik patlamalar",
+        "Çığ düşmesi",
+        "Nil Nehri'nin zaman zaman taşkın yapması",
+        "Buzulların ilerlemesi"
+       ],
+       "dogru": 2,
+       "bilgi": "Yer şekilleri insanlara bir yandan kolaylık ve imkân sağlarken diğer yandan zorluk ve riskler doğurabilir.",
+       "sayfa": 100
+      },
+      {
+       "id": "3.5-08",
+       "tur": "bosluk",
+       "cumle": "Tarım ve şehirleşme, doğal bitki örtüsünün azalmasına ve ___ riskinin artmasına neden olabilir.",
+       "cevap": "erozyon",
+       "celdiriciler": [
+        "deprem",
+        "volkanizma",
+        "tsunami"
+       ],
+       "bilgi": "Beşerî faaliyetler ile yaşanılan bölgenin coğrafi koşulları arasında doğrudan bir etkileşim vardır.",
+       "sayfa": 99
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "ad": "Beşerî Sistemler ve Süreçler",
+   "konular": [
+    {
+     "no": "4.1",
+     "ad": "Yerleşmelerin Kuruluşu ve Gelişimi",
+     "kartlar": [
+      {
+       "id": "4.1-01",
+       "tur": "bosluk",
+       "cumle": "İnsanların barınma, korunma ve sosyoekonomik ihtiyaçlarını sürdürdükleri yerlere ___ denir.",
+       "cevap": "yerleşme",
+       "celdiriciler": [
+        "mekân",
+        "bölge",
+        "konut"
+       ],
+       "bilgi": "İnsanlar doğal koşullara ve ekonomik faaliyetlerine bağlı olarak farklı tür ve özellikte yerleşmeler kurmuştur.",
+       "sayfa": 121
+      },
+      {
+       "id": "4.1-02",
+       "tur": "dy",
+       "ifade": "Paleolitik Çağ'da avcı-toplayıcı insanlar kaya oyukları, mağaralar ve ağaç kovuklarını barınak olarak kullanmıştır.",
+       "dogru": true,
+       "bilgi": "Göçebe yaşayan insan, Neolitik Çağ'da tarım ve hayvancılığa yönelince yerleşik hayata geçmiştir.",
+       "sayfa": 121
+      },
+      {
+       "id": "4.1-03",
+       "tur": "secmeli",
+       "soru": "İnsanın göçebe yaşamdan yerleşik hayata geçmesinde etkili olan gelişme hangisidir?",
+       "secenekler": [
+        "Madenlerin işlenmeye başlanması",
+        "Ticaret yollarının açılması",
+        "Neolitik Çağ'da tarım ve hayvancılığa yönelmesi",
+        "Sanayi Devrimi'nin yaşanması"
+       ],
+       "dogru": 2,
+       "bilgi": "İlk yerleşmelerde iklimin elverişli olması, yeterli su kaynakları ve verimli tarım alanları öne çıkmıştır.",
+       "sayfa": 121
+      },
+      {
+       "id": "4.1-04",
+       "tur": "dy",
+       "ifade": "Sanayi Devrimi ile birlikte yerleşme yeri seçiminde doğal koşulların etkisi tamamen ortadan kalkmıştır.",
+       "dogru": false,
+       "bilgi": "Sanayileşmeyle doğal koşulların yanında beşerî ve ekonomik faaliyetler de yer seçiminde belirleyici hâle gelmiştir.",
+       "sayfa": 122
+      },
+      {
+       "id": "4.1-05",
+       "tur": "secmeli",
+       "soru": "Amazon ve Kongo havzalarında yerleşmelerin seyrek olmasının temel nedeni hangisidir?",
+       "secenekler": [
+        "Su kaynaklarının yetersiz olması",
+        "Gür yağmur ormanlarının ekonomik faaliyetleri ve ulaşımı zorlaştırması",
+        "Yükseltinin çok fazla olması",
+        "Toprakların tuzlu ve çorak olması"
+       ],
+       "dogru": 1,
+       "bilgi": "Bitki örtüsünün çok gür olduğu ormanlık alanlar yerleşme için elverişli değildir.",
+       "sayfa": 123
+      },
+      {
+       "id": "4.1-06",
+       "tur": "dy",
+       "ifade": "Karaların Güney Yarım Küre'de daha fazla yer kaplaması nedeniyle yerleşmelerin büyük kısmı Güney Yarım Küre'dedir.",
+       "dogru": false,
+       "bilgi": "Karalar Kuzey Yarım Küre'de daha fazla yer kapladığı için yerleşmelerin büyük kısmı Kuzey Yarım Küre'dedir.",
+       "sayfa": 123
+      },
+      {
+       "id": "4.1-07",
+       "tur": "secmeli",
+       "soru": "Deniz alanlarının doldurulmasıyla kazanılan alanlarda yeni yerleşmeler kurulması hangi beşerî faktörün etkisine örnektir?",
+       "secenekler": [
+        "Göçler",
+        "Ulaşım olanakları",
+        "Ekonomik faaliyetler",
+        "Bilim ve teknolojideki gelişmeler"
+       ],
+       "dogru": 3,
+       "bilgi": "Bilim ve teknolojideki gelişmeler, olumsuz koşullar nedeniyle tercih edilmeyen alanlarda da yerleşme kurulmasını sağlamıştır.",
+       "sayfa": 124
+      },
+      {
+       "id": "4.1-08",
+       "tur": "eslestir",
+       "yonerge": "Türkiye'deki kır yerleşmesi türlerini tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Kasaba",
+         "Nüfusu 2.000-10.000 arası kır yerleşmesi"
+        ],
+        [
+         "Köy",
+         "Nüfusu 2.000'in altındaki kır yerleşmesi"
+        ],
+        [
+         "Mezra",
+         "Köyden uzakta birkaç ev ve tarım alanından oluşan yerleşme"
+        ],
+        [
+         "Oba",
+         "Konargöçerlerin yazın kurduğu geçici yerleşme"
+        ],
+        [
+         "Kom",
+         "Hayvancılık için köyden uzakta kurulan geçici yerleşme"
+        ]
+       ],
+       "bilgi": "Mahalle ve mezra yıl boyu yaşanılan; yayla, oba ve kom ise geçici köy altı yerleşmeleridir.",
+       "sayfa": 125
+      },
+      {
+       "id": "4.1-09",
+       "tur": "secmeli",
+       "soru": "Türkiye'de nüfus miktarına göre yapılan şehir sınıflandırmasında nüfusu 100 bin ile 1 milyon arasındaki şehirler hangi gruptadır?",
+       "secenekler": [
+        "Küçük şehir",
+        "Orta şehir",
+        "Büyük şehir",
+        "Metropol"
+       ],
+       "dogru": 2,
+       "bilgi": "20 bine kadar küçük, 20-100 bin orta, 100 bin-1 milyon büyük şehir, 1 milyonun üzeri metropoldür.",
+       "sayfa": 125
+      },
+      {
+       "id": "4.1-10",
+       "tur": "bosluk",
+       "cumle": "Türkiye'de yerleşmelerin yoğunluğu genel olarak batıdan doğuya ve kıyıdan ___ gidildikçe azalır.",
+       "cevap": "iç kesimlere",
+       "celdiriciler": [
+        "kıyılara",
+        "batıya",
+        "ovalara"
+       ],
+       "bilgi": "Türkiye'de sıcaklık ve yağış koşullarının elverişli olduğu kıyı kesimlerde yerleşmeler yoğundur.",
+       "sayfa": 126
+      },
+      {
+       "id": "4.1-11",
+       "tur": "dy",
+       "ifade": "Türkiye genç oluşumlu bir arazide yer aldığından ortalama yükseltisi fazla, arazi yapısı engebelidir.",
+       "dogru": true,
+       "bilgi": "Bu durum Türkiye'de kısa mesafelerde yerleşme olanaklarının değişmesine neden olur.",
+       "sayfa": 126
+      },
+      {
+       "id": "4.1-12",
+       "tur": "secmeli",
+       "soru": "Burdur'daki Salda Gölü'nü diğer göllerden ayıran en önemli özellik nedir?",
+       "secenekler": [
+        "Bir krater gölü olması",
+        "Denize bağlı bir lagün olması",
+        "Alüvyon set gölü olması",
+        "Tabanında beyaz renkli hidromanyezit içerikli stromatolitler oluşması"
+       ],
+       "dogru": 3,
+       "bilgi": "Salda Gölü, \"Özel Çevre Koruma Alanı\" ilan edilmiş; stromatolitleri Mars'taki karbonatlı kayaçlarla benzerlik gösterir.",
+       "sayfa": 128
+      }
+     ]
+    },
+    {
+     "no": "4.2",
+     "ad": "Yerleşmelerin Fonksiyonları",
+     "kartlar": [
+      {
+       "id": "4.2-01",
+       "tur": "bosluk",
+       "cumle": "Bir yerleşmenin oluşmasını ve varlığını sürdürmesini sağlayan ekonomik, sosyal ve kültürel amaçlı faktörler o yerleşmenin ___ ifade eder.",
+       "cevap": "fonksiyonlarını",
+       "celdiriciler": [
+        "sınırlarını",
+        "nüfusunu",
+        "konumunu"
+       ],
+       "bilgi": "Yerleşmeler tarım, madencilik, sanayi, ticaret, yönetim, sağlık, ulaşım, turizm, eğitim-kültür ve askerî fonksiyonlara sahip olabilir.",
+       "sayfa": 130
+      },
+      {
+       "id": "4.2-02",
+       "tur": "eslestir",
+       "yonerge": "Yerleşmeleri öne çıkan fonksiyonlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Ereğli (Zonguldak), Johannesburg",
+         "Madencilik"
+        ],
+        [
+         "Gebze, Aliağa",
+         "Sanayi"
+        ],
+        [
+         "Ankara, Washington",
+         "Yönetim"
+        ],
+        [
+         "Bodrum, Kemer",
+         "Turizm"
+        ],
+        [
+         "Gölcük, Polatlı",
+         "Askerî"
+        ]
+       ],
+       "bilgi": "Yerleşmelerin fonksiyonları zaman içinde değişebilir veya bunlara yeni fonksiyonlar eklenebilir.",
+       "sayfa": 130
+      },
+      {
+       "id": "4.2-03",
+       "tur": "secmeli",
+       "soru": "Söke, Çarşamba ve Salihli gibi yerleşmelerin gelişiminde ön plana çıkan fonksiyon hangisidir?",
+       "secenekler": [
+        "Madencilik",
+        "Askerî",
+        "Tarım",
+        "Yönetim"
+       ],
+       "dogru": 2,
+       "bilgi": "Tarım fonksiyonu; tarım, hayvancılık, balıkçılık ve ormancılık gibi birincil ekonomik faaliyetleri kapsar.",
+       "sayfa": 130
+      },
+      {
+       "id": "4.2-04",
+       "tur": "secmeli",
+       "soru": "Türkiye'de en küçük yerel yönetim birimi hangisidir?",
+       "secenekler": [
+        "İlçe",
+        "Köy",
+        "Belediye",
+        "İl özel idaresi"
+       ],
+       "dogru": 1,
+       "bilgi": "Yerel yönetim birimleri il özel idaresi, belediyeler ve köylerdir; seçmenler tarafından seçilerek oluşturulur.",
+       "sayfa": 131
+      },
+      {
+       "id": "4.2-05",
+       "tur": "dy",
+       "ifade": "Türkiye'de il ve ilçeler, merkezî yönetimin taşra teşkilatlarıdır.",
+       "dogru": true,
+       "bilgi": "Merkezî yönetim başkent ve taşra olarak ikiye ayrılır; iller merkezî yönetimin temel örgütlenme birimidir.",
+       "sayfa": 131
+      },
+      {
+       "id": "4.2-06",
+       "tur": "dy",
+       "ifade": "Belediyeler, merkezî yönetimin taşra teşkilatı olup yöneticileri seçimle belirlenmez.",
+       "dogru": false,
+       "bilgi": "Belediyeler yerel yönetim birimleridir ve yerleşmede yaşayan seçmenler tarafından seçilerek oluşturulur.",
+       "sayfa": 131
+      },
+      {
+       "id": "4.2-07",
+       "tur": "secmeli",
+       "soru": "Hamburg, Marsilya, Hong Kong ve İnegöl gibi yerleşmeler hangi fonksiyonla öne çıkar?",
+       "secenekler": [
+        "Ticaret",
+        "Sağlık",
+        "Askerî",
+        "Madencilik"
+       ],
+       "dogru": 0,
+       "bilgi": "Ticaret fonksiyonu, ekonomik kazanç amacıyla ürünlerin alınıp satılması sürecini kapsar.",
+       "sayfa": 131
+      },
+      {
+       "id": "4.2-08",
+       "tur": "dy",
+       "ifade": "Şehir yerleşmelerinde fonksiyonel çeşitlilik, kır yerleşmelerine göre daha azdır.",
+       "dogru": false,
+       "bilgi": "Şehirlerde fonksiyonel çeşitlilik daha fazladır; örneğin Adana tarım şehrinden çok fonksiyonlu bir şehre dönüşmüştür.",
+       "sayfa": 132
+      },
+      {
+       "id": "4.2-09",
+       "tur": "secmeli",
+       "soru": "Üniversiteleri ve rekreasyon alanları nedeniyle Eskişehir'de hâkim olan fonksiyon hangisidir?",
+       "secenekler": [
+        "Askerî",
+        "Madencilik",
+        "Tarım",
+        "Eğitim ve kültür"
+       ],
+       "dogru": 3,
+       "bilgi": "Oxford, Harvard ve Boğaziçi üniversiteleri eğitim; Semerkant-Buhara, Konya ve İstanbul tarihî-kültürel fonksiyon örnekleridir.",
+       "sayfa": 132
+      },
+      {
+       "id": "4.2-10",
+       "tur": "bosluk",
+       "cumle": "Bir yerleşmenin gelişiminde diğerlerine göre daha baskın olan fonksiyona ___ fonksiyon denir.",
+       "cevap": "hâkim",
+       "celdiriciler": [
+        "tali",
+        "geçici",
+        "yerel"
+       ],
+       "bilgi": "Baskın fonksiyon yerleşmenin gelişimine en çok katkı sunan fonksiyondur.",
+       "sayfa": 132
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "ad": "Ekonomik Faaliyetler ve Etkileri",
+   "konular": [
+    {
+     "no": "5.1",
+     "ad": "Ekonomik Faaliyetlerin Özellikleri",
+     "kartlar": [
+      {
+       "id": "5.1-01",
+       "tur": "secmeli",
+       "soru": "Ekonomik faaliyet kollarının tarım, sanayi ve hizmet olarak sektörlere ilk kez ayrılması ne zaman yapılmıştır?",
+       "secenekler": [
+        "1890'lı yıllarda",
+        "1970'li yıllarda",
+        "1940'lı yıllarda",
+        "2000'li yıllarda"
+       ],
+       "dogru": 2,
+       "bilgi": "Günümüzde ekonomik faaliyetler özelliklerine göre birincil, ikincil, üçüncül, dördüncül ve beşincil olmak üzere beş sektörde sınıflandırılabilir.",
+       "sayfa": 145
+      },
+      {
+       "id": "5.1-02",
+       "tur": "dy",
+       "ifade": "Dünyada özellikle son 30 yılda hizmet sektöründen sanayiye doğru yapısal bir dönüşüm yaşanmıştır.",
+       "dogru": false,
+       "bilgi": "Son 30 yılda sanayiden hizmet sektörüne doğru dönüşüm yaşanmış, hizmet sektörü birçok alt kola ayrılmıştır.",
+       "sayfa": 145
+      },
+      {
+       "id": "5.1-03",
+       "tur": "eslestir",
+       "yonerge": "Ekonomik sektörleri kapsadıkları faaliyetlerle eşleştir.",
+       "ciftler": [
+        [
+         "Birincil sektör",
+         "Tarım, hayvancılık, balıkçılık, ormancılık, madencilik"
+        ],
+        [
+         "İkincil sektör",
+         "Sanayi, enerji üretimi, inşaat"
+        ],
+        [
+         "Üçüncül sektör",
+         "Ticaret, eğitim, sağlık, ulaşım, turizm"
+        ],
+        [
+         "Dördüncül sektör",
+         "Bilgi ve enformasyon işleme"
+        ],
+        [
+         "Beşincil sektör",
+         "Üst düzey karar verme"
+        ]
+       ],
+       "bilgi": "Ekonomik faaliyetlerin sektörlere göre sınıflandırılmasında faaliyetin sahip olduğu özellikler belirleyicidir.",
+       "sayfa": 146
+      },
+      {
+       "id": "5.1-04",
+       "tur": "secmeli",
+       "soru": "Yerin üstündeki ve altındaki minerallerin araştırılması, çıkarılması ve işletilmesini kapsayan madencilik hangi sektörde yer alır?",
+       "secenekler": [
+        "Birincil",
+        "İkincil",
+        "Üçüncül",
+        "Dördüncül"
+       ],
+       "dogru": 0,
+       "bilgi": "Birincil sektör, doğal ortamdan temin edilen temel maddelerin (bitki, balık, maden vb.) üretimini yapar.",
+       "sayfa": 146
+      },
+      {
+       "id": "5.1-05",
+       "tur": "secmeli",
+       "soru": "Pamuğun önce ipliğe, sonra kumaşa ve konfeksiyon ürününe dönüştürülmesi hangi ekonomik faaliyet koluna örnektir?",
+       "secenekler": [
+        "Ticaret",
+        "Sanayi (endüstri)",
+        "Tarım",
+        "Finans"
+       ],
+       "dogru": 1,
+       "bilgi": "Sanayi, atölye tipi hafif sanayiden ağır sanayiye kadar geniş bir faaliyet alanını kapsar.",
+       "sayfa": 147
+      },
+      {
+       "id": "5.1-06",
+       "tur": "bosluk",
+       "cumle": "Uranyum ve toryum gibi radyoaktif elementlerden elde edilen enerjiye ___ enerji denir.",
+       "cevap": "nükleer",
+       "celdiriciler": [
+        "termik",
+        "jeotermal",
+        "hidroelektrik"
+       ],
+       "bilgi": "Akarsulardan hidroelektrik, sıcak sulardan jeotermal, petrol, kömür ve doğal gazdan termik enerji elde edilir.",
+       "sayfa": 147
+      },
+      {
+       "id": "5.1-07",
+       "tur": "dy",
+       "ifade": "İnşaat, ikincil sektörde yer alan ekonomik faaliyetlerdendir.",
+       "dogru": true,
+       "bilgi": "İnşaat; barınma, ulaşım, iletişim, sanayi, enerji ve ticaretin altyapısını oluşturan yapıların inşasını konu alır.",
+       "sayfa": 147
+      },
+      {
+       "id": "5.1-08",
+       "tur": "secmeli",
+       "soru": "Yönetim danışmanlığı, yazılım hizmetleri, coğrafi bilgi sistemleri ve AR-GE danışmanlığı hangi sektörde yer alır?",
+       "secenekler": [
+        "Beşincil",
+        "Üçüncül",
+        "İkincil",
+        "Dördüncül"
+       ],
+       "dogru": 3,
+       "bilgi": "Dördüncül sektör, bilgi ve enformasyon işleme faaliyetlerini kapsar ve daha çok üretici odaklı hizmetler sunar.",
+       "sayfa": 150
+      },
+      {
+       "id": "5.1-09",
+       "tur": "dy",
+       "ifade": "Beşincil sektör; yöneticiler, hükûmet yetkilileri ve bilim insanlarının aldığı üst düzey stratejik kararları kapsar.",
+       "dogru": true,
+       "bilgi": "Beşincil sektörde çalışanların eğitim seviyesi genellikle yüksektir ve alınan kararların uzun vadeli etkileri olur.",
+       "sayfa": 150
+      },
+      {
+       "id": "5.1-10",
+       "tur": "bosluk",
+       "cumle": "Bankacılık, sigortacılık ve borsa gibi alanlardaki iş ve işlemleri kapsayan hizmetlere ___ denir.",
+       "cevap": "finans",
+       "celdiriciler": [
+        "ulaştırma",
+        "iletişim",
+        "imalat"
+       ],
+       "bilgi": "Güçlü ve güvenilir finans sistemine sahip ülkeler daha fazla yatırım çekebilir.",
+       "sayfa": 148
+      },
+      {
+       "id": "5.1-11",
+       "tur": "bosluk",
+       "cumle": "İnsan gücüne ihtiyacın fazla olması nedeniyle pek çok ülkede en çok kişinin çalıştığı ve hizmet sektörü de denilen sektör ___ sektördür.",
+       "cevap": "üçüncül",
+       "celdiriciler": [
+        "birincil",
+        "ikincil",
+        "beşincil"
+       ],
+       "bilgi": "Öğretmen, doktor, polis, avukat, satış elemanı, şoför ve banka çalışanları üçüncül sektörde yer alır.",
+       "sayfa": 148
+      }
+     ]
+    },
+    {
+     "no": "5.2",
+     "ad": "Ekonomik Sektörler ve Gelişmişlik",
+     "kartlar": [
+      {
+       "id": "5.2-01",
+       "tur": "dy",
+       "ifade": "Gelişmişlik seviyesi yüksek ülkelerde birincil sektörde çalışanların yüzdesi düşük, ikincil ve üçüncül sektörlerdekilerin yüzdesi yüksektir.",
+       "dogru": true,
+       "bilgi": "Gelişmiş ülkelerde kişi başına millî gelir, enerji ve gıda tüketimi yüksek; nüfus artış hızı düşüktür.",
+       "sayfa": 153
+      },
+      {
+       "id": "5.2-02",
+       "tur": "secmeli",
+       "soru": "Ekonomik açıdan az gelişmiş ülkeler için hangisi söylenebilir?",
+       "secenekler": [
+        "Kişi başına enerji tüketimi fazladır",
+        "Beklenen yaşam süresi uzundur",
+        "Genellikle ham madde satar, işlenmiş madde alır",
+        "Kentli nüfus yüzdesi yüksektir"
+       ],
+       "dogru": 2,
+       "bilgi": "Az gelişmiş ülkelerde birincil sektörde çalışanların oranı ve nüfus artış hızı yüksek, okuryazar yüzdesi düşüktür.",
+       "sayfa": 153
+      },
+      {
+       "id": "5.2-03",
+       "tur": "bosluk",
+       "cumle": "Belirli bir dönemde bir ülkenin coğrafi sınırları içinde üretilen bütün mal ve hizmetlerin piyasa değerine ___ denir.",
+       "cevap": "gayrisafi yurt içi hasıla",
+       "celdiriciler": [
+        "gayrisafi millî hasıla",
+        "kişi başına millî gelir",
+        "dış ticaret hacmi"
+       ],
+       "bilgi": "Gayrisafi millî hasıla (GSMH) ise ülke vatandaşlarınca üretilen nihai mal ve hizmetlerin piyasa değeridir.",
+       "sayfa": 153
+      },
+      {
+       "id": "5.2-04",
+       "tur": "dy",
+       "ifade": "Gayrisafi millî hasıla (GSMH), belli bir dönemde ülke vatandaşlarınca üretilen nihai mal ve hizmetlerin piyasa değeridir.",
+       "dogru": true,
+       "bilgi": "GSYİH coğrafi sınırlara, GSMH ise ülke vatandaşlarının üretimine dayanır.",
+       "sayfa": 227
+      },
+      {
+       "id": "5.2-05",
+       "tur": "secmeli",
+       "soru": "Birincil sektör ürünlerinin katma değerinin düşük olması hangi sonuca yol açmıştır?",
+       "secenekler": [
+        "Birincil sektörde çalışan sayısının azalması",
+        "Birincil sektörün GSYİH'deki payının düşük olması",
+        "Sanayi ürünlerinin ucuzlaması",
+        "Hizmet sektörünün küçülmesi"
+       ],
+       "dogru": 1,
+       "bilgi": "ABD, Almanya, Japonya gibi gelişmiş ülkelerde birincil sektörün GSYİH'deki payı düşük; Kamerun, Gana, Nijer gibi ülkelerde yüksektir.",
+       "sayfa": 153
+      },
+      {
+       "id": "5.2-06",
+       "tur": "dy",
+       "ifade": "İstatistiki verilerde dördüncül ve beşincil sektörlere ait veriler ayrı gösterilmez, üçüncül sektöre dâhil edilir.",
+       "dogru": true,
+       "bilgi": "Bu nedenle istatistiklerde çalışan nüfus genellikle birincil, ikincil ve üçüncül sektörlere göre verilir.",
+       "sayfa": 153
+      },
+      {
+       "id": "5.2-07",
+       "tur": "secmeli",
+       "soru": "Birincil sektörün gayrisafi yurt içi hasıladaki yüzdesinin yüksek olduğu ülkelere hangisi örnektir?",
+       "secenekler": [
+        "Almanya ve Japonya",
+        "İsviçre ve İngiltere",
+        "ABD ve Almanya",
+        "Nijer ve Ruanda"
+       ],
+       "dogru": 3,
+       "bilgi": "Çalışan nüfusun sektörlere dağılışı ile ülkelerin gelişmişlik seviyesi arasında güçlü bir ilişki vardır.",
+       "sayfa": 153
+      }
+     ]
+    },
+    {
+     "no": "5.3",
+     "ad": "Türkiye Ekonomisinin Sektörel Dağılımı",
+     "kartlar": [
+      {
+       "id": "5.3-01",
+       "tur": "secmeli",
+       "soru": "Cumhuriyet'in ilk ekonomi politikaları hangi toplantıyla şekillenmiştir?",
+       "secenekler": [
+        "Sivas Kongresi",
+        "Erzurum Kongresi",
+        "İzmir İktisat Kongresi",
+        "Lozan Konferansı"
+       ],
+       "dogru": 2,
+       "bilgi": "İzmir İktisat Kongresi'yle liberal bir ekonomi modeli belirlenmiş; Lozan'ın ticari hükümleri de ekonomiyi şekillendirmiştir.",
+       "sayfa": 157
+      },
+      {
+       "id": "5.3-02",
+       "tur": "secmeli",
+       "soru": "Türkiye'de ekonomik alanda devletçi politikaların uygulanmasına hangi gelişmeler neden olmuştur?",
+       "secenekler": [
+        "Lozan Antlaşması ve Kurtuluş Savaşı",
+        "1929 Dünya Ekonomik Bunalımı ve İkinci Dünya Savaşı",
+        "1980 sonrası ihracat odaklı model",
+        "Sanayi Devrimi ve Birinci Dünya Savaşı"
+       ],
+       "dogru": 1,
+       "bilgi": "İkinci Dünya Savaşı sonrası Türkiye yeniden liberal ekonomi politikalarına geçmiştir.",
+       "sayfa": 157
+      },
+      {
+       "id": "5.3-03",
+       "tur": "bosluk",
+       "cumle": "Türkiye ekonomisi 1980'li yıllardan itibaren ___ odaklı yeni bir ekonomi modeline geçmiştir.",
+       "cevap": "ihracat",
+       "celdiriciler": [
+        "ithalat",
+        "tarım",
+        "kamu"
+       ],
+       "bilgi": "Ekonomideki değişimler çalışan nüfusun sektörlere dağılımına da yansımıştır.",
+       "sayfa": 157
+      },
+      {
+       "id": "5.3-04",
+       "tur": "dy",
+       "ifade": "1990 yılında Türkiye'de çalışan nüfusun en büyük kısmı üçüncül sektörde çalışmaktaydı.",
+       "dogru": false,
+       "bilgi": "1990'da çalışan nüfusun %46,8'i birincil, %20,3'ü ikincil, %32,9'u üçüncül sektördeydi.",
+       "sayfa": 157
+      },
+      {
+       "id": "5.3-05",
+       "tur": "secmeli",
+       "soru": "2025 verilerine göre Türkiye'de çalışan nüfusun en büyük payı hangi sektördedir?",
+       "secenekler": [
+        "Üçüncül sektör",
+        "Birincil sektör",
+        "İkincil sektör"
+       ],
+       "dogru": 0,
+       "bilgi": "2025'te Türkiye'de çalışanların %14,6'sı birincil, %27,6'sı ikincil, %57,8'i üçüncül sektördedir.",
+       "sayfa": 157
+      },
+      {
+       "id": "5.3-06",
+       "tur": "secmeli",
+       "soru": "İkinci Dünya Savaşı sonrasında Türkiye hangi ekonomi politikasına yeniden geçmiştir?",
+       "secenekler": [
+        "Devletçi ekonomi",
+        "Kapalı ekonomi",
+        "Planlı karma ekonomi",
+        "Liberal ekonomi"
+       ],
+       "dogru": 3,
+       "bilgi": "Türkiye 1923 sonrası liberal, 1929 bunalımı ve savaş yıllarında devletçi, savaş sonrası yeniden liberal politikalar izlemiştir.",
+       "sayfa": 157
+      },
+      {
+       "id": "5.3-07",
+       "tur": "dy",
+       "ifade": "1990'dan 2025'e Türkiye'de birincil sektörde çalışanların oranı azalırken üçüncül sektörde çalışanların oranı artmıştır.",
+       "dogru": true,
+       "bilgi": "Birincil sektörün payı %46,8'den %14,6'ya inmiş, üçüncül sektörün payı %32,9'dan %57,8'e çıkmıştır.",
+       "sayfa": 157
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "ad": "Afetler ve Sürdürülebilir Çevre",
+   "konular": [
+    {
+     "no": "6.1",
+     "ad": "Afetlerle Mücadelede İyi Uygulama Örnekleri",
+     "kartlar": [
+      {
+       "id": "6.1-01",
+       "tur": "dy",
+       "ifade": "Gerçekleşmesi önlenemeyen deprem, tsunami ve kasırga gibi afetlerde zararı en aza indirmeye yönelik önlemler ön plandadır.",
+       "dogru": true,
+       "bilgi": "Erken uyarı sistemleri, yıkımı azaltacak mimari ve doğru yer seçimi bu tür afetlerde zarar azaltma önlemleridir.",
+       "sayfa": 171
+      },
+      {
+       "id": "6.1-02",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi afetin gerçekleşmesini önlemeye yönelik bir tedbirdir?",
+       "secenekler": [
+        "Tsunami erken uyarı sistemi kurulması",
+        "Depreme dayanıklı mimari uygulanması",
+        "Dere yatağı ıslah çalışmaları yapılması",
+        "Yer altı sığınaklarının kullanılması"
+       ],
+       "dogru": 2,
+       "bilgi": "Su baskını, heyelan, orman yangını ve kuraklıkta afeti önlemeye yönelik tedbirler (ıslah, istinat duvarı vb.) ön plandadır.",
+       "sayfa": 171
+      },
+      {
+       "id": "6.1-03",
+       "tur": "eslestir",
+       "yonerge": "Afetleri alınabilecek başlıca tedbirlerle eşleştir.",
+       "ciftler": [
+        [
+         "Heyelan (Petropolis, 2022)",
+         "Dik yamaçlara sağlam istinat duvarları yapılması"
+        ],
+        [
+         "Su baskını (Rio Grande do Sul, 2024)",
+         "Akarsu yataklarına imarın yasaklanması"
+        ],
+        [
+         "Kasırga (Katie, 2023)",
+         "Erken uyarı ve yer altı sığınaklarının kullanımı"
+        ],
+        [
+         "Orman yangını (Muğla, 2021)",
+         "Yangın uyarı sistemleri ve hızlı müdahale ekipleri"
+        ]
+       ],
+       "bilgi": "Dünyanın farklı bölgelerinde farklı afetler yaşandığından afetlerle mücadelede farklı yöntemler geliştirilmiştir.",
+       "sayfa": 172
+      },
+      {
+       "id": "6.1-04",
+       "tur": "secmeli",
+       "soru": "2011'de Japonya'da Töhoku açıklarında meydana gelen ve büyük bir tsunamiye yol açan depremin büyüklüğü kaçtır?",
+       "secenekler": [
+        "9,1",
+        "7,4",
+        "8,3",
+        "6,6"
+       ],
+       "dogru": 0,
+       "bilgi": "Töhoku depremi sonrası boyu 35-40 metreye varan dalgalar oluşmuş, yaklaşık 20 bin kişi hayatını kaybetmiştir.",
+       "sayfa": 173
+      },
+      {
+       "id": "6.1-05",
+       "tur": "dy",
+       "ifade": "2011 Fukushima Daiichi Nükleer Santral kazası, bir orman yangınının santrale ulaşmasıyla meydana gelmiştir.",
+       "dogru": false,
+       "bilgi": "Kaza, deprem sonrası tsunamiyle santralde sıcaklık ve basıncın artması sonucu oluşan hidrojen patlamasına bağlıdır.",
+       "sayfa": 173
+      },
+      {
+       "id": "6.1-06",
+       "tur": "bosluk",
+       "cumle": "Bitki ve hayvan varlığının büyük kısmını barındıran doğal ortam ___ olarak adlandırılır.",
+       "cevap": "yeşil vatan",
+       "celdiriciler": [
+        "mavi vatan",
+        "gök vatan",
+        "ana vatan"
+       ],
+       "bilgi": "Afetler şehir, yol ve sanayi tesislerinin yanında yeşil vatan olarak adlandırılan doğal ortama da büyük zararlar verebilir.",
+       "sayfa": 174
+      },
+      {
+       "id": "6.1-07",
+       "tur": "secmeli",
+       "soru": "2003'te 6,6 büyüklüğünde meydana gelen ve yaklaşık 26 bin kişinin hayatını kaybettiği Bem depremi hangi ülkede yaşanmıştır?",
+       "secenekler": [
+        "Irak",
+        "İran",
+        "Pakistan",
+        "Afganistan"
+       ],
+       "dogru": 1,
+       "bilgi": "8,3 büyüklüğündeki 2015 Şili depreminde 13 kişi ölürken Bem'de çok daha fazla kayıp yaşanması mücadele stratejilerinin önemini gösterir.",
+       "sayfa": 171
+      },
+      {
+       "id": "6.1-08",
+       "tur": "dy",
+       "ifade": "Gaziantep Büyükşehir Belediyesinin afete dirençli toplum uygulaması, CBS tabanlı bir risk haritası oluşturmayı amaçlar.",
+       "dogru": true,
+       "bilgi": "Bu sistemde şehirdeki tüm olaylar ilçe ve mahalle bazında haritaya işlenerek hızlı ve etkin müdahale hedeflenir.",
+       "sayfa": 175
+      }
+     ]
+    },
+    {
+     "no": "6.2",
+     "ad": "Afetlere Karşı Dirençli Yaşam Alanları",
+     "kartlar": [
+      {
+       "id": "6.2-01",
+       "tur": "bosluk",
+       "cumle": "İnsanların ve kentlerin yaşamlarını sürdürebilmeleri ve işlevlerini yerine getirebilmeleri için gereksinim duydukları alana ___ denir.",
+       "cevap": "yaşam alanı",
+       "celdiriciler": [
+        "habitat",
+        "yerleşme",
+        "bölge"
+       ],
+       "bilgi": "Artan nüfus ve hızlı şehirleşme; plansız şehirleşme, su ihtiyacı ve ekolojik dengenin bozulması gibi sorunlara yol açmıştır.",
+       "sayfa": 180
+      },
+      {
+       "id": "6.2-02",
+       "tur": "secmeli",
+       "soru": "Afetlerle mücadelede şehirlerin çevresel risklerle mücadele edebilme kapasitesini ifade eden kavram hangisidir?",
+       "secenekler": [
+        "Maruziyet",
+        "Direnç",
+        "Risk",
+        "Tehlike"
+       ],
+       "dogru": 1,
+       "bilgi": "Dirençli şehirler, olası her türlü doğal ya da beşerî afete karşı hazır olan şehirlerdir.",
+       "sayfa": 180
+      },
+      {
+       "id": "6.2-03",
+       "tur": "eslestir",
+       "yonerge": "OECD'ye göre dirençli şehir özelliklerini tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Sağlamlık",
+         "Yapının şok ve stres karşısında işlevini sürdürme gücü"
+        ],
+        [
+         "Yedeklilik",
+         "Öngörülemeyen afette acil durum kaynağının devreye alınması"
+        ],
+        [
+         "Esneklik",
+         "Değişime hazırlanma ve hızla yanıt verme kapasitesi"
+        ],
+        [
+         "Kapsayıcılık ve entegrasyon",
+         "Tüm paydaşların politikalara aktif katılımı"
+        ],
+        [
+         "Kaynaklara sahip olma",
+         "Yerel hizmetlerin hızla eski hâline getirilmesi"
+        ]
+       ],
+       "bilgi": "Dirençlilik; kentsel zorluklara hazırlıklı olmayı, uyum sağlamayı ve bunlardan kurtulmayı içeren bir plan döngüsüdür.",
+       "sayfa": 180
+      },
+      {
+       "id": "6.2-04",
+       "tur": "dy",
+       "ifade": "OECD'nin dirençli şehirler çalışmasında Türkiye'den Antalya ve Bursa pilot şehir olarak seçilmiştir.",
+       "dogru": true,
+       "bilgi": "Lizbon, Kyoto, Kobe, Tampere ve Oslo da pilot şehirlerdendir; çalışmalar sonucunda 2016'da Dirençli Şehirler Raporu hazırlanmıştır.",
+       "sayfa": 180
+      },
+      {
+       "id": "6.2-05",
+       "tur": "dy",
+       "ifade": "Yedeklilik, kriz anında tüm yerel hizmetlerin hızla eski hâline getirilmesi kabiliyetidir.",
+       "dogru": false,
+       "bilgi": "Bu tanım kaynaklara sahip olmadır; yedeklilik ise öngörülemeyen afette acil durum kaynağının devreye alınmasıdır.",
+       "sayfa": 180
+      },
+      {
+       "id": "6.2-06",
+       "tur": "bosluk",
+       "cumle": "Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü, 2006 yılında UNESCO tarafından Ulusal ___ Uyarı Merkezi olarak tanımlanmıştır.",
+       "cevap": "Tsunami",
+       "celdiriciler": [
+        "Deprem",
+        "Sel",
+        "Fırtına"
+       ],
+       "bilgi": "2017 Bodrum-Kos ve 2020 Sisam depremleri sonrası Türkiye kıyılarında tsunamiler gözlenmiştir.",
+       "sayfa": 182
+      },
+      {
+       "id": "6.2-07",
+       "tur": "secmeli",
+       "soru": "Türkiye'de Tsunami Tahmin Noktaları için hazırlanan tsunami-baskın haritalarının entegre edildiği web tabanlı sistem hangisidir?",
+       "secenekler": [
+        "AYDES",
+        "TAMP",
+        "Afet Risk Azaltma Sistemi (ARAS)",
+        "J-Alert"
+       ],
+       "dogru": 2,
+       "bilgi": "2020'de İstanbul Büyükşehir Belediyesi ve ODTÜ kıyı ilçelerinin tsunami risk analizini yapmıştır.",
+       "sayfa": 182
+      },
+      {
+       "id": "6.2-08",
+       "tur": "dy",
+       "ifade": "2011 Töhoku depremi sonrası Japonya'da tsunami erken uyarı sistemi 10 dakikadan kısa sürede gerçek zamanlı uyarı verebilir hâle getirilmiştir.",
+       "dogru": true,
+       "bilgi": "Japonya'da 2.000 km'lik kıyı boyunca kıyı yapıları ve kot yükseltme çalışmaları da yapılmıştır.",
+       "sayfa": 183
+      },
+      {
+       "id": "6.2-09",
+       "tur": "secmeli",
+       "soru": "2011 sonrası Japonya'da afet anını anımsatan hasarlı binaların yıkılmadan bırakılması ve müzeler yapılmasının amacı nedir?",
+       "secenekler": [
+        "Yıkım maliyetinden kaçınmak",
+        "Turizm geliri elde etmek",
+        "Bölgede yeni yapı yasağı uygulamak",
+        "Afetlerin unutulmaması için sosyal farkındalık oluşturmak"
+       ],
+       "dogru": 3,
+       "bilgi": "Tsunami baskın alanları ve suyun ulaştığı yükseklikler de herkesin görebileceği yerlere işaretlenmiştir.",
+       "sayfa": 183
+      }
+     ]
+    },
+    {
+     "no": "6.3",
+     "ad": "Afetlerden Korunma",
+     "kartlar": [
+      {
+       "id": "6.3-01",
+       "tur": "secmeli",
+       "soru": "Afet öncesi risk ve zarar azaltma çalışmalarının başlıcaları hangi seçenekte verilmiştir?",
+       "secenekler": [
+        "Arama kurtarma, enkaz kaldırma, geçici barınma",
+        "Tehlike ve risklerin belirlenmesi, erken uyarı, yapısal zarar azaltma",
+        "Hasar tespiti, kalıcı konut, ekonomik destek",
+        "Yardım toplama, tahliye, psikososyal destek"
+       ],
+       "dogru": 1,
+       "bilgi": "Afet yönetimi çalışmalarının en önemli kısmı afet öncesi risk ve zarar azaltmaya yöneliktir.",
+       "sayfa": 185
+      },
+      {
+       "id": "6.3-02",
+       "tur": "dy",
+       "ifade": "Bir bölgedeki potansiyel tehlike ve risklerin belirlenmesi, afet yönetiminin ilk ve en önemli adımlarından biridir.",
+       "dogru": true,
+       "bilgi": "Risk durumunun belirlenmesinde coğrafi konum, yer şekilleri, jeolojik yapı, iklim ve binaların yapısı belirleyicidir.",
+       "sayfa": 185
+      },
+      {
+       "id": "6.3-03",
+       "tur": "eslestir",
+       "yonerge": "Erken uyarı sistemlerini kullanıldıkları yerlerle eşleştir.",
+       "ciftler": [
+        [
+         "J-Alert Ulusal Erken Uyarı Sistemi",
+         "Japonya"
+        ],
+        [
+         "Su Baskını Erken Uyarı Sistemi (FLEWS)",
+         "Hindistan"
+        ],
+        [
+         "Pasifik Erken Uyarı Sistemi",
+         "Büyük Okyanus kıyısındaki 26 ülke"
+        ]
+       ],
+       "bilgi": "Afeti önceden tespit edip kurumları ve vatandaşları en kısa sürede haberdar etmek zararları azaltır.",
+       "sayfa": 185
+      },
+      {
+       "id": "6.3-04",
+       "tur": "secmeli",
+       "soru": "Türkiye'de en fazla can ve mal kaybına yol açan, etkileri en fazla olan afet türü hangisidir?",
+       "secenekler": [
+        "Heyelan",
+        "Çığ",
+        "Deprem",
+        "Kuraklık"
+       ],
+       "dogru": 2,
+       "bilgi": "Deprem riski yüksek yerlerde zemini sağlam alanların imara açılması deprem zararlarını azaltan önlemlerdendir.",
+       "sayfa": 186
+      },
+      {
+       "id": "6.3-05",
+       "tur": "dy",
+       "ifade": "Binlerce binanın bulunduğu büyük şehirleri deprem riski az bölgelere taşımak kolay ve yaygın bir uygulamadır.",
+       "dogru": false,
+       "bilgi": "Büyük şehirleri taşıma imkânı yok denecek kadar azdır; bu yerlerde bina güçlendirme ve kentsel dönüşüm yapılır.",
+       "sayfa": 186
+      },
+      {
+       "id": "6.3-06",
+       "tur": "bosluk",
+       "cumle": "Depreme dayanıksız binaların yıkılarak yerine depreme dayanıklı konutların yapılmasına ___ dönüşüm denir.",
+       "cevap": "kentsel",
+       "celdiriciler": [
+        "kırsal",
+        "bölgesel",
+        "mekânsal"
+       ],
+       "bilgi": "Yeni binaların depreme dayanıklı yapılması ve dayanıksız binaların güçlendirilmesi yapısal riskleri azaltır.",
+       "sayfa": 186
+      },
+      {
+       "id": "6.3-07",
+       "tur": "secmeli",
+       "soru": "Binalardaki büyük, ağır ve tekerlekli eşyalar ile raflardaki malzemelerin deprem anında oluşturduğu tehlikelere ne ad verilir?",
+       "secenekler": [
+        "Yapısal riskler",
+        "Zemin riskleri",
+        "İkincil afetler",
+        "Yapısal olmayan riskler"
+       ],
+       "dogru": 3,
+       "bilgi": "Büyük eşyaların duvara sabitlenmesi ve yatakların pencere önüne konulmaması gibi basit önlemler can kaybını önler.",
+       "sayfa": 187
+      },
+      {
+       "id": "6.3-08",
+       "tur": "dy",
+       "ifade": "Açık raflarda ağır ve sert cisimlerin bulundurulmaması, yapısal olmayan riskleri azaltan basit tedbirlerdendir.",
+       "dogru": true,
+       "bilgi": "Yapısal olmayan elemanlar yer değiştirme eğilimleri nedeniyle depremde yaralanma ve ölümlere yol açabilir.",
+       "sayfa": 187
+      },
+      {
+       "id": "6.3-09",
+       "tur": "bosluk",
+       "cumle": "Bir bölgede afetlerden korunma uygulamalarındaki temel belirleyici etken ___ özellikleridir.",
+       "cevap": "mekânın",
+       "celdiriciler": [
+        "bütçenin",
+        "yönetimin",
+        "nüfusun"
+       ],
+       "bilgi": "Mekânın coğrafi özellikleri, yerleşmenin mimari durumu ve binaların yapısı başlıca mekânsal özelliklerdir.",
+       "sayfa": 187
+      }
+     ]
+    },
+    {
+     "no": "6.4",
+     "ad": "Afet Bilinci",
+     "kartlar": [
+      {
+       "id": "6.4-01",
+       "tur": "bosluk",
+       "cumle": "Bireylerin ve toplumun afet risklerini en aza indirmeye yönelik bilişsel, duyuşsal ve psikomotor bilgi ve becerilere ilişkin farkındalık düzeyine ___ denir.",
+       "cevap": "afet bilinci",
+       "celdiriciler": [
+        "afet yönetimi",
+        "maruziyet",
+        "risk analizi"
+       ],
+       "bilgi": "Afet bilinci güvenli yaşam kültürünün bir parçasıdır.",
+       "sayfa": 190
+      },
+      {
+       "id": "6.4-02",
+       "tur": "dy",
+       "ifade": "Afet bilinci yalnızca afet öncesi dönemi kapsar; afet esnası ve sonrasındaki süreçlerle ilgisi yoktur.",
+       "dogru": false,
+       "bilgi": "Afet bilinci; afet esnası ve sonrasında doğru kararlar verilmesini ve iyileştirme çalışmalarına etkin katılımı da kapsar.",
+       "sayfa": 190
+      },
+      {
+       "id": "6.4-03",
+       "tur": "secmeli",
+       "soru": "UNISDR'ye göre \"afetlere hazırlık\" kavramı nasıl tanımlanır?",
+       "secenekler": [
+        "Afet sonrası yalnızca enkaz kaldırma çalışmaları",
+        "Afet bölgesine dış yardım gönderilmesi",
+        "Tehlikeli olayların sonuçlarını tahmin, müdahale ve kurtulma için geliştirilen bilgi ve kapasite",
+        "Afetin yaşandığı yerin haritalanması"
+       ],
+       "dogru": 2,
+       "bilgi": "UNISDR, Birleşmiş Milletler Afetlerin Azaltılması Uluslararası Stratejisi'dir.",
+       "sayfa": 190
+      },
+      {
+       "id": "6.4-04",
+       "tur": "secmeli",
+       "soru": "Afetlere dirençli yaşam alanlarının oluşturulmasında ön koşul olarak gösterilen durum hangisidir?",
+       "secenekler": [
+        "Toplumlara afet bilinci farkındalığının kazandırılması",
+        "Tüm şehirlerin yeniden inşa edilmesi",
+        "Kıyı yerleşmelerinin boşaltılması",
+        "Uluslararası yardım fonu kurulması"
+       ],
+       "dogru": 0,
+       "bilgi": "Afet bilinci, bireysel ve toplumsal düzeyde afetlere hazır olma ve dirençli toplum oluşturmada önemli bir adımdır.",
+       "sayfa": 190
+      },
+      {
+       "id": "6.4-05",
+       "tur": "dy",
+       "ifade": "Afet bilinci kazanmış toplumlar, afet esnasında hayat kurtarma ve toplumsal dayanışma gibi süreçlerde daha koordineli hareket eder.",
+       "dogru": true,
+       "bilgi": "Afet eğitimi, acil durum planları, afet çantası hazırlama ve toplumsal katılım afet bilincinin oluşum adımlarıdır.",
+       "sayfa": 190
+      },
+      {
+       "id": "6.4-06",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi afet hazırlığı kapsamında yer alan çalışmalardandır?",
+       "secenekler": [
+        "Hasarlı binaların yeniden inşası",
+        "Ekipman ve malzemelerin stoklanması",
+        "Kalıcı konutların teslim edilmesi",
+        "Ekonomik hayatın normale döndürülmesi"
+       ],
+       "dogru": 1,
+       "bilgi": "Afet hazırlığında risk analizi, erken uyarı, acil durum planlaması, stoklama, tahliye, eğitim ve tatbikatlar yer alır.",
+       "sayfa": 190
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "ad": "Bölgeler, Ülkeler ve Küresel Bağlantılar",
+   "konular": [
+    {
+     "no": "7.1",
+     "ad": "Türk Kültürünün Mekânsal Özellikleri",
+     "kartlar": [
+      {
+       "id": "7.1-01",
+       "tur": "secmeli",
+       "soru": "Her yıl bir şehri \"Türk Dünyası Kültür Başkenti\" olarak seçen Uluslararası Türk Kültürü Teşkilatı (TÜRKSOY) hangi yıl kurulmuştur?",
+       "secenekler": [
+        "2009",
+        "1993",
+        "1983",
+        "2001"
+       ],
+       "dogru": 1,
+       "bilgi": "TÜRKSOY; Azerbaycan, Kazakistan, Kırgızistan, Özbekistan, Türkmenistan ve Türkiye tarafından 1993'te kurulmuştur.",
+       "sayfa": 203
+      },
+      {
+       "id": "7.1-02",
+       "tur": "bosluk",
+       "cumle": "Bir kültürün doğduğu, ortaya çıktığı ve dünyaya yayıldığı yere ___ denir.",
+       "cevap": "kültür ocağı",
+       "celdiriciler": [
+        "kültürel miras",
+        "kültür bölgesi",
+        "medeniyet havzası"
+       ],
+       "bilgi": "Türk kültür ocağı Orta Asya'dır; bu bölge Türkistan ya da Türkeli olarak da adlandırılır.",
+       "sayfa": 204
+      },
+      {
+       "id": "7.1-03",
+       "tur": "secmeli",
+       "soru": "Bilim insanlarına göre Türklerin ilk ana yurdunun merkezi kabul edilen dağlar hangisidir?",
+       "secenekler": [
+        "Ural Dağları",
+        "Kingan Dağları",
+        "Altay Dağları",
+        "Hindikuş Dağları"
+       ],
+       "dogru": 2,
+       "bilgi": "Ana yurt; doğuda Kingan, kuzeyde Sibirya ormanları, güneyde Amu Derya, Hindikuş ve Altın dağları, batıda Ural ve Hazar arasındadır.",
+       "sayfa": 204
+      },
+      {
+       "id": "7.1-04",
+       "tur": "eslestir",
+       "yonerge": "Türklerin kitlesel göçlerini dönem ve yönleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Sakalar (İskitler)",
+         "MÖ 8. yüzyılda Karadeniz'in kuzeyine"
+        ],
+        [
+         "Hunlar",
+         "MS 4. yüzyılda Doğu Avrupa'ya (Kavimler Göçü)"
+        ],
+        [
+         "Oğuzlar",
+         "MS 10-13. yüzyıllarda İran, Kafkasya ve Anadolu'ya"
+        ]
+       ],
+       "bilgi": "Türkistan'ın kuraklaşması, kaynakların yetersizliği ile Çin ve Moğollarla çatışmalar göçlerin başlıca nedenleridir.",
+       "sayfa": 204
+      },
+      {
+       "id": "7.1-05",
+       "tur": "dy",
+       "ifade": "Türk dünyası ifadesi yalnızca Türk devletlerinin siyasi sınırlarını kapsar.",
+       "dogru": false,
+       "bilgi": "Türk dünyası ifadesi siyasi sınırların yanında etnik, tarihî ve kültürel bağları da kapsar.",
+       "sayfa": 204
+      },
+      {
+       "id": "7.1-06",
+       "tur": "secmeli",
+       "soru": "Konargöçer Türk toplumunda boyların birleşmesiyle oluşan en büyük toplumsal yapıya ne ad verilirdi?",
+       "secenekler": [
+        "Oguş",
+        "Urug",
+        "Boy",
+        "Budun"
+       ],
+       "dogru": 3,
+       "bilgi": "Oguş (aile) birleşerek urug, uruglar boy, boylar da budun (ulus, millet) oluşturuyordu.",
+       "sayfa": 208
+      },
+      {
+       "id": "7.1-07",
+       "tur": "bosluk",
+       "cumle": "Eski Türklerde kurganlara, mağlup edilen düşman sayısınca dikilen taşlara ___ denirdi.",
+       "cevap": "balbal",
+       "celdiriciler": [
+        "obo",
+        "tamga",
+        "yuğ"
+       ],
+       "bilgi": "Ölüler kurgan denilen büyük mezarlara gömülür, ölenler için yuğ adı verilen yas törenleri yapılırdı.",
+       "sayfa": 208
+      },
+      {
+       "id": "7.1-08",
+       "tur": "dy",
+       "ifade": "Eski Türklerde renkler yönleri ifade eder; kara kuzeyi, ak batıyı, kızıl güneyi, gök doğuyu temsil ederdi.",
+       "dogru": true,
+       "bilgi": "Akdeniz adı \"batıdaki deniz\" anlamına gelir; Türkler coğrafi unsurları adlandırırken renkleri kullanmıştır.",
+       "sayfa": 209
+      },
+      {
+       "id": "7.1-09",
+       "tur": "secmeli",
+       "soru": "Türkistan'da İslamiyet'in yayılmasında büyük rolü olan ve \"Pîr-i Türkistan\" olarak bilinen kişi kimdir?",
+       "secenekler": [
+        "Ahi Evran",
+        "Hoca Ahmet Yesevi",
+        "Kaşgarlı Mahmut",
+        "Yusuf Has Hacip"
+       ],
+       "dogru": 1,
+       "bilgi": "Hoca Ahmet Yesevi'nin öğrencileri Anadolu'ya kadar gelerek Türk-İslam kültürünün gelişmesine katkı sağlamıştır.",
+       "sayfa": 210
+      },
+      {
+       "id": "7.1-10",
+       "tur": "bosluk",
+       "cumle": "Türkiye Selçukluları döneminde esnaf ve zanaatkârlara yönelik ___ teşkilatı Ahi Evran tarafından kurulmuştur.",
+       "cevap": "ahilik",
+       "celdiriciler": [
+        "lonca",
+        "imaret",
+        "tekke"
+       ],
+       "bilgi": "Osmanlı dönemindeki loncalar ve günümüzdeki meslek odaları ahilik kültürünün devamı sayılabilir.",
+       "sayfa": 211
+      },
+      {
+       "id": "7.1-11",
+       "tur": "eslestir",
+       "yonerge": "Türklerin İslamiyet'i kabul ettiği ilk dönemlerin eserlerini yazarlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Divanu Lügati't-Türk",
+         "Kaşgarlı Mahmut"
+        ],
+        [
+         "Kutadgu Bilig",
+         "Yusuf Has Hacip"
+        ],
+        [
+         "Atabetü'l Hakayık",
+         "Yüknekli Edip Ahmet"
+        ]
+       ],
+       "bilgi": "8. yüzyıl Göktürk döneminde dikilen Orhun Yazıtları, Türkçenin en önemli ilk yazılı kaynaklarındandır.",
+       "sayfa": 212
+      },
+      {
+       "id": "7.1-12",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi Türk dünyasının somut olmayan kültürel mirasına örnektir?",
+       "secenekler": [
+        "Selimiye Camii",
+        "Orhun Yazıtları",
+        "İshak Paşa Sarayı",
+        "Mevlevi Sema Töreni"
+       ],
+       "dogru": 3,
+       "bilgi": "Kültürel miras; bina, anıt, yazıt gibi somut unsurlar ile folklor, gelenek, destan gibi somut olmayan unsurları kapsar.",
+       "sayfa": 214
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
