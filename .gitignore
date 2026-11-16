@@ -1,0 +1,9 @@
+node_modules/
+dist/
+data/raw/
+data/text/
+__pycache__/
+*.pyc
+.DS_Store
+data/parca/
+*.tsbuildinfo
