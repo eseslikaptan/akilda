@@ -15,7 +15,8 @@ const yukleyiciler = import.meta.glob<KitapJson>("../content/*.json", { import: 
 
 export async function icerikYukle(): Promise<Dizin> {
   const kitaplar = await Promise.all(Object.values(yukleyiciler).map((f) => f()));
-  kitaplar.sort((a, b) => a.ders.localeCompare(b.ders) || a.sinif - b.sinif);
+  // Dersler uygulamadaki sırayla (DERS_SIRASI), her derste kitaplar sınıf sırasıyla
+  kitaplar.sort((a, b) => DERS_SIRASI.indexOf(a.ders) - DERS_SIRASI.indexOf(b.ders) || a.sinif - b.sinif);
   return dizinKur(kitaplar);
 }
 

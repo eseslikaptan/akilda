@@ -19,6 +19,21 @@ Konu anlatmaz, test kitabı da değildir. Okuduğun bilgiyi unutmak üzere oldu�
 - **Çevrimdışı çalışır (PWA):** Telefona kurulabilir. İlerleme yalnızca cihazda tutulur; yedek alınıp
   yüklenebilir.
 
+## İçerik
+
+19 ders kitabından 3.430 kart (9–11. sınıf):
+
+| Ders | Sınıflar | Kart |
+|---|---|---|
+| Tarih | 9, 10, 11 | 459 |
+| Coğrafya | 9, 10, 11 | 537 |
+| Türk Dili ve Edebiyatı | 9, 10, 11 | 551 |
+| Felsefe | 10 | 232 |
+| Din Kültürü ve Ahlak Bilgisi | 9, 10 | 341 |
+| Biyoloji | 9, 10, 11 | 524 |
+| Kimya | 9, 10 | 387 |
+| Fizik | 9, 10 | 399 |
+
 ## Çalıştırma
 
 ```bash
