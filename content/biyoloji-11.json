@@ -1,0 +1,2843 @@
+{
+ "kitap": "biyoloji-11",
+ "ders": "biyoloji",
+ "sinif": 11,
+ "baslik": "Biyoloji Dersi 11. Sınıf Ders Kitabı",
+ "sayfaUrl": "https://tymm.meb.gov.tr/kitap/400/biyoloji-dersi-11sinif-ders-kitabi",
+ "pdfUrl": "https://tymm.meb.gov.tr/assets/pdf/biyoloji-dersi-11sinif-ders-kitabi_20261004_221656_902.pdf",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Tepki",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Farklı Canlıların Uyaranlara Karşı Oluşturduğu Tepki Mekanizmaları",
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "secmeli",
+       "soru": "Hangi canlıda olursa olsun, uyarana tepki sürecindeki temel basamakların doğru sıralaması hangisidir?",
+       "secenekler": [
+        "Tepkinin oluşması, uyarının alınması, iletim ve yorumlama",
+        "Uyarının alınması, iletim ve yorumlama, tepkinin oluşması",
+        "İletim ve yorumlama, tepkinin oluşması, uyarının alınması",
+        "Uyarının alınması, tepkinin oluşması, iletim ve yorumlama"
+       ],
+       "dogru": 1,
+       "bilgi": "Tepki sürecinde her canlıda uyarının alınması, iletimi ve yorumlanması (sinyal işleme) ve tepkinin ortaya çıkması basamakları aynı sırayla işler.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-02",
+       "tur": "dy",
+       "ifade": "Bitkilerde sinir sistemi bulunmadığından, bitkilerin tepkilerinde elektriksel sinyal iletimi hiçbir rol oynamaz.",
+       "dogru": false,
+       "bilgi": "Bitkilerin tepkilerinde elektriksel sinyal iletimi, turgor basıncı değişimi ve hormonlar rol oynar.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-03",
+       "tur": "dy",
+       "ifade": "Sinir sistemi aracılığıyla verilen tepkiler, hormonlarla verilen tepkilere göre genellikle daha hızlıdır.",
+       "dogru": true,
+       "bilgi": "Sinir sistemiyle verilen tepkiler hızlı, hormonlarla verilen tepkiler ise genellikle daha yavaştır.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-04",
+       "tur": "bosluk",
+       "cumle": "Canlılarda düşük konsantrasyonlarda sentezlenip hedef hücrelere taşınarak etkili olan kimyasal habercilere ___ denir.",
+       "cevap": "hormon",
+       "celdiriciler": [
+        "enzim",
+        "vitamin",
+        "antikor"
+       ],
+       "bilgi": "Hormonlar, hedef hücrelerde özgül tepkiler oluşturarak hem bitkilerde hem hayvanlarda iç dengenin korunmasına katkı sağlar.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-05",
+       "tur": "secmeli",
+       "soru": "Tek hücreli bir canlı olan öglenanın ışığa yönelmesinin temel nedeni nedir?",
+       "secenekler": [
+        "Su kaybını önlemek",
+        "Avını yakalamak",
+        "Fotosentez yapabilmek",
+        "Soğuktan korunmak"
+       ],
+       "dogru": 2,
+       "bilgi": "Öglena fotosentez yapabilmek için ışığa yönelir.",
+       "sayfa": 15
+      },
+      {
+       "id": "1.1-06",
+       "tur": "eslestir",
+       "yonerge": "Canlıları uyaranlara verdikleri tepkilerle eşleştir.",
+       "ciftler": [
+        [
+         "Orman gülü",
+         "Aşırı soğukta yapraklarını aşağı kıvırır"
+        ],
+        [
+         "Arı",
+         "Morötesi ışığı algılayıp nektarın yerini görür"
+        ],
+        [
+         "Elektrikli yılan balığı",
+         "Tehlikede elektrik boşaltımı yapar"
+        ],
+        [
+         "Baykuş",
+         "Az ışıkta göz bebeklerini genişletip avlanır"
+        ]
+       ],
+       "bilgi": "Her canlı uyaranlara kendi yapısal ve fizyolojik özelliklerine göre farklı tepkiler verir; bu tepkiler hayatta kalmayı kolaylaştırır.",
+       "sayfa": 15
+      },
+      {
+       "id": "1.1-07",
+       "tur": "secmeli",
+       "soru": "Güneşgülü (Drosera capensis) yapraklarının böceğin etrafına kapanması nasıl gerçekleşir?",
+       "secenekler": [
+        "Yaprak hücrelerindeki kas liflerinin kasılmasıyla",
+        "Yaprak tabanındaki hücrelerin su kaybedip büzülmesiyle",
+        "Etilen etkisiyle yaprağın üst yüzeyindeki hücrelerin ölmesiyle",
+        "Yaprağın alt kısmındaki hücrelerin daha çok su alıp şişmesiyle"
+       ],
+       "dogru": 3,
+       "bilgi": "Güneşgülünde yaprağın alt kısmındaki ince uzun hücreler, üstteki yuvarlak hücrelerden daha fazla su alıp şişince yaprak böceği sarar.",
+       "sayfa": 16
+      },
+      {
+       "id": "1.1-08",
+       "tur": "bosluk",
+       "cumle": "Denizşakayığına dokunulduğunda kasları kasılarak gövdesi küçülür ve ağzının çevresindeki ___ adı verilen uzantılar içe çekilir.",
+       "cevap": "tentakül",
+       "celdiriciler": [
+        "sil",
+        "kamçı",
+        "yalancı ayak"
+       ],
+       "bilgi": "Omurgasız bir canlı olan denizşakayığı tepkilerini reflekse ve dokunmaya duyarlı hücreler aracılığıyla verir.",
+       "sayfa": 16
+      },
+      {
+       "id": "1.1-09",
+       "tur": "secmeli",
+       "soru": "Uyku çiçeği (Oxalis triangularis) yapraklarının gece kapanması hangi mekanizmayla sağlanır?",
+       "secenekler": [
+        "Yaprak tabanında turgor basıncının değişmesiyle",
+        "Yaprak hücrelerinin bölünmesinin durmasıyla",
+        "Yapraklardaki kloroplastların gece parçalanmasıyla",
+        "Kökten yaprağa iletilen sinir uyartılarıyla"
+       ],
+       "dogru": 0,
+       "bilgi": "Uyku çiçeği su kaybını azaltmak ve soğuktan korunmak için yapraklarını gece kapatır; bu hareket yaprak tabanındaki turgor değişimiyle olur.",
+       "sayfa": 17
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "Bitkisel Hormonların Etkileri",
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "secmeli",
+       "soru": "Çileğin üzerindeki aken adlı nokta şeklindeki yapılar hangi hormonu üreterek meyvenin normal büyümesini sağlar?",
+       "secenekler": [
+        "Etilen",
+        "Absisik asit",
+        "Oksin",
+        "Sitokinin"
+       ],
+       "dogru": 2,
+       "bilgi": "Akenleri alınmış çilek normal gelişemez; böyle bir çileğe oksin püskürtülürse büyüme ve gelişme normale döner.",
+       "sayfa": 24
+      },
+      {
+       "id": "1.2-02",
+       "tur": "dy",
+       "ifade": "Oksin, gövdedeki yan tomurcukların gelişimini teşvik ederek bitkinin daha çok dal oluşturmasını sağlar.",
+       "dogru": false,
+       "bilgi": "Oksin yan tomurcukların gelişimini engeller ve bitkinin boyuna uzamasını sağlar; yan tomurcuklarda bölünmeyi uyarıp dallanmayı artıran hormon sitokinindir.",
+       "sayfa": 24
+      },
+      {
+       "id": "1.2-03",
+       "tur": "dy",
+       "ifade": "Bitkisel hormonların bir kısmı üretildiği dokuda etkili olurken bir kısmı iletim demetleri veya difüzyonla taşındığı organda etki gösterir.",
+       "dogru": true,
+       "bilgi": "Bitkisel hormonlar aktif büyüyen kök ve gövde uçları, tomurcuklar, tohumlar, meyveler ve genç yapraklarda üretilir.",
+       "sayfa": 24
+      },
+      {
+       "id": "1.2-04",
+       "tur": "secmeli",
+       "soru": "Yaprak ve çiçeklerin yaşlanmasını geciktirdiği için kesilmiş çiçeklerin raf ömrünü uzatmada kullanılan bitkisel hormon hangisidir?",
+       "secenekler": [
+        "Sitokinin",
+        "Etilen",
+        "Absisik asit",
+        "Oksin"
+       ],
+       "dogru": 0,
+       "bilgi": "Sitokinin ayrıca klorofil sentezini ve kloroplast oluşumunu uyarır.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.2-05",
+       "tur": "bosluk",
+       "cumle": "Sitokinin hormonu adını, bütün bitki dokularında hücre bölünmesini veya ___ denilen sitoplazma bölünmesini teşvik etmesinden alır.",
+       "cevap": "sitokinez",
+       "celdiriciler": [
+        "karyokinez",
+        "plazmoliz",
+        "mayoz"
+       ],
+       "bilgi": "Sitokinin kök, embriyo, büyüyen yaprak ve meyve gibi aktif büyüyen dokularda üretilir.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.2-06",
+       "tur": "secmeli",
+       "soru": "Eksikliğinde bitkilerin cüce kaldığı, tohumun uyku durumunu (dormansi) ortadan kaldırarak çimlenmesini sağlayan hormon hangisidir?",
+       "secenekler": [
+        "Absisik asit",
+        "Giberellin",
+        "Etilen",
+        "Sitokinin"
+       ],
+       "dogru": 1,
+       "bilgi": "Giberellin gövde boyunun uzamasını, tomurcuklanmayı ve çiçeklenmeyi teşvik eder; çekirdeksiz meyve oluşumunda da etkilidir.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.2-07",
+       "tur": "dy",
+       "ifade": "Absisik asit, su stresi durumunda stomaların kapanmasını sağlayarak bitkinin su kaybını önlemesine yardım eder.",
+       "dogru": true,
+       "bilgi": "Stres altındaki bitkilerde bolca sentezlenen absisik asit genellikle büyümeyi engeller, tomurcukların uyanmasını ve tohumun çimlenmesini önler.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-08",
+       "tur": "secmeli",
+       "soru": "Gaz hâlinde bulunan, meyvelerin olgunlaşmasını ve tatlanmasını sağlayan, yaprak dökülmesini de tetikleyen bitkisel hormon hangisidir?",
+       "secenekler": [
+        "Giberellin",
+        "Sitokinin",
+        "Oksin",
+        "Etilen"
+       ],
+       "dogru": 3,
+       "bilgi": "Etilen difüzyonla yayıldığı için yakınındaki diğer meyvelerin olgunlaşmasını da hızlandırır.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-09",
+       "tur": "bosluk",
+       "cumle": "Meyve olgunlaşırken hücre çeperinin enzimlerle parçalanması meyveyi yumuşatır, ___ hidrolizi ise meyvenin tatlanmasını sağlar.",
+       "cevap": "nişasta",
+       "celdiriciler": [
+        "selüloz",
+        "protein",
+        "yağ"
+       ],
+       "bilgi": "Meyvede yumuşama ve tatlanma, olgunlaşmayı sağlayan başlıca etken olan etilenin etkisiyle gerçekleşir.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-10",
+       "tur": "eslestir",
+       "yonerge": "Bitkisel hormonları tarımdaki kullanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Oksin",
+         "Gövde ve yaprak çeliklerinin köklendirilmesi"
+        ],
+        [
+         "Giberellin",
+         "Çekirdeksiz üzümde tane büyüklüğünün artırılması"
+        ],
+        [
+         "Sitokinin",
+         "Meyve tutulumunun artırılması"
+        ],
+        [
+         "Etilen",
+         "Yeşil meyvelerin depoda olgunlaştırılması"
+        ]
+       ],
+       "bilgi": "Bitki gelişim düzenleyicileri (BGD) tarımda verimi artırmak için kullanılır; aşırı dozda kullanımları insan sağlığını ve ekosistemi olumsuz etkileyebilir.",
+       "sayfa": 25
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "Bitkilerdeki Tepki Mekanizmaları",
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "secmeli",
+       "soru": "Bitkilerde uyaranın yönüne bağlı olarak gerçekleşen hareketlere ne ad verilir?",
+       "secenekler": [
+        "Nasti",
+        "Sismonasti",
+        "Tropizma",
+        "Termonasti"
+       ],
+       "dogru": 2,
+       "bilgi": "Uyaranın yönüne bağlı hareketlere tropizma (yönelim), yönüne bağlı olmayan hareketlere nasti (ırganım) denir.",
+       "sayfa": 32
+      },
+      {
+       "id": "1.3-02",
+       "tur": "bosluk",
+       "cumle": "Bitki köklerinin suya yönelerek ilerlemesi ___ hareketine örnektir.",
+       "cevap": "hidrotropizma",
+       "celdiriciler": [
+        "geotropizma",
+        "kemotropizma",
+        "haptotropizma"
+       ],
+       "bilgi": "Hidrotropizma, bitkilerde suyun etkisiyle görülen yönelim hareketidir.",
+       "sayfa": 32
+      },
+      {
+       "id": "1.3-03",
+       "tur": "dy",
+       "ifade": "Bitki köklerinin suya yönelimi, yer çekimine yöneliminden daha zayıftır.",
+       "dogru": false,
+       "bilgi": "Köklerin suya yönelimi (hidrotropizma), yer çekimine yöneliminden (geotropizma) daha güçlüdür.",
+       "sayfa": 32
+      },
+      {
+       "id": "1.3-04",
+       "tur": "secmeli",
+       "soru": "Bitki köklerinin kireç, aşırı tuz ve zararlı kimyasal bileşiklerden uzaklaşması hangi harekete örnektir?",
+       "secenekler": [
+        "Pozitif kemotropizma",
+        "Negatif geotropizma",
+        "Negatif kemotropizma",
+        "Pozitif hidrotropizma"
+       ],
+       "dogru": 2,
+       "bilgi": "Köklerin gübre gibi yararlı bileşiklere yönelmesi pozitif, zararlı bileşiklerden uzaklaşması negatif kemotropizmadır.",
+       "sayfa": 32
+      },
+      {
+       "id": "1.3-05",
+       "tur": "bosluk",
+       "cumle": "Bitki gövdesinin ve sürgünlerin yer çekiminin tersi yönde, yukarı doğru büyümesi negatif ___ olarak adlandırılır.",
+       "cevap": "geotropizma",
+       "celdiriciler": [
+        "fototropizma",
+        "hidrotropizma",
+        "haptotropizma"
+       ],
+       "bilgi": "Köklerin yer çekimi etkisiyle toprağın derinliklerine yönelmesi pozitif, gövdenin yukarı büyümesi negatif geotropizmadır.",
+       "sayfa": 32
+      },
+      {
+       "id": "1.3-06",
+       "tur": "dy",
+       "ifade": "Nasti hareketleri, uyaranın geldiği yöne göre pozitif ve negatif nasti olarak ikiye ayrılır.",
+       "dogru": false,
+       "bilgi": "Nastide uyaranın yönü tepkinin yönünü etkilemez; bu yüzden tropizmadaki gibi pozitif ve negatif ayrımı yapılmaz.",
+       "sayfa": 32
+      },
+      {
+       "id": "1.3-07",
+       "tur": "secmeli",
+       "soru": "Bitkilerde nasti hareketleri hücrelerdeki hangi değişim sonucunda meydana gelir?",
+       "secenekler": [
+        "Hücrelerdeki kas benzeri kasılıcı liflerin kısalması",
+        "Ani turgor değişimi ve hızlı hücre büyüme asimetrisi",
+        "Kloroplastların hücre içinde yer değiştirmesi",
+        "Hücre bölünmesinin tamamen durması"
+       ],
+       "dogru": 1,
+       "bilgi": "Nasti hareketleri ışık, sarsıntı, dokunma ve sıcaklığa bağlı olarak; tropizma hareketleri ise uyaranların etkisiyle salgılanan hormonların kontrolünde gerçekleşir.",
+       "sayfa": 32
+      },
+      {
+       "id": "1.3-08",
+       "tur": "eslestir",
+       "yonerge": "Bitki hareketlerini örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Haptotropizma",
+         "Sarmaşığın tutunduğu yere sarılması"
+        ],
+        [
+         "Fotonasti",
+         "Akşamsefası çiçeklerinin az ışıkta açılması"
+        ],
+        [
+         "Sismonasti",
+         "Küstüm otu yapraklarının dokununca kapanması"
+        ],
+        [
+         "Termonasti",
+         "Lale çiçeklerinin 15-20 °C'ta açılması"
+        ]
+       ],
+       "bilgi": "Venüs sinekkapan yapraklarının böcek dokununca kapanması da sismonasti hareketine örnektir.",
+       "sayfa": 33
+      }
+     ]
+    },
+    {
+     "no": "1.4",
+     "ad": "Bitkilerde Yönelme Hareketleri",
+     "kartlar": [
+      {
+       "id": "1.4-01",
+       "tur": "secmeli",
+       "soru": "Buğday, yulaf ve mısır fidelerinde henüz açılmamış yaprağı saran silindir biçimindeki kılıfa ne ad verilir?",
+       "secenekler": [
+        "Kotiledon",
+        "Koleoptil",
+        "Kutikula",
+        "Aken"
+       ],
+       "dogru": 1,
+       "bilgi": "Bitkilerin ışığa yönelme mekanizmasını açıklayan ilk sistematik deneyler 1880'de koleoptillerle yapılmıştır.",
+       "sayfa": 36
+      },
+      {
+       "id": "1.4-02",
+       "tur": "dy",
+       "ifade": "1880'deki koleoptil deneylerinde koleoptilin ucu ışık geçirmeyen (opak) başlıkla kapatıldığında ışığa yönelim gerçekleşmemiştir.",
+       "dogru": true,
+       "bilgi": "Bu deneyler ışığın algılanmasından koleoptil ucunun sorumlu olduğunu ve uçtan alt kısımlara sinyal gönderildiğini göstermiştir.",
+       "sayfa": 36
+      },
+      {
+       "id": "1.4-03",
+       "tur": "secmeli",
+       "soru": "1913'teki deneylerde koleoptil ucu ile gövde arasına hangisi yerleştirildiğinde ışığa yönelim gerçekleşmemiştir?",
+       "secenekler": [
+        "Jelatin",
+        "Saydam başlık",
+        "Agar blok",
+        "Mika"
+       ],
+       "dogru": 3,
+       "bilgi": "Kimyasal madde geçişini engelleyen mika konulunca yönelim olmamış, geçişe izin veren jelatin konulunca olmuştur; sinyal hareketli bir kimyasaldır.",
+       "sayfa": 36
+      },
+      {
+       "id": "1.4-04",
+       "tur": "eslestir",
+       "yonerge": "Koleoptil deneylerinin yıllarını yapılan çalışmalarla eşleştir.",
+       "ciftler": [
+        [
+         "1880",
+         "Işığın koleoptil ucunda algılandığının gösterilmesi"
+        ],
+        [
+         "1913",
+         "Mika ve jelatinle sinyalin kimyasal olup olmadığının test edilmesi"
+        ],
+        [
+         "1918",
+         "Kesik ucun karanlıkta gövdenin bir yanına yerleştirilmesi"
+        ],
+        [
+         "1926",
+         "Agar bloklarla büyüme maddesinin (oksin) tespit edilmesi"
+        ]
+       ],
+       "bilgi": "Koleoptil deneyleri, ışığa yönelmenin uçtan aşağı taşınan ve dokuda büyümeyi sağlayan oksin adlı bir kimyasaldan kaynaklandığını ortaya koymuştur.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.4-05",
+       "tur": "secmeli",
+       "soru": "1926'da karanlık ortamda agar bloklarla yapılan koleoptil deneylerinin ortaya koyduğu sonuç hangisidir?",
+       "secenekler": [
+        "Işığı algılayan ve sinyali üreten bölge koleoptilin tabanıdır.",
+        "Büyüme maddesi yalnızca ışıklı ortamda üretilip yukarı taşınır.",
+        "Sinyal difüzyonla geçen bir maddedir, sentezi için ışık gerekmez.",
+        "Koleoptil, agar bloğun bulunduğu tarafa doğru eğilerek büyür."
+       ],
+       "dogru": 2,
+       "bilgi": "Agar bloğu yana konan koleoptil, agarın bulunduğu tarafın tersi yönde büyümüş; bu kimyasal maddeye oksin adı verilmiştir.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.4-06",
+       "tur": "bosluk",
+       "cumle": "Deniz yosunlarından elde edilen ve laboratuvarda genellikle kültür ortamı olarak kullanılan jel benzeri maddeye ___ denir.",
+       "cevap": "agar",
+       "celdiriciler": [
+        "jelatin",
+        "mika",
+        "kolajen"
+       ],
+       "bilgi": "Koleoptil uçlarından agar bloğa geçen oksin, ucu kesilmiş koleoptile aktarılarak etkisi gözlemlenmiştir.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.4-07",
+       "tur": "dy",
+       "ifade": "Yüksek konsantrasyondaki oksin, gövdede büyümeyi teşvik ederken kökte büyümeyi yavaşlatır veya durdurur.",
+       "dogru": true,
+       "bilgi": "Gövde ve kökün yüksek oksine farklı tepki vermesi, sürgünün yukarı, kökün aşağı doğru yönelmesini sağlar.",
+       "sayfa": 39
+      },
+      {
+       "id": "1.4-08",
+       "tur": "secmeli",
+       "soru": "Işık bitkiye tek yönden geldiğinde oksin hormonu gövdenin hangi tarafında daha fazla birikir?",
+       "secenekler": [
+        "Çok ışık alan tarafında",
+        "Her iki tarafta eşit olarak",
+        "Az ışık alan tarafında",
+        "Yalnızca kök ucunda"
+       ],
+       "dogru": 2,
+       "bilgi": "Oksin az ışık alan tarafta birikip hücre uzamasını artırdığından büyüme asimetrik olur ve gövde ışığa yönelir.",
+       "sayfa": 39
+      },
+      {
+       "id": "1.4-09",
+       "tur": "bosluk",
+       "cumle": "Tarlalarda bitkilerin her iki tarafının da gün boyunca ışık alıp fototropizmanın dengeli gerçekleşmesi için genellikle ___ doğrultusunda ekim yapılır.",
+       "cevap": "kuzey-güney",
+       "celdiriciler": [
+        "doğu-batı",
+        "kuzeydoğu-güneybatı",
+        "kuzeybatı-güneydoğu"
+       ],
+       "bilgi": "Seralarda düzenli dikim ve yapay aydınlatma, dikey tarımda katmanlı raflar da bitkilerin ışığa yönelmesi dikkate alınarak planlanır.",
+       "sayfa": 35
+      }
+     ]
+    },
+    {
+     "no": "1.5",
+     "ad": "Duyu Reseptörleri ve Duyu Organları",
+     "kartlar": [
+      {
+       "id": "1.5-01",
+       "tur": "bosluk",
+       "cumle": "Hayvanlarda uyaranların nöronlarda meydana getirdiği kimyasal ve elektriksel değişimlere ___ (impuls) denir.",
+       "cevap": "uyartı",
+       "celdiriciler": [
+        "refleks",
+        "sinaps",
+        "eşik değer"
+       ],
+       "bilgi": "Tepki için uyaranın reseptörlerle alınması, uyartıya dönüştürülmesi, iletilmesi ve merkezî sinir sisteminde yorumlanması gerekir.",
+       "sayfa": 49
+      },
+      {
+       "id": "1.5-02",
+       "tur": "eslestir",
+       "yonerge": "Duyu reseptörlerini algıladıkları uyaranlarla eşleştir.",
+       "ciftler": [
+        [
+         "Mekanoreseptör",
+         "Dokunma, basınç ve ses dalgaları"
+        ],
+        [
+         "Kemoreseptör",
+         "Koku ve tat molekülleri"
+        ],
+        [
+         "Termoreseptör",
+         "Sıcak ve soğuk"
+        ],
+        [
+         "Nosiseptör",
+         "Doku hasarı (ağrı)"
+        ],
+        [
+         "Fotoreseptör",
+         "Işık"
+        ]
+       ],
+       "bilgi": "Mekanoreseptörler deri ve kulakta, kemoreseptörler burun ve dilde, termoreseptörler çoğunlukla deri ve dilde bulunur.",
+       "sayfa": 49
+      },
+      {
+       "id": "1.5-03",
+       "tur": "dy",
+       "ifade": "Ağrı reseptörleri (nosiseptörler) serbest sinir uçlarıdır ve beyin dâhil vücudun her yerinde bulunur.",
+       "dogru": false,
+       "bilgi": "Ağrı reseptörleri serbest sinir uçlarıdır ve beyin hariç tüm vücutta bulunur.",
+       "sayfa": 49
+      },
+      {
+       "id": "1.5-04",
+       "tur": "secmeli",
+       "soru": "Dil ve kulakta bulunan duyu reseptörleri hangi yapıdadır?",
+       "secenekler": [
+        "Nöron",
+        "Bağ doku",
+        "Epitel (duyu epiteli)",
+        "Kas doku"
+       ],
+       "dogru": 2,
+       "bilgi": "Dil ve kulaktaki reseptörler epitel yapıda olup uyaranı duyu nöronlarına aktarır; diğer duyu organlarındaki reseptörler nöron yapısındadır.",
+       "sayfa": 49
+      },
+      {
+       "id": "1.5-05",
+       "tur": "secmeli",
+       "soru": "Pek çok nöronun aksonu etrafında lipoprotein yapılı miyelin kılıfı oluşturan hücreler hangileridir?",
+       "secenekler": [
+        "Schwann hücreleri",
+        "Melanosit hücreleri",
+        "Destek hücreleri",
+        "Tüylü duyu hücreleri"
+       ],
+       "dogru": 0,
+       "bilgi": "Miyelin kılıf aksonu elektriksel olarak yalıtıp uyartı iletimini hızlandırır; kılıfın kesintiye uğradığı yere Ranvier boğumu denir.",
+       "sayfa": 50
+      },
+      {
+       "id": "1.5-06",
+       "tur": "secmeli",
+       "soru": "Sinir demetinde uyaran şiddeti arttıkça tepki şiddetinin kademeli artması, belli bir değerden sonra ise değişmemesi durumuna ne ad verilir?",
+       "secenekler": [
+        "Ya hep ya hiç yasası",
+        "Duyu adaptasyonu",
+        "Atlamalı uyartı iletimi",
+        "Merdiven etkisi"
+       ],
+       "dogru": 3,
+       "bilgi": "Tek nöron ya hep ya hiç yasasına uyar; sinir demetinde aksonların eşik değerleri farklı olduğundan merdiven etkisi görülür.",
+       "sayfa": 50
+      },
+      {
+       "id": "1.5-07",
+       "tur": "bosluk",
+       "cumle": "Dinlenme hâlindeki nöronda hücre içinin negatif, hücre dışının pozitif yüklü olması olayına ___ denir.",
+       "cevap": "polarizasyon",
+       "celdiriciler": [
+        "depolarizasyon",
+        "repolarizasyon",
+        "hiperpolarizasyon"
+       ],
+       "bilgi": "Nöron uyarılınca pozitif iyonlar hücre içine girer (depolarizasyon), ardından tekrar dışarı çıkarak zar dinlenme hâline döner (repolarizasyon).",
+       "sayfa": 50
+      },
+      {
+       "id": "1.5-08",
+       "tur": "dy",
+       "ifade": "Miyelinli sinirlerde aksiyon potansiyeli yalnızca Ranvier boğumlarında oluştuğundan uyartı, miyelinsiz sinirlere göre daha hızlı ilerler.",
+       "dogru": true,
+       "bilgi": "Uyartının Ranvier boğumlarından atlayarak ilerlemesine atlamalı uyartı iletimi denir.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.5-09",
+       "tur": "secmeli",
+       "soru": "Gözde loş ışıkta cismin şeklinin algılanmasını ve siyah beyaz görmeyi sağlayan, rodopsin pigmenti içeren reseptörler hangileridir?",
+       "secenekler": [
+        "Koni hücreleri",
+        "Çubuk hücreleri",
+        "Melanosit hücreleri",
+        "Tüylü duyu hücreleri"
+       ],
+       "dogru": 1,
+       "bilgi": "Rodopsin sentezi için A vitamini gerekir; koni hücreleri ise yeterli ışıkta renkleri algılar.",
+       "sayfa": 53
+      },
+      {
+       "id": "1.5-10",
+       "tur": "bosluk",
+       "cumle": "Göz sinirlerinin retinadan çıktığı, fotoreseptör bulunmadığı için görüntünün oluşmadığı noktaya ___ denir.",
+       "cevap": "kör nokta",
+       "celdiriciler": [
+        "sarı benek",
+        "göz bebeği",
+        "kornea"
+       ],
+       "bilgi": "Görüntünün ters olarak ilk oluştuğu yer ise optik eksenin retinayı kestiği sarı benektir.",
+       "sayfa": 54
+      },
+      {
+       "id": "1.5-11",
+       "tur": "secmeli",
+       "soru": "Optiği \"görme bilimi\" olarak tasarlayan ve görme olayını hem fiziksel hem matematiksel olarak yorumlayan bilim insanı kimdir?",
+       "secenekler": [
+        "İbn-i Sina",
+        "İbnülheysem",
+        "Biruni",
+        "Akşemseddin"
+       ],
+       "dogru": 1,
+       "bilgi": "İbnülheysem'in (Alhazen) kitabı 1100'lü yıllarda \"Optik Hazinesi\" adıyla Latinceye çevrilmiştir.",
+       "sayfa": 54
+      },
+      {
+       "id": "1.5-12",
+       "tur": "secmeli",
+       "soru": "Orta kulağı yutağa bağlayarak kulak zarının iki tarafındaki hava basıncını dengeleyen yapı hangisidir?",
+       "secenekler": [
+        "Salyangoz",
+        "Oval pencere",
+        "Yarım daire kanalları",
+        "Östaki borusu"
+       ],
+       "dogru": 3,
+       "bilgi": "Östaki borusu kulak zarını korur; ancak burun yoluyla gelen mikroorganizmaların orta kulağa ulaşmasına da neden olabilir.",
+       "sayfa": 55
+      },
+      {
+       "id": "1.5-13",
+       "tur": "eslestir",
+       "yonerge": "İç kulaktaki yapıları görevleri veya özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Corti organı",
+         "Ses titreşimlerine duyarlı tüylü duyu hücreleri"
+        ],
+        [
+         "Yarım daire kanalları",
+         "Dönme, hızlanma ve yavaşlamanın algılanması"
+        ],
+        [
+         "Kesecik ve tulumcuk",
+         "Yer çekimine göre konum değişiminin algılanması"
+        ],
+        [
+         "Otolitler",
+         "Kalsiyum karbonattan oluşan denge taşları"
+        ]
+       ],
+       "bilgi": "İç kulakta dalız ve salyangoz işitmeden; yarım daire kanalları, kesecik ve tulumcuk dengeden sorumludur.",
+       "sayfa": 57
+      },
+      {
+       "id": "1.5-14",
+       "tur": "dy",
+       "ifade": "Koku alma olayında reseptörlerden gelen uyartılar, diğer duyularda olduğu gibi önce talamusa iletilir.",
+       "dogru": false,
+       "bilgi": "Koku uyartıları talamusa uğramadan doğrudan beyindeki koku soğancığına gönderilir.",
+       "sayfa": 58
+      },
+      {
+       "id": "1.5-15",
+       "tur": "bosluk",
+       "cumle": "Üst deride korun tabakasının altında bulunan, bölünerek korun tabakasını yenileyen ve melanin üreten melanositleri içeren tabakaya ___ tabakası denir.",
+       "cevap": "Malpighi",
+       "celdiriciler": [
+        "korun",
+        "dermis",
+        "yağ"
+       ],
+       "bilgi": "Malpighi tabakası morötesi ışınları süzerek zararlarını azaltır; üst deride kan damarı bulunmaz.",
+       "sayfa": 59
+      }
+     ]
+    },
+    {
+     "no": "1.6",
+     "ad": "Hayvanlarda Sinir Sistemi Farklılıkları",
+     "kartlar": [
+      {
+       "id": "1.6-01",
+       "tur": "eslestir",
+       "yonerge": "Hayvan gruplarını sinir sistemi özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Süngerler",
+         "Sinir sistemi yoktur, uyarılar kimyasal yolla iletilir"
+        ],
+        [
+         "Sölenterler",
+         "Tüm vücuda yayılmış ağsı sinir sistemi"
+        ],
+        [
+         "Yassı solucanlar",
+         "İki gangliyonlu ip merdiven sinir sistemi"
+        ],
+        [
+         "Memeliler",
+         "Kıvrımlı, yüzey alanı geniş beyin"
+        ]
+       ],
+       "bilgi": "Sinir sistemi basitten gelişmişe doğru ağsı sistem, ip merdiven sistemi ve omurgalıların merkezî-çevresel sinir sistemi şeklinde çeşitlenir.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.6-02",
+       "tur": "dy",
+       "ifade": "Ağsı sinir sisteminde uyarı vücudun her bölgesine çok hızlı iletilir ve yalnızca uyarılan bölge tepki verir.",
+       "dogru": false,
+       "bilgi": "Ağsı sinir sisteminde uyarı çok yavaş ve dalgalar hâlinde iletilir; canlı uyarıya tüm vücuduyla tepki verir.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.6-03",
+       "tur": "secmeli",
+       "soru": "İp merdiven sinir sistemine sahip toprak solucanı ve eklem bacaklılarda vücudun her segmentinde ne bulunur?",
+       "secenekler": [
+        "Bir beyin yarım küresi",
+        "Bir duyu organı",
+        "Bir sinir ağı",
+        "Bir gangliyon"
+       ],
+       "dogru": 3,
+       "bilgi": "İp merdiven sinir sisteminde uyartı iletimi ağsı sisteme göre daha hızlıdır ve tepkiler uyaranın geldiği bölgeye yönlendirilmiştir.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.6-04",
+       "tur": "dy",
+       "ifade": "Omurgasızlarda sinir şeridi genellikle karın bölgesinden geçerken omurgalılarda sinir şeridi (omurilik) vücudun sırt tarafında bulunur.",
+       "dogru": true,
+       "bilgi": "Omurgasızlarda sinir şeridi sindirim kanalının önünde, omurgalılarda ise sindirim kanalının arkasında, sırt tarafında yer alır.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.6-05",
+       "tur": "bosluk",
+       "cumle": "Omurgalıların sinir sistemlerini karşılaştırmak için beyin kütlesinin ___ kütlesine oranına bakılır.",
+       "cevap": "vücut",
+       "celdiriciler": [
+        "beyincik",
+        "omurilik",
+        "kalp"
+       ],
+       "bilgi": "Beyin kütlesinin vücut kütlesine oranı arttıkça beyin daha gelişmiştir; bu, daha hızlı ve doğru tepki ile daha büyük bilgi depolama kapasitesi sağlar.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.6-06",
+       "tur": "secmeli",
+       "soru": "Omurgalılarda beyincik büyüklüğü hareket yeteneğine göre değişir. Beyinciği küçük olan omurgalı grubu hangisidir?",
+       "secenekler": [
+        "Balıklar",
+        "Sürüngenler",
+        "Kuşlar",
+        "Memeliler"
+       ],
+       "dogru": 1,
+       "bilgi": "Beyincik balık, kuş ve memelilerde büyük, sürüngenlerde küçüktür.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.6-07",
+       "tur": "secmeli",
+       "soru": "Balıklarda büyük, memelilerde ise küçük olan beyin bölümü hangisidir?",
+       "secenekler": [
+        "Beyincik",
+        "Optik lop",
+        "Koklama lobu",
+        "Omurilik soğanı"
+       ],
+       "dogru": 2,
+       "bilgi": "Balıklarda beyin yarım küreleri tam ayrılmamıştır; sürüngen, kuş ve memelilerde beyin iki yarım küreye ayrılmıştır.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.6-08",
+       "tur": "secmeli",
+       "soru": "Meyve sineğinin yaklaşık 139 000 nöronluk beyin haritasında en çok sinaps oluşturan nöronların büyük bölümü hangi merkezle bağlantılı bulunmuştur?",
+       "secenekler": [
+        "Öğrenme merkezi",
+        "Koku merkezi",
+        "Denge merkezi",
+        "Görme merkezi"
+       ],
+       "dogru": 0,
+       "bilgi": "Meyve sineği çalışması, az nöronlu basit bir beynin pek çok karmaşık işi yapabildiğini göstermiştir; öğrenme, bağlantıların güçlenmesi veya yenilerinin kurulmasıyla olur.",
+       "sayfa": 65
+      }
+     ]
+    },
+    {
+     "no": "1.7",
+     "ad": "İnsanda Sinir Sistemi",
+     "kartlar": [
+      {
+       "id": "1.7-01",
+       "tur": "secmeli",
+       "soru": "Merkezî sinir sisteminin büyük kısmını oluşturan, duyu ve motor nöronları birbirine bağlayan, düşünme ve karar vermeyi sağlayan nöronlar hangileridir?",
+       "secenekler": [
+        "Duyu nöronları",
+        "Ara nöronlar",
+        "Motor nöronlar",
+        "Schwann hücreleri"
+       ],
+       "dogru": 1,
+       "bilgi": "Ara nöronlar çok sayıda dendrite ve genellikle bir aksona sahiptir; zarar gördüklerinde (ör. felç) uygun cevap oluşturulamaz.",
+       "sayfa": 76
+      },
+      {
+       "id": "1.7-02",
+       "tur": "dy",
+       "ifade": "Botoks uygulamasında kaslara gelen sinyaller bloke edildiği için ara nöronda oluşan tepki kasa ulaşamaz ve kas tepki veremez.",
+       "dogru": true,
+       "bilgi": "Motor nöronlar ara nöronda oluşan motor çıktıyı kas veya salgı bezine iletir; bu iletim engellenirse tepki gerçekleşmez.",
+       "sayfa": 77
+      },
+      {
+       "id": "1.7-03",
+       "tur": "bosluk",
+       "cumle": "Beyin ve omurilikte oluşan tepkinin gözlendiği kas ve salgı bezi gibi organlara ___ organ (tepki organı) denir.",
+       "cevap": "efektör",
+       "celdiriciler": [
+        "reseptör",
+        "duyu",
+        "merkezî"
+       ],
+       "bilgi": "Efektör organlarda kas kasılması ve gevşemesi, hormon ve enzim salgılanması gibi tepkiler görülür.",
+       "sayfa": 77
+      },
+      {
+       "id": "1.7-04",
+       "tur": "secmeli",
+       "soru": "Beyni ve omuriliği saran meninges zarları dıştan içe doğru hangi sırayla dizilir?",
+       "secenekler": [
+        "İnce zar, örümceksi zar, sert zar",
+        "Örümceksi zar, sert zar, ince zar",
+        "Sert zar, ince zar, örümceksi zar",
+        "Sert zar, örümceksi zar, ince zar"
+       ],
+       "dogru": 3,
+       "bilgi": "Meninges zarlarının iltihaplanması menenjit olarak bilinir.",
+       "sayfa": 78
+      },
+      {
+       "id": "1.7-05",
+       "tur": "bosluk",
+       "cumle": "Beyin omurilik sıvısı (BOS), meninges zarlarından ince zar ile ___ zar arasındaki boşluğu doldurur.",
+       "cevap": "örümceksi",
+       "celdiriciler": [
+        "sert",
+        "kemik",
+        "plevra"
+       ],
+       "bilgi": "BOS nöronlarla kan damarları arasında madde alışverişini ve iyon dengesini sağlar, beyne yastık görevi görür.",
+       "sayfa": 78
+      },
+      {
+       "id": "1.7-06",
+       "tur": "eslestir",
+       "yonerge": "Beyin bölümlerini görevleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Hipotalamus",
+         "Açlık, susuzluk ve vücut sıcaklığını düzenleme"
+        ],
+        [
+         "Talamus",
+         "Koku dışındaki duyu uyarılarını beyin kabuğuna iletme"
+        ],
+        [
+         "Beyincik",
+         "Hareket ve vücut dengesinin kontrolü"
+        ],
+        [
+         "Omurilik soğanı",
+         "Yutma, hapşırma ve çiğneme refleksleri"
+        ],
+        [
+         "Orta beyin",
+         "Kas tonusu ve vücut duruşunu düzenleme"
+        ]
+       ],
+       "bilgi": "Hipotalamus, vücudun pek çok iç ortam koşulunu düzenlediği için homeostazinin korunmasında etkilidir.",
+       "sayfa": 80
+      },
+      {
+       "id": "1.7-07",
+       "tur": "bosluk",
+       "cumle": "Beyincikte ak maddenin gri madde içinde oluşturduğu ağaç benzeri görünüme ___ denir.",
+       "cevap": "hayat ağacı",
+       "celdiriciler": [
+        "nasırlı cisim",
+        "beyin üçgeni",
+        "Rolando yarığı"
+       ],
+       "bilgi": "Beyincik, dengeyi gözden ve iç kulaktaki yarım daire kanallarından gelen sinyallerle sağlar.",
+       "sayfa": 80
+      },
+      {
+       "id": "1.7-08",
+       "tur": "secmeli",
+       "soru": "Orta beyin ile omurilik soğanı arasındaki kalın sinir demeti olan pons (Varolii köprüsü) hangi işlevde etkilidir?",
+       "secenekler": [
+        "Açlık ve tokluk hissinin düzenlenmesi",
+        "Görme uyarılarının yorumlanması",
+        "Solunum ritminin düzenlenmesi",
+        "Hipofizin uyarılması"
+       ],
+       "dogru": 2,
+       "bilgi": "Orta beyin, pons ve omurilik soğanı birlikte beyin sapını oluşturur.",
+       "sayfa": 80
+      },
+      {
+       "id": "1.7-09",
+       "tur": "dy",
+       "ifade": "Omuriliğin enine kesitinde, beyindekine benzer şekilde gri madde dış kısımda, ak madde iç kısımda yer alır.",
+       "dogru": false,
+       "bilgi": "Omurilikte gri madde iç kısımda kelebek biçiminde, ak madde dış kısımdadır; beyinde ise gri madde dışta, ak madde içtedir.",
+       "sayfa": 81
+      },
+      {
+       "id": "1.7-10",
+       "tur": "secmeli",
+       "soru": "İnsanda beyinden ve omurilikten çıkan sinir demeti sayıları sırasıyla hangisidir?",
+       "secenekler": [
+        "31 çift ve 12 çift",
+        "12 çift ve 33 çift",
+        "12 çift ve 31 çift",
+        "10 çift ve 31 çift"
+       ],
+       "dogru": 2,
+       "bilgi": "Omurilikten çıkan 31 çift sinir demetinde hem duyu hem motor nöronlar bulunur.",
+       "sayfa": 82
+      },
+      {
+       "id": "1.7-11",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi otonom sinir sistemi tarafından kontrol edilir?",
+       "secenekler": [
+        "Yazı yazarken kalemin tutulması",
+        "Konuşurken dudakların hareket ettirilmesi",
+        "Araba kullanırken pedala basılması",
+        "Heyecanlanınca kalp atışının hızlanması"
+       ],
+       "dogru": 3,
+       "bilgi": "Somatik sinir sistemi bilinçli iskelet kası hareketlerini, otonom sinir sistemi ise istemsiz yaşamsal faaliyetleri yönetir.",
+       "sayfa": 82
+      }
+     ]
+    },
+    {
+     "no": "1.8",
+     "ad": "Refleks Mekanizması",
+     "kartlar": [
+      {
+       "id": "1.8-01",
+       "tur": "bosluk",
+       "cumle": "Bir refleksin gerçekleşmesi sırasında uyaranın vücutta izlediği sinirsel ileti yoluna ___ denir.",
+       "cevap": "refleks yayı",
+       "celdiriciler": [
+        "sinaps",
+        "nöron ağı",
+        "Ranvier boğumu"
+       ],
+       "bilgi": "Refleksler, belirli uyaranlara karşı verilen otomatik, hızlı ve istemsiz tepkilerdir.",
+       "sayfa": 77
+      },
+      {
+       "id": "1.8-02",
+       "tur": "secmeli",
+       "soru": "İki nöronlu refleks yayının en iyi örneği olan diz kapağı refleksinde hangi nöronlar görev yapar?",
+       "secenekler": [
+        "Duyu nöronu ve ara nöron",
+        "Ara nöron ve motor nöron",
+        "Duyu nöronu ve motor nöron",
+        "Yalnızca motor nöron"
+       ],
+       "dogru": 2,
+       "bilgi": "Diz kapağı refleksi gibi iki nöronlu reflekslerde ara nöron bulunmaz.",
+       "sayfa": 86
+      },
+      {
+       "id": "1.8-03",
+       "tur": "secmeli",
+       "soru": "Üç nöronlu bir refleks yayında uyartının izlediği nöron sırası hangisidir?",
+       "secenekler": [
+        "Duyu nöronu, ara nöron, motor nöron",
+        "Motor nöron, ara nöron, duyu nöronu",
+        "Ara nöron, duyu nöronu, motor nöron",
+        "Duyu nöronu, motor nöron, ara nöron"
+       ],
+       "dogru": 0,
+       "bilgi": "Sıcak bir nesneden elin çekilmesinde uyartı reseptörden duyu nöronuna, omurilikteki ara nörona, oradan motor nöronla kasa ulaşır.",
+       "sayfa": 87
+      },
+      {
+       "id": "1.8-04",
+       "tur": "dy",
+       "ifade": "Sıcak bir nesneye dokunan elin geri çekilmesi refleksinin tamamı ilgili kaslar ile beyin arasında gerçekleşir.",
+       "dogru": false,
+       "bilgi": "El çekme refleksi kaslar ile omurilik arasında gerçekleşir; uyartı beyne ulaştığında sıcaklık ve acı hissedilir.",
+       "sayfa": 87
+      },
+      {
+       "id": "1.8-05",
+       "tur": "dy",
+       "ifade": "Yüzmek, bisiklet veya araba kullanmak gibi karmaşık davranışlar sık tekrarlandıkça refleks hâline gelebilir.",
+       "dogru": true,
+       "bilgi": "Dans etmek, örgü örmek ve enstrüman çalmak da tekrar yoluyla kazanılan refleks benzeri davranışlardır.",
+       "sayfa": 86
+      },
+      {
+       "id": "1.8-06",
+       "tur": "bosluk",
+       "cumle": "Mide ve bağırsaklarda besinin ilerlemesini sağlayan ___ hareketler de refleks hareketleridir.",
+       "cevap": "peristaltik",
+       "celdiriciler": [
+        "istemli",
+        "ameboid",
+        "antagonist"
+       ],
+       "bilgi": "Emme, yutkunma, öksürme, hapşırma ve diz kapağı refleksi de refleks davranışlarına örnektir.",
+       "sayfa": 86
+      },
+      {
+       "id": "1.8-07",
+       "tur": "eslestir",
+       "yonerge": "Refleksleri vücuda sağladıkları yararlarla eşleştir.",
+       "ciftler": [
+        [
+         "Öğürme",
+         "Kötü tat veya kokulu besinle zehirlenmeyi önleme"
+        ],
+        [
+         "Öksürme",
+         "Yutağa kaçan parçanın soluk borusuna gitmesini engelleme"
+        ],
+        [
+         "Hapşırma",
+         "Burnu toz, polen ve bakterilerden temizleme"
+        ],
+        [
+         "Göz bebeği refleksi",
+         "Göze giren ışık miktarını ayarlama"
+        ]
+       ],
+       "bilgi": "Refleksler vücudu tehlikeli durumlardan korur ve homeostazinin korunmasına yardımcı olur.",
+       "sayfa": 85
+      },
+      {
+       "id": "1.8-08",
+       "tur": "secmeli",
+       "soru": "Göz bebeğinin ışıkta küçülüp karanlıkta büyümesi refleksi beynin hangi bölümünden kontrol edilir?",
+       "secenekler": [
+        "Omurilik soğanı",
+        "Orta beyin",
+        "Beyincik",
+        "Hipotalamus"
+       ],
+       "dogru": 1,
+       "bilgi": "Ani bir ses karşısında sesin yönünü belirleme refleksi de orta beyinden kontrol edilir.",
+       "sayfa": 80
+      }
+     ]
+    },
+    {
+     "no": "1.9",
+     "ad": "Harekete Dayalı Tepki",
+     "kartlar": [
+      {
+       "id": "1.9-01",
+       "tur": "secmeli",
+       "soru": "Sert kemik dokuda osteonların ortasında bulunan ve içinden sinirler ile kan damarlarının geçtiği kanal hangisidir?",
+       "secenekler": [
+        "Volkmann kanalı",
+        "Havers kanalı",
+        "İlik boşluğu",
+        "Lakün"
+       ],
+       "dogru": 1,
+       "bilgi": "Havers kanalları birbirine kısa yan kanallar olan Volkmann kanallarıyla bağlanır; osteositler besin ve oksijeni bu yolla alır.",
+       "sayfa": 91
+      },
+      {
+       "id": "1.9-02",
+       "tur": "bosluk",
+       "cumle": "Gözeneklerinde kan hücrelerini üreten kırmızı kemik iliği bulunan, Havers ve Volkmann kanalı içermeyen kemik dokuya ___ kemik doku denir.",
+       "cevap": "süngerimsi",
+       "celdiriciler": [
+        "sert (sıkı)",
+        "yassı",
+        "kısa"
+       ],
+       "bilgi": "Süngerimsi kemik doku genellikle sert kemik dokunun altında bulunur; uzun kemiklerin uç kısımları süngerimsi kemik dokudan oluşur.",
+       "sayfa": 91
+      },
+      {
+       "id": "1.9-03",
+       "tur": "bosluk",
+       "cumle": "Uzun kemiklerde uç kısım ile gövde arasında bulunan, kıkırdaktan yapılmış ve gelişim tamamlanınca kemikleşen büyüme bölgesine ___ denir.",
+       "cevap": "epifiz plağı",
+       "celdiriciler": [
+        "periost",
+        "osteon",
+        "ilik boşluğu"
+       ],
+       "bilgi": "Epifiz plağı kemikleşince kemiğin boyca uzaması durur; kemiğin kalınlaşması ve onarımı ise periostun görevidir.",
+       "sayfa": 91
+      },
+      {
+       "id": "1.9-04",
+       "tur": "eslestir",
+       "yonerge": "Kıkırdak çeşitlerini bulundukları yerlerle eşleştir.",
+       "ciftler": [
+        [
+         "Elastik kıkırdak",
+         "Kulak kepçesi ve epiglottis"
+        ],
+        [
+         "Fibröz kıkırdak",
+         "Omurlar arası diskler"
+        ],
+        [
+         "Hiyalin kıkırdak",
+         "Soluk borusu ve kaburga uçları"
+        ]
+       ],
+       "bilgi": "Kıkırdak doku hücrelerine kondrosit, ara maddesine kondrin denir; kıkırdakta sinir ve kan damarı bulunmaz.",
+       "sayfa": 93
+      },
+      {
+       "id": "1.9-05",
+       "tur": "secmeli",
+       "soru": "Eklemde birleşen kemikleri birbirine bağlayan fibröz bağ doku liflerine ne ad verilir?",
+       "secenekler": [
+        "Tendon",
+        "Periost",
+        "Ligament",
+        "Miyofibril"
+       ],
+       "dogru": 2,
+       "bilgi": "Ligamentler kemikleri birbirine bağlar; tendonlar ise kasların kemikle bağlantı kurmasını sağlar.",
+       "sayfa": 94
+      },
+      {
+       "id": "1.9-06",
+       "tur": "secmeli",
+       "soru": "Eklem kapsülü ve sinovyal sıvı bulunmayan, kemikler arasında kıkırdak disk bulunan ve sınırlı hareket sağlayan eklem türü hangisidir?",
+       "secenekler": [
+        "Oynar eklem",
+        "Yarı oynar eklem",
+        "Oynamaz eklem"
+       ],
+       "dogru": 1,
+       "bilgi": "Omurlar arasındaki eklemler yarı oynar; diz, dirsek, omuz eklemleri oynar; kafatası kemikleri arasındaki eklemler oynamaz eklemlerdir.",
+       "sayfa": 94
+      },
+      {
+       "id": "1.9-07",
+       "tur": "dy",
+       "ifade": "Oynar eklemlerde sinovyal zarın salgıladığı sinovyal sıvı, kemik uçlarının sürtünmesini engelleyerek aşınmayı önler.",
+       "dogru": true,
+       "bilgi": "Oynar eklemlerde kemik yüzeyleri kıkırdakla kaplıdır ve eklemi bağ dokudan oluşan eklem kapsülü sarar.",
+       "sayfa": 94
+      },
+      {
+       "id": "1.9-08",
+       "tur": "secmeli",
+       "soru": "Çok çekirdekli, miyoglobin içerdiği için kırmızı görünen, istemli çalışan, hızlı kasılıp çabuk yorulan kas tipi hangisidir?",
+       "secenekler": [
+        "Düz kas",
+        "Kalp kası",
+        "İskelet (çizgili) kası"
+       ],
+       "dogru": 2,
+       "bilgi": "Düz kas tek çekirdekli ve istemsizdir; kalp kası bantlaşma gösterir ancak istemsiz, hızlı ve uzun süreli çalışır.",
+       "sayfa": 95
+      },
+      {
+       "id": "1.9-09",
+       "tur": "bosluk",
+       "cumle": "Kol bükülürken bükücü kasın kasılıp açıcı kasın gevşemesinde olduğu gibi birbirine zıt çalışan kaslara ___ kaslar denir.",
+       "cevap": "antagonist",
+       "celdiriciler": [
+        "sinerjist",
+        "efektör",
+        "istemsiz"
+       ],
+       "bilgi": "Aynı yönde çalışıp aynı anda kasılıp gevşeyen karın ve sırt kasları gibi kaslara sinerjist kaslar denir.",
+       "sayfa": 96
+      },
+      {
+       "id": "1.9-10",
+       "tur": "secmeli",
+       "soru": "Destek noktasının ayak parmakları, yükün vücut ağırlığı olduğu ayak ucunda yükselme hareketi hangi tip kaldıraç örneğidir?",
+       "secenekler": [
+        "Birinci tip kaldıraç",
+        "İkinci tip kaldıraç",
+        "Üçüncü tip kaldıraç"
+       ],
+       "dogru": 1,
+       "bilgi": "Başın dik tutulması birinci tip, elde ağırlık kaldırma ise üçüncü tip kaldıraç örneğidir.",
+       "sayfa": 97
+      }
+     ]
+    },
+    {
+     "no": "1.10",
+     "ad": "İskelet Kaslarının Kasılma ve Gevşeme Mekanizması",
+     "kartlar": [
+      {
+       "id": "1.10-01",
+       "tur": "bosluk",
+       "cumle": "Uyarılan bir kas telinin bir kez kasılıp gevşeyerek eski hâline dönmesine ___ denir.",
+       "cevap": "kas sarsı",
+       "celdiriciler": [
+        "kas tonusu",
+        "fizyolojik tetanus",
+        "merdiven etkisi"
+       ],
+       "bilgi": "Tek bir kas teli, sinir hücreleri gibi ya hep ya hiç prensibine göre kasılır.",
+       "sayfa": 103
+      },
+      {
+       "id": "1.10-02",
+       "tur": "secmeli",
+       "soru": "Kas sarsı sürecindeki evrelerin doğru sıralaması hangisidir?",
+       "secenekler": [
+        "Kasılma evresi, gizli evre, gevşeme evresi",
+        "Gizli evre, kasılma evresi, gevşeme evresi",
+        "Gizli evre, gevşeme evresi, kasılma evresi",
+        "Kasılma evresi, gevşeme evresi, gizli evre"
+       ],
+       "dogru": 1,
+       "bilgi": "Gizli evre, kasın uyarıldığı an ile kasılmaya başladığı an arasındaki süredir.",
+       "sayfa": 103
+      },
+      {
+       "id": "1.10-03",
+       "tur": "secmeli",
+       "soru": "Kısa aralıklarla sık sık uyarılan bir kasın gevşeme sürecini tamamlayamayıp bir süre kasılı kalmasına ne ad verilir?",
+       "secenekler": [
+        "Kas tonusu",
+        "Kas sarsı",
+        "Gizli evre",
+        "Fizyolojik tetanus"
+       ],
+       "dogru": 3,
+       "bilgi": "Kas fizyolojik tetanus durumundayken gevşeyemez.",
+       "sayfa": 103
+      },
+      {
+       "id": "1.10-04",
+       "tur": "dy",
+       "ifade": "Bilinci açık bir kişide iskelet kaslarının hafif kasılı olmasına kas tonusu denir ve kişi bayıldığında kas tonusu ortadan kalkar.",
+       "dogru": true,
+       "bilgi": "Kas tonusu, kasların her zaman çalışmaya hazır olmasını sağlar.",
+       "sayfa": 104
+      },
+      {
+       "id": "1.10-05",
+       "tur": "secmeli",
+       "soru": "İki Z çizgisi arasında kalan ve kasın en küçük kasılma birimi olan yapı hangisidir?",
+       "secenekler": [
+        "Sarkomer",
+        "Miyofibril",
+        "H bandı",
+        "Kas lifi"
+       ],
+       "dogru": 0,
+       "bilgi": "Bir kas lifi çok sayıda miyofibrilden, miyofibriller de aktin ve miyozin ipliklerinden oluşur.",
+       "sayfa": 104
+      },
+      {
+       "id": "1.10-06",
+       "tur": "eslestir",
+       "yonerge": "Sarkomerdeki bölgeleri tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "I bandı",
+         "İnce aktin ipliklerinin oluşturduğu açık renkli bölge"
+        ],
+        [
+         "A bandı",
+         "Aktin ve miyozinin birlikte bulunduğu koyu bölge"
+        ],
+        [
+         "H bandı",
+         "A bandının ortasında yalnızca miyozin bulunan kısım"
+        ],
+        [
+         "Z çizgisi",
+         "I bandının ortasındaki zikzak biçimli kısım"
+        ]
+       ],
+       "bilgi": "Aktin ışığı az kırdığı için açık, miyozinin bulunduğu bölgeler ışığı çok kırdığı için koyu görünür; bu dizilim çizgili görünümü oluşturur.",
+       "sayfa": 104
+      },
+      {
+       "id": "1.10-07",
+       "tur": "dy",
+       "ifade": "Kas kasılması sırasında A bandının boyu kısalırken H ve I bantları genişler.",
+       "dogru": false,
+       "bilgi": "Kasılmada A bandının boyu değişmez; Z çizgileri birbirine yaklaşır, H ve I bantları daralır.",
+       "sayfa": 104
+      },
+      {
+       "id": "1.10-08",
+       "tur": "bosluk",
+       "cumle": "Çizgili kasların kasılması ve gevşemesi, aktin ipliklerinin miyozin üzerinde kaymasını esas alan ___ kayan iplikler modeliyle açıklanır.",
+       "cevap": "Huxley'in",
+       "celdiriciler": [
+        "Schwann'ın",
+        "Ranvier'nin",
+        "Corti'nin"
+       ],
+       "bilgi": "Kayan iplikler modeline göre kasılma ve gevşeme sırasında kasın hacmi ve kütlesi değişmez.",
+       "sayfa": 104
+      },
+      {
+       "id": "1.10-09",
+       "tur": "secmeli",
+       "soru": "Motor sinirden gelen uyarıyla sarkoplazmik retikulumdan sitoplazmaya geçerek aktin ve miyozinin bağlanmasını sağlayan iyon hangisidir?",
+       "secenekler": [
+        "Na⁺",
+        "Ca²⁺",
+        "K⁺",
+        "H⁺"
+       ],
+       "dogru": 1,
+       "bilgi": "Kasılma tamamlanınca Ca²⁺ iyonları aktif taşımayla sarkoplazmik retikuluma geri alınır ve kas gevşer.",
+       "sayfa": 105
+      },
+      {
+       "id": "1.10-10",
+       "tur": "dy",
+       "ifade": "Egzersizden sonraki günlerde ortaya çıkan kas ağrılarının nedeni kaslarda biriken laktattır.",
+       "dogru": false,
+       "bilgi": "Kas ağrılarının nedeni egzersiz sırasında kas liflerinin hasar almasıdır; laktat çoğunlukla karaciğerde yeniden glikoza çevrilir.",
+       "sayfa": 105
+      }
+     ]
+    },
+    {
+     "no": "1.11",
+     "ad": "Bağışıklık Sistemi",
+     "kartlar": [
+      {
+       "id": "1.11-01",
+       "tur": "bosluk",
+       "cumle": "Vücuda girdiğinde antikor oluşumuna neden olan her türlü yabancı maddeye ___ denir.",
+       "cevap": "antijen",
+       "celdiriciler": [
+        "antikor",
+        "interferon",
+        "sitokin"
+       ],
+       "bilgi": "Antijenlere karşı üretilen özgül savunma proteinlerine antikor denir; bağışıklık sistemini inceleyen bilim dalı immünolojidir.",
+       "sayfa": 110
+      },
+      {
+       "id": "1.11-02",
+       "tur": "secmeli",
+       "soru": "MÖ 430'daki Atina veba salgınında, daha önce veba geçirmiş kişilerin hastalığa yeniden yakalanmadığını yazan tarihçi kimdir?",
+       "secenekler": [
+        "Herodot",
+        "Tukidides",
+        "Hipokrat",
+        "Galen"
+       ],
+       "dogru": 1,
+       "bilgi": "Tukidides Peloponez Savaşı'nın ikinci yılındaki salgını anlatmış, kendisi de bu hastalığa yakalanıp kurtulmuştur.",
+       "sayfa": 112
+      },
+      {
+       "id": "1.11-03",
+       "tur": "dy",
+       "ifade": "Doğal bağışıklık patojene özgüdür ve hafızası vardır.",
+       "dogru": false,
+       "bilgi": "Doğal bağışıklık kalıtsaldır, patojene özgü değildir ve hafızası yoktur; vücut aynı etkenle her karşılaştığında benzer tepki verir.",
+       "sayfa": 112
+      },
+      {
+       "id": "1.11-04",
+       "tur": "secmeli",
+       "soru": "Fagositoz yapmayan, salgıladığı kimyasallarla virüs bulaşmış veya kanserleşmiş hücreleri parçalayan akyuvarlar hangileridir?",
+       "secenekler": [
+        "Nötrofiller",
+        "Makrofajlar",
+        "Eozinofiller",
+        "Doğal katil hücreler"
+       ],
+       "dogru": 3,
+       "bilgi": "Doğal katil hücreler nakledilen doku ve organların vücut tarafından reddedilmesinde de etkilidir.",
+       "sayfa": 111
+      },
+      {
+       "id": "1.11-05",
+       "tur": "secmeli",
+       "soru": "Virüsle enfekte olmuş hücrelerde salgılanan ve komşu hücrelerde antiviral protein sentezini uyaran glikoprotein yapılı antimikrobiyal protein hangisidir?",
+       "secenekler": [
+        "İnterferon",
+        "Histamin",
+        "Lizozim",
+        "Fibrinojen"
+       ],
+       "dogru": 0,
+       "bilgi": "Rekombinant DNA teknolojisiyle üretilen interferonlar hepatit C gibi bazı viral enfeksiyonların tedavisinde kullanılır.",
+       "sayfa": 111
+      },
+      {
+       "id": "1.11-06",
+       "tur": "bosluk",
+       "cumle": "Yangısal tepkide hasarlı dokudaki bazofil ve mast hücrelerinden salgılanan ___, kılcal damarları genişletip geçirgenliklerini artırır.",
+       "cevap": "histamin",
+       "celdiriciler": [
+        "interferon",
+        "lizozim",
+        "fibrinojen"
+       ],
+       "bilgi": "Yangısal tepkide dokuda ısı artışı, kızarıklık ve ödem oluşur; fibrinojenin etkisiyle oluşan pıhtı mikropların yayılmasını önler.",
+       "sayfa": 111
+      },
+      {
+       "id": "1.11-07",
+       "tur": "dy",
+       "ifade": "B ve T lenfositleri kemik iliğindeki kök hücrelerden oluşur; B lenfositleri kemik iliğinde, T lenfositleri timüste olgunlaşır.",
+       "dogru": true,
+       "bilgi": "B hücreleri antijene özgü antikor üretir; T hücreleri enfekte hücreleri, kanser hücrelerini ve nakledilmiş dokuları toksik proteinlerle yok eder.",
+       "sayfa": 112
+      },
+      {
+       "id": "1.11-08",
+       "tur": "secmeli",
+       "soru": "Aynı antijen vücuda ikinci kez girdiğinde antikor üretiminin daha kısa sürede gerçekleşmesini sağlayan hücreler hangileridir?",
+       "secenekler": [
+        "Mast hücreleri",
+        "Doğal katil hücreler",
+        "Hafıza (bellek) hücreleri",
+        "Dendritik hücreler"
+       ],
+       "dogru": 2,
+       "bilgi": "İkincil bağışıklıkta oluşan antikorlar birincil tepkidekilerden hem daha fazladır hem de antijene ilgileri daha yüksektir.",
+       "sayfa": 113
+      },
+      {
+       "id": "1.11-09",
+       "tur": "eslestir",
+       "yonerge": "Bağışıklık kazanma yollarını bağışıklık türleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Hastalığı geçirme",
+         "Doğal aktif bağışıklık"
+        ],
+        [
+         "Aşılanma",
+         "Yapay aktif bağışıklık"
+        ],
+        [
+         "Serum",
+         "Yapay pasif bağışıklık"
+        ],
+        [
+         "Plasenta ve anne sütü",
+         "Doğal pasif bağışıklık"
+        ]
+       ],
+       "bilgi": "Aktif bağışıklıkta birey antikoru kendisi üretir; pasif bağışıklıkta antikorlar hazır alınır ve koruma kısa sürelidir.",
+       "sayfa": 109
+      },
+      {
+       "id": "1.11-10",
+       "tur": "secmeli",
+       "soru": "Tifüs aşısını ilk bulan bilim insanı kimdir?",
+       "secenekler": [
+        "Edward Jenner",
+        "Louis Pasteur",
+        "Reşat Rıza Kor",
+        "Alexander Fleming"
+       ],
+       "dogru": 2,
+       "bilgi": "İlk aşı olan çiçek aşısını 1796'da Edward Jenner, kuduz aşısını 1885'te Louis Pasteur üretmiştir.",
+       "sayfa": 114
+      },
+      {
+       "id": "1.11-11",
+       "tur": "dy",
+       "ifade": "Grip aşısı bir kez yapıldığında ömür boyu koruma sağladığı için yeniden geliştirilmesine gerek yoktur.",
+       "dogru": false,
+       "bilgi": "Virüsler mutasyonla sık değiştiğinden bellek hücreleri yeni virüsü tanıyamaz; bu yüzden grip aşıları her yıl yeniden geliştirilir.",
+       "sayfa": 114
+      }
+     ]
+    },
+    {
+     "no": "1.12",
+     "ad": "Alerjik Tepkiler",
+     "kartlar": [
+      {
+       "id": "1.12-01",
+       "tur": "bosluk",
+       "cumle": "Bağışıklık sisteminin zararsız maddelere aşırı reaksiyon göstermesine alerji, bu reaksiyonlara yol açan etkenlere ___ denir.",
+       "cevap": "alerjen",
+       "celdiriciler": [
+        "antikor",
+        "histamin",
+        "patojen"
+       ],
+       "bilgi": "Polen, toz, küf, tüy, arı zehri, penisilin ile balık, yumurta, çilek ve yer fıstığı gibi besinler alerjen olabilir.",
+       "sayfa": 118
+      },
+      {
+       "id": "1.12-02",
+       "tur": "dy",
+       "ifade": "Alerjinin ortaya çıkmasında yalnızca genetik eğilim etkilidir, çevresel faktörlerin rolü yoktur.",
+       "dogru": false,
+       "bilgi": "Genetik eğilimin yanında hava kirliliği, kimyasallar ve beslenme şekli de etkilidir; endüstrileşme ve çevre kirliliği alerjiyi yaygınlaştırmıştır.",
+       "sayfa": 118
+      },
+      {
+       "id": "1.12-03",
+       "tur": "eslestir",
+       "yonerge": "Alerjik hastalıkları alerjik reaksiyonun görüldüğü bölgeyle eşleştir.",
+       "ciftler": [
+        [
+         "Alerjik rinit",
+         "Burun zarı"
+        ],
+        [
+         "Astım",
+         "Bronşlar"
+        ],
+        [
+         "Egzama",
+         "Deri"
+        ]
+       ],
+       "bilgi": "Alerjik rinit, astım, göz nezlesi ve egzama başlıca alerjik hastalıklardandır.",
+       "sayfa": 119
+      },
+      {
+       "id": "1.12-04",
+       "tur": "secmeli",
+       "soru": "Alerjenle ilk karşılaşmada plazma hücrelerinin ürettiği antikorlar bağ dokudaki hangi hücrelerin zarına tutunur?",
+       "secenekler": [
+        "Alyuvarlar",
+        "Mast hücreleri",
+        "Doğal katil hücreler",
+        "Nöronlar"
+       ],
+       "dogru": 1,
+       "bilgi": "Alerjenle ilk karşılaşmada B lenfositleri antikor üreten plazma hücrelerine dönüşür.",
+       "sayfa": 119
+      },
+      {
+       "id": "1.12-05",
+       "tur": "secmeli",
+       "soru": "Alerjen vücuda ikinci kez girip mast hücresindeki antikorlara bağlandığında salgılanan ve alerji belirtilerine yol açan molekül hangisidir?",
+       "secenekler": [
+        "İnterferon",
+        "Lizozim",
+        "Epinefrin",
+        "Histamin"
+       ],
+       "dogru": 3,
+       "bilgi": "Histamin yangısal tepki oluşturarak hapşırma, burun akıntısı, kaşıntı, şişme ve solunum zorluğu gibi belirtilere neden olur.",
+       "sayfa": 119
+      },
+      {
+       "id": "1.12-06",
+       "tur": "dy",
+       "ifade": "Antihistaminik ilaçlar, histaminin bağlandığı hedef hücrelerdeki reseptörleri bloke ederek alerjik tepkileri önler.",
+       "dogru": true,
+       "bilgi": "Antihistaminikler histaminin etkisini engelleyerek alerjik tepkilerin ortaya çıkmasını önler.",
+       "sayfa": 119
+      },
+      {
+       "id": "1.12-07",
+       "tur": "bosluk",
+       "cumle": "Arı zehri, yer fıstığı veya penisiline aşırı hassas kişilerde damarların aniden genişleyip kan basıncının ölümcül düzeyde düşmesine ___ denir.",
+       "cevap": "anafilaktik şok",
+       "celdiriciler": [
+        "alerjik rinit",
+        "egzama",
+        "astım"
+       ],
+       "bilgi": "Anafilaktik şokta solunum yolları daralır; acil müdahale edilmezse gırtlak ödemi, tansiyon düşüklüğü veya kalp krizi nedeniyle ölüm olabilir.",
+       "sayfa": 119
+      },
+      {
+       "id": "1.12-08",
+       "tur": "secmeli",
+       "soru": "Anafilaktik şok hangi hormonun enjeksiyonuyla giderilebilir?",
+       "secenekler": [
+        "İnsülin",
+        "Glukagon",
+        "Epinefrin (adrenalin)",
+        "Tiroksin"
+       ],
+       "dogru": 2,
+       "bilgi": "Anafilaktik şok, epinefrin (adrenalin) enjeksiyonlarıyla giderilebilmektedir.",
+       "sayfa": 119
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Homeostazi",
+   "konular": [
+    {
+     "no": "2.1",
+     "ad": "Homeostazinin Canlılar İçin Önemi",
+     "kartlar": [
+      {
+       "id": "2.1-01",
+       "tur": "bosluk",
+       "cumle": "Canlıların iyon, enerji, vücut sıcaklığı, pH ve su dengesi gibi hayati değişkenleri belirli bir aralıkta tutarak iç dengeyi sağlamasına ___ denir.",
+       "cevap": "homeostazi",
+       "celdiriciler": [
+        "metabolizma",
+        "detoksifikasyon",
+        "adaptasyon"
+       ],
+       "bilgi": "Homeostazi canlıların ortak özelliklerinden biridir ve çevresel stres faktörlerine uyumu ve hayatta kalma şansını artırır.",
+       "sayfa": 147
+      },
+      {
+       "id": "2.1-02",
+       "tur": "secmeli",
+       "soru": "Tatlı suda yaşayan paramesyumda hücre içine giren fazla suyu dışarı atarak su dengesini sağlayan yapı hangisidir?",
+       "secenekler": [
+        "Kontraktil koful",
+        "Hidatot",
+        "Stoma",
+        "Kütikula"
+       ],
+       "dogru": 0,
+       "bilgi": "Paramesyumda kontraktil koful, balıklarda solungaç ve bitkilerde stoma homeostazide görev alan yapılara örnektir.",
+       "sayfa": 147
+      },
+      {
+       "id": "2.1-03",
+       "tur": "bosluk",
+       "cumle": "Bitkilerin terlemenin yetersiz kaldığı nemli ortamlarda fazla suyu yaprak kenarındaki hidatotlardan damlalar hâlinde atmasına ___ denir.",
+       "cevap": "gutasyon",
+       "celdiriciler": [
+        "terleme",
+        "plazmoliz",
+        "osmoz"
+       ],
+       "bilgi": "Gutasyonla tuz ve mineral kaybı da olduğundan bitkinin iyon dengesi korunur.",
+       "sayfa": 145
+      },
+      {
+       "id": "2.1-04",
+       "tur": "dy",
+       "ifade": "Tatlı su balıkları fazla tuzu solungaçlarıyla aktif taşıma yaparak dışarı atarken deniz balıkları iyonları aktif olarak alır.",
+       "dogru": false,
+       "bilgi": "Tatlı su balıkları Na⁺, Cl⁻, Ca²⁺ gibi iyonları solungaçlarıyla aktif olarak alır; deniz balıkları ise fazla tuzu aktif taşımayla dışarı atar.",
+       "sayfa": 148
+      },
+      {
+       "id": "2.1-05",
+       "tur": "secmeli",
+       "soru": "Bitki yapraklarının dış yüzeyini örten ve özellikle kurak ortamlarda aşırı su kaybını azaltan mumsu tabaka hangisidir?",
+       "secenekler": [
+        "Stoma",
+        "Hidatot",
+        "Kontraktil koful",
+        "Kütikula"
+       ],
+       "dogru": 3,
+       "bilgi": "Stomalar çevre koşullarına göre açılıp kapanarak su buharı kaybını düzenler.",
+       "sayfa": 148
+      },
+      {
+       "id": "2.1-06",
+       "tur": "dy",
+       "ifade": "İnsanlarda kılların dikleşmesi, kıllar yeterli sıklıkta olmadığı için vücut ısısını korumada pek etkili değildir.",
+       "dogru": true,
+       "bilgi": "Kuşlar soğukta tüylerini, bazı kara hayvanları kürklerini kabartarak ısı yalıtım tabakasını kalınlaştırır.",
+       "sayfa": 145
+      },
+      {
+       "id": "2.1-07",
+       "tur": "eslestir",
+       "yonerge": "Canlıları homeostaziye katkı sağlayan yapı veya davranışlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Balık",
+         "Solungaçlarla iyon ve su dengesi"
+        ],
+        [
+         "Kaktüs",
+         "Dikensi yapraklarla terleme yüzeyini azaltma"
+        ],
+        [
+         "Kuş",
+         "Soğukta tüylerini kabartma"
+        ],
+        [
+         "Köpek",
+         "Dilini çıkarıp hızlı soluma"
+        ]
+       ],
+       "bilgi": "Köpeklerde ter bezleri yalnızca pati ve burun ucunda bulunduğundan vücut sıcaklığı hızlı solunumla dengelenir.",
+       "sayfa": 145
+      },
+      {
+       "id": "2.1-08",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi, homeostazinin vücuttaki işleviyle ilgili çalışmalarıyla anılan bilim insanlarından biridir?",
+       "secenekler": [
+        "Gregor Mendel",
+        "Claude Bernard",
+        "Robert Hooke",
+        "Charles Darwin"
+       ],
+       "dogru": 1,
+       "bilgi": "İbni Sina, İbnünnefis, Ebu Bekir Razi, Walter Cannon ve Claude Bernard homeostazinin vücuttaki işleviyle ilgili çalışmalarıyla anılır.",
+       "sayfa": 146
+      }
+     ]
+    },
+    {
+     "no": "2.2",
+     "ad": "Homeostatik Süreçler",
+     "kartlar": [
+      {
+       "id": "2.2-01",
+       "tur": "secmeli",
+       "soru": "Kan plazmasındaki su miktarı azaldığında böbreklerden suyun geri emilimini artıran hormon hangisidir?",
+       "secenekler": [
+        "ADH (antidiüretik hormon)",
+        "İnsülin",
+        "Glukagon",
+        "Kalsitonin"
+       ],
+       "dogru": 0,
+       "bilgi": "Plazmadaki su azalmasını hipotalamustaki reseptörler algılar; ADH artınca derişik, azalınca seyreltik idrar oluşur.",
+       "sayfa": 152
+      },
+      {
+       "id": "2.2-02",
+       "tur": "dy",
+       "ifade": "Cinsiyet, yaş ve yağ oranına göre değişmekle birlikte su, ortalama bir insanda vücudun yaklaşık %60'ını oluşturur.",
+       "dogru": true,
+       "bilgi": "Su metabolik tepkimelerin gerçekleşmesini sağlar; su ve elektrolit dengesi iç ortamın kararlılığı için büyük önem taşır.",
+       "sayfa": 152
+      },
+      {
+       "id": "2.2-03",
+       "tur": "eslestir",
+       "yonerge": "Vücudun enerji ihtiyacının bileşenlerini tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Bazal metabolizma hızı",
+         "Dinlenme hâlinde yaşamsal işlevler için gereken enerji"
+        ],
+        [
+         "Fiziksel etkinlik",
+         "Günlük hareket ve egzersizde harcanan enerji"
+        ],
+        [
+         "Termik etki",
+         "Besinlerin sindirimi ve metabolizmasında harcanan enerji"
+        ]
+       ],
+       "bilgi": "Bazal metabolizma hızı toplam enerji ihtiyacının genelde %60-70'ini, termik etki ise yaklaşık %10'unu oluşturur.",
+       "sayfa": 153
+      },
+      {
+       "id": "2.2-04",
+       "tur": "bosluk",
+       "cumle": "Enerji ihtiyacından fazla kalori alınması sonucu yağ dokusunun artıp kişinin zamanla kilo aldığı duruma ___ enerji dengesi denir.",
+       "cevap": "pozitif",
+       "celdiriciler": [
+        "negatif",
+        "bazal",
+        "termik"
+       ],
+       "bilgi": "Enerji tüketimi enerji alımından fazla olduğunda negatif enerji dengesi oluşur ve kişi kilo kaybeder.",
+       "sayfa": 153
+      },
+      {
+       "id": "2.2-05",
+       "tur": "secmeli",
+       "soru": "Toksinlerin uzaklaştırılmasında karaciğer, metabolizma sonucu oluşan amonyağı hangi maddeye çevirerek toksik etkisini azaltır?",
+       "secenekler": [
+        "Ürik asit",
+        "Kreatinin",
+        "Glikojen",
+        "Üre"
+       ],
+       "dogru": 3,
+       "bilgi": "Zararlı maddelerin etkisiz hâle getirilip atılmasına detoksifikasyon denir; bunda karaciğer, böbrekler, akciğerler, deri ve bağırsaklar görev alır.",
+       "sayfa": 153
+      },
+      {
+       "id": "2.2-06",
+       "tur": "dy",
+       "ifade": "Vücut sıcaklığını dar bir aralıkta tutan ısı düzenleme merkezi omurilik soğanında bulunur.",
+       "dogru": false,
+       "bilgi": "Vücut sıcaklığını (ortalama 36,8 ± 0,4 °C) dar bir aralıkta tutan ısı düzenleme merkezi beynin hipotalamus bölgesindedir.",
+       "sayfa": 154
+      },
+      {
+       "id": "2.2-07",
+       "tur": "secmeli",
+       "soru": "Soğuk ortamda vücut sıcaklığını korumaya yönelik olarak aşağıdakilerden hangisi gerçekleşir?",
+       "secenekler": [
+        "Terlemenin artması",
+        "Deri kan damarlarının daralması",
+        "Deri kan damarlarının genişlemesi",
+        "Kıl kökü kaslarının gevşemesi"
+       ],
+       "dogru": 1,
+       "bilgi": "Soğukta iskelet kasları titrer, kan damarları daralır ve kıllar dikleşir; sıcakta damarlar genişler ve terleme olur.",
+       "sayfa": 154
+      },
+      {
+       "id": "2.2-08",
+       "tur": "bosluk",
+       "cumle": "Kanın damar duvarına uyguladığı kuvvete ___ (tansiyon) denir.",
+       "cevap": "kan basıncı",
+       "celdiriciler": [
+        "kalp debisi",
+        "ozmotik basınç",
+        "nabız"
+       ],
+       "bilgi": "Kan basıncı kalp debisine, atardamarların çapı ve esnekliğine ve toplam kan miktarına bağlıdır; damarlar daralınca yükselir.",
+       "sayfa": 154
+      }
+     ]
+    },
+    {
+     "no": "2.3",
+     "ad": "Pozitif ve Negatif Geri Bildirim",
+     "kartlar": [
+      {
+       "id": "2.3-01",
+       "tur": "dy",
+       "ifade": "Pozitif geri bildirimde uyarının etkisi artarak devam eder ve süreç genellikle belirli bir amaç gerçekleşince sona erer.",
+       "dogru": true,
+       "bilgi": "Pozitif geri bildirim homeostaziyi doğrudan sağlamaz; bir sürecin tamamlanmasını veya hızlanmasını sağlar, aşırısı organizmaya zarar verebilir.",
+       "sayfa": 159
+      },
+      {
+       "id": "2.3-02",
+       "tur": "dy",
+       "ifade": "Canlılarda iç dengenin korunmasında en yaygın kullanılan düzenleyici mekanizma pozitif geri bildirimdir.",
+       "dogru": false,
+       "bilgi": "İç dengenin korunmasında en yaygın mekanizma, oluşan sonucun süreci başlatan etkiyi azalttığı negatif geri bildirimdir.",
+       "sayfa": 159
+      },
+      {
+       "id": "2.3-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi pozitif geri bildirime örnektir?",
+       "secenekler": [
+        "Doğumda oksitosinin kasılmaları giderek artırması",
+        "Kan şekeri yükselince insülin salgısının artması",
+        "Vücut sıcaklığı yükselince ter bezlerinin daha çok çalışması",
+        "Kandaki CO₂ artınca solunumun hızlanması"
+       ],
+       "dogru": 0,
+       "bilgi": "Yaralanmada pıhtılaşmanın güçlenerek sürmesi ve emzirme sürdükçe süt salgısının devam etmesi de pozitif geri bildirim örnekleridir.",
+       "sayfa": 159
+      },
+      {
+       "id": "2.3-04",
+       "tur": "bosluk",
+       "cumle": "Damar zedelendiğinde pıhtılaşma faktörlerinin başlattığı reaksiyonlar sonucunda pıhtıyı oluşturan lifli proteine ___ denir.",
+       "cevap": "fibrin",
+       "celdiriciler": [
+        "kolajen",
+        "elastin",
+        "keratin"
+       ],
+       "bilgi": "Zedelenen dokudan ve kan pulcuklarından salınan pıhtılaşma faktörleri pıhtının genişleyerek yarayı kapatmasını sağlar.",
+       "sayfa": 159
+      },
+      {
+       "id": "2.3-05",
+       "tur": "bosluk",
+       "cumle": "Doğum başladığında rahim ağzındaki baskının artmasıyla salgılanan ve kasılmalar sürdükçe salınımı da artan hormon ___ hormonudur.",
+       "cevap": "oksitosin",
+       "celdiriciler": [
+        "insülin",
+        "tiroksin",
+        "aldosteron"
+       ],
+       "bilgi": "Oksitosinin kasılmaları artırması ve kasılmaların daha fazla hormon salınımını tetiklemesi bebek doğana kadar sürer.",
+       "sayfa": 159
+      },
+      {
+       "id": "2.3-06",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi negatif geri bildirime örnektir?",
+       "secenekler": [
+        "Yaralanmada pıhtılaşmanın güçlenerek devam etmesi",
+        "Emzirme sürdükçe süt salgısının devam etmesi",
+        "Doğumda kasılmaların artarak sürmesi",
+        "Onikiparmakta pH düşünce bikarbonat salgılanması"
+       ],
+       "dogru": 3,
+       "bilgi": "Pankreastan salgılanan bikarbonat pH'yi yükseltince pankreası uyaran hormonun salgısı durur.",
+       "sayfa": 160
+      },
+      {
+       "id": "2.3-07",
+       "tur": "secmeli",
+       "soru": "Kandaki CO₂ artıp kan pH değeri düştüğünde beyindeki solunum merkezi nasıl bir tepki oluşturur?",
+       "secenekler": [
+        "Solunumu yavaşlatarak CO₂ birikimini artırır.",
+        "Böbreklerden kana H⁺ emilimini artırır.",
+        "Solunumu hızlandırarak CO₂ atılımını artırır.",
+        "Kalp atış hızını durdurur."
+       ],
+       "dogru": 2,
+       "bilgi": "pH normale döndüğünde solunum merkezindeki uyarılar da normale döner; bu bir negatif geri bildirim örneğidir.",
+       "sayfa": 160
+      },
+      {
+       "id": "2.3-08",
+       "tur": "secmeli",
+       "soru": "Kanda artan kortizolün hipofizden ACTH salgılanmasını yavaşlatması hangi düzenleme mekanizmasına örnektir?",
+       "secenekler": [
+        "Negatif geri bildirim",
+        "Pozitif geri bildirim",
+        "Ya hep ya hiç yasası",
+        "Merdiven etkisi"
+       ],
+       "dogru": 0,
+       "bilgi": "Negatif geri bildirim mekanizmaları genellikle hormon sistemi ve sinir sistemi aracılığıyla işler.",
+       "sayfa": 177
+      }
+     ]
+    },
+    {
+     "no": "2.4",
+     "ad": "Homeostazinin Sağlanmasında Sinir Sisteminin Etkileri",
+     "kartlar": [
+      {
+       "id": "2.4-01",
+       "tur": "bosluk",
+       "cumle": "Dolaşım, solunum ve sindirim gibi yaşamsal faaliyetleri düzenlediği için omurilik soğanı \"___\" olarak bilinir.",
+       "cevap": "hayat düğümü",
+       "celdiriciler": [
+        "hayat ağacı",
+        "beyin sapı",
+        "Varolii köprüsü"
+       ],
+       "bilgi": "Pons ve omurilik soğanı solunum, kalp atım hızı, kan basıncı, yutma ve öksürme gibi hayati refleksleri düzenler.",
+       "sayfa": 165
+      },
+      {
+       "id": "2.4-02",
+       "tur": "secmeli",
+       "soru": "Damar duvarlarında bulunup kan basıncındaki yükselmeyi algılayarak bilgiyi merkezî sinir sistemine ileten reseptörlere ne ad verilir?",
+       "secenekler": [
+        "Kemoreseptör",
+        "Fotoreseptör",
+        "Nosiseptör",
+        "Baroreseptör"
+       ],
+       "dogru": 3,
+       "bilgi": "Baroreseptörlerin uyarılmasıyla başlayan düzenleyici yanıtlar, yükselen kan basıncını negatif geri bildirimle normale çeker.",
+       "sayfa": 164
+      },
+      {
+       "id": "2.4-03",
+       "tur": "dy",
+       "ifade": "Kan basıncı yükseldiğinde parasempatik yolların aktive olmasıyla kalp atım hızı düşer ve damar düz kasları gevşer.",
+       "dogru": true,
+       "bilgi": "Bu sırada böbrekler de sodyum ve suyun idrarla atılımını artırarak kan hacminin azalmasına katkıda bulunur.",
+       "sayfa": 164
+      },
+      {
+       "id": "2.4-04",
+       "tur": "secmeli",
+       "soru": "Duyu nöronlarından gelen bilgileri değerlendirip dengesizlik olup olmadığını belirleyen başlıca merkezî sinir sistemi yapısı hangisidir?",
+       "secenekler": [
+        "Hipotalamus",
+        "Beyincik",
+        "Omurilik",
+        "Talamus"
+       ],
+       "dogru": 0,
+       "bilgi": "Hipotalamus hipofiz bezini kontrol ederek birçok hormonun salgılanmasını düzenler; böylece sinir ve endokrin sistem iş birliği yapar.",
+       "sayfa": 166
+      },
+      {
+       "id": "2.4-05",
+       "tur": "dy",
+       "ifade": "Sinir sistemi homeostaziyi genellikle pozitif geri bildirim döngüleriyle korur.",
+       "dogru": false,
+       "bilgi": "Sinir sistemi homeostaziyi genellikle negatif geri bildirim döngüleriyle korur; bozulan dengeyi azaltacak veya ortadan kaldıracak tepki üretir.",
+       "sayfa": 166
+      },
+      {
+       "id": "2.4-06",
+       "tur": "secmeli",
+       "soru": "Stres ve korku durumunda sinirsel ve hormonal düzenleme sonucunda aşağıdakilerden hangisi gözlenir?",
+       "secenekler": [
+        "Sindirimin hızlanması",
+        "Kalp atışının yavaşlaması",
+        "Göz bebeğinin büyümesi",
+        "Kan basıncının düşmesi"
+       ],
+       "dogru": 2,
+       "bilgi": "Stres ve korkuda solunum ve terleme artar, kalp atışı hızlanır, kan basıncı yükselir, sindirim yavaşlar ve glikojen glikoza dönüştürülür.",
+       "sayfa": 166
+      },
+      {
+       "id": "2.4-07",
+       "tur": "eslestir",
+       "yonerge": "Homeostazide görev alan yapıları sinir sistemindeki işlevleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Duyu reseptörleri",
+         "İç ve dış ortamdaki değişiklikleri algılama"
+        ],
+        [
+         "Hipotalamus",
+         "Bilgiyi değerlendirip hipofizi kontrol etme"
+        ],
+        [
+         "Motor nöronlar",
+         "Yanıtı hedef organlara iletme"
+        ],
+        [
+         "Pons ve omurilik soğanı",
+         "Solunum ve kalp atım hızı reflekslerini düzenleme"
+        ]
+       ],
+       "bilgi": "Sinir sistemi algılama, değerlendirme, yanıt oluşturma ve geri bildirim basamaklarıyla homeostaziye katkı sağlar.",
+       "sayfa": 166
+      }
+     ]
+    },
+    {
+     "no": "2.5",
+     "ad": "Endokrin Sisteminin Homeostazi İşlevi",
+     "kartlar": [
+      {
+       "id": "2.5-01",
+       "tur": "dy",
+       "ifade": "Hormonlar kanla tüm vücudu dolaşır ancak yalnızca o hormonu algılayabilecek reseptörleri bulunan hedef dokuları uyarır.",
+       "dogru": true,
+       "bilgi": "Büyüme hormonu ve tiroksin gibi bazı hormonlar geniş bir etki alanına sahiptir; bir hormon farklı hedef hücrelerde farklı cevaplar oluşturabilir.",
+       "sayfa": 172
+      },
+      {
+       "id": "2.5-02",
+       "tur": "secmeli",
+       "soru": "Arka hipofizden kana verilen ADH ve oksitosin hormonları nerede üretilir?",
+       "secenekler": [
+        "Ön hipofizde",
+        "Böbrek üstü bezinde",
+        "Hipotalamusta",
+        "Tiroid bezinde"
+       ],
+       "dogru": 2,
+       "bilgi": "Hipotalamus hipofizi arka lob üzerinden sinirsel yollarla, ön lob üzerinden nörohormonlarla kontrol eder.",
+       "sayfa": 173
+      },
+      {
+       "id": "2.5-03",
+       "tur": "secmeli",
+       "soru": "Mitoz bölünmeyi destekleyerek hücre sayısı ve boyutunun artmasında rol oynayan, hücrelerde protein sentez hızını artıran hipofiz hormonu hangisidir?",
+       "secenekler": [
+        "STH (büyüme hormonu)",
+        "Prolaktin (LTH)",
+        "MSH",
+        "FSH"
+       ],
+       "dogru": 0,
+       "bilgi": "Büyüme hormonunun etkileri genellikle birkaç ay içinde fark edilebilir hâle gelir.",
+       "sayfa": 173
+      },
+      {
+       "id": "2.5-04",
+       "tur": "eslestir",
+       "yonerge": "Ön hipofiz hormonlarını görevleriyle eşleştir.",
+       "ciftler": [
+        [
+         "TSH",
+         "Tiroid bezini tiroksin salgılaması için uyarma"
+        ],
+        [
+         "ACTH",
+         "Böbrek üstü bezinin kabuk bölgesini uyarma"
+        ],
+        [
+         "LH",
+         "Dişilerde ovulasyonu sağlama"
+        ],
+        [
+         "Prolaktin (LTH)",
+         "Süt bezlerinin gelişimini ve süt üretimini uyarma"
+        ],
+        [
+         "MSH",
+         "Melanin pigmentinin oluşumunu sağlama"
+        ]
+       ],
+       "bilgi": "FSH erkeklerde sperm, dişilerde yumurta oluşumunu kontrol eder; LH erkeklerde testosteron üretimini aktive eder.",
+       "sayfa": 174
+      },
+      {
+       "id": "2.5-05",
+       "tur": "bosluk",
+       "cumle": "Soğuk ortamlarda hipofizden TSH salgısı artar ve tiroid bezinden daha fazla ___ salgılanarak metabolizma hızlanır.",
+       "cevap": "tiroksin",
+       "celdiriciler": [
+        "kalsitonin",
+        "parathormon",
+        "aldosteron"
+       ],
+       "bilgi": "Tiroksin hemen hemen tüm hücrelerde reseptörü bulunan, metabolizma hızını ve protein sentezini artıran hormondur.",
+       "sayfa": 174
+      },
+      {
+       "id": "2.5-06",
+       "tur": "dy",
+       "ifade": "Kalsitonin, kemikten kana kalsiyum geçişini artırarak kandaki kalsiyum düzeyini yükseltir.",
+       "dogru": false,
+       "bilgi": "Kalsitonin kan kalsiyumunu düşürür; kemikten kana kalsiyum geçişini artıran, kalsitoninle antagonist çalışan parathormondur.",
+       "sayfa": 175
+      },
+      {
+       "id": "2.5-07",
+       "tur": "secmeli",
+       "soru": "Kan şekeri normalin altına düştüğünde pankreastan salgılanarak karaciğerde glikojenin glikoza parçalanmasını sağlayan hormon hangisidir?",
+       "secenekler": [
+        "İnsülin",
+        "Glukagon",
+        "Aldosteron",
+        "Kalsitonin"
+       ],
+       "dogru": 1,
+       "bilgi": "İnsülin ise kan şekeri yükseldiğinde salgılanır; glikozun hücrelere girmesini ve glikojen, yağ gibi depo ürünlerine dönüşmesini hızlandırır.",
+       "sayfa": 176
+      },
+      {
+       "id": "2.5-08",
+       "tur": "secmeli",
+       "soru": "Böbreklerde sodyum ve klor emilimini artırarak kan hacmini ve kan basıncını yükselten, potasyumun atılmasını sağlayan hormon hangisidir?",
+       "secenekler": [
+        "Aldosteron",
+        "Kortizol",
+        "Adrenalin",
+        "Noradrenalin"
+       ],
+       "dogru": 0,
+       "bilgi": "Aldosteron, ACTH ile kontrol edilen böbrek üstü bezi kabuk bölgesinde üretilen steroit yapılı bir hormondur.",
+       "sayfa": 177
+      },
+      {
+       "id": "2.5-09",
+       "tur": "bosluk",
+       "cumle": "\"Savaş ya da kaç!\" tepkisini yöneten, kalp atım hızını ve kan basıncını artıran böbrek üstü bezi öz bölgesi hormonu ___ hormonudur.",
+       "cevap": "adrenalin",
+       "celdiriciler": [
+        "kortizol",
+        "aldosteron",
+        "tiroksin"
+       ],
+       "bilgi": "Adrenalin kanı sindirim organları ve deri yerine kaslara yönlendirir, glikojenin glikoza dönüşümünü hızlandırır.",
+       "sayfa": 178
+      },
+      {
+       "id": "2.5-10",
+       "tur": "secmeli",
+       "soru": "Yağ dokusunda aşırı yağ birikiminin kan şekeri homeostazisini bozarak Tip 2 diyabet riskini artırmasının nedeni nedir?",
+       "secenekler": [
+        "Glukagon eksikliği",
+        "ADH fazlalığı",
+        "Kalsitonin salgısının artması",
+        "İnsülin direnci"
+       ],
+       "dogru": 3,
+       "bilgi": "Yağ dokusu hormon ve sinyal molekülleri salgıladığı için endokrin organ kabul edilir; açlık-tokluk ve enerji dengesinde etkilidir.",
+       "sayfa": 179
+      }
+     ]
+    },
+    {
+     "no": "2.6",
+     "ad": "Dolaşım Sistemi ve Homeostazi Arasındaki İlişki",
+     "kartlar": [
+      {
+       "id": "2.6-01",
+       "tur": "secmeli",
+       "soru": "Kalp duvarını oluşturan tabakalar dıştan içe doğru hangi sırayla dizilir?",
+       "secenekler": [
+        "Miyokart, perikart, endokart",
+        "Endokart, miyokart, perikart",
+        "Perikart, endokart, miyokart",
+        "Perikart, miyokart, endokart"
+       ],
+       "dogru": 3,
+       "bilgi": "Miyokart kalp kasını içerir ve kalbi besleyen koroner damarlar bu tabakada bulunur; perikart çift katlı bir zardır.",
+       "sayfa": 186
+      },
+      {
+       "id": "2.6-02",
+       "tur": "dy",
+       "ifade": "Kan ile dokular arasındaki madde alışverişi atardamarlarda gerçekleşir.",
+       "dogru": false,
+       "bilgi": "Madde alışverişi, yapısında tek katlı yassı epitelden oluşan endotel bulunan kılcal damarlarda gerçekleşir.",
+       "sayfa": 186
+      },
+      {
+       "id": "2.6-03",
+       "tur": "bosluk",
+       "cumle": "Eritrositlerin içinde bulunan ve solunum gazlarını taşıyan protein yapılı solunum pigmentine ___ denir.",
+       "cevap": "hemoglobin",
+       "celdiriciler": [
+        "miyoglobin",
+        "rodopsin",
+        "melanin"
+       ],
+       "bilgi": "Kan plazması kanın %55'ini oluşturur; lökositler savunmada, trombositler pıhtılaşmada görev alır.",
+       "sayfa": 187
+      },
+      {
+       "id": "2.6-04",
+       "tur": "eslestir",
+       "yonerge": "Kanın hücre ve hücre parçalarını görevleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Lökosit (akyuvar)",
+         "Savunma"
+        ],
+        [
+         "Eritrosit (alyuvar)",
+         "Solunum gazlarının taşınması"
+        ],
+        [
+         "Trombosit (kan pulcuğu)",
+         "Kanın pıhtılaşması"
+        ]
+       ],
+       "bilgi": "Trombositler kırmızı kemik iliğindeki özelleşmiş hücrelerden kopan sitoplazmik parçacıklardır.",
+       "sayfa": 187
+      },
+      {
+       "id": "2.6-05",
+       "tur": "secmeli",
+       "soru": "Kılcal damarlarda kan ile doku sıvısı arasındaki madde alışverişini açıklayan hipotezi 1896'da ortaya atan İngiliz fizyolog kimdir?",
+       "secenekler": [
+        "Ernest Starling",
+        "Walter Cannon",
+        "Claude Bernard",
+        "Geoffrey West"
+       ],
+       "dogru": 0,
+       "bilgi": "Starling hipotezine göre madde alışverişi kan basıncı ile ozmotik basınç arasındaki dengeye bağlıdır.",
+       "sayfa": 187
+      },
+      {
+       "id": "2.6-06",
+       "tur": "dy",
+       "ifade": "Starling hipotezine göre kılcal damarın atardamar ucunda kan basıncı ozmotik basınçtan büyük olduğundan madde damardan doku sıvısına geçer.",
+       "dogru": true,
+       "bilgi": "Toplardamar ucunda kan basıncı ozmotik basıncın altına düştüğünden doku sıvısından kılcala su, CO₂ ve üre gibi maddeler geçer.",
+       "sayfa": 187
+      },
+      {
+       "id": "2.6-07",
+       "tur": "bosluk",
+       "cumle": "Kılcal damarlarda ozmotik basıncı, damar duvarından geçemeyen büyük plazma proteinleri, özellikle ___ oluşturur.",
+       "cevap": "albümin",
+       "celdiriciler": [
+        "hemoglobin",
+        "miyozin",
+        "keratin"
+       ],
+       "bilgi": "Ozmotik basınç damar boyunca yaklaşık 22 mmHg'de sabit kalır ve doku sıvısındaki maddelerin kana geçmesini sağlar.",
+       "sayfa": 187
+      },
+      {
+       "id": "2.6-08",
+       "tur": "secmeli",
+       "soru": "Lenf damarlarının birleştiği noktalarda bulunan ve lenfosit içeren lenf düğümlerinin temel görevi nedir?",
+       "secenekler": [
+        "Kanı pompalayarak lenfin akışını hızlandırmak",
+        "Kırmızı kan hücrelerini üreterek kana vermek",
+        "Lenfi süzüp mikroorganizmalardan arındırmak",
+        "Hormon salgılayarak kan şekerini düzenlemek"
+       ],
+       "dogru": 2,
+       "bilgi": "Lenf sisteminde atardamar yoktur; doku sıvısını kana geri kazandırır, savunmaya katılır ve yağ sindirim ürünlerini dolaşıma taşır.",
+       "sayfa": 188
+      }
+     ]
+    },
+    {
+     "no": "2.7",
+     "ad": "Solunum Sisteminin Homeostazinin Sağlanmasındaki Rolü",
+     "kartlar": [
+      {
+       "id": "2.7-01",
+       "tur": "secmeli",
+       "soru": "Akciğer alveolleri ile akciğer kılcal damarlarındaki kan arasında gerçekleşen gaz değişimine ne ad verilir?",
+       "secenekler": [
+        "Dış solunum",
+        "İç solunum",
+        "Hücresel solunum",
+        "Fermantasyon"
+       ],
+       "dogru": 0,
+       "bilgi": "Doku kılcallarındaki kan ile doku sıvısı ve hücreler arasındaki gaz değişimine iç solunum denir.",
+       "sayfa": 193
+      },
+      {
+       "id": "2.7-02",
+       "tur": "dy",
+       "ifade": "Solunum yüzeyinde solunum gazları daima kısmi basıncın az olduğu taraftan fazla olduğu tarafa doğru hareket eder.",
+       "dogru": false,
+       "bilgi": "Solunum gazları daima kısmi basıncın fazla olduğu taraftan az olduğu tarafa difüzyonla hareket eder; solunum yüzeyleri ince ve nemlidir.",
+       "sayfa": 193
+      },
+      {
+       "id": "2.7-03",
+       "tur": "eslestir",
+       "yonerge": "Solunum sistemindeki yapıları özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Soluk borusu",
+         "C şeklinde kıkırdak halkalar içerir"
+        ],
+        [
+         "Sağ akciğer",
+         "Üç loblu yapıdadır"
+        ],
+        [
+         "Alveol",
+         "Akciğerin fonksiyonel birimidir"
+        ],
+        [
+         "Siller",
+         "Toz parçalarını yutağa doğru iletir"
+        ]
+       ],
+       "bilgi": "Burun, yutak ve gırtlak üst solunum yollarını; soluk borusu, bronşlar ve akciğerler alt solunum yollarını oluşturur.",
+       "sayfa": 194
+      },
+      {
+       "id": "2.7-04",
+       "tur": "bosluk",
+       "cumle": "Göğüs yaralanmalarında ___ zarı delinip akciğer zarları arasına hava girerse akciğerler büzülerek hacmini kaybeder.",
+       "cevap": "plevra",
+       "celdiriciler": [
+        "perikart",
+        "meninges",
+        "periost"
+       ],
+       "bilgi": "İki katlı plevra zarı arasındaki sıvı, nefes alıp verirken akciğerlerin göğüs duvarıyla birlikte hareket etmesini sağlar.",
+       "sayfa": 194
+      },
+      {
+       "id": "2.7-05",
+       "tur": "secmeli",
+       "soru": "Alveollerin iç yüzeyinde bulunup yüzey gerilimini azaltarak alveollerin tamamen kapanmasını önleyen madde hangisidir?",
+       "secenekler": [
+        "Mukus",
+        "Plevra sıvısı",
+        "Lizozim",
+        "Sürfektan"
+       ],
+       "dogru": 3,
+       "bilgi": "Sürfektan sayesinde akciğerin şişmesi için daha az hava basıncı kuvveti gerekir.",
+       "sayfa": 195
+      },
+      {
+       "id": "2.7-06",
+       "tur": "dy",
+       "ifade": "Soluk alıp verme hızıyla ilgili esas geri bildirim mekanizması, kandaki karbondioksidin kısmi basıncı (PCO₂) ile ilgilidir.",
+       "dogru": true,
+       "bilgi": "PCO₂'nin soluk alıp verme hızına etkisi PO₂'ye göre daha fazladır; oksijen düşüşünün merkezî kemoreseptörlere doğrudan etkisi çok azdır.",
+       "sayfa": 196
+      },
+      {
+       "id": "2.7-07",
+       "tur": "bosluk",
+       "cumle": "Solunum, beyin sapında bulunan omurilik soğanı ve ___ tarafından düzenlenir.",
+       "cevap": "pons",
+       "celdiriciler": [
+        "beyincik",
+        "talamus",
+        "hipofiz"
+       ],
+       "bilgi": "Soluk alıp verme hızı kanın pH değeri, vücut sıcaklığı ve hormon miktarlarına göre ayarlanır.",
+       "sayfa": 196
+      },
+      {
+       "id": "2.7-08",
+       "tur": "secmeli",
+       "soru": "Soluk alma sırasında diyafram ve kaburgalar arası kaslarda ne olur?",
+       "secenekler": [
+        "Gevşerler ve göğüs boşluğunun hacmi artar.",
+        "Kasılırlar ve göğüs boşluğunun hacmi artar.",
+        "Kasılırlar ve göğüs boşluğunun hacmi azalır.",
+        "Gevşerler ve göğüs boşluğunun hacmi azalır."
+       ],
+       "dogru": 1,
+       "bilgi": "Uyartı iletimi durunca bu kaslar gevşer ve soluk verme gerçekleşir; akciğerlerdeki elastik lifler de soluk vermeye katkı sağlar.",
+       "sayfa": 196
+      }
+     ]
+    },
+    {
+     "no": "2.8",
+     "ad": "Boşaltım Sisteminin Homeostazi İşlevi",
+     "kartlar": [
+      {
+       "id": "2.8-01",
+       "tur": "secmeli",
+       "soru": "Nefronda Bowman kapsülü ile glomerulus kılcallarının birlikte oluşturduğu yapıya ne ad verilir?",
+       "secenekler": [
+        "Malpigi cisimciği",
+        "Henle kulpu",
+        "Havuzcuk",
+        "Distal tüp"
+       ],
+       "dogru": 0,
+       "bilgi": "Bir nefron temel olarak Bowman kapsülü, proksimal tüp, Henle kulpu ve distal tüpten oluşur.",
+       "sayfa": 201
+      },
+      {
+       "id": "2.8-02",
+       "tur": "dy",
+       "ifade": "Glomerulus kılcalları iki atardamar arasında bulunduğu için buradaki kan basıncı vücut kılcallarına göre yaklaşık iki kat fazladır.",
+       "dogru": true,
+       "bilgi": "Bu yüksek basınç nedeniyle glomerulustan Bowman kapsülüne madde akışı tek yönlü gerçekleşir.",
+       "sayfa": 201
+      },
+      {
+       "id": "2.8-03",
+       "tur": "eslestir",
+       "yonerge": "İdrar oluşumundaki olayları tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Süzülme",
+         "Glomerulustan Bowman kapsülüne pasif ve tek yönlü geçiş"
+        ],
+        [
+         "Geri emilim",
+         "Nefron kanallarından kana madde alınması"
+        ],
+        [
+         "Salgılama",
+         "Kılcallardan nefron kanallarına aktif taşımayla madde atılması"
+        ]
+       ],
+       "bilgi": "Amonyak, potasyum, bazı ilaç ve toksik maddeler salgılama ile nefron kanallarına atılır.",
+       "sayfa": 202
+      },
+      {
+       "id": "2.8-04",
+       "tur": "dy",
+       "ifade": "Süzülme sırasında kan hücreleri ve büyük kan proteinleri Bowman kapsülüne geçer.",
+       "dogru": false,
+       "bilgi": "Süzülmede kan hücreleri ve büyük kan proteinleri Bowman kapsülüne geçemez; kan basıncı arttıkça süzülme hızı artar.",
+       "sayfa": 202
+      },
+      {
+       "id": "2.8-05",
+       "tur": "secmeli",
+       "soru": "Nefronda geri emilimin büyük bir kısmı hangi bölümde gerçekleşir?",
+       "secenekler": [
+        "Distal tüp",
+        "Proksimal tüp",
+        "Henle kulpu",
+        "Toplama kanalı"
+       ],
+       "dogru": 1,
+       "bilgi": "Distal tüplerin en önemli işlevi idrardaki iyon yoğunluğunu ayarlamaktır; toplama kanalında da geri emilim sürer.",
+       "sayfa": 202
+      },
+      {
+       "id": "2.8-06",
+       "tur": "bosluk",
+       "cumle": "Sağlıklı bir insanda nefron kanallarından glikoz ve ___ tamamı geri emilerek tekrar kana verilir.",
+       "cevap": "aminoasitlerin",
+       "celdiriciler": [
+        "ürenin",
+        "sodyumun",
+        "suyun"
+       ],
+       "bilgi": "Suyun %99'u, sodyumun %99,5'i, ürenin ise %50'si geri emilir.",
+       "sayfa": 202
+      },
+      {
+       "id": "2.8-07",
+       "tur": "secmeli",
+       "soru": "Kurak bölgelerde yaşayan memelilerde konsantre idrar oluşmasının nedeni nedir?",
+       "secenekler": [
+        "Glomerulusun bulunmaması",
+        "Bowman kapsülünün büyük olması",
+        "Henle kulpunun kısa olması",
+        "Henle kulpunun uzun olması"
+       ],
+       "dogru": 3,
+       "bilgi": "Suyun bol olduğu ortamlarda yaşayan memelilerde Henle kulpu kısa olduğundan su geri emilimi azdır ve seyrek idrar oluşur.",
+       "sayfa": 202
+      },
+      {
+       "id": "2.8-08",
+       "tur": "bosluk",
+       "cumle": "Kan pH'si ortalama 7,35-7,45 aralığında tutulur; böbrekler asidik durumlarda daha fazla ___ tutarak kan pH'sini dengeler.",
+       "cevap": "bikarbonat",
+       "celdiriciler": [
+        "üre",
+        "kreatinin",
+        "glikoz"
+       ],
+       "bilgi": "Böbrekler fazla H⁺ iyonlarını idrarla atar; bazik durumlarda ise daha fazla bikarbonat atılır.",
+       "sayfa": 203
+      }
+     ]
+    },
+    {
+     "no": "2.9",
+     "ad": "Homeostazinin Sağlanmasında Sistemlerin Eş Güdümlü Çalışması",
+     "kartlar": [
+      {
+       "id": "2.9-01",
+       "tur": "bosluk",
+       "cumle": "Fizyolojik olarak aynı işlevi gören organ birlikleri vücudun ___ oluşturur.",
+       "cevap": "sistemlerini",
+       "celdiriciler": [
+        "dokularını",
+        "hücrelerini",
+        "organellerini"
+       ],
+       "bilgi": "Hücreler dokuları, dokular organları, aynı işlevi gören organ birlikleri de sistemleri oluşturur.",
+       "sayfa": 207
+      },
+      {
+       "id": "2.9-02",
+       "tur": "dy",
+       "ifade": "Homeostazinin sağlanmasında sistemler arasındaki koordinasyon sinirsel ve hormonal yollarla sağlanır.",
+       "dogru": true,
+       "bilgi": "Sistemler arasındaki eş güdüm bozulduğunda ciddi hastalıklar ortaya çıkabilir.",
+       "sayfa": 208
+      },
+      {
+       "id": "2.9-03",
+       "tur": "bosluk",
+       "cumle": "Vücut sıcaklığının belirli bir aralıkta tutulmasına ___ denir.",
+       "cevap": "termoregülasyon",
+       "celdiriciler": [
+        "detoksifikasyon",
+        "gutasyon",
+        "hipertermi"
+       ],
+       "bilgi": "Termoregülasyonda sinir sistemi, dolaşım sistemi, kas sistemi, endokrin sistem ve deri birlikte görev alır.",
+       "sayfa": 208
+      },
+      {
+       "id": "2.9-04",
+       "tur": "eslestir",
+       "yonerge": "Soğuk ortamda termoregülasyonda görev alan yapıları tepkileriyle eşleştir.",
+       "ciftler": [
+        [
+         "Deri termoreseptörleri",
+         "Soğuğu algılar"
+        ],
+        [
+         "Hipofiz bezi",
+         "TSH salgılar"
+        ],
+        [
+         "İskelet kasları",
+         "Titreyerek ısı üretir"
+        ],
+        [
+         "Deri kan damarları",
+         "Daralarak ısı kaybını azaltır"
+        ]
+       ],
+       "bilgi": "Soğukta hipotalamus hipofizi uyarır; TSH'nin etkisiyle salgılanan tiroksin metabolizmayı hızlandırıp ısı üretimini artırır.",
+       "sayfa": 208
+      },
+      {
+       "id": "2.9-05",
+       "tur": "secmeli",
+       "soru": "Uzun süre soğuğa maruz kalma gibi durumlarda vücut sıcaklığının 35 °C'un altına düşmesine ne ad verilir?",
+       "secenekler": [
+        "Hipotermi",
+        "Hipertermi",
+        "Hipotansiyon",
+        "Fizyolojik tetanus"
+       ],
+       "dogru": 0,
+       "bilgi": "Hipotermide titreme, uyuşukluk, kalp ve solunum hızının yavaşlaması görülebilir; parmak, burun, kulak gibi bölgelerde donma olabilir.",
+       "sayfa": 208
+      },
+      {
+       "id": "2.9-06",
+       "tur": "dy",
+       "ifade": "Hipotermi şüphesi olan ve bilinç kaybı yaşayan bir kişiye vücut sıcaklığını yükseltmek için hemen ılık içecek verilmelidir.",
+       "dogru": false,
+       "bilgi": "Bilinç kaybı yaşayan veya nefes almakta zorlanan kişiye yiyecek ve içecek verilmez; kişi ılık ortama alınıp kuru, sıcak örtülerle sarılır.",
+       "sayfa": 208
+      },
+      {
+       "id": "2.9-07",
+       "tur": "secmeli",
+       "soru": "Normal yetişkin bir insanda büyük (sistolik) ve küçük (diastolik) tansiyonun ortalama değerleri hangisidir?",
+       "secenekler": [
+        "140 mmHg ve 90 mmHg",
+        "100 mmHg ve 60 mmHg",
+        "120 mmHg ve 80 mmHg",
+        "90 mmHg ve 60 mmHg"
+       ],
+       "dogru": 2,
+       "bilgi": "Kan basıncının düzenlenmesinde sinir sistemi, endokrin sistem, dolaşım sistemi ve boşaltım sistemi birlikte görev alır.",
+       "sayfa": 209
+      },
+      {
+       "id": "2.9-08",
+       "tur": "secmeli",
+       "soru": "Atardamarlardaki reseptörlerin algıladığı kan basıncı değişikliklerine karşı otonom sinirlerle kalp atış hızını ve damar çapını düzenleyen merkez hangisidir?",
+       "secenekler": [
+        "Beyincik",
+        "Omurilik soğanı",
+        "Talamus",
+        "Uç beyin"
+       ],
+       "dogru": 1,
+       "bilgi": "Hipofizden salgılanan ADH ve böbrek üstü bezinden salgılanan aldosteron da kan hacmini ve damar direncini düzenler.",
+       "sayfa": 209
+      }
+     ]
+    },
+    {
+     "no": "2.10",
+     "ad": "Homeostazinin Sağlanamadığı Durumlar",
+     "kartlar": [
+      {
+       "id": "2.10-01",
+       "tur": "secmeli",
+       "soru": "İnsülin salgısının tamamen yokluğuna bağlı olan ve insüline bağımlı diabetes mellitus olarak adlandırılan hastalık hangisidir?",
+       "secenekler": [
+        "Tip 2 diyabet",
+        "Diabetes insipidus",
+        "Tip 1 diyabet",
+        "Hipotansiyon"
+       ],
+       "dogru": 2,
+       "bilgi": "Diabetes mellitus, insülin yokluğu veya dokuların insüline duyarlılığının azalmasıyla karbohidrat, yağ ve protein metabolizmasının bozulmasıdır.",
+       "sayfa": 213
+      },
+      {
+       "id": "2.10-02",
+       "tur": "dy",
+       "ifade": "Tip 2 diyabette pankreas insülin üretir ancak hücreler insüline direnç geliştirdiği için glikoz hücre içine girmekte zorlanır.",
+       "dogru": true,
+       "bilgi": "Tip 2 diyabette insülin reseptörleri düzgün çalışmaz veya sayıları azalmıştır; bu azalmış yanıta insülin direnci denir.",
+       "sayfa": 214
+      },
+      {
+       "id": "2.10-03",
+       "tur": "secmeli",
+       "soru": "ADH'nin yetersiz üretilmesi veya böbrekteki hedef hücrelerin ADH'ye yeterli yanıt verememesi sonucu ortaya çıkan hastalık hangisidir?",
+       "secenekler": [
+        "Diabetes insipidus",
+        "Diabetes mellitus",
+        "Hipertansiyon",
+        "Obezite"
+       ],
+       "dogru": 0,
+       "bilgi": "Diabetes insipidus (ozmotik denge bozukluğu) aşırı idrar üretimine ve şiddetli susuzluk hissine yol açar.",
+       "sayfa": 214
+      },
+      {
+       "id": "2.10-04",
+       "tur": "dy",
+       "ifade": "Diabetes insipidusta böbreklerden aşırı su kaybı nedeniyle kanın ozmotik basıncı düşer.",
+       "dogru": false,
+       "bilgi": "Aşırı su kaybı nedeniyle kandaki sodyum konsantrasyonu ve kanın ozmotik basıncı artar.",
+       "sayfa": 214
+      },
+      {
+       "id": "2.10-05",
+       "tur": "bosluk",
+       "cumle": "Genellikle büyük tansiyonun 90 mmHg, küçük tansiyonun 60 mmHg altında olmasına ___ denir.",
+       "cevap": "hipotansiyon",
+       "celdiriciler": [
+        "hipertansiyon",
+        "hipotermi",
+        "hipertermi"
+       ],
+       "bilgi": "Hipotansiyonda kişi düz bir yere yatırılıp ayakları kaldırılır; sıvı takviyesi ve tuzlu içecekler tansiyonun normale dönmesine yardım eder.",
+       "sayfa": 214
+      },
+      {
+       "id": "2.10-06",
+       "tur": "secmeli",
+       "soru": "18 yaşını geçmiş bir erişkinde farklı günlerdeki ölçümlerde hangi değerler hipertansiyon olarak kabul edilir?",
+       "secenekler": [
+        "Büyük 120 mmHg ve küçük 80 mmHg",
+        "Büyük ≥140 mmHg ya da küçük ≥90 mmHg",
+        "Büyük <90 mmHg ve küçük <60 mmHg",
+        "Büyük ≥100 mmHg ya da küçük ≥70 mmHg"
+       ],
+       "dogru": 1,
+       "bilgi": "Yüksek tansiyon inme, kalp krizi ve böbrek yetmezliğinin en önemli sebeplerinden biridir ve yıllarca belirti vermeden ilerleyebilir.",
+       "sayfa": 215
+      },
+      {
+       "id": "2.10-07",
+       "tur": "bosluk",
+       "cumle": "Hipertansiyona bağlı olarak ana atardamar olan aortta oluşabilen balon benzeri çıkıntılara aort ___ denir.",
+       "cevap": "anevrizması",
+       "celdiriciler": [
+        "ödemi",
+        "kapakçığı",
+        "lobu"
+       ],
+       "bilgi": "Tansiyon yüksekliği zamanla kalp, böbrek, göz ve beyne kan götüren atardamarlarda hasara neden olabilir.",
+       "sayfa": 215
+      },
+      {
+       "id": "2.10-08",
+       "tur": "secmeli",
+       "soru": "Dünya Sağlık Örgütünün obeziteyi belirlemede kullandığı vücut kitle indeksi (VKİ) nasıl bulunur?",
+       "secenekler": [
+        "Boyun (m) karesinin kiloya (kg) bölünmesiyle",
+        "Kilonun (kg) boya (m) bölünmesiyle",
+        "Kilonun (kg) boyun karesiyle çarpılmasıyla",
+        "Kilonun (kg) boyun (m) karesine bölünmesiyle"
+       ],
+       "dogru": 3,
+       "bilgi": "DSÖ obeziteyi sağlığı bozacak ölçüde vücutta aşırı yağ birikmesi olarak tanımlar.",
+       "sayfa": 215
+      },
+      {
+       "id": "2.10-09",
+       "tur": "eslestir",
+       "yonerge": "Vücut kitle indeksi (VKİ) aralıklarını sınıflarıyla eşleştir.",
+       "ciftler": [
+        [
+         "18,5'in altı",
+         "Düşük kilolu"
+        ],
+        [
+         "18,5-24,9",
+         "Normal"
+        ],
+        [
+         "25,0-29,9",
+         "Fazla kilolu"
+        ],
+        [
+         "40 ve üzeri",
+         "Aşırı obezite"
+        ]
+       ],
+       "bilgi": "VKİ 30,0-34,9 arası I. sınıf, 35,0-39,9 arası II. sınıf obezite olarak değerlendirilir.",
+       "sayfa": 215
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
