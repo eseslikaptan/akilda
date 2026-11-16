@@ -1,0 +1,2745 @@
+{
+ "kitap": "cografya-11",
+ "ders": "cografya",
+ "sinif": 11,
+ "baslik": "Coğrafya Dersi 11. Sınıf Ders Kitabı",
+ "sayfaUrl": "https://tymm.meb.gov.tr/kitap/401/cografya-dersi-11sinif-ders-kitabi",
+ "pdfUrl": "https://tymm.meb.gov.tr/assets/pdf/cografya-dersi-11sinif-ders-kitabi_20261004_192901_442.pdf",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Coğrafyanın Doğası",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Mekânsal Sorunlar Karşısında Coğrafya Bilimi",
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "bosluk",
+       "cumle": "İnsanların doğal çevreyle etkileşime girerek anlam yüklediği; fiziksel, sosyal, ekonomik ve kültürel süreçlerin bir araya geldiği dinamik yeryüzü parçasına ___ denir.",
+       "cevap": "mekân",
+       "celdiriciler": [
+        "bölge",
+        "peyzaj",
+        "havza"
+       ],
+       "bilgi": "Mekân dinamik yapısı nedeniyle zaman içinde değişir ve dönüşür; bu değişimler mekânsal sorunları da beraberinde getirebilir.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-02",
+       "tur": "dy",
+       "ifade": "Mekânsal sorunlar yalnızca küresel ölçekte ortaya çıkan çevresel problemlerdir.",
+       "dogru": false,
+       "bilgi": "Mekânsal sorunlar yerel, bölgesel veya küresel ölçekte ortaya çıkan fiziksel, sosyal, ekonomik ve çevresel problemlerdir.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-03",
+       "tur": "eslestir",
+       "yonerge": "Mekânsal sorunların sınıflandırma ölçütlerini kapsadıkları türlerle eşleştir.",
+       "ciftler": [
+        [
+         "Ölçeğe göre",
+         "Yerel, bölgesel, küresel"
+        ],
+        [
+         "Tematik içeriğe göre",
+         "Sosyal, ekonomik, çevresel, politik/yönetsel"
+        ],
+        [
+         "Mekânın niteliğine göre",
+         "Kentsel ve kırsal"
+        ]
+       ],
+       "bilgi": "Mekânsal sorunlar en yaygın olarak ölçeğe, tematik içeriğe ve mekânın niteliğine göre sınıflandırılır.",
+       "sayfa": 16
+      },
+      {
+       "id": "1.1-04",
+       "tur": "secmeli",
+       "soru": "Etrafı dağlarla çevrili Iğdır'da, özellikle kış aylarında hava kirliliğini artıran başlıca meteorolojik olay hangisidir?",
+       "secenekler": [
+        "Fön rüzgârları",
+        "Orografik yağışlar",
+        "Sıcaklık terselmesi",
+        "Muson yağmurları"
+       ],
+       "dogru": 2,
+       "bilgi": "Iğdır'da dağlarla çevrili topoğrafya nedeniyle oluşan sıcaklık terselmesi, kirletici maddelerin etkisini artırır.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-05",
+       "tur": "secmeli",
+       "soru": "Türkiye'nin ilk organize sanayi bölgesinin kurulduğu ve 2017'de \"Büyük Ova Koruma Alanı\" ilan edilen ova hangisidir?",
+       "secenekler": [
+        "Bursa Ovası",
+        "Konya Ovası",
+        "Harran Ovası",
+        "Çukurova"
+       ],
+       "dogru": 0,
+       "bilgi": "Bursa Ovası sanayi, göç ve hızlı kentleşmeyle büyük ölçüde yapılaşmış; 2017'de Büyük Ova Koruma Alanı ilan edilmiştir.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1-06",
+       "tur": "secmeli",
+       "soru": "Uzmanlara göre Konya Ovası ve çevresinde son yıllarda obruk sayısının artmasının temel nedeni nedir?",
+       "secenekler": [
+        "Deprem etkinliğinin artması",
+        "Rüzgâr aşındırmasının artması",
+        "Orman alanlarının azalması",
+        "Aşırı yer altı suyu kullanımı"
+       ],
+       "dogru": 3,
+       "bilgi": "Obruk riskine karşı en etkili önlem yer altı suyunun kontrollü kullanımıdır.",
+       "sayfa": 17
+      },
+      {
+       "id": "1.1-07",
+       "tur": "dy",
+       "ifade": "Coğrafya bilimi mekânsal sorunları çözümlerken veriyi nicel ve nitel özelliklerinin yanında konum bilgisiyle de birleştirir.",
+       "dogru": true,
+       "bilgi": "Coğrafya, olayların dağılışını, bağlantılarını ve örüntülerini görselleştirerek sorunların nerede ve neden ortaya çıktığını açıklar.",
+       "sayfa": 20
+      },
+      {
+       "id": "1.1-08",
+       "tur": "secmeli",
+       "soru": "Sel felaketleriyle mücadele amacıyla geliştirilen ve şehirlerin suyu emip depolamasını hedefleyen \"sünger şehir\" konsepti hangi ülkede ortaya çıkmıştır?",
+       "secenekler": [
+        "Hollanda",
+        "Çin",
+        "Japonya",
+        "Singapur"
+       ],
+       "dogru": 1,
+       "bilgi": "Sünger şehirler, suyu şehirden izole etmek yerine şehrin doğal döngüsüne entegre etmeyi amaçlar.",
+       "sayfa": 22
+      },
+      {
+       "id": "1.1-09",
+       "tur": "bosluk",
+       "cumle": "Kapalı kanalizasyon ağları gibi suyun şehirden hızla tahliyesini amaçlayan geleneksel sistemlere ___ denir.",
+       "cevap": "gri altyapı",
+       "celdiriciler": [
+        "yeşil altyapı",
+        "mavi altyapı",
+        "doğa tabanlı çözüm"
+       ],
+       "bilgi": "Geleneksel gri altyapı, yerini doğanın işleyişini taklit eden ekosistem temelli yeşil altyapı stratejilerine bırakmaktadır.",
+       "sayfa": 22
+      },
+      {
+       "id": "1.1-10",
+       "tur": "secmeli",
+       "soru": "Deniz yüzeyini kaplayarak fotosentezi kısmen ya da tamamen durduran, sudaki çözünmüş oksijeni azaltan yapışkan tabakaya ne ad verilir?",
+       "secenekler": [
+        "Tuzlanma",
+        "Sediment",
+        "Turba",
+        "Müsilaj"
+       ],
+       "dogru": 3,
+       "bilgi": "Deniz salyası da denen müsilaj, başta planktonlar olmak üzere deniz organizmalarının ürettiği organik maddelerden oluşur.",
+       "sayfa": 29
+      },
+      {
+       "id": "1.1-11",
+       "tur": "dy",
+       "ifade": "Kuraklık, kırsal alanlardan kentlere göçü hızlandıran önemli bir faktördür.",
+       "dogru": true,
+       "bilgi": "Kuraklığın kırsalda yarattığı ekonomik darboğazlar sektör değişikliği, göç ve üretimden vazgeçme gibi kararlara yol açar.",
+       "sayfa": 21
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Mekânsal Bilgi Teknolojileri",
+   "konular": [
+    {
+     "no": "2.1",
+     "ad": "Web Tabanlı CBS Uygulamaları",
+     "kartlar": [
+      {
+       "id": "2.1-01",
+       "tur": "bosluk",
+       "cumle": "Bilgisayar tabanlı Coğrafi Bilgi Sistemleri, gelişen bilgisayar teknolojisi ile ___ birleşmesiyle ortaya çıkmıştır.",
+       "cevap": "haritacılığın",
+       "celdiriciler": [
+        "istatistiğin",
+        "astronominin",
+        "meteorolojinin"
+       ],
+       "bilgi": "Bilgisayar tabanlı CBS mekânsal planlamada vazgeçilmez olsa da toplumda yaygınlaşamamış, daha çok uzmanlarca kullanılmıştır.",
+       "sayfa": 33
+      },
+      {
+       "id": "2.1-02",
+       "tur": "bosluk",
+       "cumle": "Veri ve belgelerin yanı sıra yazılım ve uygulamaların da genel ağ üzerindeki sanal bir ortamda depolanıp kullanılmasına imkân sunan teknolojiye ___ denir.",
+       "cevap": "bulut bilişim",
+       "celdiriciler": [
+        "uzaktan algılama",
+        "yaşayan atlas",
+        "küresel konumlama"
+       ],
+       "bilgi": "Bulut bilişim, sunuculardaki verilere bir tarayıcı üzerinden ulaşılarak işlenmesini, çözümlenmesini ve depolanmasını sağlar.",
+       "sayfa": 34
+      },
+      {
+       "id": "2.1-03",
+       "tur": "secmeli",
+       "soru": "Bilgisayar tabanlı CBS ile web teknolojilerinin bütünleşmesiyle oluşan web tabanlı CBS uygulamaları ilk olarak hangi dönemde ortaya çıkmıştır?",
+       "secenekler": [
+        "1970'li yıllar",
+        "1980'li yıllar",
+        "1990'lı yıllar",
+        "2010'lu yıllar"
+       ],
+       "dogru": 2,
+       "bilgi": "1990'lı yıllarda ortaya çıkan web tabanlı CBS; veri toplama, düzenleme, sorgulama ve çözümleme yeteneklerini genel ağ üzerinden sunar.",
+       "sayfa": 34
+      },
+      {
+       "id": "2.1-04",
+       "tur": "secmeli",
+       "soru": "Web tabanlı CBS uygulamalarının temel bileşenleri hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "Kullanıcı (istemci), genel ağ, sunucu",
+        "Uydu, sensör, yer istasyonu",
+        "Harita, lejant, ölçek",
+        "Tarayıcı, yazıcı, veri tabanı"
+       ],
+       "dogru": 0,
+       "bilgi": "Kullanıcı tarayıcı aracılığıyla sunucuya komut gönderir; sunucu komutu işleyip cevabı harita veya veri olarak geri iletir.",
+       "sayfa": 34
+      },
+      {
+       "id": "2.1-05",
+       "tur": "dy",
+       "ifade": "Web tabanlı CBS uygulamaları, bilgisayar tabanlı CBS uygulamalarına göre daha güçlü ve karmaşık analiz imkânları sunar.",
+       "dogru": false,
+       "bilgi": "Web tabanlı CBS daha sınırlı ve temel analizler sunar; buna karşın mobil cihazlarla her yerden anlık erişim sağlar.",
+       "sayfa": 34
+      },
+      {
+       "id": "2.1-06",
+       "tur": "dy",
+       "ifade": "Web tabanlı CBS uygulamalarında veri toplama, çözümleme ve depolama gibi kritik işlemlerin çoğu sunucu tarafından gerçekleştirilir.",
+       "dogru": true,
+       "bilgi": "Kritik işlemlerin sunucuda yapılması, CBS uygulamalarında bilgisayarlara olan bağımlılığı önemli ölçüde azaltmıştır.",
+       "sayfa": 34
+      },
+      {
+       "id": "2.1-07",
+       "tur": "secmeli",
+       "soru": "Web tabanlı CBS'de vektör veri formatındaki katmanlara ait ayrıntılar nerede yer alır?",
+       "secenekler": [
+        "Lejantta",
+        "Araç çubuğunda",
+        "Öz nitelik tablosunda",
+        "Renk paletinde"
+       ],
+       "dogru": 2,
+       "bilgi": "Her mekânsal veri kümesi raster veya vektör formatında bir katmanla temsil edilir; vektör katmanların detayları öz nitelik tablosundadır.",
+       "sayfa": 34
+      },
+      {
+       "id": "2.1-08",
+       "tur": "eslestir",
+       "yonerge": "Web tabanlı CBS'deki çözümleme işlemlerini açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Birleştirme",
+         "Farklı kaynaklardaki verileri tek tutarlı katmanda toplama"
+        ],
+        [
+         "Çakıştırma",
+         "Katmanları üst üste bindirip örtüşmeleri görme"
+        ],
+        [
+         "Sorgulama",
+         "Yalnızca belirli ölçütlere uyan verileri seçme"
+        ],
+        [
+         "Genelleştirme",
+         "Veri boyutunu azaltıp performansı artırma"
+        ],
+        [
+         "Sembolleştirme",
+         "Verileri renk ve sembollerle görsel olarak temsil etme"
+        ]
+       ],
+       "bilgi": "Çözümleme zinciri birleştirme, çakıştırma, sorgulama, genelleştirme ve sembolleştirme aşamalarından oluşur.",
+       "sayfa": 39
+      },
+      {
+       "id": "2.1-09",
+       "tur": "secmeli",
+       "soru": "Web tabanlı CBS'deki mekânsal çözümleme zincirinin son aşamasında hangi işlem yapılır?",
+       "secenekler": [
+        "Birleştirme",
+        "Sembolleştirme",
+        "Çakıştırma",
+        "Sorgulama"
+       ],
+       "dogru": 1,
+       "bilgi": "Son aşamadaki sembolleştirmede kullanıcı stil, renk paleti ve sembol boyutunu anlık olarak değiştirebilir.",
+       "sayfa": 39
+      },
+      {
+       "id": "2.1-10",
+       "tur": "secmeli",
+       "soru": "Sürekli güncellenen bulut tabanlı veri katmanlarını bir araya getiren ve gerçek zamanlı verilerle zenginleşen platformlara ne ad verilir?",
+       "secenekler": [
+        "Hikâye haritası",
+        "Gezi rehberi haritası",
+        "Öz nitelik tablosu",
+        "Yaşayan atlas"
+       ],
+       "dogru": 3,
+       "bilgi": "Yaşayan atlaslarda kullanıcılar hazır tematik haritalara erişebilir, kendi verilerini yükleyebilir ve küresel verilerle karşılaştırma yapabilir.",
+       "sayfa": 39
+      },
+      {
+       "id": "2.1-11",
+       "tur": "bosluk",
+       "cumle": "Metin, fotoğraf, video ve harita katmanlarını tek bir akışta birleştirerek çözümleme sonuçlarını anlatısal biçimde sunan araçlara ___ denir.",
+       "cevap": "hikâye haritaları",
+       "celdiriciler": [
+        "yaşayan atlaslar",
+        "öz nitelik tabloları",
+        "tematik katmanlar"
+       ],
+       "bilgi": "Hikâye haritalarında kullanıcı kaydırma yaparak çözümleme sürecini adım adım takip edebilir.",
+       "sayfa": 39
+      },
+      {
+       "id": "2.1-12",
+       "tur": "eslestir",
+       "yonerge": "Kurumları sundukları web tabanlı CBS uygulamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Tapu ve Kadastro Genel Müdürlüğü (TKGM)",
+         "Parsel Sorgulama"
+        ],
+        [
+         "MTA",
+         "Yer Bilimleri Harita Görüntüleyici"
+        ],
+        [
+         "Ortaöğretim Genel Müdürlüğü (OGM)",
+         "Materyal CBS Platformu"
+        ]
+       ],
+       "bilgi": "MTA'nın Yer Bilimleri Harita Görüntüleyici uygulamasında jeolojik birim ve diri fay gibi veri katmanları bulunur.",
+       "sayfa": 42
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "ad": "Doğal Sistemler ve Süreçler",
+   "konular": [
+    {
+     "no": "3.1",
+     "ad": "Su Kaynakları",
+     "kartlar": [
+      {
+       "id": "3.1-01",
+       "tur": "bosluk",
+       "cumle": "Suyun mekânsal özelliklerini inceleyerek insan ile su arasındaki ilişkilerin anlaşılmasına katkı sağlayan coğrafya alt dalına ___ denir.",
+       "cevap": "hidrografya",
+       "celdiriciler": [
+        "klimatoloji",
+        "jeomorfoloji",
+        "biyocoğrafya"
+       ],
+       "bilgi": "Hidrografya, Dünya'daki tüm suların oluşturduğu hidrosferi ve suyun mekânsal özelliklerini inceler.",
+       "sayfa": 56
+      },
+      {
+       "id": "3.1-02",
+       "tur": "secmeli",
+       "soru": "Yeryüzündeki tatlı su kaynaklarının en büyük bölümü hangi biçimde bulunur?",
+       "secenekler": [
+        "Yer altı suları",
+        "Buzullar",
+        "Göller ve akarsular",
+        "Bataklıklar"
+       ],
+       "dogru": 1,
+       "bilgi": "Suların yaklaşık %97,5'i tuzludur; %2,5'lik tatlı suyun yaklaşık %68,7'si buzullarda, %30,1'i yer altı sularındadır.",
+       "sayfa": 57
+      },
+      {
+       "id": "3.1-03",
+       "tur": "dy",
+       "ifade": "Karadeniz ve Akdeniz, kıta kenarlarında yer aldıkları için kenar deniz olarak adlandırılır.",
+       "dogru": false,
+       "bilgi": "Karadeniz ve Akdeniz kıta içlerine sokuldukları için iç denizdir; Japon (Doğu) Denizi ve Karayip Denizi kenar denizdir.",
+       "sayfa": 58
+      },
+      {
+       "id": "3.1-04",
+       "tur": "eslestir",
+       "yonerge": "Gölleri öne çıkan özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Hazar Gölü",
+         "Dünyanın en büyük gölü"
+        ],
+        [
+         "Baykal Gölü",
+         "1740 metreyle en derin göl"
+        ],
+        [
+         "Lut Gölü",
+         "Deniz seviyesinin 394 metre altında"
+        ],
+        [
+         "Titicaca Gölü",
+         "Deniz seviyesinden yaklaşık 3810 metre yüksekte"
+        ]
+       ],
+       "bilgi": "Hazar Gölü 386.400 km² yüz ölçümüyle dünyanın en büyük, Rusya'daki Baykal Gölü dünyanın en derin gölüdür.",
+       "sayfa": 59
+      },
+      {
+       "id": "3.1-05",
+       "tur": "secmeli",
+       "soru": "Göller oluşum biçimlerine göre hangi gruplara ayrılır?",
+       "secenekler": [
+        "Tatlı, tuzlu, sodalı ve acı göller",
+        "Yerlikaya, set ve relikt göller",
+        "Açık ve kapalı havza gölleri",
+        "Kıyı, ova ve dağ gölleri"
+       ],
+       "dogru": 1,
+       "bilgi": "Tektonik, volkanik, buzul, meteorit ve karstik göller yerlikaya; lav, heyelan, alüvyal, moren gibi göller set gölüdür.",
+       "sayfa": 58
+      },
+      {
+       "id": "3.1-06",
+       "tur": "bosluk",
+       "cumle": "Bir gölün fazla sularını dışarıya boşaltan akarsuya göl ayağı ya da ___ denir.",
+       "cevap": "gideğen",
+       "celdiriciler": [
+        "akarsu ağzı",
+        "yan kol",
+        "kaynak"
+       ],
+       "bilgi": "Gideğeni olan Beyşehir ve Eğirdir gölleri tatlıdır; dışa akışı olmayan ve buharlaşmanın fazla olduğu Tuz Gölü tuzludur.",
+       "sayfa": 59
+      },
+      {
+       "id": "3.1-07",
+       "tur": "eslestir",
+       "yonerge": "Akarsularla ilgili kavramları tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Akarsu havzası",
+         "Ana ve yan kolların sularını topladığı alan"
+        ],
+        [
+         "Su bölümü çizgisi",
+         "Komşu akarsu havzalarını ayıran doğal sınır"
+        ],
+        [
+         "Debi (akım)",
+         "Yataktan saniyede geçen m³ cinsinden su miktarı"
+        ],
+        [
+         "Rejim",
+         "Akarsuyun yıl içinde taşıdığı su miktarındaki değişim"
+        ]
+       ],
+       "bilgi": "Denize ulaşan akarsular açık havza, göl veya kapalı çukurlarda son bulanlar kapalı havza özelliği gösterir.",
+       "sayfa": 60
+      },
+      {
+       "id": "3.1-08",
+       "tur": "dy",
+       "ifade": "Ganj ve Mekong Nehirleri, debisi yıl boyunca büyük değişiklik göstermeyen düzenli rejimli akarsulardır.",
+       "dogru": false,
+       "bilgi": "Ganj ve Mekong düzensiz rejimlidir; Amazon ve Kongo Nehirleri ise düzenli rejimli akarsulara örnektir.",
+       "sayfa": 61
+      },
+      {
+       "id": "3.1-09",
+       "tur": "secmeli",
+       "soru": "Lübnan'dan doğup Suriye üzerinden Türkiye'ye giren sınıraşan akarsu hangisidir?",
+       "secenekler": [
+        "Fırat",
+        "Meriç",
+        "Dicle",
+        "Asi"
+       ],
+       "dogru": 3,
+       "bilgi": "Türkiye'nin sınıraşan suları Fırat, Dicle, Kura, Aras, Çoruh, Meriç ve Asi'dir; Fırat Türkiye'den doğup Suriye ve Irak'a ulaşır.",
+       "sayfa": 61
+      },
+      {
+       "id": "3.1-10",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi Türkiye akarsularının genel özelliklerinden biridir?",
+       "secenekler": [
+        "Hidroelektrik enerji potansiyellerinin fazla olması",
+        "Rejimlerinin düzenli olması",
+        "Debilerinin yüksek olması",
+        "Yük gemisi ulaşımına elverişli olmaları"
+       ],
+       "dogru": 0,
+       "bilgi": "Türkiye akarsularının boyları kısa, akış hızları yüksek, debileri düşük ve rejimleri düzensizdir; denge profiline ulaşmamışlardır.",
+       "sayfa": 61
+      },
+      {
+       "id": "3.1-11",
+       "tur": "secmeli",
+       "soru": "Kuzey yarım kürede en geniş buzul örtüsüne sahip olan yer hangisidir?",
+       "secenekler": [
+        "Alpler",
+        "Himalayalar",
+        "Grönland",
+        "And Dağları"
+       ],
+       "dogru": 2,
+       "bilgi": "Dünyadaki en eski buzullar Antarktika'da bulunur; Grönland kuzey yarım kürenin en geniş buzul örtüsüne sahiptir.",
+       "sayfa": 63
+      },
+      {
+       "id": "3.1-12",
+       "tur": "bosluk",
+       "cumle": "Yer altına sızan suların geçirimli tabakalardaki boşluklarda birikmesiyle oluşan yer altı su birikim alanlarına ___ denir.",
+       "cevap": "akifer",
+       "celdiriciler": [
+        "obruk",
+        "kaynak",
+        "gideğen"
+       ],
+       "bilgi": "Yer altı sularının yeryüzüne çıktığı noktalara kaynak denir; kaynaklar karstik (voklüz), artezyen, yamaç, fay ve gayzer olarak sınıflanır.",
+       "sayfa": 65
+      },
+      {
+       "id": "3.1-13",
+       "tur": "dy",
+       "ifade": "Afrika'daki Çad Gölü büyük ölçüde yer altı sularıyla beslenerek su seviyesini korumaktadır.",
+       "dogru": true,
+       "bilgi": "Yer altı suları akarsu ve gölleri besler; Türkiye'de Sapanca ve Beyşehir gölleri de yer altı sularından beslenir.",
+       "sayfa": 65
+      }
+     ]
+    },
+    {
+     "no": "3.2",
+     "ad": "Türkiye'deki Su Kaynaklarının Etkileri",
+     "kartlar": [
+      {
+       "id": "3.2-01",
+       "tur": "secmeli",
+       "soru": "Türkiye'de su kaynaklarının en yoğun kullanıldığı sektörlerden biri hangisidir?",
+       "secenekler": [
+        "Turizm",
+        "Tarım",
+        "Ulaşım",
+        "Madencilik"
+       ],
+       "dogru": 1,
+       "bilgi": "Tarımda verimli sulama tekniklerinin yetersizliği Türkiye'de su kıtlığı riskini artırmaktadır.",
+       "sayfa": 69
+      },
+      {
+       "id": "3.2-02",
+       "tur": "secmeli",
+       "soru": "Türkiye'nin Ege Denizi'ndeki kara suları genişliği kaç deniz milidir?",
+       "secenekler": [
+        "3",
+        "12",
+        "6",
+        "24"
+       ],
+       "dogru": 2,
+       "bilgi": "Türkiye'nin kara suları Karadeniz ve Akdeniz'de 12 deniz mili, Ege Denizi'nde 6 deniz mili genişliğindedir.",
+       "sayfa": 70
+      },
+      {
+       "id": "3.2-03",
+       "tur": "bosluk",
+       "cumle": "Deniz seviyesinin altında, kıyı çizgisinden itibaren 200 metre derinliğe kadar inen bölüme ___ (şelf) denir.",
+       "cevap": "kıta sahanlığı",
+       "celdiriciler": [
+        "kara suları",
+        "bitişik bölge",
+        "münhasır ekonomik bölge"
+       ],
+       "bilgi": "Türkiye kıta sahanlığında doğal kaynakları keşfetme ve kullanma hakkına sahiptir.",
+       "sayfa": 70
+      },
+      {
+       "id": "3.2-04",
+       "tur": "dy",
+       "ifade": "Münhasır ekonomik bölge, ülkelere kıta sahanlığı dışındaki deniz alanlarında 200 deniz miline kadar canlı ve cansız kaynakları kullanma hakkı tanır.",
+       "dogru": true,
+       "bilgi": "Münhasır ekonomik bölge balıkçılık ve deniz tabanındaki mineral kaynaklar gibi değerli varlıkları barındırır.",
+       "sayfa": 70
+      },
+      {
+       "id": "3.2-05",
+       "tur": "secmeli",
+       "soru": "Türkiye'nin deniz yetki alanlarındaki haklarını ve çıkarlarını korumayı amaçlayan doktrin hangisidir?",
+       "secenekler": [
+        "Mavi Vatan",
+        "Stratejik su yönetimi",
+        "Deniz hukuku",
+        "Ortak Geleceğimiz"
+       ],
+       "dogru": 0,
+       "bilgi": "Mavi Vatan; kara suları, kıta sahanlığı, münhasır ekonomik bölge ile denizlerin üzerindeki hava sahasını da kapsar.",
+       "sayfa": 70
+      },
+      {
+       "id": "3.2-06",
+       "tur": "bosluk",
+       "cumle": "Deniz yetki alanlarının ölçümünde kullanılan 1 deniz mili ___ metreye eşittir.",
+       "cevap": "1852",
+       "celdiriciler": [
+        "1000",
+        "1609",
+        "1500"
+       ],
+       "bilgi": "Deniz yetki alanları iç sular, kara suları, bitişik bölge, kıta sahanlığı ve münhasır ekonomik bölgeden oluşur.",
+       "sayfa": 69
+      },
+      {
+       "id": "3.2-07",
+       "tur": "eslestir",
+       "yonerge": "Su yönetimiyle ilgili kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Stratejik su yönetimi",
+         "Tatlı ve tuzlu su kaynaklarının geleceğini güvenceye alma"
+        ],
+        [
+         "Sürdürülebilirlik ilkesi",
+         "Gelecek nesillerin de yeterli suya erişmesini gözetme"
+        ],
+        [
+         "Su kültürü",
+         "Toplumun suya verdiği değer ve suyla kurduğu bağ"
+        ],
+        [
+         "Deniz hukuku",
+         "Kıyı ülkelerinin denizlerden yararlanmasını düzenleme"
+        ]
+       ],
+       "bilgi": "Su kültürünün bir parçası olan su tasarrufu bilinci, su kaynaklarının sürdürülebilirliği için önemlidir.",
+       "sayfa": 70
+      },
+      {
+       "id": "3.2-08",
+       "tur": "secmeli",
+       "soru": "Güneydoğu Anadolu Projesi (GAP) kapsamında kaç baraj ve kaç hidroelektrik santrali yapılması planlanmıştır?",
+       "secenekler": [
+        "19 baraj, 22 santral",
+        "12 baraj, 9 santral",
+        "32 baraj, 27 santral",
+        "22 baraj, 19 santral"
+       ],
+       "dogru": 3,
+       "bilgi": "GAP ile 1,8 milyon hektar alanın sulamaya açılması ve yılda 27 milyar kilovatsaat hidroelektrik üretimi planlanmıştır.",
+       "sayfa": 78
+      },
+      {
+       "id": "3.2-09",
+       "tur": "bosluk",
+       "cumle": "GAP ile Türkiye'de üretilen hidroelektrik enerjinin yaklaşık ___ bu projeden sağlanması hedeflenmektedir.",
+       "cevap": "yarısının",
+       "celdiriciler": [
+        "dörtte birinin",
+        "onda birinin",
+        "tamamının"
+       ],
+       "bilgi": "GAP, bölge halkının gelir düzeyini ve yaşam kalitesini yükseltmeyi amaçlayan bölgesel bir kalkınma projesidir.",
+       "sayfa": 78
+      },
+      {
+       "id": "3.2-10",
+       "tur": "dy",
+       "ifade": "Türkiye, sınıraşan suların paylaşımında suyun yalnızca kaynak ülkenin ihtiyacına göre kullanılmasını savunmaktadır.",
+       "dogru": false,
+       "bilgi": "Türkiye sınıraşan sularda suyun hakkaniyetli, akılcı ve verimli kullanımını; konunun karşılıklı bilgi ve veri alışverişiyle çözülmesini savunur.",
+       "sayfa": 79
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "ad": "Beşerî Sistemler ve Süreçler",
+   "konular": [
+    {
+     "no": "4.1",
+     "ad": "Yerleşmelerin Mekânsal Organizasyonları",
+     "kartlar": [
+      {
+       "id": "4.1-01",
+       "tur": "bosluk",
+       "cumle": "Yerleşmedeki konut, yol, meydan gibi mekânsal unsurların düzeni, yoğunluğu ve dağılım biçimi ___ kavramıyla ifade edilir.",
+       "cevap": "mekânsal desen",
+       "celdiriciler": [
+        "mekânsal hiyerarşi",
+        "mekânsal etki",
+        "mekânsal geçiş"
+       ],
+       "bilgi": "Mekânsal desen yerleşme içinde \"Ne?\", \"Nerede?\" ve \"Nasıl yerleştirilmiş?\" sorularına cevap verir.",
+       "sayfa": 85
+      },
+      {
+       "id": "4.1-02",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi yerleşmelerin dağınık olmasına yol açan etkenlerden biridir?",
+       "secenekler": [
+        "Su kaynaklarının belirli noktalarda yoğunlaşması",
+        "Düz ve verimli ovaların bulunması",
+        "Eğimli ve parçalı arazi yapısı",
+        "Güvenlik ihtiyacının yüksek olması"
+       ],
+       "dogru": 2,
+       "bilgi": "Eğimli ve parçalı arazi, yüksek yağış ve dağınık su kaynakları dağınık yerleşmeye yol açar; Karadeniz kıyıları buna örnektir.",
+       "sayfa": 86
+      },
+      {
+       "id": "4.1-03",
+       "tur": "eslestir",
+       "yonerge": "Mekânsal desen türlerini örnek yerleşmelerle eşleştir.",
+       "ciftler": [
+        [
+         "Kümelenmiş yerleşme",
+         "Safranbolu"
+        ],
+        [
+         "Çizgisel yerleşme",
+         "Amasya"
+        ],
+        [
+         "Radyal yerleşme",
+         "Palmanova"
+        ],
+        [
+         "Izgara kalıp yerleşme",
+         "Barcelona"
+        ],
+        [
+         "Dairesel planlı yerleşme",
+         "Rundling (Runddorf) köyleri"
+        ]
+       ],
+       "bilgi": "Çizgisel yerleşmeler akarsu vadisi, demir yolu veya yol boyunca uzunlamasına gelişir.",
+       "sayfa": 87
+      },
+      {
+       "id": "4.1-04",
+       "tur": "secmeli",
+       "soru": "Evlerin ailelere ait arazilerde birbirinden uzakta inşa edildiği; düzeni, meydanı ve sokağı olmayan yerleşmelere ne ad verilir?",
+       "secenekler": [
+        "Rassal (tesadüfi) yerleşme",
+        "Radyal yerleşme",
+        "Kümelenmiş yerleşme",
+        "Çizgisel yerleşme"
+       ],
+       "dogru": 0,
+       "bilgi": "Doğu Karadeniz yaylaları ve Güneydoğu Asya'nın dağlık bölgelerindeki tarım yerleşmeleri rassal desene örnektir.",
+       "sayfa": 87
+      },
+      {
+       "id": "4.1-05",
+       "tur": "dy",
+       "ifade": "Türkiye'de Balkan göçmenlerinin yerleştirildiği yerleşmeler ve afetler sonrası kurulan planlı köyler ızgara kalıp desenine örnektir.",
+       "dogru": true,
+       "bilgi": "Izgara kalıp yerleşmelerde sokaklar birbirini dik keser; adresleme ve ulaşım düzenli olduğu için yön bulmak kolaylaşır.",
+       "sayfa": 87
+      },
+      {
+       "id": "4.1-06",
+       "tur": "dy",
+       "ifade": "Soğuk iklim bölgelerinde güneşten daha çok yararlanmak için evler kuzey cepheye yönlendirilir ve duvarlar ince yapılır.",
+       "dogru": false,
+       "bilgi": "Soğuk iklimlerde evler güney cepheye yönlendirilir, ısı kaybını azaltmak için duvarlar kalın yapılır.",
+       "sayfa": 89
+      },
+      {
+       "id": "4.1-07",
+       "tur": "bosluk",
+       "cumle": "İnsanların yaşadıkları çevrede fiziki, sosyal ve ekonomik unsurları bir düzene göre organize ederek alanı kullanma biçimine ___ denir.",
+       "cevap": "mekânsal organizasyon",
+       "celdiriciler": [
+        "mekânsal desen",
+        "fonksiyonel ayrışma",
+        "mekânsal etki"
+       ],
+       "bilgi": "Konum, yer şekilleri, su kaynakları, iklim ve ulaşım, yerleşme içi mekânsal organizasyonu belirleyen coğrafi koşullardır.",
+       "sayfa": 89
+      },
+      {
+       "id": "4.1-08",
+       "tur": "bosluk",
+       "cumle": "Bir yerleşmede nüfus yoğunluğu, yapılaşma biçimi ve arazi kullanımının bir bölümden diğerine kademeli olarak değişmesine mekânsal ___ denir.",
+       "cevap": "geçiş",
+       "celdiriciler": [
+        "hiyerarşi",
+        "ayrışma",
+        "desen"
+       ],
+       "bilgi": "Ana yollar, sokaklar ve meydanlar yerleşme içindeki bölgeleri birbirine bağlar.",
+       "sayfa": 89
+      },
+      {
+       "id": "4.1-09",
+       "tur": "secmeli",
+       "soru": "Türkiye'de mekânsal hiyerarşi hangi basamaksal yapıyla tanımlanır?",
+       "secenekler": [
+        "Kasaba – köy – şehir – metropol – büyükşehir",
+        "Köy – kasaba – şehir – büyükşehir – metropol",
+        "Köy – şehir – kasaba – büyükşehir – metropol",
+        "Kasaba – köy – büyükşehir – şehir – metropol"
+       ],
+       "dogru": 1,
+       "bilgi": "Mekânsal hiyerarşi, yerleşmelerin büyüklük, işlev, nüfus, hizmet çeşitliliği ve etki alanına göre düzeylendirilmesidir.",
+       "sayfa": 90
+      },
+      {
+       "id": "4.1-10",
+       "tur": "secmeli",
+       "soru": "Sanayi tesislerinin yerleşmenin belirli bir alanında toplanarak organize sanayi bölgesi (OSB) oluşturması hangi organize edilme ilkesine örnektir?",
+       "secenekler": [
+        "Merkezîlik ve hiyerarşi",
+        "Doğal çevreye uyum",
+        "Sosyal ve kültürel yapı",
+        "Fonksiyonel ayrışma"
+       ],
+       "dogru": 3,
+       "bilgi": "Fonksiyonel ayrışmada konut, ticaret, sanayi ve kamu hizmetleri gibi işlevler mekânsal olarak birbirinden ayrılır.",
+       "sayfa": 92
+      },
+      {
+       "id": "4.1-11",
+       "tur": "secmeli",
+       "soru": "Yüz ölçümünün %90'ından fazlası deniz seviyesinin altında olan, yeşil çatılar ve \"Room for the River\" programını uygulayan şehir hangisidir?",
+       "secenekler": [
+        "Hamburg",
+        "Rotterdam",
+        "Venedik",
+        "Kopenhag"
+       ],
+       "dogru": 1,
+       "bilgi": "Rotterdam'daki Dakpark, Avrupa'nın en büyük çatı parkıdır.",
+       "sayfa": 93
+      },
+      {
+       "id": "4.1-12",
+       "tur": "dy",
+       "ifade": "Bursa'nın Nilüfer ilçesi, fay hattına yakın olmasına rağmen mikrobölgeleme ve yapı denetimi çalışmalarıyla deprem riskine karşı hazırlıklı hâle getirilmiştir.",
+       "dogru": true,
+       "bilgi": "Nilüfer, planlı kentsel büyüme modeli ve geniş yeşil alanlarıyla Türkiye'nin en düzenli yerleşmelerinden biridir.",
+       "sayfa": 93
+      }
+     ]
+    },
+    {
+     "no": "4.2",
+     "ad": "Yerleşmelerin Etki Alanları",
+     "kartlar": [
+      {
+       "id": "4.2-01",
+       "tur": "bosluk",
+       "cumle": "Yerleşmelerin yerel, bölgesel veya küresel düzeyde çevresine yaptığı fiziksel, sosyal ve ekonomik etkilerin bütününe ___ denir.",
+       "cevap": "mekânsal etki",
+       "celdiriciler": [
+        "mekânsal desen",
+        "mekânsal organizasyon",
+        "mekânsal hiyerarşi"
+       ],
+       "bilgi": "Arazi kullanımındaki değişiklikler, nüfus hareketleri ve ekonomik faaliyetlerin yarattığı etkiler mekânsal etki örnekleridir.",
+       "sayfa": 95
+      },
+      {
+       "id": "4.2-02",
+       "tur": "secmeli",
+       "soru": "Başkentlerin yasama, yürütme ve yargı organlarını barındırdığı için ülke genelinde çekim merkezi olması, etki alanını belirleyen hangi faktörle ilgilidir?",
+       "secenekler": [
+        "Kültürel faktörler",
+        "Sosyal faktörler",
+        "Siyasi faktörler",
+        "Ekonomik faktörler"
+       ],
+       "dogru": 2,
+       "bilgi": "Resmî kurumlar, diplomatik temsilcilikler ve yönetim merkezlerinin varlığı yerleşmenin siyasi etki alanını artırır.",
+       "sayfa": 95
+      },
+      {
+       "id": "4.2-03",
+       "tur": "eslestir",
+       "yonerge": "Etki alanını belirleyen faktörleri örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Sosyal faktörler",
+         "Üniversite ve bölge hastanesi"
+        ],
+        [
+         "Kültürel faktörler",
+         "Müze, kültürel miras ve yerel gastronomi"
+        ],
+        [
+         "Ekonomik faktörler",
+         "Lojistik merkez ve sanayi bölgesi"
+        ],
+        [
+         "İdari faktörler",
+         "Yerleşmenin idari statüsü ve yönetim yetkisi"
+        ]
+       ],
+       "bilgi": "Bir yerleşmenin etki alanı konum, ulaşım, sosyal, kültürel, ekonomik, siyasi ve idari faktörlerin etkileşimiyle oluşur.",
+       "sayfa": 95
+      },
+      {
+       "id": "4.2-04",
+       "tur": "bosluk",
+       "cumle": "Yerleşmeler etki alanları bakımından yerel, bölgesel ve ___ etkiye sahip yerleşmeler olmak üzere üçe ayrılır.",
+       "cevap": "küresel",
+       "celdiriciler": [
+        "ulusal",
+        "kıtasal",
+        "kırsal"
+       ],
+       "bilgi": "Fonksiyonu az olan yerleşmeler yakın çevresini etkilerken çok işlevli şehirler dünya çapında etki alanı oluşturabilir.",
+       "sayfa": 97
+      },
+      {
+       "id": "4.2-05",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki yerleşmelerden hangisi yerel etkiye sahip yerleşmelere örnektir?",
+       "secenekler": [
+        "Kadirli",
+        "Eskişehir",
+        "Tahran",
+        "Şanghay"
+       ],
+       "dogru": 0,
+       "bilgi": "Şirince, Kadirli, Bayburt, Gümüşhane ve Hallstatt yerel etkili; Eskişehir, Samsun ve Tahran bölgesel etkili yerleşmelerdir.",
+       "sayfa": 97
+      },
+      {
+       "id": "4.2-06",
+       "tur": "dy",
+       "ifade": "Yerel etkiye sahip yerleşmelerde temel ekonomik faaliyetler finans ve uluslararası ticarettir.",
+       "dogru": false,
+       "bilgi": "Yerel etkili yerleşmelerde temel ekonomik faaliyetler tarım ve hayvancılıktır; sosyal ve kültürel etkinlikler de sınırlıdır.",
+       "sayfa": 97
+      },
+      {
+       "id": "4.2-07",
+       "tur": "secmeli",
+       "soru": "Dinyeper Nehri kıyısında yer alan ve etki sahası Karadeniz'in kuzeyiyle sınırlı olan bölgesel etkili başkent hangisidir?",
+       "secenekler": [
+        "Bükreş",
+        "Varşova",
+        "Kiev",
+        "Bakü"
+       ],
+       "dogru": 2,
+       "bilgi": "Ukrayna'nın başkenti Kiev; sanayi, kültür, eğitim, teknoloji, ulaşım ve ticaret merkezidir.",
+       "sayfa": 98
+      },
+      {
+       "id": "4.2-08",
+       "tur": "dy",
+       "ifade": "Şanghay, 1980'li yıllara kadar kapalı bir liman kentiyken serbest ticaret bölgeleri ve küreselleşmeyle Asya'nın en güçlü ekonomik merkezlerinden biri olmuştur.",
+       "dogru": true,
+       "bilgi": "Yerleşmelerin fonksiyonları değiştikçe etki alanları da değişebilir; yerel bir yerleşme bölgesel veya küresel bir odak hâline gelebilir.",
+       "sayfa": 98
+      },
+      {
+       "id": "4.2-09",
+       "tur": "secmeli",
+       "soru": "Altın başta olmak üzere madencilik, finans ve ulaşım açısından Güney Afrika ve çevre ülkeler üzerinde etkili olan şehir hangisidir?",
+       "secenekler": [
+        "Nairobi",
+        "Johannesburg",
+        "Kahire",
+        "Lagos"
+       ],
+       "dogru": 1,
+       "bilgi": "Johannesburg, Güney Afrika'nın en büyük ekonomi merkezidir.",
+       "sayfa": 99
+      },
+      {
+       "id": "4.2-10",
+       "tur": "dy",
+       "ifade": "Genel ağ sayesinde küçük yerleşmeler de ulusal ve küresel çapta etkiler yaratabilmektedir.",
+       "dogru": true,
+       "bilgi": "Hızlı ulaşım ağları, dijital bağlantılar ve küresel ticaret şehirler arası mal, hizmet, bilgi ve insan akışını kolaylaştırır.",
+       "sayfa": 98
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "ad": "Ekonomik Faaliyetler ve Etkileri",
+   "konular": [
+    {
+     "no": "5.1",
+     "ad": "Tarımsal Faaliyetler ve Gıda Güvencesi",
+     "kartlar": [
+      {
+       "id": "5.1-01",
+       "tur": "secmeli",
+       "soru": "Gıda güvencesinin dört boyutu hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "Üretim, depolama, işleme, pazarlama",
+        "Bulunabilirlik, ulaşılabilirlik, kalite, gıda güvenliği",
+        "İklim, toprak, su, yer şekilleri",
+        "Bitkisel üretim, hayvancılık, balıkçılık, ormancılık"
+       ],
+       "dogru": 1,
+       "bilgi": "Gıda güvencesinin sağlanması için bulunabilirlik, ulaşılabilirlik, kalite ve gıda güvenliği boyutlarının aynı anda gerçekleşmesi gerekir.",
+       "sayfa": 115
+      },
+      {
+       "id": "5.1-02",
+       "tur": "bosluk",
+       "cumle": "İklim, toprak özellikleri, yer şekilleri ve su kaynakları tarımsal üretimi etkileyen ___ faktörlerdir.",
+       "cevap": "doğal",
+       "celdiriciler": [
+        "beşerî",
+        "ekonomik",
+        "teknolojik"
+       ],
+       "bilgi": "Teknoloji, ulaşım, sermaye, nüfus yoğunluğu ve pazar koşulları ise tarımı etkileyen beşerî faktörlerdir.",
+       "sayfa": 114
+      },
+      {
+       "id": "5.1-03",
+       "tur": "eslestir",
+       "yonerge": "Kavramları tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Gıda güvencesi",
+         "Yeterli ve güvenli gıdaya sürekli fiziksel ve ekonomik erişim"
+        ],
+        [
+         "Gıda güvenliği",
+         "Gıdadaki fiziksel, kimyasal ve biyolojik zararları giderme tedbirleri"
+        ],
+        [
+         "Tedarik zinciri",
+         "Ürünün ham maddeden tüketiciye kadar geçtiği aşamalar"
+        ],
+        [
+         "Gıda israfı",
+         "Üretilen gıdanın tüketilmeden çöpe gitmesi"
+        ]
+       ],
+       "bilgi": "Gıda güvencesi temel insan haklarından biri olarak kabul edilir.",
+       "sayfa": 115
+      },
+      {
+       "id": "5.1-04",
+       "tur": "dy",
+       "ifade": "Gıda hakkı, 1948 yılında imzalanan İnsan Hakları Evrensel Beyannamesi'nde yaşam standartlarını belirleyen hakların bir parçası olarak ele alınmıştır.",
+       "dogru": true,
+       "bilgi": "Birleşmiş Milletler, herkesin yeterli ve besleyici gıdaya erişimini temel bir insan hakkı olarak kabul eder.",
+       "sayfa": 115
+      },
+      {
+       "id": "5.1-05",
+       "tur": "secmeli",
+       "soru": "Türkiye aşağıdaki ürünlerden hangisinin üretiminde dünya birincisidir?",
+       "secenekler": [
+        "Buğday",
+        "Mısır",
+        "Ayçiçeği",
+        "Fındık"
+       ],
+       "dogru": 3,
+       "bilgi": "Türkiye fındık, kuru incir, kuru kayısı, kiraz ve ayva üretiminde dünya birincisidir.",
+       "sayfa": 118
+      },
+      {
+       "id": "5.1-06",
+       "tur": "dy",
+       "ifade": "Türkiye buğday, mısır, pirinç ve ayçiçeği gibi temel ürünlerde ihtiyacının tamamını kendi üretimiyle karşılamaktadır.",
+       "dogru": false,
+       "bilgi": "Türkiye bu temel ürünlerde ihtiyacının bir kısmını ithalatla karşılar; tarım arazileri 2000'deki 26,6 milyon hektardan 2024'te 24 milyon hektara düşmüştür.",
+       "sayfa": 118
+      },
+      {
+       "id": "5.1-07",
+       "tur": "secmeli",
+       "soru": "Türkiye, küresel iklim değişikliğinden en fazla etkilenebilecek bölgelerden biri olan hangi havzada yer alır?",
+       "secenekler": [
+        "Doğu Akdeniz Havzası",
+        "Karadeniz Havzası",
+        "Hazar Havzası",
+        "Basra Körfezi Havzası"
+       ],
+       "dogru": 0,
+       "bilgi": "Yıllık ortalama 653 mm yağış alan Türkiye yarı kurak bir bölgededir; tarımsal üretimin %15-25 azalacağı tahmin edilmektedir.",
+       "sayfa": 120
+      },
+      {
+       "id": "5.1-08",
+       "tur": "bosluk",
+       "cumle": "Dünyada her yıl üretilen gıdaların yaklaşık ___ israf edilmektedir.",
+       "cevap": "üçte biri",
+       "celdiriciler": [
+        "yarısı",
+        "dörtte biri",
+        "onda biri"
+       ],
+       "bilgi": "Türkiye'de her yıl kişi başına 93 kilogram yiyecek çöpe atılmaktadır.",
+       "sayfa": 121
+      },
+      {
+       "id": "5.1-09",
+       "tur": "secmeli",
+       "soru": "UNEP'in Gıda İsrafı Endeksi Raporu'na göre gıda israfının en büyük bölümü hangi kaynaktan gelmektedir?",
+       "secenekler": [
+        "Perakende sektörü",
+        "Hizmet sektörü",
+        "Evsel atıklar",
+        "Tarımsal üretim"
+       ],
+       "dogru": 2,
+       "bilgi": "Gıda israfının %61'i evsel atıklardan, %26'sı hizmet sektöründen, %13'ü perakende sektöründen kaynaklanır.",
+       "sayfa": 121
+      },
+      {
+       "id": "5.1-10",
+       "tur": "dy",
+       "ifade": "Gelişmekte olan ülkelerde gıda kayıpları daha çok üretim, saklama, işleme ve dağıtım aşamalarındaki altyapı eksikliğinden kaynaklanır.",
+       "dogru": true,
+       "bilgi": "Gelişmiş ülkelerde gıda kayıpları ise daha çok perakende ve tüketim aşamalarındaki israftan kaynaklanır.",
+       "sayfa": 121
+      }
+     ]
+    },
+    {
+     "no": "5.2",
+     "ad": "Tarım Uygulamalarında Sürdürülebilirlik",
+     "kartlar": [
+      {
+       "id": "5.2-01",
+       "tur": "secmeli",
+       "soru": "Sürdürülebilirlik kavramını dünyaya tanıtan, BM'nin 1987'de yayımladığı rapor hangisidir?",
+       "secenekler": [
+        "Kyoto Protokolü",
+        "Ortak Geleceğimiz",
+        "Paris Anlaşması",
+        "Ramsar Sözleşmesi"
+       ],
+       "dogru": 1,
+       "bilgi": "Rapora göre insanlık, doğanın gelecek nesillerin gereksinimlerini karşılama yeteneğini tehlikeye atmadan güncel ihtiyaçlarını karşılayabilir.",
+       "sayfa": 122
+      },
+      {
+       "id": "5.2-02",
+       "tur": "eslestir",
+       "yonerge": "Sürdürülebilir tarım uygulamalarını açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Hidroponik",
+         "Topraksız tarım"
+        ],
+        [
+         "Agrivoltaik",
+         "Güneş enerjisinden elektrik üretilen alanda tarım"
+        ],
+        [
+         "Akuaponik",
+         "Balık yetiştiriciliği ile topraksız tarımın birleşimi"
+        ],
+        [
+         "Tarım 4.0",
+         "Hassas tarım, büyük veri, yapay zekâ ve drone kullanımı"
+        ]
+       ],
+       "bilgi": "Teknik uygulamalar fiziksel sürdürülebilirliğe; sözleşmeli tarım ve kırsal kalkınma ekonomik ve sosyal dayanıklılığa odaklanır.",
+       "sayfa": 122
+      },
+      {
+       "id": "5.2-03",
+       "tur": "secmeli",
+       "soru": "Bir tarım uygulamasının sürdürülebilir sayılabilmesi için hangi üç ölçüte katkı sağlaması gerekir?",
+       "secenekler": [
+        "Çevresel, ekonomik ve sosyal",
+        "İklim, toprak ve su",
+        "Verim, maliyet ve ihracat",
+        "Teknoloji, sermaye ve pazar"
+       ],
+       "dogru": 0,
+       "bilgi": "Sürdürülebilir tarım toprağı, suyu ve biyolojik çeşitliliği korumayı ve kimyasal girdilere bağımlılığı azaltmayı amaçlar.",
+       "sayfa": 123
+      },
+      {
+       "id": "5.2-04",
+       "tur": "dy",
+       "ifade": "Organik tarımda verimi artırmak için kimyasal gübreler ve sentetik ilaçlar kontrollü olarak kullanılır.",
+       "dogru": false,
+       "bilgi": "Organik tarımda kimyasal gübre ve sentetik ilaç yerine doğal gübreler ve biyolojik mücadele yöntemleri kullanılır.",
+       "sayfa": 124
+      },
+      {
+       "id": "5.2-05",
+       "tur": "secmeli",
+       "soru": "Kimyasal ilaç ve gübrenin tamamen yasaklanmadığı ancak kontrollü kullanıldığı, üretim aşamalarının kayıt altına alındığı tarım modeli hangisidir?",
+       "secenekler": [
+        "Organik tarım",
+        "Monokültür tarım",
+        "Tarımsal ormancılık",
+        "İyi tarım uygulamaları"
+       ],
+       "dogru": 3,
+       "bilgi": "İyi tarım uygulamalarında üretimin her aşaması denetlenerek izlenebilir bir üretim zinciri oluşturulur.",
+       "sayfa": 124
+      },
+      {
+       "id": "5.2-06",
+       "tur": "bosluk",
+       "cumle": "Bir tarlada ya da çiftlikte aynı anda yalnızca tek bir ürün veya hayvan türünün yetiştirilmesine ___ tarım denir.",
+       "cevap": "monokültür",
+       "celdiriciler": [
+        "polikültür",
+        "sözleşmeli",
+        "organik"
+       ],
+       "bilgi": "Monokültür verimi artırsa da ürün çeşitliliğinin olmaması toprağın yorulmasına ve çevresel risklerin artmasına yol açar.",
+       "sayfa": 134
+      },
+      {
+       "id": "5.2-07",
+       "tur": "secmeli",
+       "soru": "Türkiye'de seracılık en çok hangi kıyı şeridinde yapılır?",
+       "secenekler": [
+        "Doğu Karadeniz kıyıları",
+        "İzmir'in güneyinden İskenderun Körfezi'ne uzanan kıyılar",
+        "Trakya'nın Karadeniz kıyıları",
+        "Marmara'nın kuzey kıyıları"
+       ],
+       "dogru": 1,
+       "bilgi": "Seracılık kısmen Marmara'nın güneyinde de yapılır; seralarda kış aylarında domates, salatalık, biber gibi yaz sebzeleri üretilir.",
+       "sayfa": 134
+      },
+      {
+       "id": "5.2-08",
+       "tur": "dy",
+       "ifade": "Buğday çimlenme döneminde yağışa, olgunlaşma ve hasat döneminde kuraklığa ihtiyaç duyar.",
+       "dogru": true,
+       "bilgi": "Buğday Doğu Karadeniz kıyıları dışında Türkiye'nin hemen her yerinde yetiştirilir; yıllık üretimi yağışa bağlı olarak değişir.",
+       "sayfa": 127
+      },
+      {
+       "id": "5.2-09",
+       "tur": "eslestir",
+       "yonerge": "Tarım ürünlerini özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Şeker pancarı",
+         "Sulama zorunlu, yan ürünü küspe yem olarak kullanılır"
+        ],
+        [
+         "Çay",
+         "Yıl boyu yağışlı ılıman iklimde yetişir, 1940'tan sonra yaygınlaştı"
+        ],
+        [
+         "Ayçiçeği",
+         "Türkiye'de bitkisel yağ üretiminde en çok kullanılan bitki"
+        ],
+        [
+         "Zeytin",
+         "-7 °C altında zarar görür, genellikle iki yılda bir ürün verir"
+        ]
+       ],
+       "bilgi": "Şeker pancarı ve çay hızla işlenmesi gerektiği için fabrikaları üretim alanlarına yakın kurulmuştur.",
+       "sayfa": 129
+      },
+      {
+       "id": "5.2-10",
+       "tur": "dy",
+       "ifade": "Çeltik tarımı sıtma riskini azalttığı için üretim alanları yerleşim bölgelerine yakın kurulur.",
+       "dogru": false,
+       "bilgi": "Çeltik tarımı sivrisinek popülasyonunu artırıp sıtmanın yayılmasına neden olabileceğinden yerleşim bölgelerinden uzağa konumlandırılır.",
+       "sayfa": 128
+      },
+      {
+       "id": "5.2-11",
+       "tur": "bosluk",
+       "cumle": "Nadas yerine toprağı besleyen baklagillerin diğer tarım ürünleriyle dönüşümlü ekilmesine ___ ekim denir.",
+       "cevap": "nöbetleşe",
+       "celdiriciler": [
+        "karışık",
+        "serpme",
+        "monokültür"
+       ],
+       "bilgi": "Yeni tohum çeşitleri ve nöbetleşe ekim, baklagillerin üretim alanı ve miktarındaki artışta etkili olmuştur.",
+       "sayfa": 128
+      },
+      {
+       "id": "5.2-12",
+       "tur": "secmeli",
+       "soru": "Türkiye'de yakalanan balığın yaklaşık %70–80'i hangi denizden elde edilir?",
+       "secenekler": [
+        "Akdeniz",
+        "Ege Denizi",
+        "Marmara Denizi",
+        "Karadeniz"
+       ],
+       "dogru": 3,
+       "bilgi": "Üç tarafı denizlerle çevrili olmasına rağmen Türkiye'de balıkçılığın tarım sektöründeki payı yalnızca %0,2'dir.",
+       "sayfa": 133
+      }
+     ]
+    },
+    {
+     "no": "5.3",
+     "ad": "Stratejik ve Kritik Madenler",
+     "kartlar": [
+      {
+       "id": "5.3-01",
+       "tur": "eslestir",
+       "yonerge": "Madencilik kavramlarını tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Cevher",
+         "Ekonomik olarak işletilebilen maden içeren kayaç"
+        ],
+        [
+         "Maden rezervi",
+         "Yatakta henüz çıkarılmamış toplam maden miktarı"
+        ],
+        [
+         "Tenör",
+         "Çıkarılan cevherin içindeki maden oranı"
+        ]
+       ],
+       "bilgi": "Bir madenin işletilmesi için türünün belirlenmesi, rezerv miktarının hesaplanması ve işletme koşullarının incelenmesi gerekir.",
+       "sayfa": 138
+      },
+      {
+       "id": "5.3-02",
+       "tur": "dy",
+       "ifade": "Bir madenin stratejik olması jeopolitik ve güvenlik temelli, kritik olması ise ekonomik ve tedarik zinciri temelli bir önceliği ifade eder.",
+       "dogru": true,
+       "bilgi": "Bir maden hem stratejik hem kritik olabilir; titanyum, kobalt, nikel, molibden, krom ve nadir toprak elementleri buna örnektir.",
+       "sayfa": 138
+      },
+      {
+       "id": "5.3-03",
+       "tur": "secmeli",
+       "soru": "Dünya bor rezervlerinin yaklaşık ne kadarı Türkiye'de bulunmaktadır?",
+       "secenekler": [
+        "%34",
+        "%52",
+        "%74",
+        "%91"
+       ],
+       "dogru": 2,
+       "bilgi": "Bor; cam, seramik, deterjan, tarım, savunma, enerji depolama ve nükleer uygulamalarda kullanılan kritik bir madendir.",
+       "sayfa": 140
+      },
+      {
+       "id": "5.3-04",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi Türkiye'deki başlıca bor yataklarından biridir?",
+       "secenekler": [
+        "Eskişehir-Kırka",
+        "Konya-Seydişehir",
+        "Rize-Çayeli",
+        "Manisa-Gördes"
+       ],
+       "dogru": 0,
+       "bilgi": "Türkiye'nin başlıca bor yatakları Eskişehir-Kırka, Kütahya-Emet, Balıkesir-Bigadiç ve Bursa-Kestelek'tedir.",
+       "sayfa": 140
+      },
+      {
+       "id": "5.3-05",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi nadir toprak elementlerinden biridir?",
+       "secenekler": [
+        "Krom",
+        "Neodimyum",
+        "Boksit",
+        "Molibden"
+       ],
+       "dogru": 1,
+       "bilgi": "Neodimyum, seryum, lantanyum ve itriyum gibi nadir toprak elementleri yenilenebilir enerji, elektrikli araç ve savunma için stratejiktir.",
+       "sayfa": 138
+      },
+      {
+       "id": "5.3-06",
+       "tur": "secmeli",
+       "soru": "Alüminyum üretiminin temel ham maddesi olan ve Türkiye'de Konya-Seydişehir çevresinde önemli yatakları bulunan maden hangisidir?",
+       "secenekler": [
+        "Krom",
+        "Manganez",
+        "Çinko",
+        "Boksit"
+       ],
+       "dogru": 3,
+       "bilgi": "Türkiye'de boksit yatakları Konya-Seydişehir, Antalya-Akseki ve Muğla-Milas çevresinde bulunur.",
+       "sayfa": 142
+      },
+      {
+       "id": "5.3-07",
+       "tur": "eslestir",
+       "yonerge": "Madenleri başlıca kullanım alanlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Kobalt",
+         "Elektrikli araç bataryaları"
+        ],
+        [
+         "Krom",
+         "Paslanmaz çelik ve metal kaplama"
+        ],
+        [
+         "Titanyum",
+         "Havacılık, uzay ve tıp"
+        ],
+        [
+         "Çinko",
+         "Galvanizli çelik, pirinç ve bronz"
+        ]
+       ],
+       "bilgi": "Dünya kobalt rezervleri ağırlıklı olarak Kongo Demokratik Cumhuriyeti'nde, krom rezervleri Kazakistan, Güney Afrika ve Hindistan'dadır.",
+       "sayfa": 141
+      },
+      {
+       "id": "5.3-08",
+       "tur": "dy",
+       "ifade": "Türkiye'de ekonomik olarak işletilebilir düzeyde zengin niyobyum rezervleri bulunmaktadır.",
+       "dogru": false,
+       "bilgi": "Türkiye'de işletilebilir niyobyum rezervi yoktur; dünya niyobyum rezervlerinin çok büyük bölümü Brezilya'dadır.",
+       "sayfa": 142
+      },
+      {
+       "id": "5.3-09",
+       "tur": "bosluk",
+       "cumle": "Türkiye'de molibden, sınırlı rezervlere rağmen özellikle ___ madenciliğiyle birlikte yan ürün olarak üretilmektedir.",
+       "cevap": "bakır",
+       "celdiriciler": [
+        "demir",
+        "kömür",
+        "bor"
+       ],
+       "bilgi": "Molibden yüksek sıcaklığa ve korozyona dayanıklıdır; çelik, süper alaşım, enerji ve savunma sanayilerinde kullanılır.",
+       "sayfa": 141
+      },
+      {
+       "id": "5.3-10",
+       "tur": "dy",
+       "ifade": "Türkiye'deki manganez yataklarının çoğu yüksek tenörlüdür.",
+       "dogru": false,
+       "bilgi": "Türkiye'de Denizli, Burdur, Adıyaman gibi illerde manganez yatakları bulunsa da bunların çoğu düşük tenörlüdür.",
+       "sayfa": 143
+      },
+      {
+       "id": "5.3-11",
+       "tur": "bosluk",
+       "cumle": "Sanayide en yaygın kullanılan metal olan ___ çelik, makine, inşaat ve enerji altyapısının temel ham maddesidir.",
+       "cevap": "demir",
+       "celdiriciler": [
+        "bakır",
+        "alüminyum",
+        "nikel"
+       ],
+       "bilgi": "Türkiye'de Sivas, Malatya, Bingöl, Adana ve Kayseri çevresinde önemli demir yatakları bulunur.",
+       "sayfa": 143
+      }
+     ]
+    },
+    {
+     "no": "5.4",
+     "ad": "Enerji Kaynakları",
+     "kartlar": [
+      {
+       "id": "5.4-01",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi yenilenemeyen enerji kaynaklarındandır?",
+       "secenekler": [
+        "Biyokütle",
+        "Jeotermal",
+        "Nükleer",
+        "Rüzgâr"
+       ],
+       "dogru": 2,
+       "bilgi": "Kömür, petrol, doğal gaz ve nükleer yenilenemeyen; güneş, rüzgâr, hidroelektrik ve biyokütle yenilenebilir kaynaklardır.",
+       "sayfa": 150
+      },
+      {
+       "id": "5.4-02",
+       "tur": "dy",
+       "ifade": "Küresel enerji üretiminde kömür, petrol ve doğal gaz gibi yenilenemeyen kaynakların payı hâlâ açık ara daha fazladır.",
+       "dogru": true,
+       "bilgi": "Bu durum enerji dönüşüm sürecinin tamamlanmadığını ve yenilenebilir kaynaklara geçişin zamana yayıldığını gösterir.",
+       "sayfa": 147
+      },
+      {
+       "id": "5.4-03",
+       "tur": "bosluk",
+       "cumle": "Enerjinin planlı ve verimli kullanılmasını ifade eden, kaynakların gereksiz harcanmasını önlemeyi amaçlayan yaklaşıma ___ denir.",
+       "cevap": "enerji yönetimi",
+       "celdiriciler": [
+        "enerji koridoru",
+        "enerji dönüşümü",
+        "enerji arzı"
+       ],
+       "bilgi": "Enerji yönetimi, enerjiden en yüksek faydayı sağlamayı amaçlar.",
+       "sayfa": 153
+      },
+      {
+       "id": "5.4-04",
+       "tur": "eslestir",
+       "yonerge": "Ülkeleri yenilenebilir enerjideki öne çıkan uygulamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Çin",
+         "Dünyanın en büyük güneş enerjisi üreticisi"
+        ],
+        [
+         "Norveç",
+         "Enerjisinin büyük bölümünü hidroelektrikten karşılar"
+        ],
+        [
+         "Fas",
+         "Sahra Çölü'nde dev güneş tarlaları"
+        ],
+        [
+         "ABD",
+         "Mojave Çölü'ndeki güneş enerji santralleri"
+        ]
+       ],
+       "bilgi": "Artan enerji talebi ve çevre sorunları ülkeleri temiz ve sürdürülebilir enerji çözümlerine yöneltmektedir.",
+       "sayfa": 153
+      },
+      {
+       "id": "5.4-05",
+       "tur": "secmeli",
+       "soru": "Avrupa'nın en büyük güneş enerji tesislerinden biri olan Karapınar Güneş Santrali hangi ildedir?",
+       "secenekler": [
+        "Konya",
+        "Aydın",
+        "Denizli",
+        "Balıkesir"
+       ],
+       "dogru": 0,
+       "bilgi": "Türkiye'de yenilenebilir enerji yatırımları giderek artmaktadır; Karapınar Güneş Santrali bunun önemli örneklerindendir.",
+       "sayfa": 153
+      },
+      {
+       "id": "5.4-06",
+       "tur": "secmeli",
+       "soru": "Türkiye'nin jeotermal enerji üretiminde dünyada ön sıralarda yer almasını sağlayan santraller daha çok hangi illerde kurulmuştur?",
+       "secenekler": [
+        "Rize ve Artvin",
+        "Konya ve Karaman",
+        "Aydın ve Denizli",
+        "Şanlıurfa ve Adıyaman"
+       ],
+       "dogru": 2,
+       "bilgi": "Rüzgâr türbinleri Çeşme ve Bandırma çevresinde; hidroelektrik için Atatürk, Keban, Deriner ve Yusufeli barajları öne çıkar.",
+       "sayfa": 153
+      },
+      {
+       "id": "5.4-07",
+       "tur": "dy",
+       "ifade": "Türkiye'nin coğrafi konumu, doğu ve batı ülkeleri arasında bir enerji koridoru olmasını engellemektedir.",
+       "dogru": false,
+       "bilgi": "Türkiye coğrafi konumu sayesinde doğu ile batı arasında enerji nakil hatları bakımından köprü görevi gören bir enerji koridorudur.",
+       "sayfa": 150
+      },
+      {
+       "id": "5.4-08",
+       "tur": "bosluk",
+       "cumle": "1973 yılında yaşanan ___ krizi, ülkelerin enerji güvenliğinin kırılganlığını göstererek birçok devletin alternatif kaynaklara yönelmesine neden olmuştur.",
+       "cevap": "petrol",
+       "celdiriciler": [
+        "kömür",
+        "doğal gaz",
+        "elektrik"
+       ],
+       "bilgi": "20. yüzyılda petrol, hem ulaşımda hem de sanayide vazgeçilmez bir enerji kaynağı hâline gelmiştir.",
+       "sayfa": 170
+      },
+      {
+       "id": "5.4-09",
+       "tur": "bosluk",
+       "cumle": "Sanayi Devrimi'nde buhar makinelerinin çalıştırılmasında kullanılan ___, sanayileşmenin başlıca enerji kaynağı olmuştur.",
+       "cevap": "kömür",
+       "celdiriciler": [
+        "petrol",
+        "doğal gaz",
+        "odun"
+       ],
+       "bilgi": "18. yüzyılda Avrupa'da başlayan Sanayi Devrimi'nde kömür, sanayileşmeyi hızlandıran başlıca enerji kaynağıydı.",
+       "sayfa": 170
+      }
+     ]
+    },
+    {
+     "no": "5.5",
+     "ad": "Sanayileşmenin Mekânsal Etkileri",
+     "kartlar": [
+      {
+       "id": "5.5-01",
+       "tur": "bosluk",
+       "cumle": "Ham maddelerin işlenerek mal ve hizmet üretiminin gerçekleştirildiği ekonomik faaliyetler bütününe ___ denir.",
+       "cevap": "sanayi",
+       "celdiriciler": [
+        "madencilik",
+        "ticaret",
+        "tarım"
+       ],
+       "bilgi": "Sanayi türleri arasında maden, imalat, enerji üretimi, yüksek teknoloji ve savunma sanayisi gibi faaliyetler yer alır.",
+       "sayfa": 156
+      },
+      {
+       "id": "5.5-02",
+       "tur": "secmeli",
+       "soru": "Dijitalleşme, yapay zekâ ve robot teknolojilerinin üretime uygulanmasıyla sanayinin yeniden şekillenmesi hangi kavramla ifade edilir?",
+       "secenekler": [
+        "Fonksiyonel ayrışma",
+        "Endüstri 4.0",
+        "Tarım 4.0",
+        "Sözleşmeli üretim"
+       ],
+       "dogru": 1,
+       "bilgi": "Endüstri 4.0, üretimde esnek, ağ temelli ve yüksek teknoloji odaklı yeni mekânsal örüntüler oluşturmaktadır.",
+       "sayfa": 156
+      },
+      {
+       "id": "5.5-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi sanayi tesislerinin kuruluş yerini belirleyen beşerî faktörlerden biridir?",
+       "secenekler": [
+        "Ham maddeye yakınlık",
+        "Afet riskleri",
+        "İklim koşulları",
+        "Devlet teşvikleri"
+       ],
+       "dogru": 3,
+       "bilgi": "Ulaşım, iş gücü, pazar, sermaye, teknoloji ve devlet politikaları beşerî; iklim, yer şekilleri, enerji ve ham madde doğal faktörlerdir.",
+       "sayfa": 156
+      },
+      {
+       "id": "5.5-04",
+       "tur": "dy",
+       "ifade": "Ağır sanayi tesisleri enerji kaynaklarına ve ham maddeye yakın yerlerde yoğunlaşırken gıda sanayisi tarım alanlarının çevresinde gelişir.",
+       "dogru": true,
+       "bilgi": "Liman kentleri, demir yolu hatları ve büyük şehirler sanayi yatırımlarını kendine çeker.",
+       "sayfa": 156
+      },
+      {
+       "id": "5.5-05",
+       "tur": "dy",
+       "ifade": "Sanayi tesislerinin kurulması göç hareketlerini azaltarak şehirleşme sürecini yavaşlatır.",
+       "dogru": false,
+       "bilgi": "Sanayi tesisleri göçü artırır, nüfusu belli alanlarda yoğunlaştırır ve şehirleşmeyi hızlandırır.",
+       "sayfa": 157
+      },
+      {
+       "id": "5.5-06",
+       "tur": "secmeli",
+       "soru": "Tekstil, gıda, plastik ve kimya gibi sektörlerde binlerce tesisi bulunan ve \"Yeşil OSB\" dönüşümü yürüten organize sanayi bölgesi hangi ildedir?",
+       "secenekler": [
+        "Kocaeli",
+        "Gaziantep",
+        "Mersin",
+        "Karabük"
+       ],
+       "dogru": 1,
+       "bilgi": "Yeşil OSB dönüşümü enerji verimliliği, atık yönetimi ve yenilenebilir enerji kullanımıyla çevresel sürdürülebilirliği hedefler.",
+       "sayfa": 158
+      },
+      {
+       "id": "5.5-07",
+       "tur": "secmeli",
+       "soru": "1975'te Türk Silahlı Kuvvetlerini Güçlendirme Vakfı tarafından kurulan, savunma elektroniği alanındaki öncü kuruluş hangisidir?",
+       "secenekler": [
+        "ASELSAN",
+        "ROKETSAN",
+        "HAVELSAN",
+        "TUSAŞ"
+       ],
+       "dogru": 0,
+       "bilgi": "Ürünleri 80'den fazla ülkeye ihraç edilen ASELSAN, savunma sanayisinde dışa bağımlılığı azaltmıştır.",
+       "sayfa": 161
+      },
+      {
+       "id": "5.5-08",
+       "tur": "dy",
+       "ifade": "Savunma sanayisinde yerli üretimin güçlenmesi, Türkiye'nin dış politikada daha bağımsız hareket etmesini mümkün kılar.",
+       "dogru": true,
+       "bilgi": "Savunma sanayisindeki teknolojik kazanımlar ulusal güvenliği artırırken ihracat yoluyla ekonomik getiri de sağlar.",
+       "sayfa": 157
+      },
+      {
+       "id": "5.5-09",
+       "tur": "bosluk",
+       "cumle": "Organize sanayi bölgeleri, serbest bölgeler ve ___ günümüzde sanayi faaliyetlerinin yürütüldüğü planlı üretim alanlarıdır.",
+       "cevap": "teknoparklar",
+       "celdiriciler": [
+        "sit alanları",
+        "millî parklar",
+        "mera alanları"
+       ],
+       "bilgi": "Planlı üretim alanları ve endüstri 4.0 uygulamaları sanayinin mekânsal örgütlenmesini yeniden şekillendirmektedir.",
+       "sayfa": 156
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "ad": "Afetler ve Sürdürülebilir Çevre",
+   "konular": [
+    {
+     "no": "6.1",
+     "ad": "Gezegen Sınırı",
+     "kartlar": [
+      {
+       "id": "6.1-01",
+       "tur": "bosluk",
+       "cumle": "Dünya ekosisteminde ani ve geri dönülmez çevresel değişimlerin önlenmesi ve insanlığın güvenle yaşayabilmesi için aşılmaması gereken çevresel sınıra ___ denir.",
+       "cevap": "gezegen sınırı",
+       "celdiriciler": [
+        "biyolojik kapasite",
+        "ekolojik açık",
+        "limit aşım günü"
+       ],
+       "bilgi": "Bilim insanlarına göre insanlığın varlığını sürdürmesi, Holosen dönemindeki çevre koşullarının devam etmesine bağlıdır.",
+       "sayfa": 179
+      },
+      {
+       "id": "6.1-02",
+       "tur": "secmeli",
+       "soru": "Doğal çevrede insan etkisinin belirgin biçimde görüldüğü ve Sanayi Devrimi'yle başladığı öne sürülen yeni jeolojik devreye ne ad verilir?",
+       "secenekler": [
+        "Holosen",
+        "Pleistosen",
+        "Antroposen",
+        "Miyosen"
+       ],
+       "dogru": 2,
+       "bilgi": "Son buzul çağının bitmesiyle başlayan Holosen devresinin Sanayi Devrimi'yle sona erdiği ve Antroposen'in başladığı öne sürülür.",
+       "sayfa": 179
+      },
+      {
+       "id": "6.1-03",
+       "tur": "bosluk",
+       "cumle": "Holosen devresi, günümüzden yaklaşık ___ yıl önce son buzul çağının sona ermesiyle başlamıştır.",
+       "cevap": "11.000",
+       "celdiriciler": [
+        "5.000",
+        "50.000",
+        "110.000"
+       ],
+       "bilgi": "Holosen'de ortaya çıkan iklim ve çevre koşulları yakın zamana kadar önemli bir değişim olmadan sürmüştür.",
+       "sayfa": 179
+      },
+      {
+       "id": "6.1-04",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi gezegen sınırlarını oluşturan süreçlerden biridir?",
+       "secenekler": [
+        "Nüfusun yaşlanması",
+        "Okyanusların asitlenmesi",
+        "Ticaret hacminin artması",
+        "Kentlerin dikey büyümesi"
+       ],
+       "dogru": 1,
+       "bilgi": "Gezegen sınırlarını iklim değişikliği, kimyasal kirlilik, ozon incelmesi, aerosol yükü, okyanus asitlenmesi gibi dokuz süreç oluşturur.",
+       "sayfa": 182
+      },
+      {
+       "id": "6.1-05",
+       "tur": "eslestir",
+       "yonerge": "Gezegen sınırı süreçlerini ilgili oldukları konularla eşleştir.",
+       "ciftler": [
+        [
+         "İklim değişikliği",
+         "Atmosferdeki CO2 gibi sera gazlarının miktarı"
+        ],
+        [
+         "Biyojeokimyasal döngü",
+         "Azot ve fosfor gibi madde döngüleri"
+        ],
+        [
+         "Arazi kullanımındaki değişim",
+         "Orman ve meraların kent ve sanayi alanına dönüşmesi"
+        ],
+        [
+         "Atmosferdeki ozon incelmesi",
+         "Güneşten gelen UV ışınlarını süzen tabaka"
+        ]
+       ],
+       "bilgi": "Tek bir insan kaynaklı olay birden fazla gezegen sınırı bileşenini aynı anda etkileyebilir.",
+       "sayfa": 183
+      },
+      {
+       "id": "6.1-06",
+       "tur": "bosluk",
+       "cumle": "Bir şehrin, bölgenin veya ülkenin ekin alanları, otlakları, ormanları, balıkçılık ve yapılaşmış alanları gibi ekolojik varlıklarının verimliliğinin toplamına ___ denir.",
+       "cevap": "biyolojik kapasite",
+       "celdiriciler": [
+        "ekolojik açık",
+        "su ayak izi",
+        "gezegen sınırı"
+       ],
+       "bilgi": "Dünya'nın biyolojik kapasitesi sınırlıdır ve her yıl belirli oranda kendini yenileyebilir.",
+       "sayfa": 184
+      },
+      {
+       "id": "6.1-07",
+       "tur": "secmeli",
+       "soru": "Yıllık doğal kaynak tüketiminin biyolojik kapasitenin yenilenme miktarını aşmasıyla ortaya çıkan açığa ne ad verilir?",
+       "secenekler": [
+        "Ekolojik açık",
+        "Su stresi",
+        "Kirlilik sığınağı",
+        "Sanal su"
+       ],
+       "dogru": 0,
+       "bilgi": "Küresel Ayak İzi Ağı'na göre 1970'ten bu yana yıllık tüketim, doğada üretilen kaynak miktarını aşmaktadır.",
+       "sayfa": 184
+      },
+      {
+       "id": "6.1-08",
+       "tur": "dy",
+       "ifade": "Küresel Ayak İzi Ağı verilerine göre limit aşım gününe her yıl giderek daha geç ulaşılmaktadır.",
+       "dogru": false,
+       "bilgi": "Limit aşım gününe giderek daha erken ulaşılmaktadır; bu gün 2024'te 25 Temmuz, 2025'te 24 Temmuz olarak açıklanmıştır.",
+       "sayfa": 184
+      },
+      {
+       "id": "6.1-09",
+       "tur": "secmeli",
+       "soru": "Su seviyesi 1984'ten itibaren düşen ve 2014'te tamamen kuruyan, Afyonkarahisar ile Konya arasındaki göl hangisidir?",
+       "secenekler": [
+        "Eğirdir Gölü",
+        "Beyşehir Gölü",
+        "Burdur Gölü",
+        "Akşehir Gölü"
+       ],
+       "dogru": 3,
+       "bilgi": "Akşehir Gölü'nün kurumasında bilinçsiz sulama, su kuyularının artması, sanayi ve evsel su tüketimi etkili olmuştur.",
+       "sayfa": 179
+      },
+      {
+       "id": "6.1-10",
+       "tur": "dy",
+       "ifade": "BM Çevre Programı'na göre Akdeniz'de yüzen çöplerin %95 ila %100'ünü plastik atıklar oluşturmaktadır.",
+       "dogru": true,
+       "bilgi": "Mikroplastikler deniz canlıları tarafından yenilerek besin zinciri yoluyla insanlara geçer.",
+       "sayfa": 185
+      }
+     ]
+    },
+    {
+     "no": "6.2",
+     "ad": "Küresel İklim Değişikliği",
+     "kartlar": [
+      {
+       "id": "6.2-01",
+       "tur": "secmeli",
+       "soru": "Klimatolojik araştırmalara göre küresel ortalama sıcaklık, Sanayi Devrimi öncesine göre yaklaşık ne kadar artmıştır?",
+       "secenekler": [
+        "0,5 °C",
+        "1,5 °C",
+        "3 °C",
+        "6 °C"
+       ],
+       "dogru": 1,
+       "bilgi": "Önlem alınmazsa artışın 2050'de 2,5-3 °C'a, 2100'de 6 °C'a ulaşacağı tahmin edilmektedir.",
+       "sayfa": 188
+      },
+      {
+       "id": "6.2-02",
+       "tur": "bosluk",
+       "cumle": "Küresel sıcaklık artışının yaklaşık ___ kadarının insan kaynaklı sera gazı emisyonlarından kaynaklandığı vurgulanmaktadır.",
+       "cevap": "%95",
+       "celdiriciler": [
+        "%25",
+        "%50",
+        "%70"
+       ],
+       "bilgi": "Küresel ısınma özellikle karbondioksit, metan ve azot oksit gibi sera gazlarının artışıyla bağlantılıdır.",
+       "sayfa": 188
+      },
+      {
+       "id": "6.2-03",
+       "tur": "secmeli",
+       "soru": "1988'de UNEP ve Dünya Meteoroloji Örgütü iş birliğiyle kurulan, iklim değişikliğine dair verileri derleyip hükûmetleri bilgilendiren kuruluş hangisidir?",
+       "secenekler": [
+        "Küresel Ayak İzi Ağı (GFN)",
+        "Dünya Ticaret Örgütü (WTO)",
+        "Hükûmetlerarası İklim Değişikliği Paneli (IPCC)",
+        "Gıda ve Tarım Örgütü (FAO)"
+       ],
+       "dogru": 2,
+       "bilgi": "IPCC'nin 1990 tarihli ilk raporunda iklim değişikliğiyle mücadele için uluslararası bir anlaşmanın gerekliliği belirtilmiştir.",
+       "sayfa": 189
+      },
+      {
+       "id": "6.2-04",
+       "tur": "eslestir",
+       "yonerge": "İklim değişikliğiyle mücadele sürecindeki gelişmeleri yıllarıyla eşleştir.",
+       "ciftler": [
+        [
+         "1988",
+         "IPCC'nin kurulması"
+        ],
+        [
+         "1992 – Rio Dünya Zirvesi",
+         "BM İklim Değişikliği Çerçeve Sözleşmesi'nin kabulü"
+        ],
+        [
+         "1997 – Kyoto",
+         "Çerçeve sözleşme hedeflerinin bağlayıcılık kazanması"
+        ],
+        [
+         "2015 – Paris",
+         "Güncel uluslararası iklim anlaşmasının imzalanması"
+        ]
+       ],
+       "bilgi": "Kyoto Protokolü 2020'de sona ermiş; 2016'da yürürlüğe giren Paris İklim Anlaşması güncel uluslararası anlaşma olmuştur.",
+       "sayfa": 189
+      },
+      {
+       "id": "6.2-05",
+       "tur": "secmeli",
+       "soru": "Paris İklim Anlaşması, küresel sıcaklık artışını sanayileşme öncesine göre uzun vadede hangi düzeyde sınırlamayı hedefler?",
+       "secenekler": [
+        "2 °C'un altında, mümkünse 1,5 °C'ta",
+        "3 °C'un altında, mümkünse 2 °C'ta",
+        "1 °C'un altında, mümkünse 0,5 °C'ta",
+        "4 °C'un altında, mümkünse 3 °C'ta"
+       ],
+       "dogru": 0,
+       "bilgi": "Anlaşma, ülkelerin \"ortak fakat farklılaştırılmış sorumluluklar ve göreceli kabiliyetler\" ilkesiyle katkı sunmasını öngörür.",
+       "sayfa": 189
+      },
+      {
+       "id": "6.2-06",
+       "tur": "bosluk",
+       "cumle": "Türkiye, sera gazı emisyonunu 2030 yılı için %41 azaltmayı ve ___ yılında net sıfır emisyona düşürmeyi beyan etmiştir.",
+       "cevap": "2053",
+       "celdiriciler": [
+        "2030",
+        "2040",
+        "2071"
+       ],
+       "bilgi": "Türkiye'de 2024-2030 Ulusal İklim Değişikliği Stratejisi ve Eylem Planı hazırlanmış, 2025'te İklim Kanunu çıkarılmıştır.",
+       "sayfa": 189
+      },
+      {
+       "id": "6.2-07",
+       "tur": "dy",
+       "ifade": "Türkiye, Paris İklim Anlaşması'nı \"gelişmiş ülke\" statüsüyle imzalamıştır.",
+       "dogru": false,
+       "bilgi": "Türkiye, 22 Nisan 2016'da anlaşmayı \"gelişmekte olan ülke\" statüsüyle imzalamış, anlaşma 2021'de onaylanmıştır.",
+       "sayfa": 189
+      },
+      {
+       "id": "6.2-08",
+       "tur": "bosluk",
+       "cumle": "İnsanların sürdürülebilir ve kaynak verimli bir toplum inşa etmek için ihtiyaç duydukları yetenek, değer ve tutumlara ___ denir.",
+       "cevap": "yeşil beceriler",
+       "celdiriciler": [
+        "çevre bilinci",
+        "ekolojik ayak izi",
+        "iklim uyumu"
+       ],
+       "bilgi": "Yeşil beceriler teknik ve mühendislik, çevre yönetimi, tarım ve gıda üretimi, yeşil girişimcilik gibi kategorileri kapsar.",
+       "sayfa": 189
+      },
+      {
+       "id": "6.2-09",
+       "tur": "secmeli",
+       "soru": "Gelişmiş ülke firmalarının sıkı çevre kurallarından kaçmak için üretimi taşıdığı gelişmekte olan ülkelerin durumu hangi kavramla ifade edilir?",
+       "secenekler": [
+        "Ekolojik açık",
+        "Limit aşımı",
+        "Biyolojik kapasite",
+        "Kirlilik sığınağı"
+       ],
+       "dogru": 3,
+       "bilgi": "Bu durum küresel sera gazı üretiminin azalmadığını, yalnızca konum değiştirdiğini gösterir.",
+       "sayfa": 195
+      },
+      {
+       "id": "6.2-10",
+       "tur": "dy",
+       "ifade": "Çevre hukukunun temel ilkelerinden \"Kirleten öder.\" ilkesine dayanarak iklim projelerinin büyük kısmını en çok sera gazı salan ülkelerin karşılaması gerektiği savunulmaktadır.",
+       "dogru": true,
+       "bilgi": "Çin, ABD, Hindistan, Rusya, Brezilya ve AB ülkeleri küresel sera gazı emisyonlarının yaklaşık %62,7'sini üretmektedir.",
+       "sayfa": 196
+      }
+     ]
+    },
+    {
+     "no": "6.3",
+     "ad": "Türkiye'de Suyun Sürdürülebilir Kullanımı",
+     "kartlar": [
+      {
+       "id": "6.3-01",
+       "tur": "secmeli",
+       "soru": "BM'nin 2015'te kabul ettiği \"2030 Yılı Sürdürülebilir Kalkınma Hedefleri\" kaç ana hedeften oluşur?",
+       "secenekler": [
+        "8",
+        "11",
+        "17",
+        "25"
+       ],
+       "dogru": 2,
+       "bilgi": "Sürdürülebilir kalkınma hedeflerinin gerçekleştirilmesi doğrudan ya da dolaylı olarak suyla ilişkilidir.",
+       "sayfa": 197
+      },
+      {
+       "id": "6.3-02",
+       "tur": "secmeli",
+       "soru": "Türkiye'nin toplam su ayak izinde en büyük payı hangi kullanım oluşturur?",
+       "secenekler": [
+        "Evsel kullanım",
+        "Tarımsal kullanım",
+        "Endüstriyel kullanım",
+        "Enerji üretimi"
+       ],
+       "dogru": 1,
+       "bilgi": "Türkiye'de toplam su ayak izinin %89'u tarımsal, %7'si evsel, %4'ü endüstriyel su ayak izinden oluşur.",
+       "sayfa": 200
+      },
+      {
+       "id": "6.3-03",
+       "tur": "dy",
+       "ifade": "Türkiye'de tarımsal su ayak izinin büyük kısmını yeşil suyun oluşturması, tarımsal üretimin iklim koşullarına bağımlı olduğunu gösterir.",
+       "dogru": true,
+       "bilgi": "Tarımsal su ayak izinin %66'sı yeşil sudur; evsel ve endüstriyel kullanımda ise gri su ayak izi baskındır.",
+       "sayfa": 200
+      },
+      {
+       "id": "6.3-04",
+       "tur": "eslestir",
+       "yonerge": "Falkenmark Su Stres İndeksi'ne göre kişi başına yıllık su miktarlarını sınıflarıyla eşleştir.",
+       "ciftler": [
+        [
+         "1.700 m³'ten fazla",
+         "Su stresi yaşamayan (su zengini)"
+        ],
+        [
+         "1.000–1.700 m³",
+         "Su stresi"
+        ],
+        [
+         "500–1.000 m³",
+         "Su kıtlığı"
+        ],
+        [
+         "500 m³'ten az",
+         "Mutlak su kıtlığı"
+        ]
+       ],
+       "bilgi": "Falkenmark Su Stres İndeksi, ülkeleri kişi başına düşen tatlı su miktarına göre sınıflayan yaygın bir yöntemdir.",
+       "sayfa": 203
+      },
+      {
+       "id": "6.3-05",
+       "tur": "secmeli",
+       "soru": "Kişi başına düşen yıllık tatlı su miktarı 2024'te 1.307 m³'e gerileyen Türkiye, Falkenmark indeksine göre hangi gruptadır?",
+       "secenekler": [
+        "Su zengini",
+        "Su kıtlığı yaşayan",
+        "Mutlak su kıtlığı yaşayan",
+        "Su stresi yaşayan"
+       ],
+       "dogru": 3,
+       "bilgi": "Türkiye 1927'de kişi başına 8.206 m³ suyla su baskısı olmayan bir ülkeyken nüfus artışıyla su stresi yaşayan ülke konumuna gelmiştir.",
+       "sayfa": 205
+      },
+      {
+       "id": "6.3-06",
+       "tur": "bosluk",
+       "cumle": "Türkiye, iklim özellikleri ve su potansiyelleri birbirinden farklı olan ___ ana hidrolojik havzaya ayrılmıştır.",
+       "cevap": "25",
+       "celdiriciler": [
+        "7",
+        "18",
+        "32"
+       ],
+       "bilgi": "Türkiye'nin uzun yıllar ortalama yağışı 574 mm olup toplam su potansiyelinin ülke genelindeki dağılımı dengesizdir.",
+       "sayfa": 203
+      },
+      {
+       "id": "6.3-07",
+       "tur": "dy",
+       "ifade": "Türkiye'de tüketilen suyun en büyük bölümü sanayide kullanılmaktadır.",
+       "dogru": false,
+       "bilgi": "Türkiye'de yılda tarımsal sulamada 45, içme-kullanmada 7, sanayide 6,4 milyar m³ su tüketilir.",
+       "sayfa": 206
+      },
+      {
+       "id": "6.3-08",
+       "tur": "bosluk",
+       "cumle": "Bir ülkenin içme, kullanma, sulama ve enerji üretimi için gerekli suya erişebilmesi ve suyun olası zararlarından korunabilmesi o ülkenin ___ durumunu ifade eder.",
+       "cevap": "su güvenliği",
+       "celdiriciler": [
+        "su stresi",
+        "su dengesi",
+        "su ayak izi"
+       ],
+       "bilgi": "Kısıtlı kaynaklarla artan su talebini karşılama çabası Türkiye'de su güvenliğinin önündeki önemli engellerdendir.",
+       "sayfa": 210
+      },
+      {
+       "id": "6.3-09",
+       "tur": "secmeli",
+       "soru": "Türkiye'de büyükşehirlerdeki su şebekelerinde kayıp kaçak oranı ortalama yüzde kaç civarındadır?",
+       "secenekler": [
+        "%12",
+        "%25",
+        "%42",
+        "%60"
+       ],
+       "dogru": 2,
+       "bilgi": "Altyapı yetersizliğinden kaynaklanan şebeke kayıpları su kaynaklarındaki israfı ciddi oranda artırmaktadır.",
+       "sayfa": 210
+      },
+      {
+       "id": "6.3-10",
+       "tur": "dy",
+       "ifade": "Projeksiyonlara göre Türkiye'nin nüfusu 2053'e kadar azalacak ve kişi başına düşen su miktarı artacaktır.",
+       "dogru": false,
+       "bilgi": "Nüfusun 2053'e kadar 94 milyona ulaşması ve kişi başına düşen suyun 1.192 m³'e düşmesi beklenmektedir.",
+       "sayfa": 210
+      },
+      {
+       "id": "6.3-11",
+       "tur": "secmeli",
+       "soru": "Türkiye'de yer üstü sularının muhtemel kirlenme nedenleri arasında ilk sırada hangisi yer alır?",
+       "secenekler": [
+        "Madencilik faaliyetleri",
+        "Evsel atık sular",
+        "Denizcilik faaliyetleri",
+        "Su ürünleri yetiştiriciliği"
+       ],
+       "dogru": 1,
+       "bilgi": "Evsel atık suları tarım ve hayvancılık faaliyetleri, evsel katı atıklar ve sanayi kaynaklı atık sular izler.",
+       "sayfa": 208
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "ad": "Bölgeler, Ülkeler ve Küresel Bağlantılar",
+   "konular": [
+    {
+     "no": "7.1",
+     "ad": "Türkiye'nin Kültürel Hinterlandı",
+     "kartlar": [
+      {
+       "id": "7.1-01",
+       "tur": "bosluk",
+       "cumle": "Bir merkezin (şehir veya ülke) kültürel olarak etkileşim içinde bulunduğu bölgeye ___ denir.",
+       "cevap": "kültürel hinterland",
+       "celdiriciler": [
+        "kültür bölgesi",
+        "ekonomik hinterland",
+        "mekânsal etki"
+       ],
+       "bilgi": "Türkiye'nin kültürel hinterlandı, coğrafi konumu ve Türk milletinin yaşadığı tarihî süreçler nedeniyle oldukça geniştir.",
+       "sayfa": 230
+      },
+      {
+       "id": "7.1-02",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi Türkiye'nin kültürel hinterlandında yer alan bölgelerden biri değildir?",
+       "secenekler": [
+        "Balkanlar",
+        "Kafkasya",
+        "İskandinavya",
+        "Türkistan"
+       ],
+       "dogru": 2,
+       "bilgi": "Türkiye'nin kültürel hinterlandında Balkanlar, Kafkasya, Türkistan, Orta Doğu, Afrika ve KKTC bulunur.",
+       "sayfa": 230
+      },
+      {
+       "id": "7.1-03",
+       "tur": "eslestir",
+       "yonerge": "Kurumları yürüttükleri başlıca faaliyetlerle eşleştir.",
+       "ciftler": [
+        [
+         "TÜRKSOY",
+         "Türk Dünyası'nda kültür-sanat faaliyetleri"
+        ],
+        [
+         "Yunus Emre Enstitüsü",
+         "Türkçe eğitim-öğretim ve kültürel çalışmalar"
+        ],
+        [
+         "TİKA",
+         "Türk-İslam eserlerinin restorasyonu ve kalkınma projeleri"
+        ],
+        [
+         "Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı",
+         "Yurt dışındaki vatandaşlar ve uluslararası öğrenciler"
+        ]
+       ],
+       "bilgi": "Türkiye, kültürel hinterlandındaki Türk-İslam eserlerine ve soydaş topluluklara sahip çıkmayı bir görev sayar.",
+       "sayfa": 232
+      },
+      {
+       "id": "7.1-04",
+       "tur": "dy",
+       "ifade": "Türkistan, Orta Doğu, Kafkasya, Balkanlar, Kuzey Afrika ve Kıbrıs yüzlerce yıl Türk devletlerinin egemenliğinde yaşamıştır.",
+       "dogru": true,
+       "bilgi": "Bu bölgelerdeki mimari, el sanatları, mutfak, gelenek ve halk oyunlarında Türk kültürünün etkileri belirgindir.",
+       "sayfa": 230
+      },
+      {
+       "id": "7.1-05",
+       "tur": "secmeli",
+       "soru": "TÜRKSOY hangi kurumun kısaltmasıdır?",
+       "secenekler": [
+        "Türk İşbirliği ve Koordinasyon Ajansı",
+        "Uluslararası Türk Kültürü Teşkilatı",
+        "Türk Dil Kurumu",
+        "Türk Devletleri Teşkilatı"
+       ],
+       "dogru": 1,
+       "bilgi": "TİKA, Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı'nın kısaltmasıdır.",
+       "sayfa": 232
+      },
+      {
+       "id": "7.1-06",
+       "tur": "dy",
+       "ifade": "TİKA yalnızca Türkiye sınırları içindeki tarihî eserlerin restorasyonunu yürütür.",
+       "dogru": false,
+       "bilgi": "TİKA başta kültürel hinterland olmak üzere dünyanın birçok ülkesinde eğitim, sağlık, restorasyon ve kalkınma projeleri yürütür.",
+       "sayfa": 229
+      },
+      {
+       "id": "7.1-07",
+       "tur": "secmeli",
+       "soru": "Türk mimari kültürünün örneklerinden Başçarşı hangi şehirdedir?",
+       "secenekler": [
+        "Saraybosna",
+        "Budapeşte",
+        "Bakü",
+        "Cezayir"
+       ],
+       "dogru": 0,
+       "bilgi": "Selçuklu ve Osmanlı dönemlerinden kalan köprü, cami, türbe, han ve hamamlar somut kültürel miras unsurlarıdır.",
+       "sayfa": 230
+      },
+      {
+       "id": "7.1-08",
+       "tur": "bosluk",
+       "cumle": "Bir toplumu veya sosyal grubu karakterize eden maddi, manevi, entelektüel ve duygusal özelliklerin tümüne ___ denir.",
+       "cevap": "kültür",
+       "celdiriciler": [
+        "medeniyet",
+        "gelenek",
+        "kimlik"
+       ],
+       "bilgi": "Kültürün oluşmasında coğrafya, tarihî olaylar, ekonomi, din, dil ve diğer toplumlarla etkileşim etkilidir.",
+       "sayfa": 230
+      }
+     ]
+    },
+    {
+     "no": "7.2",
+     "ad": "Tarımsal Üretim: Hollanda",
+     "kartlar": [
+      {
+       "id": "7.2-01",
+       "tur": "bosluk",
+       "cumle": "Hollanda'da deniz, göl ve bataklık alanlarından kazanılmış verimli topraklara ___ denir.",
+       "cevap": "polder",
+       "celdiriciler": [
+        "delta",
+        "lagün",
+        "taşkın ovası"
+       ],
+       "bilgi": "Polderler Hollanda yüz ölçümünün yaklaşık %20'sini oluşturur.",
+       "sayfa": 234
+      },
+      {
+       "id": "7.2-02",
+       "tur": "secmeli",
+       "soru": "Hollanda büyük ölçüde hangi akarsuların oluşturduğu delta ovası üzerinde yer alır?",
+       "secenekler": [
+        "Elbe ve Weser",
+        "Sen ve Loire",
+        "Ren ve Maas",
+        "Tuna ve Main"
+       ],
+       "dogru": 2,
+       "bilgi": "Hollanda topraklarının büyük bölümü deniz seviyesine yakın ya da deniz seviyesinin altındaki düzlüklerdir.",
+       "sayfa": 234
+      },
+      {
+       "id": "7.2-03",
+       "tur": "secmeli",
+       "soru": "Hollanda'da yıl boyunca nemli ve yağışlı olan hangi iklim görülür?",
+       "secenekler": [
+        "Ilıman okyanusal iklim",
+        "Akdeniz iklimi",
+        "Karasal iklim",
+        "Muson iklimi"
+       ],
+       "dogru": 0,
+       "bilgi": "Hollanda'da yıllık ortalama sıcaklık yaklaşık 11 °C, yıllık yağış 850 mm civarındadır; yazlar serin, kışlar ılıktır.",
+       "sayfa": 234
+      },
+      {
+       "id": "7.2-04",
+       "tur": "dy",
+       "ifade": "Hollanda, tarımsal ihracatta ABD'den sonra dünyada ikinci sırada yer alır.",
+       "dogru": true,
+       "bilgi": "Hollanda'nın tarımsal ihracatı 2024'te 129 milyar avroya ulaşmıştır.",
+       "sayfa": 236
+      },
+      {
+       "id": "7.2-05",
+       "tur": "dy",
+       "ifade": "Hollanda'da tarımsal üretimin GSYİH'deki doğrudan payı %20'nin üzerindedir.",
+       "dogru": false,
+       "bilgi": "Tarımın GSYİH'deki doğrudan payı %1,7, istihdamdaki payı %2'dir; ancak gıda, lojistik ve ticaretle katma değeri çok daha büyüktür.",
+       "sayfa": 236
+      },
+      {
+       "id": "7.2-06",
+       "tur": "secmeli",
+       "soru": "Hollanda'nın çiçekçilik sektörü, küresel çiçek ihracatının yaklaşık ne kadarını oluşturur?",
+       "secenekler": [
+        "%10",
+        "%25",
+        "%60",
+        "%40"
+       ],
+       "dogru": 3,
+       "bilgi": "Hollanda'da çiçekçilik tarlalarda lale üretimiyle başlamış, ileri teknolojili seralarla gelişmiştir.",
+       "sayfa": 235
+      },
+      {
+       "id": "7.2-07",
+       "tur": "secmeli",
+       "soru": "Dünyanın tarım odaklı en önemli eğitim kurumlarından biri olan Wageningen Üniversitesi hangi ülkededir?",
+       "secenekler": [
+        "Almanya",
+        "Hollanda",
+        "Danimarka",
+        "Belçika"
+       ],
+       "dogru": 1,
+       "bilgi": "Hollanda'nın tarım modeli modern teknoloji, bilimsel araştırma ve güçlü ihracat ağlarının birleşimine dayanır.",
+       "sayfa": 236
+      },
+      {
+       "id": "7.2-08",
+       "tur": "eslestir",
+       "yonerge": "Hollanda tarımında kullanılan teknolojileri işlevleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Biyoteknoloji çalışmaları",
+         "Genetik ıslahla hastalığa dayanıklı türler geliştirme"
+        ],
+        [
+         "Akıllı sensörler ve otomasyon",
+         "Bitkinin su, ışık ve besin ihtiyacını anlık ölçme"
+        ],
+        [
+         "Topraksız (hidroponik) tarım",
+         "Su ve besin çözeltileriyle dar alanda yüksek verim"
+        ]
+       ],
+       "bilgi": "Hollanda yılda yaklaşık 14 milyar kilogram süt üretir; hayvancılıkta robotik sağım sistemleri kullanılır.",
+       "sayfa": 233
+      }
+     ]
+    },
+    {
+     "no": "7.3",
+     "ad": "Sanayileşme Süreci: Almanya ve Mısır",
+     "kartlar": [
+      {
+       "id": "7.3-01",
+       "tur": "secmeli",
+       "soru": "İnsan gücüne dayalı üretimden makineleşmeye geçişi sağlayan Sanayi Devrimi hangi ülkede başlamıştır?",
+       "secenekler": [
+        "Almanya",
+        "Fransa",
+        "İngiltere",
+        "Hollanda"
+       ],
+       "dogru": 2,
+       "bilgi": "18. yüzyılda buhar gücüyle başlayan sanayileşme, zamanla elektrik ve dijital teknolojilerle desteklenmiştir.",
+       "sayfa": 238
+      },
+      {
+       "id": "7.3-02",
+       "tur": "eslestir",
+       "yonerge": "Kanalları bağladıkları denizlerle eşleştir.",
+       "ciftler": [
+        [
+         "Kiel Kanalı",
+         "Kuzey Denizi – Baltık Denizi"
+        ],
+        [
+         "Ren-Main-Tuna Kanalı",
+         "Kuzey Denizi – Karadeniz"
+        ],
+        [
+         "Süveyş Kanalı",
+         "Akdeniz – Kızıldeniz"
+        ]
+       ],
+       "bilgi": "Kiel Kanalı Avrupa'nın en yoğun kullanılan yapay su yollarından biridir; Süveyş'ten yılda ortalama 20 bin gemi geçer.",
+       "sayfa": 239
+      },
+      {
+       "id": "7.3-03",
+       "tur": "bosluk",
+       "cumle": "Almanya'da ağır sanayinin erken gelişmesine zemin hazırlayan zengin kömür ve demir rezervleri ___ Havzası'nda bulunur.",
+       "cevap": "Ruhr",
+       "celdiriciler": [
+        "Elbe",
+        "Weser",
+        "Tuna"
+       ],
+       "bilgi": "1870'lerden itibaren siyasi birliğin sağlanması ve demir yolu ağının genişlemesi Almanya'da sanayileşmeyi hızlandırmıştır.",
+       "sayfa": 242
+      },
+      {
+       "id": "7.3-04",
+       "tur": "dy",
+       "ifade": "Almanya, II. Dünya Savaşı sonrasında özellikle 1960'tan itibaren aralarında Türkiye'nin de bulunduğu ülkelerden göçmen işçi kabul etmiştir.",
+       "dogru": true,
+       "bilgi": "Almanya'nın sanayi yapısı 1990'dan sonra yüksek teknolojiye dayalı üretime yönelmiştir.",
+       "sayfa": 242
+      },
+      {
+       "id": "7.3-05",
+       "tur": "dy",
+       "ifade": "Mısır'da sanayileşme süreci Avrupa ülkelerine kıyasla daha erken başlamıştır.",
+       "dogru": false,
+       "bilgi": "Mısır'da sanayileşme daha geç başlamış; 19. yüzyıl sonunda pamuk üretiminin artması sanayinin temelini oluşturmuştur.",
+       "sayfa": 242
+      },
+      {
+       "id": "7.3-06",
+       "tur": "eslestir",
+       "yonerge": "Mısır'ın sanayileşme sürecindeki gelişmeleri dönemleriyle eşleştir.",
+       "ciftler": [
+        [
+         "19. yüzyıl sonu",
+         "Pamuk üretiminin artmasıyla sanayinin temellenmesi"
+        ],
+        [
+         "1952",
+         "Monarşiden cumhuriyete geçiş ve devlet yatırımları"
+        ],
+        [
+         "1970'ler",
+         "Açılım politikalarıyla özel sektör katılımı"
+        ],
+        [
+         "1990'lar",
+         "Serbest piyasa odaklı reformlar"
+        ]
+       ],
+       "bilgi": "Mısır'da genç nüfus fazla olsa da mesleki ve teknik eğitimin yetersizliği nitelikli iş gücü gelişimini sınırlar.",
+       "sayfa": 242
+      },
+      {
+       "id": "7.3-07",
+       "tur": "secmeli",
+       "soru": "Mısır'ın sürekli su akışı olan tek akarsuyu hangisidir?",
+       "secenekler": [
+        "Nijer",
+        "Nil",
+        "Kongo",
+        "Fırat"
+       ],
+       "dogru": 1,
+       "bilgi": "Nil Nehri ve deltası Mısır'ın üretim, yerleşim ve ulaşım eksenini oluşturur.",
+       "sayfa": 240
+      },
+      {
+       "id": "7.3-08",
+       "tur": "secmeli",
+       "soru": "Mısır sanayisinde öne çıkan sektörler hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "Otomotiv, makine ve elektronik",
+        "Havacılık, uzay ve savunma",
+        "Tekstil, gıda işleme ve inşaat malzemeleri",
+        "Yarı iletken ve yazılım"
+       ],
+       "dogru": 2,
+       "bilgi": "Mısır'da çoğunlukla düşük katma değerli sektörler öne çıkarken Almanya'da otomotiv, makine, kimya gibi yüksek katma değerli sektörler belirleyicidir.",
+       "sayfa": 242
+      },
+      {
+       "id": "7.3-09",
+       "tur": "secmeli",
+       "soru": "Süveyş Kanalı'nın Akdeniz girişinde yer alan ve uluslararası deniz ticaretinde stratejik bir geçiş noktası olan liman hangisidir?",
+       "secenekler": [
+        "Port Said",
+        "İskenderiye",
+        "Hamburg",
+        "Novorossiysk"
+       ],
+       "dogru": 0,
+       "bilgi": "Akdeniz kıyısındaki İskenderiye Limanı da Mısır'ın büyük ve işlek limanlarındandır.",
+       "sayfa": 241
+      }
+     ]
+    },
+    {
+     "no": "7.4",
+     "ad": "Madencilik Faaliyetleri: Avustralya",
+     "kartlar": [
+      {
+       "id": "7.4-01",
+       "tur": "secmeli",
+       "soru": "Yaklaşık 7,7 milyon km² yüz ölçümüne sahip Avustralya, büyüklük bakımından dünyanın kaçıncı ülkesidir?",
+       "secenekler": [
+        "Dördüncü",
+        "Beşinci",
+        "Altıncı",
+        "Yedinci"
+       ],
+       "dogru": 2,
+       "bilgi": "Avustralya; Rusya, Kanada, Çin, ABD ve Brezilya'dan sonra dünyanın altıncı büyük ülkesidir.",
+       "sayfa": 246
+      },
+      {
+       "id": "7.4-02",
+       "tur": "dy",
+       "ifade": "Avustralya nüfusunun büyük bölümü doğu ve güneydoğu kıyılarında toplanmıştır.",
+       "dogru": true,
+       "bilgi": "Avustralya'da nüfus yoğunluğu kilometrekareye yaklaşık 3,5 kişiyle çok düşüktür; iç kesimler seyrek nüfusludur.",
+       "sayfa": 246
+      },
+      {
+       "id": "7.4-03",
+       "tur": "secmeli",
+       "soru": "Avustralya'da madenciliğin ilk önemli adımı olan, 18. yüzyıl sonlarında Yeni Güney Galler Eyaleti'nde başlayan faaliyet hangisidir?",
+       "secenekler": [
+        "Altın arama",
+        "Kömür çıkarımı",
+        "Demir cevheri işletmesi",
+        "Lityum üretimi"
+       ],
+       "dogru": 1,
+       "bilgi": "20. yüzyılın ortalarından itibaren Avustralya'da modern teknolojili büyük ölçekli madencilik yaygınlaşmıştır.",
+       "sayfa": 247
+      },
+      {
+       "id": "7.4-04",
+       "tur": "dy",
+       "ifade": "Avustralya'da 19. yüzyıl ortalarında bulunan bakır madeni, Avrupa, Amerika ve Çin'den büyük bir göç dalgası başlatmıştır.",
+       "dogru": false,
+       "bilgi": "Göç dalgasını altın madeninin bulunması başlatmış, ülke nüfusu birkaç yılda neredeyse iki katına çıkmıştır.",
+       "sayfa": 247
+      },
+      {
+       "id": "7.4-05",
+       "tur": "dy",
+       "ifade": "Avustralya arazisinin çok eski jeolojik yapıya sahip olması ve tektonik süreç çeşitliliği, maden çeşitliliğini ve rezervlerini zenginleştirmiştir.",
+       "dogru": true,
+       "bilgi": "Avustralya demir cevheri, boksit, altın, bakır, nikel, lityum ve kömür gibi birçok madende önemli rezervlere sahiptir.",
+       "sayfa": 247
+      },
+      {
+       "id": "7.4-06",
+       "tur": "bosluk",
+       "cumle": "Dünyadaki demir cevheri ihracatının yaklaşık ___ Avustralya kaynaklıdır.",
+       "cevap": "yarısı",
+       "celdiriciler": [
+        "onda biri",
+        "dörtte biri",
+        "üçte ikisi"
+       ],
+       "bilgi": "Avustralya demir cevheri, lityum, boksit, altın, kömür ve nadir toprak elementleri üretiminde ilk sıralardadır.",
+       "sayfa": 248
+      },
+      {
+       "id": "7.4-07",
+       "tur": "secmeli",
+       "soru": "Avustralya, pil teknolojileri ve yenilenebilir enerji sistemleri için gerekli olan hangi madenin üretiminde küresel liderdir?",
+       "secenekler": [
+        "Krom",
+        "Niyobyum",
+        "Kobalt",
+        "Lityum"
+       ],
+       "dogru": 3,
+       "bilgi": "Lityum üretimindeki liderliği, Avustralya'yı yeni enerji teknolojilerinin geleceğinde kilit bir ülke yapmaktadır.",
+       "sayfa": 248
+      },
+      {
+       "id": "7.4-08",
+       "tur": "secmeli",
+       "soru": "Madencilik sektörü Avustralya'nın GSYİH'sinin yaklaşık yüzde kaçını oluşturur?",
+       "secenekler": [
+        "%2",
+        "%14",
+        "%30",
+        "%45"
+       ],
+       "dogru": 1,
+       "bilgi": "Madencilik doğrudan istihdamın yaklaşık %2'sini oluşturur ancak ihracat gelirlerinin büyük bölümünü sağlar.",
+       "sayfa": 248
+      }
+     ]
+    },
+    {
+     "no": "7.5",
+     "ad": "Enerji Kaynakları: Rusya ve Suudi Arabistan",
+     "kartlar": [
+      {
+       "id": "7.5-01",
+       "tur": "secmeli",
+       "soru": "Dünyanın en büyük yüz ölçümüne sahip ülkesi Rusya'nın topraklarının yaklaşık ne kadarı Asya kıtasındadır?",
+       "secenekler": [
+        "%23",
+        "%50",
+        "%62",
+        "%77"
+       ],
+       "dogru": 3,
+       "bilgi": "Yaklaşık 17 milyon km² yüz ölçümüne sahip Rusya'nın topraklarının %23'ü Avrupa'da, %77'si Asya'dadır.",
+       "sayfa": 250
+      },
+      {
+       "id": "7.5-02",
+       "tur": "secmeli",
+       "soru": "Rusya'da Avrupa ile Asya arasında doğal bir sınır oluşturan dağlar hangisidir?",
+       "secenekler": [
+        "Kafkas Dağları",
+        "Ural Dağları",
+        "Altay Dağları",
+        "Alp Dağları"
+       ],
+       "dogru": 1,
+       "bilgi": "Ural Dağları'nın batısında Rusya Ovası, doğusunda Batı Sibirya Ovası yer alır.",
+       "sayfa": 250
+      },
+      {
+       "id": "7.5-03",
+       "tur": "eslestir",
+       "yonerge": "Rusya'daki akarsuları döküldükleri yerlerle eşleştir.",
+       "ciftler": [
+        [
+         "Volga Nehri",
+         "Hazar Denizi"
+        ],
+        [
+         "Yenisey Nehri",
+         "Kuzey (Arktik) Okyanusu"
+        ],
+        [
+         "Don Nehri",
+         "Karadeniz"
+        ]
+       ],
+       "bilgi": "Volga–Don Kanalı, Volga'yı Don'a bağlayarak Hazar Denizi ile Karadeniz arasında su yolu bağlantısı sağlar.",
+       "sayfa": 250
+      },
+      {
+       "id": "7.5-04",
+       "tur": "dy",
+       "ifade": "Rusya'daki Baykal Gölü, yeryüzündeki donmamış tatlı suyun yaklaşık %20'sini barındırır.",
+       "dogru": true,
+       "bilgi": "Baykal dünyanın en derin tatlı su gölüdür; Avrupa'nın en büyük iki gölü Ladoga ve Onega da Rusya'dadır.",
+       "sayfa": 250
+      },
+      {
+       "id": "7.5-05",
+       "tur": "bosluk",
+       "cumle": "Moskova'dan Büyük Okyanus kıyısındaki Vladivostok Limanı'na kadar yaklaşık 9.289 km uzanan demir yolu ___ Demir Yolu'dur.",
+       "cevap": "Trans Sibirya",
+       "celdiriciler": [
+        "Bağdat",
+        "Hicaz",
+        "Trans Kafkas"
+       ],
+       "bilgi": "Rusya'da ulaşım altyapısı ülkenin batısında yoğunlaşmıştır.",
+       "sayfa": 251
+      },
+      {
+       "id": "7.5-06",
+       "tur": "secmeli",
+       "soru": "Rusya'da dünya orman varlığının yaklaşık %20'sini oluşturan iğne yapraklı ormanlara ne ad verilir?",
+       "secenekler": [
+        "Tayga",
+        "Maki",
+        "Savan",
+        "Tundra"
+       ],
+       "dogru": 0,
+       "bilgi": "Rusya topraklarının yaklaşık %40'ı ormanlarla kaplıdır; kuzeyde tundra, orta bölümde sert karasal iklim görülür.",
+       "sayfa": 251
+      },
+      {
+       "id": "7.5-07",
+       "tur": "dy",
+       "ifade": "Suudi Arabistan'da sürekli akışlı akarsular bulunur ve su ihtiyacı büyük ölçüde bu akarsulardan karşılanır.",
+       "dogru": false,
+       "bilgi": "Suudi Arabistan'da sürekli akışlı akarsu yoktur; su ihtiyacı yer altı sularından ve deniz suyunun arıtılmasından karşılanır.",
+       "sayfa": 251
+      },
+      {
+       "id": "7.5-08",
+       "tur": "secmeli",
+       "soru": "Suudi Arabistan'ın güneyinde geniş alan kaplayan çöl hangisidir?",
+       "secenekler": [
+        "Nefud Çölü",
+        "Büyük Sahra",
+        "Gobi Çölü",
+        "Rub'ül Hali Çölü"
+       ],
+       "dogru": 3,
+       "bilgi": "Suudi Arabistan'ın kuzeyinde Nefud Çölü yer alır; ülkede yıllık yağış genel olarak 200 mm'nin altındadır.",
+       "sayfa": 251
+      },
+      {
+       "id": "7.5-09",
+       "tur": "dy",
+       "ifade": "Enerji kaynaklarının küresel dağılımı, bu kaynakları yalnızca ekonomik değil aynı zamanda jeopolitik bir güç unsuru hâline getirmektedir.",
+       "dogru": true,
+       "bilgi": "Rusya ve Suudi Arabistan sahip oldukları kaynaklarla dünya enerji üretimi ve ihracatında öne çıkan ülkelerdendir.",
+       "sayfa": 250
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
