@@ -39,6 +39,7 @@ export function Profil({ dizin }: { dizin: Dizin }) {
   const p = useIlerleme();
   const dosya = useRef<HTMLInputElement>(null);
   const [mesaj, setMesaj] = useState("");
+  const [sifirOnay, setSifirOnay] = useState(false);
   const seviyeler = [0, 0, 0, 0];
   Object.values(p.kartlar).forEach((d) => seviyeler[seviye(d)]++);
   const toplamKart = dizin.kartlar.size;
@@ -180,14 +181,27 @@ export function Profil({ dizin }: { dizin: Dizin }) {
           </button>
           <input ref={dosya} type="file" accept="application/json" hidden onChange={(e) => e.target.files?.[0] && yedekYukle(e.target.files[0])} />
         </div>
-        <button
-          className="dugme tehlike"
-          onClick={() => {
-            if (confirm("Tüm ilerlemen silinsin mi? Bu geri alınamaz.")) sifirla();
-          }}
-        >
-          İlerlemeyi sıfırla
-        </button>
+        {sifirOnay ? (
+          <div className="dugme-satir">
+            <button className="dugme ikincil" onClick={() => setSifirOnay(false)}>
+              Vazgeç
+            </button>
+            <button
+              className="dugme tehlike"
+              onClick={() => {
+                sifirla();
+                setSifirOnay(false);
+                setMesaj("İlerleme sıfırlandı.");
+              }}
+            >
+              Evet, hepsini sil
+            </button>
+          </div>
+        ) : (
+          <button className="dugme tehlike" onClick={() => setSifirOnay(true)}>
+            İlerlemeyi sıfırla
+          </button>
+        )}
         {mesaj && <p className="soluk-metin">{mesaj}</p>}
       </section>
 

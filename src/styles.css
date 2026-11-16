@@ -34,8 +34,9 @@
   color-scheme: light;
 }
 
+/* Koyu tema: sistem ayarı (açıkça açık tema seçilmediyse) ya da data-theme="dark" */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --bg: #14131b;
     --surface: #1c1b25;
     --surface-2: #25232f;
@@ -58,6 +59,29 @@
     --ders-ink: hsl(var(--hue) 70% 80%);
     color-scheme: dark;
   }
+}
+:root[data-theme="dark"] {
+  --bg: #14131b;
+  --surface: #1c1b25;
+  --surface-2: #25232f;
+  --ink: #f3efe6;
+  --ink-2: #b1abbc;
+  --ink-3: #7f798c;
+  --line: #302d3c;
+  --accent: #f29a45;
+  --accent-strong: #ffb066;
+  --accent-soft: #3a2a1a;
+  --accent-ink: #1a1208;
+  --good: #4cc38a;
+  --good-soft: #15352a;
+  --bad: #f0675e;
+  --bad-soft: #3d1f1e;
+  --warn: #f0b252;
+  --shadow: 0 1px 0 rgba(0, 0, 0, 0.3), 0 8px 24px -12px rgba(0, 0, 0, 0.6);
+  --ders: hsl(var(--hue) 62% 66%);
+  --ders-soft: hsl(var(--hue) 28% 20%);
+  --ders-ink: hsl(var(--hue) 70% 80%);
+  color-scheme: dark;
 }
 
 /* ============ Temel ============ */
