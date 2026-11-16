@@ -1,0 +1,2476 @@
+{
+ "kitap": "kimya-10",
+ "ders": "kimya",
+ "sinif": 10,
+ "baslik": "Kimya 10. Sınıf Ders Kitabı",
+ "sayfaUrl": "https://tymm.meb.gov.tr/kitap/75/kimya-10sinif-ders-kitabi",
+ "pdfUrl": "https://tymm.meb.gov.tr/assets/pdf/kimya-10sinif-ders-kitabi_20261004_173619_390.pdf",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Etkileşim",
+   "konular": [
+    {
+     "no": "1.1.1",
+     "ad": "Kimyasal Değişimin Göstergeleri",
+     "kartlar": [
+      {
+       "id": "1.1.1-01",
+       "tur": "bosluk",
+       "cumle": "Kimyasal değişimlerin meydana geldiği sürece kimyasal ___ denir.",
+       "cevap": "tepkime",
+       "celdiriciler": [
+        "denge",
+        "çözünme",
+        "karışım"
+       ],
+       "bilgi": "Kimyasal tepkimeler yalnızca laboratuvarda değil; pillerin çalışması ve yemek pişirme gibi hayatın her alanında görülür.",
+       "sayfa": 21
+      },
+      {
+       "id": "1.1.1-02",
+       "tur": "secmeli",
+       "soru": "Bazı gıdalar kızarırken amino asitler ile şekerler arasında gerçekleşen esmerleşme tepkimesinin adı nedir?",
+       "secenekler": [
+        "Nötralleşme tepkimesi",
+        "Maillard tepkimesi",
+        "Çökelme tepkimesi",
+        "Termit tepkimesi"
+       ],
+       "dogru": 1,
+       "bilgi": "Maillard (esmerleşme) tepkimesi genellikle birden fazla adımdan oluşur ve uzun pişirmede gıdanın yapısını değiştiren bileşikler oluşturur.",
+       "sayfa": 21
+      },
+      {
+       "id": "1.1.1-03",
+       "tur": "dy",
+       "ifade": "Kimyasal değişimde maddenin iç yapısı değişir, bağlar yeniden düzenlenir ve farklı özelliklere sahip yeni maddeler oluşur.",
+       "dogru": true,
+       "bilgi": "Maddelerin iç yapıları ve bileşenlerinde meydana gelen değişime kimyasal değişim denir.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.1.1-04",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi kimyasal değişimin gözlemlenebilir göstergelerinden biridir?",
+       "secenekler": [
+        "Gaz çıkışı",
+        "Maddenin parçalara ayrılması",
+        "Hâl değişimi",
+        "Şeklin değişmesi"
+       ],
+       "dogru": 0,
+       "bilgi": "Gaz çıkışı, katı oluşumu, renk, koku, pH, iletkenlik ve enerji değişimi ile ışık oluşumu kimyasal değişimin göstergeleridir.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.1.1-05",
+       "tur": "dy",
+       "ifade": "Kâğıdın yırtılması ve yoğurttan ayran elde edilmesi kimyasal değişime örnektir.",
+       "dogru": false,
+       "bilgi": "Kâğıdın yırtılması, yoğurttan ayran elde edilmesi ve hâl değişimleri fiziksel değişimdir; maddenin iç yapısı değişmez.",
+       "sayfa": 20
+      },
+      {
+       "id": "1.1.1-06",
+       "tur": "eslestir",
+       "yonerge": "Tepkime denklemlerindeki fiziksel hâl gösterimlerini anlamlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "(k)",
+         "Maddenin katı olduğu"
+        ],
+        [
+         "(s)",
+         "Maddenin sıvı olduğu"
+        ],
+        [
+         "(g)",
+         "Maddenin gaz olduğu"
+        ],
+        [
+         "(suda)",
+         "Maddenin suda çözünmüş olduğu"
+        ]
+       ],
+       "bilgi": "Tepkime denkleminde okun solunda tepkenler, sağında ürünler yer alır; parantez içindeki yazımlar fiziksel hâli gösterir.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.1.1-07",
+       "tur": "secmeli",
+       "soru": "Maddenin duyu organlarıyla algılanabilen, deney ve ölçümlerle gözlemlenebilen özellikleri hangi gösterim seviyesine aittir?",
+       "secenekler": [
+        "Makroskobik seviye",
+        "Alt mikroskobik seviye",
+        "Sembolik seviye",
+        "Atomik seviye"
+       ],
+       "dogru": 0,
+       "bilgi": "Doğal gazın yanması makroskobik seviyedir; görülmeyen tanecikler alt mikroskobik, sembol ve formüller sembolik seviyedir.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.1.1-08",
+       "tur": "secmeli",
+       "soru": "Atomların birbirine yapışık kürelerle gösterildiği, bağ çubuklarının bulunmadığı ve kürelerin atom boyutunu oransal temsil ettiği model hangisidir?",
+       "secenekler": [
+        "Top-çubuk modeli",
+        "Lewis nokta yapısı",
+        "Çizgi bağ gösterimi",
+        "Uzay-dolgu modeli"
+       ],
+       "dogru": 3,
+       "bilgi": "Top-çubuk modelinde bağlar çubuklarla gösterilir; uzay-dolgu modelinde ise atomlar birbirine yapışık kürelerdir.",
+       "sayfa": 31
+      },
+      {
+       "id": "1.1.1-09",
+       "tur": "eslestir",
+       "yonerge": "Havai fişeklerde kullanılan metal tuzlarını verdikleri renklerle eşleştir.",
+       "ciftler": [
+        [
+         "Bakır tuzu",
+         "Mavi"
+        ],
+        [
+         "Baryum tuzu",
+         "Yeşil"
+        ],
+        [
+         "Sodyum tuzu",
+         "Sarı"
+        ],
+        [
+         "Stronsiyum tuzu",
+         "Kırmızı"
+        ]
+       ],
+       "bilgi": "Havai fişeklerde bakır tuzu mavi, baryum tuzu yeşil, sodyum tuzu sarı, stronsiyum tuzu kırmızı renk verir.",
+       "sayfa": 21
+      },
+      {
+       "id": "1.1.1-10",
+       "tur": "bosluk",
+       "cumle": "Işıldamanın (lüminesans) canlılar tarafından yapılmasına ___ denir.",
+       "cevap": "biyolüminesans",
+       "celdiriciler": [
+        "fotosentez",
+        "emisyon",
+        "absorbsiyon"
+       ],
+       "bilgi": "Luminol karanlıkta mavimsi parıltı oluşturarak silinmiş kan izlerinin tespit edilmesini sağlar; bu olaya lüminesans denir.",
+       "sayfa": 26
+      }
+     ]
+    },
+    {
+     "no": "1.1.2",
+     "ad": "Kimyasal Tepkime Türleri",
+     "kartlar": [
+      {
+       "id": "1.1.2-01",
+       "tur": "bosluk",
+       "cumle": "Farklı çözeltilerin karıştırılmasıyla oluşup sulu ortamda dibe çöken katıya ___ denir.",
+       "cevap": "çökelek",
+       "celdiriciler": [
+        "çözünen",
+        "indikatör",
+        "katalizör"
+       ],
+       "bilgi": "Katının oluşup dibe çökmesine çökelme, ayrılan katıya çökelek (çökelti), tepkimeye çökelme tepkimesi denir.",
+       "sayfa": 39
+      },
+      {
+       "id": "1.1.2-02",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi çökelme tepkimesine örnektir?",
+       "secenekler": [
+        "Magnezyumun havada yanması",
+        "Demirin nemli havada paslanması",
+        "Fotosentez",
+        "Sarkıt ve dikitlerin oluşumu"
+       ],
+       "dogru": 3,
+       "bilgi": "Sarkıt ve dikit oluşumu, çaydanlıkta kireç birikmesi, böbrek ve safra taşlarının oluşumu çökelme tepkimelerine örnektir.",
+       "sayfa": 39
+      },
+      {
+       "id": "1.1.2-03",
+       "tur": "bosluk",
+       "cumle": "Çökelme tepkimesine katılmayıp çözeltide kalan iyonlara ___ iyonlar denir.",
+       "cevap": "seyirci",
+       "celdiriciler": [
+        "net",
+        "çok atomlu",
+        "izoelektronik"
+       ],
+       "bilgi": "Net iyon denkleminde seyirci iyonlar yer almaz, yalnızca tepkimeye katılan iyonlar gösterilir.",
+       "sayfa": 40
+      },
+      {
+       "id": "1.1.2-04",
+       "tur": "secmeli",
+       "soru": "Bir çözeltide klorür iyonu bulunup bulunmadığını tespit etmek için ortama hangi çözelti eklenir?",
+       "secenekler": [
+        "Sodyum hidroksit",
+        "Nikel klorür",
+        "Gümüş nitrat",
+        "Potasyum iyodür"
+       ],
+       "dogru": 2,
+       "bilgi": "Gümüş nitrat eklenince Ag⁺ ve Cl⁻ iyonları birleşir ve beyaz renkli gümüş klorür katısı çöker.",
+       "sayfa": 41
+      },
+      {
+       "id": "1.1.2-05",
+       "tur": "secmeli",
+       "soru": "İndirgenme-yükseltgenme tepkimelerinde bir taneciğin elektron vermesi olayına ne denir?",
+       "secenekler": [
+        "İndirgenme",
+        "Nötralleşme",
+        "Çökelme",
+        "Yükseltgenme"
+       ],
+       "dogru": 3,
+       "bilgi": "Elektron verme yükseltgenme, elektron alma indirgenmedir; redoks tepkimeleri elektron transferine dayanır.",
+       "sayfa": 42
+      },
+      {
+       "id": "1.1.2-06",
+       "tur": "dy",
+       "ifade": "İndirgenme-yükseltgenme tepkimelerinde alınan ve verilen toplam elektron sayısı daima eşittir.",
+       "dogru": true,
+       "bilgi": "İndirgenme ve yükseltgenme eş zamanlı gerçekleşir; \"redoks\" redüksiyon ve oksidasyon kelimelerinin birleşimidir.",
+       "sayfa": 41
+      },
+      {
+       "id": "1.1.2-07",
+       "tur": "dy",
+       "ifade": "Demirin paslanmasında demir atomu indirgenirken oksijen molekülü yükseltgenir.",
+       "dogru": false,
+       "bilgi": "Paslanma yavaş gerçekleşen bir yanma tepkimesidir; demir atomu yükseltgenir, oksijen molekülü indirgenir.",
+       "sayfa": 42
+      },
+      {
+       "id": "1.1.2-08",
+       "tur": "secmeli",
+       "soru": "Arrhenius tanımına göre suda çözündüğünde çözeltiye hidroksit iyonu veren maddelere ne denir?",
+       "secenekler": [
+        "Baz",
+        "Asit",
+        "Tuz",
+        "Ametal oksit"
+       ],
+       "dogru": 0,
+       "bilgi": "Arrhenius'a göre suda hidrojen iyonu veren maddeler asit, hidroksit iyonu veren maddeler bazdır.",
+       "sayfa": 43
+      },
+      {
+       "id": "1.1.2-09",
+       "tur": "bosluk",
+       "cumle": "Asitlerin sulu çözeltilerinde H⁺ iyonu tek başına bulunamaz, su ile birleşerek ___ iyonuna dönüşür.",
+       "cevap": "hidronyum",
+       "celdiriciler": [
+        "hidroksit",
+        "amonyum",
+        "hidrür"
+       ],
+       "bilgi": "H⁺ iyonu suda hidronyum (H₃O⁺) iyonuna dönüşür; kullanım kolaylığı için tepkimelerde H⁺ olarak gösterilir.",
+       "sayfa": 43
+      },
+      {
+       "id": "1.1.2-10",
+       "tur": "dy",
+       "ifade": "Gaz fazında HCl ile NH₃ arasında gerçekleşen tepkime bir nötralleşme tepkimesidir.",
+       "dogru": false,
+       "bilgi": "Nötralleşme tepkimeleri sulu ortamda gerçekleşir; gaz fazındaki HCl ile NH₃ tepkimesi yalnızca asit-baz tepkimesidir.",
+       "sayfa": 44
+      },
+      {
+       "id": "1.1.2-11",
+       "tur": "eslestir",
+       "yonerge": "Olayları kimyasal tepkime türleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Böbrek taşı oluşumu",
+         "Çökelme tepkimesi"
+        ],
+        [
+         "Fotosentez ve solunum",
+         "İndirgenme-yükseltgenme tepkimesi"
+        ],
+        [
+         "Kireç lekelerinin tuz ruhuyla giderilmesi",
+         "Asit-baz tepkimesi"
+        ]
+       ],
+       "bilgi": "Pillerin çalışması, yanma, fotosentez ve solunum redoks; mide ilacının asidi gidermesi asit-baz tepkimesidir.",
+       "sayfa": 43
+      },
+      {
+       "id": "1.1.2-12",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisinin sulu çözeltisi bazik özellik gösterir?",
+       "secenekler": [
+        "CO₂",
+        "K₂O",
+        "SO₃",
+        "NO₂"
+       ],
+       "dogru": 1,
+       "bilgi": "Ametallerin oksijence zengin bileşikleri asidik; metal oksitler (MgO, K₂O) ve karbonatlı bileşikler bazik özellik gösterir.",
+       "sayfa": 43
+      }
+     ]
+    },
+    {
+     "no": "1.1.3",
+     "ad": "Mol Kavramı",
+     "kartlar": [
+      {
+       "id": "1.1.3-01",
+       "tur": "secmeli",
+       "soru": "Uluslararası Birim Sistemi'ne (SI) göre 1 mol madde kaç tanecik içerir?",
+       "secenekler": [
+        "6,02·10²³",
+        "3,01·10²³",
+        "12",
+        "1000"
+       ],
+       "dogru": 0,
+       "bilgi": "Mol, 6,02·10²³ tanecik içeren madde miktarıdır; bu sayı Avogadro sayısıdır ve Nₐ ile gösterilir.",
+       "sayfa": 50
+      },
+      {
+       "id": "1.1.3-02",
+       "tur": "bosluk",
+       "cumle": "6,02·10²³ sayısına, adını İtalyan bir bilim insanından alan ___ sayısı denir.",
+       "cevap": "Avogadro",
+       "celdiriciler": [
+        "Faraday",
+        "Dalton",
+        "Boyle"
+       ],
+       "bilgi": "Avogadro sayısının adı İtalyan bilim insanı Amedeo Avogadro'dan gelir.",
+       "sayfa": 50
+      },
+      {
+       "id": "1.1.3-03",
+       "tur": "dy",
+       "ifade": "İzotop atomların kimyasal özellikleri farklı, fiziksel özellikleri ise aynıdır.",
+       "dogru": false,
+       "bilgi": "İzotop atomların proton sayıları aynı, nötron sayıları farklıdır; fiziksel özellikleri farklı, kimyasal özellikleri çoğunlukla aynıdır.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.1.3-04",
+       "tur": "bosluk",
+       "cumle": "1 akb, bir tane ___ atomunun kütlesinin on ikide biri olarak tanımlanır.",
+       "cevap": "karbon-12",
+       "celdiriciler": [
+        "hidrojen-1",
+        "oksijen-16",
+        "azot-14"
+       ],
+       "bilgi": "Atomların bağıl kütlesi belirlenirken doğada en fazla bulunan ¹²C izotopu standart olarak kullanılır.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.1.3-05",
+       "tur": "secmeli",
+       "soru": "Atom kütleleri çok küçük olduğundan atomik kütle birimi (akb) dışında hangi birimle de ifade edilir?",
+       "secenekler": [
+        "Pascal (Pa)",
+        "Dalton (Da)",
+        "Kelvin (K)",
+        "Torr (torr)"
+       ],
+       "dogru": 1,
+       "bilgi": "Atom kütleleri atomik kütle birimi (akb) ya da Dalton (Da) ile ifade edilir.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.1.3-06",
+       "tur": "secmeli",
+       "soru": "Bir elementin doğal izotoplarının atom kütlelerinin doğada bulunma yüzdelerine göre hesaplanan ortalamasına ne denir?",
+       "secenekler": [
+        "Bağıl atom kütlesi",
+        "Kütle numarası",
+        "Ortalama atom kütlesi",
+        "Atom numarası"
+       ],
+       "dogru": 2,
+       "bilgi": "Ortalama atom kütlesi periyodik tabloda genellikle element sembolüyle birlikte verilir; karbonunki 12,01'dir.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.1.3-07",
+       "tur": "bosluk",
+       "cumle": "Bir mol maddenin kütlesine o maddenin ___ denir.",
+       "cevap": "mol kütlesi",
+       "celdiriciler": [
+        "kütle numarası",
+        "atom numarası",
+        "yoğunluğu"
+       ],
+       "bilgi": "Bileşiğin mol kütlesi, her elementin atom sayısı ile atom kütlesinin çarpımlarının toplanmasıyla bulunur.",
+       "sayfa": 56
+      },
+      {
+       "id": "1.1.3-08",
+       "tur": "dy",
+       "ifade": "Analitik terazi maddenin kütlesini ölçer; mol sayısını veya tanecik sayısını doğrudan ölçemez.",
+       "dogru": true,
+       "bilgi": "Mol fiziksel olarak ölçülebilir bir büyüklük değildir; kimyagerler kütleyi ölçüp hesaplamayla mol sayısına dönüştürür.",
+       "sayfa": 53
+      },
+      {
+       "id": "1.1.3-09",
+       "tur": "secmeli",
+       "soru": "Kurşun kalemlerin ortasındaki siyah kısım hangi maddelerden yapılır?",
+       "secenekler": [
+        "Metalik kurşun ve kil",
+        "Kurşun oksit",
+        "Elmas tozu ve su",
+        "Grafit ve kil"
+       ],
+       "dogru": 3,
+       "bilgi": "Kurşun kalemde kurşun yoktur; grafit kurşun sanıldığı için bu ad verilmiştir, grafit karbonun bir kristal biçimidir.",
+       "sayfa": 53
+      },
+      {
+       "id": "1.1.3-10",
+       "tur": "secmeli",
+       "soru": "Mol sayısı (n), kütle (m) ve mol kütlesi (Mₐ) arasındaki ilişki hangisidir?",
+       "secenekler": [
+        "n = m / Mₐ",
+        "n = m · Mₐ",
+        "n = Mₐ / m",
+        "n = m + Mₐ"
+       ],
+       "dogru": 0,
+       "bilgi": "Mol sayısı kütlenin mol kütlesine, tanecik sayısının ise Avogadro sayısına oranıyla bulunur.",
+       "sayfa": 57
+      },
+      {
+       "id": "1.1.3-11",
+       "tur": "eslestir",
+       "yonerge": "Demir minerallerini formülleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Hematit",
+         "Fe₂O₃"
+        ],
+        [
+         "Manyetit",
+         "Fe₃O₄"
+        ],
+        [
+         "Siderit",
+         "FeCO₃"
+        ],
+        [
+         "Pirit",
+         "FeS₂"
+        ]
+       ],
+       "bilgi": "Demirin sembolü Fe, Latince \"ferrum\" kelimesinden gelir; ülkemizde ilk demir-çelik tesisi 1932'de Kırıkkale'de kurulmuştur.",
+       "sayfa": 59
+      }
+     ]
+    },
+    {
+     "no": "1.1.4",
+     "ad": "Kimyasal Tepkime Denklemlerinin Denkleştirilmesi",
+     "kartlar": [
+      {
+       "id": "1.1.4-01",
+       "tur": "secmeli",
+       "soru": "Kütlenin korunumu kanununu ilk kez 1789'da öne süren bilim insanı kimdir?",
+       "secenekler": [
+        "Amedeo Avogadro",
+        "Jeremias Benjamin Richter",
+        "Antoine Laurent Lavoisier",
+        "Robert Boyle"
+       ],
+       "dogru": 2,
+       "bilgi": "Lavoisier, HgO'yu ısıtınca oluşan cıva ve oksijenin kütlesinin başlangıçtaki bileşiğin kütlesine eşit olduğunu göstermiştir.",
+       "sayfa": 61
+      },
+      {
+       "id": "1.1.4-02",
+       "tur": "bosluk",
+       "cumle": "Tepkimeye giren maddelerin kütleleri toplamının ürünlerin kütleleri toplamına eşit olduğunu ifade eden kanuna kütlenin ___ kanunu denir.",
+       "cevap": "korunumu",
+       "celdiriciler": [
+        "dönüşümü",
+        "eşitliği",
+        "dengesi"
+       ],
+       "bilgi": "Tepkimeye giren atomların sayısı ve cinsi ürünlerdeki atomların sayısı ve cinsine eşit olmalıdır.",
+       "sayfa": 61
+      },
+      {
+       "id": "1.1.4-03",
+       "tur": "bosluk",
+       "cumle": "Tepken ve ürünlerin hangi oranlarda tepkimeye gireceğini gösteren ve denklemin denkleştirilmesini sağlayan katsayılara ___ katsayı denir.",
+       "cevap": "stokiyometrik",
+       "celdiriciler": [
+        "kinetik",
+        "koligatif",
+        "bağıl"
+       ],
+       "bilgi": "Kimyasal tepkimeler stokiyometrik katsayılarla denkleştirilir; katsayı yazıldığı formülün tamamına aittir.",
+       "sayfa": 63
+      },
+      {
+       "id": "1.1.4-04",
+       "tur": "secmeli",
+       "soru": "Tepkime denklemleri denkleştirilirken H ve O atomları için genellikle hangisi uygulanır?",
+       "secenekler": [
+        "İlk önce denkleştirilir",
+        "Hiç denkleştirilmez",
+        "Kesirli katsayıyla başlanır",
+        "Sona bırakılır"
+       ],
+       "dogru": 3,
+       "bilgi": "H ve O tepkimelerde birden çok yerde bulunduğundan sona bırakılır; serbest ve moleküler elementler de en sona bırakılır.",
+       "sayfa": 64
+      },
+      {
+       "id": "1.1.4-05",
+       "tur": "dy",
+       "ifade": "Denkleştirmede tepken veya ürünlerdeki en karmaşık formüle genellikle en büyük katsayı verilir.",
+       "dogru": false,
+       "bilgi": "Denkleştirmeye başlarken en karmaşık formüle genellikle en küçük katsayı (1) verilir.",
+       "sayfa": 63
+      },
+      {
+       "id": "1.1.4-06",
+       "tur": "secmeli",
+       "soru": "Alüminyumun bir metal oksitle verdiği, yüksek ısı açığa çıkaran ve demir yolu raylarının birleştirilmesinde kullanılan tepkime hangisidir?",
+       "secenekler": [
+        "Termit tepkimesi",
+        "Maillard tepkimesi",
+        "Nötralleşme tepkimesi",
+        "Çökelme tepkimesi"
+       ],
+       "dogru": 0,
+       "bilgi": "Termit tepkimesinde genellikle demir oksitler kullanılır; kaynakçılıkta ve raylarda yararlanılır.",
+       "sayfa": 65
+      },
+      {
+       "id": "1.1.4-07",
+       "tur": "bosluk",
+       "cumle": "Alkali metallerin O₂⁻ iyonu ile oluşturduğu bileşiklere ___ denir.",
+       "cevap": "süperoksit",
+       "celdiriciler": [
+        "peroksit",
+        "hidroksit",
+        "oksit"
+       ],
+       "bilgi": "Potasyum süperoksit (KO₂) nem ve karbon dioksitle tepkimeye girerek yaşam destek sistemlerinde oksijen üretir.",
+       "sayfa": 65
+      },
+      {
+       "id": "1.1.4-08",
+       "tur": "secmeli",
+       "soru": "Kibritin yanması sırasında hissedilen kokunun nedeni olan gaz hangisidir?",
+       "secenekler": [
+        "Karbon dioksit",
+        "Hidrojen klorür",
+        "Kükürt dioksit",
+        "Azot"
+       ],
+       "dogru": 2,
+       "bilgi": "Kibritteki P₄S₃ ile güçlü oksitleyici KClO₃ tepkimeye girer; açığa çıkan SO₂ gazı kibrit kokusunun nedenidir.",
+       "sayfa": 67
+      },
+      {
+       "id": "1.1.4-09",
+       "tur": "secmeli",
+       "soru": "Uluslararası Uzay İstasyonunda suyun elektrolizinden elde edilen hidrojen gazı karbon dioksitle hangi sistemde tepkimeye sokulur?",
+       "secenekler": [
+        "Ostwald süreci",
+        "Sabatier sistemi",
+        "Termit tepkimesi",
+        "Fotosentez"
+       ],
+       "dogru": 1,
+       "bilgi": "Elektrolizle elde edilen O₂ istasyon atmosferine verilir, H₂ ise solunumla oluşan CO₂ ile Sabatier sisteminde tepkimeye girer.",
+       "sayfa": 62
+      }
+     ]
+    },
+    {
+     "no": "1.1.5",
+     "ad": "Kimyasal (Stokiyometrik) Hesaplamalar",
+     "kartlar": [
+      {
+       "id": "1.1.5-01",
+       "tur": "bosluk",
+       "cumle": "Bir kimyasal tepkimede yer alan element ya da bileşiklerin niceliklerinin hesaplanmasına ___ denir.",
+       "cevap": "stokiyometri",
+       "celdiriciler": [
+        "kalorimetri",
+        "spektroskopi",
+        "titrasyon"
+       ],
+       "bilgi": "Denkleştirilmiş denklemde stokiyometrik katsayılar mol oranlarını verir; bu oranlarla kütle ve tanecik sayısına geçilir.",
+       "sayfa": 72
+      },
+      {
+       "id": "1.1.5-02",
+       "tur": "secmeli",
+       "soru": "Yüzde verim nasıl hesaplanır?",
+       "secenekler": [
+        "(Teorik verim / Gerçek verim) · 100",
+        "Gerçek verim − Teorik verim",
+        "(Gerçek verim / Teorik verim) · 100",
+        "Teorik verim · Gerçek verim"
+       ],
+       "dogru": 2,
+       "bilgi": "Yüzde verim, tepkimede gerçekte elde edilen ürünün teorik olarak oluşması gereken ürüne oranının 100 ile çarpımıdır.",
+       "sayfa": 71
+      },
+      {
+       "id": "1.1.5-03",
+       "tur": "dy",
+       "ifade": "Tepkenlerin hepsinin tamamen bittiği tepkimelere artanlı tepkime denir.",
+       "dogru": false,
+       "bilgi": "Tepkenlerin hepsinin bittiği tepkimeler artansız, tepkenlerden biri tükenip diğeri arttığında artanlı tepkimedir.",
+       "sayfa": 71
+      },
+      {
+       "id": "1.1.5-04",
+       "tur": "eslestir",
+       "yonerge": "Stokiyometri kavramlarını tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Teorik verim",
+         "Sınırlayıcı bileşen tamamen kullanılırsa oluşacak ürün"
+        ],
+        [
+         "Gerçek verim",
+         "Tepkimede gerçekte elde edilen ürün miktarı"
+        ],
+        [
+         "Sınırlayıcı bileşen",
+         "Artanlı tepkimede önce tükenen madde"
+        ],
+        [
+         "Artansız tepkime",
+         "Tepkenlerin hepsinin tamamen bittiği tepkime"
+        ]
+       ],
+       "bilgi": "Tam verimle gerçekleşen tepkimelerde tepkenlerden en az biri tamamen biter.",
+       "sayfa": 71
+      },
+      {
+       "id": "1.1.5-05",
+       "tur": "secmeli",
+       "soru": "Bazı tepkimelerde tepkenlerin hepsinin ürüne dönüşememesinin nedenlerinden biri hangisidir?",
+       "secenekler": [
+        "Kütlenin tepkimede korunmaması",
+        "Yan ürün oluşması veya tersinirlik",
+        "Atomların cinsinin tepkimede değişmesi",
+        "Katsayıların kesirli yazılması"
+       ],
+       "dogru": 1,
+       "bilgi": "Çok basamaklı tepkimelerde yan ürün oluşabilir, tepkenler ortamdan tam alınamayabilir veya tepkime tersinir olabilir.",
+       "sayfa": 71
+      },
+      {
+       "id": "1.1.5-06",
+       "tur": "secmeli",
+       "soru": "1790'lı yıllarda sülfürik asit ile magnezyum oksit tepkimesini inceleyerek bileşikler arasında kütle ilişkisi olduğunu keşfeden kimyacı kimdir?",
+       "secenekler": [
+        "Lavoisier",
+        "Avogadro",
+        "Boyle",
+        "Richter"
+       ],
+       "dogru": 3,
+       "bilgi": "Lavoisier'nin kütlenin korunumu çalışmaları bilim insanlarını nicel ölçüm yapmaya teşvik etmiş; Richter kütle ilişkilerini keşfetmiştir.",
+       "sayfa": 68
+      },
+      {
+       "id": "1.1.5-07",
+       "tur": "dy",
+       "ifade": "Tam verimle gerçekleşen tepkimeler, tepkenlerden en az birinin tamamen bittiği tepkimelerdir.",
+       "dogru": true,
+       "bilgi": "Tam verimli tepkimede sınırlayıcı bileşen tamamen tükenir; diğer tepkenden artan kalabilir.",
+       "sayfa": 71
+      },
+      {
+       "id": "1.1.5-08",
+       "tur": "secmeli",
+       "soru": "Amonyağın oksijenle platin veya rodyum katalizörlüğünde tepkimesiyle başlayan Ostwald süreciyle hangi madde üretilir?",
+       "secenekler": [
+        "Amonyak",
+        "Nitrik asit",
+        "Sülfürik asit",
+        "Fosforik asit"
+       ],
+       "dogru": 1,
+       "bilgi": "Ostwald sürecinde NH₃ önce NO'ya, NO NO₂'ye, NO₂ de su ile nitrik aside (HNO₃) dönüştürülür.",
+       "sayfa": 75
+      }
+     ]
+    },
+    {
+     "no": "1.2.1",
+     "ad": "Gazların Özellikleri ve Kinetik Moleküler Teori",
+     "kartlar": [
+      {
+       "id": "1.2.1-01",
+       "tur": "bosluk",
+       "cumle": "Gaz taneciklerinin hareketini inceleyerek tanecikler arasındaki etkileşimleri açıklayan teoriye ___ denir.",
+       "cevap": "kinetik moleküler teori",
+       "celdiriciler": [
+        "modern atom teorisi",
+        "kuantum teorisi",
+        "Bohr teorisi"
+       ],
+       "bilgi": "Gaz yasaları makroskobik değişimleri moleküler düzeyde açıklamaya yetmediği için kinetik moleküler teori geliştirilmiştir.",
+       "sayfa": 80
+      },
+      {
+       "id": "1.2.1-02",
+       "tur": "secmeli",
+       "soru": "Gaz taneciklerinin her yöne doğru sürekli, doğrusal ve zikzaklı hareketine ne ad verilir?",
+       "secenekler": [
+        "Titreşim hareketi",
+        "Dönme hareketi",
+        "Brown hareketi",
+        "Efüzyon"
+       ],
+       "dogru": 2,
+       "bilgi": "Gaz tanecikleri birbirinden bağımsız hareket eder, bulundukları kabı doldurur; bu harekete Brown hareketi denir.",
+       "sayfa": 80
+      },
+      {
+       "id": "1.2.1-03",
+       "tur": "dy",
+       "ifade": "Kinetik moleküler teoriye göre gaz taneciklerinin ortalama kinetik enerjisi mutlak sıcaklıkla doğru orantılıdır.",
+       "dogru": true,
+       "bilgi": "Aynı sıcaklıktaki tüm gaz taneciklerinin ortalama kinetik enerjileri eşittir.",
+       "sayfa": 80
+      },
+      {
+       "id": "1.2.1-04",
+       "tur": "dy",
+       "ifade": "Gaz tanecikleri birbirleriyle ve kabın çeperleriyle çarpıştıkça toplam enerjilerini kaybeder.",
+       "dogru": false,
+       "bilgi": "Gaz tanecikleri esnek çarpışma yapar; yönleri değişir ancak hızları ve toplam enerjileri değişmez.",
+       "sayfa": 80
+      },
+      {
+       "id": "1.2.1-05",
+       "tur": "secmeli",
+       "soru": "IUPAC'ın önerdiği Normal Şartlar Altında (NŞA) sıcaklık ve basınç değerleri hangisidir?",
+       "secenekler": [
+        "25 °C ve 1 atm",
+        "0 °C ve 1 atm",
+        "0 °C ve 2 atm",
+        "100 °C ve 1 atm"
+       ],
+       "dogru": 1,
+       "bilgi": "Normal şartlar 0 °C (273,15 K) sıcaklık ve 1 atm (101,325 kPa) basınçtır.",
+       "sayfa": 81
+      },
+      {
+       "id": "1.2.1-06",
+       "tur": "bosluk",
+       "cumle": "Atmosferdeki gazların yeryüzüne uyguladığı basınca ___ basıncı denir.",
+       "cevap": "açık hava",
+       "celdiriciler": [
+        "buhar",
+        "osmotik",
+        "kısmi"
+       ],
+       "bilgi": "Açık hava basıncı P₀ veya Pₐₜₘ ile gösterilir; deniz seviyesinde 1 atm kabul edilir.",
+       "sayfa": 81
+      },
+      {
+       "id": "1.2.1-07",
+       "tur": "secmeli",
+       "soru": "Dalışta kanda çözünen azotun hızlı yüzeye çıkışta gaz kabarcıkları oluşturup damarları tıkamasıyla görülen rahatsızlığa halk arasında ne denir?",
+       "secenekler": [
+        "Minamata",
+        "Kangren",
+        "Sıtma",
+        "Vurgun"
+       ],
+       "dogru": 3,
+       "bilgi": "Vurgun tedavisinde hasta yüksek basınçlı odaya alınır; dalgıçlar vurgundan korunmak için yüzeye yavaş çıkar.",
+       "sayfa": 77
+      },
+      {
+       "id": "1.2.1-08",
+       "tur": "secmeli",
+       "soru": "Doğal gaz, yüksek basınç ve düşük sıcaklıkta hacmi yaklaşık kaç kat küçültülerek sıvılaştırılıp taşınır?",
+       "secenekler": [
+        "6",
+        "60",
+        "600",
+        "6000"
+       ],
+       "dogru": 2,
+       "bilgi": "Doğal gaz büyük oranda metandan oluşur; hacmi 600 kat küçültülerek sıvı hâle getirilir ve kolayca taşınır.",
+       "sayfa": 77
+      },
+      {
+       "id": "1.2.1-09",
+       "tur": "eslestir",
+       "yonerge": "Gazlarla ilgili kavramları tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Basınç",
+         "Birim yüzeye etki eden dik kuvvet"
+        ],
+        [
+         "Hacim",
+         "Maddenin boşlukta kapladığı yer"
+        ],
+        [
+         "Sıcaklık",
+         "Ortalama kinetik enerjinin ölçüsü"
+        ],
+        [
+         "Yayılma",
+         "Serbest kalan gaz taneciklerinin çevreye dağılması"
+        ]
+       ],
+       "bilgi": "Gazların miktarı kütle, tanecik sayısı veya mol olarak verilebilir; sayısal işlemlerde mol kullanılır.",
+       "sayfa": 81
+      }
+     ]
+    },
+    {
+     "no": "1.2.2",
+     "ad": "Gaz Yasaları",
+     "kartlar": [
+      {
+       "id": "1.2.2-01",
+       "tur": "eslestir",
+       "yonerge": "Gaz yasalarını açıkladıkları ilişkilerle eşleştir.",
+       "ciftler": [
+        [
+         "Boyle yasası",
+         "n ve T sabitken basınç ile hacim ters orantılı"
+        ],
+        [
+         "Charles yasası",
+         "n ve P sabitken hacim ile mutlak sıcaklık doğru orantılı"
+        ],
+        [
+         "Gay Lussac yasası",
+         "n ve V sabitken basınç ile mutlak sıcaklık doğru orantılı"
+        ],
+        [
+         "Avogadro yasası",
+         "P ve T sabitken mol sayısı ile hacim doğru orantılı"
+        ]
+       ],
+       "bilgi": "Gaz yasaları basınç, hacim, sıcaklık ve miktar arasındaki ilişkileri inceler.",
+       "sayfa": 92
+      },
+      {
+       "id": "1.2.2-02",
+       "tur": "secmeli",
+       "soru": "Sabit sıcaklıkta belirli miktar gazın basıncı artırıldığında hacminin azaldığını gözlemleyen bilim insanı kimdir?",
+       "secenekler": [
+        "Jacques Charles",
+        "Thomas Graham",
+        "Amedeo Avogadro",
+        "Robert Boyle"
+       ],
+       "dogru": 3,
+       "bilgi": "Boyle yasasına göre miktar ve sıcaklık sabitken bir gazın basıncı ile hacminin çarpımı sabittir (PV = k).",
+       "sayfa": 89
+      },
+      {
+       "id": "1.2.2-03",
+       "tur": "secmeli",
+       "soru": "Gazlarla ilgili hesaplamalarda kullanılan kelvin cinsinden sıcaklığa ne ad verilir?",
+       "secenekler": [
+        "Bağıl sıcaklık",
+        "Kritik sıcaklık",
+        "Oda sıcaklığı",
+        "Mutlak sıcaklık"
+       ],
+       "dogru": 3,
+       "bilgi": "Celsius \"t\", kelvin \"T\" ile gösterilir; gaz hesaplamalarında mutlak sıcaklık (K) kullanılır.",
+       "sayfa": 88
+      },
+      {
+       "id": "1.2.2-04",
+       "tur": "bosluk",
+       "cumle": "Celsius cinsinden sıcaklığı kelvine çevirmek için T(K) = t(°C) + ___ bağıntısı kullanılır.",
+       "cevap": "273",
+       "celdiriciler": [
+        "100",
+        "32",
+        "760"
+       ],
+       "bilgi": "Basınç birimleri arasında 1 atm = 76 cmHg = 760 mmHg = 760 torr ilişkisi vardır.",
+       "sayfa": 88
+      },
+      {
+       "id": "1.2.2-05",
+       "tur": "dy",
+       "ifade": "Sabit basınç altında belirli miktar gazın hacmi, celsius cinsinden sıcaklıkla doğru orantılıdır.",
+       "dogru": false,
+       "bilgi": "Charles yasasına göre sabit basınçta gazın hacmi mutlak (kelvin) sıcaklıkla doğru orantılıdır.",
+       "sayfa": 89
+      },
+      {
+       "id": "1.2.2-06",
+       "tur": "dy",
+       "ifade": "Avogadro'ya göre aynı sıcaklık ve basınçta farklı gazların eşit hacimleri aynı sayıda molekül içerir.",
+       "dogru": true,
+       "bilgi": "Avogadro bu hipotezi 1811'de yayımlamıştır; sabit sıcaklık ve basınçta mol sayısı ile hacim doğru orantılıdır.",
+       "sayfa": 91
+      },
+      {
+       "id": "1.2.2-07",
+       "tur": "secmeli",
+       "soru": "İçine çökmüş masa tenisi topunun sıcak suda bekletilince içindeki havanın genleşmesi hangi yasayla açıklanır?",
+       "secenekler": [
+        "Charles yasası",
+        "Boyle yasası",
+        "Avogadro yasası",
+        "Graham yasası"
+       ],
+       "dogru": 0,
+       "bilgi": "Sıcaklık artınca topun içindeki hava genleşir (Charles), basınç artınca da top eski şeklini alır (Gay Lussac).",
+       "sayfa": 91
+      },
+      {
+       "id": "1.2.2-08",
+       "tur": "secmeli",
+       "soru": "Doğal gaz faturalarındaki düzeltme katsayısı, ortam sıcaklığı 15 °C'tan düşük olduğunda nasıl olur?",
+       "secenekler": [
+        "1'den küçük",
+        "1'den büyük",
+        "Sıfır",
+        "Her zaman 1"
+       ],
+       "dogru": 1,
+       "bilgi": "Doğal gazın standart hacmi 15 °C ve 1,01325 bar'da hesaplanır; sayaç değeri düzeltme katsayısıyla çarpılır.",
+       "sayfa": 94
+      },
+      {
+       "id": "1.2.2-09",
+       "tur": "secmeli",
+       "soru": "Vurgun ve karbon monoksit zehirlenmesi gibi durumlarda kullanılan hiperbarik oksijen tedavisi neye dayanır?",
+       "secenekler": [
+        "Yüksek basınçlı odada saf oksijen solunmasına",
+        "Düşük basınçlı odada helyum solunmasına",
+        "Vücut sıcaklığının hızla düşürülmesine",
+        "Kana doğrudan azot gazı verilmesine"
+       ],
+       "dogru": 0,
+       "bilgi": "HBOT'ta hasta 1 atm'den yüksek basınçlı odada saf oksijen solur; dokulardaki gaz kabarcıkları basınçla yok edilir.",
+       "sayfa": 94
+      }
+     ]
+    },
+    {
+     "no": "1.2.3",
+     "ad": "İdeal Gaz Yasası",
+     "kartlar": [
+      {
+       "id": "1.2.3-01",
+       "tur": "secmeli",
+       "soru": "İdeal gaz denklemi hangisidir?",
+       "secenekler": [
+        "P/V = nRT",
+        "PT = nRV",
+        "PV = nRT",
+        "PV = nT/R"
+       ],
+       "dogru": 2,
+       "bilgi": "İdeal gaz denkleminde basınç, hacim, mol sayısı ve sıcaklıktan üçü biliniyorsa dördüncüsü hesaplanabilir.",
+       "sayfa": 99
+      },
+      {
+       "id": "1.2.3-02",
+       "tur": "secmeli",
+       "soru": "İdeal gaz denklemi hangi gaz yasalarının tek bir denklemde birleştirilmesiyle elde edilmiştir?",
+       "secenekler": [
+        "Graham ve Avogadro",
+        "Gay Lussac ve Graham",
+        "Boyle, Graham ve Gay Lussac",
+        "Boyle, Charles ve Avogadro"
+       ],
+       "dogru": 3,
+       "bilgi": "Gaz hacminin basınç, sıcaklık ve madde miktarıyla değişimini gösteren yasalar ideal gaz denkleminde birleştirilmiştir.",
+       "sayfa": 98
+      },
+      {
+       "id": "1.2.3-03",
+       "tur": "bosluk",
+       "cumle": "Bir mol gaz 0 °C ve 1 atm basınç altında ___ L hacim kaplar.",
+       "cevap": "22,4",
+       "celdiriciler": [
+        "11,2",
+        "24,5",
+        "1"
+       ],
+       "bilgi": "Standart molar hacimden ideal gaz sabiti R = 22,4/273 L·atm/(mol·K) olarak hesaplanır.",
+       "sayfa": 98
+      },
+      {
+       "id": "1.2.3-04",
+       "tur": "dy",
+       "ifade": "Gerçek gazlar düşük basınç ve yüksek sıcaklıkta ideal gaz davranışına yaklaşır.",
+       "dogru": true,
+       "bilgi": "Gazlar yüksek sıcaklık ve düşük basınçta ideale yaklaşır; mol kütlesi küçük gazlar genellikle ideale daha yakındır.",
+       "sayfa": 99
+      },
+      {
+       "id": "1.2.3-05",
+       "tur": "dy",
+       "ifade": "İdeal gaz taneciklerinin öz hacimleri olduğu ve aralarında çekim kuvveti bulunduğu kabul edilir.",
+       "dogru": false,
+       "bilgi": "İdeal gaz taneciklerinin öz hacmi ve aralarında çekim kuvveti olmadığı kabul edilir; gerçek gazlarda ise ikisi de vardır.",
+       "sayfa": 98
+      },
+      {
+       "id": "1.2.3-06",
+       "tur": "dy",
+       "ifade": "İdeal gaz sabiti R her gaz için farklı bir değere sahiptir.",
+       "dogru": false,
+       "bilgi": "R gaz sabiti tüm gazlar için aynıdır ve gazın standart molar hacminden hesaplanabilir.",
+       "sayfa": 98
+      },
+      {
+       "id": "1.2.3-07",
+       "tur": "secmeli",
+       "soru": "Sıcak hava balonunun yükselmesinin nedeni hangisidir?",
+       "secenekler": [
+        "Balondaki tanecik sayısının ısıtılınca artması",
+        "Soğuyan havanın sıkışarak ağırlaşması",
+        "Balon içi basıncın tamamen sıfırlanması",
+        "Isınan havanın yoğunluğunun dış havadan düşük olması"
+       ],
+       "dogru": 3,
+       "bilgi": "Isınan hava genleşir, birim hacimdeki tanecik sayısı azalır ve balondaki havanın yoğunluğu dış havanınkinden düşük olur.",
+       "sayfa": 96
+      },
+      {
+       "id": "1.2.3-08",
+       "tur": "bosluk",
+       "cumle": "İdeal gaz denklemindeki R sabitine ideal ___ sabiti denir.",
+       "cevap": "gaz",
+       "celdiriciler": [
+        "Avogadro",
+        "Planck",
+        "Faraday"
+       ],
+       "bilgi": "İdeal gaz sabiti R ile gösterilir; işlem kolaylığı için 0,082 L·atm/(mol·K) olarak da alınabilir.",
+       "sayfa": 98
+      }
+     ]
+    },
+    {
+     "no": "1.2.4",
+     "ad": "Graham Difüzyon ve Efüzyon Yasası",
+     "kartlar": [
+      {
+       "id": "1.2.4-01",
+       "tur": "bosluk",
+       "cumle": "Gaz taneciklerinin diğer gaz tanecikleriyle yavaş yavaş karışması sürecine ___ denir.",
+       "cevap": "difüzyon",
+       "celdiriciler": [
+        "efüzyon",
+        "osmoz",
+        "süblimleşme"
+       ],
+       "bilgi": "Difüzyon konsantrasyon farkından kaynaklanır ve gazlar her yerde eşit konsantrasyona ulaşana kadar sürer.",
+       "sayfa": 105
+      },
+      {
+       "id": "1.2.4-02",
+       "tur": "bosluk",
+       "cumle": "Kapalı bir kaptaki gaz taneciklerinin çok küçük bir delikten dışarıya sızmasına ___ denir.",
+       "cevap": "efüzyon",
+       "celdiriciler": [
+        "difüzyon",
+        "yoğuşma",
+        "buharlaşma"
+       ],
+       "bilgi": "Efüzyon (dışa yayılma, sızma) basınç farkı nedeniyle oluşur ve deliğin boyutuna bağlıdır.",
+       "sayfa": 106
+      },
+      {
+       "id": "1.2.4-03",
+       "tur": "secmeli",
+       "soru": "Graham difüzyon yasasına göre aynı sıcaklıkta hangi gaz tanecikleri daha hızlı hareket eder?",
+       "secenekler": [
+        "Mol kütlesi küçük olanlar",
+        "Mol kütlesi büyük olanlar",
+        "Elektron sayısı fazla olanlar",
+        "Polar yapıda olanlar"
+       ],
+       "dogru": 0,
+       "bilgi": "Aynı sıcaklıkta mol kütlesi küçük gazlar daha hızlı yayılır; sıcaklık arttıkça gaz moleküllerinin hızı artar.",
+       "sayfa": 106
+      },
+      {
+       "id": "1.2.4-04",
+       "tur": "dy",
+       "ifade": "Efüzyon genellikle difüzyondan daha yavaş gerçekleşir.",
+       "dogru": false,
+       "bilgi": "Efüzyon küçük bir delikten geçişle olduğu için genellikle difüzyondan hızlıdır; difüzyon geniş alana yayıldığından uzun sürer.",
+       "sayfa": 106
+      },
+      {
+       "id": "1.2.4-05",
+       "tur": "secmeli",
+       "soru": "Graham difüzyon yasasından nükleer santrallerde hangi amaçla yararlanılır?",
+       "secenekler": [
+        "Reaktör suyunun soğutulması",
+        "Radyasyon seviyesinin ölçülmesi",
+        "Uranyum izotoplarının ayrılması",
+        "Nükleer atıkların depolanması"
+       ],
+       "dogru": 2,
+       "bilgi": "²³⁵UF₆ gazı ²³⁶UF₆'dan hızlı olduğu için gözenekli engelden binlerce kez geçirilerek izotoplar ayrılır.",
+       "sayfa": 106
+      },
+      {
+       "id": "1.2.4-06",
+       "tur": "secmeli",
+       "soru": "Doğal gaz sızıntılarının fark edilmesi için doğal gaza eklenen, çürük sarımsak kokulu bileşik hangisidir?",
+       "secenekler": [
+        "Metil merkaptan",
+        "Metan",
+        "Etan",
+        "Kükürt hekzaflorür"
+       ],
+       "dogru": 0,
+       "bilgi": "Metil merkaptan sayesinde doğal gaz sızıntıları çok düşük yoğunluklarda bile algılanabilir.",
+       "sayfa": 104
+      },
+      {
+       "id": "1.2.4-07",
+       "tur": "dy",
+       "ifade": "Difüzyonda tanecikler yüksek konsantrasyonlu bölgeden düşük konsantrasyonlu bölgeye doğru hareket eder.",
+       "dogru": true,
+       "bilgi": "Parfüm kokusunun odaya kısa sürede yayılması difüzyona örnektir.",
+       "sayfa": 105
+      },
+      {
+       "id": "1.2.4-08",
+       "tur": "secmeli",
+       "soru": "Yüksek vakum cihazlarındaki mikroskobik çatlaklar sisteme hangi gaz gönderilip sızıntı dedektörüyle kontrol edilerek tespit edilir?",
+       "secenekler": [
+        "Azot",
+        "Helyum",
+        "Oksijen",
+        "Karbon dioksit"
+       ],
+       "dogru": 1,
+       "bilgi": "Efüzyon; gazların saflaştırılması, izotop ayrılması ve vakum cihazlarındaki sızıntıların tespitinde kullanılır.",
+       "sayfa": 107
+      },
+      {
+       "id": "1.2.4-09",
+       "tur": "eslestir",
+       "yonerge": "Gaz hareketleriyle ilgili kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Difüzyon",
+         "Konsantrasyon farkıyla gazların birbirine karışması"
+        ],
+        [
+         "Efüzyon",
+         "Basınç farkıyla gazın küçük bir delikten sızması"
+        ],
+        [
+         "Brown hareketi",
+         "Gaz taneciklerinin sürekli, doğrusal ve zikzaklı hareketi"
+        ]
+       ],
+       "bilgi": "Mol kütlesi küçük gaz tanecikleri daha hızlı efüzyona uğrar; difüzyon hızı sıcaklık ve mol kütlesine bağlıdır.",
+       "sayfa": 106
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Çeşitlilik",
+   "konular": [
+    {
+     "no": "2.1.1",
+     "ad": "Çözünme Süreci",
+     "kartlar": [
+      {
+       "id": "2.1.1-01",
+       "tur": "bosluk",
+       "cumle": "İki ya da daha fazla maddenin birbiri içinde homojen olarak dağılmasına ___ denir.",
+       "cevap": "çözünme",
+       "celdiriciler": [
+        "erime",
+        "süblimleşme",
+        "çökelme"
+       ],
+       "bilgi": "Çözünme sonucu oluşan homojen karışıma çözelti denir; çözelti çözücü ve çözünenden oluşur.",
+       "sayfa": 149
+      },
+      {
+       "id": "2.1.1-02",
+       "tur": "dy",
+       "ifade": "Sulu çözeltilerde çözücü sudur; diğer çözeltilerde ise genellikle miktarı fazla olan bileşen çözücüdür.",
+       "dogru": true,
+       "bilgi": "Çözücü, çözeltinin fiziksel durumunu belirler.",
+       "sayfa": 149
+      },
+      {
+       "id": "2.1.1-03",
+       "tur": "secmeli",
+       "soru": "Bir çözeltinin fiziksel durumunu belirleyen bileşen hangisidir?",
+       "secenekler": [
+        "Çözünen",
+        "Safsızlık",
+        "Katalizör",
+        "Çözücü"
+       ],
+       "dogru": 3,
+       "bilgi": "Çözeltinin fiziksel durumunu çözücü belirler; örneğin sulu çözeltilerde çözücü daima sudur.",
+       "sayfa": 149
+      },
+      {
+       "id": "2.1.1-04",
+       "tur": "secmeli",
+       "soru": "Çözünme sürecinin hangi basamağı ekzotermik (ısıveren) olarak gerçekleşir?",
+       "secenekler": [
+        "Çözücü taneciklerinin birbirinden ayrılması",
+        "Çözünen taneciklerinin birbirinden ayrılması",
+        "Çözücü ve çözünen taneciklerinin etkileşmesi",
+        "Çözünen kristalinin ısıtılması"
+       ],
+       "dogru": 2,
+       "bilgi": "Taneciklerin ayrıldığı ilk iki basamak endotermik, çözücü-çözünen etkileşiminin oluştuğu üçüncü basamak ekzotermiktir.",
+       "sayfa": 150
+      },
+      {
+       "id": "2.1.1-05",
+       "tur": "dy",
+       "ifade": "Çözünme sürecinde çözücü ve çözünen taneciklerinin birbirinden ayrıldığı basamaklar ekzotermik gerçekleşir.",
+       "dogru": false,
+       "bilgi": "Tanecikler arası çekimi yenmek için enerji gerektiğinden ayrılma basamakları endotermiktir; toplam enerji değişimi sürecin türünü belirler.",
+       "sayfa": 150
+      },
+      {
+       "id": "2.1.1-06",
+       "tur": "bosluk",
+       "cumle": "Çözünen taneciklerinin su molekülleriyle sarılmasına ___ denir.",
+       "cevap": "hidratasyon",
+       "celdiriciler": [
+        "solvatasyon",
+        "hidroliz",
+        "elektroliz"
+       ],
+       "bilgi": "Çözünen taneciklerinin su ile sarılması hidratasyon, su dışındaki bir çözücüyle sarılması solvatasyondur.",
+       "sayfa": 150
+      },
+      {
+       "id": "2.1.1-07",
+       "tur": "secmeli",
+       "soru": "Ağrı ve iltihabı azaltmak için kullanılan asetilsalisilik asidin sudaki çözünürlüğü, sodyum tuzuna göre nasıldır?",
+       "secenekler": [
+        "Daha azdır",
+        "Daha fazladır",
+        "Eşittir",
+        "Sıcaklıktan bağımsız olarak çok fazladır"
+       ],
+       "dogru": 0,
+       "bilgi": "Asidik veya bazik ilaç moleküllerinin sudaki çözünürlüğü tuzlarına göre azdır; ilaçlar tuza çevrilerek çözünürlükleri artırılır.",
+       "sayfa": 147
+      },
+      {
+       "id": "2.1.1-08",
+       "tur": "bosluk",
+       "cumle": "Halk arasındaki yanlış kullanımın aksine çaya atılan şeker erimez, ___.",
+       "cevap": "çözünür",
+       "celdiriciler": [
+        "süblimleşir",
+        "buharlaşır",
+        "donar"
+       ],
+       "bilgi": "Şekerin çayda dağılması erime değil çözünmedir; çözeltiler birden çok maddenin homojen karışmasıyla oluşur.",
+       "sayfa": 145
+      },
+      {
+       "id": "2.1.1-09",
+       "tur": "eslestir",
+       "yonerge": "Çözünmeyle ilgili kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Hidratasyon",
+         "Çözünen taneciklerinin su molekülleriyle sarılması"
+        ],
+        [
+         "Solvatasyon",
+         "Çözünen taneciklerinin su dışındaki bir çözücüyle sarılması"
+        ],
+        [
+         "Çözücü",
+         "Çözeltinin fiziksel durumunu belirleyen bileşen"
+        ],
+        [
+         "Çözelti",
+         "Çözünme sonucu oluşan homojen karışım"
+        ]
+       ],
+       "bilgi": "Çözücü + çözünen → çözelti; çözünme iyonik ya da moleküler olarak gerçekleşir.",
+       "sayfa": 150
+      }
+     ]
+    },
+    {
+     "no": "2.1.2",
+     "ad": "Maddelerin Birbiri İçindeki Çözünebilirliği",
+     "kartlar": [
+      {
+       "id": "2.1.2-01",
+       "tur": "dy",
+       "ifade": "Polar maddeler genellikle polar çözücülerde, apolar maddeler ise genellikle apolar çözücülerde çözünür.",
+       "dogru": true,
+       "bilgi": "Çözünme; çözücü ve çözünenin yapısına, çözücü-çözücü, çözünen-çözünen ve çözücü-çözünen etkileşimlerine bağlıdır.",
+       "sayfa": 156
+      },
+      {
+       "id": "2.1.2-02",
+       "tur": "secmeli",
+       "soru": "NaCl suda çözündüğünde iyonlar ile su molekülleri arasında hangi etkileşim oluşur?",
+       "secenekler": [
+        "London kuvveti",
+        "İyon-dipol etkileşimi",
+        "Hidrojen bağı",
+        "Dipol-dipol etkileşimi"
+       ],
+       "dogru": 1,
+       "bilgi": "Na⁺ iyonunu suyun kısmi negatif ucu, Cl⁻ iyonunu kısmi pozitif ucu sarar; iyonik bileşikler polar çözücüde iyi çözünür.",
+       "sayfa": 156
+      },
+      {
+       "id": "2.1.2-03",
+       "tur": "secmeli",
+       "soru": "Apolar yapılı iyot katısı aşağıdaki sıvılardan hangisinde iyi çözünür?",
+       "secenekler": [
+        "Su",
+        "Tuzlu su",
+        "Benzen",
+        "Şekerli su"
+       ],
+       "dogru": 2,
+       "bilgi": "İyot ve benzen apolardır, tanecikleri arasında London kuvveti bulunur; bu benzerlik birbiri içinde çözünmelerini sağlar.",
+       "sayfa": 156
+      },
+      {
+       "id": "2.1.2-04",
+       "tur": "bosluk",
+       "cumle": "Elmas ve kuvars, kovalent ___ örgülü kristal yapılar oldukları için polar veya apolar hiçbir çözücüde çözünmez.",
+       "cevap": "ağ",
+       "celdiriciler": [
+        "iyon",
+        "metal",
+        "molekül"
+       ],
+       "bilgi": "Elmas ve kuvars kovalent ağ örgülü kristal yapılardır.",
+       "sayfa": 156
+      },
+      {
+       "id": "2.1.2-05",
+       "tur": "secmeli",
+       "soru": "Yağ ile homojen karışan ancak suda iyi çözünmeyen vitaminler hangi seçenekte verilmiştir?",
+       "secenekler": [
+        "B ve C",
+        "A, D, E ve K",
+        "Yalnızca C",
+        "B, C ve D"
+       ],
+       "dogru": 1,
+       "bilgi": "A, D, E ve K vitaminleri yağda; B ve C vitaminleri suda kolaylıkla çözünür.",
+       "sayfa": 148
+      },
+      {
+       "id": "2.1.2-06",
+       "tur": "bosluk",
+       "cumle": "Kuru temizlemede yağ ve kir gibi apolar maddeler, perkloroetilen gibi ___ çözücülerle temizlenir.",
+       "cevap": "apolar",
+       "celdiriciler": [
+        "polar",
+        "iyonik",
+        "sulu"
+       ],
+       "bilgi": "\"Kuru\" kelimesi uygulamada su kullanılmadığını ifade eder; apolar kirler apolar çözücülerde çözünür.",
+       "sayfa": 148
+      },
+      {
+       "id": "2.1.2-07",
+       "tur": "dy",
+       "ifade": "Suda çözünen vitaminler aşırı tüketildiğinde vücutta birikerek genellikle ciddi sağlık sorunlarına yol açar.",
+       "dogru": false,
+       "bilgi": "Suda çözünen vitaminler vücuttan hızla atılır; yağda çözünen vitaminler ise aşırı tüketildiğinde ciddi sorunlara yol açabilir.",
+       "sayfa": 152
+      },
+      {
+       "id": "2.1.2-08",
+       "tur": "secmeli",
+       "soru": "Temizlik sırasında sabun molekülünün kire tutunan kısmı hangisidir?",
+       "secenekler": [
+        "Hidrofobik kuyruk kısmı",
+        "Hidrofilik baş kısmı",
+        "Sodyum iyonu",
+        "Su molekülü"
+       ],
+       "dogru": 0,
+       "bilgi": "Sabunun hidrofobik kuyruğu kire tutunur, hidrofilik başı suya yönelir ve misel adı verilen yapılar oluşur.",
+       "sayfa": 158
+      },
+      {
+       "id": "2.1.2-09",
+       "tur": "bosluk",
+       "cumle": "Sabun molekülleri temizlik sırasında kiri içine alan ve ___ adı verilen yapılar oluşturur.",
+       "cevap": "misel",
+       "celdiriciler": [
+        "kristal",
+        "polimer",
+        "emülsiyon"
+       ],
+       "bilgi": "Sabunlar yağ asitlerinin sodyum veya potasyum tuzlarıdır; sodyum laurat bir sabun örneğidir.",
+       "sayfa": 158
+      },
+      {
+       "id": "2.1.2-10",
+       "tur": "secmeli",
+       "soru": "Kâğıt kromatografisinde sabit faz olarak ne kullanılır?",
+       "secenekler": [
+        "Su",
+        "Hekzan",
+        "Etil alkol",
+        "Filtre kâğıdı"
+       ],
+       "dogru": 3,
+       "bilgi": "Kâğıt kromatografisinde hareketli faz su, etil alkol, benzen veya hekzan gibi çözücülerdir; bileşenler farklı hızlarla ilerler.",
+       "sayfa": 159
+      }
+     ]
+    },
+    {
+     "no": "2.1.3",
+     "ad": "Çözünme Olayının Sınıflandırılması",
+     "kartlar": [
+      {
+       "id": "2.1.3-01",
+       "tur": "eslestir",
+       "yonerge": "Çözünme türlerini tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Fiziksel çözünme",
+         "Maddenin özelliğini kaybetmeden çözünmesi"
+        ],
+        [
+         "Kimyasal çözünme",
+         "Maddenin çözücüyle tepkimeye girip yeni türler oluşturması"
+        ],
+        [
+         "İyonik çözünme",
+         "Maddenin çözücüde iyonlarına ayrışarak çözünmesi"
+        ],
+        [
+         "Moleküler çözünme",
+         "Maddenin çözücüde moleküler hâlde dağılması"
+        ]
+       ],
+       "bilgi": "İyonik ve moleküler birçok çözünme aynı zamanda fiziksel çözünmeye örnektir.",
+       "sayfa": 162
+      },
+      {
+       "id": "2.1.3-02",
+       "tur": "secmeli",
+       "soru": "Şekerin suda çözünmesi hangi çözünme türüne örnektir?",
+       "secenekler": [
+        "İyonik çözünme",
+        "Kimyasal çözünme",
+        "Moleküler çözünme",
+        "Elektrolitik çözünme"
+       ],
+       "dogru": 2,
+       "bilgi": "Kovalent bağlı bileşiklerin birçoğu suda moleküler çözünür; şeker ve metanol buna örnektir.",
+       "sayfa": 164
+      },
+      {
+       "id": "2.1.3-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisinin suda çözünmesi kimyasal çözünmeye örnektir?",
+       "secenekler": [
+        "Etil alkol",
+        "Karbon dioksit",
+        "Şeker",
+        "Potasyum nitrat"
+       ],
+       "dogru": 1,
+       "bilgi": "CO₂ suda çözündüğünde karbonik aside dönüşür; amonyağın suda çözünmesi de kimyasal çözünmedir.",
+       "sayfa": 164
+      },
+      {
+       "id": "2.1.3-04",
+       "tur": "dy",
+       "ifade": "Asitler, bazlar ve tuzlar suda genellikle iyonlarına ayrışarak çözünür.",
+       "dogru": true,
+       "bilgi": "Bir maddenin çözücü içinde iyonlarına ayrışarak çözünmesine iyonik çözünme denir.",
+       "sayfa": 163
+      },
+      {
+       "id": "2.1.3-05",
+       "tur": "dy",
+       "ifade": "İyonik çözünmede katyonların etrafını suyun kısmi pozitif yüklü hidrojen ucu sarar.",
+       "dogru": false,
+       "bilgi": "Suyun kısmi negatif yüklü oksijen ucu katyonları, kısmi pozitif yüklü hidrojen ucu anyonları sararak kararlılık kazandırır.",
+       "sayfa": 163
+      },
+      {
+       "id": "2.1.3-06",
+       "tur": "secmeli",
+       "soru": "Vücut sıvılarında pozitif veya negatif elektrik yükü taşıyan ve çeşitli işlevler için gereken kimyasal bileşenlere ne denir?",
+       "secenekler": [
+        "Enzim",
+        "Hormon",
+        "Vitamin",
+        "Elektrolit"
+       ],
+       "dogru": 3,
+       "bilgi": "Başlıca elektrolitler Na⁺, K⁺, Cl⁻, Ca²⁺ ve Mg²⁺ gibi iyonlardır; ishalde kaybedilen sıvı ve elektrolit serumla telafi edilir.",
+       "sayfa": 160
+      },
+      {
+       "id": "2.1.3-07",
+       "tur": "bosluk",
+       "cumle": "Kayaçlarda ve deniz kabuklularında bulunan kireç taşının asidik sularda çözünmesi ___ değişime neden olur.",
+       "cevap": "kimyasal",
+       "celdiriciler": [
+        "fiziksel",
+        "nükleer",
+        "manyetik"
+       ],
+       "bilgi": "Yağmur sularıyla gelen karbonik asidin kayaları aşındırması kimyasal çözünmeye örnektir.",
+       "sayfa": 160
+      },
+      {
+       "id": "2.1.3-08",
+       "tur": "secmeli",
+       "soru": "AlCl₃'ün suda Al³⁺ ve Cl⁻ iyonlarına ayrışarak çözünmesi için hangisi doğrudur?",
+       "secenekler": [
+        "Moleküler ve kimyasal çözünmedir",
+        "Hem iyonik hem fiziksel çözünmedir",
+        "Yalnızca kimyasal çözünmedir",
+        "Moleküler ve fiziksel çözünmedir"
+       ],
+       "dogru": 1,
+       "bilgi": "AlCl₃ suda kimyasal değişime uğramadan iyonlarına ayrışır; bu nedenle iyonik ve fiziksel çözünme örneğidir.",
+       "sayfa": 164
+      }
+     ]
+    },
+    {
+     "no": "2.1.4",
+     "ad": "Çözünürlük",
+     "kartlar": [
+      {
+       "id": "2.1.4-01",
+       "tur": "bosluk",
+       "cumle": "Belirli sıcaklık ve basınçta 100 g ya da 100 cm³ çözücüde çözünebilen maksimum madde miktarına ___ denir.",
+       "cevap": "çözünürlük",
+       "celdiriciler": [
+        "derişim",
+        "yoğunluk",
+        "molarite"
+       ],
+       "bilgi": "NaCl'nin sudaki çözünürlüğü 20 °C'ta 35,7 g/100 g sudur; bu şartlarda 100 g suda bundan fazla NaCl çözünmez.",
+       "sayfa": 170
+      },
+      {
+       "id": "2.1.4-02",
+       "tur": "secmeli",
+       "soru": "Katıların sudaki çözünürlüğü genellikle hangi birimle ifade edilir?",
+       "secenekler": [
+        "g/100 g su",
+        "L/mol",
+        "J/mol",
+        "kg/m³"
+       ],
+       "dogru": 0,
+       "bilgi": "Çözünürlük birimi genellikle \"g/100 g su\" olarak ifade edilir.",
+       "sayfa": 170
+      },
+      {
+       "id": "2.1.4-03",
+       "tur": "dy",
+       "ifade": "Çözünürlük, maddelerin tanımlanmasında ayırt edici bir özellik olarak kabul edilir.",
+       "dogru": true,
+       "bilgi": "Katılar farklı sıcaklıklarda farklı çözünürlüklere sahiptir; KNO₃'ün çözünürlüğü 20 °C'ta 31,6, 80 °C'ta 167,1 g/100 g sudur.",
+       "sayfa": 170
+      },
+      {
+       "id": "2.1.4-04",
+       "tur": "bosluk",
+       "cumle": "Deniz suyunda 1 kilogram başına düşen tüm çözünmüş katı maddelerin gram cinsinden miktarına ___ denir.",
+       "cevap": "tuzluluk",
+       "celdiriciler": [
+        "sertlik",
+        "derişim",
+        "yoğunluk"
+       ],
+       "bilgi": "Deniz ve okyanuslardaki tuzluluk, yağışlarla taşınan çözünmüş maddelerin birikimi sonucunda oluşur.",
+       "sayfa": 167
+      },
+      {
+       "id": "2.1.4-05",
+       "tur": "secmeli",
+       "soru": "Deniz ve okyanusların ortalama tuzluluğu kütlece yaklaşık ne kadardır?",
+       "secenekler": [
+        "Binde 17",
+        "Binde 38,8",
+        "Binde 34,7",
+        "Yüzde 34,7"
+       ],
+       "dogru": 2,
+       "bilgi": "Ortalama tuzluluk binde 34,7'dir; Karadeniz'de binde 17, Kuzey Ege'de binde 37, Güney Ege'de binde 38,8'dir.",
+       "sayfa": 167
+      },
+      {
+       "id": "2.1.4-06",
+       "tur": "dy",
+       "ifade": "Karadeniz, geniş havzalı ve yüksek debili nehirlerle beslendiği için Ege Denizi'nden daha tuzludur.",
+       "dogru": false,
+       "bilgi": "Nehirlerle beslenen Karadeniz'in tuzluluğu binde 17'dir ve Ege Denizi'nden (binde 37-38,8) daha düşüktür.",
+       "sayfa": 167
+      },
+      {
+       "id": "2.1.4-07",
+       "tur": "secmeli",
+       "soru": "Akide şekeri ile cam şekeri yapımındaki temel fark hangisidir?",
+       "secenekler": [
+        "Şurubun soğutulma biçimi",
+        "Kullanılan şekerin türü",
+        "Kullanılan suyun sertliği",
+        "Kabın şekli"
+       ],
+       "dogru": 0,
+       "bilgi": "Akide şekerinde sıcak şurup yavaş soğutulur; cam şekerinde kaynayan şurup hızla soğuk bir yüzeye dökülür.",
+       "sayfa": 167
+      }
+     ]
+    },
+    {
+     "no": "2.1.5",
+     "ad": "Çözünürlüğe Etki Eden Faktörler (Sıcaklık, Basınç ve Madde Cinsi)",
+     "kartlar": [
+      {
+       "id": "2.1.5-01",
+       "tur": "dy",
+       "ifade": "Katıların sudaki çözünürlüğü genellikle sıcaklık arttıkça artar.",
+       "dogru": true,
+       "bilgi": "NaCl gibi bazı katıların çözünürlüğü sıcaklıkla çok değişmez, Ce₂(SO₄)₃ gibi bazılarınınki ise azalabilir.",
+       "sayfa": 176
+      },
+      {
+       "id": "2.1.5-02",
+       "tur": "secmeli",
+       "soru": "Gazların sudaki çözünürlüğü sıcaklık ve basınçla nasıl değişir?",
+       "secenekler": [
+        "Sıcaklık artınca azalır, basınç artınca artar",
+        "Sıcaklık artınca artar, basınç artınca azalır",
+        "Sıcaklık ve basınçtan etkilenmez",
+        "Sıcaklık ve basınç artınca azalır"
+       ],
+       "dogru": 0,
+       "bilgi": "Sıcaklık artınca gaz tanecikleri çözeltiyi terk eder; basınç artınca birim yüzeye çarpan tanecik sayısı artar ve çözünme artar.",
+       "sayfa": 176
+      },
+      {
+       "id": "2.1.5-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki katılardan hangisinin sudaki çözünürlüğü sıcaklık artışıyla azalabilir?",
+       "secenekler": [
+        "KNO₃",
+        "NaNO₃",
+        "Ce₂(SO₄)₃",
+        "KCl"
+       ],
+       "dogru": 2,
+       "bilgi": "Katıların çoğunun çözünürlüğü sıcaklıkla artar; Ce₂(SO₄)₃ ise sıcaklık arttıkça daha az çözünür.",
+       "sayfa": 176
+      },
+      {
+       "id": "2.1.5-04",
+       "tur": "dy",
+       "ifade": "Akvaryum suyunun sıcaklığı arttığında sudaki çözünmüş oksijen miktarı artar.",
+       "dogru": false,
+       "bilgi": "Gazların çözünürlüğü sıcaklıkla ters orantılıdır; su ısınınca çözünmüş oksijen azalır.",
+       "sayfa": 176
+      },
+      {
+       "id": "2.1.5-05",
+       "tur": "secmeli",
+       "soru": "Asitli içecek şişelerinde \"Soğuk içiniz.\" ifadesinin bulunmasının nedeni nedir?",
+       "secenekler": [
+        "Şekerin soğukta daha iyi çözünmesi",
+        "Soğukta içeceğin asitliğinin artması",
+        "Soğukta CO₂'nin daha çok çözünmesi",
+        "Soğukta suyun buhar basıncının artması"
+       ],
+       "dogru": 2,
+       "bilgi": "Asitli içecekler CO₂ gazının suda çözünmesiyle elde edilir; gazlar düşük sıcaklıkta daha fazla çözünür.",
+       "sayfa": 172
+      },
+      {
+       "id": "2.1.5-06",
+       "tur": "bosluk",
+       "cumle": "Endüstride ve reaktörlerde kullanılan sıcak suyun nehir ve göllere salınmasıyla oluşan kirlenmeye ___ kirlenme denir.",
+       "cevap": "termal",
+       "celdiriciler": [
+        "kimyasal",
+        "biyolojik",
+        "radyoaktif"
+       ],
+       "bilgi": "Su sıcaklığı arttıkça çözünmüş oksijen azalır; bu durum suda yaşayan canlıları olumsuz etkiler.",
+       "sayfa": 178
+      },
+      {
+       "id": "2.1.5-07",
+       "tur": "secmeli",
+       "soru": "Kuzey denizlerinde balıkçılığın daha çok gelişmiş olmasının nedeni nedir?",
+       "secenekler": [
+        "Tuzluluğun çok yüksek olması",
+        "Kalsiyum karbonatın bol çözünmesi",
+        "Suların daha sıcak olması",
+        "Suda çözünmüş oksijenin fazla olması"
+       ],
+       "dogru": 3,
+       "bilgi": "Soğuk kuzey denizleri suda çözünmüş oksijen bakımından zengindir.",
+       "sayfa": 172
+      },
+      {
+       "id": "2.1.5-08",
+       "tur": "dy",
+       "ifade": "Çözücü-çözünen etkileşimlerinin kuvvetli olduğu durumlarda çözünürlük azdır.",
+       "dogru": false,
+       "bilgi": "Çözücü-çözünen etkileşimleri kuvvetliyse çözünürlük fazla, zayıfsa azdır; katı ve sıvılarda basıncın etkisi ihmal edilir.",
+       "sayfa": 176
+      },
+      {
+       "id": "2.1.5-09",
+       "tur": "secmeli",
+       "soru": "Şeker pancarından şeker üretiminde pancarlara sıcak su ile işlem uygulanmasının nedeni nedir?",
+       "secenekler": [
+        "Pancarın renginin açılması",
+        "Sıcakta şekerin daha çok çözünmesi",
+        "Şekerin buharlaştırılarak alınması",
+        "Suyun sertliğinin azaltılması"
+       ],
+       "dogru": 1,
+       "bilgi": "Sıcak suyla işlem sayesinde pancardaki şekerin büyük kısmı çözünerek alınabilir.",
+       "sayfa": 172
+      }
+     ]
+    },
+    {
+     "no": "2.1.6",
+     "ad": "Çözeltilerin Sınıflandırılması",
+     "kartlar": [
+      {
+       "id": "2.1.6-01",
+       "tur": "eslestir",
+       "yonerge": "Çözelti türlerini tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Doymamış çözelti",
+         "Çözebileceğinden daha az madde çözmüş çözelti"
+        ],
+        [
+         "Doymuş çözelti",
+         "Çözebileceği kadar madde çözmüş çözelti"
+        ],
+        [
+         "Aşırı doymuş çözelti",
+         "Çözebileceğinden daha fazla madde çözmüş çözelti"
+        ],
+        [
+         "Elektrolit çözelti",
+         "Elektrik akımını ileten çözelti"
+        ]
+       ],
+       "bilgi": "Çözeltiler elektrik iletkenliğine ve çözünen madde miktarına göre sınıflandırılır.",
+       "sayfa": 185
+      },
+      {
+       "id": "2.1.6-02",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki maddelerden hangisinin sulu çözeltisi elektrolit değildir?",
+       "secenekler": [
+        "NaOH",
+        "KNO₃",
+        "C₁₂H₂₂O₁₁",
+        "H₂SO₄"
+       ],
+       "dogru": 2,
+       "bilgi": "Şeker, etil alkol ve üre suda moleküler çözündüğünden sulu çözeltileri iyon içermez ve elektriği iletmez.",
+       "sayfa": 185
+      },
+      {
+       "id": "2.1.6-03",
+       "tur": "dy",
+       "ifade": "Elektrolit çözeltilerde elektriksel iletkenlik, çözeltideki iyon sayısından bağımsızdır.",
+       "dogru": false,
+       "bilgi": "Asit, baz ve tuzların sulu çözeltileri elektrolittir; elektriksel iletkenlik çözeltideki iyon sayısıyla orantılıdır.",
+       "sayfa": 185
+      },
+      {
+       "id": "2.1.6-04",
+       "tur": "dy",
+       "ifade": "Etil alkol ve su ile doymuş bir çözelti hazırlanabilir.",
+       "dogru": false,
+       "bilgi": "Birbiriyle her oranda karışan sıvılarla doymuş çözelti hazırlanamaz; etil alkol-su çözeltisi doymuş olmaz.",
+       "sayfa": 185
+      },
+      {
+       "id": "2.1.6-05",
+       "tur": "secmeli",
+       "soru": "Aşırı doymuş çözeltiler için hangisi doğrudur?",
+       "secenekler": [
+        "Kararlıdır ve dengededir",
+        "Kararsızdır, sarsılınca fazlası çöker",
+        "Katısıyla dengede bulunur",
+        "Doymamış çözeltiden az madde içerir"
+       ],
+       "dogru": 1,
+       "bilgi": "Aşırı doymuş çözelti kararsızdır; sallanırsa veya çözünen eklenirse fazladan çözünmüş miktar hemen çöker.",
+       "sayfa": 185
+      },
+      {
+       "id": "2.1.6-06",
+       "tur": "secmeli",
+       "soru": "Katısı ile dengede olan çözelti hangisidir?",
+       "secenekler": [
+        "Doymamış çözelti",
+        "Aşırı doymuş çözelti",
+        "Elektrolit olmayan çözelti",
+        "Doymuş çözelti"
+       ],
+       "dogru": 3,
+       "bilgi": "Doymuş çözeltiye aynı sıcaklıkta aynı maddeden eklenirse çözünme olmaz ve derişim değişmez.",
+       "sayfa": 185
+      },
+      {
+       "id": "2.1.6-07",
+       "tur": "secmeli",
+       "soru": "Araba akülerinde elektrik iletimini sağlamak için hangi çözelti kullanılır?",
+       "secenekler": [
+        "Seyreltik sülfürik asit",
+        "Sodyum klorür çözeltisi",
+        "Etil alkol",
+        "Saf su"
+       ],
+       "dogru": 0,
+       "bilgi": "Kurşun-asit akülerinde sülfürik asit H⁺ ve SO₄²⁻ iyonlarına ayrışarak elektrik iletimini sağlar.",
+       "sayfa": 180
+      },
+      {
+       "id": "2.1.6-08",
+       "tur": "secmeli",
+       "soru": "Soğuk havalarda araba akülerinin yeterli gücü üretememesinin nedeni nedir?",
+       "secenekler": [
+        "Pil sıvısının viskozitesinin artması",
+        "Sülfürik asidin buharlaşması",
+        "Kurşun plakaların erimesi",
+        "İyon sayısının aniden artması"
+       ],
+       "dogru": 0,
+       "bilgi": "Sıcaklık düşünce pil sıvısının viskozitesi artar, iyon hareketi yavaşlar ve akünün çıkış gücü azalır.",
+       "sayfa": 180
+      },
+      {
+       "id": "2.1.6-09",
+       "tur": "bosluk",
+       "cumle": "Doymamış bir çözeltiyi doymuş hâle getirmek için sabit sıcaklıkta çözünen eklenebilir veya çözeltinin ___ azaltılabilir.",
+       "cevap": "sıcaklığı",
+       "celdiriciler": [
+        "basıncı",
+        "rengi",
+        "iletkenliği"
+       ],
+       "bilgi": "Doymuş çözelti, çözünen eklenerek veya çözünen çökmeye başlayıncaya kadar çözücü buharlaştırılarak da hazırlanabilir.",
+       "sayfa": 186
+      }
+     ]
+    },
+    {
+     "no": "2.1.7",
+     "ad": "Derişim Birimleri (Molarite, ppm)",
+     "kartlar": [
+      {
+       "id": "2.1.7-01",
+       "tur": "bosluk",
+       "cumle": "Bir litre çözeltideki çözünmüş maddenin mol sayısına ___ denir.",
+       "cevap": "molarite",
+       "celdiriciler": [
+        "ppm",
+        "çözünürlük",
+        "mol kütlesi"
+       ],
+       "bilgi": "Molar derişim (molarite) M harfiyle gösterilir ve \"molar\" diye okunur.",
+       "sayfa": 192
+      },
+      {
+       "id": "2.1.7-02",
+       "tur": "secmeli",
+       "soru": "Bir litre (veya 1 kg) çözeltide çözünen maddenin mg cinsinden kütlesini ifade eden derişim birimi hangisidir?",
+       "secenekler": [
+        "Molarite",
+        "Mol kesri",
+        "ppm",
+        "Yüzde derişim"
+       ],
+       "dogru": 2,
+       "bilgi": "Çözünmüş madde miktarı çok az olduğunda molar derişim yerine ppm birimi kullanılır.",
+       "sayfa": 194
+      },
+      {
+       "id": "2.1.7-03",
+       "tur": "secmeli",
+       "soru": "Havadaki karbon dioksit ve topraktaki mineral miktarları genellikle hangi derişim birimiyle ifade edilir?",
+       "secenekler": [
+        "Molarite",
+        "Litre",
+        "Mol kütlesi",
+        "ppm"
+       ],
+       "dogru": 3,
+       "bilgi": "Çok düşük derişimler ppm ile ifade edilir; yüzme havuzlarında serbest klor 0,3-0,6 ppm olmalıdır.",
+       "sayfa": 194
+      },
+      {
+       "id": "2.1.7-04",
+       "tur": "dy",
+       "ifade": "Molarite hesaplamalarında kullanılan hacim, çözücünün hacmidir.",
+       "dogru": false,
+       "bilgi": "Molarite işlemlerinde kullanılan hacim çözücü hacmi değil toplam çözelti hacmidir.",
+       "sayfa": 194
+      },
+      {
+       "id": "2.1.7-05",
+       "tur": "bosluk",
+       "cumle": "Derişimi bilinen ve diğer çözeltileri hazırlarken kullanılan çözeltilere ___ çözelti denir.",
+       "cevap": "stok",
+       "celdiriciler": [
+        "tampon",
+        "doymuş",
+        "ideal"
+       ],
+       "bilgi": "Stok çözeltilerden seyreltme yöntemiyle daha düşük derişimli çözeltiler elde edilir.",
+       "sayfa": 195
+      },
+      {
+       "id": "2.1.7-06",
+       "tur": "dy",
+       "ifade": "Bir çözeltiye çökme olmadan çözücü eklemek veya çözücüyü buharlaştırmak çözünen maddenin toplam mol sayısını değiştirmez.",
+       "dogru": true,
+       "bilgi": "Seyreltme ve derişiklendirmede mol sayısı korunur, hacim değiştiği için molar derişim değişir (M₁·V₁ = M₂·V₂).",
+       "sayfa": 193
+      },
+      {
+       "id": "2.1.7-07",
+       "tur": "secmeli",
+       "soru": "Yaraları yıkamak ve vücudun tuz-su dengesini ayarlamak için kullanılan serum fizyolojik kütlece yüzde kaç sodyum klorür içerir?",
+       "secenekler": [
+        "%9",
+        "%5",
+        "%0,3",
+        "%0,9"
+       ],
+       "dogru": 3,
+       "bilgi": "Serum fizyolojik kütlece %0,9 NaCl içeren bir çözeltidir.",
+       "sayfa": 190
+      },
+      {
+       "id": "2.1.7-08",
+       "tur": "secmeli",
+       "soru": "Her 100 mL'sinde 80 mL etil alkol bulunan kolonya nasıl ifade edilir?",
+       "secenekler": [
+        "80°",
+        "8°",
+        "0,8 M",
+        "80 ppm"
+       ],
+       "dogru": 0,
+       "bilgi": "Kolonya etil alkol, saf su ve aromatik yağlardan oluşur ve içindeki alkol miktarına göre derecelendirilir.",
+       "sayfa": 190
+      },
+      {
+       "id": "2.1.7-09",
+       "tur": "eslestir",
+       "yonerge": "Derişimle ilgili kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Molarite",
+         "1 L çözeltideki çözünmüş maddenin mol sayısı"
+        ],
+        [
+         "ppm",
+         "1 L çözeltide çözünen maddenin mg cinsinden kütlesi"
+        ],
+        [
+         "Serum fizyolojik",
+         "Kütlece %0,9 NaCl içeren çözelti"
+        ],
+        [
+         "Stok çözelti",
+         "Derişimi bilinen, seyreltmede kullanılan çözelti"
+        ]
+       ],
+       "bilgi": "Derişim, bir çözeltideki çözünmüş madde miktarının ölçüsüdür; derişik ve seyreltik kavramları bağıldır.",
+       "sayfa": 194
+      }
+     ]
+    },
+    {
+     "no": "2.1.8",
+     "ad": "Koligatif Özellikler (Kaynama Noktası Yükselmesi, Donma Noktası Düşmesi)",
+     "kartlar": [
+      {
+       "id": "2.1.8-01",
+       "tur": "bosluk",
+       "cumle": "Çözeltilerde çözünenin türüne değil tanecik sayısına bağlı olarak değişen özelliklere ___ özellikler denir.",
+       "cevap": "koligatif",
+       "celdiriciler": [
+        "kimyasal",
+        "ayırt edici",
+        "periyodik"
+       ],
+       "bilgi": "Kaynama noktası yükselmesi ve donma noktası alçalması koligatif özelliklerdendir.",
+       "sayfa": 201
+      },
+      {
+       "id": "2.1.8-02",
+       "tur": "dy",
+       "ifade": "Saf çözücüde uçucu olmayan bir katı çözündüğünde oluşan çözeltinin buhar basıncı saf çözücüden yüksek olur.",
+       "dogru": false,
+       "bilgi": "Çözünen tanecikler buharlaşmayı engeller; çözeltinin buhar basıncı düşer ve kaynama noktası saf çözücüden yüksek olur.",
+       "sayfa": 201
+      },
+      {
+       "id": "2.1.8-03",
+       "tur": "secmeli",
+       "soru": "Saf suda uçucu olmayan bir katı çözündüğünde suyun kaynama ve donma noktası nasıl değişir?",
+       "secenekler": [
+        "Kaynama noktası düşer, donma noktası yükselir",
+        "Kaynama noktası yükselir, donma noktası düşer",
+        "İkisi de yükselir",
+        "İkisi de değişmez"
+       ],
+       "dogru": 1,
+       "bilgi": "Çözeltide çözünmüş tanecik sayısı arttıkça kaynama noktası yükselir, donma noktası düşer.",
+       "sayfa": 202
+      },
+      {
+       "id": "2.1.8-04",
+       "tur": "secmeli",
+       "soru": "1 mol MgCl₂ suda tamamen iyonlaştığında çözeltide toplam kaç mol iyon bulunur?",
+       "secenekler": [
+        "1",
+        "2",
+        "3",
+        "4"
+       ],
+       "dogru": 2,
+       "bilgi": "Elektrolit çözeltilerde iyonlar ayrı ayrı sayılır: MgCl₂ 1 mol Mg²⁺ ve 2 mol Cl⁻ verir; şeker ise 1 mol molekül verir.",
+       "sayfa": 202
+      },
+      {
+       "id": "2.1.8-05",
+       "tur": "dy",
+       "ifade": "Doymamış çözeltilerde kaynama noktası, çözelti doymuş hâle gelene kadar yükselmeye devam eder.",
+       "dogru": true,
+       "bilgi": "Saf sıvıların sıcaklığı kaynama boyunca sabit kalırken doymamış çözeltilerin kaynama sıcaklığı yükselmeye devam eder.",
+       "sayfa": 201
+      },
+      {
+       "id": "2.1.8-06",
+       "tur": "secmeli",
+       "soru": "Otomobillerde antifriz olarak kullanılan madde hangisidir?",
+       "secenekler": [
+        "Sodyum klorür",
+        "Etil alkol",
+        "Gliserin",
+        "Etilen glikol"
+       ],
+       "dogru": 3,
+       "bilgi": "Antifriz, katıldığı sıvının belli bir dereceye kadar donmasını önler; kışın yollarda buzlanmaya karşı NaCl kullanılır.",
+       "sayfa": 205
+      },
+      {
+       "id": "2.1.8-07",
+       "tur": "bosluk",
+       "cumle": "Sütün donma noktası, içerdiği mineraller nedeniyle suyun donma noktasından daha ___.",
+       "cevap": "düşüktür",
+       "celdiriciler": [
+        "yüksektir",
+        "sabittir",
+        "değişkendir"
+       ],
+       "bilgi": "Sütün donma noktası içerdiği mineraller nedeniyle sudan düşüktür; bu özellikle sütün saflığı tespit edilebilir.",
+       "sayfa": 198
+      },
+      {
+       "id": "2.1.8-08",
+       "tur": "secmeli",
+       "soru": "Kışın yollara tuz dökülmesinin amacı nedir?",
+       "secenekler": [
+        "Suyun kaynama noktasını düşürmek",
+        "Suyun donma noktasını düşürmek",
+        "Buharlaşmayı yavaşlatmak",
+        "Asfaltın erimesini sağlamak"
+       ],
+       "dogru": 1,
+       "bilgi": "Çözeltilerin donma noktası saf çözücüden düşük olduğundan tuz, yollardaki buzlanmayı önler.",
+       "sayfa": 198
+      },
+      {
+       "id": "2.1.8-09",
+       "tur": "bosluk",
+       "cumle": "Dış basıncın 1 atm olduğu ortamda gerçekleşen kaynama sıcaklığına ___ kaynama noktası denir.",
+       "cevap": "normal",
+       "celdiriciler": [
+        "mutlak",
+        "kritik",
+        "bağıl"
+       ],
+       "bilgi": "Sıvının buhar basıncı atmosfer basıncına eşit olduğunda kabarcıklar çıkararak buharlaşmasına kaynama denir.",
+       "sayfa": 201
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "ad": "Sürdürülebilirlik",
+   "konular": [
+    {
+     "no": "3.1.1",
+     "ad": "Makro ve Mikro Ölçekli Deneyler",
+     "kartlar": [
+      {
+       "id": "3.1.1-01",
+       "tur": "eslestir",
+       "yonerge": "Su ayak izi türlerini açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Mavi su ayak izi",
+         "Bir malı üretmek için gereken tatlı su kaynakları"
+        ],
+        [
+         "Yeşil su ayak izi",
+         "Bir malın üretiminde kullanılan yağmur suyu"
+        ],
+        [
+         "Gri su ayak izi",
+         "Kirlilik derişimini seyreltmek için kullanılan tatlı su"
+        ]
+       ],
+       "bilgi": "Evlerde kullanılan su mavi, tarımda kullanılan su yeşil sudur; su ayak izi kullanılan suyun türünü de ifade eder.",
+       "sayfa": 236
+      },
+      {
+       "id": "3.1.1-02",
+       "tur": "bosluk",
+       "cumle": "Bir kurum, kişi ya da ülkenin faaliyetleri sonucu atmosfere salınan toplam sera gazı miktarına ___ ayak izi denir.",
+       "cevap": "karbon",
+       "celdiriciler": [
+        "su",
+        "ekolojik",
+        "kimyasal"
+       ],
+       "bilgi": "Karbon ayak izi büyüdükçe çevrede oluşan zararlar da büyür; bireysel ve ülke çapında önlemlerle küçültülmelidir.",
+       "sayfa": 236
+      },
+      {
+       "id": "3.1.1-03",
+       "tur": "secmeli",
+       "soru": "Çok küçük miktarlarda kimyasal kullanılarak gerçekleştirilen deney türüne ne ad verilir?",
+       "secenekler": [
+        "Makro ölçekli deney",
+        "Mikro ölçekli deney",
+        "Kontrol deneyi",
+        "Titrasyon"
+       ],
+       "dogru": 1,
+       "bilgi": "Makro ölçekli deneyde kullanılan kimyasal miktarı yüksektir; mikro ölçekli deneyler daha az kimyasal ve su gerektirir.",
+       "sayfa": 236
+      },
+      {
+       "id": "3.1.1-04",
+       "tur": "dy",
+       "ifade": "Bir tepkimede çıkış maddelerindeki atomların ne kadarı istenen üründe yer alıyorsa tepkimenin atom ekonomisi o kadar yüksektir.",
+       "dogru": true,
+       "bilgi": "Atom ekonomisi, kimyasal tepkime verimliliğinin farklı bir yorumudur.",
+       "sayfa": 236
+      },
+      {
+       "id": "3.1.1-05",
+       "tur": "secmeli",
+       "soru": "Atom ekonomisi kavramı hangi amaçla geliştirilmiştir?",
+       "secenekler": [
+        "Tepkime hızını artırmak",
+        "Ürünün rengini değiştirmek",
+        "Enerji tüketimini artırmak",
+        "Madde israfını önlemek"
+       ],
+       "dogru": 3,
+       "bilgi": "Atom ekonomisi madde israfını önlemek için geliştirilmiştir ve yeşil kimyanın ilkelerinden biridir.",
+       "sayfa": 236
+      },
+      {
+       "id": "3.1.1-06",
+       "tur": "dy",
+       "ifade": "Su yalnızca musluklardan boşa aktığında israf edilmiş olur; çöpe atılan yiyecek ve eşyalar su ayak izini etkilemez.",
+       "dogru": false,
+       "bilgi": "Çöpe atılan her yiyecek, eşya ve kıyafet su ayak izini artırır.",
+       "sayfa": 236
+      },
+      {
+       "id": "3.1.1-07",
+       "tur": "secmeli",
+       "soru": "Bireysel karbon ayak izini azaltmak için aşağıdakilerden hangisi yapılmalıdır?",
+       "secenekler": [
+        "Toplu ulaşım araçları tercih edilmeli",
+        "Tek kullanımlık ürünler artırılmalı",
+        "Geri dönüşümden kaçınılmalı",
+        "Fosil yakıt kullanımı artırılmalı"
+       ],
+       "dogru": 0,
+       "bilgi": "Toplu ulaşım, enerji tasarrufu, israfın önlenmesi ve geri dönüşüm bireysel karbon ayak izini azaltır.",
+       "sayfa": 236
+      },
+      {
+       "id": "3.1.1-08",
+       "tur": "bosluk",
+       "cumle": "Tehlikeli maddelerin kullanımı ya da oluşumunu azaltmayı hedefleyen kimyasal ürün ve süreçlerin tasarımına ___ kimya denir.",
+       "cevap": "yeşil",
+       "celdiriciler": [
+        "analitik",
+        "organik",
+        "nükleer"
+       ],
+       "bilgi": "Bir gelişme gelecek nesillerin ihtiyaçlarını etkilemeden bugünkü ihtiyaçları karşılıyorsa sürdürülebilir kabul edilir.",
+       "sayfa": 237
+      },
+      {
+       "id": "3.1.1-09",
+       "tur": "secmeli",
+       "soru": "Yeşil kimyanın kaç ilkesi vardır?",
+       "secenekler": [
+        "8",
+        "10",
+        "12",
+        "17"
+       ],
+       "dogru": 2,
+       "bilgi": "Yeşil kimyanın ilkeleri arasında atığın önlenmesi, atom ekonomisi, kataliz ve enerji verimliliği yer alır.",
+       "sayfa": 237
+      },
+      {
+       "id": "3.1.1-10",
+       "tur": "secmeli",
+       "soru": "Mariana Çukuru'nda keşfedilen ve petrol sızıntılarında su yüzeyindeki petrolün temizlenmesini sağlayan canlılar hangileridir?",
+       "secenekler": [
+        "Mercanlar",
+        "Bakteriler",
+        "Su yosunları",
+        "Fitoplanktonlar"
+       ],
+       "dogru": 1,
+       "bilgi": "Petrolü parçalayabilen bakteriler, biyobozunur plastikler ve sentetik feromonlar çevre dostu çözümlere örnektir.",
+       "sayfa": 233
+      },
+      {
+       "id": "3.1.1-11",
+       "tur": "bosluk",
+       "cumle": "Deniz salyası olarak da bilinen müsilaj, ___ adı verilen mikroorganizmaların aşırı çoğalması sonucu ortaya çıkar.",
+       "cevap": "fitoplankton",
+       "celdiriciler": [
+        "zooplankton",
+        "mantar",
+        "virüs"
+       ],
+       "bilgi": "Müsilaj deniz tabanında birikip çürüyerek oksijeni tüketir ve hareket kabiliyeti sınırlı canlıların boğulmasına neden olur.",
+       "sayfa": 241
+      }
+     ]
+    },
+    {
+     "no": "3.1.2",
+     "ad": "Atmosferdeki Tepkimeler ve Küresel Sorunlar",
+     "kartlar": [
+      {
+       "id": "3.1.2-01",
+       "tur": "secmeli",
+       "soru": "Güneş ışığıyla parçalanarak klor radikali oluşturan ve stratosferdeki ozon tabakasını tahrip eden maddeler hangileridir?",
+       "secenekler": [
+        "Karbon dioksit",
+        "Kloroflorokarbonlar",
+        "Metan",
+        "Su buharı"
+       ],
+       "dogru": 1,
+       "bilgi": "CFC türleri ve metil bromür gibi maddelerden oluşan klor ve brom radikalleri zincirleme tepkimelerle ozonu parçalar.",
+       "sayfa": 243
+      },
+      {
+       "id": "3.1.2-02",
+       "tur": "dy",
+       "ifade": "Salınan tek bir klor radikali zincirleme tepkimeyle binlerce ozon molekülünü yok edebilir.",
+       "dogru": true,
+       "bilgi": "Bu nedenle az miktardaki CFC bile ozon tabakası üzerinde büyük etki yapar.",
+       "sayfa": 248
+      },
+      {
+       "id": "3.1.2-03",
+       "tur": "bosluk",
+       "cumle": "pH değeri ___ değerinin altında olan yağışlar asit yağmuru olarak adlandırılır.",
+       "cevap": "5,6",
+       "celdiriciler": [
+        "7",
+        "3,5",
+        "8,2"
+       ],
+       "bilgi": "Normal yağmur suyu pH 5,6 civarında hafif asidiktir; fosil yakıtlar ve sanayileşme asit yağmurlarına yol açar.",
+       "sayfa": 247
+      },
+      {
+       "id": "3.1.2-04",
+       "tur": "secmeli",
+       "soru": "Yağmur suyunun asitliğine neden olan gazlar hangi seçenekte verilmiştir?",
+       "secenekler": [
+        "Helyum, neon ve argon",
+        "Oksijen, azot ve hidrojen",
+        "CO₂, SO₂ ve azot oksitler",
+        "Metan, etan ve propan"
+       ],
+       "dogru": 2,
+       "bilgi": "Bu gazlar su buharıyla birleşerek H₂CO₃, H₂SO₄ ve HNO₃ gibi asitleri oluşturur.",
+       "sayfa": 247
+      },
+      {
+       "id": "3.1.2-05",
+       "tur": "dy",
+       "ifade": "Atmosferin alt katmanlarında oluşan ozon, UV ışınlarını tutarak canlıları korur.",
+       "dogru": false,
+       "bilgi": "Stratosferdeki ozon UV ışınlarını tutar; atmosferin alt katmanlarında oluşan ozon ise sera etkisine neden olur.",
+       "sayfa": 247
+      },
+      {
+       "id": "3.1.2-06",
+       "tur": "bosluk",
+       "cumle": "Sera etkisi sonucu Dünya'nın sıcaklığının artmasına küresel ___ denir.",
+       "cevap": "ısınma",
+       "celdiriciler": [
+        "soğuma",
+        "kirlenme",
+        "asitlenme"
+       ],
+       "bilgi": "Küresel ısınma buzulların erimesine ve verimli toprakların çölleşmesine neden olur; CO₂ emisyonu azaltılmalıdır.",
+       "sayfa": 248
+      },
+      {
+       "id": "3.1.2-07",
+       "tur": "secmeli",
+       "soru": "Dünya Ozon Günü her yıl hangi tarihte kutlanır?",
+       "secenekler": [
+        "5 Haziran",
+        "23 Ekim",
+        "16 Eylül",
+        "22 Mart"
+       ],
+       "dogru": 2,
+       "bilgi": "16 Eylül Dünya Ozon Günü, ozon tabakasının incelmesi konusunda bilinç oluşturmak için kutlanır.",
+       "sayfa": 247
+      },
+      {
+       "id": "3.1.2-08",
+       "tur": "eslestir",
+       "yonerge": "Küresel çevre sorunlarını açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Sera etkisi",
+         "Gazların Dünya'dan yayılan ısının bir kısmını geri yansıtması"
+        ],
+        [
+         "Asit yağmuru",
+         "Asidik oksitlerin su buharıyla birleşmesiyle oluşan yağış"
+        ],
+        [
+         "Ozon azalımı",
+         "Stratosferdeki ozon derişiminin CFC gibi maddelerle azalması"
+        ],
+        [
+         "Hava kirliliği",
+         "Zararlı maddelerin atmosferde normalden fazla bulunması"
+        ]
+       ],
+       "bilgi": "Hava kirliliğine neden olan başlıca maddeler SO₂, azot oksitler, partikül maddeler, CO ve alt atmosferdeki ozondur.",
+       "sayfa": 246
+      },
+      {
+       "id": "3.1.2-09",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi hava kirliliğinin doğal kaynaklarındandır?",
+       "secenekler": [
+        "Ulaşım",
+        "Yanardağ faaliyetleri",
+        "Sanayi",
+        "Isıtma sistemleri"
+       ],
+       "dogru": 1,
+       "bilgi": "Yanardağ faaliyetleri, orman yangınları ve çöl tozları doğal; ulaşım, sanayi ve ısıtma sistemleri yapay kaynaklardır.",
+       "sayfa": 246
+      },
+      {
+       "id": "3.1.2-10",
+       "tur": "secmeli",
+       "soru": "Kış aylarında stratosferde Antarktika'yı çevreleyen ve ozon tabakasının bozulmasına zemin hazırlayan hava akımına ne ad verilir?",
+       "secenekler": [
+        "Kutup girdabı",
+        "Jet akımı",
+        "Muson",
+        "Alize"
+       ],
+       "dogru": 0,
+       "bilgi": "Kutup girdabında soğuyan hava buz parçacıkları oluşturur; bu yüzeyde klor bileşikleri tepkimeye girip klor radikali oluşturur.",
+       "sayfa": 247
+      },
+      {
+       "id": "3.1.2-11",
+       "tur": "dy",
+       "ifade": "Doğal yollarla ozon üretimi ve tüketimi denge hâlindedir.",
+       "dogru": true,
+       "bilgi": "Doğal dengede ozon derişimi sabit kalır; CFC ve azot oksitler gibi gruplar çoğaldıkça ozon derişimi azalır.",
+       "sayfa": 247
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
