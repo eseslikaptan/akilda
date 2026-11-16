@@ -1,0 +1,2520 @@
+{
+ "kitap": "edebiyat-9",
+ "ders": "edebiyat",
+ "sinif": 9,
+ "baslik": "Türk Dili Ve Edebiyatı 9. Sınıf Ders Kitabı",
+ "sayfaUrl": "https://tymm.meb.gov.tr/kitap/45/turk-dili-ve-edebiyati-9sinif-ders-kitabi",
+ "pdfUrl": "https://tymm.meb.gov.tr/assets/pdf/turk-dili-ve-edebiyati-9sinif-ders-kitabi_20261006_100252_162.pdf",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Sözün İnceliği",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Okuma: Şiir",
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "secmeli",
+       "soru": "Güzel sanatlar malzemeye, hitap ettiği duyuya ve sergilendiği yere göre gruplandırılır. Edebiyat bu sınıflamada hangi gruptadır?",
+       "secenekler": [
+        "Plastik (görsel) sanatlar",
+        "Ritmik (dramatik) sanatlar",
+        "Fonetik (işitsel) sanatlar"
+       ],
+       "dogru": 2,
+       "bilgi": "Güzel sanatlar plastik (görsel), fonetik (işitsel) ve ritmik (dramatik) olarak üçe ayrılır; edebiyat ve müzik fonetik sanatlardandır.",
+       "sayfa": 23
+      },
+      {
+       "id": "1.1-02",
+       "tur": "dy",
+       "ifade": "Tiyatro, bale, opera ve sinema güzel sanatlar içinde ritmik (dramatik) sanatlar grubunda yer alır.",
+       "dogru": true,
+       "bilgi": "Tiyatro, bale, opera, dans ve sinema ritmik (dramatik) sanatlardır; resim, hat, ebru, minyatür, heykel ve mimari ise plastik sanatlardır.",
+       "sayfa": 23
+      },
+      {
+       "id": "1.1-03",
+       "tur": "bosluk",
+       "cumle": "Edebiyat hiçbir maddi malzemeye, alete veya mekâna bağlı olmayan, bütünüyle ___ bir sanattır.",
+       "cevap": "zihinsel",
+       "celdiriciler": [
+        "plastik",
+        "dramatik",
+        "somut"
+       ],
+       "bilgi": "Edebiyat maddi bir malzemeye bağlı değildir; bütünüyle zihinsel bir sanattır ve gücünü malzemesi olan dilden alır.",
+       "sayfa": 24
+      },
+      {
+       "id": "1.1-04",
+       "tur": "bosluk",
+       "cumle": "Yazar ya da şairin dış dünyadaki gerçekliği kendi süzgecinden geçirerek aktardığı edebî metinler ___ metinlerdir.",
+       "cevap": "kurmaca",
+       "celdiriciler": [
+        "öğretici",
+        "bilgilendirici",
+        "nesnel"
+       ],
+       "bilgi": "Edebî metinler kurmacadır; öğretici metinler ise gerçekliği olduğu gibi yansıtıp nesnel bilgi verir.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.1-05",
+       "tur": "secmeli",
+       "soru": "Duyularla ifade edilemeyen bir şeyi belirten somut nesne veya işarete ne ad verilir?",
+       "secenekler": [
+        "Sembol",
+        "İmge",
+        "Çağrışım",
+        "Tema"
+       ],
+       "dogru": 0,
+       "bilgi": "Sembol, duyularla ifade edilemeyen bir şeyi belirten somut nesne veya işarettir; örneğin bir şiirde köşe kelimesi gönlü sembolize edebilir.",
+       "sayfa": 29
+      },
+      {
+       "id": "1.1-06",
+       "tur": "bosluk",
+       "cumle": "Şair ve yazarların kelimelere yeni anlamlar yüklemesiyle ortaya çıkan ve edebî sanatlara zemin hazırlayan unsura ___ denir.",
+       "cevap": "imge",
+       "celdiriciler": [
+        "sembol",
+        "ileti",
+        "tema"
+       ],
+       "bilgi": "Dildeki kelimeler sınırlı, sanatçının hayalleri sınırsız olduğundan kelimelere yeni anlamlar yüklenir ve böylece imge oluşur.",
+       "sayfa": 29
+      },
+      {
+       "id": "1.1-07",
+       "tur": "secmeli",
+       "soru": "Teşbih (benzetme) sanatında bulunması zorunlu olan temel ögeler hangileridir?",
+       "secenekler": [
+        "Benzetme yönü ve benzetme edatı",
+        "Benzeyen ve benzetme edatı",
+        "Benzetilen ve benzetme yönü",
+        "Benzeyen ve benzetilen"
+       ],
+       "dogru": 3,
+       "bilgi": "Teşbihin temel ögeleri benzeyen ve benzetilen, yardımcı ögeleri benzetme yönü ve benzetme edatıdır (gibi, kadar, sanki vb.).",
+       "sayfa": 29
+      },
+      {
+       "id": "1.1-08",
+       "tur": "dy",
+       "ifade": "Benzetmede yalnızca benzeyen unsurun kullanılmasıyla yapılan istiareye açık istiare denir.",
+       "dogru": false,
+       "bilgi": "Yalnızca benzeyen söylenirse kapalı istiare, yalnızca benzetilen söylenirse açık istiare (eğretileme) yapılmış olur.",
+       "sayfa": 29
+      },
+      {
+       "id": "1.1-09",
+       "tur": "secmeli",
+       "soru": "Bir sözü gerçek anlamı dışında, benzetme amacı gütmeden başka bir söz yerine kullanma sanatı hangisidir? (Ör. hilâl sözünün Türk bayrağı yerine kullanılması)",
+       "secenekler": [
+        "Teşhis (kişileştirme)",
+        "Mecazımürsel (ad aktarması)",
+        "Kapalı istiare",
+        "Tecahülüarif (bilmezlikten gelme)"
+       ],
+       "dogru": 1,
+       "bilgi": "Benzetme amacı gütmeden bir sözü başka bir söz yerine kullanmaya mecazımürsel (ad aktarması) denir.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.1-10",
+       "tur": "bosluk",
+       "cumle": "Şiirde insana ait özelliklerin insan dışı varlıklara yüklenmesine ___ denir.",
+       "cevap": "teşhis",
+       "celdiriciler": [
+        "tenasüp",
+        "mübalağa",
+        "tezat"
+       ],
+       "bilgi": "İnsana ait özellikleri insan dışı varlıklara yüklemek teşhis (kişileştirme), onları insan gibi konuşturmak intak (konuşturma) sanatıdır.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.1-11",
+       "tur": "eslestir",
+       "yonerge": "Edebî sanatları tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Tezat",
+         "Anlamca karşıt kelimeleri bir arada kullanma"
+        ],
+        [
+         "Tenasüp",
+         "Aynı konuyla ilgili kelimeleri bir arada kullanma"
+        ],
+        [
+         "Tecahülüarif",
+         "Bilinen bir gerçeği bilmiyormuş gibi davranma"
+        ],
+        [
+         "Hüsnütalil",
+         "Bir olayı güzel ve hayalî bir nedene bağlama"
+        ],
+        [
+         "Telmih",
+         "Geçmişteki önemli bir olayı ya da ünlü bir kişiyi hatırlatma"
+        ]
+       ],
+       "bilgi": "Tezat zıtlık, tenasüp uygunluk, tecahülüarif bilmezlikten gelme, hüsnütalil güzel nedene bağlama, telmih hatırlatma sanatıdır.",
+       "sayfa": 31
+      },
+      {
+       "id": "1.1-12",
+       "tur": "secmeli",
+       "soru": "Edebî metinde sanatçının okura hissettirdiği, sezdirdiği ve okurun çıkarımda bulunmasını gerektiren iletilere ne ad verilir?",
+       "secenekler": [
+        "Örtük ileti",
+        "Açık ileti",
+        "Ana düşünce",
+        "Yardımcı düşünce"
+       ],
+       "dogru": 0,
+       "bilgi": "Açık iletiler duygu ve düşünceleri doğrudan aktarır; örtük iletiler ise sezdirilir ve okurun hayal dünyasını harekete geçirir.",
+       "sayfa": 34
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "Okuma: Deneme",
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "secmeli",
+       "soru": "Yazarın seçtiği bir konuda kesin sonuçlara varmadan kişisel görüşlerini içten ve yapmacıksız bir dille anlattığı metin türü hangisidir?",
+       "secenekler": [
+        "Makale",
+        "Fıkra",
+        "Deneme",
+        "Eleştiri"
+       ],
+       "dogru": 2,
+       "bilgi": "Deneme, yazarın seçtiği bir konuda kesin sonuçlara varmadan kişisel görüş ve düşüncelerini anlattığı metin türüdür.",
+       "sayfa": 47
+      },
+      {
+       "id": "1.2-02",
+       "tur": "bosluk",
+       "cumle": "Denemeyi bir tür olarak ortaya koyan ve onu diğer türlerden ayıran yazar ___'dir.",
+       "cevap": "Montaigne",
+       "celdiriciler": [
+        "André Gide",
+        "Balzac",
+        "Çehov"
+       ],
+       "bilgi": "Deneme türünü ortaya koyan ve diğer türlerden ayıran yazar Montaigne'dir (Monteyn).",
+       "sayfa": 47
+      },
+      {
+       "id": "1.2-03",
+       "tur": "dy",
+       "ifade": "Deneme yazarı, ileri sürdüğü düşünceleri bilimsel verilerle kanıtlamak zorundadır.",
+       "dogru": false,
+       "bilgi": "Denemede anlatılanları kanıtlama zorunluluğu yoktur; düşünceler kesin sonuçlara varılmadan, iddiasız biçimde aktarılır.",
+       "sayfa": 46
+      },
+      {
+       "id": "1.2-04",
+       "tur": "dy",
+       "ifade": "Deneme yazarı gözlem ve deneyimlerinden yararlanır, kendisiyle konuşur gibi içten bir anlatımı yeğler.",
+       "dogru": true,
+       "bilgi": "Denemede sanat, edebiyat, doğa, yaşam gibi insanla ilgili konular gözlem ve deneyime dayanarak samimi bir dille işlenir.",
+       "sayfa": 47
+      },
+      {
+       "id": "1.2-05",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi Türk edebiyatında deneme türünün tanınmış temsilcilerinden biridir?",
+       "secenekler": [
+        "Ahmet Muhip Dıranas",
+        "Nurullah Ataç",
+        "Karacaoğlan",
+        "Halit Fahri Ozansoy"
+       ],
+       "dogru": 1,
+       "bilgi": "Nurullah Ataç, Sabahattin Eyuboğlu, Suut Kemal Yetkin, Salah Birsel ve Şevket Rado Türk edebiyatında denemenin tanınmış temsilcilerindendir.",
+       "sayfa": 47
+      },
+      {
+       "id": "1.2-06",
+       "tur": "eslestir",
+       "yonerge": "Yazarları eserleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Rasim Özdenören",
+         "Ruhun Malzemeleri"
+        ],
+        [
+         "Suut Kemal Yetkin",
+         "Denemeler"
+        ],
+        [
+         "Şevket Rado",
+         "Eşref Saat"
+        ],
+        [
+         "Sezai Karakoç",
+         "Farklar"
+        ]
+       ],
+       "bilgi": "Picasso'nun Hatları denemesi Rasim Özdenören'in Ruhun Malzemeleri'nde, Canım Kitap denemesi Suut Kemal Yetkin'in Denemeler'inde yer alır.",
+       "sayfa": 48
+      },
+      {
+       "id": "1.2-07",
+       "tur": "secmeli",
+       "soru": "Kahramanmaraş doğumlu, öykü kitaplarıyla şöhret kazanan Rasim Özdenören'in kurduğu dergi hangisidir?",
+       "secenekler": [
+        "Akbaba",
+        "Karikatür",
+        "Diriliş",
+        "Mavera"
+       ],
+       "dogru": 3,
+       "bilgi": "Rasim Özdenören (1940-2022) Mavera dergisini kurmuş, edebiyattaki şöhretini öykü kitaplarıyla sağlamıştır.",
+       "sayfa": 45
+      },
+      {
+       "id": "1.2-08",
+       "tur": "bosluk",
+       "cumle": "Rasim Özdenören, Hastalar ve Işıklar'dan İmkânsız Öyküler'e uzanan eserleriyle şöhretini en çok ___ türünde kazanmıştır.",
+       "cevap": "öykü",
+       "celdiriciler": [
+        "roman",
+        "şiir",
+        "tiyatro"
+       ],
+       "bilgi": "Rasim Özdenören on öykü kitabı yazmış; kültürel ve sosyal değişimin bireyde ve ailede yol açtığı çarpıklıkları işlemiştir.",
+       "sayfa": 45
+      },
+      {
+       "id": "1.2-09",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki eserlerden hangisi Rasim Özdenören'in romanıdır?",
+       "secenekler": [
+        "Ansızın Yola Çıkmak",
+        "Çözülme",
+        "İki Dünya",
+        "Gül Yetiştiren Adam"
+       ],
+       "dogru": 3,
+       "bilgi": "Gül Yetiştiren Adam Özdenören'in romanıdır; Ansızın Yola Çıkmak, Kuyu ve Çözülme hikâye, İki Dünya ise deneme kitabıdır.",
+       "sayfa": 45
+      },
+      {
+       "id": "1.2-10",
+       "tur": "bosluk",
+       "cumle": "Yazı sayesinde ___ ve mekân kavramları aşılır; bu yüzden yazmak da konuşmak kadar vazgeçilmez bir iletişim aracıdır.",
+       "cevap": "zaman",
+       "celdiriciler": [
+        "dil",
+        "duygu",
+        "bilgi"
+       ],
+       "bilgi": "Yazmakla zaman ve mekân aşılır; insan dille düşünür ve dil aracılığıyla hisseder.",
+       "sayfa": 46
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "Edebiyat Atölyesi: Yazma",
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "secmeli",
+       "soru": "Bir tablodaki varlıkların hissettirdiklerini dizelere dönüştürmeye dayanan, resimle şiirin ortaklığından doğan gelenek hangisidir?",
+       "secenekler": [
+        "Nazire yazma",
+        "Tablo altına şiir yazma",
+        "Şiiri düzyazıya çevirme",
+        "Şiir haritası"
+       ],
+       "dogru": 1,
+       "bilgi": "Tablo altına şiir yazma, resimle şiirin ortaklığından doğan ve Türk edebiyatında bir dönem etkili olmuş bir gelenektir.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.3-02",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki şairlerden hangisi tablo altına şiir yazan şairlerdendir?",
+       "secenekler": [
+        "Tevfik Fikret",
+        "Karacaoğlan",
+        "Yunus Emre",
+        "Erzurumlu İbrahim Hakkı"
+       ],
+       "dogru": 0,
+       "bilgi": "Recaizade Mahmut Ekrem, Cenap Şahabettin ve Tevfik Fikret tablo altına şiir yazan şairlerdendir.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.3-03",
+       "tur": "bosluk",
+       "cumle": "Niteleyici kelime ve kelime gruplarıyla yapılan betimleme, sözcüklerle ___ yapmaya benzer.",
+       "cevap": "resim",
+       "celdiriciler": [
+        "müzik",
+        "heykel",
+        "sohbet"
+       ],
+       "bilgi": "Betimleme sözcüklerle resim yapmaktır; okurun zihninde anlatılan duygu, düşünce ve hayali bütün açıklığıyla canlandırmalıdır.",
+       "sayfa": 55
+      },
+      {
+       "id": "1.3-04",
+       "tur": "dy",
+       "ifade": "Yazılı üründe söz varlığını zenginleştirmek için dilimize henüz yerleşmemiş yabancı kelimeler tercih edilmelidir.",
+       "dogru": false,
+       "bilgi": "Söz varlığı ölçütüne göre dilimize henüz yerleşmemiş yabancı kelimeler yerine Türkçe kelimeler kullanılmalıdır.",
+       "sayfa": 53
+      },
+      {
+       "id": "1.3-05",
+       "tur": "secmeli",
+       "soru": "İngilizcede “blog” olarak bilinen kişisel yazı paylaşım sayfasının Türkçe karşılığı hangisidir?",
+       "secenekler": [
+        "Öğrenme günlüğü",
+        "Çıkış kartı",
+        "Ağ günlüğü",
+        "Zihin haritası"
+       ],
+       "dogru": 2,
+       "bilgi": "Blog kelimesinin Türkçe karşılığı ağ günlüğüdür.",
+       "sayfa": 51
+      }
+     ]
+    },
+    {
+     "no": "1.4",
+     "ad": "Dinleme/İzleme: Mülakat",
+     "kartlar": [
+      {
+       "id": "1.4-01",
+       "tur": "secmeli",
+       "soru": "Alanında ünlü kişileri tanıtmak ve görüşlerini öğrenmek amacıyla zamanı önceden belirlenmiş, sorulu cevaplı karşılıklı konuşmaya ne denir?",
+       "secenekler": [
+        "Anı",
+        "Biyografi",
+        "Mülakat",
+        "Deneme"
+       ],
+       "dogru": 2,
+       "bilgi": "Mülakat; ünlü kişileri çeşitli yönleriyle tanıtmak, önemli olaylarla ilgili düşüncelerini öğrenmek için yapılan sorulu cevaplı konuşmadır.",
+       "sayfa": 62
+      },
+      {
+       "id": "1.4-02",
+       "tur": "dy",
+       "ifade": "Mülakatta görüşmeci, aldığı cevapları okurun ilgisini çekecek biçimde değiştirerek aktarabilir.",
+       "dogru": false,
+       "bilgi": "Görüşmeci cevapları değiştirmeden aktarmalı; metin kurgulanırken konuşmaların içeriği değiştirilmemeli, görüşler saptırılmamalıdır.",
+       "sayfa": 62
+      },
+      {
+       "id": "1.4-03",
+       "tur": "dy",
+       "ifade": "Görüşmeci, mülakat yapacağı kişi hakkında önceden araştırma yapmalı ve sorularını hazırlamalıdır.",
+       "dogru": true,
+       "bilgi": "Görüşmeci önceden bilgi toplar, soru hazırlar; görüşmede konuşmacının sözünü kesmez ve gereksiz sorularla konuyu dağıtmaz.",
+       "sayfa": 62
+      },
+      {
+       "id": "1.4-04",
+       "tur": "bosluk",
+       "cumle": "Mülakat yapan görüşmeci, sorularını hazırlarken ___ davranmaya özen göstermelidir.",
+       "cevap": "yansız",
+       "celdiriciler": [
+        "taraflı",
+        "öznel",
+        "duygusal"
+       ],
+       "bilgi": "Görüşmeci sorularını yansız biçimde ve okurun öğrenme isteğini giderecek şekilde hazırlamalıdır.",
+       "sayfa": 62
+      },
+      {
+       "id": "1.4-05",
+       "tur": "secmeli",
+       "soru": "Selim İleri'nin 1973'te yazdığı ilk romanı hangisidir?",
+       "secenekler": [
+        "Destan Gönüller",
+        "Her Gece Bodrum",
+        "Dostlukların Son Günü",
+        "Cumartesi Yalnızlığı"
+       ],
+       "dogru": 0,
+       "bilgi": "Selim İleri'nin ilk romanı Destan Gönüller (1973), ilk hikâye kitabı ise 19 yaşında yayımladığı Cumartesi Yalnızlığı/Güz Notları'dır.",
+       "sayfa": 57
+      },
+      {
+       "id": "1.4-06",
+       "tur": "eslestir",
+       "yonerge": "Selim İleri'nin eserlerini aldıkları ödüllerle eşleştir.",
+       "ciftler": [
+        [
+         "Dostlukların Son Günü",
+         "Sait Faik Hikâye Armağanı"
+        ],
+        [
+         "Her Gece Bodrum",
+         "Türk Dil Kurumu Roman Ödülü"
+        ],
+        [
+         "Uzak, Hep Uzak",
+         "Sedat Simavi Edebiyat Ödülü"
+        ],
+        [
+         "Bu Yaz Ayrılığın İlk Yazı Olacak",
+         "Orhan Kemal Roman Armağanı"
+        ]
+       ],
+       "bilgi": "Selim İleri 1976'da Sait Faik Hikâye Armağanı'nı, 1977'de TDK Roman Ödülü'nü, 2003'te Sedat Simavi Edebiyat Ödülü'nü almıştır.",
+       "sayfa": 57
+      },
+      {
+       "id": "1.4-07",
+       "tur": "bosluk",
+       "cumle": "Roman, hikâye ve gezi yazısı türlerinde eser veren Selim İleri, Türk edebiyatında daha çok ___ kimliğiyle öne çıkar.",
+       "cevap": "romancı",
+       "celdiriciler": [
+        "şair",
+        "eleştirmen",
+        "gezgin"
+       ],
+       "bilgi": "Selim İleri romanlarında biçim ve içerik bakımından geleneksel romanın dışında bir anlayış yansıtmıştır.",
+       "sayfa": 57
+      },
+      {
+       "id": "1.4-08",
+       "tur": "bosluk",
+       "cumle": "Selim İleri'ye 1998 yılında ___ unvanı verilmiştir.",
+       "cevap": "Devlet Sanatçısı",
+       "celdiriciler": [
+        "Halk Ozanı",
+        "Onursal Profesör",
+        "Kültür Elçisi"
+       ],
+       "bilgi": "Selim İleri 1998'de Devlet Sanatçısı unvanını, 2012'de Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülü'nü almıştır.",
+       "sayfa": 57
+      },
+      {
+       "id": "1.4-09",
+       "tur": "eslestir",
+       "yonerge": "Metin kavramlarını açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Ana metin",
+         "Tema amaçlarına ulaşmak için çözümlenmesi gereken metin"
+        ],
+        [
+         "Ara metin",
+         "Ana metnin tahliline katkı sağlayan, karşılaştırma için kullanılan metin"
+        ],
+        [
+         "Çok modlu metin",
+         "Birden fazla duyuya aynı anda hitap eden metin"
+        ]
+       ],
+       "bilgi": "Çok modlu metinler dilsel ve işitsel ögelerle dinleme/izleme ögelerini barındırır; mülakat videoları buna örnektir.",
+       "sayfa": 11
+      }
+     ]
+    },
+    {
+     "no": "1.5",
+     "ad": "Edebiyat Atölyesi: Konuşma",
+     "kartlar": [
+      {
+       "id": "1.5-01",
+       "tur": "secmeli",
+       "soru": "Sözün gücünü “Söz ola kese savaşı / Söz ola kestire başı” dizeleriyle dile getiren şair kimdir?",
+       "secenekler": [
+        "Karacaoğlan",
+        "Âşık Ömer",
+        "Erzurumlu İbrahim Hakkı",
+        "Yunus Emre"
+       ],
+       "dogru": 3,
+       "bilgi": "Yunus Emre, sözün gücünü ve doğru kullanımının önemini “Söz ola kese savaşı” dizeleriyle ölümsüzleştirmiştir.",
+       "sayfa": 63
+      },
+      {
+       "id": "1.5-02",
+       "tur": "bosluk",
+       "cumle": "Duygu ve düşünceleri doğru ve etkili biçimde aktarmada en etkili ifade şekli ___ olarak kabul edilir.",
+       "cevap": "konuşma",
+       "celdiriciler": [
+        "yazma",
+        "beden dili",
+        "resim"
+       ],
+       "bilgi": "İnsanı diğer canlılardan ayıran, düşündüklerini doğru ve etkili ifade edebilmesidir; en etkili ifade şekli konuşmadır.",
+       "sayfa": 63
+      },
+      {
+       "id": "1.5-03",
+       "tur": "eslestir",
+       "yonerge": "Konuşma değerlendirme ölçütlerini açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Beden dili",
+         "Jest ve mimikleri etkili kullanma, göz teması kurma"
+        ],
+        [
+         "Akıcılık",
+         "Vurgu ve tonlamaya dikkat ederek, ses tekrarı yapmadan konuşma"
+        ],
+        [
+         "Planlama",
+         "Etkili bir giriş yapma, konuşmayı sürdürme ve tamamlama"
+        ],
+        [
+         "Zaman yönetimi",
+         "Konuşmada süreyi etkin kullanma"
+        ]
+       ],
+       "bilgi": "Etkili konuşma planlama, söz varlığı, akıcılık, beden dili ve zaman yönetimi gibi ölçütlerle değerlendirilir.",
+       "sayfa": 65
+      },
+      {
+       "id": "1.5-04",
+       "tur": "dy",
+       "ifade": "Konuşma yalnızca bilgi aktarımı değil, duyguları ifade etmenin ve başkalarına ilham vermenin de güçlü bir aracıdır.",
+       "dogru": true,
+       "bilgi": "Konuşma bilgi aktarmanın yanında duyguları ifade etmenin, ilham vermenin ve değişim başlatmanın aracıdır.",
+       "sayfa": 65
+      },
+      {
+       "id": "1.5-05",
+       "tur": "dy",
+       "ifade": "Etkili konuşmada dinleyicilerle göz teması kurmak konuşmanın akışını bozduğu için önerilmez.",
+       "dogru": false,
+       "bilgi": "Beden dili ölçütüne göre konuşmacı jest ve mimikleri etkili kullanmalı, dinleyicilerle yeterli göz teması kurmalıdır.",
+       "sayfa": 65
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Anlam Arayışı",
+   "konular": [
+    {
+     "no": "2.1",
+     "ad": "Okuma: Hikâye",
+     "kartlar": [
+      {
+       "id": "2.1-01",
+       "tur": "secmeli",
+       "soru": "1964'te sahnelenen ve Türk edebiyatındaki ilk epik tiyatro örneği kabul edilen Keşanlı Ali Destanı'nın yazarı kimdir?",
+       "secenekler": [
+        "Sait Faik Abasıyanık",
+        "Haldun Taner",
+        "Memduh Şevket Esendal",
+        "Faruk Nafiz Çamlıbel"
+       ],
+       "dogru": 1,
+       "bilgi": "Haldun Taner'in Keşanlı Ali Destanı (1964) Türk edebiyatındaki ilk epik tiyatro örneği kabul edilir.",
+       "sayfa": 91
+      },
+      {
+       "id": "2.1-02",
+       "tur": "secmeli",
+       "soru": "Haldun Taner, özellikle kabare oyunlarında hangi geleneksel unsurlardan yararlanmıştır?",
+       "secenekler": [
+        "Ortaoyunu, meddah ve Karagöz",
+        "Destan, masal ve efsane",
+        "Gazel, kaside, rubai ve şarkı",
+        "Mani, ninni ve ağıt"
+       ],
+       "dogru": 0,
+       "bilgi": "Öyküyle başlayıp tiyatroyla devam eden Haldun Taner, kabare oyunlarında geleneksel Türk tiyatrosunun unsurlarını kullanmıştır.",
+       "sayfa": 91
+      },
+      {
+       "id": "2.1-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi Haldun Taner'in hikâye kitaplarındandır?",
+       "secenekler": [
+        "Keşanlı Ali Destanı",
+        "Günün Adamı",
+        "Şişhane'ye Yağmur Yağıyordu",
+        "Dışardakiler"
+       ],
+       "dogru": 2,
+       "bilgi": "On İkiye Bir Var, Şişhane'ye Yağmur Yağıyordu ve Konçinalar hikâye; Keşanlı Ali Destanı, Günün Adamı ve Dışardakiler tiyatro eseridir.",
+       "sayfa": 91
+      },
+      {
+       "id": "2.1-04",
+       "tur": "eslestir",
+       "yonerge": "Hikâyeleri yazarlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Bir Kavak ve İnsanlar",
+         "Haldun Taner"
+        ],
+        [
+         "Hişt, Hişt!",
+         "Sait Faik Abasıyanık"
+        ],
+        [
+         "Herkesin Dostu",
+         "Stefan Zweig"
+        ]
+       ],
+       "bilgi": "Bir Kavak ve İnsanlar Haldun Taner'in, Hişt, Hişt! Sait Faik'in, Herkesin Dostu ise Stefan Zweig'in hikâyesidir.",
+       "sayfa": 86
+      },
+      {
+       "id": "2.1-05",
+       "tur": "secmeli",
+       "soru": "Hikâye türünde kahramanların hayatı nasıl ele alınır?",
+       "secenekler": [
+        "Hayatlarının tamamı ayrıntılarıyla anlatılır",
+        "Hayatlarının yalnızca kısa bir bölümü anlatılır",
+        "Kişilik özellikleri derinlemesine çözümlenir",
+        "Birden çok ana olay paralel olarak ayrıntılı işlenir"
+       ],
+       "dogru": 1,
+       "bilgi": "Hikâyede kahramanların kişilik özellikleri derinlemesine anlatılmaz, hayatlarının kısa bir bölümü verilir ve genellikle bir ana olay vardır.",
+       "sayfa": 84
+      },
+      {
+       "id": "2.1-06",
+       "tur": "bosluk",
+       "cumle": "Yaşanmış ya da ___ olaylar hikâyenin konusunu oluşturur.",
+       "cevap": "yaşanabilir",
+       "celdiriciler": [
+        "olağanüstü",
+        "masalsı",
+        "efsanevi"
+       ],
+       "bilgi": "Her hikâyede bir olay ya da durum, olayın geçtiği mekân, zaman dilimi ve olayı yaşayan kişiler bulunur.",
+       "sayfa": 84
+      },
+      {
+       "id": "2.1-07",
+       "tur": "bosluk",
+       "cumle": "Kahramanları çoklukla hayvanlardan seçilen, sonunda ders verme amacı güden, genellikle manzum hikâyelere ___ denir.",
+       "cevap": "fabl",
+       "celdiriciler": [
+        "masal",
+        "destan",
+        "mesnevi"
+       ],
+       "bilgi": "Fabl; kahramanları çoğunlukla hayvan olan, ders vermeyi amaçlayan, genellikle manzum hikâyedir.",
+       "sayfa": 84
+      },
+      {
+       "id": "2.1-08",
+       "tur": "secmeli",
+       "soru": "Bir metindeki temel duygu ve düşünceye ne ad verilir?",
+       "secenekler": [
+        "Konu",
+        "Çatışma",
+        "Olay örgüsü",
+        "Tema"
+       ],
+       "dogru": 3,
+       "bilgi": "Tema bir metindeki temel duygu ve düşüncedir; konu, kişiler, mekân ve olayları etrafında toplayan bir atmosfer gibidir.",
+       "sayfa": 87
+      },
+      {
+       "id": "2.1-09",
+       "tur": "dy",
+       "ifade": "Temayı ifade eden kavramlar somut kavramlardır.",
+       "dogru": false,
+       "bilgi": "Temayı ifade eden kavramlar soyuttur; temanın somutlaştırılmış şekli metnin konusunu oluşturur.",
+       "sayfa": 87
+      },
+      {
+       "id": "2.1-10",
+       "tur": "bosluk",
+       "cumle": "Hikâyede farklı fikir, özellik ya da hayat tarzlarından kaynaklanan anlaşmazlık durumlarına ___ denir.",
+       "cevap": "çatışma",
+       "celdiriciler": [
+        "tema",
+        "olay örgüsü",
+        "kişi kadrosu"
+       ],
+       "bilgi": "Kurmaca metinlerde kişilerin yaşadığı sorunlar çatışmalara, çatışmalar da olayların gelişmesine yol açar.",
+       "sayfa": 75
+      },
+      {
+       "id": "2.1-11",
+       "tur": "secmeli",
+       "soru": "Konuşma organlarını kullanmadan metnin anlamının göz ve zihin ilişkisiyle kavranmasına ne denir?",
+       "secenekler": [
+        "Sesli okuma",
+        "Eleştirel okuma",
+        "Söz korosu",
+        "Sessiz okuma"
+       ],
+       "dogru": 3,
+       "bilgi": "Sessiz okuma, anlamın göz ve zihin ilişkisiyle kavranmasıdır; hızlı ve etkin okuma sessiz okumayla gerçekleştirilir.",
+       "sayfa": 76
+      },
+      {
+       "id": "2.1-12",
+       "tur": "bosluk",
+       "cumle": "Sessiz okumada sözcükleri ___ bir kusurdur ve okuma hızını düşürür.",
+       "cevap": "mırıldanmak",
+       "celdiriciler": [
+        "göz gezdirmek",
+        "not almak",
+        "altını çizmek"
+       ],
+       "bilgi": "Sessiz okuma mırıldanmak değildir; mırıldanmak bir kusurdur ve okuma hızını düşürür.",
+       "sayfa": 76
+      }
+     ]
+    },
+    {
+     "no": "2.2",
+     "ad": "Okuma: Anı",
+     "kartlar": [
+      {
+       "id": "2.2-01",
+       "tur": "secmeli",
+       "soru": "Yazarın kendi bakış açısıyla, hayatının tamamına ya da bir bölümüne ait deneyim ve olayları sonradan aktardığı yazı türü hangisidir?",
+       "secenekler": [
+        "Günlük",
+        "Anı",
+        "Biyografi",
+        "Hikâye"
+       ],
+       "dogru": 1,
+       "bilgi": "Anı; yazarın hayatına ya da hayatının bir bölümüne ait düşünce, deneyim ve olayları kendi bakış açısıyla aktardığı türdür.",
+       "sayfa": 107
+      },
+      {
+       "id": "2.2-02",
+       "tur": "dy",
+       "ifade": "Günlüklerde de anılarda olduğu gibi olaylar, üzerinden uzun bir süre geçtikten sonra kaleme alınır.",
+       "dogru": false,
+       "bilgi": "Günlüklerde yaşananlar günü gününe yazılır; anılarda ise olaylar üzerinden bir süre geçtikten sonra kaleme alınır.",
+       "sayfa": 112
+      },
+      {
+       "id": "2.2-03",
+       "tur": "secmeli",
+       "soru": "Anıyı otobiyografiden ayıran temel özellik hangisidir?",
+       "secenekler": [
+        "Çevre, zaman ve kişiler hakkında da bilgi vermesi",
+        "Kişinin özel hayatını anlatması",
+        "Birinci kişi ağzından yazılması",
+        "Yazarın kendi duygu ve düşüncelerine geniş yer vermesi"
+       ],
+       "dogru": 0,
+       "bilgi": "Otobiyografide anlatılanlar kişinin kendisiyle sınırlıdır; anıda ise olayın yaşandığı çevre, zaman ve kişiler de anlatılır.",
+       "sayfa": 112
+      },
+      {
+       "id": "2.2-04",
+       "tur": "bosluk",
+       "cumle": "Türk edebiyatında anı türünde yazılmış ilk eser kabul edilen Bâbürname'yi 16. yüzyılda ___ yazmıştır.",
+       "cevap": "Babür Şah",
+       "celdiriciler": [
+        "Evliya Çelebi",
+        "Ali Şir Nevai",
+        "Fuzûlî"
+       ],
+       "bilgi": "Babür Şah'ın 16. yüzyılda yazdığı Bâbürname, Türk edebiyatında anı türündeki ilk eser kabul edilir.",
+       "sayfa": 112
+      },
+      {
+       "id": "2.2-05",
+       "tur": "bosluk",
+       "cumle": "Türk edebiyatının ilk yazılı metinleri olan ___, söylev türünün yanında anı türünün özelliklerini de taşır.",
+       "cevap": "Kök Türk Kitabeleri",
+       "celdiriciler": [
+        "Divanü Lügati't-Türk",
+        "Kutadgu Bilig",
+        "Dede Korkut Hikâyeleri"
+       ],
+       "bilgi": "Kök Türk Kitabeleri hem söylev hem anı özellikleri taşır; anı türü Tanzimat Dönemi'nden sonra yaygınlaşmıştır.",
+       "sayfa": 112
+      },
+      {
+       "id": "2.2-06",
+       "tur": "bosluk",
+       "cumle": "Divan edebiyatında vakayiname, sefaretname, seyahatname ve ___ türündeki eserlerde yer yer anı özelliği taşıyan bölümler bulunur.",
+       "cevap": "tezkire",
+       "celdiriciler": [
+        "gazel",
+        "kaside",
+        "rubai"
+       ],
+       "bilgi": "Vakayiname, sefaretname, seyahatname ve tezkirelerde tanınmış kişilerden ve olaylardan söz edildiği için anı özellikli bölümler bulunur.",
+       "sayfa": 112
+      },
+      {
+       "id": "2.2-07",
+       "tur": "secmeli",
+       "soru": "Batı edebiyatında geçmişi MÖ 2. yüzyıla uzanan anı türü hangi yüzyılda önem kazanıp yaygınlaşmıştır?",
+       "secenekler": [
+        "13. yüzyıl",
+        "15. yüzyıl",
+        "17. yüzyıl",
+        "19. yüzyıl"
+       ],
+       "dogru": 2,
+       "bilgi": "Anı türü Batı'da 17. yüzyılda yaygınlaştı; politikacı ve sanatçıların yaptıklarını gelecek kuşaklara aktarma isteği bunu sağladı.",
+       "sayfa": 112
+      },
+      {
+       "id": "2.2-08",
+       "tur": "eslestir",
+       "yonerge": "Yazarları anı türündeki eserleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Halide Nusret Zorlutuna",
+         "Bir Devrin Romanı"
+        ],
+        [
+         "Halit Ziya Uşaklıgil",
+         "Kırk Yıl"
+        ],
+        [
+         "Afet İnan",
+         "Atatürk Hakkında Hatıralar ve Belgeler"
+        ],
+        [
+         "Babür Şah",
+         "Bâbürname"
+        ]
+       ],
+       "bilgi": "Bir Devrin Romanı (Halide Nusret Zorlutuna) ve Kırk Yıl (Halit Ziya Uşaklıgil) Türk edebiyatının bilinen anı eserlerindendir.",
+       "sayfa": 108
+      },
+      {
+       "id": "2.2-09",
+       "tur": "secmeli",
+       "soru": "Anı türünden yararlanılarak yazılan Dokuzuncu Hariciye Koğuşu adlı roman kime aittir?",
+       "secenekler": [
+        "Ömer Seyfettin",
+        "Orhan Kemal",
+        "Peyami Safa",
+        "Halit Ziya Uşaklıgil"
+       ],
+       "dogru": 2,
+       "bilgi": "Peyami Safa Dokuzuncu Hariciye Koğuşu'nu; Ömer Seyfettin Kaşağı ve İlk Namaz'ı, Orhan Kemal Sağ İç'i anıdan yararlanarak yazmıştır.",
+       "sayfa": 115
+      },
+      {
+       "id": "2.2-10",
+       "tur": "secmeli",
+       "soru": "İlk eseri Küller romanı bir kadın tarafından yazıldığı için çok ilgi gören, Bir Devrin Romanı adlı anısıyla bilinen sanatçı kimdir?",
+       "secenekler": [
+        "Halide Nusret Zorlutuna",
+        "Halide Edip Adıvar",
+        "Şükûfe Nihal Başar",
+        "Afet İnan"
+       ],
+       "dogru": 0,
+       "bilgi": "Halide Nusret Zorlutuna (1901-1984), Küller romanında mektup ve anı türlerinden de yararlanmıştır.",
+       "sayfa": 106
+      },
+      {
+       "id": "2.2-11",
+       "tur": "dy",
+       "ifade": "Halide Nusret Zorlutuna, romanlarının yanında aruz ölçüsüyle yazdığı şiirleriyle tanınır.",
+       "dogru": false,
+       "bilgi": "Halide Nusret Zorlutuna romanları ve hece ölçüsüyle yazdığı şiirleriyle tanınır; şiirlerinin önemli temalarından biri vatan sevgisidir.",
+       "sayfa": 106
+      },
+      {
+       "id": "2.2-12",
+       "tur": "eslestir",
+       "yonerge": "Türleri ait oldukları metin grubuyla eşleştir.",
+       "ciftler": [
+        [
+         "Şiir",
+         "Coşku ve heyecanı dile getiren edebî metin"
+        ],
+        [
+         "Roman",
+         "Anlatmaya bağlı edebî metin"
+        ],
+        [
+         "Tiyatro",
+         "Göstermeye bağlı edebî metin"
+        ],
+        [
+         "Anı",
+         "Öğretici metin"
+        ]
+       ],
+       "bilgi": "Gezi yazısı, anı, deneme, makale, fıkra ve eleştiri öğretici; roman, hikâye, destan, masal anlatmaya bağlı; tiyatro göstermeye bağlı metindir.",
+       "sayfa": 124
+      }
+     ]
+    },
+    {
+     "no": "2.3",
+     "ad": "Edebiyat Atölyesi: Konuşma",
+     "kartlar": [
+      {
+       "id": "2.3-01",
+       "tur": "bosluk",
+       "cumle": "Bir konunun ya da araştırma sonuçlarının görsel unsurlarla desteklenerek bir topluluğa sözlü olarak aktarılmasına ___ denir.",
+       "cevap": "sunu",
+       "celdiriciler": [
+        "mülakat",
+        "münazara",
+        "panel"
+       ],
+       "bilgi": "Sunu, bilgilerin ve düşüncelerin görsel unsurlarla desteklenerek sözlü aktarılmasıdır; bilgiler dinleyici kitlesine göre seçilmelidir.",
+       "sayfa": 125
+      },
+      {
+       "id": "2.3-02",
+       "tur": "bosluk",
+       "cumle": "Sunum ___ odaklı hazırlanmalı ve hedef kitlenin özellikleri dikkate alınmalıdır.",
+       "cevap": "dinleyici",
+       "celdiriciler": [
+        "konuşmacı",
+        "slayt",
+        "süre"
+       ],
+       "bilgi": "Önemli ve ilgi çekici bilgilerin dinleyici kitlesine göre seçilip düzenlenmesi sunumun başarısını artırır.",
+       "sayfa": 125
+      },
+      {
+       "id": "2.3-03",
+       "tur": "dy",
+       "ifade": "Başarılı bir sunumda bilgiler kâğıttan okunmalı ve baştan sona aynı ses tonuyla konuşulmalıdır.",
+       "dogru": false,
+       "bilgi": "Sunumda tekdüze anlatımdan kaçınılmalı, vurgu ve tonlamaya dikkat edilmeli, konuşmacı canlı ve enerjik olmalıdır.",
+       "sayfa": 130
+      },
+      {
+       "id": "2.3-04",
+       "tur": "secmeli",
+       "soru": "Sunumda konuşmacının ses tonunu etkin kullanması için hangisi önerilir?",
+       "secenekler": [
+        "Dikkat çekmek için sürekli bağırarak konuşmak",
+        "Fısıltıya yakın, alçak bir sesle konuşmak",
+        "Süreyi kısaltmak için olabildiğince hızlı ve tekdüze konuşmak",
+        "Doğal tonda, yüksek ama bağırmadan, tane tane konuşmak"
+       ],
+       "dogru": 3,
+       "bilgi": "Konuşmacı doğal konuşma tonunda ve hızında, yüksek sesle ancak bağırmadan ve tane tane konuşmalıdır.",
+       "sayfa": 130
+      },
+      {
+       "id": "2.3-05",
+       "tur": "secmeli",
+       "soru": "Akıcı bir sunum için konuşmacının özellikle neden kaçınması gerekir?",
+       "secenekler": [
+        "Vurgu ve tonlama yapmaktan",
+        "“ııı, hmmm, eee” gibi ifadelerden",
+        "Dinleyiciyle göz teması kurmaktan",
+        "Konuyu örneklerle desteklemekten"
+       ],
+       "dogru": 1,
+       "bilgi": "Akıcı anlatım için “ııı…, hmmm…, eee…” gibi ifadelerden kaçınılmalı, sunum iyi planlanıp zaman verimli kullanılmalıdır.",
+       "sayfa": 130
+      }
+     ]
+    },
+    {
+     "no": "2.4",
+     "ad": "Dinleme/İzleme: Şiir",
+     "kartlar": [
+      {
+       "id": "2.4-01",
+       "tur": "eslestir",
+       "yonerge": "Şiir türlerini içerik özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Lirik",
+         "Duygu ve hayallerin coşkulu bir dille anlatımı"
+        ],
+        [
+         "Epik",
+         "Savaş, kahramanlık, yiğitlik ve yurt sevgisi"
+        ],
+        [
+         "Didaktik",
+         "Okura öğüt ve bilgi verme"
+        ],
+        [
+         "Pastoral",
+         "Doğa güzellikleri ve çoban hayatı"
+        ],
+        [
+         "Satirik",
+         "Aksayan yönleri iğneleyici bir üslupla eleştirme"
+        ]
+       ],
+       "bilgi": "Şiirler içerik özelliklerine göre lirik, epik, satirik, didaktik ve pastoral olmak üzere beş gruba ayrılır.",
+       "sayfa": 138
+      },
+      {
+       "id": "2.4-02",
+       "tur": "secmeli",
+       "soru": "Kişilerin ve toplumların aksayan yönlerini eleştiren satirik şiirler halk edebiyatında hangi adla anılır?",
+       "secenekler": [
+        "Taşlama",
+        "Hiciv",
+        "Güzelleme",
+        "Koşma"
+       ],
+       "dogru": 0,
+       "bilgi": "Eleştiri içerikli şiirlere divan edebiyatında hiciv, halk edebiyatında taşlama denir.",
+       "sayfa": 138
+      },
+      {
+       "id": "2.4-03",
+       "tur": "bosluk",
+       "cumle": "“Çobanlara ilişkin” anlamındaki ___ sözcüğü, doğa güzelliklerini ve çoban hayatını anlatan şiir türünün adıdır.",
+       "cevap": "pastoral",
+       "celdiriciler": [
+        "lirik",
+        "didaktik",
+        "epik"
+       ],
+       "bilgi": "Pastoral şiir orman, yayla, dağ, köy ve çoban hayatını ve bunlara duyulan özlemi anlatır.",
+       "sayfa": 138
+      },
+      {
+       "id": "2.4-04",
+       "tur": "dy",
+       "ifade": "Epik şiirlerin içeriğinde olay bulunmasına karşın bu olaylar coşkulu bir şekilde anlatılır.",
+       "dogru": true,
+       "bilgi": "Epik şiirde bir milletin başından geçen tarihî olaylar ve kahramanlık gösteren kişiler coşkuyla anlatılır.",
+       "sayfa": 138
+      },
+      {
+       "id": "2.4-05",
+       "tur": "secmeli",
+       "soru": "Duygu, düşünce ve hayallerin coşkulu bir dille anlatıldığı, mecaz ve yan anlamlı kelimelerle coşkunluğun sağlandığı şiir türü hangisidir?",
+       "secenekler": [
+        "Didaktik",
+        "Satirik",
+        "Lirik",
+        "Pastoral"
+       ],
+       "dogru": 2,
+       "bilgi": "Lirik şiir duygusal şiirdir; didaktik şiir ise okura öğüt ve bilgi vermek, bir düşünceyi benimsetmek için yazılır.",
+       "sayfa": 138
+      },
+      {
+       "id": "2.4-06",
+       "tur": "eslestir",
+       "yonerge": "Şiir tanımlarını sahipleriyle eşleştir.",
+       "ciftler": [
+        [
+         "“Şiir, bir hikâye değil, sessiz bir şarkıdır.”",
+         "Ahmet Hâşim"
+        ],
+        [
+         "“Şiir, sırrın dilidir.”",
+         "Peyami Safa"
+        ],
+        [
+         "“Şiir, Allah'ı sır ve güzellik yolunda arama işidir.”",
+         "Necip Fazıl Kısakürek"
+        ],
+        [
+         "“Şiir, bütün hususiyeti edasında olan bir söz sanatıdır.”",
+         "Orhan Veli Kanık"
+        ]
+       ],
+       "bilgi": "Edebiyat bilimcileri ve şairler şiirin pek çok farklı tanımını yapmıştır; şiir edebiyatın en eski ve en yaygın türüdür.",
+       "sayfa": 131
+      },
+      {
+       "id": "2.4-07",
+       "tur": "secmeli",
+       "soru": "“Şiir, insanın kendi ana dili çalgısında söylenen bir türküdür.” tanımı hangi şaire aittir?",
+       "secenekler": [
+        "Yahya Kemal Beyatlı",
+        "Cahit Külebi",
+        "İsmet Özel",
+        "Ahmet Hâşim"
+       ],
+       "dogru": 1,
+       "bilgi": "Bu tanım Cahit Külebi'nindir; Yahya Kemal ise şiiri “hissin birdenbire lisan oluşu” olarak tanımlar.",
+       "sayfa": 131
+      },
+      {
+       "id": "2.4-08",
+       "tur": "secmeli",
+       "soru": "Mihriban (Aşk) şiirinin şairi olan, hecedeki ustalığıyla günümüzde âşık tarzı şiirin önde gelen temsilcilerinden sayılan sanatçı kimdir?",
+       "secenekler": [
+        "Kemalettin Kamu",
+        "Çıldırlı Âşık Şenlik",
+        "Âşık Veysel",
+        "Abdurrahim Karakoç"
+       ],
+       "dogru": 3,
+       "bilgi": "Abdurrahim Karakoç (1932-2012) şiir zevkini halk şairi olan dedesinden ve babasından almış, lirizm ve samimiyeti ön plana çıkarmıştır.",
+       "sayfa": 136
+      },
+      {
+       "id": "2.4-09",
+       "tur": "bosluk",
+       "cumle": "Abdurrahim Karakoç, ilk eseri olan ___ adlı kitabında mektup tarzı şiiri denemiştir.",
+       "cevap": "Hasan'a Mektuplar",
+       "celdiriciler": [
+        "Suları Islatamadım",
+        "Vur Emri",
+        "Dosta Doğru"
+       ],
+       "bilgi": "Hasan'a Mektuplar'da 1960 sonrası Türkiye'deki değişimin karikatürize edilmiş hikâyeleri görülür.",
+       "sayfa": 136
+      },
+      {
+       "id": "2.4-10",
+       "tur": "dy",
+       "ifade": "Abdurrahim Karakoç, çağdaş İslami duyarlılığını halk şiiri formunda işleyerek kendisinden sonraki halk şairlerine öncülük etmiştir.",
+       "dogru": true,
+       "bilgi": "Karakoç hiciv ve eleştiriyi sade ve anlaşılır bir dille yapmış, toplumun genel sorunlarına eğilmiştir.",
+       "sayfa": 136
+      }
+     ]
+    },
+    {
+     "no": "2.5",
+     "ad": "Edebiyat Atölyesi: Yazma",
+     "kartlar": [
+      {
+       "id": "2.5-01",
+       "tur": "secmeli",
+       "soru": "Şiirde ritim ve ahenk oluşturmak için aşağıdakilerden hangisinden yararlanılır?",
+       "secenekler": [
+        "Bilimsel terimler ve kanıtlanabilir yargılar",
+        "Sahne açıklamaları, dekor bilgileri ve uzun diyaloglar",
+        "Kaynakça ve dipnotlar",
+        "Ses tekrarları, ses benzerlikleri ve hece eşitliği"
+       ],
+       "dogru": 3,
+       "bilgi": "Şiirde ahenk ses tekrarları ve ses benzerlikleriyle, ritim ise dizelerdeki hecelerin eşitliğiyle sağlanır.",
+       "sayfa": 141
+      },
+      {
+       "id": "2.5-02",
+       "tur": "bosluk",
+       "cumle": "Bir şiirde dizelerdeki ___ sayısının eşit olması ritim ve ahenk oluşturur.",
+       "cevap": "hece",
+       "celdiriciler": [
+        "kelime",
+        "cümle",
+        "harf"
+       ],
+       "bilgi": "Dizelerdeki hece sayılarının eşitliği şiirde ritim ve ahengi sağlayan unsurlardandır.",
+       "sayfa": 141
+      },
+      {
+       "id": "2.5-03",
+       "tur": "dy",
+       "ifade": "Güzel konuşma ve yazma, estetik haz uyandırmanın yanında insanlarla iletişim kurmaya yardımcı olma gibi pratik bir yarar da sağlar.",
+       "dogru": true,
+       "bilgi": "Resim, müzik, heykel, mimari, güzel konuşma ve yazma insan zihninin ürünleridir; konuşma ve yazma iletişime de hizmet eder.",
+       "sayfa": 139
+      },
+      {
+       "id": "2.5-04",
+       "tur": "dy",
+       "ifade": "Şiir sunumunda kelimeleri doğru telaffuz etmek ve beden dilini etkili kullanmak, sunumun başarısını etkilemez.",
+       "dogru": false,
+       "bilgi": "Şiirin sunumunda vurgu ve tonlama, kelimelerin doğru telaffuzu ve beden dilinin etkili kullanımı önemlidir.",
+       "sayfa": 141
+      },
+      {
+       "id": "2.5-05",
+       "tur": "secmeli",
+       "soru": "Şiirde kelimelerin okurda farklı duygu, düşünce ve hayaller uyandıracak biçimde kullanılmasıyla ortaya çıkan etkiye ne denir?",
+       "secenekler": [
+        "Telaffuz",
+        "Çağrışım",
+        "Vurgu",
+        "Tonlama"
+       ],
+       "dogru": 1,
+       "bilgi": "Şiir yazarken imgelerle anlam zenginleştirilir, kelimeler okurda çağrışım uyandıracak şekilde kullanılır.",
+       "sayfa": 141
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "ad": "Anlamın Yapı Taşları",
+   "konular": [
+    {
+     "no": "3.1",
+     "ad": "Okuma: Hikâye",
+     "kartlar": [
+      {
+       "id": "3.1-01",
+       "tur": "secmeli",
+       "soru": "Memleket Hikâyeleri ve Gurbet Hikâyeleri adlı eserleriyle Türk hikâyeciliğinin kilometre taşlarından biri sayılan yazar kimdir?",
+       "secenekler": [
+        "Refik Halit Karay",
+        "Ömer Seyfettin",
+        "Reşat Nuri Güntekin",
+        "Memduh Şevket Esendal"
+       ],
+       "dogru": 0,
+       "bilgi": "Refik Halit Karay (1888-1965) gerçekçi bakışı ve sade diliyle tanınır; Ziya Gökalp onu “Türkçeyi en iyi kullanan yazar” olarak niteler.",
+       "sayfa": 163
+      },
+      {
+       "id": "3.1-02",
+       "tur": "eslestir",
+       "yonerge": "Hikâye kitaplarını yazarlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Letaif-i Rivayat",
+         "Ahmet Mithat Efendi"
+        ],
+        [
+         "Küçük Şeyler",
+         "Samipaşazade Sezai"
+        ],
+        [
+         "Gurbet Hikâyeleri",
+         "Refik Halit Karay"
+        ],
+        [
+         "Mendil Altında",
+         "Memduh Şevket Esendal"
+        ]
+       ],
+       "bilgi": "İlk telif hikâyeleri Ahmet Mithat Efendi, Batılı tarzdaki ilk küçük hikâyeleri Samipaşazade Sezai (Küçük Şeyler) yazmıştır.",
+       "sayfa": 164
+      },
+      {
+       "id": "3.1-03",
+       "tur": "bosluk",
+       "cumle": "Millî Edebiyat Dönemi hikâyelerinde Anadolu, Türk tarihi ve yanlış ___ gibi konular işlenmiştir.",
+       "cevap": "Batılılaşma",
+       "celdiriciler": [
+        "sanayileşme",
+        "köyden kente göç",
+        "kentleşme"
+       ],
+       "bilgi": "Ömer Seyfettin, Refik Halit Karay, Yakup Kadri Karaosmanoğlu ve Halide Edip Adıvar Millî Edebiyat Dönemi hikâyecilerindendir.",
+       "sayfa": 164
+      },
+      {
+       "id": "3.1-04",
+       "tur": "eslestir",
+       "yonerge": "Bakış açılarını anlatıcının özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Hâkim (ilahi) bakış açısı",
+         "Kişilerin geçmişini, geleceğini ve ruh hâlini bilir"
+        ],
+        [
+         "Gözlemci (müşahit) bakış açısı",
+         "Olayların tanığıdır, tarafsız aktarır"
+        ],
+        [
+         "Kahraman anlatıcının bakış açısı",
+         "Olayların içindedir, bildiği yaşadığı kadardır"
+        ]
+       ],
+       "bilgi": "Olayların anlatıcı tarafından ifade edilişi bakış açısını oluşturur; hikâyelerde üç ana bakış açısı kullanılır.",
+       "sayfa": 169
+      },
+      {
+       "id": "3.1-05",
+       "tur": "dy",
+       "ifade": "Gözlemci (müşahit) bakış açısında anlatıcı, kişilerin aklından geçenleri ve olayların geleceğini bilir.",
+       "dogru": false,
+       "bilgi": "Gözlemci anlatıcı olayların tanığıdır; kişilerin aklından geçenleri, hissettiklerini, olayların geçmişini ve geleceğini bilemez.",
+       "sayfa": 169
+      },
+      {
+       "id": "3.1-06",
+       "tur": "secmeli",
+       "soru": "Serim, düğüm ve çözüm şeklinde gelişen olay hikâyesine, dünya edebiyatındaki ilk örneklerini veren yazara izafeten hangi ad verilir?",
+       "secenekler": [
+        "Çehov tarzı",
+        "Montaigne tarzı",
+        "Maupassant tarzı",
+        "Dostoyevski tarzı"
+       ],
+       "dogru": 2,
+       "bilgi": "Olay hikâyesi Maupassant tarzıdır; Türk edebiyatında Ömer Seyfettin, Refik Halit Karay ve Reşat Nuri Güntekin bu tarzın temsilcileridir.",
+       "sayfa": 169
+      },
+      {
+       "id": "3.1-07",
+       "tur": "secmeli",
+       "soru": "Türk edebiyatında durum (Çehov tarzı) hikâyesinin önemli temsilcileri hangi seçenekte birlikte verilmiştir?",
+       "secenekler": [
+        "Ömer Seyfettin, Refik Halit Karay",
+        "Reşat Nuri Güntekin, Ömer Seyfettin",
+        "Sait Faik, Memduh Şevket Esendal",
+        "Refik Halit Karay, Reşat Nuri Güntekin"
+       ],
+       "dogru": 2,
+       "bilgi": "Durum hikâyesinde olay yerine durumlar ve yaşamdan kesitler öne çıkar; Sait Faik, Memduh Şevket Esendal ve Tarık Buğra temsilcileridir.",
+       "sayfa": 169
+      },
+      {
+       "id": "3.1-08",
+       "tur": "bosluk",
+       "cumle": "Hikâyede olayların merkezindeki kişiye başkarakter, onun yanında olayların gelişmesinde etkili olan kişilere ___ denir.",
+       "cevap": "yardımcı karakter",
+       "celdiriciler": [
+        "anlatıcı",
+        "gözlemci",
+        "şahıs kadrosu"
+       ],
+       "bilgi": "Olay örgüsü, şahıs kadrosu, mekân ve zaman hikâyenin yapı unsurlarıdır; anlatıcı da yazarın kurguladığı bir unsurdur.",
+       "sayfa": 169
+      },
+      {
+       "id": "3.1-09",
+       "tur": "secmeli",
+       "soru": "Şiirde üç, beş veya beşten fazla dizeden oluşan nazım birimine ne ad verilir?",
+       "secenekler": [
+        "Bent",
+        "Beyit",
+        "Dörtlük",
+        "Dize"
+       ],
+       "dogru": 0,
+       "bilgi": "Tek satıra dize (mısra), iki dizeye beyit, dört dizeye dörtlük; üç, beş ve daha fazla dizeden oluşan kümeye bent denir.",
+       "sayfa": 174
+      },
+      {
+       "id": "3.1-10",
+       "tur": "eslestir",
+       "yonerge": "Kafiye türlerini tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Yarım kafiye",
+         "Dize sonlarında tek ses benzerliği"
+        ],
+        [
+         "Tam kafiye",
+         "Dize sonlarında iki ses benzerliği"
+        ],
+        [
+         "Zengin kafiye",
+         "Üç veya daha fazla ses benzerliği"
+        ],
+        [
+         "Cinaslı kafiye",
+         "Yazılışı aynı, anlamı farklı sözcüklerle yapılan kafiye"
+        ]
+       ],
+       "bilgi": "Kafiye (uyak), dize sonlarında tekrarlanan ve ahenk oluşturan, aynı görevde olmayan benzer seslerdir.",
+       "sayfa": 176
+      },
+      {
+       "id": "3.1-11",
+       "tur": "bosluk",
+       "cumle": "Şiirde uyaktan sonra tekrarlanan, yazılışları ve görevleri aynı olan sözcük ve eklere ___ denir.",
+       "cevap": "redif",
+       "celdiriciler": [
+        "kafiye",
+        "durak",
+        "nakarat"
+       ],
+       "bilgi": "Redif, kafiyeden sonra gelen ve aynı görevde tekrarlanan ek ya da sözcüklerdir.",
+       "sayfa": 176
+      },
+      {
+       "id": "3.1-12",
+       "tur": "secmeli",
+       "soru": "Kafiye örgülerinden abab şeklinde sıralanan düzene ne ad verilir?",
+       "secenekler": [
+        "Düz kafiye",
+        "Sarmal kafiye",
+        "Mani tipi kafiye",
+        "Çapraz kafiye"
+       ],
+       "dogru": 3,
+       "bilgi": "Kafiye örgüleri: düz (aa, bb / aaab), çapraz (abab), sarmal (abba), mani tipi (aaxa) ve örüşük (aba, bcb, cdc).",
+       "sayfa": 177
+      },
+      {
+       "id": "3.1-13",
+       "tur": "secmeli",
+       "soru": "Dizelerdeki hecelerin ses değeri bakımından denkliğine dayanan ölçü hangisidir?",
+       "secenekler": [
+        "Hece ölçüsü",
+        "Aruz ölçüsü",
+        "Serbest ölçü"
+       ],
+       "dogru": 1,
+       "bilgi": "Hece ölçüsü hece sayısının eşitliğine, aruz ölçüsü hecelerin ses değerinin denkliğine dayanır; ikisi de yoksa şiir serbest ölçülüdür.",
+       "sayfa": 178
+      },
+      {
+       "id": "3.1-14",
+       "tur": "dy",
+       "ifade": "Hece ölçüsüyle yazılmış her şiirde durak bulunmak zorundadır.",
+       "dogru": false,
+       "bilgi": "Durak, hece ölçülü şiirde anlam gereği yapılan duraklamadır (4+3, 4+4, 6+5 vb.); her hece ölçülü şiirde bulunmak zorunda değildir.",
+       "sayfa": 179
+      }
+     ]
+    },
+    {
+     "no": "3.2",
+     "ad": "Okuma: Gezi Yazısı",
+     "kartlar": [
+      {
+       "id": "3.2-01",
+       "tur": "secmeli",
+       "soru": "Türk edebiyatında ilk seyahatname olarak gösterilen Mir'atü'l-Memalik adlı eser kime aittir?",
+       "secenekler": [
+        "Seydi Ali Reis",
+        "Evliya Çelebi",
+        "Babür Şah",
+        "Ahmet Mithat Efendi"
+       ],
+       "dogru": 0,
+       "bilgi": "Seydi Ali Reis'in Mir'atü'l-Memalik'i Türk edebiyatının ilk seyahatnamesi olarak gösterilir.",
+       "sayfa": 188
+      },
+      {
+       "id": "3.2-02",
+       "tur": "bosluk",
+       "cumle": "Türk edebiyatındaki en tanınmış seyahatname, ___'nin Seyahatname adlı eseridir.",
+       "cevap": "Evliya Çelebi",
+       "celdiriciler": [
+        "Seydi Ali Reis",
+        "Kâtip Çelebi",
+        "Babür Şah"
+       ],
+       "bilgi": "Evliya Çelebi'nin Seyahatname'si Türk edebiyatının en tanınmış seyahatnamesidir.",
+       "sayfa": 188
+      },
+      {
+       "id": "3.2-03",
+       "tur": "bosluk",
+       "cumle": "Gezilen yerlerin sosyal, kültürel ve ekonomik özelliklerini anlatan, edebî ve tarihî nitelik taşıyan metinlere gezi yazısı ya da ___ denir.",
+       "cevap": "seyahatname",
+       "celdiriciler": [
+        "sefaretname",
+        "vakayiname",
+        "tezkire"
+       ],
+       "bilgi": "Gezi yazısında (seyahatname) gezgin (seyyah) gezdiği yerlerin sosyal, kültürel, ekonomik ve siyasi özelliklerini anlatır.",
+       "sayfa": 188
+      },
+      {
+       "id": "3.2-04",
+       "tur": "secmeli",
+       "soru": "Bizim Akdeniz, Taymis Kıyıları, Denizaşırı ve Kaybolmuş Makedonya adlı gezi yazılarının yazarı kimdir?",
+       "secenekler": [
+        "Ahmet Hamdi Tanpınar",
+        "Yakup Kadri Karaosmanoğlu",
+        "Falih Rıfkı Atay",
+        "Refik Halit Karay"
+       ],
+       "dogru": 2,
+       "bilgi": "Falih Rıfkı Atay gezi yazılarıyla bu alanda çığır açmıştır; Zeytindağı ve Çankaya ise anı türündeki eserleridir.",
+       "sayfa": 187
+      },
+      {
+       "id": "3.2-05",
+       "tur": "eslestir",
+       "yonerge": "Gezi kitaplarını yazarlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Frankfurt Seyahatnamesi",
+         "Ahmet Haşim"
+        ],
+        [
+         "Hac Yolunda",
+         "Cenap Şahabettin"
+        ],
+        [
+         "Anadolu Notları",
+         "Reşat Nuri Güntekin"
+        ],
+        [
+         "Mavi Anadolu",
+         "Azra Erhat"
+        ],
+        [
+         "Avrupa'da Bir Cevelan",
+         "Ahmet Mithat Efendi"
+        ]
+       ],
+       "bilgi": "Frankfurt Seyahatnamesi, Hac Yolunda, Anadolu Notları, Mavi Anadolu ve Avrupa'da Bir Cevelan Türk edebiyatının gezi kitaplarındandır.",
+       "sayfa": 152
+      },
+      {
+       "id": "3.2-06",
+       "tur": "secmeli",
+       "soru": "Erzurum yazısının da yer aldığı Beş Şehir adlı eserin yazarı kimdir?",
+       "secenekler": [
+        "Falih Rıfkı Atay",
+        "Ahmet Hamdi Tanpınar",
+        "Yahya Kemal Beyatlı",
+        "Yakup Kadri Karaosmanoğlu"
+       ],
+       "dogru": 1,
+       "bilgi": "Beş Şehir, Ahmet Hamdi Tanpınar'ın eseridir.",
+       "sayfa": 189
+      },
+      {
+       "id": "3.2-07",
+       "tur": "dy",
+       "ifade": "Gezi yazıları belirli bir plan gözetilmeden, yazarın aklına geldiği sırayla kaleme alınır.",
+       "dogru": false,
+       "bilgi": "Gezi yazıları giriş, gelişme ve sonuç bölümlerinden oluşan belirli bir plan dâhilinde kaleme alınır.",
+       "sayfa": 190
+      },
+      {
+       "id": "3.2-08",
+       "tur": "secmeli",
+       "soru": "Anı ile gezi yazısı arasındaki temel fark hangisidir?",
+       "secenekler": [
+        "Yalnızca anı yaşanmışlıklara, gezi yazısı ise hayal gücüne dayanır",
+        "Gezi yazısı kurmaca, anı ise yalnızca öğretici bir türdür",
+        "Anıda gözlem yoktur, gezi yazısında ise yalnızca gözlem vardır",
+        "Anı geçmiş yaşantılara, gezi yazısı bir yerin tanıtımına odaklanır"
+       ],
+       "dogru": 3,
+       "bilgi": "Anı ve gezi yazısı yaşanmışlıklara dayanır; anı geçmiş yaşantılara odaklanır, gezi yazısı ise bir yerin tanıtımını amaçlar.",
+       "sayfa": 191
+      },
+      {
+       "id": "3.2-09",
+       "tur": "dy",
+       "ifade": "Falih Rıfkı Atay, Türkçenin bir edebiyat ve bilim dili olduğu görüşünü savunmuştur.",
+       "dogru": true,
+       "bilgi": "Falih Rıfkı Atay, Cumhuriyet Dönemi Türk dili ve edebiyatının gelişmesine hizmet etmiş bir yazardır.",
+       "sayfa": 187
+      },
+      {
+       "id": "3.2-10",
+       "tur": "bosluk",
+       "cumle": "Falih Rıfkı Atay, kendi gözlemlerinin yanında başka kaynaklardan da yararlandığı için gezi yazıları ___ niteliği taşır.",
+       "cevap": "belge",
+       "celdiriciler": [
+        "kurmaca",
+        "masal",
+        "deneme"
+       ],
+       "bilgi": "Yazarın başka kitap ve yazarlardan da faydalanması, eserlerinin belge niteliği taşımasını sağlar.",
+       "sayfa": 187
+      },
+      {
+       "id": "3.2-11",
+       "tur": "dy",
+       "ifade": "Gezi yazıları yalnızca gezilen yerlerin coğrafi özelliklerini anlatır; okurda o yerleri görme isteği uyandırmayı amaçlamaz.",
+       "dogru": false,
+       "bilgi": "Gezi yazılarında yerlerin tarihî, coğrafi ve kültürel özellikleri anlatılır, okurda bu yerleri gezip görme isteği de uyandırılır.",
+       "sayfa": 190
+      }
+     ]
+    },
+    {
+     "no": "3.3",
+     "ad": "Edebiyat Atölyesi: Konuşma",
+     "kartlar": [
+      {
+       "id": "3.3-01",
+       "tur": "secmeli",
+       "soru": "Slayt hazırlama kurallarına göre başlıklardaki yazı karakterinin büyüklüğü en fazla kaç punto olmalıdır?",
+       "secenekler": [
+        "24",
+        "32",
+        "60",
+        "44"
+       ],
+       "dogru": 3,
+       "bilgi": "Slayt başlıklarında yazı karakteri en fazla 44 punto olmalıdır.",
+       "sayfa": 196
+      },
+      {
+       "id": "3.3-02",
+       "tur": "dy",
+       "ifade": "Slaytlarda tam cümleler yerine konuşmacıya anlatacaklarını hatırlatan kısa ifadeler madde imleriyle verilmelidir.",
+       "dogru": true,
+       "bilgi": "Slaytta konunun yalnızca ana hatları yer alır; içerik dinleyicilere anlatım yoluyla aktarılır.",
+       "sayfa": 196
+      },
+      {
+       "id": "3.3-03",
+       "tur": "dy",
+       "ifade": "Okumayı kolaylaştırmak için bir slaytta çok sayıda farklı renk ve eğik yazı tipleri kullanılmalıdır.",
+       "dogru": false,
+       "bilgi": "Eğik yazı tiplerinden kaçınılmalı, okumayı güçleştireceği için aynı slaytta çok fazla farklı renk kullanılmamalıdır.",
+       "sayfa": 197
+      },
+      {
+       "id": "3.3-04",
+       "tur": "bosluk",
+       "cumle": "Slayt hazırlama kurallarına göre bir slaytta en fazla ___ farklı yazı büyüklüğü kullanılmalıdır.",
+       "cevap": "iki",
+       "celdiriciler": [
+        "üç",
+        "dört",
+        "beş"
+       ],
+       "bilgi": "Bir slaytta en fazla iki farklı yazı büyüklüğü kullanılmalı, maddeler iki satırı geçmemelidir.",
+       "sayfa": 197
+      },
+      {
+       "id": "3.3-05",
+       "tur": "secmeli",
+       "soru": "Slayt hazırlama kurallarına göre ana başlıklar nasıl olmalıdır?",
+       "secenekler": [
+        "En az iki satırdan oluşmalı, uzun ve ayrıntılı olmalı",
+        "En fazla beş kelime olmalı, bir satırı geçmemeli",
+        "Eğik yazı tipiyle yazılmalı",
+        "Her slaytta farklı yazı tipi ve renkte yazılmalı"
+       ],
+       "dogru": 1,
+       "bilgi": "Ana başlıklar açık ve net olmalı, tercihen en fazla beş kelimeden oluşmalı ve bir satırı geçmemelidir.",
+       "sayfa": 196
+      },
+      {
+       "id": "3.3-06",
+       "tur": "bosluk",
+       "cumle": "Slaytlardaki metinler ___ yaslanmalı; bilgi ileten metinlerde siyah, lacivert veya bordo renkler tercih edilmelidir.",
+       "cevap": "sola",
+       "celdiriciler": [
+        "sağa",
+        "ortaya",
+        "iki yana"
+       ],
+       "bilgi": "Slaytlarda sola yaslı metin ve koyu renkler tercih edilir; görseller sınıfın en arka sırasından da görülebilmelidir.",
+       "sayfa": 197
+      }
+     ]
+    },
+    {
+     "no": "3.4",
+     "ad": "Dinleme/İzleme: Belgesel",
+     "kartlar": [
+      {
+       "id": "3.4-01",
+       "tur": "bosluk",
+       "cumle": "Belge niteliği taşıyan film veya televizyon programına ___ adı verilir.",
+       "cevap": "belgesel",
+       "celdiriciler": [
+        "senaryo",
+        "mülakat",
+        "röportaj"
+       ],
+       "bilgi": "Belgesel, belge niteliği taşıyan film veya televizyon programıdır.",
+       "sayfa": 198
+      },
+      {
+       "id": "3.4-02",
+       "tur": "secmeli",
+       "soru": "Bahar bayramı olarak da kutlanan nevruz kelimesinin anlamı nedir?",
+       "secenekler": [
+        "Yeni gün",
+        "Bahar sofrası",
+        "Kutlu ateş",
+        "Uzun gece"
+       ],
+       "dogru": 0,
+       "bilgi": "Nevruz “yeni gün” anlamına gelir ve pek çok toplum için yılbaşı niteliği taşır.",
+       "sayfa": 203
+      },
+      {
+       "id": "3.4-03",
+       "tur": "secmeli",
+       "soru": "Nevruz, kuzey yarım kürede bulunan ülkelerde yaygın olarak hangi tarihte kutlanır?",
+       "secenekler": [
+        "1 Ocak",
+        "6 Mayıs",
+        "21 Mart",
+        "21 Haziran"
+       ],
+       "dogru": 2,
+       "bilgi": "Nevruz kuzey yarım küredeki ülkelerde yaygın olarak 21 Mart'ta kutlanır.",
+       "sayfa": 203
+      },
+      {
+       "id": "3.4-04",
+       "tur": "dy",
+       "ifade": "Nevruzda doğanın uyanışı kutlanır ve kadim bir Türk geleneği olarak demir dövülür.",
+       "dogru": true,
+       "bilgi": "Nevruz doğanın uyanışının kutlandığı bir bahar bayramıdır; demir dövmek kadim bir Türk geleneğidir.",
+       "sayfa": 203
+      },
+      {
+       "id": "3.4-05",
+       "tur": "secmeli",
+       "soru": "Nevruz, asırlardır hangi coğrafyada kutlanan en eski bayram olarak bilinir?",
+       "secenekler": [
+        "Yalnızca Ege kıyılarında",
+        "Kuzey Afrika'dan İspanya'ya",
+        "Orta Asya'dan Balkanlara",
+        "Yalnızca Kafkasya'da"
+       ],
+       "dogru": 2,
+       "bilgi": "Nevruz, asırlardır Orta Asya'dan Balkanlara uzanan geniş bir coğrafyada kutlanan en eski bayramdır.",
+       "sayfa": 200
+      },
+      {
+       "id": "3.4-06",
+       "tur": "bosluk",
+       "cumle": "Nevruz sofralarına s ve ş harfleriyle başlayan ___ nesne konulur.",
+       "cevap": "yedi",
+       "celdiriciler": [
+        "üç",
+        "beş",
+        "dokuz"
+       ],
+       "bilgi": "Nevruz sofralarına s ve ş harfleriyle başlayan yedi nesne konulur.",
+       "sayfa": 201
+      },
+      {
+       "id": "3.4-07",
+       "tur": "secmeli",
+       "soru": "Görsel ve işitsel araçlarla birden fazla duyuya hitap eden belgesel, hangi metin türüne örnektir?",
+       "secenekler": [
+        "Çok modlu metin",
+        "Kurmaca metin",
+        "Ara metin",
+        "Göstermeye bağlı metin"
+       ],
+       "dogru": 0,
+       "bilgi": "Belgesel çok modlu bir metindir; görsel ve işitsel destek bilgileri anlaşılır ve akılda kalıcı kılar.",
+       "sayfa": 201
+      }
+     ]
+    },
+    {
+     "no": "3.5",
+     "ad": "Edebiyat Atölyesi: Yazma",
+     "kartlar": [
+      {
+       "id": "3.5-01",
+       "tur": "secmeli",
+       "soru": "Bilginin görselle sunulduğu, ilgi çekmek ve anlamayı artırmak için düzenlenen görsel iletişim aracına ne ad verilir?",
+       "secenekler": [
+        "Zihin haritası",
+        "Slayt gösterisi",
+        "Belgesel",
+        "Bilgi görseli"
+       ],
+       "dogru": 3,
+       "bilgi": "Bilgi görseli, bilgi ve görsel sözcüklerinin birleşimidir; kısaca bilginin görselle sunulmasıdır.",
+       "sayfa": 203
+      },
+      {
+       "id": "3.5-02",
+       "tur": "dy",
+       "ifade": "Bilgi görseli yalnızca yazılı metinden oluşur; grafik, resim veya akış şeması içermez.",
+       "dogru": false,
+       "bilgi": "Bilgi görseli metinler, grafikler, resimler, akış şemaları ve çizelgeler gibi birçok unsurdan oluşabilir.",
+       "sayfa": 203
+      },
+      {
+       "id": "3.5-03",
+       "tur": "bosluk",
+       "cumle": "Bilgi görseli, bir bildirinin kısa zamanda anlaşılmasını sağlamak ve ___ artırmak için kullanılır.",
+       "cevap": "okunurluğunu",
+       "celdiriciler": [
+        "uzunluğunu",
+        "karmaşıklığını",
+        "süresini"
+       ],
+       "bilgi": "Bilgi görseli genellikle bilginin kısa zamanda anlaşılması ve okunurluğunun artırılması için kullanılır.",
+       "sayfa": 203
+      },
+      {
+       "id": "3.5-04",
+       "tur": "dy",
+       "ifade": "Bilgi görseli hazırlanırken görseller seçilirken fikrî mülkiyet haklarına dikkat edilmelidir.",
+       "dogru": true,
+       "bilgi": "Bilgi görselinde güvenilir kaynaklardan yararlanılmalı, görseller fikrî mülkiyet haklarına dikkat edilerek seçilmelidir.",
+       "sayfa": 206
+      },
+      {
+       "id": "3.5-05",
+       "tur": "secmeli",
+       "soru": "Bilgi görseli metninin anlatımında hangi düşünceyi geliştirme yollarından yararlanılması beklenir?",
+       "secenekler": [
+        "Serim, düğüm, çözüm ve geriye dönüş",
+        "Benzetme, karşılaştırma ve örnekleme",
+        "Kafiye, redif, ölçü ve nazım birimi",
+        "Diyalog, iç monolog ve bilinç akışı tekniği"
+       ],
+       "dogru": 1,
+       "bilgi": "Bilgi görseli metninde benzetme, karşılaştırma ve örnekleme gibi düşünceyi geliştirme yollarından yararlanılır.",
+       "sayfa": 205
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "ad": "Dilin Zenginliği",
+   "konular": [
+    {
+     "no": "4.1",
+     "ad": "Okuma: Roman",
+     "kartlar": [
+      {
+       "id": "4.1-01",
+       "tur": "secmeli",
+       "soru": "Çalıkuşu, Yaprak Dökümü, Acımak ve Yeşil Gece romanlarının yazarı kimdir?",
+       "secenekler": [
+        "Reşat Nuri Güntekin",
+        "Refik Halit Karay",
+        "Halit Ziya Uşaklıgil",
+        "Yakup Kadri Karaosmanoğlu"
+       ],
+       "dogru": 0,
+       "bilgi": "Reşat Nuri Güntekin (1889-1956) romanlarında bireysel ve toplumsal konuları iç içe işler; eserlerinde gözlem ön plandadır.",
+       "sayfa": 230
+      },
+      {
+       "id": "4.1-02",
+       "tur": "dy",
+       "ifade": "Reşat Nuri Güntekin, konuşulan Türkçeyi roman ve hikâye dili hâline getirmiştir.",
+       "dogru": true,
+       "bilgi": "Reşat Nuri'nin açık, akıcı ve duru dili ile sürükleyici üslubu, eserlerinin her kesimden okurca sevilmesini sağlamıştır.",
+       "sayfa": 230
+      },
+      {
+       "id": "4.1-03",
+       "tur": "bosluk",
+       "cumle": "Reşat Nuri Güntekin, Çalıkuşu'nu önce ___ adıyla tiyatro olarak yazmış, oyun sahnelenemeyince romana dönüştürmüştür.",
+       "cevap": "İstanbul Kızı",
+       "celdiriciler": [
+        "Yaprak Dökümü",
+        "Tanrıdağı Ziyafeti",
+        "Balıkesir Muhasebecisi"
+       ],
+       "bilgi": "İstanbul Kızı adlı piyes Dârülbedâyi'de sahnelenemeyince Reşat Nuri onu Çalıkuşu adıyla romana dönüştürmüştür.",
+       "sayfa": 256
+      },
+      {
+       "id": "4.1-04",
+       "tur": "secmeli",
+       "soru": "Türk edebiyatında Anadolu'ya yönelen ilk önemli roman olarak gösterilen eser hangisidir?",
+       "secenekler": [
+        "Aşk-ı Memnu",
+        "Eylül",
+        "Çalıkuşu",
+        "İntibah"
+       ],
+       "dogru": 2,
+       "bilgi": "Çalıkuşu'nun olayları İstanbul'un yanında Zeyniler köyü, İzmir, Kuşadası ve Tekirdağ gibi yerlerde geçer.",
+       "sayfa": 242
+      },
+      {
+       "id": "4.1-05",
+       "tur": "eslestir",
+       "yonerge": "Roman türlerini özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Tarihî roman",
+         "Tarihî olay ya da kişileri kurgulayarak anlatır"
+        ],
+        [
+         "Psikolojik roman",
+         "Bireyin iç dünyasını ve ruh hâlini çözümler"
+        ],
+        [
+         "Sosyal roman",
+         "Bireyi etkileyen toplumsal, kültürel ve siyasi olayları işler"
+        ],
+        [
+         "Egzotik roman",
+         "Uzak ve yabancı ülkeleri anlatır"
+        ],
+        [
+         "Fantastik roman",
+         "Hayal gücüne dayanır"
+        ]
+       ],
+       "bilgi": "Romanlar konularına göre tarihî, macera, sosyal, psikolojik, otobiyografik, biyografik, fantastik ve egzotik gibi türlere ayrılır.",
+       "sayfa": 216
+      },
+      {
+       "id": "4.1-06",
+       "tur": "secmeli",
+       "soru": "Batı edebiyatında ilk roman örneği kabul edilen eser hangisidir?",
+       "secenekler": [
+        "Robenson Cruze",
+        "Don Kişot",
+        "Gulliver'in Gezileri",
+        "Telemaque"
+       ],
+       "dogru": 1,
+       "bilgi": "Roman Batı'da 17. yüzyılın başlarında ortaya çıktı; ilk örnek Cervantes'in Don Kişot'udur, onu Robenson Cruze ve Gulliver'in Gezileri izler.",
+       "sayfa": 231
+      },
+      {
+       "id": "4.1-07",
+       "tur": "eslestir",
+       "yonerge": "Türk edebiyatındaki ilk roman örneklerini nitelikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Telemaque (Yusuf Kamil Paşa)",
+         "İlk çeviri roman"
+        ],
+        [
+         "Taaşşuk-ı Talat ve Fitnat (Şemsettin Sami)",
+         "İlk Türk romanı"
+        ],
+        [
+         "İntibah (Namık Kemal)",
+         "İlk edebî roman"
+        ],
+        [
+         "Cezmi (Namık Kemal)",
+         "İlk tarihî roman"
+        ],
+        [
+         "Eylül (Mehmet Rauf)",
+         "İlk psikolojik roman"
+        ]
+       ],
+       "bilgi": "Türk edebiyatında roman tercümelerle başlamış; Şemsettin Sami ilk Türk romanını, Namık Kemal ilk edebî ve ilk tarihî romanı yazmıştır.",
+       "sayfa": 231
+      },
+      {
+       "id": "4.1-08",
+       "tur": "secmeli",
+       "soru": "Köy hayatını ve köy insanını konu edinen gerçekçi bir roman örneği olan Karabibik'in yazarı kimdir?",
+       "secenekler": [
+        "Mehmet Rauf",
+        "Şemsettin Sami",
+        "Namık Kemal",
+        "Nabizade Nazım"
+       ],
+       "dogru": 3,
+       "bilgi": "Nabizade Nazım'ın Karabibik'i köy hayatını konu edinen gerçekçi bir roman örneğidir.",
+       "sayfa": 231
+      },
+      {
+       "id": "4.1-09",
+       "tur": "secmeli",
+       "soru": "Türk edebiyatında kent ve kültür romancılığının öncüsü olan, Batı tekniğine uygun ilk romanları yazan yazar kimdir?",
+       "secenekler": [
+        "Recaizade Mahmut Ekrem",
+        "Şemsettin Sami",
+        "Nabizade Nazım",
+        "Halit Ziya Uşaklıgil"
+       ],
+       "dogru": 3,
+       "bilgi": "Batı tekniğine uygun ilk romanları Halit Ziya Uşaklıgil yazmıştır.",
+       "sayfa": 231
+      },
+      {
+       "id": "4.1-10",
+       "tur": "bosluk",
+       "cumle": "Ortak dilin sanatçı tarafından kişisel ve özgün biçimde kullanılmasıyla ortaya çıkan kendine özgü söyleyiş biçimine ___ denir.",
+       "cevap": "üslup",
+       "celdiriciler": [
+        "tema",
+        "edebî dil",
+        "anlatım tekniği"
+       ],
+       "bilgi": "Üslup, “Sanatçı fikirlerini nasıl dile getiriyor?” sorusunun cevabıdır ve yazarın dünya görüşünün dildeki yansımasıdır.",
+       "sayfa": 234
+      },
+      {
+       "id": "4.1-11",
+       "tur": "eslestir",
+       "yonerge": "Anlatım tekniklerini açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Geriye dönüş",
+         "Olayı şimdiki zamandan alıp karakterin geçmişine götürme"
+        ],
+        [
+         "İç diyalog",
+         "Karakterin kendi kendisiyle biri varmış gibi konuşması"
+        ],
+        [
+         "İç çözümleme",
+         "Anlatıcının araya girip karakterin zihnindekileri aktarması"
+        ],
+        [
+         "Bilinç akışı",
+         "Zihinden geçenlerin mantıksal bağ olmadan, çağrışımla aktarılması"
+        ],
+        [
+         "Mektup tekniği",
+         "Karakterlerin duygu ve tepkilerinin mektupla sunulması"
+        ]
+       ],
+       "bilgi": "Anlatım teknikleri olayı ya da durumu okura ulaştıran vasıtalardır; bilinçli kullanımları anlatının estetik değerini artırır.",
+       "sayfa": 245
+      },
+      {
+       "id": "4.1-12",
+       "tur": "secmeli",
+       "soru": "Karakterlerin karşılıklı konuşturulduğu ve anlatıma doğallık izlenimi veren anlatım tekniği hangisidir?",
+       "secenekler": [
+        "İç monolog tekniği",
+        "Diyalog tekniği",
+        "Özetleme tekniği",
+        "Anlatma tekniği"
+       ],
+       "dogru": 1,
+       "bilgi": "Diyalog tekniği olayların gelişiminde rol oynar ve kahramanların psikososyal konumlarını açıklamaya yarar.",
+       "sayfa": 245
+      },
+      {
+       "id": "4.1-13",
+       "tur": "dy",
+       "ifade": "Özetleme tekniğinde olaylar ve kişiler en ince ayrıntılarına kadar sayfalar boyunca anlatılır.",
+       "dogru": false,
+       "bilgi": "Özetleme tekniğinde olay ve kişiler belirgin çizgileriyle tanıtılır; sayfalar sürecek anlatım birkaç satırla verilir.",
+       "sayfa": 244
+      },
+      {
+       "id": "4.1-14",
+       "tur": "secmeli",
+       "soru": "Anlatım özelliklerinden hangisi, anlatımda gereksiz sözcük ve ifadelerin bulunmamasıdır?",
+       "secenekler": [
+        "Duruluk",
+        "Yalınlık",
+        "Açıklık",
+        "Akıcılık"
+       ],
+       "dogru": 0,
+       "bilgi": "Duruluk gereksiz sözün olmaması, yalınlık süsten uzaklık, açıklık tartışmaya yol açmadan iletme, tutarlılık çelişmemedir.",
+       "sayfa": 246
+      }
+     ]
+    },
+    {
+     "no": "4.2",
+     "ad": "Okuma: Eleştiri",
+     "kartlar": [
+      {
+       "id": "4.2-01",
+       "tur": "bosluk",
+       "cumle": "Eleştiri türü Batı edebiyatında kritik, Türk edebiyatında ___ adıyla bilinir.",
+       "cevap": "tenkit",
+       "celdiriciler": [
+        "tezkire",
+        "hiciv",
+        "makale"
+       ],
+       "bilgi": "Eleştiri, Batı edebiyatında kritik, Türk edebiyatında tenkit adıyla bilinir.",
+       "sayfa": 269
+      },
+      {
+       "id": "4.2-02",
+       "tur": "secmeli",
+       "soru": "Divan edebiyatında hicviye, halk edebiyatında taşlama denen eleştiri şiirleri modern edebiyatta hangi adla bilinir?",
+       "secenekler": [
+        "Övgü",
+        "Ağıt",
+        "Yergi",
+        "Güzelleme"
+       ],
+       "dogru": 2,
+       "bilgi": "Eleştiri şiirleri divan edebiyatında hicviye, halk edebiyatında taşlama, modern edebiyatta yergi adıyla bilinir.",
+       "sayfa": 259
+      },
+      {
+       "id": "4.2-03",
+       "tur": "secmeli",
+       "soru": "Füruzan'ın Parasız Yatılı hikâyesini değerlendiren eleştirisini Hikâye Tahlilleri adlı eserinde yayımlayan eleştirmen kimdir?",
+       "secenekler": [
+        "Berna Moran",
+        "Fethi Naci",
+        "Mehmet Kaplan",
+        "Nihat Sami Banarlı"
+       ],
+       "dogru": 2,
+       "bilgi": "Parasız Yatılı Füruzan'ın hikâyesidir; Mehmet Kaplan bu hikâye üzerine yazdığı eleştiriyi Hikâye Tahlilleri'nde yayımlamıştır.",
+       "sayfa": 263
+      },
+      {
+       "id": "4.2-04",
+       "tur": "secmeli",
+       "soru": "Parasız Yatılı adlı hikâyenin yazarı kimdir?",
+       "secenekler": [
+        "Füruzan",
+        "Füsun Akatlı",
+        "Halide Edip Adıvar",
+        "Halide Nusret Zorlutuna"
+       ],
+       "dogru": 0,
+       "bilgi": "Parasız Yatılı, Füruzan'ın hikâyesidir.",
+       "sayfa": 259
+      },
+      {
+       "id": "4.2-05",
+       "tur": "dy",
+       "ifade": "Mehmet Kaplan, Erzurum Atatürk Üniversitesinde Türk Dili ve Edebiyatı Bölümünü kurmuş ve orada halk edebiyatı çalışmalarını başlatmıştır.",
+       "dogru": true,
+       "bilgi": "Mehmet Kaplan (1915-1986) Tanpınar'ın asistanlığını yapmış; Namık Kemal teziyle doktor, Şiir Tahlilleri ile profesör olmuştur.",
+       "sayfa": 270
+      },
+      {
+       "id": "4.2-06",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi Mehmet Kaplan'ın deneme türündeki eserlerindendir?",
+       "secenekler": [
+        "Şiir Tahlilleri",
+        "Hikâye Tahlilleri",
+        "Tip Tahlilleri",
+        "Kültür ve Dil"
+       ],
+       "dogru": 3,
+       "bilgi": "Nesillerin Ruhu, Edebiyatımızın İçinden ve Kültür ve Dil denemedir; Şiir, Hikâye ve Tip Tahlilleri araştırma-inceleme eserleridir.",
+       "sayfa": 270
+      },
+      {
+       "id": "4.2-07",
+       "tur": "eslestir",
+       "yonerge": "Eleştirmenleri eserleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Fethi Naci",
+         "40 Yılda 40 Roman"
+        ],
+        [
+         "Nihat Sami Banarlı",
+         "Türkçenin Sırları"
+        ],
+        [
+         "Orhan Okay",
+         "Şiir Sanatı Dersleri"
+        ],
+        [
+         "Berna Moran",
+         "Türk Romanına Eleştirel Bir Bakış"
+        ]
+       ],
+       "bilgi": "Berna Moran, Türk Romanına Eleştirel Bir Bakış'ta Yakup Kadri'nin Yaban romanını incelemiştir.",
+       "sayfa": 258
+      },
+      {
+       "id": "4.2-08",
+       "tur": "bosluk",
+       "cumle": "Yahya Kemal'in 1906'da Fransa'da kurmaya başladığı sade ve tabii şiir diline verdiği ad ___'dır.",
+       "cevap": "beyaz lisan",
+       "celdiriciler": [
+        "yeni lisan",
+        "Servet-i Fünun lisanı",
+        "nazım lisanı"
+       ],
+       "bilgi": "Yahya Kemal, eski Yunan edebiyatının dil anlayışına da dikkat ederek kurduğu şiir diline “beyaz lisan” demiştir.",
+       "sayfa": 274
+      },
+      {
+       "id": "4.2-09",
+       "tur": "secmeli",
+       "soru": "Servet-i Fünun lisanından uyanan sade Türkçeye “Yeni Lisan” adını veren yazar kimdir?",
+       "secenekler": [
+        "Yahya Kemal Beyatlı",
+        "Ömer Seyfettin",
+        "Fuad Köprülü",
+        "Mehmet Emin Yurdakul"
+       ],
+       "dogru": 1,
+       "bilgi": "“Yeni Lisan” adını Ömer Seyfettin, şiir dili için “beyaz lisan” adını ise Yahya Kemal vermiştir.",
+       "sayfa": 274
+      },
+      {
+       "id": "4.2-10",
+       "tur": "bosluk",
+       "cumle": "1908'den sonra başlayan Millî Edebiyat akımı, şiirde ölçü olarak ___ ölçüsünü tercih etmiştir.",
+       "cevap": "hece",
+       "celdiriciler": [
+        "aruz",
+        "serbest"
+       ],
+       "bilgi": "Millî Edebiyat akımıyla hece ölçüsü öne çıkmış; aruzu sürdürenlerin sayısı giderek azalmıştır.",
+       "sayfa": 272
+      },
+      {
+       "id": "4.2-11",
+       "tur": "secmeli",
+       "soru": "Yahya Kemal'in 81 şiirden oluşan ve Nihat Sami Banarlı'nın “Türkçenin en muhteşem şiir kitabı” dediği eseri hangisidir?",
+       "secenekler": [
+        "Kendi Gök Kubbemiz",
+        "Han Duvarları",
+        "Çile",
+        "Bir Bayrak Rüzgâr Bekliyor"
+       ],
+       "dogru": 0,
+       "bilgi": "Kendi Gök Kubbemiz, Yahya Kemal Beyatlı'nın 81 şiirden oluşan şiir kitabıdır.",
+       "sayfa": 275
+      }
+     ]
+    },
+    {
+     "no": "4.3",
+     "ad": "Edebiyat Atölyesi: Konuşma",
+     "kartlar": [
+      {
+       "id": "4.3-01",
+       "tur": "secmeli",
+       "soru": "“Bir insanı sevmekle başlar her şey” sözü hangi yazara aittir?",
+       "secenekler": [
+        "Orhan Kemal",
+        "Memduh Şevket Esendal",
+        "Sait Faik Abasıyanık",
+        "Haldun Taner"
+       ],
+       "dogru": 2,
+       "bilgi": "Sait Faik'in bu sözünden hareketle her şeyin Türkçeyi sevmekle başladığı söylenebilir; ana dil sevgisi vatan sevgisiyle eş değerdir.",
+       "sayfa": 277
+      },
+      {
+       "id": "4.3-02",
+       "tur": "dy",
+       "ifade": "Bir dilin toplum içinde çeşitlenmesi ve farklılaşması, dilin doğal değişme ve gelişmesinin bir parçasıdır.",
+       "dogru": true,
+       "bilgi": "Toplum içinde dil homojen değildir; çeşitlenme ve farklılaşma dilin doğal değişme ve gelişme sürecinde ortaya çıkar.",
+       "sayfa": 277
+      },
+      {
+       "id": "4.3-03",
+       "tur": "dy",
+       "ifade": "Kitle iletişim araçlarındaki dil kullanımının ana dil üzerinde herhangi bir etkisi yoktur.",
+       "dogru": false,
+       "bilgi": "Kitle iletişim araçlarındaki dil kullanımı ana dili etkiler; bu araçlar dilin yanlış kullanımını da yayabilir.",
+       "sayfa": 277
+      },
+      {
+       "id": "4.3-04",
+       "tur": "bosluk",
+       "cumle": "Sunum için toplanan bilgiler güvenilirlik, tutarlılık ve ___ gibi ölçütlere göre değerlendirilmelidir.",
+       "cevap": "geçerlilik",
+       "celdiriciler": [
+        "uzunluk",
+        "popülerlik",
+        "eskilik"
+       ],
+       "bilgi": "Sunumda kullanılacak bilgiler güvenilirlik, tutarlılık ve geçerlilik ölçütlerine göre seçilmelidir.",
+       "sayfa": 278
+      },
+      {
+       "id": "4.3-05",
+       "tur": "secmeli",
+       "soru": "Sunum değerlendirmesinde “düşünceleri ana fikir etrafında ifade etme ve fikirleri tekrara düşmeden sunma” hangi ölçüte aittir?",
+       "secenekler": [
+        "Beden dili",
+        "Düşünsel süreçleri kontrol etme",
+        "Zaman yönetimi",
+        "İş birliği"
+       ],
+       "dogru": 1,
+       "bilgi": "Düşünsel süreçleri kontrol etme ölçütü uygun örnek vermeyi, ana fikre bağlı kalmayı ve tekrardan kaçınmayı kapsar.",
+       "sayfa": 279
+      }
+     ]
+    },
+    {
+     "no": "4.4",
+     "ad": "Dinleme/İzleme: Otobiyografi",
+     "kartlar": [
+      {
+       "id": "4.4-01",
+       "tur": "secmeli",
+       "soru": "Herhangi bir alanda tanınmış bir kişinin kendi yaşam öyküsünü ayrıntılarıyla ve gerçeğe uygun biçimde yazdığı tür hangisidir?",
+       "secenekler": [
+        "Biyografi",
+        "Anı",
+        "Günlük",
+        "Otobiyografi"
+       ],
+       "dogru": 3,
+       "bilgi": "Otobiyografi, kişinin kendi yaşam öyküsünü ayrıntılarıyla ve tam bir gerçeklikle kaleme aldığı eserdir.",
+       "sayfa": 292
+      },
+      {
+       "id": "4.4-02",
+       "tur": "dy",
+       "ifade": "Otobiyografide olaylar genellikle yaşanma sırasına göre, kronolojik bir düzen içinde aktarılır.",
+       "dogru": true,
+       "bilgi": "Otobiyografide kronolojik bir sıra izlenir; olayların yaşanma sırası göz önünde bulundurulur.",
+       "sayfa": 286
+      },
+      {
+       "id": "4.4-03",
+       "tur": "dy",
+       "ifade": "Otobiyografi yazılırken üçüncü şahıs anlatımı kullanılır.",
+       "dogru": false,
+       "bilgi": "Otobiyografi kişinin kendi yaşam öyküsünü bizzat kaleme aldığı eserdir; bu nedenle olaylar birinci kişi ağzından anlatılır.",
+       "sayfa": 292
+      },
+      {
+       "id": "4.4-04",
+       "tur": "secmeli",
+       "soru": "Sivas'ın Şarkışla ilçesine bağlı Sivrialan köyünde doğan, âşıklık geleneğinin son büyük temsilcilerinden sayılan halk ozanı kimdir?",
+       "secenekler": [
+        "Abdurrahim Karakoç",
+        "Âşık Ömer",
+        "Karacaoğlan",
+        "Âşık Veysel"
+       ],
+       "dogru": 3,
+       "bilgi": "Âşık Veysel (1894-1973); vatan ve insan sevgisi, ilahi aşk, doğa sevgisi ve tasavvuf gibi konuları sade ve samimi bir üslupla işler.",
+       "sayfa": 287
+      },
+      {
+       "id": "4.4-05",
+       "tur": "bosluk",
+       "cumle": "Âşık Veysel, Sivas'ta görev yapan ___ sayesinde adını duyurmuştur.",
+       "cevap": "Ahmet Kutsi Tecer",
+       "celdiriciler": [
+        "Mehmet Kaplan",
+        "Faruk Nafiz Çamlıbel",
+        "Ziya Gökalp"
+       ],
+       "bilgi": "Âşık Veysel 1928'den itibaren kasaba ve şehirleri dolaşmış, Ahmet Kutsi Tecer sayesinde adını duyurmuştur.",
+       "sayfa": 287
+      },
+      {
+       "id": "4.4-06",
+       "tur": "bosluk",
+       "cumle": "Âşık Veysel, Cumhuriyet'in 10. yıl dönümünde ___ adlı şiirini Atatürk'e okumak için üç ayda yürüyerek Ankara'ya gelmiştir.",
+       "cevap": "Cumhuriyet Destanı",
+       "celdiriciler": [
+        "Dostlar Beni Hatırlasın",
+        "Sazımdan Sesler",
+        "Deyişler"
+       ],
+       "bilgi": "Âşık Veysel, Cumhuriyet Destanı'nı Atatürk'e okumak üzere üç ay yürüyerek Ankara'ya gitmiştir.",
+       "sayfa": 287
+      },
+      {
+       "id": "4.4-07",
+       "tur": "secmeli",
+       "soru": "Âşık Veysel yedi yaşında hangi hastalık nedeniyle gözlerini kaybetmiştir?",
+       "secenekler": [
+        "Kızamık",
+        "Çiçek hastalığı",
+        "Kızıl hastalığı",
+        "Verem"
+       ],
+       "dogru": 1,
+       "bilgi": "Âşık Veysel yedi yaşında çiçek hastalığından gözlerini kaybetmiş, babasının getirdiği sazla çalıp söylemeye başlamıştır.",
+       "sayfa": 286
+      },
+      {
+       "id": "4.4-08",
+       "tur": "eslestir",
+       "yonerge": "Hayat hikâyesi anlatan eserleri sanatçılarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Bir Bilim Adamının Romanı: Mustafa İnan",
+         "Oğuz Atay"
+        ],
+        [
+         "Bir Delikanlının Hikâyesi",
+         "Sabahattin Ali"
+        ],
+        [
+         "Ben Orhan Veli",
+         "Orhan Veli Kanık"
+        ],
+        [
+         "Kısa Hayat Öyküm",
+         "Abidin Dino"
+        ]
+       ],
+       "bilgi": "Hayat hikâyeleri roman, hikâye, şiir, otobiyografi ve belgesel gibi farklı türlerde anlatılabilir.",
+       "sayfa": 281
+      },
+      {
+       "id": "4.4-09",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi Âşık Veysel'in eserlerindendir?",
+       "secenekler": [
+        "Dostlar Beni Hatırlasın",
+        "Hasan'a Mektuplar",
+        "Kendi Gök Kubbemiz",
+        "Bir Bayrak Rüzgâr Bekliyor"
+       ],
+       "dogru": 0,
+       "bilgi": "Âşık Veysel'in şiir kitapları arasında Deyişler, Sazımdan Sesler ve Dostlar Beni Hatırlasın bulunur.",
+       "sayfa": 287
+      }
+     ]
+    },
+    {
+     "no": "4.5",
+     "ad": "Edebiyat Atölyesi: Yazma",
+     "kartlar": [
+      {
+       "id": "4.5-01",
+       "tur": "dy",
+       "ifade": "Otobiyografide yaşanan olumsuz durumların aktarılmasından mutlaka kaçınılmalıdır.",
+       "dogru": false,
+       "bilgi": "Otobiyografiler gerçeği yansıtan kişisel hikâyelerdir; yaşam öyküsü tam bir gerçeklikle verilir.",
+       "sayfa": 292
+      },
+      {
+       "id": "4.5-02",
+       "tur": "dy",
+       "ifade": "Otobiyografi yazımında fotoğraf ve belgelerden yararlanmak anlatımın etkileyiciliğini artırır.",
+       "dogru": true,
+       "bilgi": "Otobiyografide etkileyiciliği artırmak için fotoğraf ve belge gibi görsel ögelerden yararlanılabilir.",
+       "sayfa": 292
+      },
+      {
+       "id": "4.5-03",
+       "tur": "bosluk",
+       "cumle": "Otobiyografi yazmak için yapılan plan giriş, ___ ve sonuç bölümlerinden oluşur.",
+       "cevap": "gelişme",
+       "celdiriciler": [
+        "serim",
+        "düğüm",
+        "özet"
+       ],
+       "bilgi": "Otobiyografi giriş, gelişme ve sonuç bölümlerinden oluşan bir plana göre yazılır.",
+       "sayfa": 295
+      },
+      {
+       "id": "4.5-04",
+       "tur": "secmeli",
+       "soru": "Otobiyografi değerlendirmesinde “olayları akışına uygun ifade etme ve tekrara düşmeden tamamlama” hangi ölçüte aittir?",
+       "secenekler": [
+        "Söz varlığı",
+        "Akıcılık",
+        "Düşünsel süreçleri kontrol etme",
+        "Yazım ve noktalama"
+       ],
+       "dogru": 2,
+       "bilgi": "Düşünsel süreçleri kontrol etme ölçütü, olayların akışa uygun ve tekrarsız anlatılmasını değerlendirir.",
+       "sayfa": 294
+      },
+      {
+       "id": "4.5-05",
+       "tur": "secmeli",
+       "soru": "Yusuf Ziya Ortaç'ın kendi hayatını anlattığı otobiyografik eseri hangisidir?",
+       "secenekler": [
+        "Kısa Hayat Öyküm",
+        "Bir Bilim Adamının Romanı",
+        "Beni Ben Anlatayım",
+        "Bir Devrin Romanı"
+       ],
+       "dogru": 2,
+       "bilgi": "Beni Ben Anlatayım, Yusuf Ziya Ortaç'ın otobiyografisidir.",
+       "sayfa": 291
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

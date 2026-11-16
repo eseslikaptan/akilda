@@ -1,0 +1,3401 @@
+{
+ "kitap": "felsefe-10",
+ "ders": "felsefe",
+ "sinif": 10,
+ "baslik": "Felsefe Dersi 10. Sınıf Ders Kitabı",
+ "sayfaUrl": "https://tymm.meb.gov.tr/kitap/73/felsefe-dersi-10sinif-ders-kitabi",
+ "pdfUrl": "https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi-10sinif-ders-kitabi_20261013_140018_786.pdf",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Felsefenin Doğası",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Felsefenin Anlamı",
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "secmeli",
+       "soru": "“Philosophia” kelimesinin anlamı hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "Varlık bilgisi",
+        "Bilgelik sevgisi",
+        "Doğru düşünme sanatı",
+        "Akıl yürütme yöntemi"
+       ],
+       "dogru": 1,
+       "bilgi": "Felsefe, Yunanca philia (sevmek, aramak) ve sophia (bilgelik) kelimelerinden oluşan “philosophia”dan türemiştir; bilgelik sevgisi demektir.",
+       "sayfa": 16
+      },
+      {
+       "id": "1.1-02",
+       "tur": "bosluk",
+       "cumle": "“Philosophia” terimini ilk kullanan kişi olarak ___ bilinir.",
+       "cevap": "Pythagoras",
+       "celdiriciler": [
+        "Thales",
+        "Sokrates",
+        "Platon"
+       ],
+       "bilgi": "Philosophia terimini ilk kullanan kişi Pythagoras (Pisagor) olarak bilinir.",
+       "sayfa": 16
+      },
+      {
+       "id": "1.1-03",
+       "tur": "dy",
+       "ifade": "Pythagoras'a göre bilgelik tanrılara özgüdür; insan ise bu bilgeliği sevip ona ulaşmak için çaba göstermelidir.",
+       "dogru": true,
+       "bilgi": "Pythagoras, bilgeliği tanrılara özgü görmüş; insanın ona yalnızca sevgiyle yönelebileceğini savunmuştur.",
+       "sayfa": 16
+      },
+      {
+       "id": "1.1-04",
+       "tur": "secmeli",
+       "soru": "İnsanın kendisini ve çevresini ayırt etmesini sağlayan bilinç, felsefede neyin merkezi olarak kabul edilir?",
+       "secenekler": [
+        "Yalnızca duyuların",
+        "Alışkanlıkların",
+        "Duygu, algı ve bilginin",
+        "Toplumsal kuralların"
+       ],
+       "dogru": 2,
+       "bilgi": "Bilinç; duygunun, algının ve bilginin merkezidir ve geçmişe, geleceğe ilişkin farkındalığı da kapsar.",
+       "sayfa": 16
+      },
+      {
+       "id": "1.1-05",
+       "tur": "eslestir",
+       "yonerge": "Filozofları yaptıkları felsefe tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Anselmus",
+         "İnanılanı anlamaya çalışmaktır."
+        ],
+        [
+         "Farabi",
+         "Var olmaları bakımından varlıkların bilinmesidir."
+        ],
+        [
+         "Karl Jaspers",
+         "Yolda olmaktır."
+        ],
+        [
+         "Aristoteles",
+         "Varlığın ilkeleri ve nedenleri üzerine sistematik araştırmadır."
+        ]
+       ],
+       "bilgi": "Filozofların felsefe tanımları farklıdır çünkü her biri felsefeye kendi bakış açısından yaklaşır.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-06",
+       "tur": "secmeli",
+       "soru": "Felsefeyi “varlık hakkındaki düşünce ve bu düşünce üzerinde düşünce, yani varlık ilmi” olarak tanımlayan Türk düşünür kimdir?",
+       "secenekler": [
+        "Nurettin Topçu",
+        "Farabi",
+        "Hilmi Ziya Ülken",
+        "İbn Sina"
+       ],
+       "dogru": 2,
+       "bilgi": "Hilmi Ziya Ülken felsefeyi varlık hakkındaki düşünce ve bu düşünce üzerine düşünce, yani varlık ilmi olarak tanımlar.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-07",
+       "tur": "bosluk",
+       "cumle": "Descartes'a göre felsefe, tüm bilgilerin temelini oluşturan ve ___ bilgiler üzerine inşa edilen bir düşünce sistemidir.",
+       "cevap": "kesin ve açık",
+       "celdiriciler": [
+        "deneysel ve olgusal",
+        "geleneksel ve ortak",
+        "sezgisel ve öznel"
+       ],
+       "bilgi": "Rene Descartes felsefeyi kesin ve açık bilgiler üzerine kurulan, tüm bilgilerin temelini oluşturan bir sistem olarak görür.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-08",
+       "tur": "secmeli",
+       "soru": "Felsefeyi “evreni bütün hâlinde kavrama çabası” olarak tanımlayıp bu nedenle onu ahlakın da kaynağı sayan düşünür kimdir?",
+       "secenekler": [
+        "Nurettin Topçu",
+        "Immanuel Kant",
+        "Hilmi Ziya Ülken",
+        "Platon"
+       ],
+       "dogru": 0,
+       "bilgi": "Nurettin Topçu'ya göre felsefe evreni bütün hâlinde kavrama çabasıdır; bu yüzden ahlakın da kaynağıdır.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-09",
+       "tur": "dy",
+       "ifade": "Hakikati arayan filozof yalnızca bilmekle yetinmez; bilgisine uygun erdemli bir yaşam sürmeye çalışır.",
+       "dogru": true,
+       "bilgi": "Felsefede bildiğini hayata geçiren kişi erdemli kabul edilir.",
+       "sayfa": 16
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "Felsefi Düşüncenin Özellikleri",
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "secmeli",
+       "soru": "Yeni bir ürün alırken reklamların ve kullanıcı yorumlarının gerçekliğini sorgulayarak karar vermek hangi düşünme biçimine örnektir?",
+       "secenekler": [
+        "Pratik düşünme",
+        "Yaratıcı düşünme",
+        "Sezgisel düşünme",
+        "Eleştirel düşünme"
+       ],
+       "dogru": 3,
+       "bilgi": "Bilgileri doğrudan kabul etmeyip gerçekliğini sorgulayarak değerlendirmek eleştirel düşünmenin sonucudur.",
+       "sayfa": 20
+      },
+      {
+       "id": "1.2-02",
+       "tur": "bosluk",
+       "cumle": "Felsefi düşünme; varlık, bilgi ve değerleri akıl ve mantık ilkelerine dayanarak ___ bir şekilde kavrama ve temellendirme etkinliğidir.",
+       "cevap": "bütüncül",
+       "celdiriciler": [
+        "parçacı",
+        "deneysel",
+        "sezgisel"
+       ],
+       "bilgi": "Felsefi düşünme; sistemli, tutarlı, şüpheci ve kapsamlı bir sorgulamayla konuları bütüncül biçimde kavramaya çalışır.",
+       "sayfa": 20
+      },
+      {
+       "id": "1.2-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi felsefi düşünmeye örnektir?",
+       "secenekler": [
+        "Yağmurlu havada şemsiye almaya karar vermek",
+        "Özgürlük ile sorumluluk ilişkisini çözümlemek",
+        "Bir yemeği eşit parçalara bölmek",
+        "Suyun kaynama sıcaklığını ölçmek"
+       ],
+       "dogru": 1,
+       "bilgi": "Özgürlük-sorumluluk ilişkisini çözümlemek ya da “Gerçeklik nedir?” sorusunu temellendirmek felsefi düşünmeye örnektir.",
+       "sayfa": 20
+      },
+      {
+       "id": "1.2-04",
+       "tur": "eslestir",
+       "yonerge": "Felsefi düşüncenin özelliklerini açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Yığılımlı ilerleme (kümülatiflik)",
+         "Geçmiş düşüncelerin eleştirilip geliştirilerek ilerlemesi"
+        ],
+        [
+         "Tutarlı olma",
+         "Düşünceler arasında çelişki bulunmaması"
+        ],
+        [
+         "Evrensel olma",
+         "Problemlerin tüm insanlığı ilgilendirmesi"
+        ],
+        [
+         "Sistemli olma",
+         "Bilgilerin düzenli ve bütünlüklü bir yapıda sunulması"
+        ]
+       ],
+       "bilgi": "Felsefi düşünce yığılımlı, tutarlı, evrensel ve sistemli olma gibi özellikler taşır.",
+       "sayfa": 21
+      },
+      {
+       "id": "1.2-05",
+       "tur": "bosluk",
+       "cumle": "Zihnin kendi düşüncelerini yeniden düşünmesi, yani düşünme üzerine düşünme, felsefi düşüncenin ___ olma özelliğidir.",
+       "cevap": "refleksif",
+       "celdiriciler": [
+        "rasyonel",
+        "sistemli",
+        "evrensel"
+       ],
+       "bilgi": "Refleksif olma, zihnin kendi düşüncelerini yeniden düşünmesidir (düşünme üzerine düşünme).",
+       "sayfa": 21
+      },
+      {
+       "id": "1.2-06",
+       "tur": "dy",
+       "ifade": "Felsefede bir kez doğru kabul edilen bilgiler bir daha sorgulanmaz.",
+       "dogru": false,
+       "bilgi": "Felsefede doğru kabul edilen bilgiler dahi tekrar sorgulanır; inançların ve düşüncelerin temelleri incelenir.",
+       "sayfa": 20
+      },
+      {
+       "id": "1.2-07",
+       "tur": "secmeli",
+       "soru": "Alışılmışın dışına çıkıp dünyaya şaşkınlıkla bakma ve anlam arayışına girme, felsefi düşüncenin hangi özelliğidir?",
+       "secenekler": [
+        "Merak etme",
+        "Şüphe etme",
+        "Hayret etme",
+        "Sorgulama"
+       ],
+       "dogru": 2,
+       "bilgi": "Hayret etme, dünyaya alışılmışın dışında şaşkınlıkla bakıp anlam arayışına girmektir.",
+       "sayfa": 21
+      },
+      {
+       "id": "1.2-08",
+       "tur": "secmeli",
+       "soru": "Doğru kabul edilen bilgileri sorgulama ve onların dayanaklarını araştırma, felsefi düşüncenin hangi özelliğidir?",
+       "secenekler": [
+        "Şüphe etme",
+        "Hayret etme",
+        "Sistemli olma",
+        "Yığılımlı ilerleme"
+       ],
+       "dogru": 0,
+       "bilgi": "Şüphe etme, doğru kabul edilen bilgileri sorgulamak ve dayanaklarını araştırmaktır.",
+       "sayfa": 21
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "Felsefi Düşüncenin Gelişimi",
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "secmeli",
+       "soru": "Farklı toplumlar katkı sağlamış olsa da felsefe hangi medeniyette sistemli hâle gelmiştir?",
+       "secenekler": [
+        "Mezopotamya",
+        "Antik Mısır",
+        "Antik Çin",
+        "Antik Yunan"
+       ],
+       "dogru": 3,
+       "bilgi": "Felsefenin temelleri Çin, Hindistan, İran, Mısır ve Mezopotamya'ya dayansa da felsefe Antik Yunan'da sistemli hâle gelmiştir.",
+       "sayfa": 24
+      },
+      {
+       "id": "1.3-02",
+       "tur": "dy",
+       "ifade": "MÖ 6. yüzyılda Yunan, Çin ve Hint medeniyetlerinde felsefenin eş zamanlı olarak ortaya çıktığı iddia edilir.",
+       "dogru": true,
+       "bilgi": "Felsefenin MÖ 6. yüzyılda Yunan, Çin ve Hint medeniyetlerinde eş zamanlı doğduğu ileri sürülür.",
+       "sayfa": 24
+      },
+      {
+       "id": "1.3-03",
+       "tur": "secmeli",
+       "soru": "Çin ve Hint felsefe geleneklerinin ortak özelliği hangisidir?",
+       "secenekler": [
+        "Yalnızca doğa olaylarını açıklamaya yönelmeleri",
+        "Ahlak ile inanç arasında bağ kurmaya çalışmaları",
+        "İnancı felsefenin dışında tutmaları",
+        "Evrenin ilk maddesini deneyle araştırmaları"
+       ],
+       "dogru": 1,
+       "bilgi": "Çin ve Hint felsefeleri inanca büyük önem vermiş, ahlak ile inanç arasında bağ kurmaya çalışmıştır.",
+       "sayfa": 24
+      },
+      {
+       "id": "1.3-04",
+       "tur": "eslestir",
+       "yonerge": "Düşünürleri kökenleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Kung-Fu-Tzu",
+         "Çinli filozof (MÖ 551-479)"
+        ],
+        [
+         "Siddhartha Gautama",
+         "Hint filozof (MÖ 563-483)"
+        ],
+        [
+         "Thales",
+         "İlk Çağ (Antik Yunan) filozofu"
+        ]
+       ],
+       "bilgi": "Kung-Fu-Tzu Çin, Siddhartha Gautama Hint, Thales ise Antik Yunan felsefesinin erken temsilcileridir.",
+       "sayfa": 24
+      },
+      {
+       "id": "1.3-05",
+       "tur": "bosluk",
+       "cumle": "Bizans İmparatoru Justinianus'un Atina'daki Platoncu felsefe okulu Akademi'yi kapattığı ___ yılı, felsefe tarihinde yeni bir dönemin başlangıcı sayılır.",
+       "cevap": "529",
+       "celdiriciler": [
+        "622",
+        "711",
+        "1453"
+       ],
+       "bilgi": "529'da Justinianus'un Akademi'yi kapatması felsefe tarihinde yeni bir dönemin başlangıcı kabul edilir.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.3-06",
+       "tur": "secmeli",
+       "soru": "Farklı medeniyetlere ait eserlerin çevrildiği ve bilim insanlarının fikir alışverişinde bulunduğu Beytülhikme hangi şehirde kurulmuştur?",
+       "secenekler": [
+        "Şam",
+        "Kurtuba",
+        "Bağdat",
+        "Kahire"
+       ],
+       "dogru": 2,
+       "bilgi": "Beytülhikme, 754-775 yılları arasında Bağdat'ta kurulan bir çeviri ve ilim merkezidir.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.3-07",
+       "tur": "dy",
+       "ifade": "MS 2-15. yüzyıllar arasında Hristiyan felsefesi dinî otoritenin güdümünde kalmıştır.",
+       "dogru": true,
+       "bilgi": "Bu dönemde Tanrı ve inançla ilgili konular felsefenin merkezine yerleşmiştir.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.3-08",
+       "tur": "secmeli",
+       "soru": "15-17. yüzyıl felsefesinde ortaya çıkan, evrenin merkezine insanı koyan ve onu yücelten düşünce hangisidir?",
+       "secenekler": [
+        "Hümanizm",
+        "Pozitivizm",
+        "Skolastisizm",
+        "Ekolojizm"
+       ],
+       "dogru": 0,
+       "bilgi": "Rönesans döneminde insanı evrenin merkezine koyan ve yücelten hümanizm düşüncesi ortaya çıkmıştır.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.3-09",
+       "tur": "bosluk",
+       "cumle": "Tümevarımı doğayı keşfetmek için yeni bir yöntem olarak 1620'de ortaya koyan düşünür: ___",
+       "cevap": "Francis Bacon",
+       "celdiriciler": [
+        "Nicolaus Copernicus",
+        "Johannes Gutenberg",
+        "Martin Luther"
+       ],
+       "bilgi": "Francis Bacon 1620'de doğayı keşfetmenin yeni yöntemi olarak tümevarımı ortaya koymuştur.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.3-10",
+       "tur": "secmeli",
+       "soru": "Bilginin geniş halk kitlelerine yayılmasını sağlayan “Encyclopedia”yı 1751'de arkadaşlarıyla birlikte yayımlayan düşünür kimdir?",
+       "secenekler": [
+        "Karl Marx",
+        "Francis Bacon",
+        "Martin Luther",
+        "Diderot"
+       ],
+       "dogru": 3,
+       "bilgi": "Diderot ve arkadaşlarının 1751'de yayımladığı Encyclopedia bilginin halka yayılmasını sağlamıştır.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.3-11",
+       "tur": "dy",
+       "ifade": "İstanbul'un Fethi, Antik Yunan felsefesi ve İslam düşüncesine ait birikimin Avrupa'ya yayılmasını sağlayarak Rönesans'ı hızlandırmıştır.",
+       "dogru": true,
+       "bilgi": "1453'te İstanbul'un Fethi, kentteki düşünürlerin Batı ile etkileşimini artırarak Rönesans'ı hızlandırmıştır.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.3-12",
+       "tur": "secmeli",
+       "soru": "İslam felsefesinde matematik, geometri, ahlak ve metafizik alanlarında etkili bir üretim dönemi hangi yüzyıllar arasında yaşanmıştır?",
+       "secenekler": [
+        "2-6. yüzyıllar",
+        "8-13. yüzyıllar",
+        "14-17. yüzyıllar",
+        "17-19. yüzyıllar"
+       ],
+       "dogru": 1,
+       "bilgi": "İslam felsefesi 8-13. yüzyıllarda etkili bir düşünsel üretim yaşamış, bu birikim çeviriler yoluyla Batı'ya aktarılmıştır.",
+       "sayfa": 25
+      }
+     ]
+    },
+    {
+     "no": "1.4",
+     "ad": "Felsefi Soruların Temel Özellikleri",
+     "kartlar": [
+      {
+       "id": "1.4-01",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki sorulardan hangisi felsefi bir sorudur?",
+       "secenekler": [
+        "Tren saat kaçta kalkacak?",
+        "Özgürlük nedir?",
+        "Bu kitap kaç sayfadır?",
+        "Bu şehrin yıllık yağış miktarı nedir?"
+       ],
+       "dogru": 1,
+       "bilgi": "Felsefi sorular kavramların özünü sorgular; varlık, bilgi ve değerler hakkında derin bir anlam arayışından doğar.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.4-02",
+       "tur": "eslestir",
+       "yonerge": "Felsefi soruların özelliklerini açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Kavramsal derinlik ve öze yönelim",
+         "Kavramların anlamını ve dayandığı temelleri soruşturur."
+        ],
+        [
+         "Açık uçluluk",
+         "Tek ve kesin bir cevabı yoktur."
+        ],
+        [
+         "Evrensellik",
+         "Zaman ve mekândan bağımsız olarak tüm insanlığı ilgilendirir."
+        ],
+        [
+         "Kurucu/yönlendirici olma",
+         "Verilen cevap dünya görüşünü ve alt soruları şekillendirir."
+        ]
+       ],
+       "bilgi": "Felsefi sorular kavramsal derinlik, açık uçluluk, evrensellik, tutarlılık ve kurucu olma özellikleri taşır.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.4-03",
+       "tur": "dy",
+       "ifade": "Felsefi soruların, bilimsel sorular gibi tek ve kesin bir cevabı vardır.",
+       "dogru": false,
+       "bilgi": "Felsefi soruların tek ve kesin bir cevabı yoktur; her yeni cevap yeni sorulara zemin hazırlar.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.4-04",
+       "tur": "bosluk",
+       "cumle": "Aynı felsefe sorusunun farklı filozoflarca farklı ve tutarlı biçimlerde cevaplanabilmesi, felsefi soruların ___ özelliğiyle ilgilidir.",
+       "cevap": "açık uçluluk",
+       "celdiriciler": [
+        "evrensellik",
+        "kurucu olma",
+        "öze yönelim"
+       ],
+       "bilgi": "Açık uçlu felsefi sorular sürekli tartışmaya açıktır ve farklı filozoflarca farklı biçimlerde cevaplanabilir.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.4-05",
+       "tur": "secmeli",
+       "soru": "Felsefi bir soruya verilen cevabın, bir düşünce sistemindeki diğer alt soruları şekillendirmesi hangi özellikle ilgilidir?",
+       "secenekler": [
+        "Evrensellik",
+        "Açık uçluluk",
+        "Kurucu/yönlendirici olma",
+        "Kavramsal derinlik"
+       ],
+       "dogru": 2,
+       "bilgi": "Kurucu/yönlendirici felsefi soruların etki alanı insanın dünya görüşünü şekillendirecek kadar geniştir.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.4-06",
+       "tur": "secmeli",
+       "soru": "Felsefi sorular neyin sonucu olarak ortaya çıkar?",
+       "secenekler": [
+        "Varlık, bilgi ve değerlere dair anlam arayışının",
+        "Anlık pratik ihtiyaçları giderme isteğinin",
+        "Yalnızca ölçülebilir olguları açıklama çabasının",
+        "Günlük alışkanlıkları olduğu gibi sürdürme eğiliminin"
+       ],
+       "dogru": 0,
+       "bilgi": "Felsefi sorular, görünenin ardındaki temel ilkeleri arayan derin bir anlam arayışının ürünüdür.",
+       "sayfa": 29
+      },
+      {
+       "id": "1.4-07",
+       "tur": "bosluk",
+       "cumle": "Günlük hayatta sorulan pratik sorular anlık ihtiyaçları gidermeye, bilimsel sorular ise ___ olguları açıklamaya hizmet eder.",
+       "cevap": "ölçülebilir",
+       "celdiriciler": [
+        "soyut",
+        "değersel",
+        "metafizik"
+       ],
+       "bilgi": "Bilimsel araştırmaların temelindeki sorular ölçülebilir olguları açıklamaya yöneliktir.",
+       "sayfa": 29
+      },
+      {
+       "id": "1.4-08",
+       "tur": "secmeli",
+       "soru": "Kişinin beynine bağlı elektrotlarla kusursuz bir simülasyon yaşadığı “Tecrübe Makinesi” düşünce deneyini kim kurgulamıştır?",
+       "secenekler": [
+        "Karl Jaspers",
+        "Immanuel Kant",
+        "Rene Descartes",
+        "Robert Nozick"
+       ],
+       "dogru": 3,
+       "bilgi": "“Tecrübe Makinesi” düşünce deneyi Robert Nozick tarafından kurgulanmıştır.",
+       "sayfa": 31
+      }
+     ]
+    },
+    {
+     "no": "1.5",
+     "ad": "Felsefenin Diğer Alanlarla İlişkisi",
+     "kartlar": [
+      {
+       "id": "1.5-01",
+       "tur": "eslestir",
+       "yonerge": "Felsefe disiplinlerini temel olarak sorguladıkları konularla eşleştir.",
+       "ciftler": [
+        [
+         "Varlık felsefesi",
+         "Varlığın olup olmadığı ve ne olduğu"
+        ],
+        [
+         "Bilgi felsefesi",
+         "Bilginin imkânı, kaynağı ve doğruluk ölçütleri"
+        ],
+        [
+         "Siyaset felsefesi",
+         "Devletin kökeni, iktidarın meşruiyeti ve ideal düzen"
+        ],
+        [
+         "Bilim felsefesi",
+         "Bilimin doğası ve yöntemi"
+        ],
+        [
+         "Estetik ve sanat felsefesi",
+         "Güzelliğin ne olduğu ve ortak estetik yargılar"
+        ]
+       ],
+       "bilgi": "Felsefe insan yaşamının hemen her alanını ele aldığı için varlık, bilgi, ahlak, sanat, siyaset, din, bilim gibi disiplinlere ayrılmıştır.",
+       "sayfa": 34
+      },
+      {
+       "id": "1.5-02",
+       "tur": "secmeli",
+       "soru": "Bilim ile felsefenin ortak yönü hangisidir?",
+       "secenekler": [
+        "Varlığı parçalara ayırarak incelemeleri",
+        "Deney ve gözleme dayanmaları",
+        "Aklı temel alarak bilgiye ulaşmak istemeleri",
+        "Kesin ve test edilebilir kanıtlar sunmaları"
+       ],
+       "dogru": 2,
+       "bilgi": "Bilim ve felsefe aklı temel alır, sistemli bir araştırmanın ürünüdür ve açıklayıcı bilgiye ulaşmayı amaçlar.",
+       "sayfa": 35
+      },
+      {
+       "id": "1.5-03",
+       "tur": "dy",
+       "ifade": "Felsefe varlığı parçalara ayırarak, bilim ise varlığı bütüncül olarak inceler.",
+       "dogru": false,
+       "bilgi": "Felsefe varlığa bütüncül yaklaşır; bilim ise ele aldığı varlığı parçalara ayırarak inceler.",
+       "sayfa": 35
+      },
+      {
+       "id": "1.5-04",
+       "tur": "secmeli",
+       "soru": "Din, bilgiyi temelde hangi kaynaktan alır?",
+       "secenekler": [
+        "Gözlem ve deneyden",
+        "Vahiy ve kutsal metinlerden",
+        "Akıl yürütme ve tartışmadan",
+        "Hayal gücü ve yaratıcılıktan"
+       ],
+       "dogru": 1,
+       "bilgi": "Din bilgiyi vahiy ve kutsal metinlerden alır ve insanın manevi ihtiyaçlarına cevap verir.",
+       "sayfa": 34
+      },
+      {
+       "id": "1.5-05",
+       "tur": "bosluk",
+       "cumle": "Felsefe bilgiye ulaşmayı amaçlarken sanat ___ ulaşmayı amaçlar.",
+       "cevap": "güzele",
+       "celdiriciler": [
+        "hakikate",
+        "kesinliğe",
+        "inanca"
+       ],
+       "bilgi": "Sanatın amacı bilgi vermekten çok güzellik ve estetik etki oluşturmaktır.",
+       "sayfa": 35
+      },
+      {
+       "id": "1.5-06",
+       "tur": "bosluk",
+       "cumle": "Felsefenin ürünü olan düşünce soyutken sanatın ürünü olan sanat eseri ___ niteliktedir.",
+       "cevap": "somut",
+       "celdiriciler": [
+        "kuramsal",
+        "evrensel",
+        "nesnel"
+       ],
+       "bilgi": "Felsefe akla dayanır ve soyut düşünce üretir; sanat duygu ve coşkuya dayanır, somut eser ortaya koyar.",
+       "sayfa": 35
+      },
+      {
+       "id": "1.5-07",
+       "tur": "secmeli",
+       "soru": "Felsefede tek bir doğru yerine farklı görüşlerin bulunmasının temel nedeni hangisidir?",
+       "secenekler": [
+        "Gerekçe üretip kesin kanıt sunmaması",
+        "Gözlem ve deneyle test edilebilir sonuçlara ulaşması",
+        "Bilgisini vahiy ve kutsal metinlerden alması",
+        "Duygu ve coşkuyu temel alıp güzeli hedeflemesi"
+       ],
+       "dogru": 0,
+       "bilgi": "Felsefe akıl yürütme ve tartışmayla gerekçeler üretir fakat kesin kanıtlar sunmaz; bu yüzden farklı görüşler bulunur.",
+       "sayfa": 34
+      },
+      {
+       "id": "1.5-08",
+       "tur": "bosluk",
+       "cumle": "Bilim ve felsefe aklı temel alırken din ve sanat akıldan çok ___ ve duyguya dayanır.",
+       "cevap": "sezgi",
+       "celdiriciler": [
+        "deney",
+        "gözlem",
+        "mantık"
+       ],
+       "bilgi": "Din ve sanat akıldan çok sezgi ve duyguya dayanır.",
+       "sayfa": 34
+      },
+      {
+       "id": "1.5-09",
+       "tur": "dy",
+       "ifade": "Felsefe ile din, ele aldıkları konulara eleştirel biçimde yaklaşmaları bakımından birbirine benzer.",
+       "dogru": false,
+       "bilgi": "Felsefe konulara eleştirel yaklaşır; dinin bilgileri ise kesindir ve bu bilgilere sorgulamadan inanılır.",
+       "sayfa": 35
+      }
+     ]
+    },
+    {
+     "no": "1.6",
+     "ad": "Felsefenin Bireysel ve Toplumsal İşlevi",
+     "kartlar": [
+      {
+       "id": "1.6-01",
+       "tur": "bosluk",
+       "cumle": "UNESCO'nun ilan ettiği Dünya Felsefe Günü, her yıl kasım ayının üçüncü ___ günü kutlanır.",
+       "cevap": "perşembe",
+       "celdiriciler": [
+        "pazartesi",
+        "çarşamba",
+        "cuma"
+       ],
+       "bilgi": "UNESCO 2002'de Dünya Felsefe Günü'nü ilan etmiş; gün her yıl kasımın üçüncü perşembesi kutlanır.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.6-02",
+       "tur": "secmeli",
+       "soru": "“Dünya Felsefe Günü”nü ilan eden ve her yıl bu gün için bir tema belirleyen kuruluş hangisidir?",
+       "secenekler": [
+        "UNICEF",
+        "Dünya Sağlık Örgütü",
+        "UNESCO",
+        "Avrupa Konseyi"
+       ],
+       "dogru": 2,
+       "bilgi": "Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü (UNESCO) Dünya Felsefe Günü için her yıl bir tema belirler.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.6-03",
+       "tur": "secmeli",
+       "soru": "Dünyada “P4C” olarak bilinen eğitim yaklaşımı neyi ifade eder?",
+       "secenekler": [
+        "Felsefe ve Sağlık Sempozyumu",
+        "Çocuklar İçin Felsefe",
+        "Eleştirel Okuma Programı",
+        "Felsefe Tarihi Atölyesi"
+       ],
+       "dogru": 1,
+       "bilgi": "P4C (Çocuklar İçin Felsefe) yaklaşımında çocuklar bir soru ya da kavram üzerine birlikte düşünüp görüşlerini gerekçelendirir.",
+       "sayfa": 38
+      },
+      {
+       "id": "1.6-04",
+       "tur": "dy",
+       "ifade": "Felsefe Orta Çağ'da dinî bakış açısıyla evreni anlamlandırmaya çalışmış, Rönesans'la birlikte aklı temel alarak bilimlerin gelişmesine katkı sağlamıştır.",
+       "dogru": true,
+       "bilgi": "İlk Çağ'da hakikat arayışı olarak başlayan felsefe, tarih boyunca farklı işlevler üstlenmiştir.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.6-05",
+       "tur": "dy",
+       "ifade": "Felsefe, hangi düşüncenin doğru ya da yanlış olduğuna otoritelerin karar vermesi gerektiğini öğretir.",
+       "dogru": false,
+       "bilgi": "Felsefe, hangi düşüncenin doğru veya yanlış olduğuna bireyin kendisinin karar vermesi gerektiğini öğretir.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.6-06",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi felsefi düşünmenin bireye sağladığı katkılardandır?",
+       "secenekler": [
+        "Tüm sorulara kesin cevap bulma",
+        "Vardığı sonucun hiç değişmeyeceğine inanma",
+        "Otoritelerin görüşlerini sorgusuz benimseme",
+        "Sorunlar karşısında alternatif çözümler üretme"
+       ],
+       "dogru": 3,
+       "bilgi": "Felsefe; alternatif çözüm üretme, karar alma, farklı bakış açılarıyla değerlendirme ve eleştirel düşünme becerileri kazandırır.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.6-07",
+       "tur": "secmeli",
+       "soru": "Felsefe, İlk Çağ'da nasıl bir etkinlik olarak başlamıştır?",
+       "secenekler": [
+        "Hakikatin peşinde bir arayış olarak",
+        "Dinî otoritenin bir aracı olarak",
+        "Deneysel bilimlerin yöntemi olarak",
+        "Siyasi bir yönetim programı olarak"
+       ],
+       "dogru": 0,
+       "bilgi": "Felsefe İlk Çağ'da hakikatin peşinde bir arayış olarak başlamış, zamanla farklı işlevler üstlenmiştir.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.6-08",
+       "tur": "bosluk",
+       "cumle": "Felsefe, bireylerin en iyi gerekçelerle bir sonuca varmasını sağlar ve bu sonucun zamanla ___ öğretir.",
+       "cevap": "değişebileceğini",
+       "celdiriciler": [
+        "kesinleşeceğini",
+        "unutulacağını",
+        "evrenselleşeceğini"
+       ],
+       "bilgi": "Felsefe, ulaşılan sonuçların zamanla değişebileceğini ve söylenen her şeyin doğru olmadığını fark ettirir.",
+       "sayfa": 37
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Felsefe, Mantık ve Argümantasyon",
+   "konular": [
+    {
+     "no": "2.1",
+     "ad": "Düşünme ve Dil İlişkisi",
+     "kartlar": [
+      {
+       "id": "2.1-01",
+       "tur": "secmeli",
+       "soru": "Dilin aklın bir ürünü olduğunu, düşünmenin gerçekleşmesi için gerekli olmayıp yalnızca iletişim aracı olduğunu savunan görüş hangisidir?",
+       "secenekler": [
+        "Dil ve düşünme özdeştir.",
+        "Dil, düşünmeden bağımsız bir araçtır.",
+        "Dil ve düşünme birbirini etkiler ama birbirine indirgenemez."
+       ],
+       "dogru": 1,
+       "bilgi": "Düşünme-dil ilişkisinde üç görüş vardır: özdeşlik, dilin bağımsız bir araç olması ve karşılıklı etkileşim.",
+       "sayfa": 48
+      },
+      {
+       "id": "2.1-02",
+       "tur": "bosluk",
+       "cumle": "Bazı düşünürler zihinsel bir süreç olan düşünmeyi “___ konuşma” olarak niteler.",
+       "cevap": "sessiz",
+       "celdiriciler": [
+        "kurallı",
+        "toplumsal",
+        "simgesel"
+       ],
+       "bilgi": "Düşünme, kişinin kendi kendisiyle yaptığı sessiz bir konuşma olarak tanımlanır.",
+       "sayfa": 48
+      },
+      {
+       "id": "2.1-03",
+       "tur": "dy",
+       "ifade": "Düşünme-dil ilişkisine dair birinci görüşe göre dil ve düşünme özdeştir; düşünme dil olmadan gerçekleşemez.",
+       "dogru": true,
+       "bilgi": "Birinci görüşe göre dil düşünmenin temelidir ve zihinsel süreçler dil aracılığıyla şekillenir.",
+       "sayfa": 48
+      },
+      {
+       "id": "2.1-04",
+       "tur": "secmeli",
+       "soru": "Duygu ve düşüncelerin sembollerle ifade edilmesi olarak tanımlanan ve iletişim aracı olarak kullanılan kavram hangisidir?",
+       "secenekler": [
+        "Mantık",
+        "Düşünme",
+        "Argüman",
+        "Dil"
+       ],
+       "dogru": 3,
+       "bilgi": "Dil, duygu ve düşüncelerin sembollerle ifade edilmesidir; günlük yaşamdan felsefeye birçok alanda rol oynar.",
+       "sayfa": 48
+      },
+      {
+       "id": "2.1-05",
+       "tur": "dy",
+       "ifade": "Dil, ortaya çıktıktan sonra hiç değişmeyen sabit bir sistemdir.",
+       "dogru": false,
+       "bilgi": "Dil, sürekli değişen ve gelişen canlı bir varlık niteliği taşır.",
+       "sayfa": 48
+      },
+      {
+       "id": "2.1-06",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi dilin özelliklerinden biridir?",
+       "secenekler": [
+        "Yalnızca bireye ait olup toplumsal boyutunun bulunmaması",
+        "Toplumda oluşmuş örtük bir uzlaşma sistemi olması",
+        "Yalnızca seslerden oluşup hiçbir sembol içermemesi",
+        "Kendi kurallarından bağımsız ve rastgele gelişmesi"
+       ],
+       "dogru": 1,
+       "bilgi": "Dil; kökeni eski zamanlara dayanan, toplum üyeleri arasında oluşmuş örtük bir uzlaşma sistemidir.",
+       "sayfa": 48
+      },
+      {
+       "id": "2.1-07",
+       "tur": "bosluk",
+       "cumle": "Dil yalnızca bir iletişim aracı değil, aynı zamanda bir ___ aracıdır.",
+       "cevap": "anlamlandırma",
+       "celdiriciler": [
+        "ölçme",
+        "kanıtlama",
+        "sınıflandırma"
+       ],
+       "bilgi": "Dil düşünceleri geliştirir, düzenler, zenginleştirir ve anlamlandırmayı sağlar.",
+       "sayfa": 49
+      },
+      {
+       "id": "2.1-08",
+       "tur": "bosluk",
+       "cumle": "Düşünme; anlam üretme, kavram oluşturma ve çıkarım yapma süreçlerini kapsar, kavramlar ve ___ aracılığıyla gerçekleşir.",
+       "cevap": "imgeler",
+       "celdiriciler": [
+        "duyumlar",
+        "alışkanlıklar",
+        "refleksler"
+       ],
+       "bilgi": "Düşünme kavramlar ve imgeler aracılığıyla gerçekleşir; çoğu zaman dil aracılığıyla ifade edilip somutlaşır.",
+       "sayfa": 48
+      },
+      {
+       "id": "2.1-09",
+       "tur": "secmeli",
+       "soru": "Düşünme-dil ilişkisi hakkında aşağıdakilerden hangisi doğrudur?",
+       "secenekler": [
+        "Dil, düşünceleri sınırlandırıp yoksullaştırır.",
+        "Kavramlar ve simgeler dil olmadan da somutlaşır.",
+        "Dil, düşünceleri somutlaştırıp dışa vurur.",
+        "Düşüncelerin ifade edilmesi için dile ihtiyaç yoktur."
+       ],
+       "dogru": 2,
+       "bilgi": "Dil olmadan da düşünme mümkün olabilir ama düşüncelerin ifade edilmesi ve somutlaşması için dile ihtiyaç vardır.",
+       "sayfa": 49
+      }
+     ]
+    },
+    {
+     "no": "2.2",
+     "ad": "Mantık ve Argümantasyonun Temel Kavramları",
+     "kartlar": [
+      {
+       "id": "2.2-01",
+       "tur": "eslestir",
+       "yonerge": "Akıl ilkelerini ifade biçimleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Özdeşlik ilkesi",
+         "A, A'dır."
+        ],
+        [
+         "Çelişmezlik ilkesi",
+         "Bir şey aynı anda hem A hem A olmayan değildir."
+        ],
+        [
+         "Üçüncü hâlin imkânsızlığı ilkesi",
+         "Bir şey ya A'dır ya da A değildir."
+        ],
+        [
+         "Yeter-sebep ilkesi",
+         "Yeterli neden olmadan hiçbir yargı doğru, hiçbir olgu var olamaz."
+        ]
+       ],
+       "bilgi": "Aklın ilkeleri özdeşlik, çelişmezlik, üçüncü hâlin imkânsızlığı ve yeter-sebep olmak üzere dörde ayrılır.",
+       "sayfa": 53
+      },
+      {
+       "id": "2.2-02",
+       "tur": "bosluk",
+       "cumle": "Bir akıl yürütmede bir terime başta hangi anlam verildiyse sonuna kadar o anlamda kullanılmasını isteyen ilke ___ ilkesidir.",
+       "cevap": "özdeşlik",
+       "celdiriciler": [
+        "çelişmezlik",
+        "yeter-sebep",
+        "üçüncü hâlin imkânsızlığı"
+       ],
+       "bilgi": "Özdeşlik ilkesi varlığın kendisiyle aynı olmasıdır ve “A, A'dır.” biçiminde ifade edilir.",
+       "sayfa": 53
+      },
+      {
+       "id": "2.2-03",
+       "tur": "secmeli",
+       "soru": "Bir yargının aynı anda hem doğru hem de yanlış olamayacağını belirten akıl ilkesi hangisidir?",
+       "secenekler": [
+        "Özdeşlik ilkesi",
+        "Yeter-sebep ilkesi",
+        "Çelişmezlik ilkesi",
+        "Üçüncü hâlin imkânsızlığı ilkesi"
+       ],
+       "dogru": 2,
+       "bilgi": "Çelişmezlik ilkesi “Bir şey aynı anda hem A hem de A olmayan değildir.” biçiminde ifade edilir.",
+       "sayfa": 53
+      },
+      {
+       "id": "2.2-04",
+       "tur": "dy",
+       "ifade": "Emir, soru ve dilek bildiren cümleler doğru ya da yanlış olabildikleri için mantıkta önerme sayılır.",
+       "dogru": false,
+       "bilgi": "Emir, soru ve dilek cümleleri için doğru ya da yanlış denemez; bu yüzden önerme değildir.",
+       "sayfa": 54
+      },
+      {
+       "id": "2.2-05",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi mantık açısından bir önermedir?",
+       "secenekler": [
+        "Yarın sinemaya gelecek misin?",
+        "Bir yıl on iki aydır.",
+        "Keşke daha çok kitap okusam!",
+        "Lütfen sessiz olun."
+       ],
+       "dogru": 1,
+       "bilgi": "Önerme, doğru ya da yanlış bir yargı bildiren cümledir.",
+       "sayfa": 55
+      },
+      {
+       "id": "2.2-06",
+       "tur": "bosluk",
+       "cumle": "Birden fazla yargı içeren ve “ve, veya, ise” gibi bağlaçlarla kurulan önermeye ___ önerme denir.",
+       "cevap": "bileşik",
+       "celdiriciler": [
+        "olumsuz",
+        "tümel",
+        "basit"
+       ],
+       "bilgi": "Önermeleri bileşik hâle getiren bağlaçlar “ve, veya, ise, ancak ve ancak” gibi bağlaçlardır.",
+       "sayfa": 55
+      },
+      {
+       "id": "2.2-07",
+       "tur": "dy",
+       "ifade": "Her önermede özne, yüklem ve bu ikisini birbirine bağlayan bir bağ bulunur.",
+       "dogru": true,
+       "bilgi": "Örneğin “Güneş sıcaktır.” önermesinde Güneş özne, sıcak yüklem, “-tır” ise bağdır.",
+       "sayfa": 55
+      },
+      {
+       "id": "2.2-08",
+       "tur": "eslestir",
+       "yonerge": "Akıl yürütme ile ilgili kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Tümdengelim",
+         "Genel bir yargıdan özel sonuçlara ulaşma"
+        ],
+        [
+         "Tümevarım",
+         "Gözlemlenen birçok olaydan genellemeye ulaşma"
+        ],
+        [
+         "Analoji",
+         "Benzer şeylerin başka yönlerden de benzer olacağını kabul etme"
+        ],
+        [
+         "Tutarlılık",
+         "Öncüller ile sonuç arasında mantıksal uyum bulunması"
+        ]
+       ],
+       "bilgi": "Akıl yürütme, zihnin yargılar arasında bağ kurarak bilinenlerden bilinmeyenleri elde etmesidir.",
+       "sayfa": 56
+      },
+      {
+       "id": "2.2-09",
+       "tur": "secmeli",
+       "soru": "Gözlenen pek çok kuğunun beyaz olmasından “Bütün kuğular beyazdır.” sonucuna varmak hangi akıl yürütme türüdür?",
+       "secenekler": [
+        "Tümevarım",
+        "Tümdengelim",
+        "Analoji",
+        "Özdeşlik"
+       ],
+       "dogru": 0,
+       "bilgi": "Tümevarım, gözlemlenen birçok tek tek olaydan genel bir yargıya ulaşmaktır.",
+       "sayfa": 56
+      },
+      {
+       "id": "2.2-10",
+       "tur": "bosluk",
+       "cumle": "Akıl yürütmede kanıtlayan durumundaki önermelere ___, bunlarla kanıtlanan önermeye ise sonuç adı verilir.",
+       "cevap": "öncül",
+       "celdiriciler": [
+        "yüklem",
+        "görüş",
+        "hipotez"
+       ],
+       "bilgi": "Akıl yürütmede kanıtlayan önermeler öncül, kanıtlanan önerme sonuçtur.",
+       "sayfa": 56
+      },
+      {
+       "id": "2.2-11",
+       "tur": "bosluk",
+       "cumle": "İnsanın bir varlık, olay ya da düşünce hakkındaki yargısına ___ denir.",
+       "cevap": "görüş",
+       "celdiriciler": [
+        "argüman",
+        "öncül",
+        "safsata"
+       ],
+       "bilgi": "Argüman ise bir görüşü desteklemek, gerekçelendirmek ya da çürütmek için kullanılan iddialar bütünüdür.",
+       "sayfa": 56
+      },
+      {
+       "id": "2.2-12",
+       "tur": "secmeli",
+       "soru": "Bir akıl yürütmenin yapılabilmesi için aşağıdakilerden hangisi gereklidir?",
+       "secenekler": [
+        "Tek bir önermenin olumlu biçimde ifade edilmesi",
+        "Öncüllerin tümünün olumsuz önermelerden oluşması",
+        "Sonucun akıl yürütmeden önce kesin olarak bilinmesi",
+        "En az iki önerme ve aralarında kanıtlama bağı"
+       ],
+       "dogru": 3,
+       "bilgi": "Akıl yürütme için iki veya daha fazla önerme bulunmalı ve bunlar arasında kanıtlayan-kanıtlanan ilişkisi kurulmalıdır.",
+       "sayfa": 56
+      }
+     ]
+    },
+    {
+     "no": "2.3",
+     "ad": "Argümantasyonun Yapısı",
+     "kartlar": [
+      {
+       "id": "2.3-01",
+       "tur": "secmeli",
+       "soru": "Görünüşte geçerli ve ikna edici olduğu hâlde mantıksal açıdan hatalı akıl yürütmeye dayanan argümana ne ad verilir?",
+       "secenekler": [
+        "Analoji",
+        "Safsata",
+        "Tümdengelim",
+        "Önerme"
+       ],
+       "dogru": 1,
+       "bilgi": "Safsata, görünüşte geçerli ve ikna edici olan ama mantıksal açıdan hatalı akıl yürütmeye dayanan argümandır.",
+       "sayfa": 59
+      },
+      {
+       "id": "2.3-02",
+       "tur": "eslestir",
+       "yonerge": "Safsata türlerini tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Otoriteye başvurma",
+         "Uzman kişi, kurum ya da geleneğin saygınlığını koz olarak kullanma"
+        ],
+        [
+         "Adam karalama",
+         "Argüman yerine argümanı sunan kişiye saldırma"
+        ],
+        [
+         "Cımbızlama",
+         "Yalnızca destekleyici verileri seçip karşıt verileri göz ardı etme"
+        ]
+       ],
+       "bilgi": "Otoriteye başvurma, adam karalama ve cımbızlama sık karşılaşılan safsata türleridir.",
+       "sayfa": 59
+      },
+      {
+       "id": "2.3-03",
+       "tur": "secmeli",
+       "soru": "Bir filmi milyonlarca kişi izlediği için mutlaka nitelikli bir film olduğunu savunmak hangi safsataya örnektir?",
+       "secenekler": [
+        "Yanlış analoji",
+        "Cımbızlama",
+        "Popülerliğe başvurma",
+        "Adam karalama"
+       ],
+       "dogru": 2,
+       "bilgi": "Popülerliğe başvurma, bir iddianın doğruluğunu insanların çoğunun onu beğenmesine dayandırmaktır.",
+       "sayfa": 60
+      },
+      {
+       "id": "2.3-04",
+       "tur": "secmeli",
+       "soru": "İki şeyin bir veya birkaç yönden benzemesinden hareketle birinde olan özelliğin diğerinde de olması gerektiğini iddia etmek hangi safsatadır?",
+       "secenekler": [
+        "Yanlış analoji",
+        "Nedensellik hatası",
+        "Otoriteye başvurma",
+        "Popülerliğe başvurma"
+       ],
+       "dogru": 0,
+       "bilgi": "Yanlış analoji, sınırlı benzerliklerden yola çıkarak iki şeyin başka yönlerden de aynı olduğunu iddia etmektir.",
+       "sayfa": 60
+      },
+      {
+       "id": "2.3-05",
+       "tur": "bosluk",
+       "cumle": "Olaylar arasındaki sebep-sonuç bağının yanlış veya yetersiz kurulmasından doğan hatalı çıkarımlara ___ denir.",
+       "cevap": "nedensellik hataları",
+       "celdiriciler": [
+        "yanlış analoji",
+        "cımbızlama",
+        "adam karalama"
+       ],
+       "bilgi": "Nedensellik hatalarında olaylar arasındaki sebep-sonuç ilişkisi yanlış veya yetersiz kurulur.",
+       "sayfa": 60
+      },
+      {
+       "id": "2.3-06",
+       "tur": "dy",
+       "ifade": "Safsatalar bazen farkına varılmadan, bazen de karşıdakini aldatmak veya ikna etmek için bilinçli olarak yapılabilir.",
+       "dogru": true,
+       "bilgi": "Hatalı akıl yürütmeler olan safsatalar bilinçli ya da bilinçsiz biçimde yapılabilir.",
+       "sayfa": 59
+      },
+      {
+       "id": "2.3-07",
+       "tur": "dy",
+       "ifade": "Adam karalama safsatasında argümanı sunan kişi yerine argümanın içeriği eleştirilir.",
+       "dogru": false,
+       "bilgi": "Adam karalamada argümanın içeriği yerine onu sunan kişiye hakaret edilir ya da kişi aşağılanır.",
+       "sayfa": 59
+      },
+      {
+       "id": "2.3-08",
+       "tur": "secmeli",
+       "soru": "Bir argüman mantıksal yapıya dönüştürülürken argümanın sonucu hangi harfle sembolleştirilir?",
+       "secenekler": [
+        "P",
+        "S",
+        "C",
+        "Q"
+       ],
+       "dogru": 2,
+       "bilgi": "Mantıksal yapıya dönüştürmede öncüller P (P1, P2, P3…), sonuç ise C harfiyle gösterilir.",
+       "sayfa": 65
+      },
+      {
+       "id": "2.3-09",
+       "tur": "bosluk",
+       "cumle": "Bir argümanı mantıksal yapıya dönüştürmek, onu oluşturan önermelerin ___ ifade edilmesiyle gerçekleşir.",
+       "cevap": "sembollerle",
+       "celdiriciler": [
+        "örneklerle",
+        "sorularla",
+        "benzetmelerle"
+       ],
+       "bilgi": "Argümanlar, önermeleri sembolleştirilerek açık, net ve nesnel bir mantıksal yapıya dönüştürülür.",
+       "sayfa": 65
+      },
+      {
+       "id": "2.3-10",
+       "tur": "secmeli",
+       "soru": "Bir argümanı mantıksal yapıya dönüştürürken izlenen adımların doğru sırası hangisidir?",
+       "secenekler": [
+        "Sembolleştirme, sonucu belirleme, öncülleri belirleme",
+        "Öncülleri belirleme, sonucu belirleme, sembolleştirme",
+        "Sonucu belirleme, sembolleştirme, öncülleri belirleme",
+        "Sembolleştirme, öncülleri belirleme, sonucu belirleme"
+       ],
+       "dogru": 1,
+       "bilgi": "Mantıksal yapıya dönüştürmede önce öncüller (P), sonra sonuç (C) belirlenir, en son sembolleştirme yapılır.",
+       "sayfa": 65
+      },
+      {
+       "id": "2.3-11",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi safsataların ortaya çıkma nedenlerinden biridir?",
+       "secenekler": [
+        "Duygusal yönlendirme",
+        "Öncüllerin tutarlı olması",
+        "Yeterli kanıt sunulması",
+        "Terimlerin aynı anlamda kullanılması"
+       ],
+       "dogru": 0,
+       "bilgi": "Safsatalar dilsel belirsizlik, duygusal yönlendirme, eksik veri kullanımı veya yanlış çıkarım ilişkileri nedeniyle ortaya çıkar.",
+       "sayfa": 59
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "ad": "Varlık Felsefesi",
+   "konular": [
+    {
+     "no": "3.1",
+     "ad": "Varlık Felsefesinin Konusu ve Temel Kavramları",
+     "kartlar": [
+      {
+       "id": "3.1-01",
+       "tur": "bosluk",
+       "cumle": "Temel konusu varlığın kendisi olan varlık felsefesi ___ olarak da adlandırılır.",
+       "cevap": "ontoloji",
+       "celdiriciler": [
+        "epistemoloji",
+        "estetik",
+        "etik"
+       ],
+       "bilgi": "Ontoloji (varlık felsefesi) varlığın özelliklerini, ne olduğunu ve var olma biçimlerini inceler.",
+       "sayfa": 73
+      },
+      {
+       "id": "3.1-02",
+       "tur": "eslestir",
+       "yonerge": "Varlık felsefesi kavramlarını tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Öz",
+         "Bir varlığın kimliğini belirleyen değişmeyen özellikler"
+        ],
+        [
+         "Fenomen",
+         "Nesne ve olayların insan bilincinde beliren hâlleri"
+        ],
+        [
+         "Töz",
+         "Başka bir şeye bağlı olmadan varlığını sürdüren temel varlık"
+        ],
+        [
+         "İdea",
+         "Yalnızca düşünme aracılığıyla kavranabilen asıl gerçeklik"
+        ],
+        [
+         "Oluş",
+         "Bir şeyin meydana gelme süreci"
+        ]
+       ],
+       "bilgi": "Filozoflar varlık hakkındaki görüşlerini öz, fenomen, töz, idea, oluş, madde ve varoluş gibi kavramlarla temellendirir.",
+       "sayfa": 73
+      },
+      {
+       "id": "3.1-03",
+       "tur": "secmeli",
+       "soru": "Varlık felsefesinde “uzayda yer kaplayan, ağırlığı ve kütlesi olan fiziksel varlık” hangi kavramla ifade edilir?",
+       "secenekler": [
+        "Töz",
+        "Madde",
+        "İdea",
+        "Fenomen"
+       ],
+       "dogru": 1,
+       "bilgi": "Madde, uzayda yer kaplayan, ağırlığı ve kütlesi olan fiziksel varlıktır.",
+       "sayfa": 73
+      },
+      {
+       "id": "3.1-04",
+       "tur": "secmeli",
+       "soru": "Bir varlığın kendini gerçekleştirmesi ve özünü ortaya koyması hangi kavramla ifade edilir?",
+       "secenekler": [
+        "Oluş",
+        "Öz",
+        "Fenomen",
+        "Varoluş"
+       ],
+       "dogru": 3,
+       "bilgi": "Varoluş, bir varlığın kendini gerçekleştirmesi ve özünü ortaya koymasıdır.",
+       "sayfa": 73
+      },
+      {
+       "id": "3.1-05",
+       "tur": "dy",
+       "ifade": "Bilim, varlıkta görünüş-gerçeklik ayrımı yapar ve varlığa bütüncül bir bakış açısıyla yaklaşır.",
+       "dogru": false,
+       "bilgi": "Bilim görünenin gerçek olduğunu kabul eder ve varlığı indirgemeci ele alır; bu ayrımı yapan ve bütüncül yaklaşan felsefedir.",
+       "sayfa": 74
+      },
+      {
+       "id": "3.1-06",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi felsefenin varlığa yaklaşımının özelliklerindendir?",
+       "secenekler": [
+        "Varlığın var olup olmadığını sorgulamadan kabul etmesi",
+        "Varlığın yalnızca belirli bir yönünü incelemesi",
+        "Varlığın maddi ve düşünsel olabileceğini varsayması",
+        "Deney ve gözlemle nesnel bilgiye ulaşması"
+       ],
+       "dogru": 2,
+       "bilgi": "Felsefe varlığı fiziksel dünyayla sınırlamaz; varlığın reel (maddi) ve ideal (düşünsel) olabileceğini varsayar.",
+       "sayfa": 74
+      },
+      {
+       "id": "3.1-07",
+       "tur": "dy",
+       "ifade": "Felsefede her filozof varlığa kendi bakış açısıyla yaklaştığı için varlık hakkında ulaşılan bilgiler öznel niteliktedir.",
+       "dogru": true,
+       "bilgi": "Bilim varlık hakkında nesnel bilgiye ulaşırken felsefenin varlık hakkındaki bilgileri öznel niteliktedir.",
+       "sayfa": 74
+      },
+      {
+       "id": "3.1-08",
+       "tur": "bosluk",
+       "cumle": "Varlığın ve gerçekliğin en temel ilkelerini inceleyen ve başlangıçta Aristoteles'in eserlerine dayanan disipline ___ denir.",
+       "cevap": "metafizik",
+       "celdiriciler": [
+        "ontoloji",
+        "fenomenoloji",
+        "epistemoloji"
+       ],
+       "bilgi": "Metafizik zamanla Tanrı, ruh, evrenin yaratılışı ve özgürlük gibi deneyle doğrulanamayan problemleri sorgulayan bir alan olmuştur.",
+       "sayfa": 75
+      },
+      {
+       "id": "3.1-09",
+       "tur": "dy",
+       "ifade": "Bazı filozoflar ontolojiyi metafiziğin bir alt dalı sayarken bazıları onu metafizikten bağımsız bir alan olarak görür.",
+       "dogru": true,
+       "bilgi": "Ontoloji ve metafizik, varlığı sorgulamaları bakımından birbirine yakın disiplinlerdir.",
+       "sayfa": 75
+      },
+      {
+       "id": "3.1-10",
+       "tur": "secmeli",
+       "soru": "Bazı filozofların metafiziği felsefenin meşru bir çalışma alanı olarak kabul etmemesinin nedeni nedir?",
+       "secenekler": [
+        "Deneyle doğrulanamayan problemleri sorgulaması",
+        "Yalnızca fiziksel ve ölçülebilir varlıkları incelemesi",
+        "Varlık ve gerçeklik kavramlarını hiç ele almaması",
+        "Yalnızca deneysel bilimsel yöntemlere dayanması"
+       ],
+       "dogru": 0,
+       "bilgi": "Metafizik; Tanrı'nın varlığı, ruhun özellikleri, özgürlük gibi deneyle doğrulanamayan konuları ele aldığı için eleştirilmiştir.",
+       "sayfa": 75
+      },
+      {
+       "id": "3.1-11",
+       "tur": "secmeli",
+       "soru": "Varlığı felsefenin ilk konusu olarak niteleyen İlk Çağ filozofu kimdir?",
+       "secenekler": [
+        "Thales",
+        "Herakleitos",
+        "Aristoteles",
+        "Gorgias"
+       ],
+       "dogru": 2,
+       "bilgi": "Aristoteles'in varlığı felsefenin ilk konusu olarak nitelemesi, varlık konusunun önemini gösterir.",
+       "sayfa": 71
+      }
+     ]
+    },
+    {
+     "no": "3.2",
+     "ad": "Varlık Felsefesinin Temel Problemleri (Varlığın Var Olup Olmadığı, Varlığın Ne Olduğu)",
+     "kartlar": [
+      {
+       "id": "3.2-01",
+       "tur": "eslestir",
+       "yonerge": "İlk Çağ filozoflarını varlığın ana maddesi (arkhe) hakkındaki görüşleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Thales",
+         "Su"
+        ],
+        [
+         "Anaksimandros",
+         "Apeiron"
+        ],
+        [
+         "Anaksimenes",
+         "Hava"
+        ],
+        [
+         "Herakleitos",
+         "Ateş"
+        ],
+        [
+         "Demokritos",
+         "Atom"
+        ]
+       ],
+       "bilgi": "Varlığı ilk kez ele alan Thales'ten itibaren filozoflar “Varlığın ana maddesi nedir?” sorusuna farklı cevaplar vermiştir.",
+       "sayfa": 76
+      },
+      {
+       "id": "3.2-02",
+       "tur": "secmeli",
+       "soru": "“Hiçbir şey yoktur. Eğer bir şey varsa bilinemez. Eğer biliniyorsa başkalarına aktarılamaz.” diyen filozof kimdir?",
+       "secenekler": [
+        "Herakleitos",
+        "Gorgias",
+        "Demokritos",
+        "Thales"
+       ],
+       "dogru": 1,
+       "bilgi": "Nihilizmin temsilcisi Gorgias, “Varlık yoktur.” görüşünü savunmuş; varlık hakkında kesin bilginin imkânsız olduğunu öne sürmüştür.",
+       "sayfa": 78
+      },
+      {
+       "id": "3.2-03",
+       "tur": "secmeli",
+       "soru": "Aristoteles'e göre varlığın özü olan, değişmeyen, sonsuz ve ancak akılla kavranabilen öge hangisidir?",
+       "secenekler": [
+        "Madde",
+        "Atom",
+        "Form",
+        "Fenomen"
+       ],
+       "dogru": 2,
+       "bilgi": "Realist Aristoteles'e göre her varlık madde ve formdan oluşur; madde değişir ve duyularla algılanır, form ise değişmeyen özdür.",
+       "sayfa": 78
+      },
+      {
+       "id": "3.2-04",
+       "tur": "dy",
+       "ifade": "Platon'a göre asıl gerçeklik duyular dünyasıdır; idealar ise duyular dünyasının kopyasıdır.",
+       "dogru": false,
+       "bilgi": "Platon'a göre asıl varlık idealardır; duyular dünyası ideaların kopyası olduğu için gerçek değildir ve idealar akılla kavranır.",
+       "sayfa": 79
+      },
+      {
+       "id": "3.2-05",
+       "tur": "secmeli",
+       "soru": "İbni Sina'ya göre varlığı kendinden olan, ezelî-ebedî, bir ve mükemmel olan varlık hangisidir?",
+       "secenekler": [
+        "Mümkün varlık",
+        "Maddi varlık",
+        "İdealar dünyası",
+        "Zorunlu varlık"
+       ],
+       "dogru": 3,
+       "bilgi": "İbni Sina varlıkları zorunlu ve mümkün diye ayırır; zorunlu varlık Tanrı'dır, maddi varlıklar ise mümkün varlıklardır.",
+       "sayfa": 79
+      },
+      {
+       "id": "3.2-06",
+       "tur": "bosluk",
+       "cumle": "Diyalektik idealizmin temsilcisi Hegel'e göre asıl gerçeklik olan ___, tez-antitez-sentez süreciyle değişerek varlıklar dünyasını oluşturur.",
+       "cevap": "tin",
+       "celdiriciler": [
+        "atom",
+        "madde",
+        "logos"
+       ],
+       "bilgi": "Hegel'e göre düşünsel, bir, ezelî ve ebedî olan tin; diyalektik süreçle evreni meydana getirir.",
+       "sayfa": 79
+      },
+      {
+       "id": "3.2-07",
+       "tur": "eslestir",
+       "yonerge": "Materyalist filozofları savundukları materyalizm anlayışıyla eşleştir.",
+       "ciftler": [
+        [
+         "Demokritos",
+         "Atomcu materyalizm"
+        ],
+        [
+         "Thomas Hobbes",
+         "Cisimci materyalizm"
+        ],
+        [
+         "De La Mettrie",
+         "Makine insan anlayışı"
+        ],
+        [
+         "Karl Marx",
+         "Diyalektik (tarihsel) materyalizm"
+        ]
+       ],
+       "bilgi": "Materyalizm maddi varlıkların gerçek, madde olmayanın gerçek olmadığını savunur.",
+       "sayfa": 80
+      },
+      {
+       "id": "3.2-08",
+       "tur": "secmeli",
+       "soru": "Herakleitos'a göre varlıkların değişimini düzenleyen ve kendisi hiç değişmeyen ilke hangisidir?",
+       "secenekler": [
+        "Logos",
+        "Apeiron",
+        "Tin",
+        "Form"
+       ],
+       "dogru": 0,
+       "bilgi": "“Aynı nehre iki kez girilmez.” diyen Herakleitos'a göre değişmeyen tek şey değişimin kendisi ve onu düzenleyen logostur.",
+       "sayfa": 81
+      },
+      {
+       "id": "3.2-09",
+       "tur": "dy",
+       "ifade": "Descartes'a göre insan ruh ve beden olmak üzere iki ayrı tözden oluşur; ruh düşünür ama yer kaplamaz, beden yer kaplar ama düşünmez.",
+       "dogru": true,
+       "bilgi": "Descartes, varlığın maddi ve maddi olmayan iki unsurdan oluştuğunu savunan düalizmin (ikicilik) temsilcisidir.",
+       "sayfa": 81
+      },
+      {
+       "id": "3.2-10",
+       "tur": "bosluk",
+       "cumle": "Husserl'e göre özün bilgisine ulaşmak için varlığa ait bazı niteliklerin bir kenara bırakılması, yani ___ alınması gerekir.",
+       "cevap": "paranteze",
+       "celdiriciler": [
+        "deneye",
+        "gözleme",
+        "teste"
+       ],
+       "bilgi": "Fenomenolojinin temsilcisi Husserl'e göre varlıkların özü insanın bilincindedir ve paranteze almalarla bu öze ulaşılır.",
+       "sayfa": 82
+      },
+      {
+       "id": "3.2-11",
+       "tur": "dy",
+       "ifade": "Sartre'a göre insanda da diğer varlıklarda olduğu gibi öz, varoluştan önce gelir.",
+       "dogru": false,
+       "bilgi": "Sartre'a göre insan dışındaki varlıklarda öz varoluştan önce gelir; insan ise önce var olur, sonra özgürlüğüyle özünü belirler.",
+       "sayfa": 82
+      },
+      {
+       "id": "3.2-12",
+       "tur": "secmeli",
+       "soru": "“Hylas ile Philonous Arasında Üç Konuşma” adlı eserinde “Var olmak, algılanmaktır.” görüşünü savunan düşünür kimdir?",
+       "secenekler": [
+        "Rene Descartes",
+        "Edmund Husserl",
+        "Jean Paul Sartre",
+        "George Berkeley"
+       ],
+       "dogru": 3,
+       "bilgi": "George Berkeley'e göre duyulur şeylerin varlığı onların algılanmasından ibarettir.",
+       "sayfa": 84
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "ad": "Bilgi Felsefesi",
+   "konular": [
+    {
+     "no": "4.1",
+     "ad": "Bilgi Felsefesinin Konusu ve Temel Kavramları",
+     "kartlar": [
+      {
+       "id": "4.1-01",
+       "tur": "bosluk",
+       "cumle": "Bilgi felsefesinin adının türetildiği Yunanca sözcüklerden bilgi anlamına gelen ___, bilim anlamına gelen ise “logos”tur.",
+       "cevap": "episteme",
+       "celdiriciler": [
+        "sophia",
+        "doksa",
+        "philia"
+       ],
+       "bilgi": "Bilgi felsefesi, Yunanca “episteme” (bilgi) ve “logos” (bilim) sözcüklerinden türetilmiştir.",
+       "sayfa": 93
+      },
+      {
+       "id": "4.1-02",
+       "tur": "eslestir",
+       "yonerge": "Bilgi felsefesinin kavramlarını açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Bilen (süje/özne)",
+         "Bilgiye ulaşmaya çalışan insan"
+        ],
+        [
+         "Bilinen (obje/nesne)",
+         "Bilgi edinmek için yönelilen şey"
+        ],
+        [
+         "Gerçeklik",
+         "Var olan her şey"
+        ],
+        [
+         "Doğruluk",
+         "Bilginin gerçekliğe uygun olması"
+        ]
+       ],
+       "bilgi": "Bilgi, bilen (özne) ile bilinen (nesne) arasındaki ilişki sonucunda ortaya çıkan zihinsel bir sürecin ürünüdür.",
+       "sayfa": 93
+      },
+      {
+       "id": "4.1-03",
+       "tur": "secmeli",
+       "soru": "Bilgi felsefesinde bilgi genel olarak nasıl tanımlanır?",
+       "secenekler": [
+        "Kişinin yalnızca öznel algısına dayanan bir tahmin",
+        "Toplumun çoğunluğunca benimsenen inanç",
+        "Doğrulanabilen ve gerekçelendirilebilen düşünce ürünü",
+        "Doğrulanmamış ve kesinliği bulunmayan her türlü kanaat"
+       ],
+       "dogru": 2,
+       "bilgi": "Bilgi, doğruluğu kanıtlanabilen ve gerekçelendirilebilen bir düşünce ürünüdür.",
+       "sayfa": 93
+      },
+      {
+       "id": "4.1-04",
+       "tur": "secmeli",
+       "soru": "Bilginin koşulları olarak sayılan üç unsur hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "İnanç, doğruluk, gerekçelendirme",
+        "Algı, sezgi, kişisel tahmin",
+        "Gelenek, otorite, toplumsal uzlaşı",
+        "Duygu, hayal gücü, inanç"
+       ],
+       "dogru": 0,
+       "bilgi": "Bir inancın bilgi olabilmesi için doğru olması, yani gerçekliğe uygun olması ve gerekçelendirilmesi gerekir.",
+       "sayfa": 93
+      },
+      {
+       "id": "4.1-05",
+       "tur": "dy",
+       "ifade": "Zihinde yer alan her inanç aynı zamanda bir bilgidir.",
+       "dogru": false,
+       "bilgi": "Bilgi bir tür inançtır ancak her inanç bilgi değildir; bilginin gerçekliğe de karşılık gelmesi gerekir.",
+       "sayfa": 93
+      },
+      {
+       "id": "4.1-06",
+       "tur": "bosluk",
+       "cumle": "Kesin olmayan ve doğrulanmamış inanca, tahmine ya da öznel algıya ___ adı verilir.",
+       "cevap": "sanı",
+       "celdiriciler": [
+        "gerçeklik",
+        "doğruluk",
+        "gerekçelendirme"
+       ],
+       "bilgi": "Sanı (doksa), kesin olmayan ve doğrulanmamış inanç, tahmin ya da öznel algıdır.",
+       "sayfa": 93
+      },
+      {
+       "id": "4.1-07",
+       "tur": "eslestir",
+       "yonerge": "Filozofları yaptıkları bilgi tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Platon",
+         "Gerekçelendirilmiş doğru inanç"
+        ],
+        [
+         "I. Kant",
+         "Deneyim ve aklın birleşimi"
+        ],
+        [
+         "J. Locke",
+         "Deneyim yoluyla elde edilen hisler ve düşünceler"
+        ],
+        [
+         "Gazali",
+         "Bilinen nesnenin hakikatine uygun örneğinin insanda ortaya çıkması"
+        ]
+       ],
+       "bilgi": "Filozofların bilgi tanımları, bilgiyi ele alırken hangi unsurlara odaklandıklarını yansıtır.",
+       "sayfa": 96
+      },
+      {
+       "id": "4.1-08",
+       "tur": "secmeli",
+       "soru": "Bilgiyi “daha kesin nedenlerle sarsılması asla mümkün olmayan nedenlere dayanan doğru inanç” olarak tanımlayan filozof kimdir?",
+       "secenekler": [
+        "J. Locke",
+        "Gazali",
+        "I. Kant",
+        "R. Descartes"
+       ],
+       "dogru": 3,
+       "bilgi": "Descartes'a göre bilgi, sarsılması mümkün olmayan nedenlere dayanan doğru inançtır.",
+       "sayfa": 96
+      },
+      {
+       "id": "4.1-09",
+       "tur": "secmeli",
+       "soru": "Bilgi, sanı, gerçeklik ve doğruluk kavramlarını açıklamak için kullanılan “mağara benzetmesi” hangi filozofa aittir?",
+       "secenekler": [
+        "Aristoteles",
+        "Platon",
+        "Sokrates",
+        "Descartes"
+       ],
+       "dogru": 1,
+       "bilgi": "Mağara benzetmesi, Platon'un bilgi ile sanı arasındaki farkı anlattığı ünlü benzetmedir.",
+       "sayfa": 94
+      }
+     ]
+    },
+    {
+     "no": "4.2",
+     "ad": "Bilgi Felsefesinin Temel Problemleri (Bilginin İmkânı, Kaynağı ve Doğruluk Ölçütleri)",
+     "kartlar": [
+      {
+       "id": "4.2-01",
+       "tur": "secmeli",
+       "soru": "Bilgi felsefesi hangi dönemde ve hangi filozofla birlikte ayrı bir felsefi disiplin hâline gelmiştir?",
+       "secenekler": [
+        "MÖ 5. yüzyılda Sokrates ile",
+        "17. yüzyılda R. Descartes ile",
+        "18. yüzyılda I. Kant ile",
+        "MÖ 4. yüzyılda Aristoteles ile"
+       ],
+       "dogru": 1,
+       "bilgi": "Bilgi felsefesi 17. yüzyılda modern felsefeyi açık ve seçik bilgiler üzerine kurmaya çalışan Descartes'la disiplin olmuştur.",
+       "sayfa": 97
+      },
+      {
+       "id": "4.2-02",
+       "tur": "bosluk",
+       "cumle": "Bilginin imkânı probleminde bilginin mümkün olmadığını savunan görüşe septisizm, mümkün olduğunu savunan görüşe ise ___ denir.",
+       "cevap": "dogmatizm",
+       "celdiriciler": [
+        "rölativizm",
+        "nihilizm",
+        "empirizm"
+       ],
+       "bilgi": "“Bilgi mümkün müdür?” sorusuna septisizm (kuşkuculuk) olumsuz, dogmatizm olumlu cevap verir.",
+       "sayfa": 97
+      },
+      {
+       "id": "4.2-03",
+       "tur": "eslestir",
+       "yonerge": "Kuşkucu filozofları görüşleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Protagoras",
+         "İnsan her şeyin ölçüsüdür."
+        ],
+        [
+         "Pyrrhon",
+         "Doğruyu belirleyecek ölçüt olmadığından yargıyı askıya almak gerekir."
+        ],
+        [
+         "Gorgias",
+         "Hiçbir şey yoktur; olsa da bilinemez, bilinse de aktarılamaz."
+        ]
+       ],
+       "bilgi": "Protagoras, Gorgias ve Pyrrhon kuşkuculuğun en önemli temsilcileridir.",
+       "sayfa": 98
+      },
+      {
+       "id": "4.2-04",
+       "tur": "secmeli",
+       "soru": "Protagoras'ın nesnel doğrular yerine kişilere ve durumlara göre değişen doğruların bulunduğunu savunan yaklaşımına ne ad verilir?",
+       "secenekler": [
+        "Dogmatizm",
+        "Kritisizm (eleştiricilik)",
+        "Rölativizm (görecilik)",
+        "Entüisyonizm (sezgicilik)"
+       ],
+       "dogru": 2,
+       "bilgi": "Protagoras'a göre bilginin kaynağı kişiden kişiye değişen duyumlardır; bu görüş rölativizm (görecilik) olarak adlandırılır.",
+       "sayfa": 98
+      },
+      {
+       "id": "4.2-05",
+       "tur": "secmeli",
+       "soru": "Sokrates'in, bilgiye sahip olmadığını düşünenlere aslında bilgiye sahip olduklarını göstermek için kullandığı “doğurtma” yöntemi hangisidir?",
+       "secenekler": [
+        "Maiotik",
+        "İroni",
+        "Epokhe",
+        "Diyalektik"
+       ],
+       "dogru": 0,
+       "bilgi": "Dogmatist Sokrates, bildiğini iddia edenlere ironi, bilmediğini düşünenlere maiotik (doğurtma) yöntemini uygular.",
+       "sayfa": 99
+      },
+      {
+       "id": "4.2-06",
+       "tur": "eslestir",
+       "yonerge": "Bilginin kaynağı konusundaki akımları savundukları kaynakla eşleştir.",
+       "ciftler": [
+        [
+         "Rasyonalizm",
+         "Akıl"
+        ],
+        [
+         "Empirizm",
+         "Duyu ve deney"
+        ],
+        [
+         "Kritisizm",
+         "Akıl ile deneyimin birlikteliği"
+        ],
+        [
+         "Entüisyonizm",
+         "Sezgi"
+        ]
+       ],
+       "bilgi": "Bilginin kaynağı problemi rasyonalizm, empirizm, kritisizm ve entüisyonizm gibi akımları doğurmuştur.",
+       "sayfa": 100
+      },
+      {
+       "id": "4.2-07",
+       "tur": "bosluk",
+       "cumle": "Empirist J. Locke'a göre insan zihni doğuştan, duyum ve deneyimle dolan boş bir levha (___) gibidir.",
+       "cevap": "tabula rasa",
+       "celdiriciler": [
+        "apriori",
+        "epokhe",
+        "logos"
+       ],
+       "bilgi": "Locke ve Hume gibi empiristler doğuştan bilgiyi reddeder; bilginin kaynağı duyu ve deneydir.",
+       "sayfa": 100
+      },
+      {
+       "id": "4.2-08",
+       "tur": "bosluk",
+       "cumle": "Rasyonalistlerin kabul ettiği, aklın doğuştan sahip olduğu bilgilere ___ bilgi denir.",
+       "cevap": "apriori",
+       "celdiriciler": [
+        "aposteriori",
+        "deneysel",
+        "sezgisel"
+       ],
+       "bilgi": "Duyularla, deney sonrası elde edilen bilgilere ise aposteriori bilgi denir.",
+       "sayfa": 100
+      },
+      {
+       "id": "4.2-09",
+       "tur": "secmeli",
+       "soru": "Kant'a göre duyu ve deneyimin sağladığı malzemeyi işleyerek bilgiye dönüştüren nedir?",
+       "secenekler": [
+        "Aracısız kavrayan sezgi",
+        "Akılda doğuştan bulunan kategoriler",
+        "Toplumun ortak kabulleri ve uzlaşısı",
+        "Deneyimle edinilen yalın duyumlar"
+       ],
+       "dogru": 1,
+       "bilgi": "Kant: “Görüsüz (deneysiz) kavramlar boş, kavramsız görüler kördür.”; bilgi duyumla başlar, aklın kategorileriyle tamamlanır.",
+       "sayfa": 100
+      },
+      {
+       "id": "4.2-10",
+       "tur": "dy",
+       "ifade": "Bergson'a göre akılla elde edilen bilimsel bilgi, varlığın hareketli, canlı ve bütünsel bilgisini verir.",
+       "dogru": false,
+       "bilgi": "Bergson'a göre bilimsel bilgi göreli, donuk ve parçalıdır; varlığın canlı ve bütünsel bilgisini dille ifade edilemeyen sezgi verir.",
+       "sayfa": 101
+      },
+      {
+       "id": "4.2-11",
+       "tur": "secmeli",
+       "soru": "Bir önermenin doğruluğunu, sistemde daha önce kabul edilmiş doğru önermelerle çelişmemesine dayandıran doğruluk ölçütü hangisidir?",
+       "secenekler": [
+        "Uygunluk",
+        "Yarar",
+        "Apaçıklık",
+        "Tutarlılık"
+       ],
+       "dogru": 3,
+       "bilgi": "Doğruluk ölçütleri; uygunluk, tutarlılık, tümel uzlaşım, apaçıklık ve yarar olarak sıralanabilir.",
+       "sayfa": 104
+      },
+      {
+       "id": "4.2-12",
+       "tur": "bosluk",
+       "cumle": "Bir bilginin doğruluğunu günlük hayatta işe yaramasına ve pratik fayda sağlamasına bağlayan doğruluk ölçütüne ___ denir.",
+       "cevap": "yarar",
+       "celdiriciler": [
+        "uygunluk",
+        "apaçıklık",
+        "tümel uzlaşım"
+       ],
+       "bilgi": "Yarar ölçütü eleştirilir çünkü bir bilgi faydalı olmasa da doğru, yararlı olsa da yanlış olabilir.",
+       "sayfa": 104
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "ad": "Ahlak Felsefesi",
+   "konular": [
+    {
+     "no": "5.1",
+     "ad": "Ahlak Felsefesinin Konusu ve Temel Kavramları",
+     "kartlar": [
+      {
+       "id": "5.1-01",
+       "tur": "secmeli",
+       "soru": "İnsanların toplumsal davranışlarını düzenleyen yazısız kurallar toplamına ne ad verilir?",
+       "secenekler": [
+        "Etik",
+        "Ahlak",
+        "Vicdan",
+        "Erdem"
+       ],
+       "dogru": 1,
+       "bilgi": "Ahlak, insanların toplumsal davranışlarını düzenleyen yazısız kurallar toplamıdır.",
+       "sayfa": 114
+      },
+      {
+       "id": "5.1-02",
+       "tur": "bosluk",
+       "cumle": "Ahlaki değerleri ve genel olarak ahlakı felsefi açıdan inceleyen ahlak felsefesi ___ olarak da adlandırılır.",
+       "cevap": "etik",
+       "celdiriciler": [
+        "estetik",
+        "ontoloji",
+        "epistemoloji"
+       ],
+       "bilgi": "Etik; ahlakın ne olduğunu, ahlaki davranışların nasıl oluştuğunu ve bir davranışın ahlaki olup olmadığını belirleyen ölçütleri inceler.",
+       "sayfa": 114
+      },
+      {
+       "id": "5.1-03",
+       "tur": "eslestir",
+       "yonerge": "Ahlak felsefesi kavramlarını tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Erdem",
+         "Doğruluk, ölçülülük, cesaret gibi değerleri yaşatan ahlaki yetkinlik"
+        ],
+        [
+         "Vicdan",
+         "Kendi davranışlarını ahlaki açıdan değerlendiren içsel yargılama gücü"
+        ],
+        [
+         "Özgürlük",
+         "Dış baskı olmadan kendi aklı ve iradesiyle karar verebilme"
+        ],
+        [
+         "Sorumluluk",
+         "Özgür iradeyle yapılan eylemin sonuçlarını üstlenme"
+        ]
+       ],
+       "bilgi": "Ahlak felsefesi ahlak ve etik kavramlarının yanı sıra iyi, kötü, erdem, vicdan, özgürlük ve sorumluluk kavramlarını kullanır.",
+       "sayfa": 116
+      },
+      {
+       "id": "5.1-04",
+       "tur": "secmeli",
+       "soru": "Kişinin bilinçli olarak ahlaki ilkelere aykırı davranması ve ahlakça onaylanmayan eylemleri seçmesi hangi kavramla ifade edilir?",
+       "secenekler": [
+        "İyi",
+        "Sorumluluk",
+        "Kötü",
+        "Özgürlük"
+       ],
+       "dogru": 2,
+       "bilgi": "Kötü, kişinin bilinçli olarak ahlaki ilkelere aykırı davranmasıdır.",
+       "sayfa": 116
+      },
+      {
+       "id": "5.1-05",
+       "tur": "dy",
+       "ifade": "Değer içeren ahlaki davranışlar insanın özgür iradesiyle gerçekleştirdiği davranışlardır ve bunların sorumluluğu kişinin kendisine aittir.",
+       "dogru": true,
+       "bilgi": "İnsan yalnızca bilen değil, eylemde bulunan ve değerlere sahip bir varlıktır.",
+       "sayfa": 114
+      },
+      {
+       "id": "5.1-06",
+       "tur": "dy",
+       "ifade": "Konuşurken kullanılan kelimelerin dil kurallarına uygun olması, davranışın değer boyutunu oluşturur.",
+       "dogru": false,
+       "bilgi": "Kelimeler ve dil kurallarına uygunluk davranışın olgusal kısmıdır; karşıdakini yanıltmak ya da kırmak değer boyutudur.",
+       "sayfa": 114
+      },
+      {
+       "id": "5.1-07",
+       "tur": "secmeli",
+       "soru": "Ahlak kurallarıyla amaçlanan temel şey nedir?",
+       "secenekler": [
+        "Davranışları iyiye yönelterek toplumu düzenlemek",
+        "Devletin yasalarını yazılı ve bağlayıcı hâle getirmek",
+        "Bilimsel bilgiyi deney ve gözlemle doğrulamak",
+        "Bireylerin yalnızca kişisel çıkarlarını korumak"
+       ],
+       "dogru": 0,
+       "bilgi": "Ahlak kuralları insanların davranışlarını iyiye yönlendirerek toplumsal yaşamı düzenlemeyi amaçlar.",
+       "sayfa": 114
+      },
+      {
+       "id": "5.1-08",
+       "tur": "bosluk",
+       "cumle": "İnsan onuruna ve ahlaki kurallara uygun olan, yapılması istenen ve toplumca onaylanan eylemler ___ olarak nitelenir.",
+       "cevap": "iyi",
+       "celdiriciler": [
+        "kötü",
+        "olgusal",
+        "zorunlu"
+       ],
+       "bilgi": "İyi, insan onuruna ve ahlak kurallarına uygun, toplumca onaylanan eylemleri ifade eder.",
+       "sayfa": 116
+      }
+     ]
+    },
+    {
+     "no": "5.2",
+     "ad": "Ahlak Felsefesinin Temel Problemleri (Evrensel Ahlak Yasasının İmkânı, Özgürlük-Sorumluluk İlişkisi)",
+     "kartlar": [
+      {
+       "id": "5.2-01",
+       "tur": "dy",
+       "ifade": "Evrensel ahlak yasasını kabul eden yaklaşıma göre dürüstlük, yardımseverlik, adalet ve cesaret gibi tüm insanların ortak kabul ettiği değerler vardır.",
+       "dogru": true,
+       "bilgi": "Karşıt yaklaşıma göre ise ahlak yasaları görelidir; toplumlara, insanlara ve zamana göre değişir.",
+       "sayfa": 117
+      },
+      {
+       "id": "5.2-02",
+       "tur": "secmeli",
+       "soru": "Sokrates, Platon ve Aristoteles'e göre “iyi” nedir?",
+       "secenekler": [
+        "Bedensel ve ruhsal haz veren şey",
+        "En çok insana fayda sağlayan şey",
+        "Mutluluk veren ve bilgiyle ilişkili olan",
+        "Bireyin kendi egosunu (ben) gerçekleştirmesi"
+       ],
+       "dogru": 2,
+       "bilgi": "Bu filozoflara göre iyi mutluluk verendir ve mutluluk bilgiyle ilişkilidir; hazcılar hazzı, faydacılar faydayı iyi sayar.",
+       "sayfa": 117
+      },
+      {
+       "id": "5.2-03",
+       "tur": "secmeli",
+       "soru": "“Yaratılanı severiz, Yaradan'dan ötürü” ilkesi hangi mutasavvıfın ahlak anlayışının temelinde yer alır?",
+       "secenekler": [
+        "Mevlana",
+        "Hacı Bektaş Veli",
+        "Yûsuf Has Hâcib",
+        "Yunus Emre"
+       ],
+       "dogru": 3,
+       "bilgi": "Yunus Emre'ye göre ahlakın özü varlığın kaynağına duyulan, çıkar beklemeyen sevgidir; ahlaklı yaşam insanın kendini bilmesiyle mümkündür.",
+       "sayfa": 118
+      },
+      {
+       "id": "5.2-04",
+       "tur": "eslestir",
+       "yonerge": "Evrensel ahlak yasasını kabul eden filozofları görüşleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Sokrates",
+         "İnsan bilerek kötülük yapmaz; kötülüğün nedeni bilgisizliktir."
+        ],
+        [
+         "Farabi",
+         "Peygamberlerin aktardığı bilgilere uygun yaşayan mutlu olur."
+        ],
+        [
+         "I. Kant",
+         "Çıkar gözetmeden ödev bilinciyle yapılan eylem iyidir."
+        ],
+        [
+         "J. S. Mill",
+         "Bir şey ne kadar çok insana faydalıysa o kadar iyidir."
+        ]
+       ],
+       "bilgi": "Sokrates, Farabi, Kant ve J. S. Mill evrensel ahlak yasasının varlığını kabul eder.",
+       "sayfa": 120
+      },
+      {
+       "id": "5.2-05",
+       "tur": "secmeli",
+       "soru": "Kant'a göre bir davranışın ahlaki olarak iyi ya da kötü olması temelde neye bağlıdır?",
+       "secenekler": [
+        "Yalnızca doğurduğu sonuca",
+        "Hangi niyetle yapıldığına",
+        "Kişiye sağladığı hazza",
+        "Toplumun onay vermesine"
+       ],
+       "dogru": 1,
+       "bilgi": "Kant'a göre sonuç ne olursa olsun iyi niyetle, ödev bilinciyle yapılan her davranış iyidir.",
+       "sayfa": 120
+      },
+      {
+       "id": "5.2-06",
+       "tur": "dy",
+       "ifade": "Kant'a göre vicdandan kaynaklanan ödev duygusu öznel olduğu için evrensel ahlak yasasının temeli olamaz.",
+       "dogru": false,
+       "bilgi": "Kant'a göre ödev duygusu öznel bir yapıya sahip olsa da tüm insanlar için geçerli ilkeleri içerdiğinden evrensel ahlak yasasının temelidir.",
+       "sayfa": 120
+      },
+      {
+       "id": "5.2-07",
+       "tur": "eslestir",
+       "yonerge": "Evrensel ahlak yasasını kabul etmeyen filozofları görüşleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Epiküros",
+         "Yaşamın amacı “acı yokluğu” anlamında hazdır."
+        ],
+        [
+         "Thomas Hobbes",
+         "Ahlaki yargılar aslında psikolojik yargılardır."
+        ],
+        [
+         "Max Stirner",
+         "İyi, insanın kendi “ben”ini (ego) gerçekleştirmesidir."
+        ],
+        [
+         "Jeremy Bentham",
+         "Ahlaki iyiyi belirleyen faydadır."
+        ]
+       ],
+       "bilgi": "Epiküros, Hobbes, Stirner ve Bentham'a göre ahlaki değerler kişiden kişiye değiştiği için evrensel ahlak yasası yoktur.",
+       "sayfa": 121
+      },
+      {
+       "id": "5.2-08",
+       "tur": "secmeli",
+       "soru": "Evrendeki tüm olayların Tanrı tarafından belirlendiğini ve insanın bu durumu değiştiremeyeceğini savunan görüş hangisidir?",
+       "secenekler": [
+        "Fatalizm (kadercilik)",
+        "Determinizm",
+        "İndeterminizm",
+        "Otodeterminizm"
+       ],
+       "dogru": 0,
+       "bilgi": "Fatalizme göre insan yaratıcı bir güç tarafından tümüyle belirlendiği için davranışlarında özgür değildir.",
+       "sayfa": 122
+      },
+      {
+       "id": "5.2-09",
+       "tur": "bosluk",
+       "cumle": "Evrende her şeyin neden-sonuç ilişkisiyle açıklanamayacağını, bazı olayların rastlantısal olduğunu ve özgür iradenin mümkün olduğunu savunan görüşe ___ denir.",
+       "cevap": "indeterminizm",
+       "celdiriciler": [
+        "determinizm",
+        "fatalizm",
+        "rölativizm"
+       ],
+       "bilgi": "İndeterminizm (özgürlükçülük) ve otodeterminizme göre insan özgürdür ve eylemlerinden sorumludur.",
+       "sayfa": 122
+      },
+      {
+       "id": "5.2-10",
+       "tur": "dy",
+       "ifade": "Determinizme göre insan özgür olduğu için davranışlarından sorumlu tutulabilir.",
+       "dogru": false,
+       "bilgi": "Determinizme göre her olay neden-sonuç zincirine bağlıdır; insan özgür olmadığından davranışlarından sorumlu tutulamaz.",
+       "sayfa": 122
+      },
+      {
+       "id": "5.2-11",
+       "tur": "dy",
+       "ifade": "Anselmus'a göre günah işleme kudreti özgürlüğün parçası değildir; gerçek özgürlük kötülükten kaçınma yetisinde yatar.",
+       "dogru": true,
+       "bilgi": "Anselmus'a göre insan günahı kendi özgür iradesiyle işlediği için sorumluluk insana aittir, Tanrı sorumlu tutulamaz.",
+       "sayfa": 125
+      },
+      {
+       "id": "5.2-12",
+       "tur": "secmeli",
+       "soru": "İnsanın değerinin bilgi ve akıldan geldiğini anlatan ve iyiliğin yararlarını öven “Kutadgu Bilig”in yazarı kimdir?",
+       "secenekler": [
+        "Yunus Emre",
+        "Farabi",
+        "Yûsuf Has Hâcib",
+        "Mevlana"
+       ],
+       "dogru": 2,
+       "bilgi": "Kutadgu Bilig, Yûsuf Has Hâcib'in bilgi, akıl ve iyiliği öne çıkaran eseridir.",
+       "sayfa": 128
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "ad": "Estetik ve Sanat Felsefesi",
+   "konular": [
+    {
+     "no": "6.1",
+     "ad": "Estetik ve Sanat Felsefesinin Konusu ve Temel Kavramları",
+     "kartlar": [
+      {
+       "id": "6.1-01",
+       "tur": "secmeli",
+       "soru": "Hem sanattaki hem doğadaki güzelliği konu edinen estetik, hangi yüzyılda bir felsefe disiplini olarak ortaya çıkmıştır?",
+       "secenekler": [
+        "15. yüzyıl",
+        "17. yüzyıl",
+        "18. yüzyıl",
+        "19. yüzyıl"
+       ],
+       "dogru": 2,
+       "bilgi": "Estetik, 18. yüzyılda ortaya çıkan ve sanat felsefesini de kapsayan bir felsefe disiplinidir.",
+       "sayfa": 135
+      },
+      {
+       "id": "6.1-02",
+       "tur": "dy",
+       "ifade": "Estetik, hem doğadaki hem sanattaki güzelliği konu edindiği için sanat felsefesini de kapsayan bir alandır.",
+       "dogru": true,
+       "bilgi": "Sanat felsefesi sanatın ne olduğunu, estetik ise doğadaki ve sanattaki güzelliği inceler.",
+       "sayfa": 135
+      },
+      {
+       "id": "6.1-03",
+       "tur": "dy",
+       "ifade": "Doğadaki bir varlık ya da olay ne kadar güzel olursa olsun sanat eseri olarak kabul edilmez.",
+       "dogru": true,
+       "bilgi": "Sanat eseri insan ürünüdür; her eser kendine özgü ve biriciktir.",
+       "sayfa": 135
+      },
+      {
+       "id": "6.1-04",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi sanatsal etkinliği diğer insani etkinliklerden ayıran özelliklerdendir?",
+       "secenekler": [
+        "Deney ve gözleme dayanması",
+        "Yaratıcı hayal gücüne dayanması",
+        "Kesin kanıtlar sunması",
+        "Doğada kendiliğinden bulunması"
+       ],
+       "dogru": 1,
+       "bilgi": "Sanatsal etkinlik insan ürünüdür, duygu ve coşkuyu ifade eder, güzeli hedefler ve yaratıcı hayal gücüne dayanır.",
+       "sayfa": 135
+      },
+      {
+       "id": "6.1-05",
+       "tur": "eslestir",
+       "yonerge": "Estetik ve sanat felsefesi kavramlarını tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Estetik",
+         "Doğadaki ve sanat eserlerindeki güzelliği konu edinen felsefi alan"
+        ],
+        [
+         "Sanat",
+         "Duygu ve düşünceleri estetik biçimde ifade eden yaratıcı faaliyet"
+        ],
+        [
+         "Sanat eseri",
+         "Sanatçının duygu ve düşüncelerini ifade etmek için ortaya koyduğu ürün"
+        ],
+        [
+         "Güzellik",
+         "Kişide estetik haz ve beğenme duygusu uyandıran nitelik"
+        ]
+       ],
+       "bilgi": "Estetik ve sanat felsefesi sanat, sanat eseri, güzellik, hoş ve estetik gibi kavramları ele alır.",
+       "sayfa": 137
+      },
+      {
+       "id": "6.1-06",
+       "tur": "bosluk",
+       "cumle": "Sanatsal etkinlik, duygu ve düşüncelerin yaratıcı ___ aracılığıyla ifade edilmesini veya başkalarına iletilmesini amaçlar.",
+       "cevap": "hayal gücü",
+       "celdiriciler": [
+        "akıl yürütme",
+        "deney",
+        "gözlem"
+       ],
+       "bilgi": "Sanatsal etkinlik, duygu ve düşüncelerin yaratıcı hayal gücüyle ifade edildiği insani bir etkinliktir.",
+       "sayfa": 135
+      },
+      {
+       "id": "6.1-07",
+       "tur": "bosluk",
+       "cumle": "Sanatın ne olduğunu, insanın ona yüklediği anlamları ve değerleri araştıran felsefe alanına ___ denir.",
+       "cevap": "sanat felsefesi",
+       "celdiriciler": [
+        "ahlak felsefesi",
+        "bilgi felsefesi",
+        "varlık felsefesi"
+       ],
+       "bilgi": "Sanat felsefesi sanatı ve ona yüklenen anlamları araştırır; estetik ise güzellik kavramını ve insan üzerindeki etkilerini inceler.",
+       "sayfa": 135
+      },
+      {
+       "id": "6.1-08",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi estetik ve sanat felsefesinin sorduğu sorulardandır?",
+       "secenekler": [
+        "Bir tablonun satış fiyatı nedir?",
+        "Bu heykel hangi müzede sergileniyor?",
+        "Bir eseri sanat yapan nedir?",
+        "Yağlı boya nasıl üretilir?"
+       ],
+       "dogru": 2,
+       "bilgi": "Estetik ve sanat felsefesi “Güzel nedir?”, “Bir eseri sanat yapan nedir?” gibi sorularla sanatın ve güzelliğin doğasını sorgular.",
+       "sayfa": 133
+      },
+      {
+       "id": "6.1-09",
+       "tur": "secmeli",
+       "soru": "Sanat eserleri temelde hangi amacı taşır?",
+       "secenekler": [
+        "Güzeli ifade etmek",
+        "Deneysel bilgi üretmek",
+        "Toplumsal kuralları yazıya geçirmek",
+        "Gündelik bir ihtiyacı karşılamak"
+       ],
+       "dogru": 0,
+       "bilgi": "Sanat etkinliğinin ürünü olan sanat eserleri güzeli ifade etme amacı taşır.",
+       "sayfa": 135
+      }
+     ]
+    },
+    {
+     "no": "6.2",
+     "ad": "Estetik ve Sanat Felsefesinin Temel Problemleri (Güzellik ve Ortak Estetik Yargıların İmkânı)",
+     "kartlar": [
+      {
+       "id": "6.2-01",
+       "tur": "secmeli",
+       "soru": "İlk Çağ'da sanat anlamına gelen Latince “ars” ve Yunanca “tekhne” kelimeleri hangi anlamda kullanılmıştır?",
+       "secenekler": [
+        "Doğadaki güzelliği keşfedip yüceltme",
+        "İdeaları yalnızca akılla kavrama",
+        "Pratik kurallara bağlı zanaat uygulama",
+        "İç dünyadaki sezgileri özgürce dışa vurma"
+       ],
+       "dogru": 2,
+       "bilgi": "İlk Çağ'da sanatın bir teknik olduğu savunulmuş; Orta Çağ'da matematik ve astronomi gibi bilimler de sanata dâhil edilmiştir.",
+       "sayfa": 138
+      },
+      {
+       "id": "6.2-02",
+       "tur": "dy",
+       "ifade": "Sanat ile zanaat arasındaki temel fark, sanatın belirli bir amaca hizmet etmek için yapılmasıdır.",
+       "dogru": false,
+       "bilgi": "Belirli bir amaca hizmet eden zanaattır; sanatın ise genellikle doğrudan kullanıma yönelik ürün ortaya koyma amacı yoktur.",
+       "sayfa": 138
+      },
+      {
+       "id": "6.2-03",
+       "tur": "secmeli",
+       "soru": "Platon'a göre sanat neden insanı hakikatten uzaklaştırır?",
+       "secenekler": [
+        "Sanatçının yalnızca iç dünyasını yansıttığı için",
+        "Kural tanımayan, keyfî bir oyun olduğu için",
+        "Belirli bir amaca hizmet eden bir zanaat olduğu için",
+        "Doğayı, yani bir kopyayı yeniden kopyaladığı için"
+       ],
+       "dogru": 3,
+       "bilgi": "Taklit kuramını savunan Platon'a göre sanat, ideaların kopyası olan doğanın bir kez daha kopyalanmasıdır; sanatçı idealara yaklaşırsa hakikate yaklaşır.",
+       "sayfa": 139
+      },
+      {
+       "id": "6.2-04",
+       "tur": "eslestir",
+       "yonerge": "Sanat kuramlarını temsilcileriyle eşleştir.",
+       "ciftler": [
+        [
+         "Taklit olarak sanat",
+         "Platon"
+        ],
+        [
+         "Yaratım olarak sanat",
+         "Benedetto Croce"
+        ],
+        [
+         "Oyun olarak sanat",
+         "Friedrich Schiller"
+        ]
+       ],
+       "bilgi": "Taklit kuramına göre sanat gerçekliğin yansıması, yaratım kuramına göre iç dünyanın ifadesi, oyun kuramına göre özgür ve keyifli bir etkinliktir.",
+       "sayfa": 139
+      },
+      {
+       "id": "6.2-05",
+       "tur": "secmeli",
+       "soru": "Güzeli “düzen, oran ve sınırlılık ölçütlerine uygun olan” şeklinde tanımlayan filozof kimdir?",
+       "secenekler": [
+        "I. Kant",
+        "B. Croce",
+        "Aristoteles",
+        "Platon"
+       ],
+       "dogru": 2,
+       "bilgi": "Aristoteles'e göre güzel düzen, oran ve sınırlılığa uygun olandır; Kant'a göre karşılık beklemeksizin hoşa gidendir, Croce'ye göre mutluluk veren ifadedir.",
+       "sayfa": 141
+      },
+      {
+       "id": "6.2-06",
+       "tur": "secmeli",
+       "soru": "Hakikati bilgiye, güzelliği ise estetiğe ait bir kavram sayarak ikisini birbirinden ayıran filozof kimdir?",
+       "secenekler": [
+        "Platon",
+        "I. Kant",
+        "Aristoteles",
+        "B. Croce"
+       ],
+       "dogru": 1,
+       "bilgi": "Kant'a göre hakikat akılla bilinir, güzellik duygulara ve hayal gücüne dayanır; Platon ise güzelliğin hakikati yansıttığını savunur.",
+       "sayfa": 143
+      },
+      {
+       "id": "6.2-07",
+       "tur": "dy",
+       "ifade": "Aristoteles'e göre uçsuz bucaksız bir deniz yüce olduğu için aynı zamanda güzeldir.",
+       "dogru": false,
+       "bilgi": "Aristoteles'e göre yüce olan insanda korku uyandırdığından güzel olamaz; güzel düzen, oran, sınırlılık ve simetriye uygundur.",
+       "sayfa": 143
+      },
+      {
+       "id": "6.2-08",
+       "tur": "bosluk",
+       "cumle": "İnsanın ölçülerinin ve sınırlarının çok üstünde olan ve sınırsızlık anlamı taşıyan estetik kavrama ___ denir.",
+       "cevap": "yüce",
+       "celdiriciler": [
+        "hoş",
+        "güzel",
+        "trajik"
+       ],
+       "bilgi": "Yüce, insanın ölçü ve sınırlarının çok üstünde olanı ifade eder.",
+       "sayfa": 143
+      },
+      {
+       "id": "6.2-09",
+       "tur": "secmeli",
+       "soru": "Güzelliğin onu gören kişinin gözlerinde olduğunu ve estetik yargıların tamamen öznel olduğunu savunan filozof kimdir?",
+       "secenekler": [
+        "B. Croce",
+        "Platon",
+        "I. Kant",
+        "A. Baumgarten"
+       ],
+       "dogru": 0,
+       "bilgi": "Croce'ye göre güzellik sezgilerin dışa vurumudur ve her estetik deneyim biricik olduğu için ortak estetik yargı mümkün değildir.",
+       "sayfa": 144
+      },
+      {
+       "id": "6.2-10",
+       "tur": "dy",
+       "ifade": "Kant'a göre hoş olan bireysel hazlar doğururken güzel olan ortak ve evrensel bir beğeniyi ortaya koyar.",
+       "dogru": true,
+       "bilgi": "Kant'a göre estetik yargı bireysel hazdan başlasa da herkesin ortaklaşa kabul edebileceği evrensel bir yargıya dönüşür.",
+       "sayfa": 144
+      },
+      {
+       "id": "6.2-11",
+       "tur": "bosluk",
+       "cumle": "Alexander Baumgarten'a göre güzellik, ___ bilginin yetkinliğidir.",
+       "cevap": "duyusal",
+       "celdiriciler": [
+        "akılsal",
+        "sezgisel",
+        "deneysel"
+       ],
+       "bilgi": "Baumgarten'a göre estetik yargılar öznel bir yön taşısa da ortak duyuşsal ve bilişsel temellere dayandığı için evrenseldir.",
+       "sayfa": 144
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "ad": "Siyaset Felsefesi",
+   "konular": [
+    {
+     "no": "7.1",
+     "ad": "Siyaset Felsefesinin Konusu ve Temel Kavramları",
+     "kartlar": [
+      {
+       "id": "7.1-01",
+       "tur": "bosluk",
+       "cumle": "Arapça bir terim olan siyasetin Batı dillerindeki karşılığı “___” kelimesidir.",
+       "cevap": "politika",
+       "celdiriciler": [
+        "demokrasi",
+        "polis",
+        "oligarşi"
+       ],
+       "bilgi": "Siyaset Arapça kökenli bir terimdir; Batı dillerindeki karşılığı politikadır.",
+       "sayfa": 153
+      },
+      {
+       "id": "7.1-02",
+       "tur": "secmeli",
+       "soru": "“Politika” terimi Antik Çağ'da neyin yönetimi için kullanılmıştır?",
+       "secenekler": [
+        "Göçebe kağanlıkların ve boyların",
+        "Polis denen şehir devletlerinin",
+        "Geniş topraklı imparatorlukların",
+        "Orta Çağ kilise teşkilatının"
+       ],
+       "dogru": 1,
+       "bilgi": "Politika, Antik Çağ'da “polis” denilen şehir devletlerinin yönetimi için kullanılan bir terimdir.",
+       "sayfa": 153
+      },
+      {
+       "id": "7.1-03",
+       "tur": "secmeli",
+       "soru": "Siyaseti “yurttaşları ilgilendiren konular ve devlet yönetimi” olarak tanımlayan filozof kimdir?",
+       "secenekler": [
+        "Platon",
+        "T. Hobbes",
+        "J. J. Rousseau",
+        "Aristoteles"
+       ],
+       "dogru": 3,
+       "bilgi": "Aristoteles siyaseti yurttaşları ilgilendiren konular ve devlet yönetimi olarak tanımlamıştır.",
+       "sayfa": 153
+      },
+      {
+       "id": "7.1-04",
+       "tur": "dy",
+       "ifade": "Felsefe tarihinde bütün filozoflar devletin gerekli bir kurum olduğu görüşünde birleşmiştir.",
+       "dogru": false,
+       "bilgi": "Çoğu filozof devleti gerekli görse de bazı filozoflar devleti insan özgürlüğünü kısıtlayan yapay bir kurum olarak değerlendirmiştir.",
+       "sayfa": 153
+      },
+      {
+       "id": "7.1-05",
+       "tur": "eslestir",
+       "yonerge": "Siyaset felsefesi kavramlarını tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Ütopya",
+         "Gerçekleşmesi arzu edilen kusursuz ve ideal düzen tasarımı"
+        ],
+        [
+         "Devlet",
+         "Belli sınırları olan toprakta egemenlik kuran en büyük siyasi kurum"
+        ],
+        [
+         "Eşitlik",
+         "Tüm insanların aynı haklara ve değere sahip olması"
+        ],
+        [
+         "Adalet",
+         "Hakların korunması ve herkese hakkı olanın verilmesi ilkesi"
+        ],
+        [
+         "İktidar",
+         "Toplumu yönetme ve karar alma gücünü elinde bulunduran yetkili güç"
+        ]
+       ],
+       "bilgi": "Siyaset felsefesi adalet, birey, devlet, eşitlik, iktidar, özgürlük, toplum ve ütopya kavramlarını kullanır.",
+       "sayfa": 155
+      },
+      {
+       "id": "7.1-06",
+       "tur": "secmeli",
+       "soru": "Siyaset kavramı genel anlamıyla nasıl tanımlanır?",
+       "secenekler": [
+        "Devlet işlerinin yürütülmesi",
+        "Toplumsal kuralların yazıya geçirilmesi",
+        "Ekonomik üretimin planlanması",
+        "Bireysel ahlakın incelenmesi"
+       ],
+       "dogru": 0,
+       "bilgi": "Siyaset genel anlamıyla devlet işlerinin yürütülmesidir; otorite, güç, hükûmet ve yasama siyasetin temel unsurlarıdır.",
+       "sayfa": 153
+      },
+      {
+       "id": "7.1-07",
+       "tur": "bosluk",
+       "cumle": "Toplumu oluşturan ve kendi kimliği olan tekil varlığa ___ denir.",
+       "cevap": "birey",
+       "celdiriciler": [
+        "toplum",
+        "devlet",
+        "iktidar"
+       ],
+       "bilgi": "Birey toplumu oluşturan tekil varlıktır; toplum ise bir arada yaşayan ve ortak değerleri paylaşan büyük insan grubudur.",
+       "sayfa": 155
+      },
+      {
+       "id": "7.1-08",
+       "tur": "dy",
+       "ifade": "Siyaset felsefesi yalnızca teorik bir çalışma alanıdır ve pratik yaşamla bağlantısı yoktur.",
+       "dogru": false,
+       "bilgi": "Siyaset felsefesi demokrasi, özgürlük, adalet ve eşitlik gibi kavramlarla pratik yaşamla doğrudan bağlantılıdır.",
+       "sayfa": 151
+      }
+     ]
+    },
+    {
+     "no": "7.2",
+     "ad": "Siyaset Felsefesinin Temel Problemleri (Devletin Kökeni, İktidarın Kaynağı ve Meşruiyeti, İdeal Düzen ve Ütopyalar)",
+     "kartlar": [
+      {
+       "id": "7.2-01",
+       "tur": "secmeli",
+       "soru": "Devletin, insanların güvensiz bir ortamdan kurtulmak için yaptıkları toplumsal sözleşmeyle kurulduğunu savunan yaklaşım hangisidir?",
+       "secenekler": [
+        "Doğal bir kurum olarak devlet",
+        "Yapay bir kurum olarak devlet",
+        "Anarşizm",
+        "Eşitlik temelli yaklaşım"
+       ],
+       "dogru": 1,
+       "bilgi": "Doğal devlet yaklaşımına göre devlet insanın mutluluğu için zorunlu ve doğal bir kurumdur; yapay devlet yaklaşımı ise sözleşmeye dayanır.",
+       "sayfa": 156
+      },
+      {
+       "id": "7.2-02",
+       "tur": "eslestir",
+       "yonerge": "Filozofları devletin kökenine ilişkin görüşleriyle eşleştir.",
+       "ciftler": [
+        [
+         "T. Hobbes",
+         "Güçsüzler haklarını Leviathan denen güçlü yapıya devreder."
+        ],
+        [
+         "J. Locke",
+         "Yaşam, özgürlük ve mülkiyet haklarını korumak için devlet kurulur."
+        ],
+        [
+         "J. J. Rousseau",
+         "Devlet genel iradenin sözleşmesiyle doğar, özgürlüğü korur."
+        ],
+        [
+         "İbni Haldun",
+         "Devlet, asabiyetle güçlenen topluluğun egemenliğinden doğar."
+        ]
+       ],
+       "bilgi": "Hobbes, Locke ve Rousseau devleti yapay (sözleşmeye dayalı) bir kurum olarak görür.",
+       "sayfa": 158
+      },
+      {
+       "id": "7.2-03",
+       "tur": "secmeli",
+       "soru": "Platon'a göre devleti oluşturan üç kısım hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "Kağan, bey, halk",
+        "Yöneticiler, askerler, işçiler",
+        "Yasama, yürütme, yargı",
+        "Hükümdar, din adamları, tüccarlar"
+       ],
+       "dogru": 1,
+       "bilgi": "Platon devleti insan bedenindeki organlar gibi görevleri olan yöneticiler, askerler ve işçilerden oluşan bir organizma olarak görür.",
+       "sayfa": 158
+      },
+      {
+       "id": "7.2-04",
+       "tur": "bosluk",
+       "cumle": "İbni Haldun'a göre toplulukların iktidarı elde etmesini sağlayan toplumsal dayanışma ve birliğe ___ denir.",
+       "cevap": "asabiyet",
+       "celdiriciler": [
+        "umran",
+        "genel irade",
+        "Leviathan"
+       ],
+       "bilgi": "İbni Haldun'a göre devlet, zayıfları kuvvetlilere karşı korumayı amaçlar; görüşlerini “Mukaddime” adlı eserinde açıklar.",
+       "sayfa": 158
+      },
+      {
+       "id": "7.2-05",
+       "tur": "dy",
+       "ifade": "Farabi'ye göre devlet doğal bir kurumdur ve ideal devletin başındaki yönetici peygamber gibi erdemli bir kişidir.",
+       "dogru": true,
+       "bilgi": "Farabi'ye göre devlet insan vücudundaki organlar gibi farklı görevleri üstlenen yapılardan oluşur.",
+       "sayfa": 158
+      },
+      {
+       "id": "7.2-06",
+       "tur": "secmeli",
+       "soru": "Siyaset felsefesinde “meşru (haklı ve kabul edilmiş) iktidar” anlamında kullanılan kavram hangisidir?",
+       "secenekler": [
+        "Egemenlik",
+        "Zor",
+        "Otorite",
+        "Ütopya"
+       ],
+       "dogru": 2,
+       "bilgi": "İktidar iradesini başkalarına kabul ettirme gücüdür; otoritede ise insanlar iktidarı meşru gördükleri için itaat eder.",
+       "sayfa": 156
+      },
+      {
+       "id": "7.2-07",
+       "tur": "eslestir",
+       "yonerge": "Otorite biçimlerini meşruiyet kaynaklarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Geleneksel otorite",
+         "Gelenek, görenek ve inançlar"
+        ],
+        [
+         "Karizmatik otorite",
+         "Liderin olağanüstü kişisel özelliklerine duyulan inanç"
+        ],
+        [
+         "Akılsal otorite",
+         "Anayasa, yasalar ve yazılı kurallar"
+        ]
+       ],
+       "bilgi": "Mahatma Gandhi karizmatik otoriteye örnektir; akılsal otorite modern demokratik toplumların temel yönetim anlayışıdır.",
+       "sayfa": 159
+      },
+      {
+       "id": "7.2-08",
+       "tur": "dy",
+       "ifade": "Akılsal otoritede insanlar makama ve kurallara değil, doğrudan yöneticinin kişiliğine itaat eder.",
+       "dogru": false,
+       "bilgi": "Akılsal otoritede insanlar kişilere değil temsil ettikleri makama ve kurallara itaat eder; yöneticiler yasalarla sınırlıdır.",
+       "sayfa": 159
+      },
+      {
+       "id": "7.2-09",
+       "tur": "bosluk",
+       "cumle": "İdeal düzenin mümkün olmadığını savunup siyasi otoritenin bulunmadığı, özgürlüğe dayalı bir düzeni öneren yaklaşıma ___ denir.",
+       "cevap": "anarşizm",
+       "celdiriciler": [
+        "eşitlik temelli yaklaşım",
+        "özgürlük temelli yaklaşım",
+        "adalet temelli yaklaşım"
+       ],
+       "bilgi": "Anarşistler devlet ve düzenin gerekliliğini reddeder; siyasi otoritenin olmadığı, özgürlüğe dayalı bir düzen savunur.",
+       "sayfa": 161
+      },
+      {
+       "id": "7.2-10",
+       "tur": "secmeli",
+       "soru": "İdeal düzenin, eşitliğin üretim araçlarının ortak mülkiyetiyle sağlanmasıyla oluşacağını savunan yaklaşım hangisidir?",
+       "secenekler": [
+        "Özgürlük temelli yaklaşım",
+        "Adalet temelli yaklaşım",
+        "Anarşizm",
+        "Eşitlik temelli yaklaşım"
+       ],
+       "dogru": 3,
+       "bilgi": "Özgürlük temelli yaklaşım devletin az müdahalesini, adalet temelli yaklaşım sosyal devlet ilkelerini savunur.",
+       "sayfa": 161
+      },
+      {
+       "id": "7.2-11",
+       "tur": "bosluk",
+       "cumle": "İlk ütopya Platon'un “Devlet” adlı eseri olsa da ütopya kavramını ilk kez kullanan düşünür ___ olmuştur.",
+       "cevap": "Thomas More",
+       "celdiriciler": [
+        "Farabi",
+        "T. Hobbes",
+        "J. Locke"
+       ],
+       "bilgi": "Thomas More, ideal düzene ilişkin düşüncelerini “Ütopya” adlı eserinde açıklamıştır.",
+       "sayfa": 163
+      },
+      {
+       "id": "7.2-12",
+       "tur": "secmeli",
+       "soru": "Korku, baskı, adaletsizlik ve özgürlük kısıtlamalarının egemen olduğu bir toplumu betimleyen kurgulara ne ad verilir?",
+       "secenekler": [
+        "Ütopya",
+        "Distopya",
+        "Monarşi",
+        "Anarşi"
+       ],
+       "dogru": 1,
+       "bilgi": "Distopyalar ütopyanın tam tersi olarak baskıcı yönetimi, eşitsizliği ve kısıtlanmış özgürlükleri betimler.",
+       "sayfa": 163
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "ad": "Din Felsefesi",
+   "konular": [
+    {
+     "no": "8.1",
+     "ad": "Din Felsefesinin Konusu ve Temel Kavramları",
+     "kartlar": [
+      {
+       "id": "8.1-01",
+       "tur": "secmeli",
+       "soru": "Doğaüstü bir tanrısal güçle ilgili inançların, bu güce yönelik manevi eğilimlerin ve ona yapılan ibadetin oluşturduğu sistem hangi kavramla ifade edilir?",
+       "secenekler": [
+        "Teoloji",
+        "Din",
+        "Din felsefesi",
+        "Mitoloji"
+       ],
+       "dogru": 1,
+       "bilgi": "İnanç içeriği, ibadet biçimi ve kurallar dinlere göre değiştiği için dinin kesin bir tanımını yapmak zordur.",
+       "sayfa": 171
+      },
+      {
+       "id": "8.1-02",
+       "tur": "secmeli",
+       "soru": "Teolojinin temel amacı hangisidir?",
+       "secenekler": [
+        "Dinî inançları objektif ve eleştirel biçimde analiz etmek",
+        "Farklı dinleri tarafsızca karşılaştırmak",
+        "Dinin toplumsal etkilerini deneyle ölçmek",
+        "Ait olduğu dinin inançlarını gerekçelendirip meşrulaştırmak"
+       ],
+       "dogru": 3,
+       "bilgi": "Teoloji belirli bir dinin içsel mantığıyla çalışır; bu yüzden her dinin kendine özgü teolojisi vardır.",
+       "sayfa": 171
+      },
+      {
+       "id": "8.1-03",
+       "tur": "dy",
+       "ifade": "Din felsefesi, belirli bir dinin inanç sistemine bağlı kalarak o dinin inançlarını savunur.",
+       "dogru": false,
+       "bilgi": "Din felsefesi herhangi bir dinî çerçeveye bağlı kalmadan dini ve dinle ilgili problemleri akla dayalı, eleştirel biçimde inceler.",
+       "sayfa": 171
+      },
+      {
+       "id": "8.1-04",
+       "tur": "bosluk",
+       "cumle": "Kelime anlamı “tanrı bilimi” olan ve dinlerin öğretilerini, inançlarını, uygulamalarını inceleyen disipline ___ denir.",
+       "cevap": "teoloji",
+       "celdiriciler": [
+        "ontoloji",
+        "teleoloji",
+        "epistemoloji"
+       ],
+       "bilgi": "Teolojiyle uğraşanlara teolog (tanrı bilimci) denir.",
+       "sayfa": 171
+      },
+      {
+       "id": "8.1-05",
+       "tur": "eslestir",
+       "yonerge": "Din felsefesi kavramlarını tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Vahiy",
+         "Tanrı tarafından insanlara bildirilen buyruk ya da düşünceler"
+        ],
+        [
+         "İbadet",
+         "İnsanların dinî yükümlülüklerini yerine getirmesi"
+        ],
+        [
+         "İman",
+         "Dinî öğretilere ve Tanrı'nın varlığına duyulan güven ve bağlılık"
+        ],
+        [
+         "Mucize",
+         "Peygamberlerin peygamberliklerini ispat için gösterdiği olağanüstü olaylar"
+        ],
+        [
+         "Kutsal",
+         "Güçlü bir dinî saygı uyandıran, mukaddes"
+        ]
+       ],
+       "bilgi": "Din felsefesi Tanrı, ibadet, iman, inanç, vahiy, din, mucize ve kutsal kavramlarını ele alır.",
+       "sayfa": 173
+      },
+      {
+       "id": "8.1-06",
+       "tur": "secmeli",
+       "soru": "İnsanın belirli bir düşünce ya da görüşe duyduğu derin bağlılık hangi kavramla ifade edilir?",
+       "secenekler": [
+        "İnanç",
+        "Vahiy",
+        "İbadet",
+        "Mucize"
+       ],
+       "dogru": 0,
+       "bilgi": "İnanç bir düşünce ya da görüşe duyulan derin bağlılıktır; iman ise dinî öğretilere ve Tanrı'ya duyulan güven ve bağlılıktır.",
+       "sayfa": 173
+      },
+      {
+       "id": "8.1-07",
+       "tur": "dy",
+       "ifade": "Din felsefesinin amacı dinî inanç ve deneyimleri akılcı, eleştirel ve objektif bir bakışla analiz etmektir; bu yüzden dogmatik yaklaşımlardan kaçınır.",
+       "dogru": true,
+       "bilgi": "Din felsefesi dinî inançların mantıksal dayanaklarının yanında insan yaşamına ve topluma etkilerini de araştırır.",
+       "sayfa": 171
+      },
+      {
+       "id": "8.1-08",
+       "tur": "bosluk",
+       "cumle": "Teoloji, inanç ve kabullerini diğer dinler ya da farklı düşünceler karşısında koruduğu için eleştirel değil ___ bir yaklaşım benimser.",
+       "cevap": "savunmacı",
+       "celdiriciler": [
+        "kuşkucu",
+        "tarafsız",
+        "deneysel"
+       ],
+       "bilgi": "Teologlar dinî öğretileri yorumlayarak inançlarını destekleyen mantıksal ve teolojik argümanlar geliştirir.",
+       "sayfa": 171
+      }
+     ]
+    },
+    {
+     "no": "8.2",
+     "ad": "Din Felsefesinin Temel Problemleri (Tanrı’nın Varlığı, Tanrı Kanıtlamaları, Evrenin Sonluluğu ve Sonsuzluğu, Ruhun Ölümsüzlüğü)",
+     "kartlar": [
+      {
+       "id": "8.2-01",
+       "tur": "eslestir",
+       "yonerge": "Tanrı'nın varlığına ilişkin görüşleri temel iddialarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Teizm",
+         "Tanrı evreni yaratmıştır, ona müdahale eder ve onu yönetir."
+        ],
+        [
+         "Deizm",
+         "Tanrı evrenin yaratıcısıdır ancak evrene müdahale etmez."
+        ],
+        [
+         "Panteizm",
+         "Tanrı ile evren bir ve aynıdır."
+        ],
+        [
+         "Ateizm",
+         "Tanrı'nın varlığını reddeder."
+        ]
+       ],
+       "bilgi": "Tanrı'nın varlığını kabul edenler teizm, deizm ve panteizm gibi görüşlere ayrılır; kabul etmeyenler ateizmi benimser.",
+       "sayfa": 174
+      },
+      {
+       "id": "8.2-02",
+       "tur": "secmeli",
+       "soru": "Tanrı kavramının ve ahlaki değerlerin kaynağının insan aklı olduğunu, evrendeki olayların doğal nedenlere dayandığını savunan görüş hangisidir?",
+       "secenekler": [
+        "Teizm",
+        "Deizm",
+        "Ateizm",
+        "Panteizm"
+       ],
+       "dogru": 2,
+       "bilgi": "Ateizme göre Tanrı'nın varlığına dair kanıt bulunmaz ve dinî inançların bilimsel dayanağı yoktur.",
+       "sayfa": 174
+      },
+      {
+       "id": "8.2-03",
+       "tur": "eslestir",
+       "yonerge": "Tanrı'nın varlığı hakkındaki argümanları temel düşünceleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Teleolojik argüman",
+         "Evrendeki kusursuz düzen bir tasarımcıyı gerektirir."
+        ],
+        [
+         "Kozmolojik argüman",
+         "Nedenler zincirinin başında bir ilk neden olmalıdır."
+        ],
+        [
+         "Ontolojik argüman",
+         "Mükemmel bir varlığın var olmaması imkânsızdır."
+        ],
+        [
+         "Kötülük argümanı",
+         "Kötülüklerin varlığı Tanrı'nın mükemmelliğiyle çelişir."
+        ]
+       ],
+       "bilgi": "Tanrı'nın varlığını savunanlar teleolojik, kozmolojik ve ontolojik argümanlara; reddedenler kötülük argümanına başvurur.",
+       "sayfa": 175
+      },
+      {
+       "id": "8.2-04",
+       "tur": "secmeli",
+       "soru": "“Yalnızca zihinsel bir tanımdan yola çıkarak dış dünyadaki bir gerçekliğe ulaşılamaz.” eleştirisi hangi argümana yöneltilmiştir?",
+       "secenekler": [
+        "Teleolojik argüman",
+        "Kozmolojik argüman",
+        "Kötülük argümanı",
+        "Ontolojik argüman"
+       ],
+       "dogru": 3,
+       "bilgi": "Ontolojik argüman Tanrı'nın mükemmelliği gereği zorunlu olarak var olduğunu, yani tanımdan varlığa geçilebileceğini savunur.",
+       "sayfa": 175
+      },
+      {
+       "id": "8.2-05",
+       "tur": "dy",
+       "ifade": "Kötülük argümanı, Tanrı'nın varlığını kanıtlamak amacıyla öne sürülmüştür.",
+       "dogru": false,
+       "bilgi": "Kötülük argümanı Tanrı'nın yokluğuna yönelik bir argümandır; ona göre kötülüklerin varlığı Tanrı'nın mükemmelliğiyle çelişir.",
+       "sayfa": 175
+      },
+      {
+       "id": "8.2-06",
+       "tur": "secmeli",
+       "soru": "Einstein'ın görelilik kuramı ile Friedmann ve Lemaitre'nin çalışmalarından sonra evrene ilişkin hangi anlayış öne çıkmıştır?",
+       "secenekler": [
+        "Evren ezelî ve ebedîdir.",
+        "Evren durağan ve değişmez bir yapıdadır.",
+        "Evren büyük patlamayla başlayan sonlu bir geçmişe sahiptir.",
+        "Evren yalnızca galaksilerin boşlukta hareketinden ibarettir."
+       ],
+       "dogru": 2,
+       "bilgi": "Bu anlayışa göre zaman ve mekân büyük patlamayla ortaya çıkmış, evrenin genişlemesi uzayın kendisinin büyümesidir.",
+       "sayfa": 178
+      },
+      {
+       "id": "8.2-07",
+       "tur": "secmeli",
+       "soru": "Evrenin Tanrı ile birlikte ezelden beri var olduğunu ve Tanrı'nın evrene zaman bakımından değil öz bakımından önce olduğunu savunan filozof kimdir?",
+       "secenekler": [
+        "İbni Sina",
+        "Gazali",
+        "Kindi",
+        "Thomas Aquinas"
+       ],
+       "dogru": 0,
+       "bilgi": "Gazali, Kindi ve Aquinas evrenin sonlu olduğunu; İbni Sina, Aristoteles ve Spinoza evrenin sonsuz olduğunu savunur.",
+       "sayfa": 179
+      },
+      {
+       "id": "8.2-08",
+       "tur": "dy",
+       "ifade": "Spinoza'ya göre evren ile Tanrı özdeştir ve bu nedenle evren sonsuzdur.",
+       "dogru": true,
+       "bilgi": "Spinoza'ya göre Tanrı'nın mutlak doğasından çıkan her şey sonsuzdur.",
+       "sayfa": 179
+      },
+      {
+       "id": "8.2-09",
+       "tur": "bosluk",
+       "cumle": "Kindi'ye göre evrendeki değişim ___ varlığını kanıtlar; bu da evrenin bir başlangıcı ve sonu olduğunu gösterir.",
+       "cevap": "zamanın",
+       "celdiriciler": [
+        "maddenin",
+        "ruhun",
+        "atomların"
+       ],
+       "bilgi": "Kindi'ye göre evren, Tanrı tarafından belli bir zamanda yaratılmıştır.",
+       "sayfa": 179
+      },
+      {
+       "id": "8.2-10",
+       "tur": "secmeli",
+       "soru": "Ruhun maddesel olduğunu, ince atomlardan oluştuğunu ve beden ölünce dağılıp yok olduğunu savunan filozof kimdir?",
+       "secenekler": [
+        "Platon",
+        "Farabi",
+        "Epiküros",
+        "İbni Sina"
+       ],
+       "dogru": 2,
+       "bilgi": "Epiküros ruhun ölümlü olduğunu savunurken Platon, Farabi ve İbni Sina ruhun ölümsüz olduğunu savunur.",
+       "sayfa": 180
+      },
+      {
+       "id": "8.2-11",
+       "tur": "dy",
+       "ifade": "Farabi'ye göre ruhun ölümsüzlüğü yalnızca bilgi ve erdem yoluyla ruhunu geliştiren insanlar için geçerlidir.",
+       "dogru": true,
+       "bilgi": "Farabi'ye göre beden öldükten sonra ruh, Tanrı'dan gelen faal akılla ilişkisi sayesinde evrensel akılla birleşerek varlığını sürdürür.",
+       "sayfa": 180
+      },
+      {
+       "id": "8.2-12",
+       "tur": "bosluk",
+       "cumle": "Hinduizm gibi bazı dinlerde görülen, ruhun ölümden sonra farklı bedenlerde yeniden doğduğu inancına ___ denir.",
+       "cevap": "reenkarnasyon",
+       "celdiriciler": [
+        "panteizm",
+        "deizm",
+        "teleoloji"
+       ],
+       "bilgi": "Tek tanrılı dinler ruhun ölümden sonra sonsuza dek var olacağını savunur; pozitif bilimler ise ruhu kanıtlanamaz bularak reddeder.",
+       "sayfa": 178
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "ad": "Bilim Felsefesi",
+   "konular": [
+    {
+     "no": "9.1",
+     "ad": "Bilim Felsefesinin Konusu ve Temel Kavramları",
+     "kartlar": [
+      {
+       "id": "9.1-01",
+       "tur": "secmeli",
+       "soru": "Felsefenin bilimle ilgilenmeye başlamasıyla bilim felsefesi hangi yüzyılda ortaya çıkmıştır?",
+       "secenekler": [
+        "15. yüzyıl",
+        "17. yüzyıl",
+        "18. yüzyıl",
+        "19. yüzyıl"
+       ],
+       "dogru": 3,
+       "bilgi": "Bilimlerin felsefeden ayrılmasının ardından 19. yüzyılda felsefe bilimi sorgulamaya başlamış ve bilim felsefesi doğmuştur.",
+       "sayfa": 189
+      },
+      {
+       "id": "9.1-02",
+       "tur": "dy",
+       "ifade": "18. yüzyıla kadar bilim, felsefenin bir parçası olarak görülmüş ve bilim insanları aynı zamanda felsefeyle de ilgilenmiştir.",
+       "dogru": true,
+       "bilgi": "Bilimin felsefeden farklı bir yöntem kullanması gerektiği düşüncesiyle bilimler zamanla felsefeden ayrılmıştır.",
+       "sayfa": 189
+      },
+      {
+       "id": "9.1-03",
+       "tur": "secmeli",
+       "soru": "Bilimsel yöntemin aşamaları hangi seçenekte doğru sırayla verilmiştir?",
+       "secenekler": [
+        "Hipotez, gözlem, yasa, deney",
+        "Deney, yasa, gözlem, hipotez",
+        "Gözlem, hipotez, deney, yasa",
+        "Yasa, hipotez, deney, gözlem"
+       ],
+       "dogru": 2,
+       "bilgi": "Bilimsel yöntemde önce gözlem yapılır, hipotez kurulur, hipotez deneyle sınanır; doğrulanan hipotez yasa olur.",
+       "sayfa": 189
+      },
+      {
+       "id": "9.1-04",
+       "tur": "bosluk",
+       "cumle": "Bilimsel yöntemde bir hipotez deneylerle doğrulandığında ___ hâlini alır.",
+       "cevap": "yasa",
+       "celdiriciler": [
+        "kuram",
+        "paradigma",
+        "gözlem"
+       ],
+       "bilgi": "Deneylerle doğrulanan hipotez yasa hâline gelir.",
+       "sayfa": 189
+      },
+      {
+       "id": "9.1-05",
+       "tur": "eslestir",
+       "yonerge": "Bilim felsefesi kavramlarını açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Hipotez",
+         "Deneylerle test edilebilecek öngörü"
+        ],
+        [
+         "Kuram",
+         "Yasalar ile kanıtlanmamış hipotezlerin birlikte kullanıldığı kapsamlı açıklama"
+        ],
+        [
+         "Paradigma",
+         "Bilim insanlarının olayları ele alış biçimini belirleyen dünya görüşü"
+        ],
+        [
+         "Gözlem",
+         "Veri toplamak için olay ve olguları dikkatle izleme"
+        ]
+       ],
+       "bilgi": "Statik evren anlayışına dayanan paradigma yetersiz kalınca yerini genişleyen evren anlayışına dayalı yeni paradigmaya bırakmıştır.",
+       "sayfa": 189
+      },
+      {
+       "id": "9.1-06",
+       "tur": "secmeli",
+       "soru": "Bilimsel etkinliği diğer bilme çabalarından ayıran temel unsur hangisidir?",
+       "secenekler": [
+        "Aracısız sezgiye dayanması",
+        "Bilim insanının kişisel görüşlerini yansıtması",
+        "Sistemli ve yöntemli olması",
+        "Otoritelerin onayına dayanması"
+       ],
+       "dogru": 2,
+       "bilgi": "Bilimsel yöntem genellikle deney ve gözleme dayanır; bu sayede nesnel ve genelgeçer bilgiye ulaşılır.",
+       "sayfa": 189
+      },
+      {
+       "id": "9.1-07",
+       "tur": "dy",
+       "ifade": "Felsefe deney ve gözlem yoluyla nesnel bilgiler elde ederken bilim akıl yürütmeyle öznel sonuçlara ulaşır.",
+       "dogru": false,
+       "bilgi": "Felsefe akıl yürütme ve argümanla öznel sonuçlara ulaşır; bilim ise deney ve gözlemle somut varlıklara ilişkin nesnel bilgi elde eder.",
+       "sayfa": 187
+      },
+      {
+       "id": "9.1-08",
+       "tur": "secmeli",
+       "soru": "“Beyt muzlim” adını verdiği karanlık odayı, yani bilinen ilk kamerayı icat eden bilim insanı kimdir?",
+       "secenekler": [
+        "Takiyüddin",
+        "İbnülheysem",
+        "Solomon Asch",
+        "Fuat Sezgin"
+       ],
+       "dogru": 1,
+       "bilgi": "İbnülheysem'in “beyt muzlim” terimi Latinceye “camera obscura” olarak çevrilmiştir.",
+       "sayfa": 190
+      },
+      {
+       "id": "9.1-09",
+       "tur": "bosluk",
+       "cumle": "İstanbul Rasathanesindeki çalışmalarıyla tanınan Osmanlı astronomu ___, ışığın doğrusal yayıldığını deneylerle göstermiştir.",
+       "cevap": "Takiyüddin",
+       "celdiriciler": [
+        "İbnülheysem",
+        "Kindi",
+        "Farabi"
+       ],
+       "bilgi": "Takiyüddin, ışığın kaynağın hem bütününden hem de her parçasından küresel biçimde yayıldığını deneyle kanıtlamıştır.",
+       "sayfa": 190
+      },
+      {
+       "id": "9.1-10",
+       "tur": "secmeli",
+       "soru": "Türkiye'nin ilk kadın felsefe profesörü kimdir?",
+       "secenekler": [
+        "Kamuran Birand",
+        "Cemal Yıldırım",
+        "Teoman Duralı",
+        "Necati Öner"
+       ],
+       "dogru": 0,
+       "bilgi": "Kamuran Birand Türkiye'nin ilk kadın felsefe profesörüdür; Cemal Yıldırım ve Teoman Duralı bilim felsefesi çalışmalarıyla öne çıkar.",
+       "sayfa": 188
+      }
+     ]
+    },
+    {
+     "no": "9.2",
+     "ad": "Bilim Felsefesinin Temel Problemleri (Bilimin Ne Olduğu, Bilimin Yöntemi)",
+     "kartlar": [
+      {
+       "id": "9.2-01",
+       "tur": "secmeli",
+       "soru": "Bilim felsefesinin “Bilim nedir?” sorusuna cevap veren iki temel yaklaşım hangisidir?",
+       "secenekler": [
+        "Rasyonalizm ve empirizm",
+        "Klasik ve çağdaş anlayış",
+        "Dogmatizm ve septisizm",
+        "Determinizm ve indeterminizm"
+       ],
+       "dogru": 1,
+       "bilgi": "Klasik (geleneksel) ve çağdaş bilim anlayışları bilimin tanımı, amacı, yöntemi ve gelişimi konusunda farklı görüşler ortaya koyar.",
+       "sayfa": 193
+      },
+      {
+       "id": "9.2-02",
+       "tur": "bosluk",
+       "cumle": "Bilimsel görünüm taşımasına rağmen bilimsel yöntemlerle test edilemeyen ve yanlışlanamayan iddialardan oluşan bilgiye ___ denir.",
+       "cevap": "sözde bilim",
+       "celdiriciler": [
+        "paradigma",
+        "kuram",
+        "hipotez"
+       ],
+       "bilgi": "Sözde bilimin bilimle karıştırılması özellikle sağlık ve teknoloji konularında bireyleri ve toplumu yanıltabilir.",
+       "sayfa": 193
+      },
+      {
+       "id": "9.2-03",
+       "tur": "dy",
+       "ifade": "Klasik bilim anlayışına göre bilim, bilim insanının bakış açısından ve değerlerinden etkilenir.",
+       "dogru": false,
+       "bilgi": "Klasik anlayışa göre bilim bilim insanından bağımsız ve nesneldir; çağdaş anlayışa göre ise bilim insanından bağımsız değildir.",
+       "sayfa": 195
+      },
+      {
+       "id": "9.2-04",
+       "tur": "secmeli",
+       "soru": "Bilimin yalnızca deney ve gözlem konusu olan olguları ele alması gerektiğini savunan klasik bilim anlayışını kimler ortaya atmıştır?",
+       "secenekler": [
+        "Rasyonalistler (akılcılar)",
+        "Varoluşçular",
+        "Pozitivistler (olgucular)",
+        "Fenomenologlar"
+       ],
+       "dogru": 2,
+       "bilgi": "Klasik bilim anlayışında bilim denince doğa bilimleri anlaşılır; bilim tümevarımla yasalara ulaşır ve öndeyide bulunur.",
+       "sayfa": 195
+      },
+      {
+       "id": "9.2-05",
+       "tur": "dy",
+       "ifade": "Çağdaş bilim anlayışı 20. yüzyılda klasik bilim anlayışının eleştirilmesiyle ortaya çıkmış ve bilimin daima doğrusal ilerlediği fikrine karşı çıkmıştır.",
+       "dogru": true,
+       "bilgi": "Çağdaş bilim anlayışına göre bilim genel kabullerin zaman zaman değişmesi biçiminde ilerler ve sınırsız bir güce sahip değildir.",
+       "sayfa": 195
+      },
+      {
+       "id": "9.2-06",
+       "tur": "eslestir",
+       "yonerge": "Bilim felsefecilerini bilimsel yöntem hakkındaki görüşleriyle eşleştir.",
+       "ciftler": [
+        [
+         "R. Carnap",
+         "Bilimsel bilgi anlamlı ve doğrulanabilir olmalıdır."
+        ],
+        [
+         "K. Popper",
+         "Bilgi doğrulanamaz, yalnızca yanlışlanabilir."
+        ],
+        [
+         "T. S. Kuhn",
+         "Bilim bir paradigmadan diğerine geçerek ilerler."
+        ]
+       ],
+       "bilgi": "Carnap, Kuhn ve Popper bilimsel yöntemin ne olması gerektiğine ilişkin görüşleriyle öne çıkar.",
+       "sayfa": 197
+      },
+      {
+       "id": "9.2-07",
+       "tur": "secmeli",
+       "soru": "K. Popper'a göre bilimsel bir bilgi ne zamana kadar geçici olarak doğru kabul edilir?",
+       "secenekler": [
+        "Yanlışlanana kadar",
+        "Doğrudan gözlemle doğrulanana kadar",
+        "Bilim insanlarınca oylanana kadar",
+        "Metafizikle uzlaşana kadar"
+       ],
+       "dogru": 0,
+       "bilgi": "Popper'a göre bilim dinamik bir süreçtir; bilgi her zaman yeni gözlem ve deneylerle sınanmaya açıktır.",
+       "sayfa": 197
+      },
+      {
+       "id": "9.2-08",
+       "tur": "bosluk",
+       "cumle": "T. S. Kuhn'a göre belli bir paradigmanın kabul edildiği ve her türlü soruya cevap verebildiği döneme ___ dönemi denir.",
+       "cevap": "olağan bilim",
+       "celdiriciler": [
+        "olağanüstü bilim",
+        "bunalım",
+        "doğrulama"
+       ],
+       "bilgi": "Paradigma sorulara cevap veremeyince bunalım başlar ve olağanüstü bilim dönemi yaşanır; bu dönem yeni paradigmayla aşılır.",
+       "sayfa": 197
+      },
+      {
+       "id": "9.2-09",
+       "tur": "dy",
+       "ifade": "Kuhn'a göre bilim insanları yeni bir paradigmayı hiçbir direnç göstermeden hemen kabul eder.",
+       "dogru": false,
+       "bilgi": "Kuhn'a göre yeni paradigmanın kabulü kolay değildir; ona karşı direnç gösterilir ama bir süre sonra kabul edilir.",
+       "sayfa": 197
+      },
+      {
+       "id": "9.2-10",
+       "tur": "secmeli",
+       "soru": "R. Carnap'a göre bir bilginin ancak araç gereç ya da laboratuvar ortamı kullanılarak doğrulanmasına ne ad verilir?",
+       "secenekler": [
+        "Doğrudan doğrulama",
+        "Yanlışlama",
+        "Dolaylı doğrulama",
+        "Paradigma değişimi"
+       ],
+       "dogru": 2,
+       "bilgi": "Carnap'a göre doğrudan doğrulamada bilgi araç gereç gerekmeden gözlemle, dolaylı doğrulamada ise araçlarla doğrulanır.",
+       "sayfa": 197
+      },
+      {
+       "id": "9.2-11",
+       "tur": "secmeli",
+       "soru": "R. Carnap'a göre deney ve gözlemle doğrulanamayan önermeler nasıl nitelendirilir?",
+       "secenekler": [
+        "Bilimsel yasa",
+        "Metafizik",
+        "Paradigma",
+        "Hipotez"
+       ],
+       "dogru": 1,
+       "bilgi": "Carnap'a göre metafizik bilinebilir değildir ve bilimsel değer taşımaz; bu yüzden felsefe metafizik konuları ele almamalıdır.",
+       "sayfa": 197
+      },
+      {
+       "id": "9.2-12",
+       "tur": "secmeli",
+       "soru": "“Bilim Tarihi Sohbetleri” adlı eserinde bugünkü Avrupa bilimlerini İslam bilimlerinin başka bir coğrafyadaki devamı olarak tanımlayan bilim tarihçisi kimdir?",
+       "secenekler": [
+        "Cemal Yıldırım",
+        "Teoman Duralı",
+        "Necati Öner",
+        "Fuat Sezgin"
+       ],
+       "dogru": 3,
+       "bilgi": "Fuat Sezgin'e göre Müslümanlar 850'den 16. yüzyılın sonuna kadar bilimde sürekli yeni şeyler keşfetmiştir.",
+       "sayfa": 199
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

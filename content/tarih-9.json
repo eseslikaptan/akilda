@@ -1,0 +1,2101 @@
+{
+ "kitap": "tarih-9",
+ "ders": "tarih",
+ "sinif": 9,
+ "baslik": "Tarih 9. Sınıf Ders Kitabı",
+ "sayfaUrl": "https://tymm.meb.gov.tr/kitap/43/tarih-9sinif-ders-kitabi",
+ "pdfUrl": "https://tymm.meb.gov.tr/assets/pdf/tarih-9sinif-ders-kitabi_20261006_121514_240.pdf",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Geçmişin İnşa Sürecinde Tarih",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Tarih Öğrenmenin Faydaları",
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "secmeli",
+       "soru": "Atatürk'e göre vatan toprakları yalnızca güç ve silahla değil, başka neyle de korunur?",
+       "secenekler": [
+        "Ticaret ve sanayi ile",
+        "Düşünce ve millî bilinç ile",
+        "Diplomasi ve antlaşmalar ile",
+        "Nüfus artışı ve iskân ile"
+       ],
+       "dogru": 1,
+       "bilgi": "Atatürk, vatan topraklarının güç ve silahın yanında düşünce ve millî bilinç yoluyla da korunacağını ifade etmiştir.",
+       "sayfa": 13
+      },
+      {
+       "id": "1.1-02",
+       "tur": "bosluk",
+       "cumle": "Atatürk'e göre Türk çocuğu ___ tanıdıkça daha büyük işler yapmak için kendinde kuvvet bulacaktır.",
+       "cevap": "ecdadını",
+       "celdiriciler": [
+        "komşularını",
+        "dünyayı",
+        "rakiplerini"
+       ],
+       "bilgi": "Atatürk, gençlerin millî tarih ve kültür bilincine sahip bireyler olarak yetiştirilmesi gerektiğini vurgulamıştır.",
+       "sayfa": 13
+      },
+      {
+       "id": "1.1-03",
+       "tur": "dy",
+       "ifade": "Çanakkale Şehitler Abidesi, halkın ve devletin katkısıyla 21 Ağustos 1960'ta tamamlanmıştır.",
+       "dogru": true,
+       "bilgi": "Çanakkale Şehitler Abidesi 1960'ta tamamlanmış ve Çanakkale Boğazı girişinde Çanakkale ruhunun simgesi olmuştur.",
+       "sayfa": 14
+      },
+      {
+       "id": "1.1-04",
+       "tur": "secmeli",
+       "soru": "Çanakkale Şehitler Abidesi'nde bir kaide üzerine oturtulmuş dört sütun neyi simgeler?",
+       "secenekler": [
+        "Dört cephede verilen Millî Mücadele'yi",
+        "Çanakkale'deki dört büyük kara savaşını",
+        "Osmanlı ordusunun dört kolunu",
+        "Cumhuriyetin sağlam temeller üzerine kurulduğunu"
+       ],
+       "dogru": 3,
+       "bilgi": "Abidenin dört sütunu Türkiye Cumhuriyeti'nin sağlam temellere dayandığını simgeler; sütunlardaki sekiz rölyefte kara ve deniz savaşları işlenmiştir.",
+       "sayfa": 14
+      },
+      {
+       "id": "1.1-05",
+       "tur": "bosluk",
+       "cumle": "Hiroşima'ya 1945'te atılan atom bombasından sonra ayakta kalan tek yapı olan Endüstriyel Tanıtım Salonu günümüzde ___ anıtı olarak korunmaktadır.",
+       "cevap": "barış",
+       "celdiriciler": [
+        "zafer",
+        "bilim",
+        "şehitlik"
+       ],
+       "bilgi": "Hiroşima'daki Endüstriyel Tanıtım Salonu, savaş sonrasındaki hâliyle bırakılarak barış anıtı olarak korunmaktadır.",
+       "sayfa": 14
+      },
+      {
+       "id": "1.1-06",
+       "tur": "dy",
+       "ifade": "Tarihini bilmeyen toplumların ortak değerler etrafında birleşip varlığını sürdürmesi kolaydır.",
+       "dogru": false,
+       "bilgi": "Ortak kimlik ancak ortak değerlerin benimsenmesiyle oluşur; bunun için tarihi bilmek gerekir ve tarihini bilmeyen toplumların devamlılığı mümkün değildir.",
+       "sayfa": 15
+      },
+      {
+       "id": "1.1-07",
+       "tur": "secmeli",
+       "soru": "Lidya Kralı Kroisos'a ait olan ve 2013'te Türkiye'ye iade edilen Kanatlı Denizatı Broşu günümüzde hangi müzede sergilenmektedir?",
+       "secenekler": [
+        "Uşak Arkeoloji Müzesi",
+        "Gaziantep Zeugma Mozaik Müzesi",
+        "Anadolu Medeniyetleri Müzesi",
+        "İstanbul Arkeoloji Müzesi"
+       ],
+       "dogru": 0,
+       "bilgi": "Karun hazinelerinin en değerli parçası olan Kanatlı Denizatı Broşu, 2013'te geri getirilerek Uşak Arkeoloji Müzesinde sergilenmeye başlanmıştır.",
+       "sayfa": 16
+      },
+      {
+       "id": "1.1-08",
+       "tur": "bosluk",
+       "cumle": "Tarih; insanın sorgulama, yorumlama ve ___ kurma becerilerini geliştiren çok yönlü bir çalışma alanıdır.",
+       "cevap": "empati",
+       "celdiriciler": [
+        "hipotez",
+        "deney",
+        "model"
+       ],
+       "bilgi": "Tarih, olayları dönemin siyasi, sosyal, kültürel ve ekonomik koşullarına göre değerlendirmeyi öğreterek sorgulama, yorumlama ve empati becerilerini geliştirir.",
+       "sayfa": 15
+      },
+      {
+       "id": "1.1-09",
+       "tur": "secmeli",
+       "soru": "Zeugma Antik Kenti'ndeki Roma villalarını süsleyen ve kayıp parçaları 2012'de Türkiye'ye getirilen ünlü mozaik hangisidir?",
+       "secenekler": [
+        "Medusa Mozaiği",
+        "Dionysos Mozaiği",
+        "Çingene Kızı Mozaiği",
+        "Poseidon Mozaiği"
+       ],
+       "dogru": 2,
+       "bilgi": "Adı Zeugma ile özdeşleşen Çingene Kızı mozaiğinin kayıp parçaları geri getirilerek Gaziantep Zeugma Mozaik Müzesinde sergilenmektedir.",
+       "sayfa": 16
+      },
+      {
+       "id": "1.1-10",
+       "tur": "eslestir",
+       "yonerge": "Kişileri tanındıkları eser veya çalışmalarla eşleştir.",
+       "ciftler": [
+        [
+         "Piri Reis",
+         "Kitab-ı Bahriye ve Amerika'yı gösteren dünya haritası"
+        ],
+        [
+         "Jale İnan",
+         "Perge-Side ve Kremna kazıları"
+        ],
+        [
+         "Halil Dikmen",
+         "İstiklal Savaşı'nda Mermi Taşıyan Kadınlar tablosu"
+        ],
+        [
+         "Yahya Kemal Beyatlı",
+         "Süleymaniye'de Bayram Sabahı şiiri"
+        ]
+       ],
+       "bilgi": "Piri Reis Osmanlı denizcisi ve kartograf, Jale İnan ise Anadolu'nun antik dönemlerine ışık tutan önde gelen bir Türk arkeologdur.",
+       "sayfa": 16
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "Tarihin Doğası",
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "secmeli",
+       "soru": "Tarihsel bilgiyi oluşturan üç unsurdan, kaynakları belirli yöntemlerle inceleyip sorgulayan ve yorumlayan unsur hangisidir?",
+       "secenekler": [
+        "Arşiv",
+        "Tarihçi",
+        "Kronoloji",
+        "Kanıt"
+       ],
+       "dogru": 1,
+       "bilgi": "Tarihçi, günümüze ulaşan kaynakları inceleyip sorgulayarak geçmişte yaşananları anlamlandırır ve tarihsel bilgiye dönüştürür.",
+       "sayfa": 22
+      },
+      {
+       "id": "1.2-02",
+       "tur": "dy",
+       "ifade": "Tarihçiler araştırmalarını kendi dönemlerinde yaptıkları için doğrudan geçmişi değil, geçmişten günümüze kalan izleri yorumlar.",
+       "dogru": true,
+       "bilgi": "Tarih disiplini, tarihçilerin geçmişten artakalan izler üzerinden kendi bakış açılarıyla sordukları soruların cevaplarını yansıtır.",
+       "sayfa": 21
+      },
+      {
+       "id": "1.2-03",
+       "tur": "bosluk",
+       "cumle": "Fen bilimlerinden farklı olarak tarihsel bilgi kesin yasalara değil, tarihsel ___ dayanır.",
+       "cevap": "olgulara",
+       "celdiriciler": [
+        "deneylere",
+        "formüllere",
+        "hipotezlere"
+       ],
+       "bilgi": "Tarihsel olgular kesin yasalara değil, tarihçilerin kaynaklar üzerinden ulaştığı çıkarım ve yorumlara dayanır.",
+       "sayfa": 27
+      },
+      {
+       "id": "1.2-04",
+       "tur": "secmeli",
+       "soru": "Ay'ın tüm evrelerini kapsayan ve yılı 12 ay ile 354 güne bölen ilk ay takvimini hangi uygarlık hazırlamıştır?",
+       "secenekler": [
+        "Eski Mısırlılar",
+        "Hititler",
+        "Sümerler",
+        "Romalılar"
+       ],
+       "dogru": 2,
+       "bilgi": "İlk ay takvimini Sümerler hazırlamış, bu takvimde bir yıl 12 ay ve 354 gün olarak hesaplanmıştır.",
+       "sayfa": 28
+      },
+      {
+       "id": "1.2-05",
+       "tur": "secmeli",
+       "soru": "Papa XIII. Gregorius'un güneş takviminde yaptığı değişikliklerle günümüzdeki miladi (Gregoryen) takvim hangi yıl oluşturulmuştur?",
+       "secenekler": [
+        "1453",
+        "1582",
+        "1492",
+        "1789"
+       ],
+       "dogru": 1,
+       "bilgi": "Gregoryen takvim 1582'de oluşturulmuş; bu takvimde Hz. İsa'nın doğduğu yıl başlangıç kabul edilmiştir.",
+       "sayfa": 28
+      },
+      {
+       "id": "1.2-06",
+       "tur": "dy",
+       "ifade": "İlk güneş takvimini Sümerler kullanmış, bu takvim Julius Caesar döneminde yeniden düzenlenmiştir.",
+       "dogru": false,
+       "bilgi": "İlk güneş takvimini Eski Mısırlılar kullanmıştır; Mısır güneş takvimi Roma İmparatoru Julius Caesar zamanında yeniden düzenlenmiştir.",
+       "sayfa": 28
+      },
+      {
+       "id": "1.2-07",
+       "tur": "bosluk",
+       "cumle": "Tarihin yazılı kaynaklardan öğrenilemeyen dönemlerine ___ devirler denir.",
+       "cevap": "tarih öncesi",
+       "celdiriciler": [
+        "Eski Çağ",
+        "Orta Çağ",
+        "Yakın Çağ"
+       ],
+       "bilgi": "Yazılı kaynaklardan öğrenilemeyen dönemler tarih öncesi (prehistorya) olarak adlandırılır; tarih devirleri Sümerlerle yaklaşık MÖ 3200'de başlar.",
+       "sayfa": 29
+      },
+      {
+       "id": "1.2-08",
+       "tur": "eslestir",
+       "yonerge": "Çağları, genel tarih yazımında kabul edilen bitiş olaylarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Tarih öncesi devirler",
+         "Yazının kullanılmaya başlanması"
+        ],
+        [
+         "Eski Çağ",
+         "Batı Roma İmparatorluğu'nun çöküşü"
+        ],
+        [
+         "Orta Çağ",
+         "İstanbul'un fethi (1453)"
+        ],
+        [
+         "Yeni Çağ",
+         "Fransız İhtilali (1789)"
+        ]
+       ],
+       "bilgi": "Yaygın dönemlendirmeye göre Fransız İhtilali'nden günümüze kadar olan dönem Yakın Çağ olarak adlandırılır.",
+       "sayfa": 29
+      },
+      {
+       "id": "1.2-09",
+       "tur": "secmeli",
+       "soru": "Tarihsel olay ile tarihsel olgu ayrımına göre aşağıdakilerden hangisi bir olgudur?",
+       "secenekler": [
+        "James Watt'ın buhar makinesini icadı",
+        "Müslümanların Medine'ye hicreti",
+        "İstanbul'un 1453'te fethi",
+        "Sanayi Devrimi"
+       ],
+       "dogru": 3,
+       "bilgi": "Buhar makinesinin 1769'da icadı bir olay, Sanayi Devrimi ise bir olgudur; benzer şekilde hicret olay, İslamiyet'in yayılışı olgudur.",
+       "sayfa": 29
+      },
+      {
+       "id": "1.2-10",
+       "tur": "dy",
+       "ifade": "Tarihsel olay soyut ve genel bir süreci, tarihsel olgu ise somut ve özel bir gelişmeyi ifade eder.",
+       "dogru": false,
+       "bilgi": "Tarihsel olay somut ve özel bir gelişmeyi, tarihsel olgu ise soyut ve genel bir süreci ifade eder.",
+       "sayfa": 29
+      },
+      {
+       "id": "1.2-11",
+       "tur": "secmeli",
+       "soru": "28 Haziran 1914'te Saraybosna'da uğradığı suikast I. Dünya Savaşı'nın başlamasına neden olan Avusturya-Macaristan veliahdı kimdir?",
+       "secenekler": [
+        "Arşidük Franz Ferdinand",
+        "İmparator Franz Joseph",
+        "Kayzer II. Wilhelm",
+        "Otto von Bismarck"
+       ],
+       "dogru": 0,
+       "bilgi": "Veliaht Franz Ferdinand ile eşi Sophie'nin Saraybosna'da öldürülmesi, Ağustos 1914'te başlayan I. Dünya Savaşı'na yol açmıştır.",
+       "sayfa": 24
+      },
+      {
+       "id": "1.2-12",
+       "tur": "bosluk",
+       "cumle": "Olayları harekete geçiren nedene tetikleyici neden, tetikleyici nedenin içinde ortaya çıktığı bağlamı oluşturan nedenlere ise ___ nedenler denir.",
+       "cevap": "arka plan",
+       "celdiriciler": [
+        "doğrudan",
+        "yüzeysel",
+        "anlık"
+       ],
+       "bilgi": "Tetikleyici nedenler genellikle açık ve dramatiktir; arka plan nedenlerini çözmek ise daha zordur.",
+       "sayfa": 34
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "Tarihsel Bilginin Üretim Süreci",
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "secmeli",
+       "soru": "Kadeş Savaşı hangi iki devlet arasında yapılmıştır?",
+       "secenekler": [
+        "Asur ve Babil",
+        "Mısır ve Pers",
+        "Hitit İmparatorluğu ve Mısır",
+        "Hitit ve Asur"
+       ],
+       "dogru": 2,
+       "bilgi": "Kadeş Savaşı Hitit İmparatorluğu ile Mısır Krallığı arasında yapılmış ve taraflar kesin bir üstünlük sağlayamamıştır.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.3-02",
+       "tur": "dy",
+       "ifade": "II. Ramses, Kadeş Savaşı'nda kesin üstünlük kurulamamasına rağmen Ebu Simbel Tapınağı'ndaki rölyeflerde kendini muzaffer bir kral olarak tasvir ettirmiştir.",
+       "dogru": true,
+       "bilgi": "Ebu Simbel rölyefleri, kaynakların tarafgirlik açısından sorgulanması gerektiğini gösteren bir örnektir.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.3-03",
+       "tur": "eslestir",
+       "yonerge": "Tarihe yardımcı bilimleri inceleme alanlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Nümismatik",
+         "Eski paralar ve madalyalar"
+        ],
+        [
+         "Epigrafi",
+         "Kitabeler ve üzerindeki yazılar"
+        ],
+        [
+         "Paleografi",
+         "Geçmişte kullanılan yazı çeşitleri"
+        ],
+        [
+         "Diplomatik",
+         "Resmî belgelerin şekil ve içeriği"
+        ],
+        [
+         "Heraldik",
+         "Resmî belgelerdeki mühür, arma ve işaretler"
+        ]
+       ],
+       "bilgi": "Tarihsel bilginin üretiminde farklı bilim dallarından yararlanılarak veriler sistemli biçimde toplanır ve analiz edilir.",
+       "sayfa": 38
+      },
+      {
+       "id": "1.3-04",
+       "tur": "secmeli",
+       "soru": "Karbon-14 tarihlendirme yöntemiyle buluntuların yaşının belirlenmesine yardımcı olan bilim dalı hangisidir?",
+       "secenekler": [
+        "Filoloji",
+        "Etnografya",
+        "Kronoloji",
+        "Kimya"
+       ],
+       "dogru": 3,
+       "bilgi": "Kimya, maddenin yapısını incelerken karbon-14 yöntemiyle buluntuların yaşının belirlenmesine de yardımcı olur.",
+       "sayfa": 38
+      },
+      {
+       "id": "1.3-05",
+       "tur": "bosluk",
+       "cumle": "Toplumların yaşayışlarını, hayat tarzlarını, örf ve âdetlerini inceleyen bilim dalına ___ denir.",
+       "cevap": "etnografya",
+       "celdiriciler": [
+        "filoloji",
+        "heraldik",
+        "epigrafi"
+       ],
+       "bilgi": "Etnografya, toplumların yaşayışını ve örf-âdetlerini inceleyerek tarihe yardımcı olur.",
+       "sayfa": 38
+      },
+      {
+       "id": "1.3-06",
+       "tur": "secmeli",
+       "soru": "Olayların yaşandığı dönemde ya da bu dönemden hemen sonra oluşturulan özgün kaynaklara ne ad verilir?",
+       "secenekler": [
+        "Birinci elden kaynak",
+        "İkinci elden kaynak",
+        "Sonradan dijitalleştirilmiş kaynak",
+        "Araştırma eseri"
+       ],
+       "dogru": 0,
+       "bilgi": "İkinci elden kaynaklar ise olaylardan çok sonra, birinci elden kaynaklara dayanılarak hazırlanır.",
+       "sayfa": 39
+      },
+      {
+       "id": "1.3-07",
+       "tur": "secmeli",
+       "soru": "Tarihin kaynakları sınıflandırıldığında aşağıdakilerden hangisi sözlü kaynaklar arasında yer alır?",
+       "secenekler": [
+        "Kil tabletler",
+        "Dede Korkut Hikâyeleri",
+        "Fermanlar",
+        "Sikkeler"
+       ],
+       "dogru": 1,
+       "bilgi": "Efsaneler, destanlar ve menkıbeler (ör. Oğuz Kağan Destanı, Dede Korkut Hikâyeleri) sözlü kaynaklardır; tablet, kitabe ve fermanlar yazılı kaynaklardır.",
+       "sayfa": 39
+      },
+      {
+       "id": "1.3-08",
+       "tur": "dy",
+       "ifade": "Vinland Haritası üzerinde 2021'de yapılan testler, haritanın XV. yüzyılda üretilmiş bir mürekkeple çizildiğini kanıtlamıştır.",
+       "dogru": false,
+       "bilgi": "2021 testleri, Vinland Haritası'nın Orta Çağ'dan kalma bir parşömen üzerine XX. yüzyıl başlarında üretilmiş mürekkeple çizildiğini, yani sahte olduğunu gösterdi.",
+       "sayfa": 42
+      },
+      {
+       "id": "1.3-09",
+       "tur": "bosluk",
+       "cumle": "Tarihsel bilginin üretim sürecinde kaynakların sınırlılık, geçerlilik ve güvenilirlik açısından ele alındığı aşamaya kaynağı ___ denir.",
+       "cevap": "sorgulama",
+       "celdiriciler": [
+        "inceleme",
+        "yorumlama",
+        "toplama"
+       ],
+       "bilgi": "Kaynağı sorgulama aşamasında kaynaklardaki bilgi ve yorumlar karşılaştırılarak farklı bakış açıları da belirlenir.",
+       "sayfa": 46
+      },
+      {
+       "id": "1.3-10",
+       "tur": "secmeli",
+       "soru": "Tarihsel bilginin üretim sürecinin son aşaması hangisidir?",
+       "secenekler": [
+        "Kaynağı yorumlama",
+        "Konu veya sorun belirleme",
+        "Kanıta dayalı ürün oluşturma",
+        "Kaynaklardan bilgi toplama"
+       ],
+       "dogru": 2,
+       "bilgi": "Son aşamada tüm bilgiler bir araya getirilerek kaynaklara atıf yapılan özgün bir eser (makale, bildiri, kitap vb.) yazılır.",
+       "sayfa": 46
+      },
+      {
+       "id": "1.3-11",
+       "tur": "dy",
+       "ifade": "Fahreddin Paşa, I. Dünya Savaşı'ndaki Medine Müdafaası ile büyük şöhrete ulaşmıştır.",
+       "dogru": true,
+       "bilgi": "Fahreddin Paşa (1868-1948), I. Dünya Savaşı'nda Medine'yi savunmasıyla tanınır.",
+       "sayfa": 41
+      },
+      {
+       "id": "1.3-12",
+       "tur": "bosluk",
+       "cumle": "Eserde yararlanılan kaynakları belirten ___ yazmak, çalışmanın güvenilirliğini artırır ve bilimsel etik açısından zorunludur.",
+       "cevap": "kaynakça",
+       "celdiriciler": [
+        "önsöz",
+        "özet",
+        "dizin"
+       ],
+       "bilgi": "Kanıta dayalı ürün oluşturulurken yararlanılan bütün kaynaklara atıf yapılır ve bunlar kaynakçada belirtilir.",
+       "sayfa": 46
+      }
+     ]
+    },
+    {
+     "no": "1.4",
+     "ad": "Tarih Araştırma ve Yazımında Dijital Dönüşüm",
+     "kartlar": [
+      {
+       "id": "1.4-01",
+       "tur": "secmeli",
+       "soru": "İlk vakası 1918'de, son vakası 1920'de görülen ve dünya nüfusunun yaklaşık üçte birine bulaşan salgın hangisidir?",
+       "secenekler": [
+        "Kara Veba",
+        "İspanyol gribi",
+        "Kolera",
+        "Çiçek hastalığı"
+       ],
+       "dogru": 1,
+       "bilgi": "İspanyol gribi yaklaşık 500 milyon kişiye bulaşmış ve farklı kaynaklara göre 50-100 milyon kişinin ölümüne yol açmıştır.",
+       "sayfa": 50
+      },
+      {
+       "id": "1.4-02",
+       "tur": "dy",
+       "ifade": "COVID-19 salgını Kasım 2019'da Çin'in Hubei bölgesinin başkenti Vuhan'da ortaya çıkmıştır.",
+       "dogru": true,
+       "bilgi": "COVID-19 için Mart 2020'de Dünya Sağlık Örgütü küresel salgın uyarısı vermiştir.",
+       "sayfa": 50
+      },
+      {
+       "id": "1.4-03",
+       "tur": "secmeli",
+       "soru": "Genel ağ siteleri, çevrim içi forumlar, e-kitaplar ve konum verileri hangi tür kaynaklara örnektir?",
+       "secenekler": [
+        "Sonradan dijitalleştirilmiş kaynaklar",
+        "Birinci elden yazılı kaynaklar",
+        "Analog kaynaklar",
+        "Dijital doğmuş kaynaklar"
+       ],
+       "dogru": 3,
+       "bilgi": "Dijital kaynaklar, dijital doğmuş (born digital) ve sonradan dijitalleştirilmiş kaynaklar olarak ikiye ayrılır.",
+       "sayfa": 52
+      },
+      {
+       "id": "1.4-04",
+       "tur": "bosluk",
+       "cumle": "Yazılı, basılı ve görsel kaynakların taranarak bilgisayara aktarılmış hâline sonradan ___ kaynak denir.",
+       "cevap": "dijitalleştirilmiş",
+       "celdiriciler": [
+        "kodlanmış",
+        "arşivlenmiş",
+        "çevrilmiş"
+       ],
+       "bilgi": "Taranarak bilgisayara aktarılan kaynaklar sonradan dijitalleştirilmiş kaynaklardır.",
+       "sayfa": 52
+      },
+      {
+       "id": "1.4-05",
+       "tur": "dy",
+       "ifade": "Dijital tarih, geleneksel tarih yazımının yerini alması gereken bir alternatif olarak görülmelidir.",
+       "dogru": false,
+       "bilgi": "Geleneksel ve dijital tarih yazımı birbirini tamamlayan iki yöntemdir; dijital tarih gelenekselin alternatifi olarak değerlendirilmemelidir.",
+       "sayfa": 52
+      },
+      {
+       "id": "1.4-06",
+       "tur": "secmeli",
+       "soru": "Dijital tarih çalışmalarında ilk adım aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Veriyi ve arşiv belgelerini sayısallaştırmak",
+        "Verileri coğrafi bilgi sistemleriyle haritalamak",
+        "Sonuçları bilimsel dergide yayımlamak",
+        "Veriler arasında kavram ağacı kurmak"
+       ],
+       "dogru": 0,
+       "bilgi": "İlk adımda veri sayısallaştırılır, kodlama diliyle etiketlenir ve dijital yayın hâline getirilerek herkesin erişimine açılır.",
+       "sayfa": 52
+      },
+      {
+       "id": "1.4-07",
+       "tur": "bosluk",
+       "cumle": "Birbiriyle bağlantılı yazı, görsel, video gibi verileri içeren metin organizasyonuna ___ denir.",
+       "cevap": "hiper metin",
+       "celdiriciler": [
+        "meta veri",
+        "büyük veri",
+        "e-kitap"
+       ],
+       "bilgi": "Genel ağ (web), birbirine bağlantılı milyarlarca sayfadan oluşan bir hiper metin sistemidir.",
+       "sayfa": 52
+      },
+      {
+       "id": "1.4-08",
+       "tur": "eslestir",
+       "yonerge": "Dijital tarih projelerini içerikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Kültür Envanteri",
+         "Türkiye ve Balkanlardaki tarihî ve kültürel eserler"
+        ],
+        [
+         "Mektup Cumhuriyetinin Haritasını Çıkarmak",
+         "Avrupalı aydınların mektuplaşma ağı"
+        ],
+        [
+         "Francis Bacon'un Altı Derecesi",
+         "XVI-XVII. yüzyıl İngiltere'sindeki ünlülerin etkileşimi"
+        ]
+       ],
+       "bilgi": "Dijital tarih projeleri, büyük verileri görselleştirerek daha önce fark edilmemiş ilişki ağlarını ortaya çıkarır.",
+       "sayfa": 54
+      },
+      {
+       "id": "1.4-09",
+       "tur": "bosluk",
+       "cumle": "Dijitalleştirilen verilerin sınıflandırılmasına yardımcı olan ek bilgilere ___ denir.",
+       "cevap": "meta veri",
+       "celdiriciler": [
+        "hiper metin",
+        "yoğun veri",
+        "açık veri"
+       ],
+       "bilgi": "Hatalı ve eksik bilgileri ayıklanan dijital veriler, kitapların ad, yazar veya konuya göre tasnifi gibi meta veriye dönüştürülür.",
+       "sayfa": 56
+      },
+      {
+       "id": "1.4-10",
+       "tur": "secmeli",
+       "soru": "1990'lı yıllarda yaygınlaşarak tarih araştırmalarını önemli ölçüde etkileyen ve akademik bilginin geniş kitlelere ulaşmasını sağlayan gelişme hangisidir?",
+       "secenekler": [
+        "Matbaanın yaygınlaşması",
+        "Radyokarbon tarihleme",
+        "Genel ağ kullanımı",
+        "Analog fotoğrafçılık"
+       ],
+       "dogru": 2,
+       "bilgi": "Genel ağın yaygınlaşması ve kaynakların dijitalleştirilmesi, araştırmacıların kaynaklara daha kolay erişmesini sağlamıştır.",
+       "sayfa": 52
+      },
+      {
+       "id": "1.4-11",
+       "tur": "secmeli",
+       "soru": "Francis Bacon'un Altı Derecesi projesinde 19 milyondan fazla potansiyel bağlantı hangi yöntemle araştırılmıştır?",
+       "secenekler": [
+        "Yakın okuma",
+        "Veri madenciliği",
+        "Radyokarbon analizi",
+        "Sözlü tarih görüşmesi"
+       ],
+       "dogru": 1,
+       "bilgi": "Proje, 13.000'den fazla kişinin 200.000'den fazla etkileşimini veri madenciliğiyle görselleştirmiştir.",
+       "sayfa": 55
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Eski Çağ Medeniyetleri",
+   "konular": [
+    {
+     "no": "2.1",
+     "ad": "Tarım Devrimi'nin Eski Çağ'a Etkileri",
+     "kartlar": [
+      {
+       "id": "2.1-01",
+       "tur": "eslestir",
+       "yonerge": "Tarih öncesi çağları öne çıkan özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Paleolitik Çağ",
+         "Ateşin kontrol altına alınması"
+        ],
+        [
+         "Mezolitik Çağ",
+         "Mikrolit adlı küçük taş aletler"
+        ],
+        [
+         "Neolitik Çağ",
+         "Tarım Devrimi ve yerleşik hayat"
+        ],
+        [
+         "Maden Çağları",
+         "Bakır, tunç ve demir kullanımı"
+        ]
+       ],
+       "bilgi": "Tarih öncesi çağlar farklı coğrafyalarda farklı zaman dilimlerinde yaşanmıştır.",
+       "sayfa": 71
+      },
+      {
+       "id": "2.1-02",
+       "tur": "secmeli",
+       "soru": "Köpeğin evcilleştirilmesiyle ilk kez bir hayvanın evcilleştirildiği düşünülen çağ hangisidir?",
+       "secenekler": [
+        "Paleolitik Çağ",
+        "Mezolitik Çağ",
+        "Neolitik Çağ",
+        "Tunç Çağı"
+       ],
+       "dogru": 1,
+       "bilgi": "Bir geçiş evresi olan Mezolitik (Orta Taş) Çağ'da köpek evcilleştirilmiş ve mikrolit denen küçük taş aletler kullanılmıştır.",
+       "sayfa": 71
+      },
+      {
+       "id": "2.1-03",
+       "tur": "bosluk",
+       "cumle": "Maden Çağı'nda dayanıksız olan bakırın yerini, bakır ile kalayın alaşımı olan ___ almıştır.",
+       "cevap": "tunç",
+       "celdiriciler": [
+        "demir",
+        "çelik",
+        "pirinç"
+       ],
+       "bilgi": "Maden Çağı bakır, tunç ve demir dönemlerine ayrılır; tunç da zamanla yerini daha dayanıklı olan demire bırakmıştır.",
+       "sayfa": 71
+      },
+      {
+       "id": "2.1-04",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi Anadolu'daki Neolitik Çağ yerleşimlerinden biridir?",
+       "secenekler": [
+        "Yarımburgaz Mağarası",
+        "Karain Mağarası",
+        "Aşıklı Höyük",
+        "Tekkeköy Mağarası"
+       ],
+       "dogru": 2,
+       "bilgi": "Çatalhöyük, Hacılar, Cafer Höyük ve Aşıklı Höyük, Anadolu'daki başlıca Neolitik Çağ yerleşimleridir.",
+       "sayfa": 71
+      },
+      {
+       "id": "2.1-05",
+       "tur": "dy",
+       "ifade": "Artı ürünün vergilendirilmesi ve saklanması için kayıt tutma ihtiyacı, yazının icadının önemli nedenlerinden biridir.",
+       "dogru": true,
+       "bilgi": "Tarım üretiminin fazlası olan artı ürünün kayıt altına alınması gerekmiş, bu ihtiyaç yazının icadına zemin hazırlamıştır.",
+       "sayfa": 71
+      },
+      {
+       "id": "2.1-06",
+       "tur": "secmeli",
+       "soru": "Kelime anlamı \"iki nehir arası\" olan ve Fırat ile Dicle'nin suladığı topraklarda Tarım Devrimi'nin ilk görüldüğü bölge hangisidir?",
+       "secenekler": [
+        "Mezopotamya",
+        "Güneydoğu Asya",
+        "Orta Amerika",
+        "Nil Vadisi"
+       ],
+       "dogru": 0,
+       "bilgi": "MÖ 10.000 civarında Mezopotamya'da yabani buğdayın evcilleştirilmesiyle bilinen ilk tarımsal üretim gerçekleşmiştir.",
+       "sayfa": 75
+      },
+      {
+       "id": "2.1-07",
+       "tur": "secmeli",
+       "soru": "Orta Amerika'da MÖ 7000 dolaylarında teosinte adlı yabani bitkinin evcilleştirilmesiyle hangi ürün elde edilmiştir?",
+       "secenekler": [
+        "Buğday",
+        "Pirinç",
+        "Arpa",
+        "Mısır"
+       ],
+       "dogru": 3,
+       "bilgi": "Orta Amerika'da mısırın yanı sıra avokado, fasulye ve bal kabağı da yetiştirilmiştir.",
+       "sayfa": 77
+      },
+      {
+       "id": "2.1-08",
+       "tur": "dy",
+       "ifade": "Mezopotamya, Güneydoğu Asya ve Orta Amerika'daki Tarım Devrimleri birbirini etkileyerek aynı dönemde gerçekleşmiştir.",
+       "dogru": false,
+       "bilgi": "Tarım Devrimi bu üç bölgede farklı zamanlarda ve birbirinden bağımsız olarak gerçekleşmiştir.",
+       "sayfa": 77
+      },
+      {
+       "id": "2.1-09",
+       "tur": "bosluk",
+       "cumle": "Güneydoğu Asya'da MÖ 8000 civarında Sarı Irmak ve Gök Irmak'ın suladığı arazilerde evcilleştirilen temel bitki ___ olmuştur.",
+       "cevap": "pirinç",
+       "celdiriciler": [
+        "buğday",
+        "mısır",
+        "arpa"
+       ],
+       "bilgi": "Muson ikliminin etkisindeki sulak Güneydoğu Asya'da pirincin yanı sıra darı, soya fasulyesi ve muz yetiştirilmiştir.",
+       "sayfa": 77
+      },
+      {
+       "id": "2.1-10",
+       "tur": "secmeli",
+       "soru": "Tarım Devrimi'nden sonra kalıcı yerleşik yaşama geçen insanların taşınmaz mallar edinmesi hangi kavramın ortaya çıkmasına yol açmıştır?",
+       "secenekler": [
+        "Takas ekonomisi",
+        "Özel mülkiyet",
+        "Onlu sistem",
+        "Kent devleti"
+       ],
+       "dogru": 1,
+       "bilgi": "Tarım Devrimi nüfus artışına, özel mülkiyete, sosyal sınıfların oluşmasına ve devlet olgusunun temellerinin atılmasına yol açmıştır.",
+       "sayfa": 79
+      },
+      {
+       "id": "2.1-11",
+       "tur": "dy",
+       "ifade": "Neolitik yerleşim yeri Çatalhöyük'te evler bitişik inşa edilmiş, evlere damdaki kapıdan merdivenle girilmiştir.",
+       "dogru": true,
+       "bilgi": "Konya'daki Çatalhöyük, yerleşik yaşamın ilk örneklerinden biridir; halkı bereket tanrıçalarına inanmıştır.",
+       "sayfa": 81
+      },
+      {
+       "id": "2.1-12",
+       "tur": "bosluk",
+       "cumle": "Tarım Devrimi sonrasında üretilen farklı ürünlerin komşularla değiş tokuş edilmesi zamanla ___ ekonomisinin ortaya çıkmasını sağlamıştır.",
+       "cevap": "takas",
+       "celdiriciler": [
+        "para",
+        "sanayi",
+        "kredi"
+       ],
+       "bilgi": "Takas ekonomisi iş bölümünün yaygınlaşmasını sağlamış, üretici ve tüccarlar mallarını pazarlarda değiştirmiştir.",
+       "sayfa": 78
+      }
+     ]
+    },
+    {
+     "no": "2.2",
+     "ad": "Eski Çağ'da Yönetenler ve Savaşanlar",
+     "kartlar": [
+      {
+       "id": "2.2-01",
+       "tur": "secmeli",
+       "soru": "Sümer kent devletlerini yöneten kişilere verilen ad hangisidir?",
+       "secenekler": [
+        "Firavun",
+        "Konsül",
+        "Şanyü",
+        "Ensi veya patesi"
+       ],
+       "dogru": 3,
+       "bilgi": "Sümer kralları devleti yönetmenin yanında başrahip, başkomutan ve başyargıç yetkilerine de sahipti.",
+       "sayfa": 87
+      },
+      {
+       "id": "2.2-02",
+       "tur": "bosluk",
+       "cumle": "İmparatorluk sisteminin temellerini atan ve Mezopotamya'da ilk daimî orduyu kuran devlet ___ Devleti'dir.",
+       "cevap": "Akad",
+       "celdiriciler": [
+        "Sümer",
+        "Babil",
+        "Asur"
+       ],
+       "bilgi": "Akad kralları Sargon ve Naramsin'in Anadolu seferlerine ait kayıtlar, Anadolu tarihine dair ilk yazılı kayıtlardır.",
+       "sayfa": 97
+      },
+      {
+       "id": "2.2-03",
+       "tur": "dy",
+       "ifade": "Mısır kralları MÖ XV. yüzyıldan sonra \"büyük ev\" anlamına gelen firavun unvanını kullanmaya başlamıştır.",
+       "dogru": true,
+       "bilgi": "Tanrının yeryüzündeki temsilcisi sayılan Mısır kralları adına piramit denilen anıt mezarlar inşa edilmiştir.",
+       "sayfa": 95
+      },
+      {
+       "id": "2.2-04",
+       "tur": "secmeli",
+       "soru": "Anadolu'da ticaret kolonileri kurarak yazıyı Anadolu'ya getiren Mezopotamya medeniyeti hangisidir?",
+       "secenekler": [
+        "Sümerler",
+        "Akadlar",
+        "Asurlular",
+        "Babilliler"
+       ],
+       "dogru": 2,
+       "bilgi": "Asur Devleti MÖ 612 dolaylarında Med ve Babil saldırılarıyla başkent Ninive'nin düşmesi sonucu yıkılmıştır.",
+       "sayfa": 88
+      },
+      {
+       "id": "2.2-05",
+       "tur": "secmeli",
+       "soru": "Parayı ilk kullanan medeniyet olarak bilinen ve başkenti Sardes olan Anadolu devleti hangisidir?",
+       "secenekler": [
+        "Lidya",
+        "Frigya",
+        "İyonya",
+        "Urartu"
+       ],
+       "dogru": 0,
+       "bilgi": "Gediz Ovası'nda kurulan Lidya, Kral Yolu ve altın kaynakları sayesinde zenginleşmiş, MÖ 546'da Persler tarafından yıkılmıştır.",
+       "sayfa": 90
+      },
+      {
+       "id": "2.2-06",
+       "tur": "eslestir",
+       "yonerge": "Eski Çağ Anadolu medeniyetlerini başkentleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Hititler",
+         "Hattuşaş"
+        ],
+        [
+         "Frigler",
+         "Gordion"
+        ],
+        [
+         "Lidyalılar",
+         "Sardes"
+        ],
+        [
+         "Urartular",
+         "Tuşpa (Van)"
+        ]
+       ],
+       "bilgi": "Frig başkenti Gordion adını kurucu Kral Gordios'tan almıştır; Friglerin en ünlü kralı Midas'tır.",
+       "sayfa": 90
+      },
+      {
+       "id": "2.2-07",
+       "tur": "bosluk",
+       "cumle": "Hitit Devleti'nde üst düzey görevlilerden oluşan meclise ___ adı verilirdi.",
+       "cevap": "Pankuş",
+       "celdiriciler": [
+        "Kurultay",
+        "Senato",
+        "Agora"
+       ],
+       "bilgi": "Hitit kralları Fırtına Tanrısı'nın yeryüzündeki temsilcisi olarak başrahip ve başkomutan yetkilerine sahipti.",
+       "sayfa": 98
+      },
+      {
+       "id": "2.2-08",
+       "tur": "dy",
+       "ifade": "Roma'da cumhuriyete geçildikten sonra kralın yetkileri tek bir diktatörde toplanmıştır.",
+       "dogru": false,
+       "bilgi": "MÖ 509'da cumhuriyete geçen Roma'da kralın yetkileri konsül denilen iki yüksek memurda toplanmış, konsüller senatoya danışmıştır.",
+       "sayfa": 100
+      },
+      {
+       "id": "2.2-09",
+       "tur": "secmeli",
+       "soru": "Mete Han'ın Asya Hun Devleti'nin başına geçtiği ve Türk Kara Kuvvetlerinin sembolik kuruluş yılı kabul edilen yıl hangisidir?",
+       "secenekler": [
+        "MÖ 220",
+        "MÖ 209",
+        "MS 216",
+        "MÖ 307"
+       ],
+       "dogru": 1,
+       "bilgi": "Mete Han onlu sistemle orduyu 10.000 kişilik tümenlere ayırmış, ordunun mevcudu 400.000'e ulaşmıştır.",
+       "sayfa": 103
+      },
+      {
+       "id": "2.2-10",
+       "tur": "bosluk",
+       "cumle": "Eski Türklerde ülkeyi yönetme yetkisinin hükümdara Tanrı tarafından verildiği inancına ___ denir.",
+       "cevap": "kut",
+       "celdiriciler": [
+        "töre",
+        "il",
+        "toy"
+       ],
+       "bilgi": "Eski Türkçede il denilen devletin bağımsızlık, vatan, halk ve töre olmak üzere dört temel unsuru vardır.",
+       "sayfa": 103
+      },
+      {
+       "id": "2.2-11",
+       "tur": "dy",
+       "ifade": "Asya Hun ordusunda askerlik ayrı bir meslek olarak görülmüş ve ücretli askerler istihdam edilmiştir.",
+       "dogru": false,
+       "bilgi": "Asya Hunlarında askerlik özel bir meslek sayılmamış, ücretli asker kullanılmamış; idari görevliler aynı zamanda komutanlık yapmıştır.",
+       "sayfa": 103
+      },
+      {
+       "id": "2.2-12",
+       "tur": "secmeli",
+       "soru": "Sahte bir geri çekilmeyle düşmanı pusuya çekip çevreleme esasına dayanan, Asya Hunlarının uyguladığı savaş taktiği hangisidir?",
+       "secenekler": [
+        "Turan (hilal) taktiği",
+        "Kaplumbağa (testudo) dizilişi",
+        "Derinlikli savunma",
+        "Falanks düzeni"
+       ],
+       "dogru": 0,
+       "bilgi": "Turan taktiğinde düşman çevrelendikten sonra okçularla uzaktan vurulurdu; Mete Han okçularını ıslıklı okla yönetmiştir.",
+       "sayfa": 103
+      }
+     ]
+    },
+    {
+     "no": "2.3",
+     "ad": "Eski Çağ'da Hukuk",
+     "kartlar": [
+      {
+       "id": "2.3-01",
+       "tur": "secmeli",
+       "soru": "Halkını korumak ve toplumsal düzeni sağlamak amacıyla tarihte bilinen ilk yazılı kanunları oluşturan Lagaş kralı kimdir?",
+       "secenekler": [
+        "Hammurabi",
+        "Urkagina",
+        "Sargon",
+        "Naramsin"
+       ],
+       "dogru": 1,
+       "bilgi": "Urkagina Kanunları adaletname veya talimatname gibi adlarla da anılır ve sonraki devletlere ilham kaynağı olmuştur.",
+       "sayfa": 111
+      },
+      {
+       "id": "2.3-02",
+       "tur": "bosluk",
+       "cumle": "Babil Kralı Hammurabi, Sümerlerden esinlenerek çivi yazısıyla ___ maddelik bir kanun metni yazdırmıştır.",
+       "cevap": "282",
+       "celdiriciler": [
+        "200",
+        "12",
+        "150"
+       ],
+       "bilgi": "Hammurabi Kanunları'nın yazılı olduğu stel günümüzde Paris'teki Louvre Müzesindedir.",
+       "sayfa": 112
+      },
+      {
+       "id": "2.3-03",
+       "tur": "dy",
+       "ifade": "Hammurabi Kanunları'nda kısas ilkesine yer verilmemiş, suçlulara genellikle hafif para cezaları verilmiştir.",
+       "dogru": false,
+       "bilgi": "Hammurabi Kanunları kısasa kısas ilkesini esas almış ve suçluları ağır cezalara çarptırmıştır.",
+       "sayfa": 112
+      },
+      {
+       "id": "2.3-04",
+       "tur": "secmeli",
+       "soru": "Eski Çağ'da Hitit, Frig, Lidya gibi Anadolu devletlerinin hukuk sistemlerinde suçlulara genellikle hangi tür ceza verilmiştir?",
+       "secenekler": [
+        "Uzun süreli hapis",
+        "Sürgün",
+        "Para cezası",
+        "Kısasa kısas"
+       ],
+       "dogru": 2,
+       "bilgi": "Anadolu devletleri hukuk sistemlerinde özellikle Mezopotamya'dan etkilenmiş ve hukukun kaynağını dine dayandırmıştır.",
+       "sayfa": 110
+      },
+      {
+       "id": "2.3-05",
+       "tur": "secmeli",
+       "soru": "Hitit hukukunda hangi alanlarla ilgili kurallar ön plana çıkmıştır?",
+       "secenekler": [
+        "Deniz ticareti ve gümrük",
+        "İnsan ilişkileri ve tarımsal üretim",
+        "Madencilik ve para basımı",
+        "Rahiplerin ayrıcalıkları"
+       ],
+       "dogru": 1,
+       "bilgi": "Hititler kamu düzeni için kil tabletlere 200 maddelik kanunlar yazmış ve bunları zamanla güncellemiştir.",
+       "sayfa": 110
+      },
+      {
+       "id": "2.3-06",
+       "tur": "secmeli",
+       "soru": "Roma'nın soylular ile halk arasındaki sınıf mücadeleleri sonucunda hazırlanan ilk yazılı kanunları hangisidir?",
+       "secenekler": [
+        "Solon Kanunları",
+        "Lycurgus Kanunları",
+        "Urkagina Kanunları",
+        "12 Levha Kanunları"
+       ],
+       "dogru": 3,
+       "bilgi": "12 Levha Kanunları on iki bronz levhaya yazılmış ve modern hukuk kurallarının temellerini atmıştır.",
+       "sayfa": 114
+      },
+      {
+       "id": "2.3-07",
+       "tur": "dy",
+       "ifade": "Roma'nın 12 Levha Kanunları'nda sınıflar arası eşitlik ilkesine ve mülkiyet hakkına büyük önem verilmiştir.",
+       "dogru": true,
+       "bilgi": "Roma Dönemi'nde hazırlanan 12 Levha Kanunları ile modern hukuk kurallarının temelleri atılmıştır.",
+       "sayfa": 110
+      },
+      {
+       "id": "2.3-08",
+       "tur": "eslestir",
+       "yonerge": "Eski Çağ kanun koyucularını ait oldukları medeniyet veya şehirle eşleştir.",
+       "ciftler": [
+        [
+         "Urkagina",
+         "Sümer (Lagaş)"
+        ],
+        [
+         "Hammurabi",
+         "Babil"
+        ],
+        [
+         "Solon",
+         "Atina"
+        ],
+        [
+         "Lycurgus",
+         "Sparta"
+        ]
+       ],
+       "bilgi": "Antik Yunan'da kanunlar Doğu medeniyetlerinden esinlenilerek yazılı hâle getirilmiştir.",
+       "sayfa": 110
+      },
+      {
+       "id": "2.3-09",
+       "tur": "bosluk",
+       "cumle": "Türkistan'da yaşayan eski Türklerin kaynağı Gök Tanrı inancı olan yazısız hukuk kurallarına ___ denir.",
+       "cevap": "töre",
+       "celdiriciler": [
+        "kut",
+        "kurultay",
+        "yasak"
+       ],
+       "bilgi": "Töre kuralları kurultaylarda belirlenmiş ve eşit suça eşit ceza ilkesi benimsenmiştir.",
+       "sayfa": 110
+      },
+      {
+       "id": "2.3-10",
+       "tur": "dy",
+       "ifade": "Türk töre hukukunda suçlulara genellikle uzun süreli hapis cezası verilmiştir.",
+       "dogru": false,
+       "bilgi": "Konargöçer yaşam nedeniyle kimseye uzun süreli hapis cezası verilmemiş; devlete isyan, cinayet gibi ağır suçlar ölümle cezalandırılmıştır.",
+       "sayfa": 110
+      },
+      {
+       "id": "2.3-11",
+       "tur": "bosluk",
+       "cumle": "Roma'da aile, ailedeki yaşça büyük erkek anlamına gelen ___ hâkimiyeti altında yaşayan bireylerden oluşurdu.",
+       "cevap": "paterfamilias",
+       "celdiriciler": [
+        "konsül",
+        "senatör",
+        "lejyoner"
+       ],
+       "bilgi": "Roma'da kadınlar ekonomik ve sosyal haklarını ancak vasileri aracılığıyla kullanabilirdi.",
+       "sayfa": 117
+      },
+      {
+       "id": "2.3-12",
+       "tur": "secmeli",
+       "soru": "Eski Mısır hukukunun genel ilkeleri hangi kaynaklardan hareketle tespit edilebilmiştir?",
+       "secenekler": [
+        "Geç dönemlere ait sözleşmeler",
+        "Günümüze ulaşan kanun metinleri",
+        "Piramitlerdeki kanun yazıtları",
+        "Roma tarihçilerinin eserleri"
+       ],
+       "dogru": 0,
+       "bilgi": "Mısır'da yazılı kanun metinleri günümüze ulaşmamıştır; ağır suçlar hapis ve idamla, hafif suçlar sakatlama ve kırbaçla cezalandırılmıştır.",
+       "sayfa": 110
+      }
+     ]
+    },
+    {
+     "no": "2.4",
+     "ad": "Eski Çağ'da İnanç, Bilim ve Sanat",
+     "kartlar": [
+      {
+       "id": "2.4-01",
+       "tur": "secmeli",
+       "soru": "Mezopotamya'da ibadet yeri, okul, arşiv, depo ve rasathane olarak kullanılan çok katlı tapınaklara ne ad verilir?",
+       "secenekler": [
+        "Ziggurat",
+        "Piramit",
+        "Kurgan",
+        "Lamassu"
+       ],
+       "dogru": 0,
+       "bilgi": "Sümerler zigguratlarda gök cisimlerini gözlemleyerek ay takvimini geliştirmiştir.",
+       "sayfa": 122
+      },
+      {
+       "id": "2.4-02",
+       "tur": "bosluk",
+       "cumle": "Asur saraylarının giriş kapılarına dikilen insan, boğa ya da aslan başlı heykellere ___ adı verilir.",
+       "cevap": "lamassu",
+       "celdiriciler": [
+        "sfenks",
+        "balbal",
+        "ziggurat"
+       ],
+       "bilgi": "Asurlular saray duvarlarını savaş başarılarını ve krallığın gücünü gösteren kabartmalarla süslemiştir.",
+       "sayfa": 126
+      },
+      {
+       "id": "2.4-03",
+       "tur": "secmeli",
+       "soru": "Eski Mısırlılar üzerine yazı yazdıkları kâğıdı hangi bitkiden elde etmiştir?",
+       "secenekler": [
+        "Bambu",
+        "Papirüs",
+        "Keten",
+        "Kendir"
+       ],
+       "dogru": 1,
+       "bilgi": "Mısırlılar Nil kıyısında yetişen papirüs bitkisinden yaptıkları kâğıdı kullanmıştır.",
+       "sayfa": 128
+      },
+      {
+       "id": "2.4-04",
+       "tur": "dy",
+       "ifade": "Ölümden sonra yeni bir hayatın başlayacağına inanan Eski Mısırlılar, beden bütünlüğünü korumak için ölülerini mumyalamıştır.",
+       "dogru": true,
+       "bilgi": "Mumyalama tekniği, Eski Mısırlıların anatomi ve tıp konusundaki gelişmişliğinin en önemli kanıtıdır.",
+       "sayfa": 128
+      },
+      {
+       "id": "2.4-05",
+       "tur": "bosluk",
+       "cumle": "Eski Mısırlıların MÖ 3000 yıllarında icat ettiği resim yazısına ___ denir.",
+       "cevap": "hiyeroglif",
+       "celdiriciler": [
+        "çivi yazısı",
+        "tamga",
+        "papirüs"
+       ],
+       "bilgi": "Hiyeroglif, Eski Mısır'da özellikle duvar ve anıtlarda kullanılan resim yazısıdır.",
+       "sayfa": 128
+      },
+      {
+       "id": "2.4-06",
+       "tur": "dy",
+       "ifade": "Mısırlıların güneş takviminde bir ay yirmi sekiz güne bölünmüş, mevsimler de dörde ayrılmıştır.",
+       "dogru": false,
+       "bilgi": "Mısır güneş takviminde yıl on iki aya, ay otuz güne bölünmüş; mevsimler üçe ayrılmıştır.",
+       "sayfa": 129
+      },
+      {
+       "id": "2.4-07",
+       "tur": "secmeli",
+       "soru": "Hititler kil tabletlere yazmak için Mezopotamya'dan öğrendikleri hangi yazıyı kullanmıştır?",
+       "secenekler": [
+        "Fenike alfabesi",
+        "Göktürk yazısı",
+        "Çivi yazısı",
+        "Latin alfabesi"
+       ],
+       "dogru": 2,
+       "bilgi": "Hititler çivi yazısını kil tabletlerde, hiyeroglifi ise genellikle büyük yapılarda ve anıtlarda kullanmıştır.",
+       "sayfa": 132
+      },
+      {
+       "id": "2.4-08",
+       "tur": "secmeli",
+       "soru": "Urartuların dinî yaşantılarını etrafında şekillendirdikleri savaş tanrısı olan baştanrıları hangisidir?",
+       "secenekler": [
+        "Assur",
+        "Teşup",
+        "Amon-Ra",
+        "Haldi"
+       ],
+       "dogru": 3,
+       "bilgi": "Urartular çok tanrılıydı; baştanrıları Haldi'nin savaşta ordunun önünde gittiğine inanılırdı.",
+       "sayfa": 134
+      },
+      {
+       "id": "2.4-09",
+       "tur": "eslestir",
+       "yonerge": "Eski Çağ medeniyetlerini öne çıkan eserleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Urartular",
+         "Şamran Kanalı"
+        ],
+        [
+         "Eski Mısırlılar",
+         "Giza Piramitleri"
+        ],
+        [
+         "Antik Yunanlar",
+         "Parthenon Tapınağı"
+        ],
+        [
+         "Eski Türkler",
+         "Pazırık halısı"
+        ]
+       ],
+       "bilgi": "Pazırık Kurganı'ndan çıkarılan Pazırık halısı dünyanın en eski halısı kabul edilir.",
+       "sayfa": 138
+      },
+      {
+       "id": "2.4-10",
+       "tur": "secmeli",
+       "soru": "Antik Yunan'da hastalıkların doğal bir süreç olduğunu ve ilaçlarla tedavi edilebileceğini ortaya koyarak modern tıbbın temelini atan kişi kimdir?",
+       "secenekler": [
+        "Hipokrat",
+        "Herodotos",
+        "Aristoteles",
+        "Platon"
+       ],
+       "dogru": 0,
+       "bilgi": "Antik Yunanlar matematik ve astronomide ilerlemiş, astronomiyi bağımsız bir bilim dalı hâline getirmiştir.",
+       "sayfa": 136
+      },
+      {
+       "id": "2.4-11",
+       "tur": "bosluk",
+       "cumle": "Eski Türkler ölülerini atlarıyla birlikte ___ adı verilen mezarlara gömmüş ve bu mezarların üzerine balbal taşları dikmiştir.",
+       "cevap": "kurgan",
+       "celdiriciler": [
+        "ziggurat",
+        "piramit",
+        "lahit"
+       ],
+       "bilgi": "Ölümden sonra yeni bir hayata inanan eski Türkler, Gök Tanrı inancının yanında atalar kültüne ve tabiat güçlerine de inanmıştır.",
+       "sayfa": 138
+      },
+      {
+       "id": "2.4-12",
+       "tur": "dy",
+       "ifade": "Antik Yunanlar tanrıları adına her yıl olimpiyat oyunları düzenlemiştir.",
+       "dogru": false,
+       "bilgi": "Antik Yunanlar tanrıları adına dört yılda bir olimpiyat oyunları düzenlemiştir.",
+       "sayfa": 136
+      }
+     ]
+    },
+    {
+     "no": "2.5",
+     "ad": "Türklerde Konargöçer Yaşam",
+     "kartlar": [
+      {
+       "id": "2.5-01",
+       "tur": "secmeli",
+       "soru": "Mevsime bağlı olarak yaylak ve kışlak arasında gidip gelen topluluklara ne ad verilir?",
+       "secenekler": [
+        "Göçebe",
+        "Konargöçer",
+        "Avcı-toplayıcı",
+        "Yerleşik"
+       ],
+       "dogru": 1,
+       "bilgi": "Hayvan sürülerini otlatmak için düzenli olarak yer değiştiren topluluklara göçebe, yaylak-kışlak arasında gidip gelenlere konargöçer denir.",
+       "sayfa": 146
+      },
+      {
+       "id": "2.5-02",
+       "tur": "bosluk",
+       "cumle": "Konargöçer terimi ilk kez Uygur hükümdarı Moyun Çor'un diktirdiği ___ Kitabesi'nde geçmektedir.",
+       "cevap": "Tariat",
+       "celdiriciler": [
+        "Kül Tigin",
+        "Tonyukuk",
+        "Bilge Kağan"
+       ],
+       "bilgi": "Terhin adıyla da bilinen Tariat Kitabesi'nin batı yüzünde terim \"konar köçer\" şeklinde geçer.",
+       "sayfa": 146
+      },
+      {
+       "id": "2.5-03",
+       "tur": "dy",
+       "ifade": "Romalılar keten gömlekleri ilk kez Avrupa Hunlarında görmüştür.",
+       "dogru": true,
+       "bilgi": "Konargöçer Türkler kumaş dokumak için keten ve kendir yetiştirmiş, giysilerini deri ve yünden yapmıştır.",
+       "sayfa": 150
+      },
+      {
+       "id": "2.5-04",
+       "tur": "secmeli",
+       "soru": "Konargöçer Türk çadırının ortasında bulunan, yemek pişirmeye ve çadırı ısıtmaya yarayan ocağa ne ad verilir?",
+       "secenekler": [
+        "Korluk",
+        "Kerevet",
+        "Börk",
+        "Otağ"
+       ],
+       "dogru": 0,
+       "bilgi": "Çadır girişinin solunda koşum takımları, sağında yiyecek deposu bulunur; çadırın dışı kalın keçelerle örtülür.",
+       "sayfa": 148
+      },
+      {
+       "id": "2.5-05",
+       "tur": "eslestir",
+       "yonerge": "Konargöçer Türk yaşamına ait kavramları anlamlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Kerevet",
+         "Misafirlerin oturduğu tahta sedir"
+        ],
+        [
+         "Börk",
+         "Başa takılan başlık"
+        ],
+        [
+         "Ton (don)",
+         "Giysi"
+        ],
+        [
+         "Kımız",
+         "Kısrak sütünden yapılan içecek"
+        ],
+        [
+         "Balbal",
+         "Mezar çevresine dikilen taş"
+        ]
+       ],
+       "bilgi": "Konargöçer yaşam; giyimden beslenmeye ve barınmaya kadar Türk kültürünün pek çok unsurunu şekillendirmiştir.",
+       "sayfa": 149
+      },
+      {
+       "id": "2.5-06",
+       "tur": "secmeli",
+       "soru": "Konargöçer Türk topluluklarında ailelerin birleşmesiyle başlayan toplumsal yapılanma hangi sırayla devlete ulaşmıştır?",
+       "secenekler": [
+        "Boy - sülale - kabile - devlet",
+        "Kabile - boy - sülale - devlet",
+        "Sülale - kabile - boy - devlet",
+        "Sülale - boy - kabile - devlet"
+       ],
+       "dogru": 2,
+       "bilgi": "Türklerde en önemli toplum birimi ailedir; aileler sülaleyi, sülaleler kabileyi, kabileler boyu, boylar da devleti oluşturur.",
+       "sayfa": 149
+      },
+      {
+       "id": "2.5-07",
+       "tur": "bosluk",
+       "cumle": "Türkistan'da yetiştirilen; hızı, dayanıklılığı ve zekâsıyla \"altın at\" olarak da bilinen at türü ___ olarak adlandırılır.",
+       "cevap": "Ahal teke",
+       "celdiriciler": [
+        "Arap atı",
+        "Rahvan",
+        "Midilli"
+       ],
+       "bilgi": "Türkler için at bozkır yaşamının en önemli unsuru olmuş; binek hayvanı ve savaş aracı olarak kullanılmıştır.",
+       "sayfa": 148
+      },
+      {
+       "id": "2.5-08",
+       "tur": "dy",
+       "ifade": "Pastırma, Türklere Anadolu'ya geldikten sonra Bizanslılardan geçmiş bir et saklama yöntemidir.",
+       "dogru": false,
+       "bilgi": "Pastırma ilk kez Türkistan Türkleri tarafından üretilmiş, Selçuklular tarafından Anadolu'ya getirilmiştir.",
+       "sayfa": 150
+      },
+      {
+       "id": "2.5-09",
+       "tur": "secmeli",
+       "soru": "Orhun Yazıtları'ndaki \"Ey Türk bodunu, devletini ve töreni kim bozabilir?\" ifadesi Göktürklerin neye verdiği önemi gösterir?",
+       "secenekler": [
+        "Ticarete",
+        "Tarıma",
+        "Denizciliğe",
+        "Töreye"
+       ],
+       "dogru": 3,
+       "bilgi": "Konargöçer Türklerde cezalar katı ve töreye uygundu; adam öldürme, ordudan kaçma ve vatana ihanetin cezası ölümdü.",
+       "sayfa": 150
+      },
+      {
+       "id": "2.5-10",
+       "tur": "bosluk",
+       "cumle": "Kaynaklara göre Türkistan'da MÖ 1200'lerde Kimmerler, MÖ 800'lerde İskitler, MÖ 400'lerde ___ konargöçer olarak yaşamıştır.",
+       "cevap": "Sarmatlar",
+       "celdiriciler": [
+        "Hititler",
+        "Frigler",
+        "Akadlar"
+       ],
+       "bilgi": "Bu topluluklar demiri işlemiş, dört tekerlekli araba yapmış ve keçe çadırlarda yaşamıştır; MÖ 220'lerde ise Hun Türkleri görülür.",
+       "sayfa": 148
+      },
+      {
+       "id": "2.5-11",
+       "tur": "secmeli",
+       "soru": "Anadolu'da konargöçer yaşam kültürünü sürdüren son Türk topluluklarından biri hangisidir?",
+       "secenekler": [
+        "Sarıkeçili Yörükleri",
+        "Kazak Türkleri",
+        "Uygurlar",
+        "Kırgızlar"
+       ],
+       "dogru": 0,
+       "bilgi": "Türklerin Anadolu'ya gelişi XI. yüzyılda başlamıştır; günümüzde Akdeniz yaylalarındaki konargöçer Türklere Yörük denir.",
+       "sayfa": 151
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "ad": "Orta Çağ Medeniyetleri",
+   "konular": [
+    {
+     "no": "3.1",
+     "ad": "Orta Çağ'daki Kitlesel Göçler",
+     "kartlar": [
+      {
+       "id": "3.1-01",
+       "tur": "secmeli",
+       "soru": "Türkistan'daki hâkimiyetini kaybeden Hun boyları kimin önderliğinde İtil Nehri'ni geçerek IV. yüzyılın sonlarında Avrupa önlerine gelmiştir?",
+       "secenekler": [
+        "Balamir",
+        "Attila",
+        "Uldız",
+        "Rua"
+       ],
+       "dogru": 0,
+       "bilgi": "Balamir önderliğinde batıya yönelen Hunlar, Türkistan'dan batıya göç eden ilk Türk kavmi olmuş ve Kavimler Göçü'nü başlatmıştır.",
+       "sayfa": 170
+      },
+      {
+       "id": "3.1-02",
+       "tur": "dy",
+       "ifade": "Avrupa'ya yönelen Hun Türklerinin ilk karşılaştığı kavim, yarı İranlı yarı Türk kökenli Alanlardır.",
+       "dogru": true,
+       "bilgi": "Alanların harekete geçmesiyle Ostrogot, Vizigot, Vandal, Süev, Burgund, Frank, Angıl ve Sakson kavimleri de göç etmeye başlamıştır.",
+       "sayfa": 170
+      },
+      {
+       "id": "3.1-03",
+       "tur": "bosluk",
+       "cumle": "İç karışıklıkların bitmediği Roma İmparatorluğu MS ___ yılında Doğu Roma ve Batı Roma olarak ikiye ayrılmıştır.",
+       "cevap": "395",
+       "celdiriciler": [
+        "476",
+        "375",
+        "330"
+       ],
+       "bilgi": "Roma'nın ikiye ayrılmasından sonra Batı Roma, Vandallar ve Süevlerin istilasına ve 451-452'de Hun saldırılarına uğramıştır.",
+       "sayfa": 174
+      },
+      {
+       "id": "3.1-04",
+       "tur": "secmeli",
+       "soru": "Batı Roma İmparatorluğu'nun son topraklarını ele geçirerek 476'da yıkılmasına yol açan Turcilingi kavminin reisi kimdir?",
+       "secenekler": [
+        "Attila",
+        "Balamir",
+        "Odovacar",
+        "Alarik"
+       ],
+       "dogru": 2,
+       "bilgi": "Batı Roma'nın 476'da yıkılmasından sonra Avrupa'daki iktidar boşluğunu küçük barbar krallıkları ve feodal beylikler doldurmuştur.",
+       "sayfa": 174
+      },
+      {
+       "id": "3.1-05",
+       "tur": "bosluk",
+       "cumle": "Eski kültür ve sanat anıtlarını yakıp yıkma düşünce ve davranışı anlamına gelen ___ kelimesi, Roma'yı yağmalayan bir Germen kavminin adından gelir.",
+       "cevap": "vandalizm",
+       "celdiriciler": [
+        "barbarlık",
+        "feodalizm",
+        "şovenizm"
+       ],
+       "bilgi": "Vandallar Roma'ya girdiklerinde şehri yağmalamış, anıtları parçalamış ve büyük bir kargaşaya neden olmuştur.",
+       "sayfa": 174
+      },
+      {
+       "id": "3.1-06",
+       "tur": "secmeli",
+       "soru": "Batı Roma'nın yıkılışından sonra Avrupa'da ortaya çıkan, kralın yetkisini sadakat koşuluyla derebeyleriyle paylaştığı toprağa dayalı düzen hangisidir?",
+       "secenekler": [
+        "Skolastik düşünce",
+        "Feodalizm",
+        "Cumhuriyet",
+        "Mutlak monarşi"
+       ],
+       "dogru": 1,
+       "bilgi": "Feodalizm, toprağın ve toprak üzerindeki egemenliğin parçalandığı, Orta Çağ Avrupası'na damga vuran üretim ve yönetim sistemidir.",
+       "sayfa": 174
+      },
+      {
+       "id": "3.1-07",
+       "tur": "dy",
+       "ifade": "Orta Çağ Avrupası'nda ortaya çıkan skolastik düşüncede tabiatın doğrudan gözlemi ve deneye dayalı araştırma esas alınmıştır.",
+       "dogru": false,
+       "bilgi": "Skolastik düşüncede kilisenin öğretisi ve Aristo mantığı esas alınmış; kitap ve üstat bilgisine dayanıldığı için tabiatın doğrudan gözlemi yoktur.",
+       "sayfa": 179
+      },
+      {
+       "id": "3.1-08",
+       "tur": "eslestir",
+       "yonerge": "Türk topluluklarını göç ederek ulaştıkları veya devlet kurdukları bölgelerle eşleştir.",
+       "ciftler": [
+        [
+         "Ak Hunlar (Eftalitler)",
+         "Afganistan ve Kuzey Hindistan"
+        ],
+        [
+         "Avarlar",
+         "Orta Avrupa"
+        ],
+        [
+         "Hazarlar",
+         "Kafkasların kuzeyi ve İtil dolayları"
+        ],
+        [
+         "Bulgarlar",
+         "Balkanlar ve Volga kıyıları"
+        ]
+       ],
+       "bilgi": "Türk göçleri genellikle doğu-batı ekseninde gerçekleşmiş ve Avrupa ile Asya'nın siyasi ve etnik yapısını etkilemiştir.",
+       "sayfa": 177
+      },
+      {
+       "id": "3.1-09",
+       "tur": "secmeli",
+       "soru": "Avrupa Hun Devleti'ne en parlak dönemini yaşatan, Doğu Roma'yı vergiye bağlayıp Galya Seferi'ni düzenleyen hükümdar kimdir?",
+       "secenekler": [
+        "Rua",
+        "Uldız",
+        "Dengizik",
+        "Attila"
+       ],
+       "dogru": 3,
+       "bilgi": "Attila Roma'yı kuşatmış, Papa liderliğindeki heyetin isteği üzerine şehre dokunmayarak Batı Roma'ya üstünlük sağlamıştır.",
+       "sayfa": 176
+      },
+      {
+       "id": "3.1-10",
+       "tur": "bosluk",
+       "cumle": "Hunların Avrupa'ya getirdiği en önemli yenilik, atın üzerinde kalabilmek için kullandıkları ___ olmuştur.",
+       "cevap": "üzengi",
+       "celdiriciler": [
+        "nal",
+        "dizgin",
+        "mahmuz"
+       ],
+       "bilgi": "Türklerin askerî başarılarının temelinde atlı okçuluk ve yay yapımındaki ustalıkları yatar; Hun tipi yaylar İngiltere'ye kadar yayılmıştır.",
+       "sayfa": 180
+      },
+      {
+       "id": "3.1-11",
+       "tur": "dy",
+       "ifade": "Uldız'ın belirlediği Hun dış politikasına göre Doğu Roma baskı altında tutulacak, Batı Roma ile dostluk kurulacaktı.",
+       "dogru": true,
+       "bilgi": "422'de hükümdar olan Rua da Balkan Seferi'yle Doğu Roma'yı vergiye bağlamıştır.",
+       "sayfa": 176
+      },
+      {
+       "id": "3.1-12",
+       "tur": "secmeli",
+       "soru": "Avrupa Hun Kağanlığı'nı ve Attila'yı dünyaya tanıtan, Cermenlerin millî destanı kabul edilen eser hangisidir?",
+       "secenekler": [
+        "Manas Destanı",
+        "İlyada Destanı",
+        "Nibelungen Destanı",
+        "Gılgamış Destanı"
+       ],
+       "dogru": 2,
+       "bilgi": "Nibelungen Destanı tiyatro, opera ve sinema gibi alanlarda işlenerek Avrupa Hun kültürünün tanınmasına katkı sağlamıştır.",
+       "sayfa": 179
+      }
+     ]
+    },
+    {
+     "no": "3.2",
+     "ad": "Orta Çağ'daki Siyasi ve Askerî Gelişmeler",
+     "kartlar": [
+      {
+       "id": "3.2-01",
+       "tur": "secmeli",
+       "soru": "751'de Abbasilerin Türklerin desteğiyle Çin ordusunu yendiği ve Türkistan'daki Çin baskısını sona erdiren savaş hangisidir?",
+       "secenekler": [
+        "Kadisiye Savaşı",
+        "Yermük Savaşı",
+        "Talas Savaşı",
+        "Nihavend Savaşı"
+       ],
+       "dogru": 2,
+       "bilgi": "Talas Savaşı'nı kaybeden Çin İmparatorluğu Türkistan'daki nüfuzunu yitirmiştir.",
+       "sayfa": 209
+      },
+      {
+       "id": "3.2-02",
+       "tur": "bosluk",
+       "cumle": "Türk milletine adını veren I. Göktürk Devleti 552 yılında ___ önderliğinde Ötüken merkezli olarak kurulmuştur.",
+       "cevap": "Bumin Kağan",
+       "celdiriciler": [
+        "Mukan Kağan",
+        "İstemi Yabgu",
+        "Bilge Kağan"
+       ],
+       "bilgi": "Mukan Kağan Döneminde (553-573) Göktürkler Kore'den Karadeniz'e uzanan topraklarla en parlak zamanını yaşamıştır.",
+       "sayfa": 195
+      },
+      {
+       "id": "3.2-03",
+       "tur": "dy",
+       "ifade": "İstemi Yabgu'nun 567'de İstanbul'a elçi göndermesiyle tarihte ilk kez Türkistan'dan İstanbul'a elçi heyeti gönderilmiştir.",
+       "dogru": true,
+       "bilgi": "Göktürk-Doğu Roma ittifakı Sâsânîleri zor durumda bırakmış ve İslam ordularının İran'ı fethini kolaylaştırmıştır.",
+       "sayfa": 195
+      },
+      {
+       "id": "3.2-04",
+       "tur": "secmeli",
+       "soru": "Göktürk Yabgusu İstemi ile Sâsânîlerin kurduğu ittifak sonucunda 557'de yıkılan devlet hangisidir?",
+       "secenekler": [
+        "Ak Hun Devleti",
+        "Avar Devleti",
+        "Uygur Devleti",
+        "Hazar Devleti"
+       ],
+       "dogru": 0,
+       "bilgi": "Ak Hun Devleti'nin yıkılmasıyla toprakları Göktürkler ve Sâsânîler arasında paylaşılmış, Göktürkler İpek Yolu'na hâkim olmuştur.",
+       "sayfa": 195
+      },
+      {
+       "id": "3.2-05",
+       "tur": "eslestir",
+       "yonerge": "II. Göktürk Devleti'nin önde gelen isimlerini görev veya özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Kutluk (İlteriş) Kağan",
+         "682'de devleti yeniden kuran kağan"
+        ],
+        [
+         "Tonyukuk",
+         "Apa Tarkan olarak atanan devlet adamı"
+        ],
+        [
+         "Kapgan Kağan",
+         "Bütün Türk boylarını tek bayrak altında toplayan fatih"
+        ],
+        [
+         "Bilge Kağan",
+         "Kardeşi Kül Tigin ile devlete parlak dönem yaşatan kağan"
+        ]
+       ],
+       "bilgi": "II. Göktürk Devleti, Karluk, Basmıl ve Uygurların isyanları sonucunda 745'te yıkılmıştır.",
+       "sayfa": 196
+      },
+      {
+       "id": "3.2-06",
+       "tur": "secmeli",
+       "soru": "Uygur hükümdarı Bögü Kağan'ın 764'te resmî din olarak kabul ettiği din hangisidir?",
+       "secenekler": [
+        "Budizm",
+        "Zerdüştlük",
+        "Konfüçyüsçülük",
+        "Maniheizm"
+       ],
+       "dogru": 3,
+       "bilgi": "Hayvansal gıdaları yasaklayan ve savaşçılık duygusunu zayıflatan Maniheizm'in kabulüyle Uygurların yerleşik hayata geçmesi amaçlanmıştır.",
+       "sayfa": 197
+      },
+      {
+       "id": "3.2-07",
+       "tur": "bosluk",
+       "cumle": "Attila ile Doğu Roma arasında 435'te imzalanan ___ Antlaşması ile Doğu Roma'nın Hunlara ödediği vergi iki katına çıkarılmıştır.",
+       "cevap": "Margus",
+       "celdiriciler": [
+        "Hudeybiye",
+        "Kadeş",
+        "Talas"
+       ],
+       "bilgi": "Bu antlaşmaya göre Doğu Roma, Hun kaçaklarını kabul etmeyecek ve Hunların savaştığı kavimlerle ittifak kurmayacaktı.",
+       "sayfa": 193
+      },
+      {
+       "id": "3.2-08",
+       "tur": "dy",
+       "ifade": "Bedir Savaşı, İslam Devleti ile Doğu Roma İmparatorluğu arasında yapılan ilk savaştır.",
+       "dogru": false,
+       "bilgi": "İslam Devleti ile Doğu Roma arasındaki ilk savaş 629'daki Mute Savaşı'dır; 624'teki Bedir ise müşriklere karşı kazanılan ilk zaferdir.",
+       "sayfa": 201
+      },
+      {
+       "id": "3.2-09",
+       "tur": "secmeli",
+       "soru": "Mekkeli müşriklerin İslam Devleti'ni resmen tanıdığı antlaşma hangisidir?",
+       "secenekler": [
+        "Margus Antlaşması",
+        "Hudeybiye Antlaşması",
+        "Kadeş Antlaşması",
+        "Akabe Biatı"
+       ],
+       "dogru": 1,
+       "bilgi": "628'de imzalanan Hudeybiye Antlaşması ile Müslümanların Kâbe ziyareti bir yıl ertelenmiş, müşrikler İslam Devleti'ni resmen tanımıştır.",
+       "sayfa": 201
+      },
+      {
+       "id": "3.2-10",
+       "tur": "bosluk",
+       "cumle": "Hz. Osman Döneminde İslam donanmasının Doğu Roma donanmasını yenerek Doğu Akdeniz'deki Bizans üstünlüğüne son verdiği deniz zaferi ___ adıyla bilinir.",
+       "cevap": "Zâtüssavârî",
+       "celdiriciler": [
+        "Yermük",
+        "Kadisiye",
+        "Ecnâdeyn"
+       ],
+       "bilgi": "654'teki Zâtüssavârî zaferinden önce yeni kurulan İslam donanması Kıbrıs'ı vergiye bağlamıştı (652).",
+       "sayfa": 204
+      },
+      {
+       "id": "3.2-11",
+       "tur": "secmeli",
+       "soru": "Emeviler Döneminde fetihlerden sonra İslam'a giren Arap olmayan Müslümanlara ne ad verilirdi?",
+       "secenekler": [
+        "Zimmî",
+        "Havas",
+        "Mevali",
+        "Avam"
+       ],
+       "dogru": 2,
+       "bilgi": "Emevilerin mevaliyi bazı haklardan mahrum etmesi yıkılışı hızlandırmış; Ömer b. Abdülaziz ise mevaliyi Araplarla eşit tutmuştur.",
+       "sayfa": 208
+      },
+      {
+       "id": "3.2-12",
+       "tur": "dy",
+       "ifade": "Abbasi Halifesi Mu'tasım Döneminde Türk askerlerinin aileleriyle yaşaması için Bağdat'ın kuzeyinde Samarra şehri kurulmuştur.",
+       "dogru": true,
+       "bilgi": "Samarra Devri (836-892) olarak bilinen dönemde Türkler Abbasi Devleti'nde askerî, siyasi ve idari alanlarda etkili olmuştur.",
+       "sayfa": 209
+      }
+     ]
+    },
+    {
+     "no": "3.3",
+     "ad": "Orta Çağ'da Ticaret Yolları",
+     "kartlar": [
+      {
+       "id": "3.3-01",
+       "tur": "secmeli",
+       "soru": "Pers İmparatoru I. Darius döneminde menzil, han, kervansaray ve haberleşme kuleleriyle donatılarak mükemmel hâle getirilen yol hangisidir?",
+       "secenekler": [
+        "Kral Yolu",
+        "İpek Yolu",
+        "Baharat Yolu",
+        "Kürk Yolu"
+       ],
+       "dogru": 0,
+       "bilgi": "Kral Yolu esasen askerî amaçla inşa edilmiş, ancak Batı-Doğu ticaretini de kendine çekmiştir.",
+       "sayfa": 215
+      },
+      {
+       "id": "3.3-02",
+       "tur": "bosluk",
+       "cumle": "Çin'den çıkıp Dunhuang yakınlarında ikiye ayrılan İpek Yolu'nun kolları ___ şehrinde yeniden birleşirdi.",
+       "cevap": "Kâşgar",
+       "celdiriciler": [
+        "Semerkant",
+        "Buhara",
+        "Turfan"
+       ],
+       "bilgi": "İpek Yolu kuzeyden Kürk Yolu, güneyden Baharat Yolu ve batıdan Kral Yolu ile bağlantılıydı.",
+       "sayfa": 216
+      },
+      {
+       "id": "3.3-03",
+       "tur": "secmeli",
+       "soru": "Başlangıcı Baharat Adaları olarak da bilinen Maluku Takımadaları olan ve daha çok deniz taşımacılığının kullanıldığı ticaret yolu hangisidir?",
+       "secenekler": [
+        "İpek Yolu",
+        "Baharat Yolu",
+        "Kürk Yolu",
+        "Kral Yolu"
+       ],
+       "dogru": 1,
+       "bilgi": "Baharat Yolu'nun bir kolu Basra Körfezi'nden Bursa'ya, diğer kolu Kızıldeniz ve İskenderiye üzerinden Avrupa'ya ulaşırdı.",
+       "sayfa": 216
+      },
+      {
+       "id": "3.3-04",
+       "tur": "dy",
+       "ifade": "Kürk Yolu, deniz taşımacılığına dayanan ve Hint Okyanusu kıyılarını izleyen bir ticaret yoluydu.",
+       "dogru": false,
+       "bilgi": "Kürk Yolu, Abakan bozkırlarından İtil ve Kama nehirlerinin birleştiği yere uzanan, Güney Sibirya ormanları boyunca deri ve postların yük hayvanlarıyla taşındığı bir kara yoluydu.",
+       "sayfa": 216
+      },
+      {
+       "id": "3.3-05",
+       "tur": "eslestir",
+       "yonerge": "Orta Çağ ticaret yollarını başlangıç noktalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "İpek Yolu",
+         "Çin'deki Loyang ve C'hangan şehirleri"
+        ],
+        [
+         "Baharat Yolu",
+         "Maluku Takımadaları"
+        ],
+        [
+         "Kürk Yolu",
+         "Abakan bozkırları"
+        ]
+       ],
+       "bilgi": "Ticaret yollarında yalnızca mallar değil; bilgiler, fikirler, inançlar ve değerler de aktarılmıştır.",
+       "sayfa": 216
+      },
+      {
+       "id": "3.3-06",
+       "tur": "secmeli",
+       "soru": "Çinliler ipek böceğinin kozasından ipek elde edip bunu kumaş hâline getirmeyi hangi dönemde başarmıştır?",
+       "secenekler": [
+        "MÖ 600'lü yıllar",
+        "MS 200'lü yıllar",
+        "MÖ 2600'lü yıllar",
+        "MS 750'li yıllar"
+       ],
+       "dogru": 2,
+       "bilgi": "İpek Yolu'nda ipeğin yanı sıra porselen, mürekkep, barut, Çin kâğıdı ve baharat gibi ürünlerin de ticareti yapılmıştır.",
+       "sayfa": 219
+      },
+      {
+       "id": "3.3-07",
+       "tur": "bosluk",
+       "cumle": "Ticaret yolları üzerinde 30-40 km aralıklarla inşa edilen ve kervanların konaklama merkezi olarak bugünkü otellerin görevini gören yapılara ___ denir.",
+       "cevap": "kervansaray",
+       "celdiriciler": [
+        "medrese",
+        "külliye",
+        "bedesten"
+       ],
+       "bilgi": "Kervansaraylarda hekim, baytar ve nalbant bulunur; odalar, revir, hamam, ibadet yeri ve çeşmeler yer alırdı. Sultanhanı bunun bir örneğidir.",
+       "sayfa": 220
+      },
+      {
+       "id": "3.3-08",
+       "tur": "dy",
+       "ifade": "İslam'ın yayılmasıyla birlikte VII. yüzyıldan itibaren baharat ticareti büyük oranda Müslüman tüccarların kontrolüne girmiştir.",
+       "dogru": true,
+       "bilgi": "Mısır'daki İskenderiye limanı, baharatın Akdeniz ile buluştuğu ve Avrupa'ya ihraç edildiği limanların başında geliyordu.",
+       "sayfa": 224
+      },
+      {
+       "id": "3.3-09",
+       "tur": "secmeli",
+       "soru": "İdil ile Kama nehirlerinin birleştiği yerde kurulan ve uluslararası ticaretin önemli merkezlerinden biri olan Türk devleti hangisidir?",
+       "secenekler": [
+        "Hazar Devleti",
+        "Avar Devleti",
+        "Uygur Devleti",
+        "İdil Bulgar Devleti"
+       ],
+       "dogru": 3,
+       "bilgi": "İdil Bulgar tüccarları Slav, Baltık ve İskandinav coğrafyasıyla Orta Asya, İran, Hindistan ve Çin arasındaki ticareti yönetmiştir.",
+       "sayfa": 225
+      },
+      {
+       "id": "3.3-10",
+       "tur": "dy",
+       "ifade": "İdil Bulgarları İslamiyet'i İslam ordularının fetihleri sonucunda kabul etmiştir.",
+       "dogru": false,
+       "bilgi": "İdil Bulgarları İslam ordularıyla doğrudan temas olmadan, Müslüman tüccarlarla kurdukları ticari ilişkiler sonucunda İslamiyet'i benimsemiştir.",
+       "sayfa": 225
+      },
+      {
+       "id": "3.3-11",
+       "tur": "secmeli",
+       "soru": "Aşırı sıcaklara dayanıklılığı ve kum fırtınalarını sezebilmesi nedeniyle İpek Yolu kervanlarında çok değerli olan hayvan hangisidir?",
+       "secenekler": [
+        "Katır",
+        "Baktriyan devesi",
+        "Ahal teke atı",
+        "Yak"
+       ],
+       "dogru": 1,
+       "bilgi": "İpek Yolu'nun zorlu koşulları nedeniyle uzun mesafelerde öncelikle yüksek değerli mallar taşınmıştır.",
+       "sayfa": 218
+      }
+     ]
+    },
+    {
+     "no": "3.4",
+     "ad": "Orta Çağ'da Bilim, Kültür ve Sanat",
+     "kartlar": [
+      {
+       "id": "3.4-01",
+       "tur": "secmeli",
+       "soru": "Abbasiler Döneminde Bağdat'ta açılan ve İslam düşünce dünyasının gelişimine büyük katkı sağlayan kurum hangisidir?",
+       "secenekler": [
+        "Nizamiye Medresesi",
+        "Beytülhikme",
+        "Uluğ Bey Rasathanesi",
+        "Kayravan Camii"
+       ],
+       "dogru": 1,
+       "bilgi": "Abbasiler Döneminde İslam dünyasının önemli bilimsel ve kültürel faaliyetleri bugünkü Irak topraklarında yürütülmüştür.",
+       "sayfa": 232
+      },
+      {
+       "id": "3.4-02",
+       "tur": "dy",
+       "ifade": "Bugünkü İspanya topraklarında kurulan Endülüs, Avrupa'yı İslam kültürüyle tanıştırmış ve Rönesans çalışmalarına zemin hazırlamıştır.",
+       "dogru": true,
+       "bilgi": "Endülüs, İslam medeniyetinin Avrupa'ya aktarılmasında önemli bir köprü olmuştur.",
+       "sayfa": 232
+      },
+      {
+       "id": "3.4-03",
+       "tur": "bosluk",
+       "cumle": "Sicilya'nın başkenti ___ şehrinde yürütülen ticari, bilimsel ve kültürel faaliyetler, Avrupa ile İslam medeniyetleri arasında köprü işlevi görmüştür.",
+       "cevap": "Palermo",
+       "celdiriciler": [
+        "Kurtuba",
+        "Venedik",
+        "Cenova"
+       ],
+       "bilgi": "Endülüs ve Sicilya, İslam medeniyetinin Avrupa ile etkileşim kurduğu başlıca bölgelerdendir.",
+       "sayfa": 232
+      },
+      {
+       "id": "3.4-04",
+       "tur": "secmeli",
+       "soru": "Aristo'nun eserlerini yeni bir bakışla dünya medeniyetine kazandırdığı için \"Muallim-i Sânî\" (İkinci Öğretmen) olarak anılan Türk filozof kimdir?",
+       "secenekler": [
+        "Farabi",
+        "İbn Sina",
+        "Biruni",
+        "Harezmi"
+       ],
+       "dogru": 0,
+       "bilgi": "Farabi, İslam felsefesini metot, terminoloji ve problemler açısından temellendiren Türk filozofudur.",
+       "sayfa": 241
+      },
+      {
+       "id": "3.4-05",
+       "tur": "secmeli",
+       "soru": "Latinceye çevrilerek XVII. yüzyıl ortalarına kadar Avrupa'daki tıp fakültelerinde okutulan el-Kanun fi't-Tıp adlı eserin yazarı kimdir?",
+       "secenekler": [
+        "Farabi",
+        "İbnülheysem",
+        "İbn Sina",
+        "Biruni"
+       ],
+       "dogru": 2,
+       "bilgi": "İbn Sina, Biruni ve Harezmi gibi ilim insanları Abbasiler Devri'nde bilimsel gelişmelerin öncüleri olmuştur.",
+       "sayfa": 241
+      },
+      {
+       "id": "3.4-06",
+       "tur": "bosluk",
+       "cumle": "Optik bilimine katkılarıyla tanınan İbnülheysem'in bu alandaki kuram ve kanıtlamalarını ortaya koyduğu başyapıtı ___ adlı eserdir.",
+       "cevap": "Kitâb el-Menâzır",
+       "celdiriciler": [
+        "el-Kanun fi't-Tıp",
+        "Mukaddime",
+        "Kitab-ı Bahriye"
+       ],
+       "bilgi": "İbnülheysem; ışığın doğrusal yayılımı, karanlık oda, yansıma ve kırılma gibi olguları deneylerle açıklamıştır.",
+       "sayfa": 239
+      },
+      {
+       "id": "3.4-07",
+       "tur": "eslestir",
+       "yonerge": "Orta Çağ medeniyet havzalarını bu bölgelerdeki eserlerle eşleştir.",
+       "ciftler": [
+        [
+         "Endülüs",
+         "Elhamra Sarayı"
+        ],
+        [
+         "Irak",
+         "Hz. Ali Türbesi"
+        ],
+        [
+         "Mâverâünnehir",
+         "Uluğ Bey Rasathanesi"
+        ],
+        [
+         "Çin",
+         "Büyük Vahşi Kaz Pagodası"
+        ]
+       ],
+       "bilgi": "Doğu ve Batı medeniyetleri, sonraki nesillere ortak miras niteliği taşıyan pek çok eser bırakmıştır.",
+       "sayfa": 232
+      },
+      {
+       "id": "3.4-08",
+       "tur": "dy",
+       "ifade": "Orta Çağ'da Semerkant ve Buhara medreselerinde astronomiyle ilgilenilmemiş, yalnızca tıp alanında çalışmalar yapılmıştır.",
+       "dogru": false,
+       "bilgi": "Mâverâünnehir, Hârezm ve Türkistan'daki Semerkant ve Buhara medreselerinde özellikle astronomi alanında önemli çalışmalar yapılmıştır.",
+       "sayfa": 233
+      },
+      {
+       "id": "3.4-09",
+       "tur": "secmeli",
+       "soru": "Orta Çağ'da felsefe, kimya ve tıbbın yanı sıra özellikle matematik ve geometride büyük gelişme göstererek İslam medeniyetini de etkileyen medeniyet hangisidir?",
+       "secenekler": [
+        "Çin medeniyeti",
+        "Bizans medeniyeti",
+        "Frank medeniyeti",
+        "Hint medeniyeti"
+       ],
+       "dogru": 3,
+       "bilgi": "Çin medeniyetinde ise birçok buluşa imza atılmış; tarih, felsefe ve mimarlık gibi alanlarda özgün çalışmalar yapılmıştır.",
+       "sayfa": 233
+      },
+      {
+       "id": "3.4-10",
+       "tur": "bosluk",
+       "cumle": "Orta Çağ bilim insanlarından ___, \"Öncekilerin başarılarını minnettarlıkla karşılamak, onların yanlışlarını ürkmeden düzeltmek\" gerektiğini söylemiştir.",
+       "cevap": "Biruni",
+       "celdiriciler": [
+        "Farabi",
+        "İbn Sina",
+        "Harezmi"
+       ],
+       "bilgi": "Biruni, bilimsel bilginin önceki birikime dayanarak gelecek kuşaklara aktarılması gerektiğini vurgulamıştır.",
+       "sayfa": 241
+      },
+      {
+       "id": "3.4-11",
+       "tur": "secmeli",
+       "soru": "Orta Çağ'da Doğu ve Batı medeniyetleri arasındaki etkileşimin başlıca kanalları hangi seçenekte birlikte verilmiştir?",
+       "secenekler": [
+        "Tarım, madencilik ve sanayi",
+        "Savaş, göç ve ticaret",
+        "Hac, turizm ve denizcilik",
+        "Sürgün, evlilik ve rehine"
+       ],
+       "dogru": 1,
+       "bilgi": "Büyük göçler, devletler arası savaşlar ve ticaret yolları Doğu ile Batı arasında yoğun bir etkileşime zemin hazırlamıştır.",
+       "sayfa": 241
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

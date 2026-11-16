@@ -1,0 +1,2276 @@
+{
+ "kitap": "din-10",
+ "ders": "din",
+ "sinif": 10,
+ "baslik": "Din Kültürü Ve Ahlak Bilgisi 10. Sınıf Ders Kitabı",
+ "sayfaUrl": "https://tymm.meb.gov.tr/kitap/35/din-kulturu-ve-ahlak-bilgisi-10sinif-ders-kitabi",
+ "pdfUrl": "https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-9sinif-ders-kitabi_20261003_185826_706.pdf",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "İslam'da Varlık ve Bilgi",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "İslam'da Bilgi ve Bilginin Kaynakları",
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "secmeli",
+       "soru": "İslam düşüncesinde nesnel bilgi kaynakları hangi seçenekte birlikte verilmiştir?",
+       "secenekler": [
+        "Sezgi, rüya, keşif ve ilham",
+        "Sadık haber, selim akıl ve salim duyular",
+        "Gelenek, tecrübe ve aile büyükleri",
+        "Keşif, ilham ve hayat tecrübesi"
+       ],
+       "dogru": 1,
+       "bilgi": "İslam'a göre bilginin asıl kaynağı Allah'tır (cc); sadık haber, selim akıl ve salim duyular nesnel bilgi kaynaklarıdır.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1-02",
+       "tur": "bosluk",
+       "cumle": "Yalan üzerine birleşmeleri mümkün olmayan bir topluluğun bildirdiği habere ___ haber denir.",
+       "cevap": "mütevatir",
+       "celdiriciler": [
+        "ahad",
+        "mürsel",
+        "meşhur"
+       ],
+       "bilgi": "Mütevatir haberler kesin bilgi kaynağıdır; Kur'an-ı Kerim de nesilden nesile bu yolla değişmeden aktarılmıştır.",
+       "sayfa": 20
+      },
+      {
+       "id": "1.1-03",
+       "tur": "eslestir",
+       "yonerge": "İslam ilimlerini inceledikleri konularla eşleştir.",
+       "ciftler": [
+        [
+         "Tefsir",
+         "Kur'an'ın açıklanması ve yorumlanması"
+        ],
+        [
+         "Kelam",
+         "İnançla ilgili konular"
+        ],
+        [
+         "Fıkıh",
+         "İbadet, ahlak ve toplumsal hayata ilişkin konular"
+        ],
+        [
+         "Tasavvuf",
+         "İnsanı ahlaki olgunluğa eriştirme"
+        ]
+       ],
+       "bilgi": "Eğitim-öğretimi yapılan ilimler zamanla farklı disiplinlere ayrılarak sistematik hâle getirilmiştir.",
+       "sayfa": 15
+      },
+      {
+       "id": "1.1-04",
+       "tur": "secmeli",
+       "soru": "Bedir Savaşı'ndan sonra okuma yazma bilen esirler hangi şart karşılığında serbest bırakılmıştır?",
+       "secenekler": [
+        "Fidye ödemeleri",
+        "Medine'de bir yıl çalışmaları",
+        "On Müslümana okuma yazma öğretmeleri",
+        "Mekke'ye bir daha dönmemeleri"
+       ],
+       "dogru": 2,
+       "bilgi": "Hz. Peygamber ayrıca bazı sahabilere yabancı dil öğrenmelerini tavsiye etmiş, Mescid-i Nebevi'nin yanına Suffe'yi inşa ettirmiştir.",
+       "sayfa": 15
+      },
+      {
+       "id": "1.1-05",
+       "tur": "dy",
+       "ifade": "Sadık haberin, peygamberlerin Allah'tan (cc) alıp insanlara ulaştırdığı türüne haberiresul denir ve bu tür vahiy olarak adlandırılır.",
+       "dogru": true,
+       "bilgi": "Sadık haber, haberiresul ve mütevatir haber olmak üzere iki kısımdan oluşur.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1-06",
+       "tur": "secmeli",
+       "soru": "\"Filli su saati\" icadıyla tanınan ve sibernetik ilminin kurucusu olarak bilinen mucit kimdir?",
+       "secenekler": [
+        "Cezeri",
+        "İbni Sina",
+        "Uluğ Bey",
+        "Fuat Sezgin"
+       ],
+       "dogru": 0,
+       "bilgi": "Cezeri 1153-1236 yılları arasında yaşamış mucit ve mühendistir.",
+       "sayfa": 17
+      },
+      {
+       "id": "1.1-07",
+       "tur": "eslestir",
+       "yonerge": "Eser veya kurumları ilgili kişilerle eşleştir.",
+       "ciftler": [
+        [
+         "Semerkant Rasathanesi",
+         "Uluğ Bey"
+        ],
+        [
+         "el-Kanun fi't-Tıp",
+         "İbni Sina"
+        ],
+        [
+         "Sahih-i Buhari",
+         "Buhari"
+        ],
+        [
+         "İslam Bilim ve Teknoloji Tarihi Müzesi",
+         "Fuat Sezgin"
+        ]
+       ],
+       "bilgi": "İslam'ın ilme verdiği önem neticesinde birçok âlim yetişmiş, ilmî eserler yazılmış ve eğitim kurumları kurulmuştur.",
+       "sayfa": 16
+      },
+      {
+       "id": "1.1-08",
+       "tur": "dy",
+       "ifade": "Sezgi, rüya, keşif ve ilham gibi öznel kaynaklarla elde edilen bilgiler kesin bilgi olarak kabul edilir.",
+       "dogru": false,
+       "bilgi": "Öznel bilgi kaynaklarıyla elde edilen bilgiler kesin değildir ve doğrulukları teyide muhtaçtır.",
+       "sayfa": 21
+      },
+      {
+       "id": "1.1-09",
+       "tur": "bosluk",
+       "cumle": "İnsanın doğru karar vermesini sağlayan, ortamın kötülüğünden etkilenmeyen ve yaratılışındaki temizliği koruyan akla ___ akıl denir.",
+       "cevap": "selim",
+       "celdiriciler": [
+        "salim",
+        "sadık",
+        "nazari"
+       ],
+       "bilgi": "Akıl, varlığın hakikatini idrak etme ve kavramlar arasında ilişki kurarak önermelerde bulunma yetisidir.",
+       "sayfa": 20
+      },
+      {
+       "id": "1.1-10",
+       "tur": "secmeli",
+       "soru": "Deney ve gözlem yoluyla elde edilen; nesnellik, test edilebilirlik ve birikimli ilerleme gibi özellikleri olan bilgi türü hangisidir?",
+       "secenekler": [
+        "Felsefi bilgi",
+        "Gündelik bilgi",
+        "Sanatsal bilgi",
+        "Bilimsel bilgi"
+       ],
+       "dogru": 3,
+       "bilgi": "Bilimsel bilgi evrensel niteliktedir ve yeni keşiflerle zamanla değişebilir.",
+       "sayfa": 22
+      },
+      {
+       "id": "1.1-11",
+       "tur": "dy",
+       "ifade": "Hz. Peygamber'e göre uyuyan kişiden, ergenlik çağına gelmemiş çocuktan ve akıl hastasından sorumluluk kaldırılmıştır.",
+       "dogru": true,
+       "bilgi": "Akıl sahibi olmak, insanın ilahi emirler karşısında sorumlu olmasının temel şartlarındandır.",
+       "sayfa": 20
+      },
+      {
+       "id": "1.1-12",
+       "tur": "bosluk",
+       "cumle": "İstanbul Üniversitesi'nin temelleri, Fatih Sultan Mehmet Dönemi'nde kurulan ___ medreselerine dayanır.",
+       "cevap": "Sahn",
+       "celdiriciler": [
+        "Nizamiye",
+        "Süleymaniye",
+        "Enderun"
+       ],
+       "bilgi": "Birçok isim değişikliğine uğrayan kurum, 1933 yılında İstanbul Üniversitesi adını almıştır.",
+       "sayfa": 16
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "Allah-Âlem İlişkisi",
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "secmeli",
+       "soru": "Akıl ve duyu organlarıyla bilinebilen veya varlığı düşünülebilen, Allah (cc) dışındaki bütün varlıkları ifade eden kavram hangisidir?",
+       "secenekler": [
+        "Gayb",
+        "Mahiyet",
+        "Âlem",
+        "Mülk"
+       ],
+       "dogru": 2,
+       "bilgi": "Âlemi oluşturan bütün mahlukatın varlığı Allah'a (cc) bağlıdır.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.2-02",
+       "tur": "bosluk",
+       "cumle": "Âlem içinde insanın duyular yoluyla algılayabildiği varlıklardan oluşan bölüme ___ âlemi denir.",
+       "cevap": "şehadet",
+       "celdiriciler": [
+        "gayb",
+        "berzah",
+        "melekût"
+       ],
+       "bilgi": "Akıl ve duyular yoluyla algılanamayan varlıkların oluşturduğu bölüm ise gayb âlemidir.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-03",
+       "tur": "dy",
+       "ifade": "İslam inancına göre âlemin varlığı kendiliğindendir; âlem var olmak için Allah'a (cc) muhtaç değildir.",
+       "dogru": false,
+       "bilgi": "Varlığı kendiliğinden olmayan âlem, var olmak için Allah'a (cc) muhtaçtır; Allah (cc) ise hiçbir şeye muhtaç değildir.",
+       "sayfa": 27
+      },
+      {
+       "id": "1.2-04",
+       "tur": "secmeli",
+       "soru": "Allah'ın (cc) her şeyin yaratıcısı olduğu anlamına gelen ismi hangisidir?",
+       "secenekler": [
+        "el-Halık",
+        "el-Mümin",
+        "el-Hâdi",
+        "el-Vedud"
+       ],
+       "dogru": 0,
+       "bilgi": "Allah (cc) tüm varlıkları yoktan var eden, yaratması devam eden ve yarattıklarına şekil verendir.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.2-05",
+       "tur": "secmeli",
+       "soru": "Bakara suresinin 30. ayetine göre insanın âlemdeki konumu hangi sorumlulukla ilişkilidir?",
+       "secenekler": [
+        "Meleklere önderlik etmek",
+        "Yeryüzünde halife olmak",
+        "Gök cisimlerini yönetmek",
+        "Diğer canlılara hükmetmek"
+       ],
+       "dogru": 1,
+       "bilgi": "Bu ayete göre insan yeryüzünü imar etmek, adaleti sağlamak ve Allah'ın (cc) emanetlerini korumakla görevlidir.",
+       "sayfa": 27
+      },
+      {
+       "id": "1.2-06",
+       "tur": "bosluk",
+       "cumle": "Allah-âlem ilişkisi, İslam ilimlerinden ___ ilminin ele aldığı konular arasında yer alır.",
+       "cevap": "kelam",
+       "celdiriciler": [
+        "fıkıh",
+        "tefsir",
+        "tasavvuf"
+       ],
+       "bilgi": "Kelama göre Allah (cc) yokluğu düşünülemeyen, var olmak için hiçbir şeye muhtaç olmayan bir varlıktır.",
+       "sayfa": 27
+      },
+      {
+       "id": "1.2-07",
+       "tur": "dy",
+       "ifade": "İslam düşüncesine göre varlıklar Allah'ın (cc) koyduğu kuralların dışına çıkamaz ve bütün varlıklar Allah'ı tespih eder.",
+       "dogru": true,
+       "bilgi": "İnsan da temel gereksinimleri için Allah'ın (cc) evrene koyduğu kurallara göre hareket eder; ancak kullukta serbest bırakılmış ve tercihlerinden sorumlu tutulmuştur.",
+       "sayfa": 27
+      },
+      {
+       "id": "1.2-08",
+       "tur": "secmeli",
+       "soru": "İhlas suresinde geçen ve \"her şeyin O'na muhtaç olduğu, O'nun hiçbir şeye muhtaç olmadığı\" anlamını taşıyan isim hangisidir?",
+       "secenekler": [
+        "Halık",
+        "Rahman",
+        "Mümin",
+        "Samed"
+       ],
+       "dogru": 3,
+       "bilgi": "Hz. Muhammed (sav) \"Her şey Allah'ın mahlûku ve mülküdür.\" buyurmuştur.",
+       "sayfa": 27
+      },
+      {
+       "id": "1.2-09",
+       "tur": "secmeli",
+       "soru": "\"Allah'ın yasalarında asla bir değişme bulamazsın\" anlamındaki Fatır suresi 43. ayet, Allah-âlem ilişkisinin hangi yönünü vurgular?",
+       "secenekler": [
+        "Bütün canlıların rızkının Allah'a ait olduğunu",
+        "Allah'ın kâinatta değişmez yasaları olduğunu",
+        "İnsanın kullukla görevli olduğunu",
+        "Göklerin ve yerin mülkünün Allah'a ait olduğunu"
+       ],
+       "dogru": 1,
+       "bilgi": "Allah (cc) âlemlerin Rabbidir; yaratması süreklidir ve bütün canlılara rızık verendir.",
+       "sayfa": 28
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "Kur'an'dan Mesajlar",
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "bosluk",
+       "cumle": "Başkalarının sırlarını, özel hayatlarını, hata ve kusurlarını araştırmaya ___ denir.",
+       "cevap": "tecessüs",
+       "celdiriciler": [
+        "gıybet",
+        "iftira",
+        "tefekkür"
+       ],
+       "bilgi": "Tecessüs, \"Birbirinizin gizli hâllerini araştırmayın…\" ayetiyle yasaklanmıştır.",
+       "sayfa": 32
+      },
+      {
+       "id": "1.3-02",
+       "tur": "secmeli",
+       "soru": "İsra suresinin 36. ayetine göre insan hangi bilgi edinme vasıtalarından sorumludur?",
+       "secenekler": [
+        "El, ayak ve dil",
+        "Kulak, göz ve kalp",
+        "Akıl, irade ve vicdan",
+        "Mal, can ve evlat"
+       ],
+       "dogru": 1,
+       "bilgi": "Ayet, bu bilgi kaynaklarının doğru kullanılması gerektiğini ve elde edilen bilgilerden sorumlu olunduğunu bildirir.",
+       "sayfa": 31
+      },
+      {
+       "id": "1.3-03",
+       "tur": "dy",
+       "ifade": "İsra suresinin 36. ayeti, doğruluğu kesin olarak ortaya konamayan bilgiye göre hareket edilmemesini ister.",
+       "dogru": true,
+       "bilgi": "İslam'da yalancı şahitlik, iftira ve bilgi sahibi olunmayan bir konuda hüküm vermek yasaklanmıştır.",
+       "sayfa": 31
+      },
+      {
+       "id": "1.3-04",
+       "tur": "secmeli",
+       "soru": "Kur'an'a göre fasık biri bir haber getirdiğinde müminlerin ne yapması gerekir?",
+       "secenekler": [
+        "Haberin doğruluğunu araştırmaları",
+        "Haberi hemen yaymaları",
+        "Haberi getireni cezalandırmaları",
+        "Habere göre derhâl harekete geçmeleri"
+       ],
+       "dogru": 0,
+       "bilgi": "Ayet, bilmeyerek bir topluluğa zarar verip pişman olmamak için haberin araştırılmasını emreder.",
+       "sayfa": 32
+      },
+      {
+       "id": "1.3-05",
+       "tur": "bosluk",
+       "cumle": "Hz. Peygamber'e göre kişinin kendisini ___ şeyleri terk etmesi, Müslümanlığının güzelliğindendir.",
+       "cevap": "ilgilendirmeyen",
+       "celdiriciler": [
+        "sevindirmeyen",
+        "yormayan",
+        "zorlamayan"
+       ],
+       "bilgi": "Kur'an'da müminlerin boş şeylerden yüz çevirdiği bildirilir; insan faydasız bilgilerin peşine düşmemelidir.",
+       "sayfa": 32
+      },
+      {
+       "id": "1.3-06",
+       "tur": "eslestir",
+       "yonerge": "Nimetleri, şükürlerinin nasıl yerine getirileceğiyle eşleştir.",
+       "ciftler": [
+        [
+         "Göz",
+         "Haramdan sakınıp helale bakmak"
+        ],
+        [
+         "Dil",
+         "Yalandan sakınıp doğruyu konuşmak"
+        ],
+        [
+         "Zenginlik",
+         "İsraf ve cimrilikten sakınıp ihtiyaç sahibini gözetmek"
+        ]
+       ],
+       "bilgi": "Her nimetin şükrü kendi cinsiyle yerine getirilir.",
+       "sayfa": 33
+      },
+      {
+       "id": "1.3-07",
+       "tur": "dy",
+       "ifade": "İslam'a göre şükür yalnızca dil ile yapılır.",
+       "dogru": false,
+       "bilgi": "Şükür sadece dil ile olmaz; haramlardan kaçınmak, farzları yerine getirmek ve iyiliğe davranışla karşılık vermek de şükürdür.",
+       "sayfa": 33
+      },
+      {
+       "id": "1.3-08",
+       "tur": "secmeli",
+       "soru": "Mülk suresinin 23. ayetinde Allah'ın (cc) verdiği nimetler hatırlatıldıktan sonra insandan ne istenir?",
+       "secenekler": [
+        "Nimetleri biriktirmesi",
+        "Dünyadan uzaklaşması",
+        "Yaratıcısına hakkıyla şükretmesi",
+        "Bilgiyi başkalarından saklaması"
+       ],
+       "dogru": 2,
+       "bilgi": "Ayette insana bilgi edinme vasıtaları olarak kulak, göz ve kalp verildiği hatırlatılır.",
+       "sayfa": 33
+      },
+      {
+       "id": "1.3-09",
+       "tur": "bosluk",
+       "cumle": "İnsanın Allah'ın (cc) verdiği sayısız nimetler için O'na karşı minnettarlığını ifade etmesine ___ denir.",
+       "cevap": "şükür",
+       "celdiriciler": [
+        "tevekkül",
+        "sabır",
+        "tefekkür"
+       ],
+       "bilgi": "İnsan nimetlerin kendisine emanet olarak verildiğini bilmeli ve onları veriliş amacına uygun kullanmalıdır.",
+       "sayfa": 33
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Allah'ı Tanımak",
+   "konular": [
+    {
+     "no": "2.1",
+     "ad": "Allah'ın Varlığının Delilleri",
+     "kartlar": [
+      {
+       "id": "2.1-01",
+       "tur": "bosluk",
+       "cumle": "Kozmolojik delilin bir türü olan ___ delili, âlemin değiştiğini, her değişenin sonradan meydana geldiğini ve bir yaratıcıya muhtaç olduğunu savunur.",
+       "cevap": "hudus",
+       "celdiriciler": [
+        "nizam",
+        "gaye",
+        "ekmel"
+       ],
+       "bilgi": "Kozmolojik delil, Allah'ın (cc) varlığını evrenden, evrenin hareketi ve başlangıcı üzerinden ispatlamaya çalışır.",
+       "sayfa": 49
+      },
+      {
+       "id": "2.1-02",
+       "tur": "dy",
+       "ifade": "İlim geleneğimizde teleolojik delil \"gaye ve nizam delili\" olarak adlandırılır.",
+       "dogru": true,
+       "bilgi": "Teleolojik delile göre evrendeki düzen ve varlıklardaki amaçlılık bir yaratıcının varlığına işaret eder.",
+       "sayfa": 51
+      },
+      {
+       "id": "2.1-03",
+       "tur": "secmeli",
+       "soru": "Allah'ın (cc) varlığını insan zihnindeki ekmel (mükemmel) varlık düşüncesinden hareketle ispatlamaya çalışan delil hangisidir?",
+       "secenekler": [
+        "Kozmolojik delil",
+        "Teleolojik delil",
+        "Ontolojik delil",
+        "Hudus delili"
+       ],
+       "dogru": 2,
+       "bilgi": "Ontoloji \"varlık bilimi\" demektir; bu delile göre kusursuz varlık düşüncesini insanın zihnine yerleştiren Allah'tır (cc).",
+       "sayfa": 54
+      },
+      {
+       "id": "2.1-04",
+       "tur": "dy",
+       "ifade": "Ontolojik delil, gözlem ve deneye dayanan bir delildir.",
+       "dogru": false,
+       "bilgi": "Ontolojik delil gözlem ve deneyden bağımsız, zihinsel bir faaliyetin ürünüdür.",
+       "sayfa": 54
+      },
+      {
+       "id": "2.1-05",
+       "tur": "eslestir",
+       "yonerge": "Allah'ın (cc) varlığının delillerini hareket noktalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Kozmolojik delil",
+         "Evrenin hareketi ve başlangıcı"
+        ],
+        [
+         "Teleolojik delil",
+         "Evrendeki düzen ve amaçlılık"
+        ],
+        [
+         "Ontolojik delil",
+         "Zihindeki mükemmel varlık düşüncesi"
+        ],
+        [
+         "Dinî tecrübe delili",
+         "Kişinin yaşadığı manevi deneyimler"
+        ]
+       ],
+       "bilgi": "Allah'ın (cc) varlığına dair deliller kozmolojik, teleolojik, ontolojik ve dinî tecrübeye dayalı deliller olarak sınıflandırılır.",
+       "sayfa": 48
+      },
+      {
+       "id": "2.1-06",
+       "tur": "secmeli",
+       "soru": "Dinî tecrübeyi, yüksek şiir ve musiki zevkinin bunu tatmamış kişilere anlatılamamasına benzeterek açıklayan İslam âlimi kimdir?",
+       "secenekler": [
+        "Razi",
+        "Gazali",
+        "İbni Sina",
+        "Farabi"
+       ],
+       "dogru": 1,
+       "bilgi": "Dinî tecrübe delili bireysel tecrübelere dayandığı için kozmolojik ve teleolojik delillerden farklıdır.",
+       "sayfa": 55
+      },
+      {
+       "id": "2.1-07",
+       "tur": "bosluk",
+       "cumle": "Teleoloji, varlığı ___ yönüyle açıklamaya çalışır ve bilim alanında \"niçin?\" sorusuna cevap arar.",
+       "cevap": "amaçlılık",
+       "celdiriciler": [
+        "hareket",
+        "mükemmellik",
+        "değişim"
+       ],
+       "bilgi": "Kur'an'daki \"Şüphesiz biz her şeyi bir ölçüye göre yarattık.\" ayeti evrendeki düzene ve ölçüye işaret eder.",
+       "sayfa": 51
+      },
+      {
+       "id": "2.1-08",
+       "tur": "secmeli",
+       "soru": "Hz. İbrahim'in tevhide davet ettiği, \"Hayat veren ve öldüren benim\" diyerek onunla tartışan hükümdar kimdir?",
+       "secenekler": [
+        "Firavun",
+        "Karun",
+        "Ebu Cehil",
+        "Nemrut"
+       ],
+       "dogru": 3,
+       "bilgi": "Hz. İbrahim, \"Allah güneşi doğudan getiriyor, sen de onu batıdan getir\" deyince Nemrut ne diyeceğini bilememiştir.",
+       "sayfa": 55
+      },
+      {
+       "id": "2.1-09",
+       "tur": "secmeli",
+       "soru": "Kur'an'a göre Hz. İbrahim puthanedeki putları kırdıktan sonra baltayı nereye asmıştır?",
+       "secenekler": [
+        "En büyük putun boynuna",
+        "Puthanenin kapısına",
+        "Kendi evinin duvarına",
+        "Nemrut'un sarayına"
+       ],
+       "dogru": 0,
+       "bilgi": "Hz. İbrahim, konuşamayan putlara tapmanın anlamsız olduğunu kavmine bu şekilde göstermiştir.",
+       "sayfa": 55
+      },
+      {
+       "id": "2.1-10",
+       "tur": "dy",
+       "ifade": "Teleolojik delil evrenin başlangıcının olup olmadığını, kozmolojik delil ise evrendeki düzen ve gayeliliği esas alır.",
+       "dogru": false,
+       "bilgi": "Kozmolojik delil evrenin başlangıcı gibi konuları, teleolojik delil ise evrenin iç yapısındaki düzen ve gayeliliği esas alır.",
+       "sayfa": 51
+      },
+      {
+       "id": "2.1-11",
+       "tur": "secmeli",
+       "soru": "Hz. Peygamber'in \"Önce Allah vardı; O'ndan önce hiçbir şey yoktu…\" hadisi hangi hususa dikkat çeker?",
+       "secenekler": [
+        "Evrendeki estetiğe",
+        "Âlemin sonradan yaratıldığına",
+        "Zihindeki mükemmel varlık fikrine",
+        "Manevi tecrübenin önemine"
+       ],
+       "dogru": 1,
+       "bilgi": "Kur'an'da da varlıkların meydana gelmek için bir yaratıcıya muhtaç olduğu vurgulanır.",
+       "sayfa": 49
+      }
+     ]
+    },
+    {
+     "no": "2.2",
+     "ad": "Allah'ı İsim ve Sıfatlarıyla Tanımak",
+     "kartlar": [
+      {
+       "id": "2.2-01",
+       "tur": "bosluk",
+       "cumle": "Allah'ın (cc) zatı, sıfatları, fiilleri ve isimleri hakkındaki bilgiye ___ denir.",
+       "cevap": "marifetullah",
+       "celdiriciler": [
+        "esmayıhüsna",
+        "tevhit",
+        "tefekkür"
+       ],
+       "bilgi": "Allah'ın (cc) varlığını bilmek O'nu tanımak için yeterli değildir; isim ve sıfatlarını da bilmek gerekir.",
+       "sayfa": 58
+      },
+      {
+       "id": "2.2-02",
+       "tur": "secmeli",
+       "soru": "Allah'ın (cc) isimlerinin sınıflandırılmasında Evvel ve Baki isimleri hangi gruba örnektir?",
+       "secenekler": [
+        "Kâinatla ilgili isimler",
+        "İnsanla ilgili isimler",
+        "Zatıyla ilgili isimler",
+        "Haberî sıfatlar"
+       ],
+       "dogru": 2,
+       "bilgi": "Evvel varlığının başlangıcı olmamasını, Baki ölümsüz olmasını ifade eder; bu isimler yalnızca Allah'a (cc) özgüdür.",
+       "sayfa": 58
+      },
+      {
+       "id": "2.2-03",
+       "tur": "eslestir",
+       "yonerge": "Allah'ın (cc) kâinatla ilgili isimlerini anlamlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Bâri",
+         "Örneksiz yaratan"
+        ],
+        [
+         "Fâtır",
+         "Yoktan yaratan"
+        ],
+        [
+         "Musavvir",
+         "Varlıklara şekil ve suret veren"
+        ],
+        [
+         "Rezzak",
+         "Canlıların rızkını karşılayan"
+        ]
+       ],
+       "bilgi": "Halık \"yaratan\" demektir; Bâri, Fâtır ve Musavvir isimleri yaratmanın çok boyutlu olduğunu gösterir.",
+       "sayfa": 58
+      },
+      {
+       "id": "2.2-04",
+       "tur": "secmeli",
+       "soru": "\"Küçük amellere büyük karşılıklar veren\" anlamındaki, Allah'ın (cc) insanla ilgili isimlerinden biri hangisidir?",
+       "secenekler": [
+        "Şekur",
+        "Melik",
+        "Baki",
+        "Musavvir"
+       ],
+       "dogru": 0,
+       "bilgi": "Şekur ismi insanı nimetlere şükretmeye yönlendirir ve onu nankörlükten korur.",
+       "sayfa": 59
+      },
+      {
+       "id": "2.2-05",
+       "tur": "dy",
+       "ifade": "Ayetlerde geçen Allah'ın (cc) eli, yüzü ve gelmesi gibi haberî sıfatların insanlardaki özelliklere benzetilmesi doğru değildir.",
+       "dogru": true,
+       "bilgi": "Haberî sıfatlar Allah'a (cc) isnat edilen ancak yaratılmışlara ait özellikleri andıran kavramlardır.",
+       "sayfa": 59
+      },
+      {
+       "id": "2.2-06",
+       "tur": "secmeli",
+       "soru": "Allah'ın (cc) âlemle ilişkisine konu olan, yaratmak ve rızık vermek gibi sıfatlarına ne ad verilir?",
+       "secenekler": [
+        "Zatî sıfatlar",
+        "Haberî sıfatlar",
+        "Selbî sıfatlar",
+        "Fiilî sıfatlar"
+       ],
+       "dogru": 3,
+       "bilgi": "Allah'ın (cc) sıfatları genel olarak zatî, fiilî ve haberî sıfatlar olmak üzere üçe ayrılır.",
+       "sayfa": 59
+      },
+      {
+       "id": "2.2-07",
+       "tur": "eslestir",
+       "yonerge": "Allah'ın (cc) sıfatlarını anlamlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Semi",
+         "Her şeyi işitmesi"
+        ],
+        [
+         "Basar",
+         "Her şeyi görmesi"
+        ],
+        [
+         "Kelam",
+         "Konuşması"
+        ],
+        [
+         "Tekvin",
+         "Yaratması"
+        ]
+       ],
+       "bilgi": "Hayat, ilim, semi, basar, irade, kudret, kelam ve tekvin insan hayatında yansımaları belirgin olan sıfatlardır.",
+       "sayfa": 60
+      },
+      {
+       "id": "2.2-08",
+       "tur": "dy",
+       "ifade": "Allah'ın (cc) basar sıfatı ile insanın görme yetisi aynı mahiyettedir.",
+       "dogru": false,
+       "bilgi": "Allah'ın (cc) basar sıfatı ile insanın görmesi arasında yalnızca isim benzerliği vardır.",
+       "sayfa": 60
+      },
+      {
+       "id": "2.2-09",
+       "tur": "bosluk",
+       "cumle": "Allah'ın (cc) \"yarattıklarını seven, daima iyiliklerini isteyen\" anlamındaki ismi ___ olup canlılardaki sevgi duygusunun kaynağıdır.",
+       "cevap": "Vedud",
+       "celdiriciler": [
+        "Kerim",
+        "Cemil",
+        "Afüv"
+       ],
+       "bilgi": "Vedud, Afüv, Kerim ve Cemil isimleri Allah'ın (cc) sevgisini, merhametini ve cömertliğini ifade eder.",
+       "sayfa": 63
+      },
+      {
+       "id": "2.2-10",
+       "tur": "secmeli",
+       "soru": "Kâinatta görülen maddi ve manevi güzellikler Allah'ın (cc) hangi isminin yansımasıdır?",
+       "secenekler": [
+        "Aziz",
+        "Cemil",
+        "Kebir",
+        "Melik"
+       ],
+       "dogru": 1,
+       "bilgi": "Cemil \"güzel\" anlamına gelir; baharda açan çiçeklerdeki güzellik bu ismin yansımalarındandır.",
+       "sayfa": 63
+      },
+      {
+       "id": "2.2-11",
+       "tur": "secmeli",
+       "soru": "Allah'ın (cc) \"yenilmeyen, yegâne galip\" anlamına gelen ismi hangisidir?",
+       "secenekler": [
+        "Kadir",
+        "Celil",
+        "Aziz",
+        "Hakim"
+       ],
+       "dogru": 2,
+       "bilgi": "Kadir \"her şeye gücü yeten\", Celil \"azamet sahibi\", Kebir \"ulu\" anlamına gelir.",
+       "sayfa": 63
+      },
+      {
+       "id": "2.2-12",
+       "tur": "bosluk",
+       "cumle": "Allah'ın (cc) \"her şeyi yerli yerine koyan, her fiilinde uygun olanı yapan\" anlamındaki ismi ___ olarak bilinir.",
+       "cevap": "Hakim",
+       "celdiriciler": [
+        "Kadir",
+        "Melik",
+        "Kerim"
+       ],
+       "bilgi": "Gereksiz şeylerden uzaklaşan bir insanda Hakim isminin yansımaları görülür.",
+       "sayfa": 64
+      }
+     ]
+    },
+    {
+     "no": "2.3",
+     "ad": "Kur'an'dan Mesajlar",
+     "kartlar": [
+      {
+       "id": "2.3-01",
+       "tur": "eslestir",
+       "yonerge": "Haşr suresinin 22-24. ayetlerinde geçen isimleri anlamlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Kuddüs",
+         "Her türlü eksiklikten münezzeh olan"
+        ],
+        [
+         "Selam",
+         "Esenlik kaynağı, selamete çıkaran"
+        ],
+        [
+         "Müheymin",
+         "Kâinatın bütün işlerini gözetip yöneten"
+        ],
+        [
+         "Cebbar",
+         "İradesini her durumda yürüten"
+        ]
+       ],
+       "bilgi": "Haşr suresinin 22-24. ayetlerinde Allah'ın (cc) birliğine, ilminin sonsuzluğuna ve rahmetinin genişliğine dikkat çekilir.",
+       "sayfa": 70
+      },
+      {
+       "id": "2.3-02",
+       "tur": "secmeli",
+       "soru": "Müfessirlere göre Haşr suresinde ilim sıfatının Rahman ve Rahîm isimlerinden önce zikredilmesi neye işarettir?",
+       "secenekler": [
+        "Merhametin yalnızca insanlara özgü bir nitelik olduğuna",
+        "Ancak her şeyi bilenin hakkıyla merhamet edebileceğine",
+        "İlmin yalnızca ahiret hayatında tecelli edeceğine",
+        "Rahmetin ilimden daha az önemli bir sıfat olduğuna"
+       ],
+       "dogru": 1,
+       "bilgi": "Allah'ın (cc) her canlıya uygun rızkı vermesi ancak her canlının ihtiyacını bilmesiyle mümkündür.",
+       "sayfa": 70
+      },
+      {
+       "id": "2.3-03",
+       "tur": "dy",
+       "ifade": "Müfessirlere göre Bâri isminin Musavvir isminden önce zikredilmesi, bir şeye şekil vermeden önce onun zatının yaratılması gerektiğine işarettir.",
+       "dogru": true,
+       "bilgi": "Bâri bütün varlıkları bir model olmaksızın yaratan, Musavvir ise varlıklara şekil veren demektir.",
+       "sayfa": 70
+      },
+      {
+       "id": "2.3-04",
+       "tur": "bosluk",
+       "cumle": "Allah'ı (cc) kendisine uygun olmayan tüm nitelemelerden uzak görmeye ve O'na ibadet etmeye ___ denir.",
+       "cevap": "tespih",
+       "celdiriciler": [
+        "tevhit",
+        "tekbir",
+        "tövbe"
+       ],
+       "bilgi": "Haşr suresinin son ayetinde göklerde ve yerde bulunan tüm varlıkların Allah'ı (cc) tespih ettiği bildirilir.",
+       "sayfa": 71
+      },
+      {
+       "id": "2.3-05",
+       "tur": "secmeli",
+       "soru": "Haşr suresinde geçen \"güven veren, vaadine güvenilen, inananları azabından emin kılan\" anlamındaki isim hangisidir?",
+       "secenekler": [
+        "Müheymin",
+        "Mütekebbir",
+        "Selam",
+        "Mümin"
+       ],
+       "dogru": 3,
+       "bilgi": "Ayetlerde geçen isimlerin zikredilmesinden maksat Allah'ı (cc) doğru tanıtmaktır.",
+       "sayfa": 70
+      },
+      {
+       "id": "2.3-06",
+       "tur": "dy",
+       "ifade": "Haşr suresinin 22-24. ayetlerine göre bazı varlıklar Allah'ın (cc) güzel isimlerinde O'na ortak olabilir.",
+       "dogru": false,
+       "bilgi": "En güzel isimler yalnızca Allah'a (cc) aittir; hiç kimse bu isimlerde O'na ortak olamaz.",
+       "sayfa": 71
+      },
+      {
+       "id": "2.3-07",
+       "tur": "secmeli",
+       "soru": "Müfessirlere göre Haşr suresinde Rahman ve Rahîm isimlerinin diğer isimlerden önce zikredilmesi neye işarettir?",
+       "secenekler": [
+        "Allah'ın rahmetinin öncelikli olduğuna",
+        "Allah'ın yalnızca müminlere merhamet ettiğine",
+        "Kudretin rahmetten önce geldiğine",
+        "İsimlerin rastgele sıralandığına"
+       ],
+       "dogru": 0,
+       "bilgi": "Ayetlere göre Allah'ı (cc) tanımak, isim ve sıfatlarını bütüncül olarak bilmeyi ve bunları hayata yansıtmayı gerektirir.",
+       "sayfa": 70
+      },
+      {
+       "id": "2.3-08",
+       "tur": "bosluk",
+       "cumle": "Haşr suresinde geçen \"azamet ve yüceliğini ortaya çıkaran, büyüklük ancak kendisine yaraşan\" anlamındaki isim ___ olarak bilinir.",
+       "cevap": "Mütekebbir",
+       "celdiriciler": [
+        "Cebbar",
+        "Müheymin",
+        "Kuddüs"
+       ],
+       "bilgi": "Haşr suresinin 22-24. ayetlerinde en güzel isimlerin Allah'a (cc) özgü olduğu vurgulanarak O'nun kusursuzluğuna işaret edilir.",
+       "sayfa": 70
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "ad": "İslam'ın Evrensel Mesajları",
+   "konular": [
+    {
+     "no": "3.1",
+     "ad": "İslam'ın Tevhit İlkesi",
+     "kartlar": [
+      {
+       "id": "3.1-01",
+       "tur": "bosluk",
+       "cumle": "Sözlükte \"birlemek, bir kılmak, bir şeyin bir ve tek olduğuna hükmetmek\" anlamına gelen ve İslam'ın temel ilkesi olan kavrama ___ denir.",
+       "cevap": "tevhit",
+       "celdiriciler": [
+        "takva",
+        "ihlas",
+        "tefekkür"
+       ],
+       "bilgi": "Tevhit, Allah'ın (cc) bir olduğunu bilmeyi, O'ndan başka ilah ve O'nun eşi, ortağı olmadığına inanmayı ifade eder.",
+       "sayfa": 83
+      },
+      {
+       "id": "3.1-02",
+       "tur": "eslestir",
+       "yonerge": "Kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Tevhit",
+         "Allah'ın bir ve tek olduğuna inanmak"
+        ],
+        [
+         "Şirk",
+         "Allah'a başka bir varlığı denk görmek"
+        ],
+        [
+         "Ülülazm",
+         "Kur'an'da övülen beş büyük peygamber"
+        ],
+        [
+         "Elif",
+         "Allah'ın birliğinin sembolü sayılan harf"
+        ]
+       ],
+       "bilgi": "Kur'an-ı Kerim'de tevhidin zıddı şirk kavramıyla ifade edilir.",
+       "sayfa": 84
+      },
+      {
+       "id": "3.1-03",
+       "tur": "secmeli",
+       "soru": "Nisa suresinin 116. ayetine göre Allah'ın (cc) asla bağışlamayacağını bildirdiği günah hangisidir?",
+       "secenekler": [
+        "Yalan söylemek",
+        "Kendisine ortak koşulması",
+        "Gıybet etmek",
+        "Namazı terk etmek"
+       ],
+       "dogru": 1,
+       "bilgi": "Allah (cc) şirk dışındaki günahları bağışlayabileceğini bildirmiştir.",
+       "sayfa": 83
+      },
+      {
+       "id": "3.1-04",
+       "tur": "secmeli",
+       "soru": "Rivayete göre putperestlik ilk defa hangi peygamberin döneminde ortaya çıkmıştır?",
+       "secenekler": [
+        "Hz. Âdem",
+        "Hz. İbrahim",
+        "Hz. Musa",
+        "Hz. Nuh"
+       ],
+       "dogru": 3,
+       "bilgi": "Rivayete göre insanlar Hz. Nuh dönemine kadar tevhit inancıyla yaşamıştır; Hz. Nuh kavmini tevhide döndürmekle görevlendirilmiştir.",
+       "sayfa": 84
+      },
+      {
+       "id": "3.1-05",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi ülülazm peygamberlerden biri değildir?",
+       "secenekler": [
+        "Hz. Nuh",
+        "Hz. Yusuf",
+        "Hz. Musa",
+        "Hz. İbrahim"
+       ],
+       "dogru": 1,
+       "bilgi": "Ülülazm peygamberler Hz. Nuh, Hz. İbrahim, Hz. Musa, Hz. İsa ve Hz. Muhammed'dir (sav).",
+       "sayfa": 84
+      },
+      {
+       "id": "3.1-06",
+       "tur": "bosluk",
+       "cumle": "Kur'an-ı Kerim'in 71. suresi olan ve baştan sona tevhit mücadelesini anlatan sure ___ suresidir.",
+       "cevap": "Nuh",
+       "celdiriciler": [
+        "İbrahim",
+        "Yunus",
+        "Hud"
+       ],
+       "bilgi": "Hz. Nuh kavmi tarafından yalancılıkla itham edilmesine rağmen davetini uzun yıllar sürdürmüştür.",
+       "sayfa": 84
+      },
+      {
+       "id": "3.1-07",
+       "tur": "dy",
+       "ifade": "Tevhit yalnızca bireysel bir inançtır; toplumsal hayatta herhangi bir karşılığı yoktur.",
+       "dogru": false,
+       "bilgi": "Tevhit aynı zamanda bir yaşam biçimidir; toplumsal hayatta tevhit inancının karşılığı \"birlik\" olarak ortaya çıkar.",
+       "sayfa": 85
+      },
+      {
+       "id": "3.1-08",
+       "tur": "dy",
+       "ifade": "İslam geleneğinde tevhit inancının birlik ve çokluğu bir arada ele alması \"çoklukta birlik, birlikte çokluk\" şeklinde ifade edilir.",
+       "dogru": true,
+       "bilgi": "Tevhit, evrendeki tüm farklılık ve çeşitliliğin mükemmel bir uyum içinde olduğunu da gösterir.",
+       "sayfa": 85
+      }
+     ]
+    },
+    {
+     "no": "3.2",
+     "ad": "İslam'da Adalet ve Eşitlik",
+     "kartlar": [
+      {
+       "id": "3.2-01",
+       "tur": "secmeli",
+       "soru": "Hz. Muhammed'in (sav) peygamberliğinden önce katıldığı, haksızlıklarla mücadele etmek ve adaleti sağlamak için kurulmuş topluluk hangisidir?",
+       "secenekler": [
+        "Darünnedve",
+        "Hilfülfudul",
+        "Ahilik",
+        "Suffe"
+       ],
+       "dogru": 1,
+       "bilgi": "Hz. Muhammed (sav) hayatı boyunca adaletle hükmetmiş ve herkesin hakkını gözetmiştir.",
+       "sayfa": 87
+      },
+      {
+       "id": "3.2-02",
+       "tur": "bosluk",
+       "cumle": "Görev ve sorumlulukların ehil kişilere verilmesine ___ denir.",
+       "cevap": "liyakat",
+       "celdiriciler": [
+        "şeffaflık",
+        "hakkaniyet",
+        "tarafsızlık"
+       ],
+       "bilgi": "Kur'an'da \"Şüphesiz Allah size emanetleri ehline vermenizi … emreder.\" buyrulur.",
+       "sayfa": 87
+      },
+      {
+       "id": "3.2-03",
+       "tur": "eslestir",
+       "yonerge": "Adaletin ilkelerini açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Şeffaflık",
+         "Süreçlerin açık ve denetlenebilir yürütülmesi"
+        ],
+        [
+         "Hesap verebilirlik",
+         "Kararlarından ve sonuçlarından sorumlu olmak"
+        ],
+        [
+         "Tarafsızlık",
+         "Dil, ırk, din gibi nedenlerle ayrım yapmamak"
+        ],
+        [
+         "Ahde vefa",
+         "Verilen sözlere sadık kalmak"
+        ]
+       ],
+       "bilgi": "İslam eşitlik, hakkaniyet, dürüstlük, şeffaflık, tarafsızlık, emanet ve liyakat gibi evrensel adalet ilkeleri ortaya koymuştur.",
+       "sayfa": 88
+      },
+      {
+       "id": "3.2-04",
+       "tur": "dy",
+       "ifade": "Enam suresinin 160. ayetine göre iyilik yapana on katı verilir, kötülük yapan ise yalnızca o kötülüğün misliyle cezalandırılır.",
+       "dogru": true,
+       "bilgi": "Adl ismi gereği Allah (cc) herkese hak ettiği şekilde muamele eder ve kimseye haksızlık etmez.",
+       "sayfa": 87
+      },
+      {
+       "id": "3.2-05",
+       "tur": "secmeli",
+       "soru": "Adaletin somut olaylara ve o olaydaki kişilerin özelliklerine göre uygulanmasını ifade eden ilke hangisidir?",
+       "secenekler": [
+        "Eşitlik",
+        "Şeffaflık",
+        "Hakkaniyet",
+        "Liyakat"
+       ],
+       "dogru": 2,
+       "bilgi": "Hakkaniyet ilkesi, hüküm verenlerin her olayın kendi özelliklerine göre en uygun kararı vermesini sağlar.",
+       "sayfa": 89
+      },
+      {
+       "id": "3.2-06",
+       "tur": "secmeli",
+       "soru": "Hz. Ömer'in ganimetten payına düşenden fazla kumaş aldığı sanılınca, kendi payını babasına verdiğini açıklayan kimdir?",
+       "secenekler": [
+        "Hz. Ali",
+        "Üsame bin Zeyd",
+        "Hz. Osman",
+        "Oğlu Abdullah"
+       ],
+       "dogru": 3,
+       "bilgi": "Bu olay, yöneticilerin de hesap verebilir olması gerektiğini gösterir.",
+       "sayfa": 90
+      },
+      {
+       "id": "3.2-07",
+       "tur": "dy",
+       "ifade": "Hz. Peygamber, yaşının küçüklüğüne yönelik itirazlar üzerine Üsame bin Zeyd'i ordu komutanlığından almıştır.",
+       "dogru": false,
+       "bilgi": "Hz. Peygamber, babası Zeyd bin Harise gibi Üsame'nin de komutanlığa lâyık olduğunu söyleyerek itirazları yersiz bulmuştur.",
+       "sayfa": 91
+      },
+      {
+       "id": "3.2-08",
+       "tur": "bosluk",
+       "cumle": "Veda Hutbesi'ne göre Arap'ın Arap olmayana, beyazın siyaha üstünlüğü yoktur; üstünlük ancak ___ iledir.",
+       "cevap": "takva",
+       "celdiriciler": [
+        "ilim",
+        "soy",
+        "servet"
+       ],
+       "bilgi": "İslam, bütün insanların ortak bir atadan geldiğini ve Allah (cc) katında eşit olduğunu bildirir.",
+       "sayfa": 93
+      },
+      {
+       "id": "3.2-09",
+       "tur": "secmeli",
+       "soru": "Servetinin bir kısmını yalnızca oğlu Numan'a vermek isteyen Beşir'e Hz. Peygamber ne tavsiye etmiştir?",
+       "secenekler": [
+        "Çocukları arasında adaletli olmasını",
+        "Malının tamamını oğluna vermesini",
+        "Malını hiçbir çocuğuna vermemesini",
+        "Sadece büyük oğluna miras bırakmasını"
+       ],
+       "dogru": 0,
+       "bilgi": "Hz. Peygamber \"Allah'tan korkun, çocuklarınız arasında adaletli olun!\" buyurmuştur.",
+       "sayfa": 92
+      },
+      {
+       "id": "3.2-10",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi Veda Hutbesi'nde değinilen konulardan biri değildir?",
+       "secenekler": [
+        "Faizin kaldırılması",
+        "Suç ve cezanın şahsiliği",
+        "Kâbe'nin yeniden inşası",
+        "Can ve mal dokunulmazlığı"
+       ],
+       "dogru": 2,
+       "bilgi": "Veda Hutbesi'nde kul haklarına, emanetlerin iadesine, kadın haklarına ve Müslüman kardeşliğine de değinilmiştir.",
+       "sayfa": 93
+      },
+      {
+       "id": "3.2-11",
+       "tur": "secmeli",
+       "soru": "Adalet kavramının ekonomik alandaki karşılığı hangisidir?",
+       "secenekler": [
+        "Kanunlara uygun davranmak",
+        "Ölçü ve tartıyı doğru kullanmak",
+        "İnsanlar arasında ayrım yapmamak",
+        "Herkese eşit ücret vermek"
+       ],
+       "dogru": 1,
+       "bilgi": "Adalet hukuki alanda kanunlara uygun davranmak, toplumsal alanda insanlar arasında ayrım yapmamak anlamına gelir.",
+       "sayfa": 86
+      }
+     ]
+    },
+    {
+     "no": "3.3",
+     "ad": "İslam ve Barış",
+     "kartlar": [
+      {
+       "id": "3.3-01",
+       "tur": "bosluk",
+       "cumle": "İslam kelimesi, esenlik, barış ve kurtuluş anlamlarına gelen ___ kökünden türemiştir.",
+       "cevap": "s-l-m",
+       "celdiriciler": [
+        "h-m-d",
+        "k-t-b",
+        "a-b-d"
+       ],
+       "bilgi": "Aynı kökten gelen Selam, Allah'ın (cc) barış ve esenlik sahibi olan anlamındaki ismidir.",
+       "sayfa": 95
+      },
+      {
+       "id": "3.3-02",
+       "tur": "secmeli",
+       "soru": "Hz. Muhammed'in (sav) Medine'deki farklı din ve etnik gruplarla yaptığı, herkese eşit vatandaşlık statüsü kazandıran yazılı antlaşma hangisidir?",
+       "secenekler": [
+        "Hudeybiye Antlaşması",
+        "Akabe Biatı",
+        "Medine Vesikası",
+        "Hilfülfudul"
+       ],
+       "dogru": 2,
+       "bilgi": "Medine Vesikası'na göre herkes dinini özgürce yaşayacak, şehre saldırı olursa herkes birlikte savunacaktı.",
+       "sayfa": 96
+      },
+      {
+       "id": "3.3-03",
+       "tur": "bosluk",
+       "cumle": "Kişinin nefsiyle ve içinden geçen kötü düşüncelerle verdiği mücadeleye ___ denir.",
+       "cevap": "mücahede",
+       "celdiriciler": [
+        "mukatele",
+        "irşat",
+        "şehadet"
+       ],
+       "bilgi": "Nefsini terbiye eden kişi istek ve arzularının esiri olmaktan kurtulur ve özgürleşir.",
+       "sayfa": 98
+      },
+      {
+       "id": "3.3-04",
+       "tur": "dy",
+       "ifade": "İslam düşüncesinde cephede düşmanla yapılan savaş büyük cihat, nefse karşı verilen mücadele küçük cihat olarak tarif edilir.",
+       "dogru": false,
+       "bilgi": "Cephede düşmanla yapılan savaş küçük cihat, nefse karşı verilen mücadele büyük cihat olarak tarif edilmiştir.",
+       "sayfa": 98
+      },
+      {
+       "id": "3.3-05",
+       "tur": "secmeli",
+       "soru": "Cihadın bir türü olan ve zorunlu hâllerde başvurulan savaş Kur'an-ı Kerim'de hangi kelimeyle ifade edilir?",
+       "secenekler": [
+        "Kıtal-mukatele",
+        "Mücahede",
+        "İrşat",
+        "Silm"
+       ],
+       "dogru": 0,
+       "bilgi": "Hz. Peygamber düşmanla karşılaşmayı temenni etmemeyi öğütleyerek savaşı son çare olarak göstermiştir.",
+       "sayfa": 97
+      },
+      {
+       "id": "3.3-06",
+       "tur": "eslestir",
+       "yonerge": "Cihat kapsamındaki kavramları anlamlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "İrşat",
+         "Dinî emirleri öğrenip yaşamak ve öğretmek"
+        ],
+        [
+         "Emir bilmaruf",
+         "İyiliği emretmek"
+        ],
+        [
+         "Nehiy anilmünker",
+         "Kötülükten sakındırmak"
+        ],
+        [
+         "Şehadet",
+         "Kutsal değerler uğruna hayatını feda etmek"
+        ]
+       ],
+       "bilgi": "Cehd kökünden gelen cihat, bir işi başarmak için bütün imkânları kullanarak gayret sarf etmektir.",
+       "sayfa": 97
+      },
+      {
+       "id": "3.3-07",
+       "tur": "dy",
+       "ifade": "İslam âlimlerine göre savaşta ordu yetersiz kalırsa herkesin dinini ve vatanını savunmak için savaşması farzıayndır.",
+       "dogru": true,
+       "bilgi": "Âlimlere göre cihat normal şartlarda farzıkifaye, umumi seferberlik gerektiren bir saldırı hâlinde farzıayndır.",
+       "sayfa": 98
+      },
+      {
+       "id": "3.3-08",
+       "tur": "secmeli",
+       "soru": "Hadise göre bir kötülüğü yalnızca kalben hoş görmeyip kabullenmemek imanın hangi derecesidir?",
+       "secenekler": [
+        "En yüksek derecesi",
+        "Orta derecesi",
+        "En zayıf derecesi",
+        "Kemal derecesi"
+       ],
+       "dogru": 2,
+       "bilgi": "Hadise göre kötülük önce elle, buna güç yetmezse dille, o da olmazsa kalple değiştirilmeye çalışılmalıdır.",
+       "sayfa": 97
+      },
+      {
+       "id": "3.3-09",
+       "tur": "secmeli",
+       "soru": "Türk halkının 15 Temmuz 2016'da vatanı savunmak için verdiği mücadelenin yapıldığı gün hangi adla ilan edilmiştir?",
+       "secenekler": [
+        "18 Mart Şehitleri Anma Günü",
+        "15 Temmuz Demokrasi ve Millî Birlik Günü",
+        "19 Eylül Gaziler Günü",
+        "23 Nisan Ulusal Egemenlik Günü"
+       ],
+       "dogru": 1,
+       "bilgi": "Çanakkale Muharebeleri ve Millî Mücadele'deki vatan savunması da cihadın yakın zamandaki örneklerindendir.",
+       "sayfa": 97
+      },
+      {
+       "id": "3.3-10",
+       "tur": "secmeli",
+       "soru": "Fatih Sultan Mehmet'in 1463'te verdiği, can, mal ve kiliselerinin korunacağını ilan eden Bosna Fermanı kimlere yöneliktir?",
+       "secenekler": [
+        "Ortodoks Rumlara",
+        "Venedikli tüccarlara",
+        "Ermeni cemaatine",
+        "Bosnalı Fransiskenlere"
+       ],
+       "dogru": 3,
+       "bilgi": "Müslümanlar fethettikleri yerlerde insanların can, mal ve din özgürlüğü gibi temel haklarını korumuştur.",
+       "sayfa": 100
+      }
+     ]
+    },
+    {
+     "no": "3.4",
+     "ad": "Kur'an'dan Mesajlar",
+     "kartlar": [
+      {
+       "id": "3.4-01",
+       "tur": "eslestir",
+       "yonerge": "Nahl suresinin 90. ayetinde yasaklanan davranışları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Fahşâ",
+         "Edep, hayâ ve iffete aykırı söz ve davranış"
+        ],
+        [
+         "Münker",
+         "Aklın ve toplumun çirkin bulduğu davranış"
+        ],
+        [
+         "Bağy",
+         "Başkalarının haklarını çiğneyen zorbalık"
+        ]
+       ],
+       "bilgi": "Nahl suresinin 90. ayetinde hem bireye hem de topluma zarar veren tutum ve davranışlar yasaklanmıştır.",
+       "sayfa": 102
+      },
+      {
+       "id": "3.4-02",
+       "tur": "secmeli",
+       "soru": "Nahl suresinin 90. ayetinde emredilen değerler hangi seçenekte birlikte verilmiştir?",
+       "secenekler": [
+        "Sabır, şükür ve tevekkül",
+        "Adalet, ihsan ve akrabaya iyilik",
+        "Hicret, cihat ve infak",
+        "Namaz, oruç ve hac"
+       ],
+       "dogru": 1,
+       "bilgi": "Ayete göre sağlıklı bir toplumun oluşması için emredilen ahlaki ilkelerin başında adalet gelir.",
+       "sayfa": 102
+      },
+      {
+       "id": "3.4-03",
+       "tur": "bosluk",
+       "cumle": "Allah'a (cc) ihlasla ibadet etmek, başkasına iyilik etmek ve yapılan işi güzel yapmak anlamlarına gelen kavrama ___ denir.",
+       "cevap": "ihsan",
+       "celdiriciler": [
+        "takva",
+        "ihlas",
+        "adalet"
+       ],
+       "bilgi": "Hadiste ihsan, Allah'ı görür gibi ibadet etmek olarak tanımlanır.",
+       "sayfa": 102
+      },
+      {
+       "id": "3.4-04",
+       "tur": "secmeli",
+       "soru": "Nisa suresinin 58. ayeti nazil olduktan sonra Kâbe'nin anahtarı kime teslim edilmiştir?",
+       "secenekler": [
+        "Hz. Abbas",
+        "Hz. Ali",
+        "Osman bin Talha",
+        "Hz. Ömer"
+       ],
+       "dogru": 2,
+       "bilgi": "Hz. Abbas anahtarın kendisine verilmesini istemiş, ayetin inmesi üzerine anahtar yeniden Osman bin Talha'ya verilmiştir.",
+       "sayfa": 104
+      },
+      {
+       "id": "3.4-05",
+       "tur": "dy",
+       "ifade": "Nisa suresinin 58. ayeti, emanetlerin ehline verilmesini ve insanlar arasında adaletle hükmedilmesini emreder.",
+       "dogru": true,
+       "bilgi": "Emanetler ehline verildiği ve adalete riayet edildiği müddetçe toplumlar güçlenerek varlığını sürdürmüştür.",
+       "sayfa": 104
+      },
+      {
+       "id": "3.4-06",
+       "tur": "bosluk",
+       "cumle": "Bakara suresinin 208. ayetinde geçen ve Türkçeye barış olarak çevrilen ___ kavramı uzlaşma, teslimiyet ve itaat anlamlarına gelir.",
+       "cevap": "silm",
+       "celdiriciler": [
+        "salat",
+        "emanet",
+        "takva"
+       ],
+       "bilgi": "Bu kavram teslimiyet, itaat ve barış anlamlarını taşıdığı için birçok tefsirde İslam anlamında kullanılmıştır.",
+       "sayfa": 105
+      },
+      {
+       "id": "3.4-07",
+       "tur": "dy",
+       "ifade": "İslam'a göre kamu malları ve kişinin sahip olduğu ilim emanet kapsamında değildir.",
+       "dogru": false,
+       "bilgi": "İslam'a göre din, sahip olunan ilim, anlaşmalar, insana verilen nimetler ve kamu malları birer emanettir.",
+       "sayfa": 104
+      },
+      {
+       "id": "3.4-08",
+       "tur": "secmeli",
+       "soru": "Müfessirlere göre Bakara suresinin 208. ayetinde inananların yeniden İslam'a çağrılmasının sebebi nedir?",
+       "secenekler": [
+        "İnananların sayısının henüz az olması",
+        "Yeni bir ibadetin farz kılınmış olması",
+        "Kıble yönünün değiştirilmiş olması",
+        "Dinin gereklerini tam uygulamayanların olması"
+       ],
+       "dogru": 3,
+       "bilgi": "Allah (cc) inananlardan İslam'ın gereklerini eksiksiz yerine getirip şeytanın kışkırtmalarına uymamalarını ister.",
+       "sayfa": 106
+      },
+      {
+       "id": "3.4-09",
+       "tur": "secmeli",
+       "soru": "İslam kültüründe adalet ilkesi hangi anlamlarda kullanılır?",
+       "secenekler": [
+        "Eşitlik veya denge",
+        "Güç ve hâkimiyet",
+        "Bağış ve hibe",
+        "Sabır ve tahammül"
+       ],
+       "dogru": 0,
+       "bilgi": "Allah'ın (cc) emrettiği adalet, herkese ahlaki, sosyal, ekonomik ve kanuni haklarının hak ettiği ölçüde verilmesidir.",
+       "sayfa": 102
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "ad": "Din, Çevre ve Teknoloji",
+   "konular": [
+    {
+     "no": "4.1",
+     "ad": "İnsan, Çevre ve Ahlak",
+     "kartlar": [
+      {
+       "id": "4.1-01",
+       "tur": "secmeli",
+       "soru": "İslam'ın çevre ahlakında önemli bir yere sahip olan ilkeler hangi seçenekte birlikte verilmiştir?",
+       "secenekler": [
+        "Rekabet, kazanç, hız ve verim",
+        "Fıtrat, ölçü, denge ve bütünlük",
+        "Tüketim, üretim, sanayi ve ticaret",
+        "Güç, hâkimiyet, servet ve şöhret"
+       ],
+       "dogru": 1,
+       "bilgi": "Kur'an'a göre Allah (cc) her şeyi yaratmış ve yarattıklarını bir ölçüye göre takdir etmiştir.",
+       "sayfa": 118
+      },
+      {
+       "id": "4.1-02",
+       "tur": "dy",
+       "ifade": "Hadise göre kıyametin yarın kopacağını bilen kişi elindeki fidanı dikmekten vazgeçmelidir.",
+       "dogru": false,
+       "bilgi": "Hz. Peygamber \"Yarın kıyametin kopacağını bilseniz bile elinizdeki fidanı dikiniz.\" buyurarak tabiata karşı sorumluluğu hatırlatmıştır.",
+       "sayfa": 118
+      },
+      {
+       "id": "4.1-03",
+       "tur": "bosluk",
+       "cumle": "Kişi başına düşen yıllık kullanılabilir tatlı su miktarı yaklaşık 1.555 m³ olan Türkiye, su ___ yaşayan ülkeler arasında yer alır.",
+       "cevap": "stresi",
+       "celdiriciler": [
+        "kıtlığı",
+        "zenginliği",
+        "bolluğu"
+       ],
+       "bilgi": "Yılda kişi başına 1.000 m³'ten az su kıtlığı, 1.000-1.700 m³ arası su stresi, 1.700 m³'ten fazlası su zenginliği sayılır.",
+       "sayfa": 119
+      },
+      {
+       "id": "4.1-04",
+       "tur": "secmeli",
+       "soru": "Hz. Peygamber'in \"… bizi sever, biz de onu severiz.\" diyerek muhabbetini dile getirdiği dağ hangisidir?",
+       "secenekler": [
+        "Hira",
+        "Sevr",
+        "Uhud",
+        "Arafat"
+       ],
+       "dogru": 2,
+       "bilgi": "Hz. Peygamber'in tabiata bakışı ibret, hikmet, rahmet ve tefekkür merkezlidir.",
+       "sayfa": 121
+      },
+      {
+       "id": "4.1-05",
+       "tur": "dy",
+       "ifade": "Hz. Peygamber Mekke ve Medine'de harem bölgesi ilan ederek bir bakıma doğal koruma alanları oluşturmuştur.",
+       "dogru": true,
+       "bilgi": "Hz. Peygamber akan bir nehirden abdest alırken bile suyun israf edilmemesini emretmiştir.",
+       "sayfa": 121
+      },
+      {
+       "id": "4.1-06",
+       "tur": "secmeli",
+       "soru": "Hz. Peygamber'in \"Bu dilsiz hayvanlar hakkında Allah'tan korkun.\" uyarısı neyi vurgular?",
+       "secenekler": [
+        "Hayvanların yalnızca kurban için beslenmesini",
+        "Bütün canlılara merhametli olmayı",
+        "Evcil hayvan beslenmemesini",
+        "Hayvancılıkla geçinmeyi"
+       ],
+       "dogru": 1,
+       "bilgi": "İslam'a göre çevre, insan için merhamet ve muhabbet vesilesidir.",
+       "sayfa": 121
+      },
+      {
+       "id": "4.1-07",
+       "tur": "eslestir",
+       "yonerge": "Çevre sorunlarını başlıca sebepleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Hava kirliliği",
+         "Egzoz gazı ve baca dumanı"
+        ],
+        [
+         "Su kirliliği",
+         "Endüstriyel atıklar ve petrol sızıntıları"
+        ],
+        [
+         "Toprak kirliliği",
+         "Kimyasal gübre ve ilaçların bilinçsiz kullanımı"
+        ],
+        [
+         "Biyoçeşitliliğin azalması",
+         "Aşırı avlanma ve yaşam alanlarının tahribi"
+        ]
+       ],
+       "bilgi": "Fosil yakıt kullanımı, sanayi faaliyetleri ve ormanların yok edilmesi sera gazlarını artırarak küresel ısınmaya yol açar.",
+       "sayfa": 123
+      },
+      {
+       "id": "4.1-08",
+       "tur": "bosluk",
+       "cumle": "İslam'ın çevre ahlakına göre insan, dünyanın sahibi değil ___ olduğunu unutmamalıdır.",
+       "cevap": "emanetçisi",
+       "celdiriciler": [
+        "hâkimi",
+        "mirasçısı",
+        "tüketicisi"
+       ],
+       "bilgi": "Çevreyle ilgili hassasiyet, Allah'ın (cc) emanetine riayet ve gelecek nesillerin hakkını teslim etmektir.",
+       "sayfa": 121
+      },
+      {
+       "id": "4.1-09",
+       "tur": "dy",
+       "ifade": "Çevre sorunlarının büyük kısmı doğal süreçlerden kaynaklanır; bu sorunlarda insanın payı yoktur.",
+       "dogru": false,
+       "bilgi": "Çevre sorunları büyük oranda insan kaynaklıdır ve bu sorunların en aza indirilmesi yine insanın elindedir.",
+       "sayfa": 119
+      }
+     ]
+    },
+    {
+     "no": "4.2",
+     "ad": "Teknoloji ve Ahlak",
+     "kartlar": [
+      {
+       "id": "4.2-01",
+       "tur": "bosluk",
+       "cumle": "Araç gereçler ve bunlara ilişkin bilgilerin tümünü ifade eden teknoloji, Türkçede ___ olarak adlandırılır.",
+       "cevap": "uygulayım bilimi",
+       "celdiriciler": [
+        "yöntem bilimi",
+        "doğa bilimi",
+        "araç bilgisi"
+       ],
+       "bilgi": "Teknoloji iletişim, bilgiye ulaşma, ulaşım ve ekonomi gibi alanlarda insana kolaylık sağlar.",
+       "sayfa": 125
+      },
+      {
+       "id": "4.2-02",
+       "tur": "secmeli",
+       "soru": "Teknoloji alanında uyulması gereken başlıca ahlaki kurallardan biri olan ve kişisel verilerin gizli tutulmasını gerektiren ilke hangisidir?",
+       "secenekler": [
+        "Verimlilik",
+        "Rekabet",
+        "Mahremiyet",
+        "Hız"
+       ],
+       "dogru": 2,
+       "bilgi": "Kur'an'daki \"Gizlilikleri araştırmayın, birbirinizin gıybetini yapmayın…\" emri sanal ortamlar için de geçerlidir.",
+       "sayfa": 127
+      },
+      {
+       "id": "4.2-03",
+       "tur": "dy",
+       "ifade": "İslam'a göre yalan, iftira ve müstehcenlik günlük hayatta haram olsa da sosyal medyada serbesttir.",
+       "dogru": false,
+       "bilgi": "Allah'ın (cc) ahlaki emir ve yasakları sosyal medya için de geçerlidir; insan sanal ortamdaki davranışlarından da sorumludur.",
+       "sayfa": 127
+      },
+      {
+       "id": "4.2-04",
+       "tur": "secmeli",
+       "soru": "6698 sayılı Kişisel Verilerin Korunması Kanunu'nun yürürlüğe girdiği ve okullarda \"Kişisel Verileri Koruma Günü\" olarak kutlanan gün hangisidir?",
+       "secenekler": [
+        "7 Nisan",
+        "22 Mart",
+        "5 Haziran",
+        "19 Eylül"
+       ],
+       "dogru": 0,
+       "bilgi": "Kanun 7 Nisan 2016'da yürürlüğe girmiş, okullarda Kişisel Verileri Koruma Kulübü kurulması kararlaştırılmıştır.",
+       "sayfa": 127
+      },
+      {
+       "id": "4.2-05",
+       "tur": "bosluk",
+       "cumle": "Hz. Peygamber \"Zandan sakının. Çünkü zan, ___ ta kendisidir.\" buyurarak mahremiyete uyulmasını istemiştir.",
+       "cevap": "yalanın",
+       "celdiriciler": [
+        "günahın",
+        "kibrin",
+        "gıybetin"
+       ],
+       "bilgi": "Hz. Peygamber birbirinin konuştuğuna kulak kabartmayı ve özel hâllerini araştırmayı da yasaklamıştır.",
+       "sayfa": 127
+      },
+      {
+       "id": "4.2-06",
+       "tur": "dy",
+       "ifade": "Teknoloji doğru kullanılmadığında bağımlılık, veri güvenliği ihlali ve sosyal izolasyon gibi olumsuzluklar ortaya çıkabilir.",
+       "dogru": true,
+       "bilgi": "Teknolojinin olumsuz etkilerini azaltmada hem geliştirenlerin hem de kullananların ahlaki ilkelere uyması önemlidir.",
+       "sayfa": 125
+      },
+      {
+       "id": "4.2-07",
+       "tur": "secmeli",
+       "soru": "Askerî tarihte gerçekleştirilen ilk ve tek nükleer saldırılar 1945'te hangi şehirlere yapılmıştır?",
+       "secenekler": [
+        "Tokyo ve Osaka",
+        "Pekin ve Şanghay",
+        "Hiroşima ve Nagazaki",
+        "Seul ve Pusan"
+       ],
+       "dogru": 2,
+       "bilgi": "Bu saldırılar teknolojinin kötüye kullanımının insanlığa verdiği zarara örnektir.",
+       "sayfa": 128
+      }
+     ]
+    },
+    {
+     "no": "4.3",
+     "ad": "Çevre ve Teknoloji",
+     "kartlar": [
+      {
+       "id": "4.3-01",
+       "tur": "secmeli",
+       "soru": "Tatlı su kaynaklarının önemine dikkat çekmek amacıyla etkinlikler düzenlenen Dünya Su Günü hangi tarihtedir?",
+       "secenekler": [
+        "7 Nisan",
+        "5 Haziran",
+        "19 Eylül",
+        "22 Mart"
+       ],
+       "dogru": 3,
+       "bilgi": "Doğal çevrenin korunmasına dikkat çekmek için 5-9 Haziran günlerini içeren hafta Türkiye Çevre Haftası olarak kutlanır.",
+       "sayfa": 130
+      },
+      {
+       "id": "4.3-02",
+       "tur": "bosluk",
+       "cumle": "Sanayi, enerji ve otomotiv sektörlerindeki gelişmeler atmosferdeki sera gazı miktarını artırarak küresel ___ yol açmaktadır.",
+       "cevap": "ısınmaya",
+       "celdiriciler": [
+        "soğumaya",
+        "nüfus artışına",
+        "göçe"
+       ],
+       "bilgi": "Küresel ısınma fırtına, sel, hortum ve orman yangını gibi afetlerin artmasına, deniz seviyesinin yükselmesine ve kuraklığa yol açar.",
+       "sayfa": 129
+      },
+      {
+       "id": "4.3-03",
+       "tur": "dy",
+       "ifade": "Hz. Peygamber, sebepsiz yere öldürülen bir serçenin bile kıyamet gününde davacı olacağını bildirmiştir.",
+       "dogru": true,
+       "bilgi": "Hz. Peygamber hayvanlara eziyet edilmesinin haram olduğunu vurgulamıştır.",
+       "sayfa": 130
+      },
+      {
+       "id": "4.3-04",
+       "tur": "secmeli",
+       "soru": "Hz. Peygamber'in harem bölgesi (koruma alanı) ilan ederek çevresindeki ağaçların kesilmesini yasakladığı şehir hangisidir?",
+       "secenekler": [
+        "Taif",
+        "Medine",
+        "Kudüs",
+        "Şam"
+       ],
+       "dogru": 1,
+       "bilgi": "Hz. Peygamber ashabına ağaç dikmenin öneminden bahsetmiştir.",
+       "sayfa": 130
+      },
+      {
+       "id": "4.3-05",
+       "tur": "dy",
+       "ifade": "Teknolojik gelişmeler kırsaldan kente göçü yavaşlatarak çarpık kentleşmenin önüne geçmiştir.",
+       "dogru": false,
+       "bilgi": "Teknolojinin sağladığı imkânlar kırsaldan kente göçü hızlandırmış, bu da çarpık kentleşmeye ve doğal yaşam alanlarının azalmasına yol açmıştır.",
+       "sayfa": 130
+      },
+      {
+       "id": "4.3-06",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi geçmişte Anadolu'da yaşayan ve ülkemizdeki nesli tamamen tükenen hayvanlardandır?",
+       "secenekler": [
+        "Boz ayı",
+        "Kurt",
+        "Çita",
+        "Yaban keçisi"
+       ],
+       "dogru": 2,
+       "bilgi": "Asya fili, yabani sığır, yaban eşeği, aslan, çita, kunduz, kaplan ve yılanboyun kuşunun ülkemizdeki nesli tükenmiştir.",
+       "sayfa": 129
+      },
+      {
+       "id": "4.3-07",
+       "tur": "eslestir",
+       "yonerge": "Teknolojiyle ilgili gelişmeleri çevreye etkileriyle eşleştir.",
+       "ciftler": [
+        [
+         "Küresel ısınma",
+         "Sel, kuraklık ve deniz seviyesinin yükselmesi"
+        ],
+        [
+         "Kırsaldan kente göç",
+         "Çarpık kentleşme"
+        ],
+        [
+         "Dijital alışveriş kolaylığı",
+         "Tüketim bağımlılığı"
+        ],
+        [
+         "Yenilenebilir enerji",
+         "Sera gazı emisyonunun düşmesi"
+        ]
+       ],
+       "bilgi": "Teknolojik gelişmeler bir yandan çevre sorunlarını artırırken çevre dostu ürünlerle bu sorunların azaltılmasına da katkı sağlar.",
+       "sayfa": 130
+      },
+      {
+       "id": "4.3-08",
+       "tur": "bosluk",
+       "cumle": "Kur'an-ı Kerim'de \"Islah edilmesinden sonra yeryüzünde ___ yapmayın…\" buyrulur.",
+       "cevap": "bozgunculuk",
+       "celdiriciler": [
+        "ticaret",
+        "yolculuk",
+        "tarım"
+       ],
+       "bilgi": "İslam, insanın sorumsuz davranarak diğer canlıların ve gelecek nesillerin hayatını tehlikeye atmasını yasaklar.",
+       "sayfa": 130
+      }
+     ]
+    },
+    {
+     "no": "4.4",
+     "ad": "Kur'an'dan Mesajlar",
+     "kartlar": [
+      {
+       "id": "4.4-01",
+       "tur": "bosluk",
+       "cumle": "Rum suresinin 41. ayetinde düzen ve dengenin bozulması anlamında kullanılan kavram ___ kavramıdır.",
+       "cevap": "fesat",
+       "celdiriciler": [
+        "fahşâ",
+        "bağy",
+        "münker"
+       ],
+       "bilgi": "Rum suresinin 41. ayeti, insanların yanlış uygulamaları sonucunda karada ve denizde olumsuzluklar yaşandığına dikkat çeker.",
+       "sayfa": 135
+      },
+      {
+       "id": "4.4-02",
+       "tur": "secmeli",
+       "soru": "Rum suresinin 41. ayetine göre karada ve denizde düzenin bozulmasının sebebi nedir?",
+       "secenekler": [
+        "Gök cisimlerinin yörüngelerindeki hareketler",
+        "Mevsimlerin her yıl değişmesi",
+        "İnsanların kendi elleriyle yaptıkları",
+        "Hayvan nüfusunun hızla çoğalması"
+       ],
+       "dogru": 2,
+       "bilgi": "Ayete göre Allah (cc), dönüş yapsınlar diye insanlara işlediklerinin bir kısmını tattırır.",
+       "sayfa": 135
+      },
+      {
+       "id": "4.4-03",
+       "tur": "dy",
+       "ifade": "Rivayetlere göre Rum suresinin 41. ayeti, dünyanın çeşitli bölgelerindeki felaket haberleri Hicaz'a ulaştığında Hicaz halkına uyarı amacıyla inmiştir.",
+       "dogru": true,
+       "bilgi": "Dünyada yaşanan çevre sorunları insana sorumluluklarını hatırlatan bir uyarı niteliği taşır.",
+       "sayfa": 135
+      },
+      {
+       "id": "4.4-04",
+       "tur": "secmeli",
+       "soru": "Sözlükte \"iki şeyi birbirinden ayıran sınır, engel\" anlamına gelen ve Kızıldeniz'in doğusundaki bölgeye verilen isim hangisidir?",
+       "secenekler": [
+        "Hicaz",
+        "Necid",
+        "Yemen",
+        "Asîr"
+       ],
+       "dogru": 0,
+       "bilgi": "Hicaz kuzeyde Akabe'den güneyde Yemen sınırındaki Asîr'e, doğuda Necid çöllerinden Irak'a kadar uzanır.",
+       "sayfa": 135
+      },
+      {
+       "id": "4.4-05",
+       "tur": "dy",
+       "ifade": "Fesat kavramı Kur'an-ı Kerim'de yalnızca bir yerde geçer.",
+       "dogru": false,
+       "bilgi": "Fesat kavramı Kur'an-ı Kerim'de on bir yerde geçer.",
+       "sayfa": 135
+      },
+      {
+       "id": "4.4-06",
+       "tur": "secmeli",
+       "soru": "Rum suresinin 41. ayetindeki \"karada ve denizde bozulmaların ortaya çıkması\" ifadesi aşağıdakilerden hangisiyle yorumlanmamıştır?",
+       "secenekler": [
+        "Kasırgaların artması",
+        "Arazilerin çoraklaşması",
+        "Tatlı suların tuzlu suya dönüşmesi",
+        "Gök cisimlerinin yörüngeden çıkması"
+       ],
+       "dogru": 3,
+       "bilgi": "İfade ayrıca kaynak sularının azalması, kıtlık, yangın, sel ve geçim sıkıntısının artması şeklinde de yorumlanmıştır.",
+       "sayfa": 135
+      },
+      {
+       "id": "4.4-07",
+       "tur": "bosluk",
+       "cumle": "Fesat kavramı sözlükte bozulmak, çürümek ve ___ uzaklaşmak anlamlarına gelir.",
+       "cevap": "sağduyudan",
+       "celdiriciler": [
+        "vatandan",
+        "aileden",
+        "ibadetten"
+       ],
+       "bilgi": "Orta yoldan uzaklaşmak ve başkasının malına haksız yere el koymak da fesat kavramına verilen anlamlar arasındadır.",
+       "sayfa": 135
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "ad": "İslam Düşüncesinde İtikadi-Siyasi ve Fıkhi Yorumlar",
+   "konular": [
+    {
+     "no": "5.1",
+     "ad": "Dinî Yorum Farklılıklarının Sebepleri",
+     "kartlar": [
+      {
+       "id": "5.1-01",
+       "tur": "eslestir",
+       "yonerge": "Dinî yorum farklılıklarının sebeplerini örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "İnsan kaynaklı sebepler",
+         "Kişilerin eğitim ve bilgi düzeyinin farklı olması"
+        ],
+        [
+         "Siyasi sebepler",
+         "Halifelik tartışmaları, Cemel ve Sıffin"
+        ],
+        [
+         "Dinî metinlerden kaynaklanan sebepler",
+         "Bazı ayetlerin farklı anlamlara açık olması"
+        ],
+        [
+         "Coğrafi ve kültürel sebepler",
+         "Endonezya'da Câvî alfabesinin ortaya çıkması"
+        ]
+       ],
+       "bilgi": "Dinî yorum farklılıklarının ortaya çıkmasında ilk sırada insan kaynaklı sebepler yer alır.",
+       "sayfa": 147
+      },
+      {
+       "id": "5.1-02",
+       "tur": "dy",
+       "ifade": "Din tek, evrensel ve bağlayıcı iken dinî yorumlar birden fazla olabilir, değişebilir ve yalnızca kabul edenleri bağlar.",
+       "dogru": true,
+       "bilgi": "Dinî yorum, insanların tarihsel süreçte dinî metinleri esas alarak ortaya koydukları görüş, düşünce ve uygulamalardır.",
+       "sayfa": 147
+      },
+      {
+       "id": "5.1-03",
+       "tur": "bosluk",
+       "cumle": "Kur'an-ı Kerim'in çoğunluğunu oluşturan, anlamı açık ve okunduğunda manası hemen anlaşılan ayetlere ___ ayetler denir.",
+       "cevap": "muhkem",
+       "celdiriciler": [
+        "müteşabih",
+        "mütevatir",
+        "mensuh"
+       ],
+       "bilgi": "Müteşabih ayetler birden fazla anlam içerebilen, anlaşılması için araştırma ve düşünmeye ihtiyaç duyulan ayetlerdir.",
+       "sayfa": 148
+      },
+      {
+       "id": "5.1-04",
+       "tur": "secmeli",
+       "soru": "\"Ey insanlar! … Rabbinize ibadet edin…\" ayetine dayanarak Müslüman olmayanların da ibadetle sorumlu olduğunu söyleyen âlim kimdir?",
+       "secenekler": [
+        "İmam Matüridi",
+        "İmam Eşari",
+        "Ebu Hanife",
+        "İmam Malik"
+       ],
+       "dogru": 1,
+       "bilgi": "İmam Matüridi ise aynı ayetten ibadetin yalnızca Müslümanlar için emredildiği sonucunu çıkarmıştır.",
+       "sayfa": 148
+      },
+      {
+       "id": "5.1-05",
+       "tur": "secmeli",
+       "soru": "Hz. Osman zamanında başlayıp Hz. Ali Dönemi'nde artan ve farklı dinî yorumların doğuşunda etkili olan olaylar hangi seçenekte verilmiştir?",
+       "secenekler": [
+        "Bedir Savaşı ve Uhud Savaşı",
+        "Hendek Savaşı ve Hayber'in fethi",
+        "Cemel Vakası ve Sıffin Savaşı",
+        "Mute Savaşı ve Tebük Seferi"
+       ],
+       "dogru": 2,
+       "bilgi": "Hz. Peygamber'in vefatından sonra kimin halife olacağına dair tartışmalar farklı dinî yorumlara zemin hazırlamıştır.",
+       "sayfa": 147
+      },
+      {
+       "id": "5.1-06",
+       "tur": "bosluk",
+       "cumle": "Endonezya'da Arap alfabesine beş yeni harf eklenmesiyle bu bölgeye özgü ___ alfabesi ortaya çıkmıştır.",
+       "cevap": "Câvî",
+       "celdiriciler": [
+        "Kiril",
+        "Uygur",
+        "Göktürk"
+       ],
+       "bilgi": "Endonezya'daki camiler de genellikle Hint ve Çin mimari özellikleri taşır.",
+       "sayfa": 149
+      },
+      {
+       "id": "5.1-07",
+       "tur": "dy",
+       "ifade": "Hz. Peygamber döneminde Müslümanlar arasında dinin anlaşılmasına dair büyük çaplı yorum farklılıkları ortaya çıkmıştır.",
+       "dogru": false,
+       "bilgi": "Sahabiler anlayamadıkları konularda Hz. Peygamber'e başvurduğu için bu dönemde büyük çaplı yorum farklılıkları ortaya çıkmamıştır.",
+       "sayfa": 148
+      },
+      {
+       "id": "5.1-08",
+       "tur": "secmeli",
+       "soru": "Cezayir, Fas ve Tunus'ta Malikiliğin yaygınlaşmasında etkili olan etken nedir?",
+       "secenekler": [
+        "İlim merkezlerinin Medine olması",
+        "Ebu Hanife'nin orada yaşamış olması",
+        "Bölgenin Irak'a komşu olması",
+        "Kıyasın orada yasaklanmış olması"
+       ],
+       "dogru": 0,
+       "bilgi": "Irak bölgesinde yetişen Ebu Hanife'nin çözümleri ve öğrencileri ise Hanefiliğin Hicaz dışında yayılmasında etkili olmuştur.",
+       "sayfa": 149
+      },
+      {
+       "id": "5.1-09",
+       "tur": "secmeli",
+       "soru": "Araf suresinin 143. ayeti ile Kıyamet suresinin 22-23. ayetlerindeki ifadeler hangi konuda farklı yorumların ortaya çıkmasına zemin hazırlamıştır?",
+       "secenekler": [
+        "Kaderin mahiyeti",
+        "Meleklerin yaratılışı",
+        "Ahiret hayatının aşamaları",
+        "Allah'ın (cc) görülebilmesi"
+       ],
+       "dogru": 3,
+       "bilgi": "Kur'an'da farklı anlamları olan kelimelerin bulunması ve bir konunun farklı bağlamlarda işlenmesi yorum farklılıklarına yol açar.",
+       "sayfa": 148
+      }
+     ]
+    },
+    {
+     "no": "5.2",
+     "ad": "İslam Düşüncesinde İtikadi-Siyasi ve Fıkhi Yorumlar",
+     "kartlar": [
+      {
+       "id": "5.2-01",
+       "tur": "secmeli",
+       "soru": "\"Ehlisünnet\" tabirini ilk defa kullanan kişi kimdir?",
+       "secenekler": [
+        "Ebu Hanife",
+        "İmam Eşari",
+        "Hasan Basri",
+        "İmam Malik"
+       ],
+       "dogru": 2,
+       "bilgi": "Ehlisünnet hicri 4. asırdan itibaren yaygınlaşmıştır; bugün Müslümanların %90'ından fazlası bu görüşü benimser.",
+       "sayfa": 152
+      },
+      {
+       "id": "5.2-02",
+       "tur": "bosluk",
+       "cumle": "Sözlükte \"gidilecek yer ve yol\" anlamına gelen ve dinin insanlar tarafından yorumlanış biçimini ifade eden kavrama ___ denir.",
+       "cevap": "mezhep",
+       "celdiriciler": [
+        "tevil",
+        "itikat",
+        "fıkıh"
+       ],
+       "bilgi": "Mezhepler yeni bir din değildir; hiçbir mezhep Kur'an ve sünnete aykırı olamaz.",
+       "sayfa": 152
+      },
+      {
+       "id": "5.2-03",
+       "tur": "eslestir",
+       "yonerge": "Dinî yorumlarla ilgili kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "İtikat",
+         "İnanılması gereken temel esasların bütünü"
+        ],
+        [
+         "Fıkıh",
+         "Ameli hükümleri ayrıntılı delilleriyle bilmek"
+        ],
+        [
+         "Tevil",
+         "Muhtemel anlamlardan birini delile dayanarak tercih etmek"
+        ],
+        [
+         "Müçtehit",
+         "Yeni konulara Kur'an ve sünnet çerçevesinde çözüm üreten âlim"
+        ]
+       ],
+       "bilgi": "İtikat sözlükte \"düğüm atmışçasına bağlanmak, gönülden inanmak\", fıkıh ise \"derin anlayış, kavrayış\" anlamına gelir.",
+       "sayfa": 152
+      },
+      {
+       "id": "5.2-04",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi Ehlisünnet'e bağlı itikadi mezheplerden biridir?",
+       "secenekler": [
+        "Hanbelilik",
+        "Matüridilik",
+        "Caferilik",
+        "Şafiilik"
+       ],
+       "dogru": 1,
+       "bilgi": "Ehlisünnet'in itikadi mezhepleri Eşarilik ve Matüridilik; fıkhi mezhepleri Hanefilik, Malikilik, Şafiilik ve Hanbeliliktir.",
+       "sayfa": 153
+      },
+      {
+       "id": "5.2-05",
+       "tur": "eslestir",
+       "yonerge": "Fıkhi mezhep imamlarını eserleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Ebu Hanife",
+         "el-Fıkhü'l-Ekber"
+        ],
+        [
+         "İmam Malik",
+         "el-Muvatta"
+        ],
+        [
+         "İmam Şafii",
+         "er-Risale"
+        ],
+        [
+         "Ahmed bin Hanbel",
+         "el-Müsned"
+        ]
+       ],
+       "bilgi": "İmam Malik meselelerin çözümünde Medine'de yaşayan sahabilerin uygulamalarına da yer vermiştir.",
+       "sayfa": 156
+      },
+      {
+       "id": "5.2-06",
+       "tur": "secmeli",
+       "soru": "Semerkant'ın Matürit kasabasında doğan ve eserlerinden Kitâbü't-Tevhîd ile Te'vîlâtü'l-Kur'ân günümüze ulaşan âlim kimdir?",
+       "secenekler": [
+        "Ebu Mansur Matüridi",
+        "Ebülhasan Eşari",
+        "Pezdevi",
+        "Hasan Basri"
+       ],
+       "dogru": 0,
+       "bilgi": "Matüridi akılla nakil arasında denge kurmuştur; Matüridi âlim Pezdevi'nin öğrencilerine Eşari'nin eserlerini okutması farklı yorumlara saygının örneğidir.",
+       "sayfa": 154
+      },
+      {
+       "id": "5.2-07",
+       "tur": "dy",
+       "ifade": "Basra'da doğan İmam Eşari, inanç meselelerinde akli ve naklî delilleri uzlaştırmış ve bu tutumu görüşlerinin kısa sürede yayılmasını sağlamıştır.",
+       "dogru": true,
+       "bilgi": "Eşari'nin günümüze ulaşan eserleri arasında Makâlâtü'l-İslâmiyyîn, el-İbâne ve el-Lüma bulunur.",
+       "sayfa": 154
+      },
+      {
+       "id": "5.2-08",
+       "tur": "bosluk",
+       "cumle": "Fıkıh alanındaki görüşleri Müslümanların çoğunca benimsenen Ebu Hanife'ye, en büyük imam anlamında ___ lakabı verilmiştir.",
+       "cevap": "İmam-ı Azam",
+       "celdiriciler": [
+        "Hüccetü'l-İslam",
+        "Şeyhülislam",
+        "İmamü'l-Haremeyn"
+       ],
+       "bilgi": "Asıl adı Numan bin Sabit olan Ebu Hanife Kufe'de doğmuş, Bağdat'ta vefat etmiştir.",
+       "sayfa": 155
+      },
+      {
+       "id": "5.2-09",
+       "tur": "secmeli",
+       "soru": "Hanefi mezhebinde kullanılan ve \"zorluğu kaldırıp kolaylığı benimseme\" anlamına gelen metot hangisidir?",
+       "secenekler": [
+        "İcma",
+        "Tevil",
+        "Kıyas",
+        "İstihsan"
+       ],
+       "dogru": 3,
+       "bilgi": "Hanefi mezhebinde sırasıyla Kur'an, sünnet ve sahabe görüşlerine başvurulur; örf ve kıyas da kullanılır.",
+       "sayfa": 155
+      },
+      {
+       "id": "5.2-10",
+       "tur": "dy",
+       "ifade": "Hanbeli mezhebinde diğer fıkhi mezheplere oranla kıyas metoduna daha çok yer verilir.",
+       "dogru": false,
+       "bilgi": "Hanbeli mezhebinde Kur'an, sünnet ve sahabe görüşleri öne çıkar; kıyasa diğer mezheplere göre daha az yer verilir.",
+       "sayfa": 156
+      },
+      {
+       "id": "5.2-11",
+       "tur": "secmeli",
+       "soru": "Hz. Muhammed'in (sav) vefatından sonra halifenin Hz. Ali olması gerektiğini benimseyen ve On İki İmam inancını savunan mezhep hangisidir?",
+       "secenekler": [
+        "Eşarilik",
+        "Malikilik",
+        "Şia",
+        "Matüridilik"
+       ],
+       "dogru": 2,
+       "bilgi": "Şia'ya göre Hz. Ali'nin soyundan gelen imamlar toplumun meşru liderleridir; muharrem ayı ve Aşure Günü bu mezhepte önemlidir.",
+       "sayfa": 157
+      },
+      {
+       "id": "5.2-12",
+       "tur": "bosluk",
+       "cumle": "Şia'nın fıkhi mezhebi olan Caferilik, on iki imamın altıncısı olan ___ görüşleri etrafında şekillenmiştir.",
+       "cevap": "Cafer Sadık'ın",
+       "celdiriciler": [
+        "Musa Kâzım'ın",
+        "Ali er-Rıza'nın",
+        "Muhammed el-Bakır'ın"
+       ],
+       "bilgi": "Caferilik özellikle İran, Irak, Bahreyn ve Lübnan'da yaygındır; Türkiye'de de mensupları bulunur.",
+       "sayfa": 157
+      },
+      {
+       "id": "5.2-13",
+       "tur": "secmeli",
+       "soru": "Şafii mezhebinde fıkhi bir konuda hüküm verilirken takip edilen kaynak sıralaması hangisidir?",
+       "secenekler": [
+        "Kur'an, sünnet, icma, kıyas",
+        "Kur'an, kıyas, sünnet, icma",
+        "Sünnet, Kur'an, örf, kıyas",
+        "Kur'an, örf, istihsan, icma"
+       ],
+       "dogru": 0,
+       "bilgi": "Gazze'de doğup Mısır'da vefat eden İmam Şafii'nin er-Risale adlı eseri fıkıh usulünün temel kaynaklarındandır.",
+       "sayfa": 156
+      }
+     ]
+    },
+    {
+     "no": "5.3",
+     "ad": "Kur'an'dan Mesajlar",
+     "kartlar": [
+      {
+       "id": "5.3-01",
+       "tur": "secmeli",
+       "soru": "Kaynaklara göre Hucurat suresinin 13. ayeti hangi olay üzerine inmiştir?",
+       "secenekler": [
+        "Kâbe'nin anahtarının kime verileceğinin tartışılması",
+        "Ezan okuyan Bilal Habeşi'nin renginden dolayı küçümsenmesi",
+        "Medine Vesikası'nın hazırlanması",
+        "Hz. Ömer'in ganimet kumaşından elbise giymesi"
+       ],
+       "dogru": 1,
+       "bilgi": "Olay Mekke'nin fethinden sonra, Hz. Peygamber'in ezan okuması için Bilal Habeşi'yi görevlendirmesi üzerine yaşanmıştır.",
+       "sayfa": 161
+      },
+      {
+       "id": "5.3-02",
+       "tur": "bosluk",
+       "cumle": "Hucurat suresinin 13. ayetinde insanların kavim ve kabilelere ayrılmasının sebebi, \"birbirini tanıma, tanışma\" anlamına gelen ___ kavramıyla ifade edilir.",
+       "cevap": "tearüf",
+       "celdiriciler": [
+        "asabiyet",
+        "takva",
+        "silm"
+       ],
+       "bilgi": "Kabile ve milletlere bölünmek kavga etmek için değil, tanışmak, yardımlaşmak ve dayanışmak içindir.",
+       "sayfa": 162
+      },
+      {
+       "id": "5.3-03",
+       "tur": "dy",
+       "ifade": "Hucurat suresinin 13. ayetinde \"Ey insanlar!\" hitabının kullanılması, ayetin mesajının tüm insanlığı kapsadığı şeklinde yorumlanır.",
+       "dogru": true,
+       "bilgi": "Surenin ilk ayetlerinde ise \"Ey iman edenler!\" hitabı kullanılmıştır.",
+       "sayfa": 162
+      },
+      {
+       "id": "5.3-04",
+       "tur": "bosluk",
+       "cumle": "Aynı soydan gelenlerin, haklı ya da haksız olduklarına bakmadan bağlı oldukları grubu körü körüne savunmasına ___ denir.",
+       "cevap": "asabiyet",
+       "celdiriciler": [
+        "tearüf",
+        "uhuvvet",
+        "takva"
+       ],
+       "bilgi": "İslam asabiyetin ve sınıfsal ayrımların yaygın olduğu bir toplumdan barış içinde yaşamaya imkân veren yeni bir toplum kültürü oluşturmuştur.",
+       "sayfa": 162
+      },
+      {
+       "id": "5.3-05",
+       "tur": "dy",
+       "ifade": "Hucurat suresinin 13. ayetine göre insanın doğuştan getirdiği ırk ve soy gibi özellikler Allah (cc) katında üstünlük vesilesidir.",
+       "dogru": false,
+       "bilgi": "Ayete göre doğuştan gelen özellikler üstünlük vesilesi değildir; asıl üstünlük takvadadır.",
+       "sayfa": 162
+      },
+      {
+       "id": "5.3-06",
+       "tur": "secmeli",
+       "soru": "Hucurat suresinin 13. ayetine göre Allah (cc) katında en değerli olan kimdir?",
+       "secenekler": [
+        "En zengin olan",
+        "Soyu en asil olan",
+        "En kalabalık kabileye mensup olan",
+        "O'na karşı gelmekten en çok sakınan"
+       ],
+       "dogru": 3,
+       "bilgi": "Takva, Allah'a (cc) karşı sorumluluk bilinciyle hareket etmek ve O'na karşı gelmekten sakınmaktır.",
+       "sayfa": 162
+      },
+      {
+       "id": "5.3-07",
+       "tur": "secmeli",
+       "soru": "Anadolu'yu yurt edinerek gayrimüslimlerin can ve mal hürriyetini korumaya özen gösteren devlet hangisidir?",
+       "secenekler": [
+        "Selçuklular",
+        "Emeviler",
+        "Abbasiler",
+        "Memlükler"
+       ],
+       "dogru": 0,
+       "bilgi": "Osmanlı Devleti'nin ılımlı politikaları sayesinde de farklı inanç ve kültürdeki topluluklar asırlarca barış içinde yaşamıştır.",
+       "sayfa": 162
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2486 @@
+{
+ "kitap": "biyoloji-10",
+ "ders": "biyoloji",
+ "sinif": 10,
+ "baslik": "Biyoloji Dersi 10. Sınıf Ders Kitabı",
+ "sayfaUrl": "https://tymm.meb.gov.tr/kitap/71/biyoloji-dersi-10sinif-ders-kitabi",
+ "pdfUrl": "https://tymm.meb.gov.tr/assets/pdf/biyoloji-dersi-10sinif-ders-kitabi_20261013_171142_303.pdf",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Enerji",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Canlılık İçin Enerjinin Önemi",
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "dy",
+       "ifade": "ATP hücre zarından geçebildiği için bir hücreden diğerine aktarılabilir.",
+       "dogru": false,
+       "bilgi": "ATP hücre zarından geçemez ve depolanmaz; her hücre ihtiyaç duyduğu ATP'yi kendi içinde sürekli üretip tüketir.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-02",
+       "tur": "secmeli",
+       "soru": "Tüm canlılarda ortak enerji molekülü olan ATP'nin yapısında hangileri bulunur?",
+       "secenekler": [
+        "Adenin, deoksiriboz ve üç fosfat",
+        "Guanin, riboz ve iki fosfat",
+        "Adenin, riboz ve üç fosfat",
+        "Adenin, glikoz ve üç fosfat"
+       ],
+       "dogru": 2,
+       "bilgi": "Nükleotit yapılı ATP; adenin bazı, riboz şekeri ve üç fosfat grubundan oluşur.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-03",
+       "tur": "bosluk",
+       "cumle": "ADP molekülüne enerji ve inorganik fosfat eklenerek ATP sentezlenmesine ___ denir.",
+       "cevap": "fosforilasyon",
+       "celdiriciler": [
+        "defosforilasyon",
+        "fotoliz",
+        "dehidrasyon"
+       ],
+       "bilgi": "Fosforilasyonda su açığa çıkar; ATP'nin hidrolizle fosfat kaybederek enerji vermesi ise defosforilasyondur.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1-04",
+       "tur": "eslestir",
+       "yonerge": "ATP molekülündeki bağları bulundukları yerle eşleştir.",
+       "ciftler": [
+        [
+         "Glikozit bağı",
+         "Adenin ile riboz arasında"
+        ],
+        [
+         "Ester bağı",
+         "Riboz ile fosfat grubu arasında"
+        ],
+        [
+         "Fosfat bağı",
+         "Fosfat grupları arasında"
+        ]
+       ],
+       "bilgi": "ATP'nin fosfatları arasındaki bağlar hidroliz edildiğinde ADP, inorganik fosfat ve serbest enerji açığa çıkar.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-05",
+       "tur": "secmeli",
+       "soru": "Gerçekleşmesi sırasında enerjinin açığa çıktığı tepkimelere ne ad verilir?",
+       "secenekler": [
+        "Ekzergonik tepkime",
+        "Endergonik tepkime",
+        "Fosforilasyon",
+        "Anabolik tepkime"
+       ],
+       "dogru": 0,
+       "bilgi": "Enerji veren tepkimeler ekzergonik, enerji alan tepkimeler endergoniktir.",
+       "sayfa": 19
+      },
+      {
+       "tur": "secmeli",
+       "soru": "Hücrede gerçekleşen yıkım ve yapım tepkimeleri enerji açısından genellikle nasıl sınıflandırılır?",
+       "secenekler": [
+        "Yıkım endergonik, yapım ekzergoniktir.",
+        "Her ikisi de ekzergoniktir.",
+        "Her ikisi de endergoniktir.",
+        "Yıkım ekzergonik, yapım endergoniktir."
+       ],
+       "dogru": 3,
+       "bilgi": "Metabolik olaylarda enerji açığa çıkaran ve enerji kullanan tepkimeler birlikte yürütülür.",
+       "sayfa": 19,
+       "id": "1.1-06"
+      },
+      {
+       "id": "1.1-07",
+       "tur": "bosluk",
+       "cumle": "Adenin bazına riboz şekeri bağlanmasıyla ___ molekülü oluşur.",
+       "cevap": "adenozin",
+       "celdiriciler": [
+        "AMP",
+        "ADP",
+        "deoksiriboz"
+       ],
+       "bilgi": "Adenozine bir fosfat eklenince AMP, iki fosfat eklenince ADP, üç fosfat eklenince ATP oluşur.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1-08",
+       "tur": "secmeli",
+       "soru": "ATP molekülünü RNA'daki adenin nükleotidinden ayıran özellik nedir?",
+       "secenekler": [
+        "Riboz yerine deoksiriboz şekeri taşıması",
+        "Adenin yerine guanin taşıması",
+        "Hiç fosfat grubu taşımaması",
+        "Bir yerine üç fosfat grubu taşıması"
+       ],
+       "dogru": 3,
+       "bilgi": "ATP yapı olarak RNA'daki adenin nükleotidine benzer; farkı üç fosfat grubu taşımasıdır.",
+       "sayfa": 19
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "Işık Enerjisi Kullanılarak Besin Sentezi (Fotosentez)",
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "secmeli",
+       "soru": "Organik madde sentezi sırasında enerjisini ışıktan sağlayan canlılara ne ad verilir?",
+       "secenekler": [
+        "Kemoototrof",
+        "Fotoototrof",
+        "Heterotrof",
+        "Ayrıştırıcı"
+       ],
+       "dogru": 1,
+       "bilgi": "Fotosentetik bakteriler, öglena ve algler ile tam parazitler dışındaki bitkiler fotoototroftur.",
+       "sayfa": 23
+      },
+      {
+       "id": "1.2-02",
+       "tur": "dy",
+       "ifade": "Işığın dalga boyu ile taşıdığı enerji doğru orantılıdır; uzun dalga boylu ışık daha fazla enerji taşır.",
+       "dogru": false,
+       "bilgi": "Dalga boyu ile enerji ters orantılıdır; kısa dalga boylu ışık daha fazla enerji taşır.",
+       "sayfa": 24
+      },
+      {
+       "id": "1.2-03",
+       "tur": "bosluk",
+       "cumle": "Elektromanyetik spektrumun 380-750 nm arasındaki kısmına ___ denir.",
+       "cevap": "görünür ışık",
+       "celdiriciler": [
+        "ultraviyole",
+        "kızılötesi",
+        "X ışınları"
+       ],
+       "bilgi": "Görünür ışık, fotosentezde bitkilerin kullandığı ana enerji kaynağını oluşturur.",
+       "sayfa": 24
+      },
+      {
+       "id": "1.2-04",
+       "tur": "secmeli",
+       "soru": "Yaprakların yeşil renkte görünmesinin nedeni nedir?",
+       "secenekler": [
+        "Klorofilin yeşil ışığı yansıtması veya geçirmesi",
+        "Klorofilin yeşil ışığı soğurması",
+        "Karotenin görünür ışığın tamamını geri yansıtması",
+        "Yaprağın kırmızı ışığı geçirmesi"
+       ],
+       "dogru": 0,
+       "bilgi": "Bir cismin rengi yansıttığı dalga boyuna bağlıdır; klorofil yeşil ışığı çok az soğurur.",
+       "sayfa": 24
+      },
+      {
+       "id": "1.2-05",
+       "tur": "bosluk",
+       "cumle": "Işık enerjisiyle su moleküllerinin elektron, hidrojen iyonu ve oksijene ayrılmasına ___ denir.",
+       "cevap": "fotoliz",
+       "celdiriciler": [
+        "hidroliz",
+        "fosforilasyon",
+        "oksidasyon"
+       ],
+       "bilgi": "Fotolizle açığa çıkan elektronlar klorofilin kaybettiği elektronların yerini alır, oksijen ise atmosfere verilir.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.2-06",
+       "tur": "eslestir",
+       "yonerge": "Mineralleri fotosentezdeki görevleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Magnezyum (Mg)",
+         "Klorofilin yapısında bulunur"
+        ],
+        [
+         "Demir (Fe)",
+         "Klorofil sentezi ve ETS elemanlarının yapısı"
+        ],
+        [
+         "Fosfor (P)",
+         "ATP ve nükleik asitlerin yapısı"
+        ],
+        [
+         "Azot (N)",
+         "Amino asit ve nükleik asitlerin yapısı"
+        ]
+       ],
+       "bilgi": "Kükürt ve potasyum gibi bazı mineraller de enzim yapısında kofaktör olarak görev alır.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.2-07",
+       "tur": "secmeli",
+       "soru": "Fotosentezin ışığın kullanılmadığı tepkimeleri (Calvin döngüsü) ökaryotlarda kloroplastın neresinde gerçekleşir?",
+       "secenekler": [
+        "Granum",
+        "Dış zar",
+        "Stroma",
+        "İç zar"
+       ],
+       "dogru": 2,
+       "bilgi": "Ökaryotlarda ışığın kullanıldığı tepkimeler granumda, ışığın kullanılmadığı tepkimeler stromada gerçekleşir.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-08",
+       "tur": "dy",
+       "ifade": "Calvin döngüsünde klorofil ve ETS elemanları görev almaz; tepkimeler enzimlerin kontrolünde gerçekleşir.",
+       "dogru": true,
+       "bilgi": "Calvin döngüsünde ışık doğrudan gerekmez ancak ışık tepkimelerinde üretilen ATP ve NADPH kullanılır.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-09",
+       "tur": "bosluk",
+       "cumle": "Calvin döngüsünde ATP ve NADPH kullanılarak CO₂ indirgenir ve üç karbonlu ___ molekülleri sentezlenir.",
+       "cevap": "PGAL",
+       "celdiriciler": [
+        "NADP⁺",
+        "ADP",
+        "Asetil-CoA"
+       ],
+       "bilgi": "PGAL (fosfogliseraldehit) glikoz, sükroz, amino asit, yağ asidi ve vitamin gibi birçok organik molekülün sentezinde kullanılır.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-10",
+       "tur": "secmeli",
+       "soru": "Fotosentez hızını etkileyen faktörlerden miktarı en az olanın fotosentez hızını belirlemesine ne ad verilir?",
+       "secenekler": [
+        "Optimum kuralı",
+        "Fotoliz",
+        "Taşıma kapasitesi",
+        "Minimum kuralı"
+       ],
+       "dogru": 3,
+       "bilgi": "Faktörlerden biri yetersiz olduğunda fotosentez yavaşlar veya tamamen durabilir.",
+       "sayfa": 28
+      },
+      {
+       "id": "1.2-11",
+       "tur": "secmeli",
+       "soru": "Engelmann 1883'teki deneyinde oksijenli solunum yapan bakterilerin ipliksi algin hangi ışıkların düştüğü bölgelerde kümeleştiğini gözlemlemiştir?",
+       "secenekler": [
+        "Mor, mavi ve kırmızı",
+        "Yeşil ve sarı",
+        "Turuncu ve yeşil",
+        "Yalnızca sarı ve turuncu"
+       ],
+       "dogru": 0,
+       "bilgi": "Klorofil en çok mor, mavi ve kırmızı ışığı soğurur; fotosentez en yavaş yeşil ışıkta gerçekleşir.",
+       "sayfa": 29
+      },
+      {
+       "id": "1.2-12",
+       "tur": "dy",
+       "ifade": "Sıcaklık 35 °C'un üzerine çıktığında enzimler daha hızlı çalıştığı için fotosentez hızlanır.",
+       "dogru": false,
+       "bilgi": "Çoğu bitkide ideal sıcaklık yaklaşık 33 °C'tur; 35 °C'un üstünde enzim yapısı bozulduğundan fotosentez yavaşlar veya durur.",
+       "sayfa": 30
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "Fotosentezde Kullanılan ve Üretilen Maddeler",
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "eslestir",
+       "yonerge": "Bilim insanlarını fotosentezle ilgili bulgularıyla eşleştir.",
+       "ciftler": [
+        [
+         "Joseph Priestley",
+         "Bitkilerin kirlenen havayı temizlediğini gösterdi"
+        ],
+        [
+         "Jan Ingenhousz",
+         "Fotosentez için ışığın gerektiğini gösterdi"
+        ],
+        [
+         "Robert Hill",
+         "Açığa çıkan oksijenin kaynağının su olduğunu ispatladı"
+        ],
+        [
+         "Melvin Calvin",
+         "Fotosentezdeki karbon metabolizmasını açıkladı"
+        ]
+       ],
+       "bilgi": "Fotosentez mekanizması 1800'lerden beri bilinse de bazı basamakları hâlâ tam olarak aydınlatılamamıştır.",
+       "sayfa": 34
+      },
+      {
+       "id": "1.3-02",
+       "tur": "secmeli",
+       "soru": "Priestley'in kapalı kavanoz deneyinde mum ve farenin yanına canlı bir bitki konduğunda ne gözlenmiştir?",
+       "secenekler": [
+        "Mum sönmüş, fare ölmüştür.",
+        "Fare hayatta kalmış, mum yanmaya devam etmiştir.",
+        "Bitki kurumuş, fare hayatta kalmıştır.",
+        "Mum yanmaya devam etmiş, fare kısa sürede ölmüştür."
+       ],
+       "dogru": 1,
+       "bilgi": "Priestley (1774), bitkilerin havaya oksijen verdiğini gözlemleyen ilk kişidir.",
+       "sayfa": 33
+      },
+      {
+       "id": "1.3-03",
+       "tur": "bosluk",
+       "cumle": "Fotosentezde kullanılan tek karbon kaynağı ___ olup hidrojen kaynakları canlıya göre farklılık gösterebilir.",
+       "cevap": "karbondioksit",
+       "celdiriciler": [
+        "glikoz",
+        "su",
+        "hidrojen sülfür"
+       ],
+       "bilgi": "Tüm fotosentez çeşitlerinde CO₂ tüketilip glikoz üretilir; hidrojen kaynağı yan ürünü belirler.",
+       "sayfa": 35
+      },
+      {
+       "id": "1.3-04",
+       "tur": "secmeli",
+       "soru": "Mor kükürt bakterileri fotosentezde hidrojen kaynağı olarak hangi maddeyi kullanır?",
+       "secenekler": [
+        "Hidrojen sülfür",
+        "Su",
+        "Amonyak",
+        "Hidrojen peroksit"
+       ],
+       "dogru": 0,
+       "bilgi": "Mor kükürt bakterilerinde fotosentez sonucunda oksijen yerine kükürt açığa çıkar.",
+       "sayfa": 35
+      },
+      {
+       "id": "1.3-05",
+       "tur": "dy",
+       "ifade": "Ağır oksijen izotopuyla yapılan çalışmalar, fotosentezde üretilen oksijenin kaynağının CO₂ olduğunu göstermiştir.",
+       "dogru": false,
+       "bilgi": "Ağır oksijen izotopuyla fotosentezde üretilen oksijenin kaynağının CO₂ değil H₂O olduğu ispatlanmıştır.",
+       "sayfa": 35
+      },
+      {
+       "id": "1.3-06",
+       "tur": "bosluk",
+       "cumle": "Van Helmont, söğüt fidanıyla yaptığı beş yıllık deneyde bitkideki kütle artışının ___ kaynaklandığı sonucuna varmıştır.",
+       "cevap": "sudan",
+       "celdiriciler": [
+        "topraktan",
+        "havadan",
+        "ışıktan"
+       ],
+       "bilgi": "Helmont deney sonunda toprağın kütlesinin neredeyse değişmediğini görmüştür.",
+       "sayfa": 33
+      },
+      {
+       "id": "1.3-07",
+       "tur": "dy",
+       "ifade": "Fotosentez denkleminde eşitliğin iki tarafında da su bulunması, suyun hem tüketilip hem üretildiğini gösterir.",
+       "dogru": true,
+       "bilgi": "6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O denkleminde su hem girer hem çıkar.",
+       "sayfa": 35
+      }
+     ]
+    },
+    {
+     "no": "1.4",
+     "ad": "Işık Enerjisi Kullanılmadan Besin Sentezi (Kemosentez)",
+     "kartlar": [
+      {
+       "id": "1.4-01",
+       "tur": "bosluk",
+       "cumle": "Bazı prokaryotlarda inorganik maddelerin oksidasyonuyla açığa çıkan kimyasal enerjiyle organik madde sentezlenmesine ___ denir.",
+       "cevap": "kemosentez",
+       "celdiriciler": [
+        "fotosentez",
+        "fermantasyon",
+        "fotoliz"
+       ],
+       "bilgi": "Kemosentezde de fotosentezde olduğu gibi CO₂ ve hidrojenler ATP kullanılarak organik moleküllere dönüştürülür.",
+       "sayfa": 39
+      },
+      {
+       "id": "1.4-02",
+       "tur": "dy",
+       "ifade": "Kemoototroflar ışık enerjisi kullanmadığından kemosentez gece gündüz fark etmeksizin gerçekleşebilir.",
+       "dogru": true,
+       "bilgi": "Kemoototroflar klorofil taşımaz; bu özellik onları fotosentetik ototroflardan ayırır.",
+       "sayfa": 39
+      },
+      {
+       "id": "1.4-03",
+       "tur": "secmeli",
+       "soru": "Kemosentezde oksitlenerek enerji sağlayan inorganik maddeler hangi seçenekte birlikte verilmiştir?",
+       "secenekler": [
+        "Glikoz ve fruktoz",
+        "Selüloz ve kitin",
+        "Amonyak ve hidrojen sülfür",
+        "Klorofil ve ksantofil pigmentleri"
+       ],
+       "dogru": 2,
+       "bilgi": "Kemosentezde H₂S, H₂, NH₃, nitrit, Fe²⁺ ve kükürt gibi inorganik maddeler oksitlenir.",
+       "sayfa": 39
+      },
+      {
+       "id": "1.4-04",
+       "tur": "secmeli",
+       "soru": "Çöplüklerde yaşayan, ışık olmadan inorganik maddelerden besin sentezleyen ve bu sırada metan gazı açığa çıkaran canlılar hangisidir?",
+       "secenekler": [
+        "Arkeler",
+        "Mantarlar",
+        "Algler",
+        "Siyanobakteriler"
+       ],
+       "dogru": 0,
+       "bilgi": "Metan renksiz, kokusuz ve patlayıcı bir gazdır; 1993'teki Hekimbaşı çöplüğü patlaması metan birikmesinden kaynaklanmıştır.",
+       "sayfa": 38
+      },
+      {
+       "tur": "secmeli",
+       "soru": "Kemoototrof canlılar bulundukları ekosistemde hangi konumdadır?",
+       "secenekler": [
+        "Birincil tüketici",
+        "Ayrıştırıcı",
+        "İkincil tüketici",
+        "Üretici"
+       ],
+       "dogru": 3,
+       "bilgi": "Kemoototroflar bulundukları ekosistemlerin üreticileridir ve enerji akışını başlatır.",
+       "sayfa": 39,
+       "id": "1.4-05"
+      },
+      {
+       "id": "1.4-06",
+       "tur": "secmeli",
+       "soru": "Okyanus tabanında bulunan, çevresinde kemosentetik bakterilerle beslenen karides, yengeç ve midye gibi canlıların yaşadığı yapılar hangisidir?",
+       "secenekler": [
+        "Hidrotermal bacalar",
+        "Mercan resifleri",
+        "Sığ kıyı gelgit havuzları",
+        "Deniz çayırları"
+       ],
+       "dogru": 0,
+       "bilgi": "Hidrotermal bacalar 1977'de Galapagos Adaları yakınlarında, Büyük Okyanus tabanında keşfedilmiştir.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.4-07",
+       "tur": "bosluk",
+       "cumle": "Bir atom veya molekülden elektron ayrılmasını sağlayan kimyasal reaksiyona ___ denir.",
+       "cevap": "oksidasyon",
+       "celdiriciler": [
+        "indirgenme",
+        "hidroliz",
+        "fotoliz"
+       ],
+       "bilgi": "Kemosentetik canlılar inorganik maddelerin oksidasyonundan elde ettikleri enerjiyle ATP sentezler.",
+       "sayfa": 39
+      }
+     ]
+    },
+    {
+     "no": "1.5",
+     "ad": "Sindirim",
+     "kartlar": [
+      {
+       "id": "1.5-01",
+       "tur": "secmeli",
+       "soru": "İnsanda akyuvarların mikroorganizmaları yok etmesi ve Kupffer hücrelerinin yaşlı alyuvarları parçalaması hangi sindirim türüne örnektir?",
+       "secenekler": [
+        "Hücre dışı sindirim",
+        "Mekanik sindirim",
+        "Hücre içi sindirim",
+        "Kimyasal olmayan sindirim"
+       ],
+       "dogru": 2,
+       "bilgi": "Hücre içi sindirimde besin endositozla alınır, koful lizozomla birleşir ve lizozom enzimleri besini parçalar.",
+       "sayfa": 41
+      },
+      {
+       "id": "1.5-02",
+       "tur": "dy",
+       "ifade": "Mekanik sindirimde enzimler kullanılır ve besinler yapı taşlarına kadar parçalanır.",
+       "dogru": false,
+       "bilgi": "Mekanik sindirim enzimsiz fiziksel parçalanmadır (çiğneme, mide hareketleri, safrayla yağların damlacıklara ayrılması).",
+       "sayfa": 45
+      },
+      {
+       "id": "1.5-03",
+       "tur": "bosluk",
+       "cumle": "Büyük moleküllü besinlerin su ve enzimler yardımıyla hidrolizle yapı taşlarına ayrılmasına ___ sindirim denir.",
+       "cevap": "kimyasal",
+       "celdiriciler": [
+        "mekanik",
+        "fiziksel",
+        "hücre içi"
+       ],
+       "bilgi": "Kimyasal sindirimde karbohidratlar monosakkaritlere, yağlar gliserol ve yağ asitlerine, proteinler amino asitlere ayrılır.",
+       "sayfa": 45
+      },
+      {
+       "id": "1.5-04",
+       "tur": "eslestir",
+       "yonerge": "Geviş getiren memelilerde mide bölümlerini görevleriyle eşleştir.",
+       "ciftler": [
+        [
+         "İşkembe",
+         "Mikroorganizmalarla selülozun sindirildiği depo bölümü"
+        ],
+        [
+         "Börkenek",
+         "Besinin geviş için ağza geri gönderildiği bölüm"
+        ],
+        [
+         "Kırkbayır",
+         "Besindeki suyun büyük kısmının alındığı bölüm"
+        ],
+        [
+         "Şirden",
+         "Hayvanın kendi enzimleriyle sindirimin sürdüğü bölüm"
+        ]
+       ],
+       "bilgi": "İnek, koyun ve geyik gibi geviş getirenlerin midesi dört bölmelidir.",
+       "sayfa": 46
+      },
+      {
+       "id": "1.5-05",
+       "tur": "secmeli",
+       "soru": "Kuşlarda yemek borusunun genişlemesiyle oluşan ve besinlerin bir süre depolanıp yumuşatıldığı yapı hangisidir?",
+       "secenekler": [
+        "Kursak",
+        "Taşlık",
+        "Kloak",
+        "Bezli mide"
+       ],
+       "dogru": 0,
+       "bilgi": "Kuşlarda diş yoktur; sindirim kanalı ağız, yutak, yemek borusu, kursak, mide, taşlık, bağırsaklar ve kloaktan oluşur.",
+       "sayfa": 45
+      },
+      {
+       "id": "1.5-06",
+       "tur": "bosluk",
+       "cumle": "Kuşlarda güçlü kas yapısıyla besinleri fiziksel olarak parçalayan kaslı mide bölümüne ___ denir.",
+       "cevap": "taşlık",
+       "celdiriciler": [
+        "kursak",
+        "kloak",
+        "bezli mide"
+       ],
+       "bilgi": "Kuşlarda bezli mide kimyasal sindirimi başlatır, taşlık mekanik sindirimi gerçekleştirir.",
+       "sayfa": 45
+      },
+      {
+       "id": "1.5-07",
+       "tur": "dy",
+       "ifade": "Otçul memelilerin sindirim kanalları, vücut boyutlarına göre etçillerinkinden daha uzundur.",
+       "dogru": true,
+       "bilgi": "Selüloz içeren bitkisel besinlerin sindirimi zor olduğundan uzun bağırsak otçullara zaman ve geniş emilim yüzeyi kazandırır.",
+       "sayfa": 47
+      },
+      {
+       "id": "1.5-08",
+       "tur": "secmeli",
+       "soru": "At, eşek ve tavşan gibi geviş getirmeyen otçullarda selülozu sindiren mikroorganizmalar nerede bulunur?",
+       "secenekler": [
+        "İşkembede",
+        "Kör bağırsakta",
+        "Kursakta",
+        "Dört bölmeli midede"
+       ],
+       "dogru": 1,
+       "bilgi": "Geviş getirmeyen otçulların midesi tek bölmelidir; selüloz kör bağırsaktaki mikroorganizmalarla sindirilir.",
+       "sayfa": 46
+      },
+      {
+       "id": "1.5-09",
+       "tur": "secmeli",
+       "soru": "Yetişkin bir insanın ağzında toplam kaç diş bulunur?",
+       "secenekler": [
+        "28",
+        "30",
+        "36",
+        "32"
+       ],
+       "dogru": 3,
+       "bilgi": "Ağzın her iki yanında dört kesici, iki köpek, dört azı ve altı büyük azı dişi bulunur.",
+       "sayfa": 45
+      },
+      {
+       "id": "1.5-10",
+       "tur": "dy",
+       "ifade": "Mide öz suyu HCl, enzim ve mukus içerir; midenin yüksek asidik ortamı besinlerle gelen bakterileri yok eder.",
+       "dogru": true,
+       "bilgi": "Mide besinleri geçici olarak depolar, mekanik ve kimyasal sindirimi sağlar.",
+       "sayfa": 41
+      }
+     ]
+    },
+    {
+     "no": "1.6",
+     "ad": "İnsanda Sindirim",
+     "kartlar": [
+      {
+       "id": "1.6-01",
+       "tur": "eslestir",
+       "yonerge": "Besinleri kimyasal sindirimlerinin başladığı yerle eşleştir.",
+       "ciftler": [
+        [
+         "Karbohidratlar",
+         "Ağız"
+        ],
+        [
+         "Proteinler",
+         "Mide"
+        ],
+        [
+         "Yağlar",
+         "İnce bağırsak"
+        ]
+       ],
+       "bilgi": "Karbohidrat, protein ve yağların kimyasal sindirimi ince bağırsakta tamamlanır.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.6-02",
+       "tur": "secmeli",
+       "soru": "Karaciğerde üretilip safra kesesinde depolanan safra için hangisi doğrudur?",
+       "secenekler": [
+        "Proteinleri amino asitlere parçalar.",
+        "Nişastayı maltoza parçalar.",
+        "Enzim içermez, yağları damlacıklara ayırır.",
+        "Midede salgılanarak mide asidini nötralize eder."
+       ],
+       "dogru": 2,
+       "bilgi": "Safra tuzları yağ damlacıklarını küçülterek enzimlerin etki yüzeyini artırır ve yağda çözünen vitaminlerin emilimini kolaylaştırır.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.6-03",
+       "tur": "dy",
+       "ifade": "Midenin asidik ortamı tükürük enziminin aktivitesini durdurduğu için karbohidratlar midede sindirilmez.",
+       "dogru": true,
+       "bilgi": "Ağızda başlayan karbohidrat sindirimi pankreas enzimleriyle ince bağırsakta devam eder ve tamamlanır.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.6-04",
+       "tur": "bosluk",
+       "cumle": "Mide öz suyundaki ___, ortamın pH'ını düşürür ve proteinleri denatüre ederek sindirime hazırlar.",
+       "cevap": "hidroklorik asit",
+       "celdiriciler": [
+        "bikarbonat",
+        "safra tuzu",
+        "mukus"
+       ],
+       "bilgi": "HCl ayrıca protein sindiriminde görev alan mide enzimini aktifleştirir.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.6-05",
+       "tur": "secmeli",
+       "soru": "Mide duvarının kendi asidi ve enzimleri tarafından sindirilmesini engelleyen nedir?",
+       "secenekler": [
+        "İç duvar hücrelerinin salgıladığı mukus",
+        "Safra kesesinden gelen safra",
+        "Pankreastan gelen bikarbonat salgısının etkisi",
+        "Lenf damarlarındaki sıvı"
+       ],
+       "dogru": 0,
+       "bilgi": "Midenin iç duvarını kaplayan hücrelerin salgıladığı mukus, mide duvarını korur.",
+       "sayfa": 52
+      },
+      {
+       "id": "1.6-06",
+       "tur": "bosluk",
+       "cumle": "Villus epitel hücrelerinin bağırsak boşluğuna bakan fırça şeklindeki sitoplazmik uzantılarına ___ denir.",
+       "cevap": "mikrovillus",
+       "celdiriciler": [
+        "villus",
+        "şilomikron",
+        "lenf kılcalı"
+       ],
+       "bilgi": "Kıvrımlar, villuslar ve mikrovilluslar ince bağırsağın yüzey alanını yaklaşık 200-300 m²ye çıkarır.",
+       "sayfa": 53
+      },
+      {
+       "id": "1.6-07",
+       "tur": "secmeli",
+       "soru": "Yağ asidi ve gliserolün bağırsak epitelinde yeniden trigliseride dönüşüp protein ve kolesterolle kaplanmasıyla oluşan yapı hangisidir?",
+       "secenekler": [
+        "Mikrovillus",
+        "Safra tuzu",
+        "Glikojen",
+        "Şilomikron"
+       ],
+       "dogru": 3,
+       "bilgi": "Şilomikronlar önce villustaki lenf kılcallarına, sonra kan dolaşımına katılır.",
+       "sayfa": 54
+      },
+      {
+       "id": "1.6-08",
+       "tur": "dy",
+       "ifade": "Yağda çözünen A, D, E ve K vitaminleri ince bağırsaktan emildikten sonra lenf yoluyla değil, doğrudan kan kılcallarıyla taşınır.",
+       "dogru": false,
+       "bilgi": "Yağda çözünen A, D, E ve K vitaminleri ince bağırsaktan emilerek lenf yoluyla taşınır.",
+       "sayfa": 54
+      },
+      {
+       "id": "1.6-09",
+       "tur": "secmeli",
+       "soru": "Kalın bağırsakta yaşayan bakteriler tarafından sentezlenip burada emilen vitaminler hangileridir?",
+       "secenekler": [
+        "A ve D",
+        "B ve K",
+        "C ve E",
+        "A ve K"
+       ],
+       "dogru": 1,
+       "bilgi": "Kalın bağırsakta sindirim olmaz; su ve mineraller emilir, bakterilerin ürettiği B ve K vitaminleri de burada emilir.",
+       "sayfa": 54
+      },
+      {
+       "id": "1.6-10",
+       "tur": "dy",
+       "ifade": "Bağırsak kılcallarına emilen besinler kan yoluyla öncelikle karaciğere gider.",
+       "dogru": true,
+       "bilgi": "Karaciğerde fazla glikoz glikojen olarak depolanır ve zehirli maddeler dönüştürülür; ardından kan kalbe gider.",
+       "sayfa": 54
+      },
+      {
+       "id": "1.6-11",
+       "tur": "bosluk",
+       "cumle": "Pankreas salgısı ___ iyonları bakımından zengin olduğundan mideden gelen asitli içeriği nötralize eder.",
+       "cevap": "bikarbonat",
+       "celdiriciler": [
+        "klorür",
+        "hidrojen",
+        "demir"
+       ],
+       "bilgi": "Pankreas öz suyu ayrıca yağ, karbohidrat, nükleik asit ve proteinleri sindiren enzimler içerir.",
+       "sayfa": 51
+      }
+     ]
+    },
+    {
+     "no": "1.7",
+     "ad": "Hücresel Solunum",
+     "kartlar": [
+      {
+       "id": "1.7-01",
+       "tur": "dy",
+       "ifade": "Hücresel solunum, solunum organlarındaki gaz değişimi yani nefes alıp verme ile aynı anlama gelir.",
+       "dogru": false,
+       "bilgi": "Hücresel solunum, organik besinlerin hücre içinde parçalanarak enerji elde edilmesidir; nefes alıp verme ise gaz değişimidir.",
+       "sayfa": 58
+      },
+      {
+       "id": "1.7-02",
+       "tur": "secmeli",
+       "soru": "Oksijenli (aerobik) solunumda son elektron alıcısı hangisidir?",
+       "secenekler": [
+        "NAD⁺",
+        "FAD",
+        "Oksijen",
+        "Karbondioksit"
+       ],
+       "dogru": 2,
+       "bilgi": "Oksijenli solunumda piruvat CO₂ ve H₂O'ya kadar parçalandığı için diğer solunum çeşitlerinden daha fazla ATP üretilir.",
+       "sayfa": 58
+      },
+      {
+       "id": "1.7-03",
+       "tur": "bosluk",
+       "cumle": "Glikolizde başlangıçta 2 ATP harcanıp 4 ATP sentezlendiği için net kazanç ___ ATP'dir.",
+       "cevap": "2",
+       "celdiriciler": [
+        "1",
+        "4",
+        "6"
+       ],
+       "bilgi": "Glikolizde 6 karbonlu glikoz, 3 karbonlu 2 piruvata parçalanır ve 2 NADH oluşur.",
+       "sayfa": 59
+      },
+      {
+       "id": "1.7-04",
+       "tur": "bosluk",
+       "cumle": "Piruvatın bir CO₂ çıkışı ve NADH oluşumuyla iki karbonlu Asetil-CoA'ya dönüşmesine piruvatın ___ denir.",
+       "cevap": "oksidasyonu",
+       "celdiriciler": [
+        "fosforilasyonu",
+        "fermantasyonu",
+        "fotolizi"
+       ],
+       "bilgi": "Piruvatın oksidasyonu glikoliz ile Krebs döngüsü arasındaki bağlantıyı kurar.",
+       "sayfa": 59
+      },
+      {
+       "id": "1.7-05",
+       "tur": "secmeli",
+       "soru": "Oksijenli solunumun ikinci aşaması olan döngüsel tepkimeleri 1937'de açıklayan Alman bilim insanı kimdir?",
+       "secenekler": [
+        "Melvin Calvin",
+        "Robert Hill",
+        "Hans Krebs",
+        "Jan Ingenhousz"
+       ],
+       "dogru": 2,
+       "bilgi": "Krebs (sitrik asit) döngüsünde iki Asetil-CoA'dan toplam 4 CO₂, 6 NADH, 2 FADH₂ ve 2 ATP oluşur.",
+       "sayfa": 60
+      },
+      {
+       "id": "1.7-06",
+       "tur": "dy",
+       "ifade": "Bir glikoz molekülünün oksijenli solunumla parçalanmasında Krebs döngüsü iki kez gerçekleşir.",
+       "dogru": true,
+       "bilgi": "Glikolizden çıkan iki piruvat iki Asetil-CoA'ya dönüşür; her biri döngüye bir kez girer.",
+       "sayfa": 60
+      },
+      {
+       "id": "1.7-07",
+       "tur": "secmeli",
+       "soru": "Bir glikozun oksijenli solunumla parçalanmasında ATP'lerin büyük kısmı hangi evrede üretilir?",
+       "secenekler": [
+        "Glikoliz",
+        "Krebs döngüsü",
+        "Piruvatın oksidasyonu",
+        "ETS evresi"
+       ],
+       "dogru": 3,
+       "bilgi": "ETS'de NADH ve FADH₂'nin getirdiği elektronlar oksijene kadar taşınırken ATP sentezlenir.",
+       "sayfa": 60
+      },
+      {
+       "id": "1.7-08",
+       "tur": "eslestir",
+       "yonerge": "Oksijenli solunum evrelerini ökaryot hücrede gerçekleştikleri yerle eşleştir.",
+       "ciftler": [
+        [
+         "Glikoliz",
+         "Sitoplazma"
+        ],
+        [
+         "Krebs döngüsü",
+         "Mitokondri matriksi"
+        ],
+        [
+         "Elektron taşıma sistemi",
+         "Mitokondrinin kristaları"
+        ]
+       ],
+       "bilgi": "Prokaryotlarda oksijenli solunum sitoplazmada ve hücre zarının iç yüzeyinde gerçekleşir.",
+       "sayfa": 60
+      },
+      {
+       "id": "1.7-09",
+       "tur": "dy",
+       "ifade": "Oksijensiz solunumda elektron taşıma sistemi görev almaz.",
+       "dogru": false,
+       "bilgi": "Oksijensiz solunumda fermantasyondan farklı olarak ETS görev yapar; son elektron alıcısı oksijen değildir.",
+       "sayfa": 61
+      },
+      {
+       "id": "1.7-10",
+       "tur": "secmeli",
+       "soru": "Oksijensiz solunum yapan bazı bakteri ve arkelerde son elektron alıcısı olarak kullanılabilen madde hangisidir?",
+       "secenekler": [
+        "Nitrat",
+        "Glikoz",
+        "NADH",
+        "Piruvat"
+       ],
+       "dogru": 0,
+       "bilgi": "Oksijensiz solunumda nitrat, sülfat veya CO₂ gibi inorganik maddeler son elektron alıcısıdır; daha az ATP üretilir.",
+       "sayfa": 61
+      },
+      {
+       "id": "1.7-11",
+       "tur": "bosluk",
+       "cumle": "ETS'nin son basamağında elektron kazanan oksijen protonlarla birleşerek ___ oluşturur.",
+       "cevap": "su",
+       "celdiriciler": [
+        "karbondioksit",
+        "glikoz",
+        "ATP"
+       ],
+       "bilgi": "Oksijen, enerjisi düşmüş elektronları alarak elektron akışının ve ATP sentezinin sürmesini sağlar.",
+       "sayfa": 61
+      }
+     ]
+    },
+    {
+     "no": "1.8",
+     "ad": "Besinlerin Solunuma Katılma Yolları",
+     "kartlar": [
+      {
+       "id": "1.8-01",
+       "tur": "eslestir",
+       "yonerge": "Besin yapı taşlarını hücresel solunuma katıldıkları basamakla eşleştir.",
+       "ciftler": [
+        [
+         "Glikoz",
+         "Glikoliz"
+        ],
+        [
+         "Gliserol",
+         "Glikolizin ara basamakları"
+        ],
+        [
+         "Yağ asitleri",
+         "Asetil-CoA'ya dönüşerek Krebs döngüsü"
+        ],
+        [
+         "3 karbonlu amino asitler",
+         "Piruvat"
+        ],
+        [
+         "4 ve daha fazla karbonlu amino asitler",
+         "Doğrudan Krebs döngüsü"
+        ]
+       ],
+       "bilgi": "Besinlerin karbon iskeletleri farklı olduğu için her biri hücresel solunumun farklı basamağına katılır.",
+       "sayfa": 66
+      },
+      {
+       "id": "1.8-02",
+       "tur": "secmeli",
+       "soru": "Amino asitler hücresel solunuma katılmadan önce yapılarındaki hangi grup uzaklaştırılır?",
+       "secenekler": [
+        "Karboksil grubu",
+        "Amino grubu",
+        "Fosfat grubu",
+        "Hidroksil grubu"
+       ],
+       "dogru": 1,
+       "bilgi": "Amino grubu uzaklaştırılan amino asitler karbon sayılarına göre farklı basamaklardan solunuma girer.",
+       "sayfa": 66
+      },
+      {
+       "id": "1.8-03",
+       "tur": "dy",
+       "ifade": "Tüm amino asitler karbon sayılarından bağımsız olarak hücresel solunuma aynı basamaktan katılır.",
+       "dogru": false,
+       "bilgi": "2 karbonlu amino asitler Asetil-CoA'dan, 3 karbonlular piruvattan, 4 ve daha fazla karbonlular Krebs döngüsünden katılır.",
+       "sayfa": 66
+      },
+      {
+       "id": "1.8-04",
+       "tur": "secmeli",
+       "soru": "Amino asitlerin solunumla yıkımında, karbohidrat ve yağlardan farklı olarak hangi ürün de oluşur?",
+       "secenekler": [
+        "Karbondioksit",
+        "Su",
+        "Azot içeren atık maddeler",
+        "Fazladan ATP ve ısı enerjisi"
+       ],
+       "dogru": 2,
+       "bilgi": "Oksijenli koşullarda üç besin grubundan da ortak olarak CO₂, H₂O, ATP ve ısı açığa çıkar.",
+       "sayfa": 66
+      },
+      {
+       "id": "1.8-05",
+       "tur": "bosluk",
+       "cumle": "İki karbonlu amino asitler hücresel solunuma ___ basamağından katılır.",
+       "cevap": "Asetil-CoA",
+       "celdiriciler": [
+        "piruvat",
+        "glikoliz",
+        "ETS"
+       ],
+       "bilgi": "Yağ asitleri de Asetil-CoA'ya dönüştürüldükten sonra Krebs döngüsüne girer.",
+       "sayfa": 66
+      },
+      {
+       "id": "1.8-06",
+       "tur": "dy",
+       "ifade": "Karbohidrat, yağ ve proteinler oksijenli solunumla yıkıldığında ortak olarak CO₂, H₂O, ATP ve ısı açığa çıkar.",
+       "dogru": true,
+       "bilgi": "Proteinlerin yıkımında bu ürünlere ek olarak azotlu atıklar da oluşur.",
+       "sayfa": 66
+      },
+      {
+       "id": "1.8-07",
+       "tur": "secmeli",
+       "soru": "Canlılar metabolik faaliyetleri için gerekli enerjiyi hangi üç temel besin grubundan sağlar?",
+       "secenekler": [
+        "Vitamin, mineral ve su",
+        "Karbohidrat, yağ ve protein",
+        "Nükleik asit, vitamin ve yağ",
+        "Su, protein ve mineral"
+       ],
+       "dogru": 1,
+       "bilgi": "Glikoz, amino asitler ve yağ asitleri hücresel solunumda enerji üretiminde kullanılır.",
+       "sayfa": 63
+      }
+     ]
+    },
+    {
+     "no": "1.9",
+     "ad": "Fermantasyon",
+     "kartlar": [
+      {
+       "id": "1.9-01",
+       "tur": "bosluk",
+       "cumle": "Glikoliz sonucu oluşan piruvatın oksijen ve ETS kullanılmadan farklı son ürünlere dönüştürüldüğü tepkimelere ___ denir.",
+       "cevap": "fermantasyon",
+       "celdiriciler": [
+        "oksijensiz solunum",
+        "kemosentez",
+        "Krebs döngüsü"
+       ],
+       "bilgi": "Fermantasyon oluşan son ürüne göre adlandırılır; en yaygınları etil alkol ve laktik asit fermantasyonudur.",
+       "sayfa": 69
+      },
+      {
+       "id": "1.9-02",
+       "tur": "secmeli",
+       "soru": "Etil alkol fermantasyonunda piruvattan CO₂ uzaklaştırılmasıyla oluşan iki karbonlu ara ürün hangisidir?",
+       "secenekler": [
+        "Asetil-CoA",
+        "Laktik asit",
+        "Asetaldehit",
+        "Gliserol"
+       ],
+       "dogru": 2,
+       "bilgi": "Asetaldehit NADH ile etil alkole indirgenir ve glikolizin devamı için gereken NAD⁺ yenilenir.",
+       "sayfa": 69
+      },
+      {
+       "id": "1.9-03",
+       "tur": "dy",
+       "ifade": "Laktik asit fermantasyonunda CO₂ çıkışı görülür.",
+       "dogru": false,
+       "bilgi": "Laktik asit fermantasyonunda piruvat doğrudan laktik aside dönüşür ve CO₂ çıkışı görülmez.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.9-04",
+       "tur": "secmeli",
+       "soru": "Ekmek hamurunun kabarmasını sağlayan CO₂ gazı hangi süreçle oluşur?",
+       "secenekler": [
+        "Maya mantarlarının etil alkol fermantasyonu",
+        "Yoğurt bakterilerinin laktik asit fermantasyonu",
+        "Hamurdaki nişastanın fotosentezi",
+        "Mayaların kemosentezi"
+       ],
+       "dogru": 0,
+       "bilgi": "Mayalar, birçok bakteri ve bazı bitki tohumları etil alkol fermantasyonu yapar.",
+       "sayfa": 69
+      },
+      {
+       "id": "1.9-05",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerin hangisinde laktik asit fermantasyonu görülür?",
+       "secenekler": [
+        "Ekmek mayası",
+        "Bazı bitkilerin tohumları",
+        "Ekmek hamurundaki maya mantarı hücreleri",
+        "Memelilerin olgun alyuvarları"
+       ],
+       "dogru": 3,
+       "bilgi": "Laktik asit fermantasyonu bazı bakteri ve mantarlarda, olgun memeli alyuvarlarında ve çizgili kaslarda görülür.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.9-06",
+       "tur": "dy",
+       "ifade": "Fermantasyonda NADH'deki elektron ve hidrojenler farklı alıcılara aktarılarak NAD⁺ yenilenir ve glikolizin devamı sağlanır.",
+       "dogru": true,
+       "bilgi": "NAD⁺'nın yenilenmesi glikolizin ve ATP üretiminin sürmesini sağlar.",
+       "sayfa": 69
+      },
+      {
+       "id": "1.9-07",
+       "tur": "bosluk",
+       "cumle": "Endüstride peynir, yoğurt ve turşu üretiminde ___ fermantasyonundan yararlanılır.",
+       "cevap": "laktik asit",
+       "celdiriciler": [
+        "etil alkol",
+        "asetaldehit",
+        "metan"
+       ],
+       "bilgi": "Kefir, yoğurt, kımız, peynir ve kurut fermente süt ürünlerindendir.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.9-08",
+       "tur": "dy",
+       "ifade": "Yoğun kas aktivitesinin başlangıcında çizgili kaslarda oksijenli solunum ve laktik asit fermantasyonu birlikte gerçekleşebilir.",
+       "dogru": true,
+       "bilgi": "Glikoz yıkım hızı kasın oksijen alma hızını aştığında hızlı ama verimsiz ATP üretimi için fermantasyon yapılır.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.9-09",
+       "tur": "secmeli",
+       "soru": "Fermantasyon ökaryot ve prokaryot hücrelerin neresinde gerçekleşir?",
+       "secenekler": [
+        "Mitokondride",
+        "Sitoplazmada",
+        "Kloroplastta",
+        "Çekirdekte"
+       ],
+       "dogru": 1,
+       "bilgi": "Fermantasyon sitoplazmada, oksijen ve ETS kullanılmadan genellikle monosakkaritlerin parçalanmasıyla gerçekleşir.",
+       "sayfa": 69
+      }
+     ]
+    },
+    {
+     "no": "1.10",
+     "ad": "Enerji-Metabolizma İlişkisi",
+     "kartlar": [
+      {
+       "id": "1.10-01",
+       "tur": "eslestir",
+       "yonerge": "Besin gruplarını 1 gramlarının enerji değeri ve özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Karbohidratlar",
+         "4,0 kcal/g; hızlı enerji kaynağı"
+        ],
+        [
+         "Yağlar",
+         "9,0 kcal/g; uzun süreli enerji deposu"
+        ],
+        [
+         "Proteinler",
+         "4,0 kcal/g; gerektiğinde enerji verici"
+        ]
+       ],
+       "bilgi": "Besinlerin enerji değeri içerdikleri besin ögelerinin çeşidine ve miktarına göre değişir.",
+       "sayfa": 74
+      },
+      {
+       "id": "1.10-02",
+       "tur": "secmeli",
+       "soru": "Hücresel solunumda yağların karbohidratlara göre yaklaşık iki kat fazla ATP üretmesinin nedeni nedir?",
+       "secenekler": [
+        "Daha fazla oksijen atomu içermeleri",
+        "Bol miktarda C-H bağı içermeleri",
+        "Polimer yapılı olmaları",
+        "Suda kolay çözünmeleri"
+       ],
+       "dogru": 1,
+       "bilgi": "Karbohidratların oksijen içeriği yüksek, C-H bağları azdır; yağlar solunumda daha fazla oksijen kullanır.",
+       "sayfa": 74
+      },
+      {
+       "id": "1.10-03",
+       "tur": "bosluk",
+       "cumle": "Bir kalori, 1 gram suyun sıcaklığını ___ artırmak için gereken ısı enerjisi miktarıdır.",
+       "cevap": "1 °C",
+       "celdiriciler": [
+        "0,1 °C",
+        "10 °C",
+        "100 °C"
+       ],
+       "bilgi": "Bir kilokalori 1000 kaloridir; yiyecek paketlerindeki kalori ibaresi kilokaloriyi belirtir.",
+       "sayfa": 74
+      },
+      {
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi katabolik bir tepkimedir?",
+       "secenekler": [
+        "Hücresel solunum",
+        "Fotosentezle glikoz sentezi",
+        "Amino asitlerden protein yapımı",
+        "Glikozdan nişasta sentezi"
+       ],
+       "dogru": 0,
+       "bilgi": "Sindirim ve solunum büyük moleküllerin küçüklere yıkıldığı katabolik tepkimelerdir.",
+       "sayfa": 74,
+       "id": "1.10-04"
+      },
+      {
+       "id": "1.10-05",
+       "tur": "secmeli",
+       "soru": "Obezitenin en önemli nedenleri arasında hangisi kabul edilir?",
+       "secenekler": [
+        "Lifli besinlerin tüketilmesi",
+        "Fazla su içilmesi",
+        "İhtiyaçtan fazla besin alımı ve hareketsizlik",
+        "Düzenli yürüyüş ve egzersiz programı uygulanması"
+       ],
+       "dogru": 2,
+       "bilgi": "Obezite diyabet, inme, kalp-damar ve solunum hastalıkları gibi ciddi sağlık sorunlarına yol açar.",
+       "sayfa": 72
+      },
+      {
+       "id": "1.10-06",
+       "tur": "dy",
+       "ifade": "Yiyecek paketlerinin üzerindeki \"kalori\" ibaresi aslında kilokalori miktarını belirtir.",
+       "dogru": true,
+       "bilgi": "Paketlerde enerji için kilokalorinin yanında çoğu kez kilojul (kJ) birimi de kullanılır.",
+       "sayfa": 74
+      },
+      {
+       "id": "1.10-07",
+       "tur": "bosluk",
+       "cumle": "Bitkilerin fotosentezle karbohidrat, protein ve vitamin gibi organik besinler sentezlemesi ___ tepkimelere örnektir.",
+       "cevap": "anabolik",
+       "celdiriciler": [
+        "katabolik",
+        "hidroliz",
+        "oksidasyon"
+       ],
+       "bilgi": "Anabolizma basit moleküllerden karmaşık moleküllerin sentezlendiği yapım tepkimeleridir.",
+       "sayfa": 74
+      },
+      {
+       "id": "1.10-08",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki hücresel faaliyetlerden hangisi ATP enerjisi kullanılarak gerçekleşir?",
+       "secenekler": [
+        "Basit difüzyon",
+        "Ozmoz",
+        "Kolaylaştırılmış difüzyon",
+        "Aktif taşıma"
+       ],
+       "dogru": 3,
+       "bilgi": "Besinlerden elde edilen ATP; kas faaliyetleri, biyosentez, sinirsel iletim ve aktif taşımada kullanılır.",
+       "sayfa": 75
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Ekoloji",
+   "konular": [
+    {
+     "no": "2.1",
+     "ad": "Ekosistemin Bileşenleri",
+     "kartlar": [
+      {
+       "id": "2.1-01",
+       "tur": "bosluk",
+       "cumle": "Canlıların birbirleri ve çevreleriyle olan ilişkilerini inceleyen bilim dalına ___ denir.",
+       "cevap": "ekoloji",
+       "celdiriciler": [
+        "taksonomi",
+        "fizyoloji",
+        "genetik"
+       ],
+       "bilgi": "Ekoloji çalışmaları organizma, popülasyon, komünite, ekosistem ve küresel düzeylerde yapılır.",
+       "sayfa": 100
+      },
+      {
+       "id": "2.1-02",
+       "tur": "secmeli",
+       "soru": "Belirli bir bölgedeki canlı topluluklarının tamamı ile bu canlıların etkileşim hâlinde olduğu cansız çevreye ne ad verilir?",
+       "secenekler": [
+        "Popülasyon",
+        "Komünite",
+        "Ekosistem",
+        "Habitat"
+       ],
+       "dogru": 2,
+       "bilgi": "Ekosistemdeki canlı ve cansız ögeler besin zinciri ve madde döngüleriyle birbirine bağlıdır.",
+       "sayfa": 100
+      },
+      {
+       "id": "2.1-03",
+       "tur": "eslestir",
+       "yonerge": "Ekosistem bileşenlerini örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Cansız (abiyotik) bileşenler",
+         "Işık, sıcaklık, su, pH ve toprak"
+        ],
+        [
+         "Üreticiler",
+         "Bitkiler, algler ve kemosentetik bakteriler"
+        ],
+        [
+         "Tüketiciler",
+         "Dağ keçisi ve kızıl tilki"
+        ],
+        [
+         "Ayrıştırıcılar",
+         "Saprotrof bakteriler ve mantarlar"
+        ]
+       ],
+       "bilgi": "Ekosistemin canlı bileşenleri işlevlerine göre üreticiler, tüketiciler ve ayrıştırıcılar olarak üçe ayrılır.",
+       "sayfa": 103
+      },
+      {
+       "id": "2.1-04",
+       "tur": "dy",
+       "ifade": "Ayrıştırıcılar ortadan kalkarsa üreticiler gerekli inorganik maddelere ulaşamaz ve yeni organik madde üretimi durur.",
+       "dogru": true,
+       "bilgi": "Ayrıştırıcılar organik maddeleri inorganik maddelere dönüştürerek ekosistemde madde sürekliliğini korur.",
+       "sayfa": 104
+      },
+      {
+       "id": "2.1-05",
+       "tur": "bosluk",
+       "cumle": "Bitkilerin çiçeklenmesini, bazı hayvanların göç etmesini ve kış uykusuna yatmasını etkileyen gün uzunluğuna ___ denir.",
+       "cevap": "fotoperiyot",
+       "celdiriciler": [
+        "fotoliz",
+        "gelgit",
+        "iklim"
+       ],
+       "bilgi": "Işığın şiddeti, dalga boyu ve süresi canlıların gelişimini, üremesini ve davranışlarını etkiler.",
+       "sayfa": 98
+      },
+      {
+       "id": "2.1-06",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi kurak ortamlarda su kaybını azaltmaya yönelik bir uyumdur?",
+       "secenekler": [
+        "Kutup tilkisinin küçük kulaklı olması",
+        "Sarı sabırın yapraklarında su depolaması",
+        "Bazı bitkilerin gölgede gelişmesi",
+        "Kuşların gün uzunluğuna bağlı göç etmesi"
+       ],
+       "dogru": 1,
+       "bilgi": "Kanguru sıçanının su içmeden kuru tohumlarla yaşayabilmesi ve devenin terlemeyi azaltması da kuraklığa uyumdur.",
+       "sayfa": 102
+      },
+      {
+       "tur": "secmeli",
+       "soru": "Toprağın organik kısmı neyden oluşur?",
+       "secenekler": [
+        "Minerallerden",
+        "Humus ve çürüyen organik maddelerden",
+        "Yalnızca sudan ve havadan",
+        "Kum ve kil tanelerinden"
+       ],
+       "dogru": 1,
+       "bilgi": "Toprak organik ve inorganik maddeler, su ve hava içerir; inorganik kısmı minerallerden oluşur.",
+       "sayfa": 102,
+       "id": "2.1-07"
+      },
+      {
+       "id": "2.1-08",
+       "tur": "secmeli",
+       "soru": "Derin deniz dipleri ve bataklıklar gibi ekosistemlerde üretici canlılar genellikle hangileridir?",
+       "secenekler": [
+        "Algler ve siyanobakteriler",
+        "Otsu bitkiler",
+        "Kemosentetik bakteriler ve arkeler",
+        "Ayrıştırıcı mantarlar"
+       ],
+       "dogru": 2,
+       "bilgi": "Karasal ekosistemlerde bitkiler, sucul ekosistemlerde algler ve siyanobakteriler üreticidir.",
+       "sayfa": 103
+      },
+      {
+       "id": "2.1-09",
+       "tur": "bosluk",
+       "cumle": "Bir bölgede uzun yıllar hüküm süren hava koşullarının ortalamasına ___ denir.",
+       "cevap": "iklim",
+       "celdiriciler": [
+        "hava durumu",
+        "mevsim",
+        "habitat"
+       ],
+       "bilgi": "Işık, sıcaklık, yağış, rüzgâr ve nem iklimi oluşturan temel unsurlardır; iklim canlıların dağılışını belirler.",
+       "sayfa": 100
+      }
+     ]
+    },
+    {
+     "no": "2.2",
+     "ad": "Komünitelerde ve Popülasyonlarda Görülen Etkileşimler ve Değişimler",
+     "kartlar": [
+      {
+       "id": "2.2-01",
+       "tur": "secmeli",
+       "soru": "Ekolojik organizasyon düzeyleri küçükten büyüğe doğru hangi seçenekte doğru sıralanmıştır?",
+       "secenekler": [
+        "Organizma, popülasyon, komünite, ekosistem, biyosfer",
+        "Popülasyon, organizma, ekosistem, komünite, biyosfer",
+        "Organizma, komünite, popülasyon, biyosfer, ekosistem",
+        "Komünite, popülasyon, organizma, ekosistem, biyosfer"
+       ],
+       "dogru": 0,
+       "bilgi": "Belli bir alanda yaşayan aynı türden bireyler popülasyonu, etkileşen tüm türler komüniteyi oluşturur.",
+       "sayfa": 109
+      },
+      {
+       "id": "2.2-02",
+       "tur": "bosluk",
+       "cumle": "Birim alanda ya da birim hacimde bulunan birey sayısına popülasyon ___ denir.",
+       "cevap": "yoğunluğu",
+       "celdiriciler": [
+        "büyüklüğü",
+        "dinamiği",
+        "kapasitesi"
+       ],
+       "bilgi": "Popülasyon yoğunluğu doğum ve içe göçle artar, ölüm ve dışa göçle azalır.",
+       "sayfa": 110
+      },
+      {
+       "id": "2.2-03",
+       "tur": "secmeli",
+       "soru": "Kaynakların bol olduğu ortamlarda birey sayısı arttıkça büyüme hızının da arttığı büyüme biçimi hangisidir?",
+       "secenekler": [
+        "S tipi (lojistik) büyüme",
+        "Dengeli büyüme",
+        "Klimaks büyüme",
+        "J tipi (üstel) büyüme"
+       ],
+       "dogru": 3,
+       "bilgi": "Doğadaki popülasyonların çoğu S tipi büyür ve taşıma kapasitesi çevresinde dengeye ulaşır.",
+       "sayfa": 111
+      },
+      {
+       "id": "2.2-04",
+       "tur": "bosluk",
+       "cumle": "Bir popülasyonun büyüme ve gelişmesini engelleyen her türlü biyotik ve abiyotik faktöre ___ denir.",
+       "cevap": "çevre direnci",
+       "celdiriciler": [
+        "taşıma kapasitesi",
+        "ekolojik niş",
+        "süksesyon"
+       ],
+       "bilgi": "Birim alanda bulunabilecek maksimum birey sayısı taşıma kapasitesidir; ona yaklaşıldıkça çevre direnci artar.",
+       "sayfa": 111
+      },
+      {
+       "id": "2.2-05",
+       "tur": "secmeli",
+       "soru": "Gause'un deneyinde Paramecium aurelia ve Paramecium caudatum aynı kültür ortamında birlikte yetiştirildiğinde ne gözlenmiştir?",
+       "secenekler": [
+        "İki türün birey sayısı da sürekli artmıştır.",
+        "P. caudatum ortamdan elenmiştir.",
+        "P. aurelia ortamdan elenmiştir.",
+        "İki tür arasında mutualizm başlamıştır."
+       ],
+       "dogru": 1,
+       "bilgi": "Aynı ekolojik nişi paylaşan türlerde rekabet, kaynakları daha etkili kullanan türün lehine sonuçlanabilir.",
+       "sayfa": 114
+      },
+      {
+       "id": "2.2-06",
+       "tur": "bosluk",
+       "cumle": "Bir türün yaşamını sürdürmek için yaptığı tüm faaliyetleri, diğer canlılarla ilişkilerini ve ekosistemdeki işlevini ifade eden kavrama ___ denir.",
+       "cevap": "ekolojik niş",
+       "celdiriciler": [
+        "habitat",
+        "popülasyon",
+        "komünite"
+       ],
+       "bilgi": "Habitat canlının doğal yaşam ortamıdır; rekabetin temel nedeni aynı habitattaki türlerin nişlerinin örtüşmesidir.",
+       "sayfa": 113
+      },
+      {
+       "id": "2.2-07",
+       "tur": "eslestir",
+       "yonerge": "Simbiyotik ilişki türlerini örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Mutualizm",
+         "Baklagil kökleri ve Rhizobium bakterileri"
+        ],
+        [
+         "Zorunlu mutualizm",
+         "Liken birliğini oluşturan alg ve mantar"
+        ],
+        [
+         "Kommensalizm",
+         "Köpek balığı ve remora balığı"
+        ],
+        [
+         "Amensalizm",
+         "Ceviz ağacı ve altındaki otsu bitkiler"
+        ],
+        [
+         "Parazitizm",
+         "Tenya ve konağı"
+        ]
+       ],
+       "bilgi": "Simbiyotik ilişkilerde türler karşılıklı fayda görebilir, biri zarar görebilir ya da biri etkilenmeyebilir.",
+       "sayfa": 115
+      },
+      {
+       "id": "2.2-08",
+       "tur": "dy",
+       "ifade": "Ökse otu klorofil taşımadığı için tüm besinini konak bitkiden alan tam parazit bir bitkidir.",
+       "dogru": false,
+       "bilgi": "Ökse otu klorofilli yarı parazittir, konaktan yalnızca su ve mineral alır; canavar otu ise tam parazittir.",
+       "sayfa": 117
+      },
+      {
+       "id": "2.2-09",
+       "tur": "secmeli",
+       "soru": "Kanada vaşağı ve kar tavşanı popülasyonlarının zaman içinde birbirini izleyen artış ve azalışlar göstermesi hangi ilişkiye örnektir?",
+       "secenekler": [
+        "Mutualizm",
+        "Kommensalizm",
+        "Amensalizm",
+        "Av-avcı ilişkisi"
+       ],
+       "dogru": 3,
+       "bilgi": "Avcı sayısı artınca av azalır; av azalınca avcı sayısı düşer ve av yeniden artar.",
+       "sayfa": 114
+      },
+      {
+       "id": "2.2-10",
+       "tur": "secmeli",
+       "soru": "Çıplak kaya yüzeylerinde başlayan birincil süksesyonda karasal ortamlara ilk yerleşen öncü türler genellikle hangileridir?",
+       "secenekler": [
+        "Likenler ve karayosunları",
+        "Çalılar ve genç ağaçlar",
+        "Meşe ve ceviz ağaçları",
+        "Tek yıllık otsu bitkiler ve çalılar"
+       ],
+       "dogru": 0,
+       "bilgi": "Likenler kayaların parçalanmasına katkı sağlayarak ince bir toprak tabakasının oluşmasını sağlar.",
+       "sayfa": 119
+      },
+      {
+       "id": "2.2-11",
+       "tur": "dy",
+       "ifade": "İkincil süksesyon, toprak ve tohum bankasının çoğu zaman korunması nedeniyle birincil süksesyondan daha hızlı ilerler.",
+       "dogru": true,
+       "bilgi": "İkincil süksesyon yangın, sel, aşırı otlatma gibi nedenlerle bozulmuş ancak toprağı korunmuş alanlarda gerçekleşir.",
+       "sayfa": 120
+      },
+      {
+       "id": "2.2-12",
+       "tur": "bosluk",
+       "cumle": "Süksesyon sürecinde komünitenin ulaştığı karmaşık yapılı ileri aşamaya ___ komünite denir.",
+       "cevap": "klimaks",
+       "celdiriciler": [
+        "öncü",
+        "ikincil",
+        "alt"
+       ],
+       "bilgi": "Süksesyon, komünitenin tür bileşimi ve yapısının zaman içinde aşamalı olarak değişmesidir.",
+       "sayfa": 118
+      }
+     ]
+    },
+    {
+     "no": "2.3",
+     "ad": "Ekosistemdeki Madde ve Enerji Akışı",
+     "kartlar": [
+      {
+       "id": "2.3-01",
+       "tur": "secmeli",
+       "soru": "Enerjinin yoktan var, vardan yok edilemeyeceğini ancak bir şekilden diğerine dönüştürülebileceğini ifade eden yasa hangisidir?",
+       "secenekler": [
+        "Termodinamiğin ikinci yasası",
+        "Termodinamiğin birinci yasası",
+        "%10 yasası",
+        "Minimum kuralı"
+       ],
+       "dogru": 1,
+       "bilgi": "Bu yasaya göre bitkiler enerji üreticisi değil, güneş enerjisini kimyasal enerjiye dönüştüren canlılardır.",
+       "sayfa": 122
+      },
+      {
+       "id": "2.3-02",
+       "tur": "dy",
+       "ifade": "Termodinamiğin ikinci yasasına göre her enerji dönüşümünde enerjinin bir kısmı ısıya dönüşür ve iş yapmak için kullanılabilir enerji azalır.",
+       "dogru": true,
+       "bilgi": "Enerji her trofik düzeyde ısı olarak kaybedildiği için ekosistemde enerji akışı tek yönlüdür.",
+       "sayfa": 122
+      },
+      {
+       "id": "2.3-03",
+       "tur": "bosluk",
+       "cumle": "Besin zincirinde üreticilerle beslenen otçul canlılara ___ tüketici denir.",
+       "cevap": "birincil",
+       "celdiriciler": [
+        "ikincil",
+        "üçüncül",
+        "dördüncül"
+       ],
+       "bilgi": "Birincil tüketicilerle beslenenler ikincil, ikincil tüketicilerle beslenenler üçüncül tüketicidir.",
+       "sayfa": 128
+      },
+      {
+       "id": "2.3-04",
+       "tur": "dy",
+       "ifade": "Hepçil (omnivor) canlılar besin zincirinde yalnızca birincil tüketici olarak yer alabilir.",
+       "dogru": false,
+       "bilgi": "Trofik düzey hangi düzeydeki canlıyla beslenildiğine bağlıdır; hepçiller birincil, ikincil ya da üçüncül tüketici olabilir.",
+       "sayfa": 128
+      },
+      {
+       "id": "2.3-05",
+       "tur": "secmeli",
+       "soru": "Farklı besin zincirlerinin birbirine bağlanarak oluşturduğu karmaşık ve çok yönlü beslenme ilişkileri yapısına ne ad verilir?",
+       "secenekler": [
+        "Besin zinciri",
+        "Enerji piramidi",
+        "Besin ağı",
+        "Biyokütle piramidi"
+       ],
+       "dogru": 2,
+       "bilgi": "Birçok canlı çok çeşit besin tükettiği için birden fazla besin zincirinde yer alır.",
+       "sayfa": 128
+      },
+      {
+       "id": "2.3-06",
+       "tur": "bosluk",
+       "cumle": "Trofik basamaklar arasında enerjinin yaklaşık onda birinin üst basamağa aktarılmasına ___ yasası denir.",
+       "cevap": "%10",
+       "celdiriciler": [
+        "%1",
+        "%50",
+        "%90"
+       ],
+       "bilgi": "Enerjinin büyük kısmı hücresel solunumla ısıya dönüşür veya atıklarla vücuttan atılır.",
+       "sayfa": 129
+      },
+      {
+       "id": "2.3-07",
+       "tur": "secmeli",
+       "soru": "Üreticiler yeryüzüne ulaşan güneş enerjisinin yaklaşık ne kadarını fotosentezle organik maddeye dönüştürebilir?",
+       "secenekler": [
+        "%1",
+        "%10",
+        "%25",
+        "%50"
+       ],
+       "dogru": 0,
+       "bilgi": "Üreticilerin ekosisteme kazandırdığı enerji trofik basamaklar boyunca giderek azalır.",
+       "sayfa": 129
+      },
+      {
+       "id": "2.3-08",
+       "tur": "bosluk",
+       "cumle": "Belirli bir alandaki canlıların genellikle kuru ağırlık olarak ifade edilen toplam organik madde miktarına ___ denir.",
+       "cevap": "biyokütle",
+       "celdiriciler": [
+        "biyolojik birikim",
+        "popülasyon yoğunluğu",
+        "taşıma kapasitesi"
+       ],
+       "bilgi": "Biyokütle piramidinde üst trofik basamaklara çıkıldıkça biyokütle genellikle azalır.",
+       "sayfa": 129
+      },
+      {
+       "id": "2.3-09",
+       "tur": "secmeli",
+       "soru": "Biyolojik birikime neden olan zehirli maddeler besin zincirinin hangi basamağındaki canlılarda en fazla birikir?",
+       "secenekler": [
+        "Üreticiler",
+        "Birincil tüketici konumundaki otçullar",
+        "Ayrıştırıcılar",
+        "En üst basamaktaki tüketiciler"
+       ],
+       "dogru": 3,
+       "bilgi": "Vücuttan kolayca atılamayan maddeler üst trofik basamaklara çıkıldıkça artan oranda birikir.",
+       "sayfa": 130
+      },
+      {
+       "id": "2.3-10",
+       "tur": "eslestir",
+       "yonerge": "Biyolojik birikime yol açan durumları ilgili maddelerle eşleştir.",
+       "ciftler": [
+        [
+         "Minamata hastalığı",
+         "Metil cıva"
+        ],
+        [
+         "İtai itai hastalığı",
+         "Kadmiyum"
+        ],
+        [
+         "Sıtma sivrisineklerine karşı kullanılan pestisit",
+         "DDT"
+        ],
+        [
+         "Atık pillerin toprağa karışması",
+         "Cıva, kurşun, kadmiyum gibi ağır metaller"
+        ]
+       ],
+       "bilgi": "Minamata hastalığı çevre kirliliğinin neden olduğu rapor edilen ilk hastalıktır.",
+       "sayfa": 125
+      },
+      {
+       "id": "2.3-11",
+       "tur": "dy",
+       "ifade": "DDT çevrede kısa sürede parçalandığı için biyolojik birikime yol açmaz.",
+       "dogru": false,
+       "bilgi": "DDT çevrede yaklaşık 10 yıl kalabilir, besin zincirinde taşınıp dokularda birikir; 1980'lerden itibaren birçok ülkede yasaklanmıştır.",
+       "sayfa": 130
+      },
+      {
+       "id": "2.3-12",
+       "tur": "secmeli",
+       "soru": "Trofik basamaklar arasında enerji giderek azaldığı için besin zincirleri genellikle kaç basamakla sınırlıdır?",
+       "secenekler": [
+        "2-3",
+        "7-8",
+        "4-5",
+        "10-12"
+       ],
+       "dogru": 2,
+       "bilgi": "Ayrıştırıcılar tüm trofik basamaklardan gelen organik maddeleri parçalayarak enerji akışında rol oynar.",
+       "sayfa": 130
+      }
+     ]
+    },
+    {
+     "no": "2.4",
+     "ad": "Madde Döngüleri",
+     "kartlar": [
+      {
+       "id": "2.4-01",
+       "tur": "secmeli",
+       "soru": "Kapalı bir biyosferde yaşamın test edildiği Biyosfer-2 projesinin sonunda hangisi gözlenmiştir?",
+       "secenekler": [
+        "Oksijen oranı %14'e düşmüş, madde döngüleri gerçekleşmemiştir.",
+        "Tüm omurgalı türleri hızla çoğalmış, göller tamamen berraklaşmıştır.",
+        "Karbondioksit derişimi azalmış, bitkiler gelişmiştir.",
+        "Madde döngüleri sorunsuz biçimde sürdürülmüştür."
+       ],
+       "dogru": 0,
+       "bilgi": "Biyosfer-2'de 25 omurgalı türünden 19'u yok olmuş, göller yosunla kaplanmış, azot oksit zararlı düzeye ulaşmıştır.",
+       "sayfa": 132
+      },
+      {
+       "id": "2.4-02",
+       "tur": "eslestir",
+       "yonerge": "Uluslararası çevre sözleşmelerini amaçlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Viyana Sözleşmesi",
+         "Ozon tabakasının korunması"
+        ],
+        [
+         "Paris Antlaşması",
+         "İklim değişikliği rejiminin düzenlenmesi"
+        ],
+        [
+         "CITES",
+         "Nesli tehlikedeki türlerin uluslararası ticareti"
+        ],
+        [
+         "Basel Sözleşmesi",
+         "Tehlikeli atıkların sınır ötesi taşınmasının kontrolü"
+        ]
+       ],
+       "bilgi": "Çevre sorunlarının çözümü uluslararası iş birliğini gerekli kılar.",
+       "sayfa": 132
+      },
+      {
+       "id": "2.4-03",
+       "tur": "bosluk",
+       "cumle": "Atmosferde gaz hâlinde bulunan azot, havanın yaklaşık %___'ini oluşturur.",
+       "cevap": "78",
+       "celdiriciler": [
+        "21",
+        "1",
+        "0,03"
+       ],
+       "bilgi": "Azot amino asit, nükleik asit, hormon ve vitamin gibi hayati moleküllerin yapısına katılır.",
+       "sayfa": 136
+      },
+      {
+       "id": "2.4-04",
+       "tur": "dy",
+       "ifade": "Bitkiler atmosferdeki azot gazını doğrudan kullanabilir.",
+       "dogru": false,
+       "bilgi": "Bitkiler azotu topraktan amonyum (NH₄⁺) ve nitrat (NO₃⁻) olarak alır; havadaki azotu doğrudan kullanamaz.",
+       "sayfa": 136
+      },
+      {
+       "id": "2.4-05",
+       "tur": "eslestir",
+       "yonerge": "Azot döngüsündeki olayları tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Azot fiksasyonu",
+         "Havadaki azotun bakteriler veya yıldırımla toprağa bağlanması"
+        ],
+        [
+         "Nitrifikasyon",
+         "Amonyağın önce nitrite, sonra nitrata dönüşmesi"
+        ],
+        [
+         "Denitrifikasyon",
+         "Nitrat ve nitritin azot gazına çevrilip atmosfere dönmesi"
+        ]
+       ],
+       "bilgi": "Ayrıştırıcılar ölü canlı ve atıklardaki azotlu bileşikleri amonyak ve amonyuma dönüştürür.",
+       "sayfa": 136
+      },
+      {
+       "id": "2.4-06",
+       "tur": "secmeli",
+       "soru": "Karbon döngüsünde karbonu hapseden ve aşındıkça içindeki karbonu tekrar döngüye katan kayaç hangisidir?",
+       "secenekler": [
+        "Granit",
+        "Bazalt",
+        "Kireç taşı",
+        "Kumtaşı"
+       ],
+       "dogru": 2,
+       "bilgi": "Karbon karada doğal gaz, petrol, kömür ve kireç taşı olarak bulunur.",
+       "sayfa": 135
+      },
+      {
+       "tur": "secmeli",
+       "soru": "Aşağıdaki olaylardan hangisi atmosfere karbondioksit verir?",
+       "secenekler": [
+        "Fosil yakıtların yanması",
+        "Bitkilerde fotosentez",
+        "Kireç taşlarında karbon birikmesi",
+        "Azot bağlayıcı bakterilerin faaliyeti"
+       ],
+       "dogru": 0,
+       "bilgi": "Canlıların yapısındaki karbon solunum, boşaltım, ayrışma ve yanma ile atmosfere döner.",
+       "sayfa": 135,
+       "id": "2.4-07"
+      },
+      {
+       "id": "2.4-08",
+       "tur": "bosluk",
+       "cumle": "Su döngüsünde su, buharlaşmanın yanı sıra canlıların ___ ve solunumuyla da atmosfere geçer.",
+       "cevap": "terleme",
+       "celdiriciler": [
+        "boşaltım",
+        "sindirim",
+        "fotosentez"
+       ],
+       "bilgi": "Atmosferdeki su buharı yoğuşarak yağmur, kar veya dolu olarak yeryüzüne iner.",
+       "sayfa": 134
+      },
+      {
+       "id": "2.4-09",
+       "tur": "secmeli",
+       "soru": "Atmosferdeki karbondioksidi fotosentezde kullanarak karbonu organik maddelere katan canlılar hangileridir?",
+       "secenekler": [
+        "Yeşil bitkiler ve fitoplanktonlar",
+        "Ayrıştırıcı mantarlar",
+        "Etçil hayvanlar",
+        "Otçul hayvanlar"
+       ],
+       "dogru": 0,
+       "bilgi": "Organik maddeler besin zinciriyle tüketicilere aktarılır; solunumla açığa çıkan CO₂ atmosfere döner.",
+       "sayfa": 135
+      },
+      {
+       "id": "2.4-10",
+       "tur": "secmeli",
+       "soru": "Madde döngülerinin bozulmasına bağlı olarak azotlu bileşiklerin atmosferdeki artışı hangi soruna yol açar?",
+       "secenekler": [
+        "Erozyon",
+        "Asit yağmurları",
+        "Deprem",
+        "Gelgit"
+       ],
+       "dogru": 1,
+       "bilgi": "Karbon döngüsündeki bozulmalar ise yeryüzündeki sıcaklık artışına neden olur.",
+       "sayfa": 132
+      }
+     ]
+    },
+    {
+     "no": "2.5",
+     "ad": "Ekolojik Sürdürülebilirliğin Önemi",
+     "kartlar": [
+      {
+       "id": "2.5-01",
+       "tur": "secmeli",
+       "soru": "\"Sürdürülebilirlik\" kavramı ilk kez 1987'de Birleşmiş Milletler'in hangi raporunda ele alınmıştır?",
+       "secenekler": [
+        "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi",
+        "Ortak Geleceğimiz (Brundtland) Raporu",
+        "Viyana Sözleşmesi",
+        "Basel Sözleşmesi"
+       ],
+       "dogru": 1,
+       "bilgi": "Rapor, Dünya Çevre ve Kalkınma Komisyonu tarafından yayımlanmıştır.",
+       "sayfa": 140
+      },
+      {
+       "id": "2.5-02",
+       "tur": "bosluk",
+       "cumle": "Sürdürülebilir kalkınma sosyal, ekonomik ve ___ olmak üzere üç boyutta ele alınır.",
+       "cevap": "ekolojik",
+       "celdiriciler": [
+        "siyasi",
+        "kültürel",
+        "teknolojik"
+       ],
+       "bilgi": "Sürdürülebilir kalkınmanın çevresel boyutu ekolojik sürdürülebilirlik olarak adlandırılır.",
+       "sayfa": 140
+      },
+      {
+       "id": "2.5-03",
+       "tur": "dy",
+       "ifade": "Doğal kaynaklar kendini yenileme hızının üzerinde kullanıldığında ekosistem dengesi bozulur ve kaynaklar tükenir.",
+       "dogru": true,
+       "bilgi": "Ekolojik sürdürülebilirlik ekolojik dengeyi koruyarak doğal kaynakların gelecek nesillere aktarılmasını amaçlar.",
+       "sayfa": 141
+      },
+      {
+       "id": "2.5-04",
+       "tur": "secmeli",
+       "soru": "Brundtland Raporu'na göre sürdürülebilir kalkınma nasıl tanımlanır?",
+       "secenekler": [
+        "Doğal kaynakları mümkün olan en hızlı biçimde ekonomiye kazandırmak",
+        "Gelecek kuşakların ihtiyacından ödün vermeden bugünü karşılamak",
+        "Yalnızca yenilenemeyen kaynakları kullanmak",
+        "Ekonomik büyümeyi çevreden bağımsız sürdürmek"
+       ],
+       "dogru": 1,
+       "bilgi": "Bu anlayış kalkınmada çevresel, ekonomik ve sosyal unsurların birlikte değerlendirilmesini esas alır.",
+       "sayfa": 140
+      },
+      {
+       "id": "2.5-05",
+       "tur": "bosluk",
+       "cumle": "Ramsar Sözleşmesi, ___ korunmasını ve sürdürülebilir kullanımını amaçlayan uluslararası bir sözleşmedir.",
+       "cevap": "sulak alanların",
+       "celdiriciler": [
+        "ozon tabakasının",
+        "tehlikeli atıkların",
+        "kutup buzullarının"
+       ],
+       "bilgi": "Meke Maarı 2005'te, Sultan Sazlığı gibi sulak alanlar da Ramsar Sözleşmesi ile koruma altına alınmıştır.",
+       "sayfa": 141
+      },
+      {
+       "id": "2.5-06",
+       "tur": "secmeli",
+       "soru": "Konya Karapınar'da sönmüş bir volkan kraterinin suyla dolmasıyla oluşan ve 2005'te Ramsar Alanı ilan edilen göl hangisidir?",
+       "secenekler": [
+        "Meke Maarı",
+        "Yay Gölü",
+        "Gölköy Baraj Gölü",
+        "Salda Gölü"
+       ],
+       "dogru": 0,
+       "bilgi": "Volkanik patlamalarla oluşan göllere maar gölü denir; Meke Gölü iç içe iki krater gölü barındırır.",
+       "sayfa": 141
+      },
+      {
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi ekolojik sürdürülebilirlik kapsamında yer alır?",
+       "secenekler": [
+        "Atıkların geri dönüşümünün artırılması",
+        "Kaynakların yenilenme hızının üzerinde kullanılması",
+        "Sulak alanların tarım için kurutulması",
+        "Kirliliğin büyüme uğruna göz ardı edilmesi"
+       ],
+       "dogru": 0,
+       "bilgi": "Ekolojik sürdürülebilirlik kirliliğin önlenmesini, kaynakların bilinçli kullanımını ve geri dönüşümün artırılmasını kapsar.",
+       "sayfa": 141,
+       "id": "2.5-07"
+      }
+     ]
+    },
+    {
+     "no": "2.6",
+     "ad": "Ekolojik Sürdürülebilirliği Kısıtlayan/Engelleyen Durumlar",
+     "kartlar": [
+      {
+       "id": "2.6-01",
+       "tur": "eslestir",
+       "yonerge": "Çevre sorunlarıyla ilgili kavramları tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Habitat kaybı",
+         "Yaşam alanının insan faaliyetiyle tamamen yok olması"
+        ],
+        [
+         "Habitat parçalanması",
+         "Büyük yaşam alanlarının küçük parçalara ayrılması"
+        ],
+        [
+         "Biyoremediasyon",
+         "Kirleticilerin canlı organizmalarla giderilmesi"
+        ],
+        [
+         "Erozyon",
+         "Bitki örtüsünden yoksun toprağın su ve rüzgârla taşınması"
+        ]
+       ],
+       "bilgi": "Habitat kaybı, kirlilik ve biyoçeşitlilik kaybı ekolojik sürdürülebilirliği tehdit eden başlıca durumlardır.",
+       "sayfa": 144
+      },
+      {
+       "id": "2.6-02",
+       "tur": "secmeli",
+       "soru": "Ozon tabakasının incelmesine yol açan ve 1987 Montreal Protokolü ile kullanımı yasaklanan maddeler hangileridir?",
+       "secenekler": [
+        "Kloroflorokarbonlar (CFC)",
+        "DDT ve pestisitler",
+        "Metil cıva bileşikleri",
+        "Kadmiyum tuzları"
+       ],
+       "dogru": 0,
+       "bilgi": "CFC'ler üst atmosferde parçalanarak ozonun oksijene dönüşmesine yol açan maddeler oluşturur.",
+       "sayfa": 146
+      },
+      {
+       "id": "2.6-03",
+       "tur": "dy",
+       "ifade": "Ozon tabakası, Güneş'ten gelen zararlı UV-B ve UV-C ışınlarının yeryüzüne ulaşmasını önler.",
+       "dogru": true,
+       "bilgi": "Ozonun %90'ı yeryüzünün 15-50 km'leri arasında bulunur; incelmesi deri kanseri ve katarakt riskini artırır.",
+       "sayfa": 146
+      },
+      {
+       "id": "2.6-04",
+       "tur": "secmeli",
+       "soru": "Asit yağmurlarında gazların su buharıyla tepkimesi sonucu oluşan asitler hangileridir?",
+       "secenekler": [
+        "Hidroklorik asit ve laktik asit",
+        "Asetik asit ve sitrik asit",
+        "Nitrik asit ve sülfürik asit",
+        "Fosforik asit ve borik asit"
+       ],
+       "dogru": 2,
+       "bilgi": "Asit yağmurları SO₂, NO₂, CO ve CO₂ gibi gazların su döngüsüne karışmasıyla oluşur.",
+       "sayfa": 146
+      },
+      {
+       "id": "2.6-05",
+       "tur": "bosluk",
+       "cumle": "Normal yağmur suyunun pH değeri yaklaşık ___ olup asit yağmurlarının pH'ı bu değerin altındadır.",
+       "cevap": "5,5-5,6",
+       "celdiriciler": [
+        "7,0-7,2",
+        "8,5-9,0",
+        "3,0-3,5"
+       ],
+       "bilgi": "Asit yağmurları su kaynaklarını kirletir; topraktaki ağır metallerin göl ve akarsulara karışmasına yol açar.",
+       "sayfa": 146
+      },
+      {
+       "id": "2.6-06",
+       "tur": "secmeli",
+       "soru": "Gübre ve atıklarla sudaki azot ve fosfor miktarının artması sonucu alg ve su bitkilerinin kontrolsüz çoğalmasına ne ad verilir?",
+       "secenekler": [
+        "Biyoremediasyon",
+        "Erozyon",
+        "Denitrifikasyon",
+        "Ötrofikasyon"
+       ],
+       "dogru": 3,
+       "bilgi": "Ötrofikasyon özellikle göl, havuz ve yavaş akan nehirlerde belirgindir.",
+       "sayfa": 147
+      },
+      {
+       "id": "2.6-07",
+       "tur": "dy",
+       "ifade": "Ötrofikasyonda artan organik maddeyi ayrıştıran bakteriler sudaki çözünmüş oksijen miktarını artırır.",
+       "dogru": false,
+       "bilgi": "Ayrıştırıcı bakteriler çözünmüş oksijeni tüketir; oksijen azaldıkça sucul canlılar yaşamlarını sürdüremez.",
+       "sayfa": 147
+      },
+      {
+       "id": "2.6-08",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi doğal radyasyon kaynağıdır?",
+       "secenekler": [
+        "Yer kabuğundaki uranyum ve toryum",
+        "Hastanelerdeki tıbbi X ışını cihazları",
+        "Nükleer santraller",
+        "Televizyonlar"
+       ],
+       "dogru": 0,
+       "bilgi": "Kozmik ışınlar ve yer kabuğundaki radyoizotoplar doğal, X ışını cihazları ve nükleer santraller yapay kaynaklardır.",
+       "sayfa": 148
+      },
+      {
+       "id": "2.6-09",
+       "tur": "bosluk",
+       "cumle": "İnsan faaliyetleriyle sera gazlarının artması sonucu yeryüzü ve yakın atmosfer sıcaklığının yapay olarak artmasına ___ denir.",
+       "cevap": "küresel ısınma",
+       "celdiriciler": [
+        "sera etkisi",
+        "ozon incelmesi",
+        "asit yağmuru"
+       ],
+       "bilgi": "Küresel ısınma küresel iklim değişikliğine, buzulların erimesine ve deniz seviyesinin yükselmesine neden olur.",
+       "sayfa": 149
+      },
+      {
+       "id": "2.6-10",
+       "tur": "dy",
+       "ifade": "Sera etkisi tamamen zararlı bir olaydır; doğal sera etkisi olmasaydı Dünya'da yaşam daha uygun olurdu.",
+       "dogru": false,
+       "bilgi": "Doğal sera etkisi Dünya'yı olması gerekenden sıcak tutarak yaşamın devamlılığını sağlar; sorun sera gazlarının aşırı artışıdır.",
+       "sayfa": 149
+      },
+      {
+       "id": "2.6-11",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi orman yangınlarının doğal sebeplerinden biridir?",
+       "secenekler": [
+        "Sönmemiş sigara izmariti",
+        "Elektrik nakil hattı kazası",
+        "Yıldırım düşmesi",
+        "İstenmeyen otların yakılması"
+       ],
+       "dogru": 2,
+       "bilgi": "Yıldırım, volkanik patlama ve çöplükte metan patlaması doğal sebeplerdir; Türkiye'de yangınların yaklaşık %97'si yazın görülür.",
+       "sayfa": 150
+      }
+     ]
+    },
+    {
+     "no": "2.7",
+     "ad": "Ekolojik Ayak İzinin Küçültülmesi",
+     "kartlar": [
+      {
+       "id": "2.7-01",
+       "tur": "eslestir",
+       "yonerge": "Kavramları tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Ekolojik ayak izi",
+         "Kaynakların yenilenmesi ve atıkların giderilmesi için gereken alan"
+        ],
+        [
+         "Biyokapasite",
+         "Dünya'nın tüketilen kaynakları yeniden üretebilen verimli kaynakları"
+        ],
+        [
+         "Ekolojik açık",
+         "Ekolojik ayak izi ile biyokapasite arasındaki fark"
+        ],
+        [
+         "Su ayak izi",
+         "Tüketim veya üretimde kullanılan toplam tatlı su hacmi"
+        ]
+       ],
+       "bilgi": "Ekolojik ayak izi, doğal kaynak kullanımını sayısal olarak ifade eden bir hesaplama yöntemidir.",
+       "sayfa": 156
+      },
+      {
+       "id": "2.7-02",
+       "tur": "secmeli",
+       "soru": "Türkiye'de ekolojik ayak izini oluşturan etkenlerin en büyüğü %82'lik oranla hangisidir?",
+       "secenekler": [
+        "Sanayi üretimi",
+        "Kişisel tüketim",
+        "Toplu ulaşım",
+        "Enerji ihracatı"
+       ],
+       "dogru": 1,
+       "bilgi": "Kişisel tüketimin ekolojik ayak izinin temel kaynağı ağırlıklı olarak gıdadır.",
+       "sayfa": 156
+      },
+      {
+       "tur": "secmeli",
+       "soru": "Ekolojik ayak izi bir kişinin, topluluğun veya ülkenin hangi etkilerini değerlendirir?",
+       "secenekler": [
+        "Yalnızca ekonomik büyüme hızını",
+        "Yalnızca nüfus artış oranını",
+        "Kaynak kullanımını, atık üretimini ve çevresel etkisini",
+        "Yalnızca yenilenebilir enerji üretimini"
+       ],
+       "dogru": 2,
+       "bilgi": "Ekolojik ayak izi doğal kaynakların doğrudan ve dolaylı yollarla ne kadar tüketildiğini ve çevreye etkisini ölçer.",
+       "sayfa": 153,
+       "id": "2.7-03"
+      },
+      {
+       "id": "2.7-04",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi ekolojik ayak izini küçültmeye katkı sağlar?",
+       "secenekler": [
+        "Kısa mesafelerde özel araç kullanmak",
+        "Fosil yakıt tüketimini artırmak",
+        "Organik atıkları kompost yaparak geri kazandırmak",
+        "Yerel ürünler yerine uzaktan taşınan ürünleri seçmek"
+       ],
+       "dogru": 2,
+       "bilgi": "Yenilenebilir enerji, geri dönüşüm, yerel ürün, toplu taşıma ve su tasarrufu ekolojik ayak izini küçültür.",
+       "sayfa": 157
+      },
+      {
+       "id": "2.7-05",
+       "tur": "dy",
+       "ifade": "Ekolojik ayak izinin azaltılmasında kurumların aldığı önlemler, bireysel çabalardan daha az olumlu sonuç verir.",
+       "dogru": false,
+       "bilgi": "Karbon salımı yüksek kurumların aldığı önlemler bireysel çabalardan daha fazla olumlu sonuç oluşturur.",
+       "sayfa": 156
+      },
+      {
+       "id": "2.7-06",
+       "tur": "bosluk",
+       "cumle": "Gıda üretiminde hayvansal atıklar doğrudan, tarımsal atıklar ise ___ yapıldıktan sonra gübre olarak kullanılabilir.",
+       "cevap": "kompost",
+       "celdiriciler": [
+        "biyogaz",
+        "filtrasyon",
+        "arıtma"
+       ],
+       "bilgi": "Gıda atıkları biyoetanol veya biyogaz üretiminde, ambalaj atıkları ise ayrıştırılarak geri dönüşümde kullanılabilir.",
+       "sayfa": 154
+      },
+      {
+       "id": "2.7-07",
+       "tur": "bosluk",
+       "cumle": "Bugün ihtiyaç duyulan kaynakları elde etmek ve atıkları yok etmek için gereken alan Dünya'nın yaklaşık %___'ı kadardır.",
+       "cevap": "160",
+       "celdiriciler": [
+        "60",
+        "100",
+        "82"
+       ],
+       "bilgi": "İnsanlık doğanın sunduğundan çok daha fazlasını tüketmektedir.",
+       "sayfa": 153
+      }
+     ]
+    },
+    {
+     "no": "2.8",
+     "ad": "Doğal Kaynakların ve Biyoçeşitliliğin Korunması",
+     "kartlar": [
+      {
+       "id": "2.8-01",
+       "tur": "secmeli",
+       "soru": "Türkiye'de nesli tehlike altındaki kelaynak kuşları için üreme istasyonu nerede kurulmuştur?",
+       "secenekler": [
+        "Kaz Dağları",
+        "Hatay",
+        "Şanlıurfa-Birecik",
+        "Sultan Sazlığı"
+       ],
+       "dogru": 2,
+       "bilgi": "Türkiye'de başta deniz kaplumbağaları, Akdeniz foku ve kelaynaklar için tür koruma çalışmaları sürdürülmektedir.",
+       "sayfa": 163
+      },
+      {
+       "id": "2.8-02",
+       "tur": "eslestir",
+       "yonerge": "Biyoçeşitlilik koruma çalışmalarını örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Tür koruma",
+         "Akdeniz foku ve deniz kaplumbağası koruma çalışmaları"
+        ],
+        [
+         "Alan (yerinde) koruma",
+         "Millî parklar ve yaban hayatı geliştirme sahaları"
+        ],
+        [
+         "Alan dışı koruma",
+         "Tohum bankaları, gen bankaları ve botanik bahçeleri"
+        ]
+       ],
+       "bilgi": "Kaz Dağları Millî Parkı ve Hatay Dağ Ceylanı Yaban Hayatı Geliştirme Sahası alan koruma örnekleridir.",
+       "sayfa": 163
+      },
+      {
+       "id": "2.8-03",
+       "tur": "dy",
+       "ifade": "Alan dışı koruma çalışmaları, türlerin kendi habitatlarında korunmasını amaçlar.",
+       "dogru": false,
+       "bilgi": "Türlerin kendi habitatlarında korunması alan (yerinde) korumadır; alan dışı korumada gen bankası ve botanik bahçesi kullanılır.",
+       "sayfa": 163
+      },
+      {
+       "id": "2.8-04",
+       "tur": "secmeli",
+       "soru": "Türkiye'de alan dışı koruma çalışmaları ilk olarak hangi kurumun kurulmasıyla başlamıştır?",
+       "secenekler": [
+        "TÜBİTAK",
+        "Ege Tarımsal Araştırma Enstitüsü",
+        "Doğa Koruma ve Millî Parklar Genel Müdürlüğü",
+        "Türkiye Millî Botanik Bahçesi"
+       ],
+       "dogru": 1,
+       "bilgi": "Enstitüdeki ulusal tohum gen bankasında 3.339 türe ait 55.000'den fazla tohum örneği korunmaktadır.",
+       "sayfa": 164
+      },
+      {
+       "id": "2.8-05",
+       "tur": "bosluk",
+       "cumle": "İstanbul'da 1982'de kurulan ve büyük çoğunluğunu ağaçların oluşturduğu ağaç parkı ___ Arboretumu'dur.",
+       "cevap": "Atatürk",
+       "celdiriciler": [
+        "Nezahat Gökyiğit",
+        "Ali Nihat Gökyiğit",
+        "Kaz Dağları"
+       ],
+       "bilgi": "Nezahat Gökyiğit (İstanbul) ve Ali Nihat Gökyiğit (Adana) ise Türkiye'deki önemli botanik bahçelerindendir.",
+       "sayfa": 164
+      },
+      {
+       "tur": "secmeli",
+       "soru": "Türkiye'de deniz kaplumbağalarına ait kaç önemli üreme bölgesi doğal sit statüsüyle koruma altına alınmıştır?",
+       "secenekler": [
+        "7",
+        "33",
+        "55",
+        "21"
+       ],
+       "dogru": 3,
+       "bilgi": "Akdeniz fokunun korunması için de Akdeniz Foku Türk Ulusal Komitesi kurulmuştur.",
+       "sayfa": 163,
+       "id": "2.8-06"
+      },
+      {
+       "id": "2.8-07",
+       "tur": "secmeli",
+       "soru": "Türkiye'de tanımlanmış 12.150 damarlı bitki taksonunun yaklaşık ne kadarı endemiktir?",
+       "secenekler": [
+        "Yaklaşık 1.000",
+        "Yaklaşık 3.500",
+        "Yaklaşık 8.000",
+        "Yaklaşık 12.000"
+       ],
+       "dogru": 1,
+       "bilgi": "Türkiye, Avrupa ve Orta Doğu'nun en zengin biyoçeşitliliğine sahip ülkesidir; Avrupa'da yaklaşık 12.000 bitki türü vardır.",
+       "sayfa": 161
+      },
+      {
+       "id": "2.8-08",
+       "tur": "bosluk",
+       "cumle": "Biyoçeşitliliğin korunmasına ilişkin diğer tüm ulusal ve uluslararası uygulamaları doğrudan etkileyen sözleşme ___ Sözleşmesi'dir.",
+       "cevap": "Biyolojik Çeşitlilik",
+       "celdiriciler": [
+        "Bern",
+        "Ramsar",
+        "Basel"
+       ],
+       "bilgi": "CITES, Ramsar ve Bern sözleşmeleri de biyoçeşitliliğin korunmasına yönelik önemli anlaşmalardır.",
+       "sayfa": 162
+      },
+      {
+       "id": "2.8-09",
+       "tur": "secmeli",
+       "soru": "Biyosferdeki orman, step, deniz, kıyı, çöl ve dağ gibi farklı ekosistemlerin varlığını ifade eden kavram hangisidir?",
+       "secenekler": [
+        "Tür çeşitliliği",
+        "Genetik çeşitlilik",
+        "Ekolojik açık",
+        "Ekosistem çeşitliliği"
+       ],
+       "dogru": 3,
+       "bilgi": "Genetik çeşitlilik bireyler arası genetik varyasyonları, tür çeşitliliği bir bölgedeki tür sayısı ve yoğunluğunu ifade eder.",
+       "sayfa": 161
+      }
+     ]
+    },
+    {
+     "no": "2.9",
+     "ad": "Atık Yönetimi",
+     "kartlar": [
+      {
+       "id": "2.9-01",
+       "tur": "eslestir",
+       "yonerge": "Atık bertaraf yöntemlerini açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Kompostlaştırma",
+         "Organik atıkların humus benzeri gübreye dönüştürülmesi"
+        ],
+        [
+         "Biyometanizasyon",
+         "Organik atıklardan oksijensiz ortamda biyogaz üretimi"
+        ],
+        [
+         "Yakma",
+         "Katı atık hacminin azaltılıp ısının elektriğe çevrilmesi"
+        ],
+        [
+         "Düzenli depolama",
+         "Atıkların sıkıştırılıp üstünün örtülerek araziye yerleştirilmesi"
+        ]
+       ],
+       "bilgi": "Bertaraf; atıkların ortadan kaldırılması, yok edilmesi ve geri dönüştürülmesini kapsar.",
+       "sayfa": 171
+      },
+      {
+       "id": "2.9-02",
+       "tur": "dy",
+       "ifade": "Kompostlaştırma sırasında atıktaki hastalık yapıcı organizmalar genellikle yok edilir.",
+       "dogru": true,
+       "bilgi": "Kompost toprağa verildiğinde mikroorganizma faaliyetini artırır ve bitkilerde verimi yükseltir.",
+       "sayfa": 171
+      },
+      {
+       "id": "2.9-03",
+       "tur": "secmeli",
+       "soru": "Katı atıkların hiçbir önlem alınmadan açık araziye rastgele boşaltıldığı alanlara ne ad verilir?",
+       "secenekler": [
+        "Düzenli depolama sahası",
+        "Kontrollü kompost üretim tesisi",
+        "Düzensiz depolama sahası",
+        "Biyogaz tesisi"
+       ],
+       "dogru": 2,
+       "bilgi": "Düzensiz depolama su ve hava kirliliği, zararlı organizmaların üremesi ve heyelan riski taşır.",
+       "sayfa": 172
+      },
+      {
+       "id": "2.9-04",
+       "tur": "secmeli",
+       "soru": "Sıfır Atık uygulaması kapsamında bozulan veya kullanılmayan elektronik cihazlar için önerilen davranış hangisidir?",
+       "secenekler": [
+        "Diğer evsel çöplerle birlikte çöp konteynerine atmak",
+        "Tamir ettirmek ya da toplama noktasına götürmek",
+        "Bahçede yakarak bertaraf etmek",
+        "Toprağa gömmek"
+       ],
+       "dogru": 1,
+       "bilgi": "Sıfır atık; kaynakların verimli kullanılmasını, atığın en aza indirilmesini ve geri kazanılmasını hedefler.",
+       "sayfa": 166
+      },
+      {
+       "id": "2.9-05",
+       "tur": "dy",
+       "ifade": "Elektronik atıkların kütlece en büyük kısmını plastik malzemeler oluşturur.",
+       "dogru": false,
+       "bilgi": "E-atıkların kütlece %49'u metaller, %33'ü plastikler, %12'si katot ışını tüpleridir.",
+       "sayfa": 166
+      },
+      {
+       "id": "2.9-06",
+       "tur": "secmeli",
+       "soru": "Elektronik devre kartları, bataryalar ve aydınlatmalarda bulunan zehirli elementler hangi seçenekte birlikte verilmiştir?",
+       "secenekler": [
+        "Azot, oksijen, hidrojen",
+        "Kalsiyum, magnezyum, potasyum",
+        "Karbon, silisyum, helyum",
+        "Cıva, kurşun, kadmiyum"
+       ],
+       "dogru": 3,
+       "bilgi": "Bu elementler e-atıklar uygun şekilde toplanmadığında çevreye ve insanlara zarar verebilir.",
+       "sayfa": 166
+      },
+      {
+       "id": "2.9-07",
+       "tur": "bosluk",
+       "cumle": "Atıkların çevreye ve insan sağlığına etkisini azaltmak için ortadan kaldırılması, yok edilmesi ve geri dönüştürülmesine ___ işlemi denir.",
+       "cevap": "bertaraf",
+       "celdiriciler": [
+        "biyoremediasyon",
+        "nitrifikasyon",
+        "ötrofikasyon"
+       ],
+       "bilgi": "Atık yönetiminde ilk adım atıkların önlenmesi, yeniden kullanılması ve kaynağında ayrı toplanmasıdır.",
+       "sayfa": 171
+      },
+      {
+       "id": "2.9-08",
+       "tur": "dy",
+       "ifade": "Kontrolsüz katı atık depolanması metan ve karbondioksit gazlarını artırır, toprağı ve yer altı sularını kirletebilir.",
+       "dogru": true,
+       "bilgi": "Düzenli depolama tesislerinde sızıntı suyu ve depo gazının olumsuz etkileri kontrol altına alınır.",
+       "sayfa": 167
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

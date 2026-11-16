@@ -1,0 +1,2176 @@
+{
+ "kitap": "biyoloji-9",
+ "ders": "biyoloji",
+ "sinif": 9,
+ "baslik": "Biyoloji Dersi 9. Sınıf Ders Kitabı",
+ "sayfaUrl": "https://tymm.meb.gov.tr/kitap/36/biyoloji-dersi-9sinif-ders-kitabi",
+ "pdfUrl": "https://tymm.meb.gov.tr/assets/pdf/biyoloji-dersi-9sinif-ders-kitabi_20261006_220008_456.pdf",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Yaşam",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Biyolojinin Önemi ve Biyoloji Biliminin Gelişmesindeki Dönüm Noktaları",
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "secmeli",
+       "soru": "Hastalıkların mikroorganizmalar aracılığıyla bulaşabileceği düşüncesini ileri süren öncü hekimlerden biri kabul edilen bilim insanı kimdir?",
+       "secenekler": [
+        "Robert Hooke",
+        "Akşemseddin",
+        "Rudolf Virchow",
+        "Alexander Fleming"
+       ],
+       "dogru": 1,
+       "bilgi": "Akşemseddin (1389-1459), mikroorganizmaların hastalıklardaki rolünü ortaya koyan ve bulaşma fikrini ileri süren öncü hekimlerden biridir.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-02",
+       "tur": "bosluk",
+       "cumle": "Günümüzdeki iki mercekli (bileşik) mikroskopların temeli olan ilk mikroskop, 1665 yılında ___ ile ilişkilendirilen bir dönüm noktasıdır.",
+       "cevap": "Robert Hooke",
+       "celdiriciler": [
+        "Gregor Mendel",
+        "Theodor Schwann",
+        "Kary Mullis"
+       ],
+       "bilgi": "Mikroskobun keşfi (1665) Robert Hooke ile anılır ve canlıların mikro dünyasının incelenmesinde önemli bir adımdır.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-03",
+       "tur": "eslestir",
+       "yonerge": "Biyolojideki dönüm noktalarını ilgili bilim insanlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Hücre teorisi (1838)",
+         "Schleiden, Schwann ve Virchow"
+        ],
+        [
+         "Kalıtım kuralları (1865)",
+         "Gregor Mendel"
+        ],
+        [
+         "Penisilinin keşfi (1928)",
+         "Alexander Fleming"
+        ],
+        [
+         "DNA çift sarmal yapısı (1953)",
+         "Watson, Crick ve Franklin"
+        ],
+        [
+         "Polimeraz zincir reaksiyonu (1985)",
+         "Kary Mullis"
+        ]
+       ],
+       "bilgi": "Biyolojinin dönüm noktaları kendinden sonraki araştırmalara yön vermiş, insanlığın yaşamını ve doğayı anlama biçimini değiştirmiştir.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-04",
+       "tur": "secmeli",
+       "soru": "Yetişkin bir somatik hücreden klonlanan ilk memeli olan Dolly adlı koyunun klonlanması (1996) hangi bilim insanlarıyla ilişkilidir?",
+       "secenekler": [
+        "Stanley Cohen ve Herbert Boyer",
+        "Jennifer Doudna ve Emmanuelle Charpentier",
+        "Ian Wilmut ve Keith Campbell",
+        "James Watson ve Francis Crick"
+       ],
+       "dogru": 2,
+       "bilgi": "Ian Wilmut ve Keith Campbell'ın Dolly'yi klonlamasıyla organizmaların genetik olarak bire bir kopyalarının üretilmesi mümkün olmuştur.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1-05",
+       "tur": "secmeli",
+       "soru": "2012'de keşfedilen ve istenen bir gen bölgesinde kontrollü düzenleme yapılmasına imkân veren teknoloji hangisidir?",
+       "secenekler": [
+        "Polimeraz zincir reaksiyonu",
+        "Rekombinant DNA teknolojisi",
+        "mRNA aşı teknolojisi",
+        "CRISPR-Cas sistemi"
+       ],
+       "dogru": 3,
+       "bilgi": "CRISPR-Cas sistemi gen tedavisi, genetik hastalıkların düzeltilmesi ve bitki-hayvanlarda genetik iyileştirme gibi alanlarda ilerleme sağlamıştır.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1-06",
+       "tur": "dy",
+       "ifade": "Penisilin, bakteri kaynaklı hastalıkların tedavisinde kullanılan antibiyotiklerin ilk örneğidir ve 1928'de keşfedilmiştir.",
+       "dogru": true,
+       "bilgi": "Alexander Fleming'in 1928'de keşfettiği penisilin, ilk antibiyotik örneğidir ve türevleri hâlâ en etkili antibiyotikler arasındadır.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-07",
+       "tur": "dy",
+       "ifade": "Polimeraz zincir reaksiyonu (PCR), yetişkin hücrelerden canlı klonlamak için geliştirilmiş bir tekniktir.",
+       "dogru": false,
+       "bilgi": "PCR (1985, Kary Mullis), belirli bir DNA dizisini milyonlarca kez çoğaltmak için kullanılan bir tekniktir.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1-08",
+       "tur": "secmeli",
+       "soru": "Bitkilerden ilham alınarak geliştirilen ve uzayda oksijen ihtiyacının karşılanmasına yönelik MOXIE adlı cihazın işlevi nedir?",
+       "secenekler": [
+        "Karbondioksidi oksijene dönüştürmek",
+        "Atık suyu içme suyuna dönüştürmek",
+        "Ağırlıksız ortam koşulları oluşturmak",
+        "Radyasyonu soğurarak astronotu korumak"
+       ],
+       "dogru": 0,
+       "bilgi": "MOXIE, bitkilerden esinlenerek geliştirilmiş, karbondioksidi oksijene dönüştürebilen bir cihazdır.",
+       "sayfa": 16
+      },
+      {
+       "id": "1.1-09",
+       "tur": "bosluk",
+       "cumle": "Kütle çekim değişimlerinin insan bedenine etkilerini araştırmak ve ağırlıksız ortam koşullarını Dünya'da oluşturmak için ___ adı verilen cihazlar kullanılır.",
+       "cevap": "santrifüj",
+       "celdiriciler": [
+        "mikroskop",
+        "inkübatör",
+        "MOXIE"
+       ],
+       "bilgi": "Biyolojik uzay araştırmalarında ağırlıksız ortam koşulları Dünya üzerinde santrifüj adlı cihazlarla oluşturulur.",
+       "sayfa": 16
+      },
+      {
+       "id": "1.1-10",
+       "tur": "bosluk",
+       "cumle": "Bezelyeler üzerinde çalışarak bazı özelliklerin ebeveynden yavrulara belirli kalıplar içinde aktarıldığını gösteren bilim insanı ___ adını taşır.",
+       "cevap": "Gregor Mendel",
+       "celdiriciler": [
+        "Matthias Schleiden",
+        "Robert Hooke",
+        "Francis Crick"
+       ],
+       "bilgi": "Mendel 1865'te kalıtım kurallarını belirleyerek genetik bilginin nesiller arası aktarımının ilk açıklamasını yapmıştır.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-11",
+       "tur": "secmeli",
+       "soru": "Genetik materyalin çoğaltılmasını ve başka canlılara aktarılmasını sağlayan rekombinant DNA teknolojisi hangi yılda geliştirilmiştir?",
+       "secenekler": [
+        "1953",
+        "1985",
+        "1996",
+        "1973"
+       ],
+       "dogru": 3,
+       "bilgi": "Rekombinant DNA teknolojisi 1973'te Stanley Cohen ve Herbert Boyer tarafından geliştirilmiştir.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1-12",
+       "tur": "bosluk",
+       "cumle": "İnsan genomunun DNA dizisinin tamamen ortaya çıkarıldığı ___ 1990-2003 yılları arasında yürütülmüştür.",
+       "cevap": "İnsan Genom Projesi",
+       "celdiriciler": [
+        "CRISPR-Cas sistemi",
+        "Rekombinant DNA teknolojisi",
+        "Polimeraz zincir reaksiyonu"
+       ],
+       "bilgi": "İnsan Genom Projesi (1990-2003) ile insan DNA dizisi tamamen belirlenmiş, genetik araştırmalarda önemli gelişmeler sağlanmıştır.",
+       "sayfa": 19
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "Bilimin Doğası ve Bilimsel Araştırma Süreçleri",
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "secmeli",
+       "soru": "Bilimin doğasına göre bilimsel kanunlar ve teoriler için hangisi doğrudur?",
+       "secenekler": [
+        "Teoriler yeterince kanıtlanınca kanuna dönüşür.",
+        "Kanunlar \"nasıl\", teoriler \"neden\" sorusunu yanıtlar.",
+        "Kanunlar teorilerden daha üst düzey bilgidir.",
+        "Kanunlar değişmez, teoriler ise her zaman geçicidir."
+       ],
+       "dogru": 1,
+       "bilgi": "Teori ve kanun arasında hiyerarşi yoktur; kanunlar olayların nasıl gerçekleştiğini, teoriler ise nedenini açıklar.",
+       "sayfa": 23
+      },
+      {
+       "id": "1.2-02",
+       "tur": "dy",
+       "ifade": "Bilimde evrensel olarak kabul edilen tek bir bilimsel yöntem vardır ve her çalışmada aynı basamaklar izlenir.",
+       "dogru": false,
+       "bilgi": "Tek bir bilimsel yöntem yoktur; farklı disiplinlerde ve araştırma sorularında farklı yöntemler kullanılabilir.",
+       "sayfa": 23
+      },
+      {
+       "id": "1.2-03",
+       "tur": "dy",
+       "ifade": "Bilim insanlarının yaşantıları, eğitimleri ve değerleri çalışmalarını etkileyebildiğinden bilimsel bilginin mutlak olarak nesnel olduğu söylenemez.",
+       "dogru": true,
+       "bilgi": "Öznellik (subjektiflik), bilim insanının bakış açısı ve kabullerinin bilimsel bilgiyi şekillendirebileceğini ifade eder.",
+       "sayfa": 23
+      },
+      {
+       "id": "1.2-04",
+       "tur": "bosluk",
+       "cumle": "Bir olayın nedenini, bağlantısını veya sonucunu açıklamak için sunulan ve deney ya da gözlemle test edilebilen önermeye ___ denir.",
+       "cevap": "hipotez",
+       "celdiriciler": [
+        "tahmin",
+        "teori",
+        "çıkarım"
+       ],
+       "bilgi": "Hipotez test edilebilir, doğruluğu ya da yanlışlığı ispatlanabilir bir önerme olmalıdır.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-05",
+       "tur": "bosluk",
+       "cumle": "Kontrollü deneyde araştırmacının değiştirdiği ve etkisini araştırdığı değişkene ___ değişken denir.",
+       "cevap": "bağımsız",
+       "celdiriciler": [
+        "bağımlı",
+        "kontrol",
+        "sabit"
+       ],
+       "bilgi": "Araştırmacının değiştirdiği değişken bağımsız, ona bağlı olarak değişen değişken ise bağımlı değişkendir.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-06",
+       "tur": "secmeli",
+       "soru": "Hipotezin doğruluğu test edilmeden, hipotezden akıl yürütme yoluyla çıkarılan sonuçlara ne ad verilir?",
+       "secenekler": [
+        "Çıkarım",
+        "Gözlem",
+        "Kanun",
+        "Tahmin"
+       ],
+       "dogru": 3,
+       "bilgi": "Tahmin, hipotezden akıl yürütmeyle çıkarılan sonuçtur ve araştırmalarda zaman kaybını önler.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-07",
+       "tur": "secmeli",
+       "soru": "Bilimsel çalışma sürecinde elde edilen verilerin yorumlanmasına ne ad verilir?",
+       "secenekler": [
+        "Çıkarım",
+        "Hipotez",
+        "Tahmin",
+        "Problem"
+       ],
+       "dogru": 0,
+       "bilgi": "Verilerin yorumlanması çıkarımdır; çıkarımlar hipotezle çelişirse hipotez gözden geçirilir.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-08",
+       "tur": "secmeli",
+       "soru": "Eşit sayıda göz desenli ve desensiz güvenin avcı kuşlarla bir süre bekletildiği deneyde bağımlı değişken hangisidir?",
+       "secenekler": [
+        "Güvelerde göz deseni bulunma durumu",
+        "Avcı kuşların türü",
+        "Ortamda kalan güve sayısı",
+        "Deneyin yapıldığı ortam"
+       ],
+       "dogru": 2,
+       "bilgi": "Bu deneyde göz deseni bağımsız değişken, desen durumuna göre değişen güve sayısı bağımlı değişkendir.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-09",
+       "tur": "eslestir",
+       "yonerge": "Bilimin doğasına ait özellikleri açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Değişebilirlik",
+         "Bilginin yeni bulgularla zamanla değişmesi"
+        ],
+        [
+         "Özgünlük",
+         "Bilinmeyen bir gerçeğin açığa çıkarılması"
+        ],
+        [
+         "Öznellik",
+         "Bilim insanının bakış açısının çalışmayı etkilemesi"
+        ],
+        [
+         "Sosyal ve kültürel yapı",
+         "Toplumun kabullerinin bilgi üretimini etkilemesi"
+        ]
+       ],
+       "bilgi": "Bilimsel bilgi kesin ve mutlak değildir; toplumdan bağımsız düşünülemez ve bilim insanının yorumlarından etkilenebilir.",
+       "sayfa": 23
+      },
+      {
+       "id": "1.2-10",
+       "tur": "secmeli",
+       "soru": "Duyu organları ve araç gereçlerle bilgi toplanması olarak tanımlanan ve bilimsel araştırmanın ilk aşaması kabul edilen basamak hangisidir?",
+       "secenekler": [
+        "Veri toplama",
+        "Problemi belirleme",
+        "Deney tasarlama",
+        "Gözlem yapma"
+       ],
+       "dogru": 3,
+       "bilgi": "Gözlem, olayların sistemli ve dikkatli incelenmesidir; hipotez geliştirmeye ve sonuçları yorumlamaya yardımcı olur.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.2-11",
+       "tur": "dy",
+       "ifade": "Rosalind Franklin'in X ışını kırınım çalışmaları, Watson ve Crick'in DNA'nın yapısını ortaya koymasında kilit rol oynamıştır.",
+       "dogru": true,
+       "bilgi": "Franklin'in X ışını kırınım çalışmaları DNA'nın çift sarmal yapısının anlaşılmasında kilit rol oynamıştır.",
+       "sayfa": 24
+      },
+      {
+       "id": "1.2-12",
+       "tur": "bosluk",
+       "cumle": "Fizikte deneysel ve matematiksel modeller sıkça kullanılırken sosyal bilimlerde daha çok gözlem ve ___ tercih edilir.",
+       "cevap": "anketler",
+       "celdiriciler": [
+        "kontrollü deneyler",
+        "matematiksel modeller",
+        "laboratuvar analizleri"
+       ],
+       "bilgi": "Bilimsel araştırma süreçleri disiplinlere ve araştırma sorusunun özelliğine göre değişkenlik gösterir.",
+       "sayfa": 27
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "Bilim Etiği",
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "secmeli",
+       "soru": "2021'de İngiltere'de onaylanan \"Human Challenge\" adlı COVID-19 araştırmasını klasik aşı çalışmalarından ayıran uygulama neydi?",
+       "secenekler": [
+        "Virüse doğal yollarla maruz kalınmasının beklenmesi",
+        "Sağlıklı gönüllülere bilerek canlı virüs verilmesi",
+        "Araştırmanın yalnızca hayvanlar üzerinde yürütülmesi",
+        "Gönüllülere aşı yerine yalnızca ilaç verilmesi"
+       ],
+       "dogru": 1,
+       "bilgi": "Human Challenge çalışmasında 18-30 yaş arası 36 sağlıklı gönüllüye kontrollü koşullarda bilerek canlı SARS-CoV-2 verilmiştir.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.3-02",
+       "tur": "dy",
+       "ifade": "Human Challenge çalışmasının amaçlarından biri, virüsün bulaşması için gereken en düşük dozu belirlemekti.",
+       "dogru": true,
+       "bilgi": "Çalışma; en düşük bulaşma dozunu, bağışıklığın ilk saatlerdeki tepkisini ve bazı bireylerin neden daha bulaştırıcı olduğunu anlamayı amaçlıyordu.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.3-03",
+       "tur": "secmeli",
+       "soru": "Sağlıklı bireylerin bilerek enfekte edilmesi ve katılımcılara yüksek ödeme yapılması Human Challenge çalışmasında hangi etik ilkeler açısından tartışılmıştır?",
+       "secenekler": [
+        "Kaynak gösterme ve yazarlık",
+        "Hayvan refahı ve çevre koruma",
+        "Gönüllü onamı ve adalet",
+        "Patent hakkı ve ticari gizlilik"
+       ],
+       "dogru": 2,
+       "bilgi": "Bazı uzmanlar sağlıklı bireylerin bilerek enfekte edilmesinin tıbbın temel etik ilkeleriyle çelişebileceğini savunmuştur.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.3-04",
+       "tur": "secmeli",
+       "soru": "Bilimsel araştırma ve raporlama sürecinde hangisi bilim etiğine uygun bir davranıştır?",
+       "secenekler": [
+        "Sonucu desteklemeyen verileri yayımlamamak",
+        "Anket sonuçlarını beklentiye göre düzenlemek",
+        "Katkısı olmayan birinin adını rapora eklemek",
+        "Kaynaklardan derlenen bilgiler için kaynak göstermek"
+       ],
+       "dogru": 3,
+       "bilgi": "Bilimsel çalışmalarda verilerin doğruluğu korunmalı, derlenen bilgiler için mutlaka kaynak gösterilmelidir.",
+       "sayfa": 32
+      },
+      {
+       "id": "1.3-05",
+       "tur": "dy",
+       "ifade": "Bilimsel bir raporda yazar olarak, çalışmanın hiçbir aşamasında görev almamış kişilerin adlarına da yer verilebilir.",
+       "dogru": false,
+       "bilgi": "Bilimsel bir yayın veya raporda yalnızca çalışmaya katkı sağlayan kişilerin adı yer almalıdır.",
+       "sayfa": 32
+      },
+      {
+       "id": "1.3-06",
+       "tur": "bosluk",
+       "cumle": "Bilimsel araştırmalarda anket verilerinin doğruluğu ve ___ oldukça önemlidir; sonuçlar istenildiği gibi değiştirilemez.",
+       "cevap": "güvenilirliği",
+       "celdiriciler": [
+        "çokluğu",
+        "renkliliği",
+        "kısalığı"
+       ],
+       "bilgi": "Anket ve deney verileri doğru ve güvenilir olmalı, araştırmacının beklentisine göre değiştirilmemelidir.",
+       "sayfa": 32
+      }
+     ]
+    },
+    {
+     "no": "1.4",
+     "ad": "Canlıların Ortak Özellikleri",
+     "kartlar": [
+      {
+       "id": "1.4-01",
+       "tur": "secmeli",
+       "soru": "Belirgin bir çekirdeği ve zarla çevrili organelleri bulunmayan prokaryot hücreli canlılar hangi seçenekte birlikte verilmiştir?",
+       "secenekler": [
+        "Bakteriler ve arkeler",
+        "Amip ve öglena",
+        "Mantarlar ve algler",
+        "Paramesyum ve bakteriler"
+       ],
+       "dogru": 0,
+       "bilgi": "Prokaryot hücreler çekirdek ve zarlı organel içermez; bakteri ve arkeler prokaryottur.",
+       "sayfa": 34
+      },
+      {
+       "id": "1.4-02",
+       "tur": "bosluk",
+       "cumle": "Çok hücreli canlılarda organizasyon; hücre, doku, ___, sistem ve organizma şeklinde basamaklanır.",
+       "cevap": "organ",
+       "celdiriciler": [
+        "organel",
+        "molekül",
+        "hücresel yapı"
+       ],
+       "bilgi": "Benzer hücreler dokuları, dokular organları, organlar da sistemleri oluşturur.",
+       "sayfa": 35
+      },
+      {
+       "id": "1.4-03",
+       "tur": "dy",
+       "ifade": "Öglena ışık varlığında fotosentezle kendi besinini üretir, ışık olmadığında ise besinini dış ortamdan hazır alır.",
+       "dogru": true,
+       "bilgi": "Öglena hem ototrof hem heterotrof beslenebilen tek hücreli bir canlıdır.",
+       "sayfa": 35
+      },
+      {
+       "id": "1.4-04",
+       "tur": "eslestir",
+       "yonerge": "Canlılık kavramlarını tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Metabolizma",
+         "Yaşam için gerçekleşen kimyasal reaksiyonların bütünü"
+        ],
+        [
+         "Anabolizma",
+         "Küçük moleküllerden büyük molekül yapımı"
+        ],
+        [
+         "Katabolizma",
+         "Büyük moleküllerin küçük bileşenlere yıkımı"
+        ],
+        [
+         "Homeostazi",
+         "İç ortamın sabit tutulmasını sağlayan denge"
+        ]
+       ],
+       "bilgi": "Metabolizma yapım (anabolizma) ve yıkım (katabolizma) süreçlerinden oluşur ve homeostazinin korunmasında kritik rol oynar.",
+       "sayfa": 36
+      },
+      {
+       "id": "1.4-05",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki olaylardan hangisi anabolik bir reaksiyona örnektir?",
+       "secenekler": [
+        "Proteinlerin sindirilerek amino asitlere ayrılması",
+        "Glikozun enerji üretimi için parçalanması",
+        "Amino asitlerden protein oluşturulması",
+        "Büyük moleküllerin küçük bileşenlere ayrışması"
+       ],
+       "dogru": 2,
+       "bilgi": "Amino asitlerin proteinlere, glikozun polisakkaritlere dönüşmesi anabolizmaya (yapım) örnektir.",
+       "sayfa": 36
+      },
+      {
+       "id": "1.4-06",
+       "tur": "bosluk",
+       "cumle": "Kas kasılması, sinirsel iletim, protein sentezi ve hücre bölünmesi için gereken enerji büyük ölçüde ___ molekülünden sağlanır.",
+       "cevap": "ATP",
+       "celdiriciler": [
+        "glikoz",
+        "DNA",
+        "glikojen"
+       ],
+       "bilgi": "Besinlerin yıkımıyla açığa çıkan enerjinin bir kısmı ATP'de tutulur ve hücresel işlevlerde kullanılır.",
+       "sayfa": 36
+      },
+      {
+       "tur": "secmeli",
+       "soru": "Aşağıdaki canlı gruplarından hangisi yaşamı boyunca büyümeye devam eder?",
+       "secenekler": [
+        "Memeliler",
+        "Kuşlar",
+        "Böcekler",
+        "Bitkiler"
+       ],
+       "dogru": 3,
+       "bilgi": "Hayvanlarda büyüme sınırlıdır; bitkiler ise yaşamları boyunca büyümeye devam eder.",
+       "sayfa": 37,
+       "id": "1.4-07"
+      },
+      {
+       "id": "1.4-08",
+       "tur": "dy",
+       "ifade": "Üreme, neslin devamı için zorunlu olsa da canlının kendi yaşamını sürdürebilmesi için zorunlu değildir.",
+       "dogru": true,
+       "bilgi": "Üreme türün sürdürülmesini sağlar ancak bireyin yaşamını devam ettirmesi için zorunlu değildir.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.4-09",
+       "tur": "secmeli",
+       "soru": "Yeni doğan bir bebeğin zamanla emeklemeye başlaması hangi canlılık özelliğine örnektir?",
+       "secenekler": [
+        "Gelişme",
+        "Büyüme",
+        "Adaptasyon",
+        "Varyasyon"
+       ],
+       "dogru": 0,
+       "bilgi": "Bebeğin kilo alması büyümeye, emeklemeye başlaması ise yapıların görev olgunluğuna erişmesi yani gelişmeye örnektir.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.4-10",
+       "tur": "bosluk",
+       "cumle": "Genetik varyasyonların kaynağı mutasyonlar ve ___ olarak bilinir.",
+       "cevap": "eşeyli üreme",
+       "celdiriciler": [
+        "eşeysiz üreme",
+        "adaptasyon",
+        "homeostazi"
+       ],
+       "bilgi": "Aynı türün bireyleri arasındaki farklılıklar (varyasyon) mutasyon ve eşeyli üremeden kaynaklanır ve genellikle kalıtsaldır.",
+       "sayfa": 39
+      },
+      {
+       "id": "1.4-11",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi adaptasyona örnektir?",
+       "secenekler": [
+        "İnsanlarda göz rengi farklılıkları",
+        "Su kuşlarında ayak parmaklarının perdeli olması",
+        "Aynı tür kelebeklerde kanat deseni farkı",
+        "Bebeğin zamanla kilo alması"
+       ],
+       "dogru": 1,
+       "bilgi": "Adaptasyon, canlının yaşadığı çevrede hayatta kalıp üremesini sağlayan türe özgü kalıtsal özelliklerin tümüdür.",
+       "sayfa": 39
+      },
+      {
+       "id": "1.4-12",
+       "tur": "dy",
+       "ifade": "Latince \"zehir\" anlamına gelen virüsler, prokaryot hücrelerden daha büyük ve daha karmaşık yapılıdır.",
+       "dogru": false,
+       "bilgi": "Virüsler prokaryot ve ökaryot hücrelere göre çok daha küçük ve basit yapılıdır; canlı ile cansız arasında kalır.",
+       "sayfa": 41
+      }
+     ]
+    },
+    {
+     "no": "1.5",
+     "ad": "İnorganik Moleküller",
+     "kartlar": [
+      {
+       "id": "1.5-01",
+       "tur": "secmeli",
+       "soru": "Genellikle karbon içermeyen ve hücrelerde yer alan inorganik moleküller hangi seçenekte birlikte verilmiştir?",
+       "secenekler": [
+        "Su, vitaminler ve mineraller",
+        "Tuzlar, lipitler ve su",
+        "Mineraller, enzimler ve tuzlar",
+        "Su, mineraller ve tuzlar"
+       ],
+       "dogru": 3,
+       "bilgi": "Su, mineraller ve tuzlar inorganik moleküllerdir; en önemlisi sudur.",
+       "sayfa": 45
+      },
+      {
+       "id": "1.5-02",
+       "tur": "dy",
+       "ifade": "Su molekülünde oksijen, paylaşılan elektronları kendine daha fazla çektiği için molekül asimetrik (polar) bir yapı kazanır.",
+       "dogru": true,
+       "bilgi": "Oksijenin elektronegatifliğinin yüksek olması suya polarite kazandırır; adezyon, kohezyon ve çözücülük bu yapıdan kaynaklanır.",
+       "sayfa": 47
+      },
+      {
+       "id": "1.5-03",
+       "tur": "eslestir",
+       "yonerge": "Suyun özelliklerini tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Adezyon",
+         "Farklı moleküllerin birbirini çekmesi"
+        ],
+        [
+         "Kohezyon",
+         "Aynı tür moleküller arasındaki çekim kuvveti"
+        ],
+        [
+         "Yüzey gerilimi",
+         "Su yüzeyinin görünmez bir film gibi davranması"
+        ],
+        [
+         "Isı kapasitesi",
+         "Sıcaklığı 1 °C değiştirmek için gereken ısı miktarı"
+        ]
+       ],
+       "bilgi": "Suyun polar yapısı adezyon, kohezyon, yüksek ısı kapasitesi ve yüzey gerilimi gibi özelliklerini ortaya çıkarır.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.5-04",
+       "tur": "secmeli",
+       "soru": "Suyun bir araya gelerek damla oluşturması ya da dolu bir tüpün ağzında bombe yapması suyun hangi özelliğine örnektir?",
+       "secenekler": [
+        "Adezyon",
+        "Çözücülük",
+        "Isı kapasitesi",
+        "Kohezyon"
+       ],
+       "dogru": 3,
+       "bilgi": "Kohezyon aynı tür moleküllerin birbirini çekmesidir; damla ve bombe oluşumu buna örnektir.",
+       "sayfa": 50
+      },
+      {
+       "id": "1.5-05",
+       "tur": "dy",
+       "ifade": "Bazı böceklerin su yüzeyinde batmadan yürüyebilmesi, böcek ayağı ile su arasındaki adezyonun su molekülleri arasındaki kohezyondan büyük olmasından kaynaklanır.",
+       "dogru": false,
+       "bilgi": "Su molekülleri arasındaki kohezyon, böcek ayağı ile su arasındaki adezyondan büyük olduğu için böcekler batmaz.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.5-06",
+       "tur": "bosluk",
+       "cumle": "Katılaşan suyun ___ sıvı hâlden düşük olduğu için soğuk havalarda su yüzeyi buzla kaplanır ve su altındaki ekosistemler korunur.",
+       "cevap": "yoğunluğu",
+       "celdiriciler": [
+        "ısı kapasitesi",
+        "polaritesi",
+        "kohezyonu"
+       ],
+       "bilgi": "Buzun yoğunluğu sudan düşük olduğundan buz yüzeyde kalır ve alttaki suyu soğuktan yalıtır.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.5-07",
+       "tur": "secmeli",
+       "soru": "Suyun ısı kapasitesinin yüksek olması canlılar için hangi yararı sağlar?",
+       "secenekler": [
+        "Canlıları ani sıcaklık değişimlerine karşı korur.",
+        "Polar maddelerin suda çözünmesini sağlar.",
+        "Suyun yüzeyde görünmez bir film oluşturmasını sağlar.",
+        "Suyun cam yüzeylere tutunmasını sağlar."
+       ],
+       "dogru": 0,
+       "bilgi": "Yüksek ısı kapasitesi suyu sıcaklık değişimlerine dirençli kılar ve canlıları ani sıcaklık değişimlerinden korur.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.5-08",
+       "tur": "bosluk",
+       "cumle": "Bitkilerde suyun köklerden yapraklara doğru taşınması suyun adezyon ve ___ özellikleriyle sağlanır.",
+       "cevap": "kohezyon",
+       "celdiriciler": [
+        "yoğunluk",
+        "çözücülük",
+        "ısı kapasitesi"
+       ],
+       "bilgi": "Adezyon suyun damar çeperine tutunmasını, kohezyon ise su moleküllerinin kopmadan bir arada kalmasını sağlar.",
+       "sayfa": 50
+      },
+      {
+       "id": "1.5-09",
+       "tur": "dy",
+       "ifade": "Mineraller, organizmaların ihtiyaç duyduğu ve kendi bünyelerinde üretebildikleri inorganik moleküllerdir.",
+       "dogru": false,
+       "bilgi": "Mineraller canlıların kendi bünyesinde üretemediği inorganik moleküllerdir; bitkiler topraktan, hayvanlar besin ve sudan alır.",
+       "sayfa": 51
+      },
+      {
+       "id": "1.5-10",
+       "tur": "eslestir",
+       "yonerge": "Mineralleri vücuttaki görevleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Demir",
+         "Kanda oksijenin taşınması"
+        ],
+        [
+         "İyot",
+         "Tiroksin hormonunun üretimi"
+        ],
+        [
+         "Flor",
+         "Kemik ve diş yapısının korunması"
+        ],
+        [
+         "Çinko",
+         "Bağışıklık sisteminin gelişimi"
+        ],
+        [
+         "Kalsiyum",
+         "Kanın pıhtılaşması ve kas kasılması"
+        ]
+       ],
+       "bilgi": "Mineraller kemik gelişimi, kas ve sinir sisteminin çalışması, su dengesi ve hormon-enzim yapısında görev alır.",
+       "sayfa": 170
+      },
+      {
+       "id": "1.5-11",
+       "tur": "secmeli",
+       "soru": "Eksikliğinde basit guatr hastalığının ortaya çıktığı mineral hangisidir?",
+       "secenekler": [
+        "Demir",
+        "Flor",
+        "İyot",
+        "Potasyum"
+       ],
+       "dogru": 2,
+       "bilgi": "İyot, büyüme ve metabolizmayı kontrol eden tiroksin hormonunun üretiminde görevlidir; eksikliği basit guatra yol açar.",
+       "sayfa": 170
+      },
+      {
+       "id": "1.5-12",
+       "tur": "bosluk",
+       "cumle": "Kalsiyum ve D vitamini yetersizliğinde çocuklarda ___, yaşlılarda ise osteoporoz görülebilir.",
+       "cevap": "raşitizm",
+       "celdiriciler": [
+        "guatr",
+        "kansızlık",
+        "diş çürüğü"
+       ],
+       "bilgi": "Kalsiyum ve D vitamini yetersizliği çocuklarda raşitizme, yetişkin kadınlarda osteomalaziye, yaşlılarda osteoporoza yol açabilir.",
+       "sayfa": 170
+      }
+     ]
+    },
+    {
+     "no": "1.6",
+     "ad": "Organik Moleküller",
+     "kartlar": [
+      {
+       "id": "1.6-01",
+       "tur": "bosluk",
+       "cumle": "Monomerlerin enzimler aracılığıyla, enerji harcanarak ve su çıkışıyla birbirine bağlanması sürecine ___ denir.",
+       "cevap": "dehidrasyon",
+       "celdiriciler": [
+        "hidroliz",
+        "denatürasyon",
+        "renatürasyon"
+       ],
+       "bilgi": "Polimerler dehidrasyonla oluşur, suyun kullanıldığı hidrolizle monomerlerine ayrılır; sindirim hidrolize örnektir.",
+       "sayfa": 57
+      },
+      {
+       "id": "1.6-02",
+       "tur": "eslestir",
+       "yonerge": "Disakkaritleri oluşturan monosakkaritlerle eşleştir.",
+       "ciftler": [
+        [
+         "Maltoz (arpa şekeri)",
+         "Glikoz + glikoz"
+        ],
+        [
+         "Sükroz (çay şekeri)",
+         "Glikoz + fruktoz"
+        ],
+        [
+         "Laktoz (süt şekeri)",
+         "Glikoz + galaktoz"
+        ]
+       ],
+       "bilgi": "Disakkaritler iki monosakkaritin glikozit bağıyla birleşmesiyle oluşur; canlılarda en yaygınları maltoz, sükroz ve laktozdur.",
+       "sayfa": 58
+      },
+      {
+       "id": "1.6-03",
+       "tur": "secmeli",
+       "soru": "Riboz ile deoksiriboz şekerleri arasındaki en önemli yapısal fark nedir?",
+       "secenekler": [
+        "Ribozun altı karbonlu bir heksoz olması",
+        "Deoksiribozun yapısında azot bulunması",
+        "Deoksiribozda bir oksijen atomunun bulunmaması",
+        "Ribozun yalnızca DNA'da yer alması"
+       ],
+       "dogru": 2,
+       "bilgi": "Beş karbonlu riboz RNA'da, deoksiriboz DNA'da bulunur; deoksiribozda bir oksijen atomu eksiktir.",
+       "sayfa": 58
+      },
+      {
+       "id": "1.6-04",
+       "tur": "secmeli",
+       "soru": "Mantarların hücre çeperini ve böceklerin dış iskeletini oluşturan, kendiliğinden eriyen cerrahi ipliklerde kullanılan azotlu polisakkarit hangisidir?",
+       "secenekler": [
+        "Selüloz",
+        "Kitin",
+        "Glikojen",
+        "Nişasta"
+       ],
+       "dogru": 1,
+       "bilgi": "Kitin azotlu glikoz türevi monomerlerden oluşur ve selüloza göre daha esnektir.",
+       "sayfa": 61
+      },
+      {
+       "id": "1.6-05",
+       "tur": "dy",
+       "ifade": "Selüloz glikoz monomerlerinden oluşmasına rağmen insanlar dâhil çoğu canlı tarafından sindirilemez.",
+       "dogru": true,
+       "bilgi": "Selülozdaki bağları parçalayacak enzim çoğu canlıda yoktur; geviş getirenler ve termitler bunu sindirim sistemlerindeki mikroorganizmalarla başarır.",
+       "sayfa": 60
+      },
+      {
+       "id": "1.6-06",
+       "tur": "secmeli",
+       "soru": "Gliserol omurgasına iki yağ asidi ve bir fosfat grubu bağlı olan, hücre zarının ana bileşeni olan lipit hangisidir?",
+       "secenekler": [
+        "Trigliserit",
+        "Steroit",
+        "Kolesterol",
+        "Fosfolipit"
+       ],
+       "dogru": 3,
+       "bilgi": "Fosfolipitlerin yağ asidi kuyruğu hidrofobik, fosfatlı baş kısmı hidrofiliktir; bu yapı hücre zarını oluşturur.",
+       "sayfa": 62
+      },
+      {
+       "id": "1.6-07",
+       "tur": "bosluk",
+       "cumle": "Tuz miktarı, pH veya sıcaklık değiştiğinde proteinin doğal üç boyutlu şeklini kaybetmesine ___ denir.",
+       "cevap": "denatürasyon",
+       "celdiriciler": [
+        "renatürasyon",
+        "hidroliz",
+        "dehidrasyon"
+       ],
+       "bilgi": "Koşullar normale dönünce bazı proteinler yapısını geri kazanır (renatürasyon); pişen yumurta proteinleri ise geri dönmez.",
+       "sayfa": 63
+      },
+      {
+       "id": "1.6-08",
+       "tur": "bosluk",
+       "cumle": "Enzimin substratına bağlanırken konformasyonunu değiştirerek reaksiyonu kolaylaştırmasına ___ denir.",
+       "cevap": "indüklenmiş uyum",
+       "celdiriciler": [
+        "anahtar-kilit modeli",
+        "geri bildirim baskılaması",
+        "renatürasyon"
+       ],
+       "bilgi": "Bazı enzimlerde substrata bağlanırken belirgin şekil değişimi olmaz; bu ilişki anahtar-kilit modeliyle açıklanır.",
+       "sayfa": 64
+      },
+      {
+       "id": "1.6-09",
+       "tur": "eslestir",
+       "yonerge": "Enzimle ilgili kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Apoenzim",
+         "Enzimin yalnızca proteinden oluşan kısmı"
+        ],
+        [
+         "Holoenzim",
+         "Yardımcı bileşenle aktifleşmiş bileşik enzim"
+        ],
+        [
+         "Kofaktör",
+         "Enzimin protein olmayan yardımcı maddesi"
+        ],
+        [
+         "Koenzim",
+         "Organik yapılı kofaktör"
+        ]
+       ],
+       "bilgi": "Bileşik enzimler çinko, demir gibi metal iyonlarına ya da vitaminlerden türeyen koenzimlere ihtiyaç duyar.",
+       "sayfa": 65
+      },
+      {
+       "id": "1.6-10",
+       "tur": "secmeli",
+       "soru": "Çift sarmal DNA molekülü için hangisi her zaman geçerlidir?",
+       "secenekler": [
+        "Toplam pürin sayısı toplam pirimidin sayısına eşittir.",
+        "Adenin sayısı guanin sayısına eşittir.",
+        "Adenin ile timin arasında üç hidrojen bağı bulunur.",
+        "Urasil bazı adeninle eşleşir."
+       ],
+       "dogru": 0,
+       "bilgi": "DNA'da A daima T ile, G daima C ile eşleşir; A-T arasında ikili, G-C arasında üçlü hidrojen bağı vardır.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.6-11",
+       "tur": "secmeli",
+       "soru": "Güneş ışığındaki UVB sayesinde deride inaktif formda sentezlenen ve kalsiyum-fosfor emilimini artıran steroit yapılı vitamin hangisidir?",
+       "secenekler": [
+        "A vitamini",
+        "K vitamini",
+        "D vitamini",
+        "E vitamini"
+       ],
+       "dogru": 2,
+       "bilgi": "İnaktif D vitamini karaciğer ve böbrekte aktifleşir; kemik ve diş sağlığını korur.",
+       "sayfa": 72
+      },
+      {
+       "id": "1.6-12",
+       "tur": "dy",
+       "ifade": "Vitaminler sindirime uğrar ve hücrelerde doğrudan enerji kaynağı olarak kullanılır.",
+       "dogru": false,
+       "bilgi": "Vitaminler sindirime uğramaz ve enerji vermez; biyokimyasal reaksiyonları düzenler, çoğu koenzim olarak görev yapar.",
+       "sayfa": 71
+      }
+     ]
+    },
+    {
+     "no": "1.7",
+     "ad": "Besinlerin Yapısında Bulunan Karbohidrat, Lipit ve Proteinlerin Belirlenmesi",
+     "kartlar": [
+      {
+       "id": "1.7-01",
+       "tur": "eslestir",
+       "yonerge": "Organik molekülleri tespitte kullanılan ayıraçlarla eşleştir.",
+       "ciftler": [
+        [
+         "Nişasta",
+         "İyot çözeltisi (Lugol)"
+        ],
+        [
+         "Glikoz, fruktoz",
+         "Benedict çözeltisi"
+        ],
+        [
+         "Proteinler",
+         "Biüret reaktifi"
+        ],
+        [
+         "Yağlar",
+         "Sudan III çözeltisi"
+        ],
+        [
+         "Amino asitler",
+         "Ninhidrin reaktifi"
+        ]
+       ],
+       "bilgi": "Ayıraçlar tespit edilecek molekülle etkileşerek renk değiştirir ve karışımdaki bileşiğin varlığını gösterir.",
+       "sayfa": 75
+      },
+      {
+       "id": "1.7-02",
+       "tur": "secmeli",
+       "soru": "Nişasta, iyot çözeltisi (Lugol) ile hangi rengi verir?",
+       "secenekler": [
+        "Kiremit kırmızısı",
+        "Kahverengi-kırmızı",
+        "Mavi-mor",
+        "Sarı"
+       ],
+       "dogru": 2,
+       "bilgi": "Nişasta Lugol ile mavi-mor, glikojen ise kahverengi-kırmızı renk verir.",
+       "sayfa": 75
+      },
+      {
+       "id": "1.7-03",
+       "tur": "bosluk",
+       "cumle": "Glikoz ve fruktoz, Benedict çözeltisiyle ___ renk verir.",
+       "cevap": "kiremit kırmızısı",
+       "celdiriciler": [
+        "mavi-mor",
+        "siyah",
+        "açık mavi"
+       ],
+       "bilgi": "Glikoz ve fruktoz Benedict ile kiremit kırmızısı, Fehling ile kiremit kırmızısı veya turuncu renk verir.",
+       "sayfa": 75
+      },
+      {
+       "id": "1.7-04",
+       "tur": "dy",
+       "ifade": "Glikojen de nişasta gibi iyot çözeltisiyle mavi-mor renk verir.",
+       "dogru": false,
+       "bilgi": "Glikojen iyot çözeltisiyle kahverengi-kırmızı renk verir; mavi-mor renk nişastaya özgüdür.",
+       "sayfa": 75
+      },
+      {
+       "id": "1.7-05",
+       "tur": "secmeli",
+       "soru": "Selülozun tespitinde kullanılan ve açık mavi veya yeşil renk veren ayıraç hangisidir?",
+       "secenekler": [
+        "Osmik asit",
+        "İyotlu çinko klorür",
+        "Ninhidrin reaktifi",
+        "Biüret reaktifi"
+       ],
+       "dogru": 1,
+       "bilgi": "Selüloz iyotlu çinko klorür ile açık mavi veya yeşil renk verir.",
+       "sayfa": 75
+      },
+      {
+       "id": "1.7-06",
+       "tur": "bosluk",
+       "cumle": "Doymamış yağlar ___ ile siyah veya koyu kahverengi renk verir.",
+       "cevap": "osmik asit",
+       "celdiriciler": [
+        "nitrik asit",
+        "Barfoed reaktifi",
+        "Benedict çözeltisi"
+       ],
+       "bilgi": "Yağlar Sudan III-IV ile kırmızı-turuncu, doymamış yağlar osmik asitle siyah-koyu kahverengi renk verir.",
+       "sayfa": 75
+      },
+      {
+       "id": "1.7-07",
+       "tur": "dy",
+       "ifade": "Proteinler nitrik asit ile sarı renk verir.",
+       "dogru": true,
+       "bilgi": "Proteinler nitrik asitle sarı, biüret reaktifiyle açık mavi veya mor, Coomassie mavisiyle mavi renk verir.",
+       "sayfa": 75
+      },
+      {
+       "id": "1.7-08",
+       "tur": "secmeli",
+       "soru": "Monosakkaritlerin tespitinde kullanılan ve kırmızı renk veren ayıraç hangisidir?",
+       "secenekler": [
+        "Barfoed reaktifi",
+        "Sudan kırmızısı",
+        "Osmik asit",
+        "Ninhidrin reaktifi"
+       ],
+       "dogru": 0,
+       "bilgi": "Barfoed reaktifi monosakkaritlerle kırmızı renk verir.",
+       "sayfa": 75
+      },
+      {
+       "id": "1.7-09",
+       "tur": "secmeli",
+       "soru": "Ayıraçların (indikatörlerin) gıda endüstrisindeki kullanımına hangisi örnektir?",
+       "secenekler": [
+        "Nişasta içeriğini belirlemek için Lugol testi",
+        "Protein içeriğini ölçmek için Sudan testi",
+        "Yağ oranını ölçmek için biüret testi",
+        "Glikoz miktarını ölçmek için osmik asit"
+       ],
+       "dogru": 0,
+       "bilgi": "Gıda endüstrisinde nişasta için Lugol, protein için biüret testi yaygın olarak kullanılır.",
+       "sayfa": 74
+      }
+     ]
+    },
+    {
+     "no": "1.8",
+     "ad": "pH ve Sıcaklığın Enzim Aktivitesine Etkisi",
+     "kartlar": [
+      {
+       "id": "1.8-01",
+       "tur": "bosluk",
+       "cumle": "İnsanlardaki birçok enzimin optimum sıcaklığı ___ °C arasındadır.",
+       "cevap": "35-40",
+       "celdiriciler": [
+        "20-25",
+        "45-50",
+        "55-60"
+       ],
+       "bilgi": "Sıcaklık 40 °C'nin üzerine çıktığında insan enzimlerinin üç boyutlu yapısı bozulmaya başlar.",
+       "sayfa": 79
+      },
+      {
+       "id": "1.8-02",
+       "tur": "dy",
+       "ifade": "Düşük sıcaklık enzimlerin üç boyutlu yapısını kalıcı olarak bozarak onları işlevsiz hâle getirir.",
+       "dogru": false,
+       "bilgi": "Düşük sıcaklık enzimi yalnızca yavaşlatır; yüksek sıcaklık ve uç pH değerleri ise yapıyı kalıcı olarak bozar.",
+       "sayfa": 79
+      },
+      {
+       "id": "1.8-03",
+       "tur": "secmeli",
+       "soru": "Midede üretilen ve asidik ortamda (düşük pH) en iyi çalışan sindirim enzimi hangisidir?",
+       "secenekler": [
+        "Tripsin",
+        "Katalaz",
+        "Pepsin",
+        "Sükraz"
+       ],
+       "dogru": 2,
+       "bilgi": "Pepsin midenin asidik ortamında, tripsin ise ince bağırsağın bazik ortamında daha iyi çalışır.",
+       "sayfa": 67
+      },
+      {
+       "id": "1.8-04",
+       "tur": "bosluk",
+       "cumle": "İnce bağırsağın bazik ortamında çalışan ___ enzimi pH değeri 7'den büyük ortamlarda daha etkindir.",
+       "cevap": "tripsin",
+       "celdiriciler": [
+        "pepsin",
+        "katalaz",
+        "sükraz"
+       ],
+       "bilgi": "Hücre içindeki birçok enzimin optimum pH değeri 6-8 arasındadır; ancak asidik ve bazik ortamda çalışan enzimler de vardır.",
+       "sayfa": 67
+      },
+      {
+       "id": "1.8-05",
+       "tur": "secmeli",
+       "soru": "Hücrelerde oluşan toksik hidrojen peroksiti su ve oksijene dönüştürerek etkisizleştiren antioksidan enzim hangisidir?",
+       "secenekler": [
+        "Katalaz",
+        "Lipaz",
+        "Pepsin",
+        "Amilaz"
+       ],
+       "dogru": 0,
+       "bilgi": "Katalaz serbest radikallerin etkisini azaltan antioksidan bir enzimdir; maya bu deneylerde katalaz kaynağı olarak kullanılır.",
+       "sayfa": 80
+      },
+      {
+       "id": "1.8-06",
+       "tur": "dy",
+       "ifade": "Katalaz enzimi hidrojen peroksiti su ve oksijene dönüştürdüğünde enzimin yapısı ve miktarı değişmez.",
+       "dogru": true,
+       "bilgi": "Enzimler katalizördür; tepkime sonunda yapıları ve miktarları değişmeden kalır.",
+       "sayfa": 81
+      },
+      {
+       "id": "1.8-07",
+       "tur": "bosluk",
+       "cumle": "Enzim aktivitesinin en yüksek olduğu sıcaklık değerine enzimin ___ sıcaklığı denir.",
+       "cevap": "optimum",
+       "celdiriciler": [
+        "aktivasyon",
+        "denatürasyon",
+        "kaynama"
+       ],
+       "bilgi": "Enzim aktivitesi optimum sıcaklığa kadar kinetik enerji artışıyla yükselir, sonrasında denatürasyonla düşer.",
+       "sayfa": 67
+      },
+      {
+       "id": "1.8-08",
+       "tur": "secmeli",
+       "soru": "Sıcaklık optimum değerin üzerine çıktığında enzim aktivitesinin düşmesinin nedeni nedir?",
+       "secenekler": [
+        "Protein yapılı enzimin denatüre olması",
+        "Moleküllerin kinetik enerjisinin azalması",
+        "Ortamdaki su miktarının artması",
+        "Aktivasyon enerjisinin düşmesi"
+       ],
+       "dogru": 0,
+       "bilgi": "Optimum sıcaklığın üzerinde protein yapılı enzimler denatüre olur; tam denatürasyonda reaksiyon durur.",
+       "sayfa": 67
+      },
+      {
+       "tur": "secmeli",
+       "soru": "Enzimler bir kimyasal reaksiyonu neyi düşürerek hızlandırır?",
+       "secenekler": [
+        "Net reaksiyon enerjisini",
+        "Aktivasyon enerjisini",
+        "Ortamın pH değerini",
+        "Oluşan ürün miktarını"
+       ],
+       "dogru": 1,
+       "bilgi": "Enzimler aktivasyon enerjisini düşürür ancak net reaksiyon enerjisini değiştirmez.",
+       "sayfa": 66,
+       "id": "1.8-09"
+      },
+      {
+       "id": "1.8-10",
+       "tur": "secmeli",
+       "soru": "Sıcaklık, pH ve enzim miktarı sabitken substrat miktarı çok artırıldığında reaksiyon hızı neden sabitlenir?",
+       "secenekler": [
+        "Enzimler denatüre olduğu için",
+        "Aktif bölgeler substratla doygun hâle geldiği için",
+        "Substratlar ürüne dönüşemediği için",
+        "Aktivasyon enerjisi yükseldiği için"
+       ],
+       "dogru": 1,
+       "bilgi": "Yüksek substrat derişiminde enzimler tamamen doyar; reaksiyon en yüksek hıza ulaşır ve substrat artışından etkilenmez.",
+       "sayfa": 68
+      },
+      {
+       "id": "1.8-11",
+       "tur": "eslestir",
+       "yonerge": "Enzim aktivitesini etkileyen etmenleri örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Su miktarı",
+         "Kurutulmuş meyvede enzimlerin çalışmaması"
+        ],
+        [
+         "Yüzey alanı",
+         "Rendelenmiş elmanın daha hızlı sindirilmesi"
+        ],
+        [
+         "Aktivatör",
+         "Enzim etkinliğini artıran molekül"
+        ],
+        [
+         "İnhibitör",
+         "Enzim etkinliğini azaltan molekül"
+        ]
+       ],
+       "bilgi": "Enzim aktivitesi su miktarı, sıcaklık, pH, substrat ve enzim miktarı, yüzey alanı ile aktivatör ve inhibitörlere bağlıdır.",
+       "sayfa": 68
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Organizasyon",
+   "konular": [
+    {
+     "no": "2.1",
+     "ad": "Hücre ve Alt Birimleri Arasındaki İlişkiler",
+     "kartlar": [
+      {
+       "id": "2.1-01",
+       "tur": "secmeli",
+       "soru": "Prokaryot hücrelerde DNA'nın yoğunlaştığı sitoplazma bölgesine ne ad verilir?",
+       "secenekler": [
+        "Nükleoplazma",
+        "Çekirdekçik",
+        "Nükleoid",
+        "Kromatin"
+       ],
+       "dogru": 2,
+       "bilgi": "Ökaryotlarda DNA'nın çoğu çift katlı zarlı çekirdekte, prokaryotlarda ise sitoplazmadaki nükleoid bölgesinde bulunur.",
+       "sayfa": 101
+      },
+      {
+       "id": "2.1-02",
+       "tur": "dy",
+       "ifade": "Ökaryot hücrelerde çok sayıda doğrusal DNA bulunurken prokaryot hücreler halkasal DNA molekülü içerir.",
+       "dogru": true,
+       "bilgi": "Prokaryotlar halkasal DNA taşır ve zarlı organel içermez; ökaryot hücreler genellikle daha büyüktür.",
+       "sayfa": 101
+      },
+      {
+       "id": "2.1-03",
+       "tur": "bosluk",
+       "cumle": "Fosfolipit çift katmanı, kolesterol ve hareket edebilen proteinlerden oluşan hücre zarının yapısı ___ modeli ile açıklanır.",
+       "cevap": "akıcı-mozaik zar",
+       "celdiriciler": [
+        "anahtar-kilit",
+        "indüklenmiş uyum",
+        "çift sarmal"
+       ],
+       "bilgi": "Zardaki fosfolipit ve proteinlerin hareketi akışkan, proteinlerin dağılımı ise mozaik görünüm verir.",
+       "sayfa": 102
+      },
+      {
+       "id": "2.1-04",
+       "tur": "secmeli",
+       "soru": "Hem prokaryot hem ökaryot hücrelerde bulunan ribozomlar neden organel olarak değerlendirilmez?",
+       "secenekler": [
+        "Zarla çevrili olmadıkları için",
+        "Yalnızca sitoplazmada bulundukları için",
+        "Protein sentezine katılmadıkları için",
+        "Kendi DNA'larını taşımadıkları için"
+       ],
+       "dogru": 0,
+       "bilgi": "Ribozomlar RNA ve proteinden oluşan, küçük ve büyük iki alt birimli, zarsız protein sentez birimleridir.",
+       "sayfa": 103
+      },
+      {
+       "id": "2.1-05",
+       "tur": "bosluk",
+       "cumle": "Çekirdek içinde yoğun yapıda olan ve ribozom yapım merkezi olarak adlandırılan bölüme ___ denir.",
+       "cevap": "çekirdekçik",
+       "celdiriciler": [
+        "nükleoplazma",
+        "nüklear por",
+        "kromatin"
+       ],
+       "bilgi": "Çekirdek; çekirdek zarfı, nükleoplazma ve çekirdekçikten oluşur; madde geçişi nüklear porlarla sağlanır.",
+       "sayfa": 104
+      },
+      {
+       "id": "2.1-06",
+       "tur": "eslestir",
+       "yonerge": "Hücresel yapıları görevleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Granüllü ER",
+         "Salgı proteinlerinin sentezi ve zar üretimi"
+        ],
+        [
+         "Granülsüz ER",
+         "Lipit üretimi ve toksik maddelerin detoksifikasyonu"
+        ],
+        [
+         "Golgi aygıtı",
+         "Maddelerin işlenmesi, paketlenmesi ve dağıtımı"
+        ],
+        [
+         "Lizozom",
+         "Hücre içi sindirim"
+        ],
+        [
+         "Sentrozom",
+         "Hayvan hücresinde mikrotübül üretimi"
+        ]
+       ],
+       "bilgi": "Hücre alt birimleri iş birliği içinde çalışır; salgı proteini GER'de sentezlenir, Golgi'de işlenip veziküllerle gönderilir.",
+       "sayfa": 104
+      },
+      {
+       "tur": "secmeli",
+       "soru": "Gelişmiş bitki ve mantar hücrelerinde bulunmayan, hücre içi sindirimde görevli organel hangisidir?",
+       "secenekler": [
+        "Mitokondri",
+        "Golgi aygıtı",
+        "Lizozom",
+        "Peroksizom"
+       ],
+       "dogru": 2,
+       "bilgi": "Lizozomlar yaşlı organelleri ve yabancı partikülleri sindirir, programlanmış hücre ölümüne (apoptoz) yardımcı olur.",
+       "sayfa": 105,
+       "id": "2.1-07"
+      },
+      {
+       "id": "2.1-08",
+       "tur": "secmeli",
+       "soru": "Mitokondri iç zarının kıvrımlar yaparak yüzey alanını artırdığı yapıya ne ad verilir?",
+       "secenekler": [
+        "Matriks",
+        "Krista",
+        "Granum",
+        "Tilakoit"
+       ],
+       "dogru": 1,
+       "bilgi": "Krista adı verilen iç zar kıvrımlarında elektron taşıma zinciri ve ATP sentezleyen proteinler bulunur.",
+       "sayfa": 107
+      },
+      {
+       "id": "2.1-09",
+       "tur": "dy",
+       "ifade": "Mitokondri ve kloroplast kendilerine ait DNA, RNA ve ribozom taşımaz.",
+       "dogru": false,
+       "bilgi": "Mitokondri ve kloroplast kendi halkasal DNA'larına, RNA ve ribozomlarına sahiptir.",
+       "sayfa": 108
+      },
+      {
+       "id": "2.1-10",
+       "tur": "secmeli",
+       "soru": "Olgun domatese kırmızı rengini veren kromoplast pigmenti hangisidir?",
+       "secenekler": [
+        "Beta-karoten",
+        "Ksantofil",
+        "Klorofil",
+        "Likopen"
+       ],
+       "dogru": 3,
+       "bilgi": "Domatesin kırmızısı likopenden, havucun turuncusu beta-karotenden, sarı meyvelerin rengi ksantofilden gelir.",
+       "sayfa": 108
+      },
+      {
+       "id": "2.1-11",
+       "tur": "bosluk",
+       "cumle": "Bitki hücrelerinde pigment içermeyen ve nişasta, yağ, protein depolayan plastitlere ___ denir.",
+       "cevap": "lökoplast",
+       "celdiriciler": [
+        "kloroplast",
+        "kromoplast",
+        "peroksizom"
+       ],
+       "bilgi": "Bitkilerde öncü plastitlerden kloroplast, kromoplast ve lökoplast gelişir ve bunlar birbirine dönüşebilir.",
+       "sayfa": 108
+      },
+      {
+       "id": "2.1-12",
+       "tur": "secmeli",
+       "soru": "Tatlı sularda yaşayan protistlerin çoğunda fazla suyu hücre dışına pompalayan yapı hangisidir?",
+       "secenekler": [
+        "Kontraktil koful",
+        "Besin kofulu",
+        "Salgı kofulu",
+        "Sindirim kofulu"
+       ],
+       "dogru": 0,
+       "bilgi": "Kontraktil koful tatlı su protistlerinde fazla suyu dışarı atar; besin kofulu lizozomla birleşince sindirim kofulu oluşur.",
+       "sayfa": 106
+      }
+     ]
+    },
+    {
+     "no": "2.2",
+     "ad": "Hücre Zarından Madde Geçişleri",
+     "kartlar": [
+      {
+       "id": "2.2-01",
+       "tur": "secmeli",
+       "soru": "Maddelerin yüksek derişimden düşük derişime, ATP harcanmadan ve kanal ya da taşıyıcı proteinler yardımıyla geçişi hangisidir?",
+       "secenekler": [
+        "Basit difüzyon",
+        "Aktif taşıma",
+        "Kolaylaştırılmış difüzyon",
+        "Endositoz"
+       ],
+       "dogru": 2,
+       "bilgi": "Glikoz, amino asitler ve bazı iyonlar kolaylaştırılmış difüzyonla taşınır; derişim farkı kalkınca net geçiş durur.",
+       "sayfa": 115
+      },
+      {
+       "id": "2.2-02",
+       "tur": "dy",
+       "ifade": "Pasif taşıma enerji gerektirmediği için hem canlı hem de cansız ortamlarda gerçekleşebilir.",
+       "dogru": true,
+       "bilgi": "Pasif taşımanın basit difüzyon, kolaylaştırılmış difüzyon ve ozmoz olmak üzere üç çeşidi vardır.",
+       "sayfa": 114
+      },
+      {
+       "id": "2.2-03",
+       "tur": "bosluk",
+       "cumle": "Moleküllerin düşük derişimli ortamdan yüksek derişimli ortama, protein yapılı pompalar ve ATP kullanılarak taşınmasına ___ denir.",
+       "cevap": "aktif taşıma",
+       "celdiriciler": [
+        "kolaylaştırılmış difüzyon",
+        "ozmoz",
+        "basit difüzyon"
+       ],
+       "bilgi": "Aktif taşıma ATP ve enzim gibi çalışan pompalar gerektirdiğinden yalnızca canlı hücrelerde gerçekleşir.",
+       "sayfa": 117
+      },
+      {
+       "id": "2.2-04",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi yağda çözündüğü için hücre zarından difüzyonla kolayca geçebilir?",
+       "secenekler": [
+        "C vitamini",
+        "A vitamini",
+        "Glikoz",
+        "Potasyum iyonu"
+       ],
+       "dogru": 1,
+       "bilgi": "A, D, E ve K vitaminleri zardan difüzyonla geçer; B ve C vitaminleri yardımcı yapı olmadan geçemez.",
+       "sayfa": 115
+      },
+      {
+       "id": "2.2-05",
+       "tur": "dy",
+       "ifade": "Endositoz sırasında hücre zarının yüzey alanı büyür.",
+       "dogru": false,
+       "bilgi": "Endositozda zarın bir kısmı maddeyi sararak içeri girdiği için yüzey küçülür; ekzositozda ise zar yüzeyi büyür.",
+       "sayfa": 118
+      },
+      {
+       "id": "2.2-06",
+       "tur": "eslestir",
+       "yonerge": "Madde geçiş türlerini tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Ozmoz",
+         "Suyun seçici geçirgen zardan difüzyonu"
+        ],
+        [
+         "Endositoz",
+         "Büyük maddelerin zar cepleriyle hücreye alınması"
+        ],
+        [
+         "Ekzositoz",
+         "Veziküllerin zarla birleşip içeriğini dışarı salması"
+        ],
+        [
+         "Aktif taşıma",
+         "ATP ile derişim farkına karşı taşıma"
+        ]
+       ],
+       "bilgi": "Endositoz ve ekzositozda derişim farkı önemli değildir; her ikisi de ATP gerektirir.",
+       "sayfa": 118
+      },
+      {
+       "id": "2.2-07",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki olaylardan hangisi aktif taşıma ile gerçekleşir?",
+       "secenekler": [
+        "Parfüm kokusunun odaya yayılması",
+        "Poşet çayın renginin suya dağılması",
+        "Saf sudaki bitki hücresine su girmesi",
+        "Böbrekte süzülen yararlı moleküllerin kana geri emilimi"
+       ],
+       "dogru": 3,
+       "bilgi": "Sinirsel iletim, bağırsakta besin emilimi ve böbrekte geri emilim aktif taşımayla gerçekleşir.",
+       "sayfa": 117
+      },
+      {
+       "id": "2.2-08",
+       "tur": "bosluk",
+       "cumle": "Hücrede üretilen proteinlerin dışarı salgılanması ve protein yapılı hormonların kana verilmesi ___ ile gerçekleşir.",
+       "cevap": "ekzositoz",
+       "celdiriciler": [
+        "endositoz",
+        "ozmoz",
+        "kolaylaştırılmış difüzyon"
+       ],
+       "bilgi": "Ekzositoz, kanal proteinlerinden geçemeyecek büyüklükteki moleküllerin veziküllerle hücre dışına atılmasıdır.",
+       "sayfa": 118
+      },
+      {
+       "id": "2.2-09",
+       "tur": "secmeli",
+       "soru": "Tek hücreli bir protist olan amip besinlerini hücre içine hangi yolla alır?",
+       "secenekler": [
+        "Ekzositoz",
+        "Ozmoz",
+        "Basit difüzyon",
+        "Endositoz"
+       ],
+       "dogru": 3,
+       "bilgi": "Amip besinlerini endositozla alır, sindirim ürünlerini ise ekzositozla uzaklaştırır.",
+       "sayfa": 118
+      },
+      {
+       "id": "2.2-10",
+       "tur": "dy",
+       "ifade": "Bitki hücreleri gibi hücre duvarı bulunan hücrelerde genel olarak endositoz gerçekleşmez.",
+       "dogru": true,
+       "bilgi": "Hücre duvarı zarın içeri doğru cep oluşturmasını engellediğinden bu hücrelerde genel olarak endositoz görülmez.",
+       "sayfa": 118
+      },
+      {
+       "id": "2.2-11",
+       "tur": "secmeli",
+       "soru": "Sinir hücrelerinin çalışabilmesi için sürekli çalışması gereken iyon pompası hangi iyonları taşır?",
+       "secenekler": [
+        "Sodyum ve potasyum",
+        "Kalsiyum ve magnezyum",
+        "Demir ve çinko",
+        "Hidrojen ve klor"
+       ],
+       "dogru": 0,
+       "bilgi": "Sinir hücrelerinde sodyum-potasyum, midede hidrojen pompaları çalışır; dinlenme hâlindeki enerjinin önemli kısmı bunlara harcanır.",
+       "sayfa": 118
+      }
+     ]
+    },
+    {
+     "no": "2.3",
+     "ad": "Küçük Moleküllerin Hücre Zarından Pasif Geçişi",
+     "kartlar": [
+      {
+       "id": "2.3-01",
+       "tur": "bosluk",
+       "cumle": "Kan plazmasıyla izotonik olan ve hastalara damar yoluyla verilen fizyolojik serum yaklaşık %___ sodyum klorür içerir.",
+       "cevap": "0,9",
+       "celdiriciler": [
+        "0,1",
+        "5",
+        "9"
+       ],
+       "bilgi": "Kan plazması yaklaşık %0,9 tuz içeren izotonik bir çözeltidir; fizyolojik serum da bu derişimdedir.",
+       "sayfa": 116
+      },
+      {
+       "id": "2.3-02",
+       "tur": "secmeli",
+       "soru": "Hipertonik bir çözeltiye konan hücrenin su kaybederek büzüşmesine ne ad verilir?",
+       "secenekler": [
+        "Deplazmoliz",
+        "Turgor",
+        "Plazmoliz",
+        "Ozmotik basınç"
+       ],
+       "dogru": 2,
+       "bilgi": "Hipertonik ortamda su, hücreden dışarıdaki yoğun çözeltiye geçer ve hücre plazmolize uğrar.",
+       "sayfa": 116
+      },
+      {
+       "id": "2.3-03",
+       "tur": "bosluk",
+       "cumle": "Plazmolize uğramış bir hücrenin hipotonik bir çözeltide su alarak eski hâline dönmesine ___ denir.",
+       "cevap": "deplazmoliz",
+       "celdiriciler": [
+        "plazmoliz",
+        "turgor",
+        "ekzositoz"
+       ],
+       "bilgi": "Hipotonik ortamda hücre su alır; plazmolize uğramış hücre bu sayede eski durumuna döner.",
+       "sayfa": 117
+      },
+      {
+       "id": "2.3-04",
+       "tur": "dy",
+       "ifade": "Hipotonik ortamda su alan hayvan hücreleri, hücre duvarları olmadığından patlayabilir.",
+       "dogru": true,
+       "bilgi": "Bitki hücrelerinde turgor basıncı hücre çeperiyle dengelenir ve yaprakları canlı gösterir; hayvan hücreleri ise patlayabilir.",
+       "sayfa": 117
+      },
+      {
+       "id": "2.3-05",
+       "tur": "secmeli",
+       "soru": "Salataya tuz döküldüğünde sebzelerin su kaybedip salatanın sulanmasının nedeni nedir?",
+       "secenekler": [
+        "Tuzun hipotonik ortam oluşturup suyu hücreye çekmesi",
+        "Tuzun hücrelere aktif taşımayla pompalanması",
+        "Tuzun hipertonik ortam oluşturması ve suyun ozmozla dışarı çıkması",
+        "Hücre zarının tuz nedeniyle endositoz yapması"
+       ],
+       "dogru": 2,
+       "bilgi": "Tuz hipertonik ortam oluşturur; su ozmozla hücreden dışarı çıkarken tuz da difüzyonla sebzelere yayılır.",
+       "sayfa": 120
+      },
+      {
+       "id": "2.3-06",
+       "tur": "dy",
+       "ifade": "Parfüm kokusunun odaya yayılması ve poşet çayın renginin bardağa dağılması ozmoza örnektir.",
+       "dogru": false,
+       "bilgi": "Bu olaylar maddelerin yüksek derişimden düşük derişime yayılması yani difüzyona örnektir.",
+       "sayfa": 120
+      },
+      {
+       "id": "2.3-07",
+       "tur": "secmeli",
+       "soru": "Ozmoz dengelendiğinde başlangıçta madde yoğunluğu fazla olan bölgedeki suyun zara yaptığı kuvvete ne ad verilir?",
+       "secenekler": [
+        "Ozmotik basınç",
+        "Turgor basıncı",
+        "Yüzey gerilimi",
+        "Aktivasyon enerjisi"
+       ],
+       "dogru": 0,
+       "bilgi": "Çözeltinin su alma isteği (ozmotik potansiyel) arttıkça ozmoz için gereken güç, yani ozmotik basınç da artar.",
+       "sayfa": 116
+      },
+      {
+       "id": "2.3-08",
+       "tur": "eslestir",
+       "yonerge": "Ortam veya kavramları hücreye etkileriyle eşleştir.",
+       "ciftler": [
+        [
+         "Hipertonik çözelti",
+         "Hücreden dışarı su çıkışı olur"
+        ],
+        [
+         "Hipotonik çözelti",
+         "Hücre su alarak şişer"
+        ],
+        [
+         "İzotonik çözelti",
+         "Hücreye net su geçişi olmaz"
+        ],
+        [
+         "Turgor basıncı",
+         "Şişen sitoplazmanın çepere yaptığı basınç"
+        ]
+       ],
+       "bilgi": "Su ozmozla çözünen madde derişimi düşük ortamdan yüksek ortama doğru hareket eder.",
+       "sayfa": 117
+      },
+      {
+       "id": "2.3-09",
+       "tur": "secmeli",
+       "soru": "Soyulmuş patateslerin farklı derişimlerdeki tuzlu suda bekletildiği ozmoz deneyinde bağımlı değişken hangisidir?",
+       "secenekler": [
+        "Tuzlu suyun derişimi",
+        "Patateslerin ağırlığı ve doku yapısı",
+        "Patateslerin bekletilme süresi",
+        "Kullanılan kabın büyüklüğü"
+       ],
+       "dogru": 1,
+       "bilgi": "Bu deneyde ortamın tuz derişimi ve bekletme süresi bağımsız, patatesin ağırlığı ve dokusu bağımlı değişkendir.",
+       "sayfa": 122
+      }
+     ]
+    },
+    {
+     "no": "2.4",
+     "ad": "Sınıflandırmada Temel Yaklaşımlar ve Modern Sınıflandırma",
+     "kartlar": [
+      {
+       "id": "2.4-01",
+       "tur": "secmeli",
+       "soru": "Her sınıflandırma kategorisinde yer alan ve belirli ortak özelliklere sahip canlı grubuna ne ad verilir?",
+       "secenekler": [
+        "Taksonomi",
+        "Takson",
+        "Popülasyon",
+        "Domain"
+       ],
+       "dogru": 1,
+       "bilgi": "Ortak özellikli canlı grubuna takson, sınıflandırmanın ilke ve ölçütlerini belirleyen bilim dalına taksonomi denir.",
+       "sayfa": 125
+      },
+      {
+       "id": "2.4-02",
+       "tur": "bosluk",
+       "cumle": "Canlıları sınıflandırmak için gerekli tüm ilke ve ölçütleri belirleyen bilim dalına ___ denir.",
+       "cevap": "taksonomi",
+       "celdiriciler": [
+        "morfoloji",
+        "histoloji",
+        "anatomi"
+       ],
+       "bilgi": "Taksonomi canlıyı ilk önce tanımlayan bilim olduğu için biyolojinin alt dalları arasında öncü konumdadır.",
+       "sayfa": 125
+      },
+      {
+       "id": "2.4-03",
+       "tur": "dy",
+       "ifade": "Doğal (modern, filogenetik) sınıflandırma, canlılar arasındaki akrabalık ilişkilerine göre yapılır.",
+       "dogru": true,
+       "bilgi": "Modern sınıflandırmada morfolojik, anatomik, fizyolojik ve genetik özelliklerden yararlanılır.",
+       "sayfa": 125
+      },
+      {
+       "id": "2.4-04",
+       "tur": "secmeli",
+       "soru": "Sınıflandırmanın doğal ve temel birimi olan, birbiriyle çiftleşip verimli döl verebilen canlılar grubu hangisidir?",
+       "secenekler": [
+        "Cins",
+        "Aile",
+        "Tür",
+        "Takım"
+       ],
+       "dogru": 2,
+       "bilgi": "Tür; ortak özelliklere ve genetik mirasa sahip, doğurgan yavrular üretebilen canlılar grubudur.",
+       "sayfa": 125
+      },
+      {
+       "id": "2.4-05",
+       "tur": "secmeli",
+       "soru": "İkili (binomial) adlandırma yöntemine göre hangisi doğrudur?",
+       "secenekler": [
+        "Tür adı tek kelimeden oluşur.",
+        "Tamamlayıcı adın ilk harfi büyük yazılır.",
+        "Tür adı düz (dik) harflerle yazılır.",
+        "İlk kelime cins adıdır ve ilk harfi büyük yazılır."
+       ],
+       "dogru": 3,
+       "bilgi": "Tür adı, büyük harfle başlayan cins adı ile küçük harfle yazılan tamamlayıcı addan oluşur ve italik yazılır (Fritillaria imperialis).",
+       "sayfa": 125
+      },
+      {
+       "id": "2.4-06",
+       "tur": "bosluk",
+       "cumle": "Türlerin adlandırılmasında kullanılan ikili adlandırma yöntemini İsveçli doğa bilimci ___ önermiştir.",
+       "cevap": "Carl Linnaeus",
+       "celdiriciler": [
+        "Gregor Mendel",
+        "Robert Hooke",
+        "Rudolf Virchow"
+       ],
+       "bilgi": "Linnaeus'un ikili adlandırma yönteminde tür adı cins adı ve tamamlayıcı ad olmak üzere iki kelimedir.",
+       "sayfa": 125
+      },
+      {
+       "id": "2.4-07",
+       "tur": "secmeli",
+       "soru": "Sınıflandırma kategorileri büyükten küçüğe doğru hangi seçenekte doğru sıralanmıştır?",
+       "secenekler": [
+        "Âlem, şube, sınıf, takım, aile, cins, tür",
+        "Âlem, sınıf, şube, takım, cins, aile, tür",
+        "Şube, âlem, sınıf, aile, takım, cins, tür",
+        "Âlem, şube, takım, sınıf, aile, tür, cins"
+       ],
+       "dogru": 0,
+       "bilgi": "Akraba türler cinsi, cinsler aileyi, aileler takımı, takımlar sınıfı, sınıflar şubeyi, şubeler âlemi oluşturur.",
+       "sayfa": 126
+      },
+      {
+       "id": "2.4-08",
+       "tur": "eslestir",
+       "yonerge": "Kaplanın (Panthera tigris) sınıflandırma kategorilerini taksonlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Şube",
+         "Chordata (Kordalılar)"
+        ],
+        [
+         "Sınıf",
+         "Mammalia (Memeliler)"
+        ],
+        [
+         "Takım",
+         "Carnivora (Etçiller)"
+        ],
+        [
+         "Aile",
+         "Felidae (Kedigiller)"
+        ],
+        [
+         "Cins",
+         "Panthera (Büyük kediler)"
+        ]
+       ],
+       "bilgi": "Kaplan Animalia âleminde yer alır; tür adı Panthera tigris'tir.",
+       "sayfa": 126
+      },
+      {
+       "tur": "secmeli",
+       "soru": "Sınıflandırmada âlemden türe doğru gidildikçe hangisi artar?",
+       "secenekler": [
+        "Birey sayısı",
+        "Çeşitlilik",
+        "Akrabalık ve gen benzerliği",
+        "Farklı gen sayısı"
+       ],
+       "dogru": 2,
+       "bilgi": "Âlemden türe doğru birey sayısı ve çeşitlilik azalır; gen ve protein benzerliği ile akrabalık artar.",
+       "sayfa": 126,
+       "id": "2.4-09"
+      },
+      {
+       "tur": "secmeli",
+       "soru": "Pinus nigra (karaçam) ve Pinus brutia (kızılçam) için hangisi kesinlikle söylenebilir?",
+       "secenekler": [
+        "Aynı cinse ait farklı türlerdir.",
+        "Aynı türün iki farklı adıdır.",
+        "Farklı âlemlerde yer alırlar.",
+        "Farklı cinslere ait aynı türdür."
+       ],
+       "dogru": 0,
+       "bilgi": "Tür adının ilk kelimesi cinsi gösterir; aynı ilk kelimeyi taşıyan türler aynı cinstedir.",
+       "sayfa": 129,
+       "id": "2.4-10"
+      },
+      {
+       "id": "2.4-11",
+       "tur": "secmeli",
+       "soru": "Modern sınıflandırmada türler arasındaki akrabalık derecesinin moleküler düzeyde belirlenmesinde hangisinden yararlanılır?",
+       "secenekler": [
+        "Yalnızca dış görünüş benzerliği",
+        "Yaşadıkları ortamın benzerliği",
+        "DNA, RNA ve protein dizilerindeki benzerlikler",
+        "Beslenme şekillerinin benzerliği"
+       ],
+       "dogru": 2,
+       "bilgi": "Moleküler biyolojideki gelişmeler DNA ve RNA dizilerinin karşılaştırılmasını mümkün kılarak akrabalık ilişkilerinin doğru kurulmasını destekler.",
+       "sayfa": 125
+      }
+     ]
+    },
+    {
+     "no": "2.5",
+     "ad": "Üç Üst Âlem Sisteminde Yer Alan Canlılar ve Genel Özellikleri",
+     "kartlar": [
+      {
+       "id": "2.5-01",
+       "tur": "secmeli",
+       "soru": "Günümüzde canlılar hücresel yapı ve moleküler özelliklerine göre hangi üç üst âlemde (domain) sınıflandırılır?",
+       "secenekler": [
+        "Bakteriler, protistler, ökaryotlar",
+        "Bakteriler, arkeler, ökaryotlar",
+        "Arkeler, mantarlar, bitkiler",
+        "Prokaryotlar, bitkiler, hayvanlar"
+       ],
+       "dogru": 1,
+       "bilgi": "Genomik analizler arkelerin bakterilerden ayrı bir grup olduğunu göstermiş ve üç domain sistemi benimsenmiştir.",
+       "sayfa": 130
+      },
+      {
+       "id": "2.5-02",
+       "tur": "bosluk",
+       "cumle": "Bakterilerin hücre duvarı, onları diğer canlılardan ayırt eden ___ adlı molekülü içerir.",
+       "cevap": "peptidoglikan",
+       "celdiriciler": [
+        "selüloz",
+        "kitin",
+        "kolesterol"
+       ],
+       "bilgi": "Peptidoglikan kısa amino asit zincirleri ile karbohidratların bağlanmasıyla oluşur; arkelerin hücre duvarında bulunmaz.",
+       "sayfa": 131
+      },
+      {
+       "id": "2.5-03",
+       "tur": "dy",
+       "ifade": "Arkeler prokaryot olmalarına karşın moleküler düzeyde bakterilerden çok ökaryotik hücrelere benzer.",
+       "dogru": true,
+       "bilgi": "Bazı arkelerin DNA'sı ökaryotlardaki gibi histonlara sarılıdır; hücre zarlarında sıra dışı lipitler bulunur.",
+       "sayfa": 132
+      },
+      {
+       "id": "2.5-04",
+       "tur": "secmeli",
+       "soru": "Bazı prokaryotlarda kromozomal DNA'dan bağımsız bulunan ve antibiyotik direnci gibi avantajlı genler taşıyan küçük halkasal DNA'ya ne ad verilir?",
+       "secenekler": [
+        "Nükleoid",
+        "Pilus",
+        "Plazmit",
+        "Histon"
+       ],
+       "dogru": 2,
+       "bilgi": "Prokaryotlarda tek ve halkasal büyük bir kromozom bulunur; plazmitler ise küçük ek DNA halkalarıdır.",
+       "sayfa": 131
+      },
+      {
+       "id": "2.5-05",
+       "tur": "eslestir",
+       "yonerge": "Mantarlarla ilgili kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Hif",
+         "Mantar vücudunu oluşturan ince, ipliksi yapı"
+        ],
+        [
+         "Miselyum",
+         "Hiflerin bir araya gelmesiyle oluşan ağ"
+        ],
+        [
+         "Liken",
+         "Mantar ile alg veya siyanobakteri birlikteliği"
+        ],
+        [
+         "Tomurcuklanma",
+         "Maya gibi tek hücreli mantarların üreme şekli"
+        ]
+       ],
+       "bilgi": "Mantarlar kitinli hücre duvarına sahiptir, genellikle çürükçül beslenir ve sporlarla çoğalır.",
+       "sayfa": 137
+      },
+      {
+       "id": "2.5-06",
+       "tur": "dy",
+       "ifade": "Kara yosunları ve ciğer otları, iletim demeti bulunduran tohumlu bitkilerdir.",
+       "dogru": false,
+       "bilgi": "Kara yosunları ve ciğer otları damarsız ve tohumsuz bitkilerdir; su ve besini difüzyonla alırlar.",
+       "sayfa": 136
+      },
+      {
+       "id": "2.5-07",
+       "tur": "secmeli",
+       "soru": "Hayvanlar âleminde sinir sisteminin ve ağız yapısının görüldüğü ilk canlı grubu hangisidir?",
+       "secenekler": [
+        "Süngerler",
+        "Solucanlar",
+        "Derisi dikenliler",
+        "Knidliler (sölenterler)"
+       ],
+       "dogru": 3,
+       "bilgi": "Hidra, denizanası ve mercanlar knidlilerdendir; savunma ve av yakalamada knidosit hücreler kullanır.",
+       "sayfa": 138
+      },
+      {
+       "id": "2.5-08",
+       "tur": "bosluk",
+       "cumle": "Organizasyonlarında doku ve sistem bulunmayan, hayvanlar âleminin en basit yapılı canlıları ___ olarak bilinir.",
+       "cevap": "süngerler",
+       "celdiriciler": [
+        "knidliler",
+        "yumuşakçalar",
+        "derisi dikenliler"
+       ],
+       "bilgi": "Süngerler vücutlarındaki deliklerden suyu süzerek plankton ve küçük organizmalarla beslenir.",
+       "sayfa": 138
+      },
+      {
+       "id": "2.5-09",
+       "tur": "secmeli",
+       "soru": "Larvaları solungaç, erginleri akciğer ve deri solunumu yapan ve başkalaşım geçiren omurgalı sınıfı hangisidir?",
+       "secenekler": [
+        "Amfibiler",
+        "Sürüngenler",
+        "Balıklar",
+        "Kuşlar"
+       ],
+       "dogru": 0,
+       "bilgi": "Kurbağa ve semender gibi amfibilerde dış döllenme ve dış gelişme görülür; deri pulsuz ve nemlidir.",
+       "sayfa": 140
+      },
+      {
+       "id": "2.5-10",
+       "tur": "bosluk",
+       "cumle": "Omurgalıların embriyosunun sırt tarafında bulunan, esnek ve çubuk şeklindeki ilkel iskelete ___ denir.",
+       "cevap": "notokord",
+       "celdiriciler": [
+        "sinir kordonu",
+        "omurga sütunu",
+        "dış iskelet"
+       ],
+       "bilgi": "Omurgalılarda embriyo geliştikçe notokordun yerini omurga sütunu alır; omurgasızlarda notokord yoktur.",
+       "sayfa": 137
+      },
+      {
+       "id": "2.5-11",
+       "tur": "secmeli",
+       "soru": "Olgun alyuvarları çekirdeksiz olan, kaslı diyaframa ve ter bezlerine sahip omurgalı sınıfı hangisidir?",
+       "secenekler": [
+        "Kuşlar",
+        "Memeliler",
+        "Sürüngenler",
+        "Amfibiler"
+       ],
+       "dogru": 1,
+       "bilgi": "Memeliler meme bezleriyle yavrularını sütle besler, akciğerlerinde alveol bulunur ve vücut sıcaklıkları sabittir.",
+       "sayfa": 142
+      },
+      {
+       "id": "2.5-12",
+       "tur": "secmeli",
+       "soru": "Penisilin başta olmak üzere bakteri kaynaklı hastalıkların tedavisinde kullanılan pek çok antibiyotik hangi canlı grubundan elde edilir?",
+       "secenekler": [
+        "Arkeler",
+        "Protistler",
+        "Mantarlar",
+        "Bitkiler"
+       ],
+       "dogru": 2,
+       "bilgi": "Mantarlar ekosistemin ayrıştırıcılarıdır ve penisilin gibi birçok antibiyotiğin kaynağıdır.",
+       "sayfa": 145
+      }
+     ]
+    },
+    {
+     "no": "2.6",
+     "ad": "Biyoçeşitlilik",
+     "kartlar": [
+      {
+       "id": "2.6-01",
+       "tur": "secmeli",
+       "soru": "Biyoçeşitliliğin kapsadığı üç düzey hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "Hücre, doku ve organ çeşitliliği",
+        "Genetik, tür ve ekosistem çeşitliliği",
+        "Birey, popülasyon ve komünite çeşitliliği",
+        "Bitki, hayvan ve mantar çeşitliliği"
+       ],
+       "dogru": 1,
+       "bilgi": "Biyoçeşitlilik genlerden ekosistemlere kadar her düzeyde kendini gösterir.",
+       "sayfa": 147
+      },
+      {
+       "id": "2.6-02",
+       "tur": "bosluk",
+       "cumle": "Yayılış alanı belirli bir ülke veya bölgeyle sınırlı, yerel ve ender bulunan türlere ___ tür denir.",
+       "cevap": "endemik",
+       "celdiriciler": [
+        "istilacı",
+        "evcil",
+        "yabancı"
+       ],
+       "bilgi": "Sevgi çiçeği ve Ankara çiğdemi gibi endemik türler Türkiye biyoçeşitliliğinin önemli bir parçasıdır.",
+       "sayfa": 147
+      },
+      {
+       "id": "2.6-03",
+       "tur": "dy",
+       "ifade": "Türkiye'de yaklaşık 10000 tohumlu bitki türü bulunur ve bunların yaklaşık 3500'ü endemiktir.",
+       "dogru": true,
+       "bilgi": "Avrupa kıtasında yaklaşık 12000 bitki türü varken Türkiye yaklaşık 10000 tohumlu bitki türüne ev sahipliği yapar.",
+       "sayfa": 147
+      },
+      {
+       "id": "2.6-04",
+       "tur": "eslestir",
+       "yonerge": "Kavramları tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Flora",
+         "Bir bölgedeki tüm bitki türlerinin genel adı"
+        ],
+        [
+         "Popülasyon",
+         "Aynı alanda yaşayan aynı türden bireyler"
+        ],
+        [
+         "Komünite",
+         "Farklı türlere ait popülasyonların topluluğu"
+        ],
+        [
+         "Fitocoğrafya",
+         "Bitki örtüsünün dağılışını inceleyen bilim"
+        ]
+       ],
+       "bilgi": "Biyoçeşitlilik bir bölgedeki veya dünya genelindeki canlıların çeşitliliğini ifade eder.",
+       "sayfa": 147
+      },
+      {
+       "id": "2.6-05",
+       "tur": "secmeli",
+       "soru": "Türkiye'de biyolojik çeşitliliğin ulusal ölçekte izlenmesine yönelik sistem 2013'te hangi kurumun koordinasyonunda başlatılmıştır?",
+       "secenekler": [
+        "Türkiye İstatistik Kurumu",
+        "Meteoroloji Genel Müdürlüğü",
+        "Millî Eğitim Bakanlığı",
+        "Doğa Koruma ve Millî Parklar Genel Müdürlüğü"
+       ],
+       "dogru": 3,
+       "bilgi": "Yaklaşık 13500 bitki ve hayvan türünün verisi Nuh'un Gemisi Ulusal Biyolojik Çeşitlilik Veri Tabanı'na girilmiştir.",
+       "sayfa": 148
+      },
+      {
+       "id": "2.6-06",
+       "tur": "secmeli",
+       "soru": "Türkiye'nin biyoçeşitliliğine katkı sağlayan Anadolu yarımadası kaç farklı fitocoğrafik bölgenin kesişim noktasındadır?",
+       "secenekler": [
+        "İki",
+        "Üç",
+        "Dört",
+        "Beş"
+       ],
+       "dogru": 1,
+       "bilgi": "Üç fitocoğrafik bölgenin kesişiminde yer alması Türkiye'de iklim ve bitki örtüsü çeşitliliği sağlar.",
+       "sayfa": 148
+      },
+      {
+       "id": "2.6-07",
+       "tur": "eslestir",
+       "yonerge": "Türk bilim insanlarını biyoçeşitlilik çalışmalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Asuman Baytop",
+         "Türkiye florası (Baytop'un çöveni)"
+        ],
+        [
+         "Muhtar Başoğlu ve İbrahim Baran",
+         "Antalya semenderi"
+        ],
+        [
+         "Tevfik Karabağ",
+         "Uludağ gökçesi gibi endemik böcekler"
+        ],
+        [
+         "Bahtiye Mursaloğlu",
+         "Kör fareler üzerine çalışmalar"
+        ]
+       ],
+       "bilgi": "Türk bilim insanlarının çalışmaları Türkiye'nin flora ve fauna zenginliğinin belirlenip korunmasına katkı sağlamıştır.",
+       "sayfa": 147
+      },
+      {
+       "id": "2.6-08",
+       "tur": "dy",
+       "ifade": "Biyoçeşitlilik yalnızca bir bölgedeki tür sayısını ifade eder; genetik çeşitliliği kapsamaz.",
+       "dogru": false,
+       "bilgi": "Biyoçeşitlilik genetik çeşitlilik, tür çeşitliliği ve ekosistem çeşitliliğini birlikte kapsar.",
+       "sayfa": 147
+      },
+      {
+       "id": "2.6-09",
+       "tur": "bosluk",
+       "cumle": "Bir bölgeye dışarıdan gelip hızla çoğalan ve yerli türleri olumsuz etkileyen yabancı türe ___ tür denir.",
+       "cevap": "istilacı",
+       "celdiriciler": [
+        "endemik",
+        "yerli",
+        "evcil"
+       ],
+       "bilgi": "Aslan balığı gibi istilacı türler biyolojik çeşitliliği olumsuz yönde etkiler.",
+       "sayfa": 140
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

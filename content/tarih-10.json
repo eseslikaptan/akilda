@@ -1,0 +1,2295 @@
+{
+ "kitap": "tarih-10",
+ "ders": "tarih",
+ "sinif": 10,
+ "baslik": "Tarih 10. Sınıf Ders Kitabı",
+ "sayfaUrl": "https://tymm.meb.gov.tr/kitap/77/tarih-10sinif-ders-kitabi",
+ "pdfUrl": "https://tymm.meb.gov.tr/assets/pdf/tarih-10sinif-ders-kitabi_20261013_153142_277.pdf",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Türkistan'dan Türkiye'ye (1040-1299)",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Türkistan'dan Türkiye'ye Uzanan Süreçte Meydana Gelen Önemli Askerî Mücadeleler",
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "secmeli",
+       "soru": "Tuğrul ve Çağrı Beylerin 1040'ta Gaznelilere karşı kazanarak Selçuklu Devleti'ni kurdukları savaş hangisidir?",
+       "secenekler": [
+        "Dandanakan Savaşı",
+        "Pasinler Savaşı",
+        "Malazgirt Savaşı",
+        "Katvan Savaşı"
+       ],
+       "dogru": 0,
+       "bilgi": "Dandanakan zaferinin ardından Tuğrul Bey yeni devletin ilk sultanı ilan edilmiş, devlet Selçuk Bey'den hareketle Selçuklular adıyla anılmıştır.",
+       "sayfa": 13
+      },
+      {
+       "id": "1.1-02",
+       "tur": "bosluk",
+       "cumle": "Selçuklu hanedanına adını veren Selçuk Bey, Oğuzların Üçok koluna mensup ___ boyundandı.",
+       "cevap": "Kınık",
+       "celdiriciler": [
+        "Kayı",
+        "Bayat",
+        "Avşar"
+       ],
+       "bilgi": "Selçuk Bey, Oğuz Yabgu Devleti'nden ayrılarak maiyetiyle Cend şehrine gelmiş ve burada İslamiyet'i kabul etmiştir.",
+       "sayfa": 13
+      },
+      {
+       "id": "1.1-03",
+       "tur": "dy",
+       "ifade": "1048'deki Pasinler Savaşı, Selçukluların Doğu Roma İmparatorluğu ile yaptığı bilinen ilk savaştır.",
+       "dogru": true,
+       "bilgi": "Erzurum yakınlarındaki Pasinler Ovası'nda yapılan bu savaşta Selçuklu ordusunun başında İbrahim Yınal ve Kutalmış bulunuyordu.",
+       "sayfa": 14
+      },
+      {
+       "id": "1.1-04",
+       "tur": "secmeli",
+       "soru": "Sultan Alp Arslan'ın Ağustos 1064'te fethettiği, sağlam surları nedeniyle ele geçirilemeyeceği düşünülen kale hangisidir?",
+       "secenekler": [
+        "Kalincar Kalesi",
+        "Ani Kalesi",
+        "Van Kalesi",
+        "Alanya Kalesi"
+       ],
+       "dogru": 1,
+       "bilgi": "Alp Arslan'ın tahta geçmesiyle Anadolu seferleri hız kazanmış, 1066'dan itibaren Orta ve Güney Anadolu'da birçok şehir alınmıştır.",
+       "sayfa": 15
+      },
+      {
+       "id": "1.1-05",
+       "tur": "secmeli",
+       "soru": "26 Ağustos 1071'deki Malazgirt Savaşı'nda Doğu Roma ordusuna komuta eden imparator kimdir?",
+       "secenekler": [
+        "Manuel Komnenos",
+        "Aleksios Komnenos",
+        "IX. Konstantin",
+        "Romanos Diogenes"
+       ],
+       "dogru": 3,
+       "bilgi": "Alp Arslan Turan taktiğiyle kazandığı zaferden sonra Diogenes'e tutsak değil konuk hükümdar muamelesi yapmış, Anadolu'nun kapıları Türklere açılmıştır.",
+       "sayfa": 15
+      },
+      {
+       "id": "1.1-06",
+       "tur": "dy",
+       "ifade": "Miryokefalon Savaşı 1176'da Sultan I. Kılıçarslan ile İmparator Aleksios Komnenos arasında yapılmıştır.",
+       "dogru": false,
+       "bilgi": "Miryokefalon Savaşı 17 Eylül 1176'da Sultan II. Kılıçarslan ile İmparator Manuel Komnenos arasında yapılmış; Bizans'ın Anadolu'yu geri alma ümidi sona ermiştir.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-07",
+       "tur": "eslestir",
+       "yonerge": "Anadolu'da kurulan ilk Türk beyliklerini inşa ettikleri eserlerle eşleştir.",
+       "ciftler": [
+        [
+         "Artuklular",
+         "Malabadi Köprüsü"
+        ],
+        [
+         "Mengücekliler",
+         "Divriği Ulu Cami Külliyesi"
+        ],
+        [
+         "Danişmentliler",
+         "Yağıbasan Medresesi"
+        ],
+        [
+         "Saltuklular",
+         "Mama Hatun Külliyesi"
+        ]
+       ],
+       "bilgi": "Malazgirt'ten sonra kurulan ilk beylikler Anadolu'nun Türkleşmesine katkı sağlamış; Saltuklular Anadolu'daki ilk Türk beyliğidir.",
+       "sayfa": 21
+      },
+      {
+       "id": "1.1-08",
+       "tur": "bosluk",
+       "cumle": "İzmir ve çevresinde beylik kuran ve Anadolu'daki ilk Türk donanmasını oluşturan bey ___ Bey'dir.",
+       "cevap": "Çaka",
+       "celdiriciler": [
+        "Artuk",
+        "Mengücek",
+        "Danişment"
+       ],
+       "bilgi": "Çaka Bey (1081-1093), Anadolu'daki ilk Türk denizcisi olarak Bizanslılarla mücadele etmiştir.",
+       "sayfa": 20
+      },
+      {
+       "id": "1.1-09",
+       "tur": "secmeli",
+       "soru": "27 Kasım 1095'te Clermont Konsili'nde Avrupa halklarına çağrı yaparak I. Haçlı Savaşı'nı başlatan papa kimdir?",
+       "secenekler": [
+        "III. Innocentius",
+        "VII. Gregorius",
+        "II. Urbanus",
+        "XIII. Gregorius"
+       ],
+       "dogru": 2,
+       "bilgi": "I. Haçlı Savaşı sonunda Urfa, Antakya, Kudüs ve Trablus'ta Haçlı kontlukları kurulmuştur.",
+       "sayfa": 22
+      },
+      {
+       "id": "1.1-10",
+       "tur": "secmeli",
+       "soru": "Selahaddin Eyyubi'nin Haçlıları yenerek 1187'de Kudüs'ün yeniden fethine zemin hazırladığı muharebe hangisidir?",
+       "secenekler": [
+        "Dorileon Savaşı",
+        "Hıttin Muharebesi",
+        "Kösedağ Savaşı",
+        "Akka Kuşatması"
+       ],
+       "dogru": 1,
+       "bilgi": "Kudüs'ün fethi Türklerin İslam dünyasındaki saygınlığını artırmış, Avrupa ise III. Haçlı Savaşı için hazırlığa başlamıştır.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.1-11",
+       "tur": "dy",
+       "ifade": "IV. Haçlı Savaşı sırasında Haçlılar İstanbul'u yağmalamış ve 1204'te burada Latin İmparatorluğu'nu kurmuştur.",
+       "dogru": true,
+       "bilgi": "İznik Rum İmparatorluğu 1261'de İstanbul'u geri alarak Latin hâkimiyetine son vermiş, ancak Doğu Roma eski gücüne kavuşamamıştır.",
+       "sayfa": 27
+      },
+      {
+       "id": "1.1-12",
+       "tur": "bosluk",
+       "cumle": "1243'te Sivas'ta yapılan ___ Savaşı'nda Moğollara yenilen Türkiye Selçuklu Devleti, Moğol tahakkümü altına girmiştir.",
+       "cevap": "Kösedağ",
+       "celdiriciler": [
+        "Miryokefalon",
+        "Malazgirt",
+        "Pasinler"
+       ],
+       "bilgi": "1240'taki Babaîler İsyanı'nın güçlükle bastırılması devletin zayıfladığını göstermiş ve Moğolları Anadolu'ya saldırmaya cesaretlendirmiştir.",
+       "sayfa": 29
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "Türkistan'dan Türkiye'ye Uzanan Süreçte Türk Devlet ve Ordu Teşkilatında Meydana Gelen Değişim",
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "bosluk",
+       "cumle": "Süleyman Şah'ın ___ yılında İznik'i fethedip burayı merkez yapmasıyla Türkiye Selçuklu Devleti fiilen kurulmuştur.",
+       "cevap": "1075",
+       "celdiriciler": [
+        "1071",
+        "1040",
+        "1097"
+       ],
+       "bilgi": "Son araştırmalara göre olayların kronolojisi ve İznik'in fethi dikkate alındığında Türkiye Selçuklu Devleti'nin kuruluş tarihi 1075'tir.",
+       "sayfa": 35
+      },
+      {
+       "id": "1.2-02",
+       "tur": "secmeli",
+       "soru": "İslamiyet'in kabulünden sonra Türk devletlerinde devlet anlamına gelen \"il\" kelimesinin yerini hangi kavram almıştır?",
+       "secenekler": [
+        "Töre",
+        "Mülk",
+        "Kut",
+        "Divan"
+       ],
+       "dogru": 1,
+       "bilgi": "İslamiyet'in kabulünden sonra devlet yönetiminde töreyle birlikte dinî esaslara dayalı şeri kurallar da uygulanmıştır.",
+       "sayfa": 36
+      },
+      {
+       "id": "1.2-03",
+       "tur": "dy",
+       "ifade": "İslam öncesi kut anlayışı, İslamiyet'ten sonra hükümdarlara verilen \"zillullah fi'l-arz\" (Allah'ın yeryüzündeki gölgesi) anlayışına dönüşmüştür.",
+       "dogru": true,
+       "bilgi": "Kut anlayışına göre kağanlar devleti yönetme yetkisini Gök Tanrı'dan alır, adaletle yönetmeyen kağanın kutu kaybettiğine inanılırdı.",
+       "sayfa": 36
+      },
+      {
+       "id": "1.2-04",
+       "tur": "secmeli",
+       "soru": "İlayıkelimetullah hedefiyle Hindistan'a on yedi sefer düzenleyerek bölgedeki Türk-İslam hâkimiyetinin temellerini atan hükümdar kimdir?",
+       "secenekler": [
+        "Gazneli Mahmud",
+        "Tuğrul Bey",
+        "Satuk Buğra Han",
+        "Sultan Sancar"
+       ],
+       "dogru": 0,
+       "bilgi": "Türklerin cihan devleti ülküsü İslam'daki ilayıkelimetullah hedefiyle birleşince savaşlar gaza ve cihat anlayışıyla yapılmaya başlanmıştır.",
+       "sayfa": 36
+      },
+      {
+       "id": "1.2-05",
+       "tur": "bosluk",
+       "cumle": "Türk-İslam devletlerinde sultan unvanı ilk kez ___ Döneminde kullanılmaya başlanmıştır.",
+       "cevap": "Gazneliler",
+       "celdiriciler": [
+        "Karahanlılar",
+        "Büyük Selçuklular",
+        "Türkiye Selçukluları"
+       ],
+       "bilgi": "Karahanlı hükümdarları kağan yerine hakan, arslan han ve ilig han unvanlarıyla anılmıştır.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.2-06",
+       "tur": "secmeli",
+       "soru": "Büyük Selçuklu Devleti'nde işlev ve yetkileri bakımından günümüzdeki hükûmete benzeyen en büyük devlet kurumu hangisidir?",
+       "secenekler": [
+        "Divan-ı Mezâlim",
+        "Divan-ı İstîfâ",
+        "Divan-ı A'lâ (Büyük Divan)",
+        "Meclis-i Âlî"
+       ],
+       "dogru": 2,
+       "bilgi": "Divan-ı A'lâ'ya sahib-i Divan-ı Vezâret (sahib-i a'zâm) unvanlı vezir başkanlık ederdi; ilk Türk devletlerindeki kurultay İslamiyet'ten sonra divan adını almıştır.",
+       "sayfa": 40
+      },
+      {
+       "id": "1.2-07",
+       "tur": "eslestir",
+       "yonerge": "Büyük Selçuklu Devleti'ndeki divanları görev alanlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Divan-ı Tuğra (İnşa)",
+         "İç ve dış yazışmalar"
+        ],
+        [
+         "Divan-ı İstîfâ",
+         "Maliye işleri"
+        ],
+        [
+         "Divan-ı Arz (Ceyş)",
+         "Askerî işler"
+        ],
+        [
+         "Divan-ı İşrâf",
+         "İdari ve mali işlerin teftişi"
+        ]
+       ],
+       "bilgi": "Bu alt divanlar Divan-ı A'lâ'ya bağlı olarak devletin mali, idari, askerî ve resmî yazışma işlerini yürütürdü.",
+       "sayfa": 39
+      },
+      {
+       "id": "1.2-08",
+       "tur": "dy",
+       "ifade": "Büyük Selçuklu Devleti'nde örfi hukuka ilişkin davalara kâdılkudât (başkadı) bakardı.",
+       "dogru": false,
+       "bilgi": "Örfi davalara emîr-i dâd bakardı; şeri davalara kadılar, ordu mensuplarının davalarına kazaskerler bakar, kadıların başına kâdılkudât denirdi.",
+       "sayfa": 42
+      },
+      {
+       "id": "1.2-09",
+       "tur": "secmeli",
+       "soru": "Büyük Selçuklu Devleti'nde eyaletlere gönderilen genç meliklere yönetim tecrübesi kazandırmak için yanlarına verilen görevliye ne ad verilirdi?",
+       "secenekler": [
+        "Şıhne",
+        "Amîd",
+        "Muhtesip",
+        "Atabey"
+       ],
+       "dogru": 3,
+       "bilgi": "Bazı atabeylerin bulundukları eyaletlerde özerklik ilan etmesi merkezî otoriteyi zayıflatmış ve Büyük Selçuklu'nun yıkılışında etkili olmuştur.",
+       "sayfa": 42
+      },
+      {
+       "id": "1.2-10",
+       "tur": "bosluk",
+       "cumle": "Toprakların vergi gelirlerine göre bölünüp askerî ve sivil görevlilere hizmetleri karşılığında maaş olarak verilmesine ___ sistemi denir.",
+       "cevap": "ikta",
+       "celdiriciler": [
+        "atabeylik",
+        "gulam",
+        "veraset"
+       ],
+       "bilgi": "İkta sistemiyle devlet hem merkezî otoritesini güçlendirmiş hem de savaşa hazır bir askerî güç elde etmiştir; Selçuklu ordusunun en kalabalık bölümü ikta birlikleriydi.",
+       "sayfa": 45
+      },
+      {
+       "id": "1.2-11",
+       "tur": "dy",
+       "ifade": "Türkiye Selçuklu Devleti'nde sultanın başkentte bulunmadığı veya hastalandığı durumlarda ona naib-i saltanat vekâlet ederdi.",
+       "dogru": true,
+       "bilgi": "Türkiye Selçuklularında ikta kayıtlarını tutan ve menşur ile beratları hazırlayan görevliye pervane denirdi.",
+       "sayfa": 43
+      },
+      {
+       "id": "1.2-12",
+       "tur": "secmeli",
+       "soru": "Savaş esirleri arasından seçilen, satın alınan veya hediye yoluyla edinilen kişilerden oluşturulup sarayda yetiştirilen askerî sınıfa ne ad verilir?",
+       "secenekler": [
+        "Türkmen",
+        "Gulam",
+        "İkta askeri",
+        "Gönüllü"
+       ],
+       "dogru": 1,
+       "bilgi": "Gazneli ordusu asıl gücünü sarayda gulam olarak yetiştirilen Türklerden oluşan hassa ordusundan alıyordu.",
+       "sayfa": 45
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "Türkistan'dan Türkiye'ye Uzanan Süreçte Türklerin Sosyal Yaşamları ve Ekonomik Faaliyetleri",
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "secmeli",
+       "soru": "Selçuklu toplumu yerleşme durumuna göre hangi gruplara ayrılırdı?",
+       "secenekler": [
+        "Şehirliler, köylüler ve konargöçerler",
+        "Beyler, ulema ve köleler",
+        "Askerîler, reaya ve zimmîler",
+        "Hassa, ikta ve gulam askerleri"
+       ],
+       "dogru": 0,
+       "bilgi": "Selçuklu toplumu yönetenler ve yönetilenler olarak ikiye ayrılır, toplumun temelini ise aile oluştururdu.",
+       "sayfa": 54
+      },
+      {
+       "id": "1.3-02",
+       "tur": "eslestir",
+       "yonerge": "Selçuklu Dönemi'ndeki toprak türlerini açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Has arazi",
+         "Hükümdarın şahsına ait araziler"
+        ],
+        [
+         "İkta arazi",
+         "Görev karşılığında komutan ve askerlere verilen arazi"
+        ],
+        [
+         "Öşrî arazi",
+         "Müslümanlardan 1/10 vergi alınan arazi"
+        ],
+        [
+         "Haraci arazi",
+         "Gayrimüslimlerin elindeki topraklar"
+        ],
+        [
+         "Vakıf arazi",
+         "Geliri hayır işlerine ayrılan arazi"
+        ]
+       ],
+       "bilgi": "Has araziden alınan vergiler savaş ve olağanüstü durumlarda kullanılmak üzere ihtiyat hazinesine aktarılırdı.",
+       "sayfa": 55
+      },
+      {
+       "id": "1.3-03",
+       "tur": "bosluk",
+       "cumle": "Selçuklularda gayrimüslimlerden arazilerinde yaşama ve himaye edilme hakkı karşılığında alınan vergiye ___ denir.",
+       "cevap": "haraç",
+       "celdiriciler": [
+        "öşür",
+        "zekât",
+        "gümrük"
+       ],
+       "bilgi": "Gayrimüslimler Müslüman olduklarında haraç vergisi alınmazdı.",
+       "sayfa": 55
+      },
+      {
+       "id": "1.3-04",
+       "tur": "dy",
+       "ifade": "Selçuklularda ticari mallar günümüzdeki sigortaya benzer bir yöntemle korunur, saldırıya uğrayan tüccarların kaybı tazmin edilirdi.",
+       "dogru": true,
+       "bilgi": "Selçuklu toplumunda tüccarlar büyük itibara ve dokunulmazlığa sahipti.",
+       "sayfa": 54
+      },
+      {
+       "id": "1.3-05",
+       "tur": "secmeli",
+       "soru": "Selçuklular Döneminde Anadolu'dan çıkarılıp dokuma sanayisinde boya maddesi olarak Batı Avrupa'ya ihraç edilen ürün hangisidir?",
+       "secenekler": [
+        "Kereste",
+        "Şap",
+        "Bakır",
+        "Sof"
+       ],
+       "dogru": 1,
+       "bilgi": "Anadolu'dan kereste Mısır'a ihraç edilir, Türkmen halı ve kilimleri ile Ankara'nın sof kumaşları Avrupa ve İslam ülkelerine gönderilirdi.",
+       "sayfa": 55
+      },
+      {
+       "id": "1.3-06",
+       "tur": "bosluk",
+       "cumle": "\"Dünyayı dolaşan bu satıcılar olmasaydı kara samur kürkü ne zaman giyerdin?\" diyerek ticaretin önemini vurgulayan Yusuf Has Hacib'in eseri ___ adını taşır.",
+       "cevap": "Kutadgu Bilig",
+       "celdiriciler": [
+        "Divânü Lugâti't-Türk",
+        "Atabetü'l-Hakayık",
+        "Siyasetname"
+       ],
+       "bilgi": "Selçuklular ticaret yollarını canlandırmak için konaklama yerlerini onarmış, köprüler yaptırmış ve tüccarlara vergi muafiyetleri tanımıştır.",
+       "sayfa": 59
+      },
+      {
+       "id": "1.3-07",
+       "tur": "secmeli",
+       "soru": "Kayseri yakınlarında kurulan ve uluslararası fuar niteliği taşıyan Selçuklu Dönemi ticaret merkezi hangisidir?",
+       "secenekler": [
+        "Sultanhanı",
+        "Kubâdâbâd",
+        "Yabanlu Panayırı",
+        "Alay Hanı"
+       ],
+       "dogru": 2,
+       "bilgi": "Yabanlu Panayırı gibi merkezlerde tüccarların faaliyetlerini kolaylaştıran yaşam alanları oluşturulmuştur.",
+       "sayfa": 59
+      },
+      {
+       "id": "1.3-08",
+       "tur": "dy",
+       "ifade": "Anadolu'daki Ahilik teşkilatı Mevlana Celaleddin Rumi öncülüğünde kurulmuştur.",
+       "dogru": false,
+       "bilgi": "Ahilik, Abbasi Halifesi Nasır Lidinillah döneminde ortaya çıkan fütüvvet teşkilatı örnek alınarak Ahi Evran öncülüğünde kurulmuştur.",
+       "sayfa": 59
+      },
+      {
+       "id": "1.3-09",
+       "tur": "secmeli",
+       "soru": "Konya-Aksaray yolu üzerinde 1229'da Sultan I. Alâeddin Keykubad tarafından yaptırılan kervansaray hangisidir?",
+       "secenekler": [
+        "Ribat-ı Şerif Kervansarayı",
+        "Alay Hanı",
+        "Şeki Kervansarayı",
+        "Sultanhanı Kervansarayı"
+       ],
+       "dogru": 3,
+       "bilgi": "Bir vakıf eseri olan Sultanhanı, avlusunda köşk biçiminde bir mescit bulunan ihtişamlı bir Selçuklu yapısıdır.",
+       "sayfa": 61
+      },
+      {
+       "id": "1.3-10",
+       "tur": "bosluk",
+       "cumle": "Selçuklularda bakır sikke (___) ilk kez Sultan Rükneddin Mesud zamanında ortaya çıkmıştır.",
+       "cevap": "mangır",
+       "celdiriciler": [
+        "akçe",
+        "dinar",
+        "dirhem"
+       ],
+       "bilgi": "Selçuklular Konya, Sivas, Erzincan gibi kentlerde altın, gümüş ve bakır sikkeler basmıştır.",
+       "sayfa": 61
+      },
+      {
+       "id": "1.3-11",
+       "tur": "secmeli",
+       "soru": "1220'de Türkiye Selçukluları ile ticaret antlaşması yaparak tüccarları için düşük gümrük vergisi ve ayrıcalıklar elde eden devlet hangisidir?",
+       "secenekler": [
+        "Cenova",
+        "Bizans",
+        "Venedik",
+        "Macaristan"
+       ],
+       "dogru": 2,
+       "bilgi": "Bu antlaşmayla değerli taşlar, inci ve altın gibi mallar gümrükten muaf tutulmuş, diğer mallara %2 vergi uygulanmıştır.",
+       "sayfa": 60
+      }
+     ]
+    },
+    {
+     "no": "1.4",
+     "ad": "Türk-İslam Medeniyetinin Bilim, Kültür, Eğitim ve Sanat Alanlarında Ortaya Çıkardığı Etkiler",
+     "kartlar": [
+      {
+       "id": "1.4-01",
+       "tur": "secmeli",
+       "soru": "Büyük Selçuklu Döneminde Bağdat'ta kurulan ve müfredatı ile idari yapısı Anadolu'daki medreselere örnek olan medrese hangisidir?",
+       "secenekler": [
+        "Nizamiye Medresesi",
+        "Sâhibiye Medresesi",
+        "Mustansıriyye Medresesi",
+        "Yağıbasan Medresesi"
+       ],
+       "dogru": 0,
+       "bilgi": "1066'da Bağdat'ta kurulan Nizamiye Medresesi örnek alınarak Anadolu'da Sivas'taki Sâhibiye (Gök) Medresesi gibi eğitim kurumları açılmıştır.",
+       "sayfa": 72
+      },
+      {
+       "id": "1.4-02",
+       "tur": "dy",
+       "ifade": "Batı'da açılan ilk üniversite Bologna Üniversitesi'dir.",
+       "dogru": true,
+       "bilgi": "Bologna Üniversitesi 1088'de universitas adlı öğrenci loncasının girişimiyle kurulmuş, önce hukuk eğitimi vermiştir.",
+       "sayfa": 69
+      },
+      {
+       "id": "1.4-03",
+       "tur": "bosluk",
+       "cumle": "Anıt mezar özelliği taşıyan ve İslam dünyasında ilk kez Türkler tarafından inşa edilen yapılara ___ denir.",
+       "cevap": "kümbet",
+       "celdiriciler": [
+        "ribat",
+        "darüşşifa",
+        "külliye"
+       ],
+       "bilgi": "Bazı sanat tarihçilerine göre Türklerdeki çadır geleneği kümbetler aracılığıyla mimariye yansımıştır; Kayseri'deki Döner Kümbet bunun bir örneğidir.",
+       "sayfa": 80
+      },
+      {
+       "id": "1.4-04",
+       "tur": "secmeli",
+       "soru": "Orta Çağ manastır ve katedral okullarında gramer, retorik ve diyalektikten oluşan \"sözlü sanatlar\" grubuna ne ad verilirdi?",
+       "secenekler": [
+        "Quadrivium",
+        "Trivium",
+        "Universitas",
+        "Skolastik"
+       ],
+       "dogru": 1,
+       "bilgi": "Aritmetik, geometri, astronomi ve müzikten oluşan sayısal bilimler grubuna ise quadrivium denirdi.",
+       "sayfa": 78
+      },
+      {
+       "id": "1.4-05",
+       "tur": "eslestir",
+       "yonerge": "Mutasavvıfları eserleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Hoca Ahmed Yesevi",
+         "Divan-ı Hikmet"
+        ],
+        [
+         "Mevlana Celaleddin Rumi",
+         "Mesnevi"
+        ],
+        [
+         "Hacı Bektaş Veli",
+         "Makâlât"
+        ],
+        [
+         "Muhyiddin İbnülarabi",
+         "Füsûsu'l-Hikem"
+        ]
+       ],
+       "bilgi": "Mutasavvıfların birleştirici yaklaşımları, Moğol istilası ve Haçlı Savaşları döneminde Anadolu halkının direnme gücünü artırmıştır.",
+       "sayfa": 87
+      },
+      {
+       "id": "1.4-06",
+       "tur": "secmeli",
+       "soru": "\"Pir-i Türkistan\" unvanıyla anılan ve hikmet adlı şiirlerinde Arapça ile Farsça yerine Türkçeyi kullanan mutasavvıf kimdir?",
+       "secenekler": [
+        "Yunus Emre",
+        "Hacı Bektaş Veli",
+        "Hoca Ahmed Yesevi",
+        "Sarı Saltuk"
+       ],
+       "dogru": 2,
+       "bilgi": "Hoca Ahmed Yesevi'nin öğretileri Horasan erenleri aracılığıyla Anadolu ve Balkanlara taşınmıştır.",
+       "sayfa": 86
+      },
+      {
+       "id": "1.4-07",
+       "tur": "dy",
+       "ifade": "Mevlana Celaleddin Rumi eserlerinin tamamını Türkçe kaleme almıştır.",
+       "dogru": false,
+       "bilgi": "Mevlana eserlerini dönemin edebî dili Farsçayla yazmış, bazı beyitlerinde Arapça, Türkçe ve Rumca ifadelere yer vermiştir.",
+       "sayfa": 87
+      },
+      {
+       "id": "1.4-08",
+       "tur": "bosluk",
+       "cumle": "XIII. yüzyıl hekimlerinden ___, Galen'in görüşlerini düzelterek küçük kan dolaşımını doğru biçimde açıklamıştır.",
+       "cevap": "İbn Nefis",
+       "celdiriciler": [
+        "İbn Sina",
+        "Biruni",
+        "Cezeri"
+       ],
+       "bilgi": "İbn Nefis'in buluşu XVI. yüzyılda Servetus ve Colombus tarafından yeniden keşfedilmiştir.",
+       "sayfa": 74
+      },
+      {
+       "id": "1.4-09",
+       "tur": "secmeli",
+       "soru": "Osmanlı Devleti'nde Yeniçeri Ocağının piri olarak kabul edilen mutasavvıf kimdir?",
+       "secenekler": [
+        "Mevlana Celaleddin Rumi",
+        "Yunus Emre",
+        "Ahi Evran",
+        "Hacı Bektaş Veli"
+       ],
+       "dogru": 3,
+       "bilgi": "Horasan'dan Anadolu'ya gelen Hacı Bektaş Veli, Suluca Karahöyük civarında halkı bilinçlendirme faaliyetlerine başlamıştır.",
+       "sayfa": 88
+      },
+      {
+       "id": "1.4-10",
+       "tur": "secmeli",
+       "soru": "1072-1074 yılları arasında Türkçenin bilinen ilk sözlüğü olan Divânü Lugâti't-Türk'ü yazan âlim kimdir?",
+       "secenekler": [
+        "Kaşgarlı Mahmud",
+        "Yusuf Has Hacib",
+        "Ömer Hayyam",
+        "İbni Bibi"
+       ],
+       "dogru": 0,
+       "bilgi": "Divânü Lugâti't-Türk, Türkçenin Arapçayla boy ölçüşebilecek zenginlikte olduğunu göstermiş ve bir dünya haritası da içermiştir.",
+       "sayfa": 92
+      },
+      {
+       "id": "1.4-11",
+       "tur": "bosluk",
+       "cumle": "Ömer Hayyam başkanlığındaki heyet, Sultan Melikşah Döneminde ___ Takvimi olarak bilinen takvimi hazırlamıştır.",
+       "cevap": "Celali",
+       "celdiriciler": [
+        "Hicri",
+        "Rumi",
+        "Gregoryen"
+       ],
+       "bilgi": "Ömer Hayyam İsfahan'da gözlemevi kurmuş, matematikteki çalışmalarıyla analitik geometrinin gelişimine katkı sağlamıştır.",
+       "sayfa": 93
+      },
+      {
+       "id": "1.4-12",
+       "tur": "dy",
+       "ifade": "Mekanik biliminin öncülerinden Cezeri, Kitab-ül Hiyel olarak da bilinen eserini Artuklu Emîri Nâsırüddin Mahmud'un isteğiyle yazmıştır.",
+       "dogru": true,
+       "bilgi": "Cezeri, fil su saati ve ilk kez onun tasarladığı mum saatleri gibi elliden fazla mekanik araç tasarlamıştır.",
+       "sayfa": 94
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Beylikten Devlete Osmanlı (1299-1453)",
+   "konular": [
+    {
+     "no": "2.1",
+     "ad": "Osmanlı Devleti'nin Kuruluşuna Dair Görüşler",
+     "kartlar": [
+      {
+       "id": "2.1-01",
+       "tur": "secmeli",
+       "soru": "Osmanlı Devleti'nin kuruluşuna dair farklı görüşlerin ortaya çıkmasının temel nedeni nedir?",
+       "secenekler": [
+        "İlk döneme ait yeterli kaynak ve bilgi bulunmaması",
+        "Kuruluşun Balkanlarda gerçekleşmesi",
+        "Kuruluş kroniklerinin Bizans'ta yazılması",
+        "Osmanlı arşivlerinin Ankara Savaşı'nda yanması"
+       ],
+       "dogru": 0,
+       "bilgi": "Eksik bilgilerin teorik çıkarımlarla doldurulması ve menkıbelerin gerçek kabul edilmesi, kuruluş dönemine dair kurgusal anlatımlara yol açmıştır.",
+       "sayfa": 111
+      },
+      {
+       "id": "2.1-02",
+       "tur": "bosluk",
+       "cumle": "İlk Osmanlı kronikleri Osman Bey zamanından yaklaşık ___ yıl sonra yazılmıştır.",
+       "cevap": "yüz",
+       "celdiriciler": [
+        "elli",
+        "iki yüz",
+        "on"
+       ],
+       "bilgi": "Kronik, günü gününe yazılmış olayları içine alan eserdir; vakayiname olarak da adlandırılır.",
+       "sayfa": 111
+      },
+      {
+       "id": "2.1-03",
+       "tur": "eslestir",
+       "yonerge": "Tarihçileri Osmanlı'nın kuruluşu hakkındaki görüşleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Herbert Adams Gibbons",
+         "Osmanlıları yeni bir ırk olarak gören Amerikalı gazeteci"
+        ],
+        [
+         "M. Fuat Köprülü",
+         "Kuruluşu Anadolu Selçuklu tarihinin devamı olarak inceledi"
+        ],
+        [
+         "Paul Wittek",
+         "Kuruluşun temel unsurunu gaza geleneği olarak gördü"
+        ],
+        [
+         "Halil İnalcık",
+         "Kuruluş tarihini Bapheus Savaşı'yla 1302 kabul etti"
+        ]
+       ],
+       "bilgi": "Gibbons, Wittek, Köprülü ve İnalcık'ın görüşleri Osmanlı'nın kuruluşu tartışmalarının ana çerçevesini oluşturmuştur.",
+       "sayfa": 113
+      },
+      {
+       "id": "2.1-04",
+       "tur": "dy",
+       "ifade": "Gibbons, Ulu Çınar menkıbesinden hareketle Osman Bey'in Söğüt'e yerleştiğinde zaten Müslüman olduğunu savunmuştur.",
+       "dogru": false,
+       "bilgi": "Gibbons bu menkıbeden Osman Bey'in o dönemde Müslüman olmadığı sonucunu çıkarmış, Köprülü ise bu görüşe karşı çıkmıştır.",
+       "sayfa": 111
+      },
+      {
+       "id": "2.1-05",
+       "tur": "secmeli",
+       "soru": "Gibbons'ın tezlerine 1934'te Sorbonne'daki konferanslarla cevap verip bunları Osmanlı İmparatorluğu'nun Kökleri adıyla yayımlayan tarihçi kimdir?",
+       "secenekler": [
+        "Halil İnalcık",
+        "Paul Wittek",
+        "M. Fuat Köprülü",
+        "Kâtip Çelebi"
+       ],
+       "dogru": 2,
+       "bilgi": "Köprülü'ye göre kuruluş, genel Türk tarihi çerçevesinde Anadolu beylikleriyle birlikte ve Selçuklu tarihinin devamı olarak incelenmelidir.",
+       "sayfa": 112
+      },
+      {
+       "id": "2.1-06",
+       "tur": "secmeli",
+       "soru": "Halil İnalcık'a göre sultan unvanını alan ilk Osmanlı hükümdarı kimdir?",
+       "secenekler": [
+        "Osman Bey",
+        "Orhan Bey",
+        "I. Murad",
+        "Yıldırım Bayezid"
+       ],
+       "dogru": 1,
+       "bilgi": "İnalcık'a göre Osmanlı Beyliği gazi Osman Bey tarafından kurulmuş, Orhan zamanında (1336) bir sultanlık hâlinde gelişmiştir.",
+       "sayfa": 114
+      },
+      {
+       "id": "2.1-07",
+       "tur": "dy",
+       "ifade": "Kâtip Çelebi, 1648'de yazdığı Takvimü't-Tevarih adlı eserinde Osmanlı Devleti'nin kuruluş tarihini 1299 olarak vermiştir.",
+       "dogru": true,
+       "bilgi": "1851'den sonraki salnamelerde ve Türkiye Cumhuriyeti ders kitaplarında da kuruluş tarihi genellikle 1299 olarak verilmiştir.",
+       "sayfa": 114
+      },
+      {
+       "id": "2.1-08",
+       "tur": "bosluk",
+       "cumle": "Yahşi Fakih'e göre Osman Bey 1299'da ___ kendi adına hutbe okutarak bağımsızlığını ilan etmiş ve bir kadı atamıştır.",
+       "cevap": "Karacahisar'da",
+       "celdiriciler": [
+        "Söğüt'te",
+        "Bursa'da",
+        "İznik'te"
+       ],
+       "bilgi": "Bu bilgi Yahşi Fakih'in Menâkıbnâme-i Âl-i Osman adlı eserinde yer alır.",
+       "sayfa": 114
+      },
+      {
+       "id": "2.1-09",
+       "tur": "secmeli",
+       "soru": "Halil İnalcık'ın Osmanlı'nın kuruluşuyla ilgili çalışmalarında sıkça başvurduğu Bizanslı kronik yazarı kimdir?",
+       "secenekler": [
+        "Anna Komnena",
+        "Niketas",
+        "Prokopios",
+        "George Pachymeres"
+       ],
+       "dogru": 3,
+       "bilgi": "Pachymeres'e göre Osman Gazi, Kastamonu uç bölgesindeki Çobanoğullarının emrinde Bizans'a karşı savaşan bir boy beyi ve alptı.",
+       "sayfa": 114
+      },
+      {
+       "id": "2.1-10",
+       "tur": "bosluk",
+       "cumle": "Osmanlı Devleti'nde merkezî yönetim, vilayetler ve kurumların o yılki verilerinin yer aldığı yıllığa ___ denir.",
+       "cevap": "salname",
+       "celdiriciler": [
+        "vakayiname",
+        "kronik",
+        "tahrir defteri"
+       ],
+       "bilgi": "Salnamelerde kurumsal, tarihî, coğrafi, eğitimsel, sosyal, ekonomik ve kültürel veriler yer alırdı.",
+       "sayfa": 114
+      }
+     ]
+    },
+    {
+     "no": "2.2",
+     "ad": "Beylikten Devlete Siyasi ve Askerî Gelişmeler",
+     "kartlar": [
+      {
+       "id": "2.2-01",
+       "tur": "secmeli",
+       "soru": "Osman Gazi'nin 1302'de Bizans ordusuna karşı kazandığı ve ona hanedan kurucusu karizması kazandıran savaş hangisidir?",
+       "secenekler": [
+        "Koyunhisar (Bapheus) Savaşı",
+        "Palekanon Savaşı",
+        "Dinboz Savaşı",
+        "Sazlıdere Savaşı"
+       ],
+       "dogru": 0,
+       "bilgi": "İznik kuşatması üzerine Bizans'ın gönderdiği orduya karşı kazanılan bu zaferle Osman Gazi'nin ünü Kastamonu bölgesine kadar yayılmıştır.",
+       "sayfa": 124
+      },
+      {
+       "id": "2.2-02",
+       "tur": "bosluk",
+       "cumle": "Orhan Bey, uzun bir ablukanın ardından ___ 6 Nisan 1326'da anlaşma yoluyla ele geçirmiştir.",
+       "cevap": "Bursa'yı",
+       "celdiriciler": [
+        "İznik'i",
+        "İzmit'i",
+        "Edirne'yi"
+       ],
+       "bilgi": "Bursa'nın fethi beyliğin kuruluşunun tamamlanmasını sağlamış, Orhan Bey bu fetihten sonra bağımsızlık alameti olarak para bastırmıştır.",
+       "sayfa": 126
+      },
+      {
+       "id": "2.2-03",
+       "tur": "dy",
+       "ifade": "1329'daki Palekanon (Pelekanon) Savaşı, bir Doğu Roma imparatoru ile Orhan Bey'in doğrudan karşı karşıya geldiği ilk muharebedir.",
+       "dogru": true,
+       "bilgi": "Bu zaferle İznik ve İzmit yolu açılmış; İznik 1331'de, İzmit 1337'de fethedilmiştir.",
+       "sayfa": 126
+      },
+      {
+       "id": "2.2-04",
+       "tur": "secmeli",
+       "soru": "Osmanlı hâkimiyetine alınan ilk Türk beyliği hangisidir?",
+       "secenekler": [
+        "Germiyanoğulları",
+        "Karesioğulları",
+        "Karamanoğulları",
+        "Candaroğulları"
+       ],
+       "dogru": 1,
+       "bilgi": "Karesioğullarının denizcilik tecrübesi ve Evrenos Gazi gibi gazileri, Osmanlılara Rumeli fetihlerinde önemli avantaj sağlamıştır.",
+       "sayfa": 127
+      },
+      {
+       "id": "2.2-05",
+       "tur": "bosluk",
+       "cumle": "Bizans taht kavgasında Kantakuzenos'a yardım eden Osmanlılara 1352'de Rumeli'de üs olarak ___ Kalesi verilmiştir.",
+       "cevap": "Çimpe",
+       "celdiriciler": [
+        "Bolayır",
+        "Gelibolu",
+        "Dimetoka"
+       ],
+       "bilgi": "Süleyman Paşa'nın Çimpe Kalesi'ne yerleşmesi Rumeli'ye geçişin sembolüdür; 1354 depremiyle yıkılan Gelibolu kaleleri de ele geçirilmiştir.",
+       "sayfa": 127
+      },
+      {
+       "id": "2.2-06",
+       "tur": "eslestir",
+       "yonerge": "Osmanlı tarihindeki olayları yıllarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Koyunhisar Savaşı",
+         "1302"
+        ],
+        [
+         "Bursa'nın fethi",
+         "1326"
+        ],
+        [
+         "Edirne'nin fethi",
+         "1361"
+        ],
+        [
+         "I. Kosova Savaşı",
+         "1389"
+        ],
+        [
+         "Ankara Savaşı",
+         "1402"
+        ]
+       ],
+       "bilgi": "Edirne, Murad şehzadeyken Orhan Gazi döneminde alınmış; I. Murad 1365'te sarayı Bursa'dan Edirne'ye taşımıştır.",
+       "sayfa": 129
+      },
+      {
+       "id": "2.2-07",
+       "tur": "secmeli",
+       "soru": "Niğbolu Zaferi'nden (1396) sonra Kahire'deki Abbasi halifesi Yıldırım Bayezid'e hangi unvanı vermiştir?",
+       "secenekler": [
+        "Kayser-i Rum",
+        "Hüdavendigâr",
+        "Sultan-ı İklîm-i Rûm",
+        "Zillullah fi'l-arz"
+       ],
+       "dogru": 2,
+       "bilgi": "Niğbolu'da Haçlı ordusunun yenilmesiyle Osmanlı'nın Balkanlardaki hâkimiyeti güçlenmiş ve İslam dünyasındaki saygınlığı artmıştır.",
+       "sayfa": 131
+      },
+      {
+       "id": "2.2-08",
+       "tur": "dy",
+       "ifade": "Ankara Savaşı'ndan sonraki Fetret Devri, 1413'te II. Murad'ın tahta çıkmasıyla sona ermiştir.",
+       "dogru": false,
+       "bilgi": "Fetret Devri 1413'te I. Mehmed'in (Çelebi Mehmed) tahta çıkmasıyla sona ermiş; o, siyasi birliği yeniden sağladığı için Osmanlı'nın ikinci kurucusu sayılır.",
+       "sayfa": 134
+      },
+      {
+       "id": "2.2-09",
+       "tur": "secmeli",
+       "soru": "12 Haziran 1444'te Osmanlı Devleti ile Macar Krallığı arasında imzalanan ve iki tarafın Tuna'yı aşmamasını öngören antlaşma hangisidir?",
+       "secenekler": [
+        "Belgrad Antlaşması",
+        "Karlofça Antlaşması",
+        "Zitvatorok Antlaşması",
+        "Edirne-Segedin Antlaşması"
+       ],
+       "dogru": 3,
+       "bilgi": "Bu antlaşmayla Sırp Krallığı'nın yeniden kurulması da kararlaştırılmıştır.",
+       "sayfa": 135
+      },
+      {
+       "id": "2.2-10",
+       "tur": "bosluk",
+       "cumle": "Macarların Edirne-Segedin Antlaşması'nı bozması üzerine II. Murad, 10 Kasım 1444'te Macar-Eflak ordusunu ___ Savaşı'nda yenmiştir.",
+       "cevap": "Varna",
+       "celdiriciler": [
+        "Niğbolu",
+        "Kosova",
+        "Çirmen"
+       ],
+       "bilgi": "II. Murad tahtı oğlu II. Mehmed'e bırakmışken Çandarlı Halil Paşa'nın ısrarıyla ordunun başına geçmiştir.",
+       "sayfa": 135
+      },
+      {
+       "id": "2.2-11",
+       "tur": "secmeli",
+       "soru": "Osmanlı ordusunun ilk kez tabur cengi ve ateşli el silahlarını başarıyla kullandığı, Macarların Balkanlardaki etkisini kıran savaş hangisidir?",
+       "secenekler": [
+        "I. Kosova Savaşı",
+        "Niğbolu Savaşı",
+        "Ankara Savaşı",
+        "II. Kosova Savaşı"
+       ],
+       "dogru": 3,
+       "bilgi": "17-20 Ekim 1448'deki II. Kosova Savaşı'nda János Hunyadi komutasındaki Macar ordusu yenilmiştir.",
+       "sayfa": 136
+      },
+      {
+       "id": "2.2-12",
+       "tur": "dy",
+       "ifade": "1371'deki Çirmen Savaşı'nda Osmanlı kuvvetleri Meriç Irmağı kıyısında Sırp ordusunu bozguna uğratmıştır.",
+       "dogru": true,
+       "bilgi": "Çirmen zaferinden sonra birçok Doğu Roma, Sırp ve Bulgar feodal beyi Osmanlı'nın vasalı hâline gelmiştir.",
+       "sayfa": 129
+      }
+     ]
+    },
+    {
+     "no": "2.3",
+     "ad": "Osmanlı Devleti'nde Ordu, Hukuk ve Toprak Sistemi",
+     "kartlar": [
+      {
+       "id": "2.3-01",
+       "tur": "secmeli",
+       "soru": "Orhan Bey Döneminde kurulan ve Osmanlı Devleti'nin ilk düzenli askerî birlikleri olan kuvvetler hangileridir?",
+       "secenekler": [
+        "Yaya ve müsellemler",
+        "Yeniçeriler ve cebeciler",
+        "Akıncılar ve azaplar",
+        "Sipahiler ve silahtarlar"
+       ],
+       "dogru": 0,
+       "bilgi": "Yaya ve müsellemler padişaha bağlı hassa ordusunu oluşturmuş, kapıkulu ocakları kurulunca geri hizmetlere çekilmiştir.",
+       "sayfa": 142
+      },
+      {
+       "id": "2.3-02",
+       "tur": "bosluk",
+       "cumle": "Osmanlı Devleti'nde mülkiyeti devlete, işleme hakkı şahıslara ait olan araziye ___ arazi denir.",
+       "cevap": "mirî",
+       "celdiriciler": [
+        "mülk",
+        "vakıf",
+        "öşrî"
+       ],
+       "bilgi": "Osmanlı toprak sisteminde araziler mirî, mülk ve vakıf olmak üzere üçe ayrılırdı; fethedilen toprakların büyük bölümü mirî arazi sayılırdı.",
+       "sayfa": 143
+      },
+      {
+       "id": "2.3-03",
+       "tur": "eslestir",
+       "yonerge": "Dirlik çeşitlerini yıllık gelirleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Has",
+         "100.000 akçeden fazla"
+        ],
+        [
+         "Zeamet",
+         "20.000-100.000 akçe arası"
+        ],
+        [
+         "Tımar",
+         "19.999 akçeye kadar"
+        ]
+       ],
+       "bilgi": "Has hanedan üyeleri ve yüksek görevlilere, zeamet orta dereceli görevlilere, tımar ise tımarlı sipahilere verilirdi.",
+       "sayfa": 144
+      },
+      {
+       "id": "2.3-04",
+       "tur": "secmeli",
+       "soru": "Köylü ailelere bir çift öküzün işleyebileceği büyüklükte mirî arazi tahsis edilmesine dayanan uygulamaya ne ad verilir?",
+       "secenekler": [
+        "İltizam",
+        "Çifthane sistemi",
+        "Pençik",
+        "Kılıç hakkı"
+       ],
+       "dogru": 1,
+       "bilgi": "Çifthane, tımar sisteminin temel unsuruydu; köylüler bu toprak karşılığında çift resmi adlı vergiyi öderdi.",
+       "sayfa": 144
+      },
+      {
+       "id": "2.3-05",
+       "tur": "dy",
+       "ifade": "Tımar sisteminde reaya işlediği toprağın sahibiydi ve dilediği gibi toprağını bırakabilirdi.",
+       "dogru": false,
+       "bilgi": "Reaya toprağın sahibi değil kiracısıydı; geçerli sebep olmadan toprağı üç yıl ekmeyen reaya çiftbozan vergisi öderdi.",
+       "sayfa": 145
+      },
+      {
+       "id": "2.3-06",
+       "tur": "bosluk",
+       "cumle": "Tımarlı sipahinin yetiştirip savaşa götürmekle yükümlü olduğu zırhlı ve silahlı askere ___ denir.",
+       "cevap": "cebelü",
+       "celdiriciler": [
+        "azap",
+        "akıncı",
+        "müsellem"
+       ],
+       "bilgi": "Tımarlı sipahiler kılıç hakkı hariç her üç bin akçe için bir cebelü yetiştirmek zorundaydı.",
+       "sayfa": 145
+      },
+      {
+       "id": "2.3-07",
+       "tur": "dy",
+       "ifade": "Yeniçeri Ocağı, I. Murad Döneminde savaş esirlerinin beşte birinin devlete alınmasına dayanan pençik sistemiyle kurulmuştur.",
+       "dogru": true,
+       "bilgi": "Çandarlı Halil Paşa'nın girişimiyle 1363'te kurulan Yeniçeri Ocağına asker yetiştirmek için Gelibolu'da Acemi Ocağı açılmıştır.",
+       "sayfa": 148
+      },
+      {
+       "id": "2.3-08",
+       "tur": "secmeli",
+       "soru": "Ankara Savaşı'ndan sonra Çelebi Mehmed Döneminde uygulanmaya başlanan ve II. Murad Döneminde kanunlaştırılan asker toplama yöntemi hangisidir?",
+       "secenekler": [
+        "Pençik sistemi",
+        "Tımar sistemi",
+        "İkta sistemi",
+        "Devşirme sistemi"
+       ],
+       "dogru": 3,
+       "bilgi": "Devşirme sistemiyle Balkanlardaki gayrimüslim ailelerin çocukları alınarak kapıkulu ocakları ve saray için yetiştirilmiştir.",
+       "sayfa": 148
+      },
+      {
+       "id": "2.3-09",
+       "tur": "bosluk",
+       "cumle": "Devşirmelerin Türk örf ve âdetlerini öğrenmeleri için bir süre köylerdeki Türk ailelerin yanına gönderilmesine \"___ vermek\" denirdi.",
+       "cevap": "Türk'e",
+       "celdiriciler": [
+        "Ocağa",
+        "Saraya",
+        "Kapıya"
+       ],
+       "bilgi": "Ardından Acemi Ocağında 3-8 yıl eğitim gören devşirmeler, bedergâh töreniyle kapıkulu ordusuna katılırdı; seçkinleri ise Enderunda yetiştirilirdi.",
+       "sayfa": 149
+      },
+      {
+       "id": "2.3-10",
+       "tur": "secmeli",
+       "soru": "Kapıkulu ocaklarında kuşatmalarda siper kazıp düşman istihkâmlarının altına tünel açan birlik hangisidir?",
+       "secenekler": [
+        "Humbaracılar",
+        "Lağımcılar",
+        "Cebeciler",
+        "Top arabacıları"
+       ],
+       "dogru": 1,
+       "bilgi": "Humbaracılar havan topu ve el bombası üretir, cebeciler silahların bakımını yapar, top arabacıları topları taşırdı.",
+       "sayfa": 152
+      },
+      {
+       "id": "2.3-11",
+       "tur": "dy",
+       "ifade": "Osmanlı Devleti'nde örfi hukuk kuralları, şeri hukuka aykırı olsa bile padişah fermanıyla uygulanabilirdi.",
+       "dogru": false,
+       "bilgi": "Âdet, gelenek ve padişah fermanlarına dayanan örfi hukukun şeri hukukla ters düşmemesi gerekirdi.",
+       "sayfa": 153
+      },
+      {
+       "id": "2.3-12",
+       "tur": "bosluk",
+       "cumle": "Osmanlı yargı teşkilatının başında bulunan ve Dîvân-ı Hümâyunun asli üyesi olarak müderris ile kadıların tayininden sorumlu olan görevli ___ idi.",
+       "cevap": "kazasker",
+       "celdiriciler": [
+        "nişancı",
+        "defterdar",
+        "veziriazam"
+       ],
+       "bilgi": "Osmanlı'da hem şeri hem örfi yargılamalar kadıların başkanlık ettiği şeri mahkemelerde yapılırdı.",
+       "sayfa": 153
+      }
+     ]
+    },
+    {
+     "no": "2.4",
+     "ad": "Osmanlı Devleti'nin İskân ve İstimalet Politikası",
+     "kartlar": [
+      {
+       "id": "2.4-01",
+       "tur": "bosluk",
+       "cumle": "Fethedilen yerlerdeki gayrimüslimlerin devlete bağlılığını sağlamak amacıyla uygulanan ve \"gönül alma\" anlamına gelen Osmanlı politikasına ___ denir.",
+       "cevap": "istimalet",
+       "celdiriciler": [
+        "iskân",
+        "devşirme",
+        "sürgün"
+       ],
+       "bilgi": "İstimalet politikasıyla gayrimüslimlere dinî serbestlik tanınmış, can ve mal güvenlikleri sağlanmıştır.",
+       "sayfa": 162
+      },
+      {
+       "id": "2.4-02",
+       "tur": "secmeli",
+       "soru": "Osmanlı Devleti'nin bir bölgeyi Türkleştirmek, İslamlaştırmak ve şenlendirmek amacıyla toplulukları başka bir bölgeye yerleştirmesine ne ad verilir?",
+       "secenekler": [
+        "İskân politikası",
+        "İstimalet politikası",
+        "Devşirme",
+        "Tımar"
+       ],
+       "dogru": 0,
+       "bilgi": "Anadolu'dan getirilip Rumeli'ye yerleştirilen Türklerin kurduğu yerleşimlerle Rumeli Türklüğü kavramı ortaya çıkmıştır.",
+       "sayfa": 158
+      },
+      {
+       "id": "2.4-03",
+       "tur": "dy",
+       "ifade": "Osmanlı Devleti fethettiği Rumeli topraklarında sömürge siyaseti uygulamıştır.",
+       "dogru": false,
+       "bilgi": "Osmanlılar Rumeli'de sömürge siyaseti yapmamış, bu bölgelere yerleşmeyi ve yeni yurtlar edinmeyi amaçlamıştır.",
+       "sayfa": 158
+      },
+      {
+       "id": "2.4-04",
+       "tur": "secmeli",
+       "soru": "Dağlık alanlardaki geçit ve boğazlarda halkın güvenliğini sağlamak için inşa edilen ve zamanla kasabalara dönüşen küçük kalelere ne ad verilir?",
+       "secenekler": [
+        "Ribat",
+        "Derbent",
+        "Zaviye",
+        "Kervansaray"
+       ],
+       "dogru": 1,
+       "bilgi": "Derbentlerin çevresine yapılan dinî, ticari ve sosyal mekânlar çoğaldıkça bu yerler kasaba merkezlerine dönüşmüştür.",
+       "sayfa": 160
+      },
+      {
+       "id": "2.4-05",
+       "tur": "dy",
+       "ifade": "Osmanlı iskân politikasında savaş yapılmadan teslim alınan şehirlerde yaşayanlara yerlerinde kalma hakkı tanınmıştır.",
+       "dogru": true,
+       "bilgi": "Savaşla alınan şehirlerin halkı ise başka bölgelere gönderilebilmiştir.",
+       "sayfa": 160
+      },
+      {
+       "id": "2.4-06",
+       "tur": "secmeli",
+       "soru": "II. Murad Döneminde 1443'te tamamlanan büyük taş köprünün doğu kıyısında kurulan ve bugün Uzunköprü olarak bilinen şehrin eski adı nedir?",
+       "secenekler": [
+        "Saruhanbeylü",
+        "Şehirköy",
+        "Cisr-i Ergene",
+        "Yenişehir"
+       ],
+       "dogru": 2,
+       "bilgi": "Köprünün bakım ve güvenliği için vakıf, mescit, imaret, hamam ve pazar yeri yapılarak küçük bir şehir kurulmuştur.",
+       "sayfa": 159
+      },
+      {
+       "id": "2.4-07",
+       "tur": "eslestir",
+       "yonerge": "Rumeli'nin iskânında rol alan toplulukları Osmanlı kaynaklarındaki adlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Gaziyân-ı Rum",
+         "Anadolu gazileri"
+        ],
+        [
+         "Ahiyân-ı Rum",
+         "Anadolu Ahileri"
+        ],
+        [
+         "Abdalân-ı Rum",
+         "Anadolu abdalları (dervişler)"
+        ],
+        [
+         "Bacıyân-ı Rum",
+         "Anadolu kadınları teşkilatı"
+        ]
+       ],
+       "bilgi": "Bu sosyal yapılar tekke ve zaviyeler aracılığıyla Rumeli'nin Türkleşmesine ve İslamlaşmasına katkı sağlamıştır.",
+       "sayfa": 166
+      },
+      {
+       "id": "2.4-08",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi Balkanların fethi ve iskânında önemli görevler üstlenen akıncı ailelerinden biridir?",
+       "secenekler": [
+        "Karamanoğulları",
+        "Germiyanoğulları",
+        "Candaroğulları",
+        "Evrenosoğulları"
+       ],
+       "dogru": 3,
+       "bilgi": "Evrenosoğulları, Mihaloğulları, Turahanoğulları ve Malkoçoğulları gibi akıncı aileleri sınır boylarında akınlar yapmış ve iskânı yönetmiştir.",
+       "sayfa": 165
+      },
+      {
+       "id": "2.4-09",
+       "tur": "bosluk",
+       "cumle": "Rumeli'de tekke ve zaviyeler kurarak bölgenin Türkleşmesine katkı sağlayan dervişlere araştırmacılarca ___ Türk dervişleri denmiştir.",
+       "cevap": "kolonizatör",
+       "celdiriciler": [
+        "misyoner",
+        "akıncı",
+        "yeniçeri"
+       ],
+       "bilgi": "Sarı Saltuk, Kızıl Deli, Otman Baba ve Akyazılı Sultan Rumeli'nin iskânında önemli hizmetlerde bulunmuştur.",
+       "sayfa": 166
+      },
+      {
+       "id": "2.4-10",
+       "tur": "dy",
+       "ifade": "Kadın teşkilatı Bacıyân-ı Rum'un, Ahi Evran'ın eşi Fatma Bacı önderliğinde teşkilatlandığı kabul edilir.",
+       "dogru": true,
+       "bilgi": "Bacıyân-ı Rum örgücülük ve dokumacılıkla ekonomik hayatta yer almış, kimsesiz kız çocuklarını ve yaşlı kadınları himaye etmiştir.",
+       "sayfa": 167
+      },
+      {
+       "id": "2.4-11",
+       "tur": "secmeli",
+       "soru": "Bulgaristan'da Bektaşi tarikatının kurucusu kabul edilen, asıl adı Hüsam Şah olan derviş kimdir?",
+       "secenekler": [
+        "Otman Baba",
+        "Sarı Saltuk",
+        "Kızıl Deli",
+        "Akyazılı Sultan"
+       ],
+       "dogru": 0,
+       "bilgi": "Gani Baba olarak da bilinen Otman Baba'nın tekkesi Bulgaristan'da günümüze ulaşan en eski Bektaşi tekkelerinden biridir.",
+       "sayfa": 166
+      }
+     ]
+    },
+    {
+     "no": "2.5",
+     "ad": "Osmanlı Devleti'nin İlim ve İrfan Geleneği",
+     "kartlar": [
+      {
+       "id": "2.5-01",
+       "tur": "bosluk",
+       "cumle": "Osmanlı belgelerinde şehir, cuma kılınır ve ___ kurulur yer olarak tanımlanmıştır.",
+       "cevap": "pazar",
+       "celdiriciler": [
+        "kale",
+        "medrese",
+        "ordugâh"
+       ],
+       "bilgi": "Osmanlı şehirlerinin merkezinde bir cuma camisi (ulu cami) ve haftanın belli günlerinde kurulan pazarlar bulunurdu.",
+       "sayfa": 175
+      },
+      {
+       "id": "2.5-02",
+       "tur": "secmeli",
+       "soru": "Osmanlı şehirlerinde kale içinin dışında kalan ve şehrin genişlemesiyle yeni iskân alanlarının kurulduğu yerlere ne ad verilirdi?",
+       "secenekler": [
+        "Tahtakale",
+        "Bedesten",
+        "Hazire",
+        "Derbent"
+       ],
+       "dogru": 0,
+       "bilgi": "Kale kapılarının yakınına bedesten, bedestenin yakınına hanlar ve çarşılar yapılır; şehir merkezi zamanla bu ticari alanlara kayardı.",
+       "sayfa": 176
+      },
+      {
+       "id": "2.5-03",
+       "tur": "dy",
+       "ifade": "Bursa'daki Yıldırım Darüşşifası ilk Osmanlı darüşşifası kabul edilir ve burada hastaların tedavisinin yanında tıp eğitimi de verilmiştir.",
+       "dogru": true,
+       "bilgi": "Yıldırım Külliyesi 1391-1395 yılları arasında Yıldırım Bayezid'in himayesinde inşa edilmiştir.",
+       "sayfa": 181
+      },
+      {
+       "id": "2.5-04",
+       "tur": "secmeli",
+       "soru": "Orhan Gazi Döneminde kurulan ilk Osmanlı medresesi hangisidir?",
+       "secenekler": [
+        "Bursa Yeşil Medrese",
+        "İznik Orhaniye Medresesi",
+        "Sırçalı Medrese",
+        "Haliliye Medresesi"
+       ],
+       "dogru": 1,
+       "bilgi": "Yalnızca Orhan Gazi Döneminde Osmanlı topraklarında on medrese inşa edilmiştir.",
+       "sayfa": 183
+      },
+      {
+       "id": "2.5-05",
+       "tur": "bosluk",
+       "cumle": "Orhan Gazi'nin davetiyle gelip İznik Medresesinin başmüderrisi olan ve Osmanlı medrese teşkilatlanmasının temellerini atan âlim ___ olarak bilinir.",
+       "cevap": "Davud-i Kayseri",
+       "celdiriciler": [
+        "Dursun Fakih",
+        "Molla Fenari",
+        "Şeyh Edebali"
+       ],
+       "bilgi": "Davud-i Kayseri, Şam ve Tebriz'deki ilim geleneği ile İbnülarabi etkisini Osmanlı medreselerine taşımıştır.",
+       "sayfa": 190
+      },
+      {
+       "id": "2.5-06",
+       "tur": "eslestir",
+       "yonerge": "Osmanlı ilim ve irfan geleneğinin şahsiyetlerini özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Şeyh Edebali",
+         "Osman Gazi'nin rüyasını yorumlayan kayınpederi"
+        ],
+        [
+         "Dursun Fakih",
+         "Karacahisar'da ilk cuma hutbesini okuyan âlim"
+        ],
+        [
+         "Emir Sultan",
+         "Bursa'da erguvan şenlikleri düzenleyen mutasavvıf"
+        ],
+        [
+         "Hacı Bayram Veli",
+         "II. Murad'ın saraya davet ettiği Ankaralı mutasavvıf"
+        ]
+       ],
+       "bilgi": "Bu âlim ve arifler, yetiştirdikleri talebeler ve eserleriyle Osmanlı şehirlerinde kültürel zenginliği sağlamıştır.",
+       "sayfa": 191
+      },
+      {
+       "id": "2.5-07",
+       "tur": "secmeli",
+       "soru": "Fatih Sultan Mehmed'e hocalık yapan ve Hacı Bayram Veli'nin en önemli dervişlerinden biri olan âlim kimdir?",
+       "secenekler": [
+        "Molla Fenari",
+        "Davud-i Kayseri",
+        "Somuncu Baba",
+        "Akşemseddin"
+       ],
+       "dogru": 3,
+       "bilgi": "Hacı Bayram Veli'nin dervişlerinin oluşturduğu tasavvuf koluna Bayramiye adı verilir.",
+       "sayfa": 193
+      },
+      {
+       "id": "2.5-08",
+       "tur": "dy",
+       "ifade": "Osmanlı medreselerinde eğitim dili Türkçeydi ve öğrencilere Arapça öğretilmezdi.",
+       "dogru": false,
+       "bilgi": "Medreselerde eğitim dili Arapçaydı; öğrencilere önce Arapça dil bilgisi öğretilir, ardından dinî ve akli ilimlere geçilirdi.",
+       "sayfa": 185
+      },
+      {
+       "id": "2.5-09",
+       "tur": "bosluk",
+       "cumle": "Medreselerde Arapça diğer ilimleri anlamanın anahtarı sayıldığından Arapçayla ilgili ilimlere ___ ilimleri denirdi.",
+       "cevap": "âlet",
+       "celdiriciler": [
+        "akli",
+        "nakli",
+        "kelam"
+       ],
+       "bilgi": "Arapçadan sonra dinî ilimler ile mantık, felsefe, hesap, hendese, tıp ve astronomi gibi ilimler okutulurdu.",
+       "sayfa": 185
+      },
+      {
+       "id": "2.5-10",
+       "tur": "secmeli",
+       "soru": "Osmanlı Döneminde tekkenin küçüğüne, birkaç hücreden oluşan ve yolculara ücretsiz hizmet veren yapıya ne ad verilirdi?",
+       "secenekler": [
+        "Âsitâne",
+        "Dergâh",
+        "Zaviye",
+        "Hankah"
+       ],
+       "dogru": 2,
+       "bilgi": "Büyük tekkelere âsitâne, dergâh veya hankah denir ve bunlar genellikle şehir merkezlerinde inşa edilirdi.",
+       "sayfa": 188
+      },
+      {
+       "id": "2.5-11",
+       "tur": "dy",
+       "ifade": "Yıldırım Bayezid'in oğullarının Mevlevi şeyhlerinin kullandığı çelebi unvanını taşıması, Osmanlı idaresinin Mevlevilikle bağını gösterir.",
+       "dogru": true,
+       "bilgi": "Yıldırım Bayezid'in şehzadeyken Mevlana soyundan Devlet Hatun'la evlenmesi bu bağı güçlendirmiştir.",
+       "sayfa": 187
+      },
+      {
+       "id": "2.5-12",
+       "tur": "secmeli",
+       "soru": "Vakıf eseri yaptıran kişinin bu eserden elde edilecek gelirleri düzenlemek için hazırladığı senede ne ad verilir?",
+       "secenekler": [
+        "Kitabe",
+        "Vakfiye",
+        "Berat",
+        "Tahrir defteri"
+       ],
+       "dogru": 1,
+       "bilgi": "Eserin kim tarafından, ne zaman ve hangi amaçla yapıldığı ise eserin kitabesine yazdırılırdı.",
+       "sayfa": 180
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "ad": "Cihan Devleti Osmanlı (1453-1683)",
+   "konular": [
+    {
+     "no": "3.1",
+     "ad": "Osmanlı Devleti'nin Cihan Devleti Hâline Gelmesi",
+     "kartlar": [
+      {
+       "id": "3.1-01",
+       "tur": "secmeli",
+       "soru": "İstanbul'un fethi öncesinde Boğaz'ın en dar yerinde, Anadolu Hisarı'nın karşısına inşa edilen yapı hangisidir?",
+       "secenekler": [
+        "Rumeli (Boğazkesen) Hisarı",
+        "Yedikule Hisarı",
+        "Kilitbahir Kalesi",
+        "Galata Kulesi"
+       ],
+       "dogru": 0,
+       "bilgi": "Rumeli Hisarı ile İstanbul Boğazı kontrol altına alınmış ve Doğu Roma'ya deniz yoluyla gelebilecek yardımlar engellenmiştir.",
+       "sayfa": 211
+      },
+      {
+       "id": "3.1-02",
+       "tur": "bosluk",
+       "cumle": "İstanbul kuşatması için surları aşmak amacıyla dökülen büyük toplara ___ adı verilirdi.",
+       "cevap": "şahi",
+       "celdiriciler": [
+        "humbara",
+        "balyemez",
+        "havan"
+       ],
+       "bilgi": "Osmanlılar daha pahalı olmasına rağmen daha dayanıklı ve etkili olduğu için genellikle bronz top kullanırdı.",
+       "sayfa": 211
+      },
+      {
+       "id": "3.1-03",
+       "tur": "dy",
+       "ifade": "İstanbul kuşatması sırasında 21 Nisan'ı 22 Nisan'a bağlayan gece yaklaşık yetmiş Osmanlı gemisi karadan çekilerek Haliç'e indirilmiştir.",
+       "dogru": true,
+       "bilgi": "29 Mayıs 1453'te İstanbul fethedilmiş, Ayasofya camiye dönüştürülmüş ve II. Mehmed'e Fatih unvanı verilmiştir.",
+       "sayfa": 212
+      },
+      {
+       "id": "3.1-04",
+       "tur": "secmeli",
+       "soru": "Fatih Sultan Mehmed'in 1473'te Akkoyunlu Hükümdarı Uzun Hasan'a karşı kazandığı savaş hangisidir?",
+       "secenekler": [
+        "Çaldıran Savaşı",
+        "Otlukbeli Savaşı",
+        "Mercidabık Savaşı",
+        "Yenişehir Savaşı"
+       ],
+       "dogru": 1,
+       "bilgi": "Otlukbeli zaferiyle Fırat'a kadar olan bölgeler alınmış ve Doğu Anadolu'nun güvenliği sağlanmıştır.",
+       "sayfa": 216
+      },
+      {
+       "id": "3.1-05",
+       "tur": "bosluk",
+       "cumle": "Yirmi dört yıl süren Girit'in fethi, 1669'da Köprülü Fazıl Ahmed Paşa döneminde ___ Kalesi'nin alınmasıyla tamamlanmıştır.",
+       "cevap": "Kandiye",
+       "celdiriciler": [
+        "Magosa",
+        "Kamaniçe",
+        "Hotin"
+       ],
+       "bilgi": "Girit Seferi, Osmanlı donanmasının güç kaybettiğini ve Avrupa deniz gücü karşısında yetersiz kaldığını göstermiştir.",
+       "sayfa": 231
+      },
+      {
+       "id": "3.1-06",
+       "tur": "eslestir",
+       "yonerge": "Savaşları Osmanlı'nın karşısındaki devlet veya güçle eşleştir.",
+       "ciftler": [
+        [
+         "Otlukbeli (1473)",
+         "Akkoyunlular"
+        ],
+        [
+         "Çaldıran (1514)",
+         "Safeviler"
+        ],
+        [
+         "Mercidabık (1516)",
+         "Memluklar"
+        ],
+        [
+         "Mohaç (1526)",
+         "Macar Krallığı"
+        ],
+        [
+         "Preveze (1538)",
+         "Haçlı donanması"
+        ]
+       ],
+       "bilgi": "Yavuz Sultan Selim 1516 Mercidabık ve 1517 Ridaniye savaşlarıyla Memluk Devleti'ne son vermiştir.",
+       "sayfa": 221
+      },
+      {
+       "id": "3.1-07",
+       "tur": "dy",
+       "ifade": "Çaldıran Savaşı'nda Safevi ordusu top ve tüfekleriyle Osmanlı süvarilerini bozguna uğratmıştır.",
+       "dogru": false,
+       "bilgi": "1514 Çaldıran Savaşı'nda sadece süvarilerden oluşan Safevi ordusu, Osmanlı ordusunun top ve tüfekleri karşısında yenilmiştir.",
+       "sayfa": 220
+      },
+      {
+       "id": "3.1-08",
+       "tur": "secmeli",
+       "soru": "Osmanlı Devleti'nde ilk kapitülasyon 1352'de Orhan Gazi Döneminde hangi devlete verilmiştir?",
+       "secenekler": [
+        "Venedik",
+        "Fransa",
+        "Floransa",
+        "Ceneviz"
+       ],
+       "dogru": 3,
+       "bilgi": "Kapitülasyon, bir devletin yabancı tüccarlara tanıdığı hak ve imtiyazları hükme bağlayan anlaşmadır; ilk Fransız kapitülasyonu 1569'da imzalanmıştır.",
+       "sayfa": 226
+      },
+      {
+       "id": "3.1-09",
+       "tur": "secmeli",
+       "soru": "1533'te Osmanlı ile Avusturya arasında imzalanan ve Avusturya arşidükünü protokolde Osmanlı sadrazamına denk sayan antlaşma hangisidir?",
+       "secenekler": [
+        "İstanbul Antlaşması",
+        "Amasya Antlaşması",
+        "Zitvatorok Antlaşması",
+        "Bucaş Antlaşması"
+       ],
+       "dogru": 0,
+       "bilgi": "Kanuni 1541'de Budin'i fethederek Macaristan'daki hâkimiyetini güçlendirmiştir.",
+       "sayfa": 226
+      },
+      {
+       "id": "3.1-10",
+       "tur": "bosluk",
+       "cumle": "Osmanlılar ile Safeviler arasında 1555'te imzalanan ilk antlaşma ___ Antlaşması'dır.",
+       "cevap": "Amasya",
+       "celdiriciler": [
+        "Kasr-ı Şirin",
+        "Ferhat Paşa",
+        "Hotin"
+       ],
+       "bilgi": "1639 Kasr-ı Şirin Antlaşması'yla Bağdat dâhil Irak Osmanlı'da kalmış, Revan ve Azerbaycan Safevilere bırakılmıştır.",
+       "sayfa": 230
+      },
+      {
+       "id": "3.1-11",
+       "tur": "dy",
+       "ifade": "1590'da imzalanan Ferhat Paşa (İstanbul) Antlaşması'yla Osmanlı Devleti doğudaki en geniş sınırlarına ulaşmıştır.",
+       "dogru": true,
+       "bilgi": "Bu antlaşmayla Azerbaycan, Gürcistan ve Dağıstan toprakları Osmanlı Devleti'ne katılmıştır.",
+       "sayfa": 230
+      },
+      {
+       "id": "3.1-12",
+       "tur": "secmeli",
+       "soru": "1672'de imzalanan ve Osmanlı Devleti'nin Podolya ile Ukrayna'yı alarak batıdaki en geniş sınırlarına ulaştığı antlaşma hangisidir?",
+       "secenekler": [
+        "Hotin Antlaşması",
+        "Zuravno Antlaşması",
+        "Bucaş Antlaşması",
+        "Kasr-ı Şirin Antlaşması"
+       ],
+       "dogru": 2,
+       "bilgi": "IV. Mehmed'in Lehistan Seferi'nde Kamaniçe Kalesi fethedilmiş ve Lehistan'ın barış isteği üzerine Bucaş Antlaşması yapılmıştır.",
+       "sayfa": 232
+      }
+     ]
+    },
+    {
+     "no": "3.2",
+     "ad": "Osmanlı Devleti'nin Yönetim ve Ordu Yapısında Değişim",
+     "kartlar": [
+      {
+       "id": "3.2-01",
+       "tur": "dy",
+       "ifade": "Fatih Sultan Mehmed Döneminden itibaren padişahlar Türk beylikleri ve Balkan hanedanlarının kızlarıyla siyasi evlilikler yapmaya ağırlık vermiştir.",
+       "dogru": false,
+       "bilgi": "Fatih'ten itibaren hanedanlarla siyasi evliliklerden vazgeçilmiş, padişahlar güçlü bir soydan gelmeyen cariyelerden çocuk sahibi olmayı tercih etmiştir.",
+       "sayfa": 241
+      },
+      {
+       "id": "3.2-02",
+       "tur": "secmeli",
+       "soru": "Osmanlı Devleti'nde Rumeli Beylerbeyliği hangi padişah döneminde kurulmuştur?",
+       "secenekler": [
+        "I. Murad",
+        "Orhan Gazi",
+        "Yıldırım Bayezid",
+        "Fatih Sultan Mehmed"
+       ],
+       "dogru": 0,
+       "bilgi": "Orhan Gazi Döneminde sancak birimleri kurulmuş, Anadolu Beylerbeyliği ise Yıldırım Bayezid Döneminde oluşturulmuştur.",
+       "sayfa": 239
+      },
+      {
+       "id": "3.2-03",
+       "tur": "bosluk",
+       "cumle": "Fatih Kanunnamesi'ndeki \"karındaşların nizam-ı âlem için katl itmek münasiptir\" maddesi, daha önce de uygulanan ___ uygulamasını yasallaştırmıştır.",
+       "cevap": "kardeş katli",
+       "celdiriciler": [
+        "ekber ve erşed",
+        "sancağa çıkma",
+        "kafes"
+       ],
+       "bilgi": "I. Murad'ın veraseti babadan oğula geçişle sınırlaması kardeş katli uygulamasının başlamasına neden olmuştu.",
+       "sayfa": 242
+      },
+      {
+       "id": "3.2-04",
+       "tur": "secmeli",
+       "soru": "Fatih Sultan Mehmed'in yaptırdığı ve XIX. yüzyıla kadar Saray-ı Cedide (Yeni Saray) adıyla anılan saray hangisidir?",
+       "secenekler": [
+        "Eski Saray",
+        "Edirne Sarayı",
+        "Topkapı Sarayı",
+        "Dolmabahçe Sarayı"
+       ],
+       "dogru": 2,
+       "bilgi": "Beyazıt'taki ilk saraya Eski Saray denmiş ve burası padişahın cariye ve çocuklarının ikametgâhı olmuştur.",
+       "sayfa": 242
+      },
+      {
+       "id": "3.2-05",
+       "tur": "eslestir",
+       "yonerge": "Dîvân-ı Hümâyun üyelerini görevleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Nişancı",
+         "Fermanlara padişahın tuğrasını çekmek"
+        ],
+        [
+         "Defterdar",
+         "Hazinenin gelir ve giderleri"
+        ],
+        [
+         "Kazasker",
+         "Yargı işleri, kadı ve müderris atamaları"
+        ],
+        [
+         "Şeyhülislam",
+         "Kararların İslam hukukuna uygunluğu ve fetva"
+        ],
+        [
+         "Vezir",
+         "İdari kararların takibi ve savaşta komutanlık"
+        ]
+       ],
+       "bilgi": "Divan toplantıları 1470'lerden sonra Topkapı Sarayı'nın ikinci avlusundaki Kubbealtı'nda yapılmıştır.",
+       "sayfa": 247
+      },
+      {
+       "id": "3.2-06",
+       "tur": "bosluk",
+       "cumle": "I. Ahmed Döneminde hanedanın en büyük ve olgun üyesinin tahta çıkması esasına dayanan ___ sistemine geçilmiştir.",
+       "cevap": "ekber ve erşed",
+       "celdiriciler": [
+        "kafes",
+        "sancağa çıkma",
+        "devşirme"
+       ],
+       "bilgi": "Sancağa çıkma uygulamasının bitmesiyle şehzadeler sarayda dış dünyadan kopuk yaşamaya başlamış, buna kafes sistemi denmiştir.",
+       "sayfa": 248
+      },
+      {
+       "id": "3.2-07",
+       "tur": "dy",
+       "ifade": "III. Mehmed Döneminde şehzadelerin sancağa gönderilmesi uygulaması yaygınlaştırılmıştır.",
+       "dogru": false,
+       "bilgi": "III. Mehmed Döneminde şehzadeleri sancağa gönderme uygulaması kaldırılmış, I. Ahmed sancak tecrübesi olmadan tahta çıkmıştır.",
+       "sayfa": 248
+      },
+      {
+       "id": "3.2-08",
+       "tur": "secmeli",
+       "soru": "Nişancıya bağlı çalışırken XVII. yüzyılda yabancı ülke temsilcileriyle diplomatik görüşmeler yapmakla görevlendirilen görevli hangisidir?",
+       "secenekler": [
+        "Defterdar",
+        "Reisülküttap",
+        "Kazasker",
+        "Kaptan-ı derya"
+       ],
+       "dogru": 1,
+       "bilgi": "XVI. yüzyıldan itibaren uzmanlaşan kalemiye sınıfı sayesinde Osmanlı teşkilatı bürokratik bir karakter kazanmıştır.",
+       "sayfa": 249
+      },
+      {
+       "id": "3.2-09",
+       "tur": "secmeli",
+       "soru": "Tımar uygulanmayan, gelirleri görevli maaşları ayrıldıktan sonra doğrudan hazineye aktarılan Mısır, Bağdat gibi eyaletlere ne ad verilirdi?",
+       "secenekler": [
+        "Salyaneli eyaletler",
+        "Salyanesiz eyaletler",
+        "İmtiyazlı eyaletler",
+        "Voyvodalıklar"
+       ],
+       "dogru": 0,
+       "bilgi": "Eflak, Boğdan, Erdel, Mekke Şerifliği ve Kırım Hanlığı ise iç işlerinde özerk olan imtiyazlı eyaletlerdi.",
+       "sayfa": 250
+      },
+      {
+       "id": "3.2-10",
+       "tur": "bosluk",
+       "cumle": "Osmanlı Devleti'nde başında kadının bulunduğu, merkez bir şehir ile çevresindeki köylerden oluşan sivil karakterli idari birime ___ denir.",
+       "cevap": "kaza",
+       "celdiriciler": [
+        "sancak",
+        "eyalet",
+        "nahiye"
+       ],
+       "bilgi": "Bütün kazalar doğrudan Dîvân-ı Hümâyuna bağlıydı; eyalet ve sancaklar ise askerî teşkilat olarak sınıflandırılırdı.",
+       "sayfa": 250
+      },
+      {
+       "id": "3.2-11",
+       "tur": "dy",
+       "ifade": "XVI. yüzyıl sonunda mali dengelerin değişmesiyle Osmanlı taşra teşkilatında dirlik yerine iltizam sistemi uygulanmaya başlanmıştır.",
+       "dogru": true,
+       "bilgi": "Ateşli silahlarla donanmış piyadelerin önem kazanması da tımarlı sipahilerin ve tımar sisteminin önemini azaltmıştır.",
+       "sayfa": 250
+      },
+      {
+       "id": "3.2-12",
+       "tur": "secmeli",
+       "soru": "XVI-XVII. yüzyıllarda ateşli silahlara dayalı olarak ağırlık kazanan, büyük piyade ordularını gerekli kılan gelişmelere ne ad verilir?",
+       "secenekler": [
+        "Rönesans",
+        "Reform",
+        "Coğrafi Keşifler",
+        "Askerî inkılap"
+       ],
+       "dogru": 3,
+       "bilgi": "Bu süreçte Osmanlı ordusundaki cebelü sayısı azalmış, ateşli silah kullanan yeniçerilerin sayısı artırılmıştır.",
+       "sayfa": 252
+      }
+     ]
+    },
+    {
+     "no": "3.3",
+     "ad": "Avrupalıların Sömürgeci Politikaları",
+     "kartlar": [
+      {
+       "id": "3.3-01",
+       "tur": "secmeli",
+       "soru": "Portekizlilerin Afrika kıyılarına yönelik seyahatleri XV. yüzyılın başlarında kimin liderliğinde başlamıştır?",
+       "secenekler": [
+        "Vasco de Gama",
+        "Ferdinand Magellan",
+        "Denizci Henri (Henrique)",
+        "Bartolomeu Dias"
+       ],
+       "dogru": 2,
+       "bilgi": "Prens Henrique 1415'te Fas'ın kuzeyindeki Ceuta'yı ele geçirmiş, Portekizliler 1434'te Bojador Burnu'nu aşmıştır.",
+       "sayfa": 260
+      },
+      {
+       "id": "3.3-02",
+       "tur": "eslestir",
+       "yonerge": "Denizcileri keşifleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Bartolomeu Dias",
+         "Ümit Burnu (1488)"
+        ],
+        [
+         "Vasco de Gama",
+         "Hindistan'daki Kalikut Limanı (1498)"
+        ],
+        [
+         "Kristof Kolomb",
+         "Amerika kıtası (1492)"
+        ],
+        [
+         "Pedro Alvares Cabral",
+         "Brezilya (1500)"
+        ]
+       ],
+       "bilgi": "Coğrafi keşiflerle Portekiz ve İspanya başta olmak üzere Avrupa devletleri büyük sömürge imparatorlukları kurmuştur.",
+       "sayfa": 260
+      },
+      {
+       "id": "3.3-03",
+       "tur": "bosluk",
+       "cumle": "Portekizlilerin geliştirdiği, uzun yolculuklara dayanıklı ve top taşımaya uygun gemi türleri karavel ve ___ tipi gemilerdir.",
+       "cevap": "karak",
+       "celdiriciler": [
+        "kadırga",
+        "kalyon",
+        "çektiri"
+       ],
+       "bilgi": "Pusula, usturlap ve sekstant gibi aletler de denizcilerin bilinmeyen alanları haritalandırmasını kolaylaştırmıştır.",
+       "sayfa": 260
+      },
+      {
+       "id": "3.3-04",
+       "tur": "dy",
+       "ifade": "XV. yüzyıla kadar Avrupalı denizcilerin yön bulma becerileri Müslüman denizcilerden daha gelişmişti.",
+       "dogru": false,
+       "bilgi": "Avrupalıların yön bulma becerileri Müslümanlar kadar gelişmiş değildi; Portekizliler deniz haritalarını Müslüman coğrafyacılardan öğrenip geliştirmiştir.",
+       "sayfa": 260
+      },
+      {
+       "id": "3.3-05",
+       "tur": "secmeli",
+       "soru": "Bağımsızlığını kazandıktan sonra XVII. yüzyılda Doğu Hindistan Şirketi ile sömürgeciliğe başlayıp Asya baharat ticaretini ele geçiren devlet hangisidir?",
+       "secenekler": [
+        "Portekiz",
+        "İspanya",
+        "Hollanda",
+        "Fransa"
+       ],
+       "dogru": 2,
+       "bilgi": "İnka ve Aztek uygarlıklarının altın ve gümüş kaynaklarını sömüren İspanya ise Avrupa'nın en büyük ekonomik gücü hâline gelmiştir.",
+       "sayfa": 261
+      },
+      {
+       "id": "3.3-06",
+       "tur": "bosluk",
+       "cumle": "İspanyolların köle ticaretinde Portekizli ve Hollandalı tüccarlara lisans vermek için kullandığı sisteme ___ adı verilir.",
+       "cevap": "asiento",
+       "celdiriciler": [
+        "endüljans",
+        "kapitülasyon",
+        "iltizam"
+       ],
+       "bilgi": "İspanya Kralı V. Charles 1518'de Afrika'dan köle taşınmasını resmîleştirerek yasallaştırmıştır.",
+       "sayfa": 262
+      },
+      {
+       "id": "3.3-07",
+       "tur": "dy",
+       "ifade": "Atlantik köle ticaretinde Afrika'dan götürülen insanların en büyük alıcısı Portekiz sömürgesi Brezilya olmuştur.",
+       "dogru": true,
+       "bilgi": "Afrika'dan Amerika'ya kaçırılan 12-15 milyon kişinin yaklaşık %40'ı Brezilya'ya götürülmüştür.",
+       "sayfa": 262
+      },
+      {
+       "id": "3.3-08",
+       "tur": "secmeli",
+       "soru": "Değer ölçüsü olarak insanı temel alan ve Rönesans'ı şekillendiren en önemli düşünce akımı hangisidir?",
+       "secenekler": [
+        "Rasyonalizm",
+        "Hümanizm",
+        "Skolastik",
+        "Feodalizm"
+       ],
+       "dogru": 1,
+       "bilgi": "Doğru bilginin kaynağının akıl olduğunu savunan rasyonalizm de Katolik Kilisesinin öğretilerinin sorgulanmasında etkili olmuştur.",
+       "sayfa": 264
+      },
+      {
+       "id": "3.3-09",
+       "tur": "bosluk",
+       "cumle": "Rönesans kültürünün yayılmasını sağlayan hareketli harfli matbaayı 1450'de Mainz'da ___ geliştirmiştir.",
+       "cevap": "Johannes Gutenberg",
+       "celdiriciler": [
+        "Martin Luther",
+        "Niccolo Machiavelli",
+        "Galileo"
+       ],
+       "bilgi": "1500 yılına kadar Avrupa'da iki yüz elliden fazla matbaada yaklaşık 13 milyon kitap basılmıştır.",
+       "sayfa": 267
+      },
+      {
+       "id": "3.3-10",
+       "tur": "secmeli",
+       "soru": "Prens adlı eserinde siyasetin din ve ahlak kurallarından ayrı tutulması gerektiğini savunan Floransalı düşünür kimdir?",
+       "secenekler": [
+        "Dante Alighieri",
+        "Martin Luther",
+        "Leonardo da Vinci",
+        "Niccolo Machiavelli"
+       ],
+       "dogru": 3,
+       "bilgi": "Machiavelli'ye göre bir ülkede siyasi birlik sağlamanın en önemli koşulu güçlü bir hükümdara sahip olmaktır.",
+       "sayfa": 268
+      },
+      {
+       "id": "3.3-11",
+       "tur": "dy",
+       "ifade": "Martin Luther, Katolik Kilisesinin para karşılığı günah affı belgesi satmasını destekleyerek Reform hareketini başlatmıştır.",
+       "dogru": false,
+       "bilgi": "Luther 1517'de Wittenberg'de doksan beş maddelik bildiri asarak endüljans satışına karşı çıkmış ve Reform'u başlatmıştır.",
+       "sayfa": 268
+      },
+      {
+       "id": "3.3-12",
+       "tur": "secmeli",
+       "soru": "Otuz Yıl Savaşları'ndan sonra imzalanan ve Avrupa devletlerinin egemenlik haklarının dinî otoriteden bağımsız belirlenmesini kararlaştıran antlaşma hangisidir?",
+       "secenekler": [
+        "Westphalia Antlaşması (1648)",
+        "Augsburg Barışı (1555)",
+        "İstanbul Antlaşması (1533)",
+        "Bucaş Antlaşması (1672)"
+       ],
+       "dogru": 0,
+       "bilgi": "1555 Augsburg Barışı ile Almanya'da Protestanlık resmen tanınmıştır.",
+       "sayfa": 268
+      }
+     ]
+    },
+    {
+     "no": "3.4",
+     "ad": "Osmanlı Devleti'nde İsyanlar",
+     "kartlar": [
+      {
+       "id": "3.4-01",
+       "tur": "secmeli",
+       "soru": "1446'da II. Mehmed'in ilk saltanatı sırasında çıkan ve Osmanlı tarihindeki ilk yeniçeri isyanı kabul edilen olay hangisidir?",
+       "secenekler": [
+        "Buçuktepe Vakası",
+        "Beylerbeyi Vakası",
+        "Çınar Vakası",
+        "Edirne Vakası"
+       ],
+       "dogru": 0,
+       "bilgi": "Akçenin değerinin düşürülmesi bahanesiyle çıkan bu isyandan sonra II. Murad yeniden tahta çıkmıştır.",
+       "sayfa": 274
+      },
+      {
+       "id": "3.4-02",
+       "tur": "bosluk",
+       "cumle": "Yeniçerilerin padişaha ve yönetime karşı isyanlarını yemek kazanlarını devirerek başlatmasına \"___ kaldırma\" denir.",
+       "cevap": "kazan",
+       "celdiriciler": [
+        "sancak",
+        "tuğ",
+        "kılıç"
+       ],
+       "bilgi": "XVII. yüzyılda disiplinden uzaklaşan yeniçerilerin öncülük ettiği ayaklanmalara İstanbul veya Yeniçeri İsyanları denir.",
+       "sayfa": 274
+      },
+      {
+       "id": "3.4-03",
+       "tur": "eslestir",
+       "yonerge": "Celâli isyanlarının liderlerini isyanlarının özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Karayazıcı",
+         "Urfa çevresinde başlayan ilk büyük Celâli isyanı"
+        ],
+        [
+         "Canbolatoğlu",
+         "Halep'te bağımsızlık ilan edip kendi adına para bastırdı"
+        ],
+        [
+         "Kalenderoğlu",
+         "Manisa ve Aydın çevresinde isyan edip İran'a kaçtı"
+        ],
+        [
+         "Abaza Hasan Paşa",
+         "En büyük Celâli isyanı; 1658'de Halep'te öldürüldü"
+        ]
+       ],
+       "bilgi": "Celâli isyanlarının büyük bölümü Kuyucu Murad Paşa'nın sert tedbirleriyle bastırılmıştır.",
+       "sayfa": 278
+      },
+      {
+       "id": "3.4-04",
+       "tur": "bosluk",
+       "cumle": "IV. Mehmed Döneminde idam edilen görevlilerin Sultanahmet Meydanı'ndaki çınar ağacına asılması nedeniyle bu olay Çınar Vakası ya da ___ olarak anılır.",
+       "cevap": "Vaka-yı Vakvakiye",
+       "celdiriciler": [
+        "Buçuktepe Vakası",
+        "Beylerbeyi Vakası",
+        "Edirne Vakası"
+       ],
+       "bilgi": "Bu isyan, mali kriz ve düşük ayarlı akçeler nedeniyle maaşların ödenememesi üzerine yeniçeri ve sipahilerin ayaklanmasıyla çıkmıştır.",
+       "sayfa": 275
+      },
+      {
+       "id": "3.4-05",
+       "tur": "dy",
+       "ifade": "III. Murad Döneminde tağşiş nedeniyle çıkan Beylerbeyi Vakası'nda yeniçeriler Rumeli beylerbeyi ile başdefterdarın idamını istemiştir.",
+       "dogru": true,
+       "bilgi": "Tağşiş, dolaşımdaki sikkelerin toplanıp değerli maden oranı düşürülerek yeniden piyasaya sürülmesidir.",
+       "sayfa": 275
+      },
+      {
+       "id": "3.4-06",
+       "tur": "secmeli",
+       "soru": "Celâli İsyanları adını hangi isyandan almıştır?",
+       "secenekler": [
+        "Şahkulu İsyanı",
+        "Bozoklu Şeyh Celal İsyanı",
+        "Karayazıcı İsyanı",
+        "Baba Zünnun İsyanı"
+       ],
+       "dogru": 1,
+       "bilgi": "Yavuz Sultan Selim Döneminde Tokat civarında kendini mehdi ilan eden Bozoklu Şeyh Celal 1519'da isyan etmiştir.",
+       "sayfa": 277
+      },
+      {
+       "id": "3.4-07",
+       "tur": "bosluk",
+       "cumle": "Devletin vergi toplama işini açık artırmayla belirlenen kişilere 1-3 yıllığına devrettiği sisteme iltizam, bu kişilere ise ___ denir.",
+       "cevap": "mültezim",
+       "celdiriciler": [
+        "sipahi",
+        "subaşı",
+        "âmil"
+       ],
+       "bilgi": "İltizamla tımar arazileri mukataalara dönüştürülmüş ve vergiler doğrudan merkezî hazineye aktarılmıştır.",
+       "sayfa": 277
+      },
+      {
+       "id": "3.4-08",
+       "tur": "secmeli",
+       "soru": "Celâli İsyanları sırasında Anadolu köylülerinin topraklarını terk ederek kitleler hâlinde şehirlere ve güvenli yerlere göç etmesine ne ad verilir?",
+       "secenekler": [
+        "Sürgün",
+        "İskân",
+        "Büyük Kaçgun",
+        "Fetret"
+       ],
+       "dogru": 2,
+       "bilgi": "Büyük Kaçgun, Anadolu'nun şehir ve köylerinde uzun yıllar çözülemeyen sosyoekonomik sorunlara yol açmıştır.",
+       "sayfa": 278
+      },
+      {
+       "id": "3.4-09",
+       "tur": "dy",
+       "ifade": "Anadolu'daki Celâli isyanlarını sert ve kanlı tedbirlerle bastıran devlet adamı Köprülü Mehmed Paşa'dır.",
+       "dogru": false,
+       "bilgi": "Celâli isyanlarını sert tedbirlerle bastıran devlet adamı Kuyucu Murad Paşa'dır.",
+       "sayfa": 278
+      },
+      {
+       "id": "3.4-10",
+       "tur": "secmeli",
+       "soru": "IV. Murad ve I. İbrahim'e sunduğu risalesiyle devletteki bozulmanın nedenlerini ve çözüm yollarını anlatan devlet adamı kimdir?",
+       "secenekler": [
+        "Lütfi Paşa",
+        "Kâtip Çelebi",
+        "Gelibolulu Mustafa Âli",
+        "Koçi Bey"
+       ],
+       "dogru": 3,
+       "bilgi": "Lütfi Paşa'nın Âsafnâme'si ile Kâtip Çelebi'nin layihası da ıslahat önerileri içeren önemli raporlardır.",
+       "sayfa": 280
+      },
+      {
+       "id": "3.4-11",
+       "tur": "bosluk",
+       "cumle": "İlmiye sınıfı mensuplarının erkek çocuklarının kadılık, müftülük gibi kadrolara doğrudan atanmasına ___ ulemalığı denir.",
+       "cevap": "beşik",
+       "celdiriciler": [
+        "medrese",
+        "saray",
+        "kapı"
+       ],
+       "bilgi": "Bu durum ve medreselerdeki öğrenci yığılması, suhte (medrese öğrencisi) isyanlarına zemin hazırlamıştır.",
+       "sayfa": 279
+      },
+      {
+       "id": "3.4-12",
+       "tur": "dy",
+       "ifade": "Sadrazam Köprülü Fazıl Ahmed Paşa, Girit kuşatmasını tamamlamış ve Avusturya seferinde Uyvar Kalesi'ni fethetmiştir.",
+       "dogru": true,
+       "bilgi": "Babası Köprülü Mehmed Paşa kapıkulu askerlerini disiplin altına almış ve Çanakkale'deki Venedik ablukasını kaldırmıştır.",
+       "sayfa": 281
+      }
+     ]
+    },
+    {
+     "no": "3.5",
+     "ad": "Osmanlı Devleti'nde Bilim, Kültür, Eğitim ve Sanat",
+     "kartlar": [
+      {
+       "id": "3.5-01",
+       "tur": "secmeli",
+       "soru": "Fatih Sultan Mehmed'in inşa ettirdiği, akli ve nakli bilimlerin birlikte okutulduğu ve yükseköğretimin gelişimine katkı sağlayan medrese hangisidir?",
+       "secenekler": [
+        "Sahn-ı Seman Medresesi",
+        "Süleymaniye Medresesi",
+        "İznik Orhaniye Medresesi",
+        "Sırçalı Medrese"
+       ],
+       "dogru": 0,
+       "bilgi": "Fatih, külliye kütüphanesine çeşitli alanlarda yazılmış 839 eser vakfetmiştir; Süleymaniye Medreseleri ise Kanuni Döneminde açılmıştır.",
+       "sayfa": 292
+      },
+      {
+       "id": "3.5-02",
+       "tur": "bosluk",
+       "cumle": "Klasik Türk müziğinin kurucusu kabul edilen ve Segâh Bayram Tekbiri'nin bestecisi olan Buhurizade Mustafa Efendi ___ adıyla tanınır.",
+       "cevap": "Itri",
+       "celdiriciler": [
+        "Nabi",
+        "Baba Nakkaş",
+        "Evliya Çelebi"
+       ],
+       "bilgi": "Itri'nin portresi 2017'de dolaşıma giren 100 Türk lirasının arka yüzünde yer almaktadır.",
+       "sayfa": 286
+      },
+      {
+       "id": "3.5-03",
+       "tur": "dy",
+       "ifade": "Takıyyüddin er-Râsıd, Galata Kulesi'nde başladığı gözlemleri 1577'den itibaren III. Murad'ın izniyle Tophane sırtlarında kurduğu rasathanede sürdürmüştür.",
+       "dogru": true,
+       "bilgi": "Takıyyüddin, II. Selim tarafından müneccimbaşılığa tayin edilmiştir.",
+       "sayfa": 290
+      },
+      {
+       "id": "3.5-04",
+       "tur": "eslestir",
+       "yonerge": "Osmanlı bilim ve sanat insanlarını öne çıktıkları alanlarla eşleştir.",
+       "ciftler": [
+        [
+         "Ali Kuşçu",
+         "Astronomi ve matematik"
+        ],
+        [
+         "Mimar Sinan",
+         "Mimarlık"
+        ],
+        [
+         "Piri Reis",
+         "Coğrafya ve haritacılık"
+        ],
+        [
+         "Sabuncuoğlu Şerefeddin",
+         "Tıp (Cerrahiyyetü'l-Hâniyye)"
+        ],
+        [
+         "Evliya Çelebi",
+         "Tarih ve coğrafya (seyahat)"
+        ]
+       ],
+       "bilgi": "Osmanlı'da âlimler hükümdarlarca desteklenmiş, Müslüman âlimlerin eserleri Türkçeye tercüme edilmiştir.",
+       "sayfa": 290
+      },
+      {
+       "id": "3.5-05",
+       "tur": "secmeli",
+       "soru": "II. Selim'in isteğiyle Mimar Sinan'ın Edirne'de inşa ettiği cami hangisidir?",
+       "secenekler": [
+        "Süleymaniye Camisi",
+        "Selimiye Camisi",
+        "Fatih Camisi",
+        "Eski Cami"
+       ],
+       "dogru": 1,
+       "bilgi": "Süleymaniye Medresesi ise 1551-1557 yılları arasında Kanuni Sultan Süleyman tarafından İstanbul'da yaptırılmıştır.",
+       "sayfa": 290
+      },
+      {
+       "id": "3.5-06",
+       "tur": "bosluk",
+       "cumle": "Osmanlı Devleti'nde XV. yüzyıl ortalarından itibaren saray içinde merkez ve taşra bürokrasisi için insan kaynağı yetiştiren resmî eğitim kurumu ___ idi.",
+       "cevap": "enderun",
+       "celdiriciler": [
+        "sıbyan mektebi",
+        "darülhadis",
+        "nakkaşhane"
+       ],
+       "bilgi": "Osmanlı şehzadeleri ise Topkapı Sarayı'nın harem bölümündeki Şehzadegân Mektebi'nde eğitim alırdı.",
+       "sayfa": 292
+      },
+      {
+       "id": "3.5-07",
+       "tur": "dy",
+       "ifade": "Osmanlı'da eğitimin ilk kademesi olan sıbyan mekteplerine çocuklar on iki yaşında başlardı.",
+       "dogru": false,
+       "bilgi": "Çocuklar sıbyan mekteplerine beş altı yaşlarında başlar, burada okuma yazma ve temel matematik işlemlerini öğrenirdi.",
+       "sayfa": 292
+      },
+      {
+       "id": "3.5-08",
+       "tur": "secmeli",
+       "soru": "Osmanlı medrese sisteminde hadis alanında ihtisas yapmak isteyen öğrencilerin eğitim aldığı kurum hangisidir?",
+       "secenekler": [
+        "Darüttıp",
+        "Darülkurra",
+        "Darüşşifa",
+        "Darülhadis"
+       ],
+       "dogru": 3,
+       "bilgi": "Tıpta ihtisas için darüttıp, Kur'an-ı Kerim kıraatında ihtisas için darülkurra adlı medreseler bulunurdu.",
+       "sayfa": 292
+      },
+      {
+       "id": "3.5-09",
+       "tur": "bosluk",
+       "cumle": "Osmanlı Devleti'nde saray için çalışan sanatkârlar Topkapı Sarayı'nda ___ adlı teşkilat bünyesinde faaliyet göstermiştir.",
+       "cevap": "ehl-i hiref",
+       "celdiriciler": [
+        "Ahilik",
+        "enderun",
+        "mehterhane"
+       ],
+       "bilgi": "Osmanlı'da çinicilik, minyatür, hat, tezhip, dokumacılık, ahşap ve taş işlemeciliği öne çıkan sanat dallarıydı.",
+       "sayfa": 293
+      },
+      {
+       "id": "3.5-10",
+       "tur": "secmeli",
+       "soru": "Osmanlı Devleti'nde çini üretiminin en önemli merkezleri hangi seçenekte birlikte verilmiştir?",
+       "secenekler": [
+        "Bursa ve Edirne",
+        "Konya ve Kayseri",
+        "İznik ve Kütahya",
+        "Selanik ve Üsküp"
+       ],
+       "dogru": 2,
+       "bilgi": "Barbaros Hayreddin Paşa'nın Mimar Sinan'a yaptırdığı Zeyrek Çinili Hamam'ın iç duvarları İznik çinileriyle kaplıdır.",
+       "sayfa": 293
+      },
+      {
+       "id": "3.5-11",
+       "tur": "dy",
+       "ifade": "İstanbul'un fethinden sonra Ayasofya'da kılınan ilk cuma namazında hutbeyi Akşemseddin okumuştur.",
+       "dogru": true,
+       "bilgi": "Akşemseddin, Fatih'in isteğiyle sahabeden Ebû Eyyûb el-Ensârî'nin kabrini de keşfetmiştir.",
+       "sayfa": 299
+      },
+      {
+       "id": "3.5-12",
+       "tur": "secmeli",
+       "soru": "Fatih Sultan Mehmed Döneminde İstanbul'da kurulan nakkaşhanenin başına getirilen sanatkâr kimdir?",
+       "secenekler": [
+        "Matrakçı Nasuh",
+        "Baba Nakkaş",
+        "Nakkaş Osman",
+        "Seyyid Lokman"
+       ],
+       "dogru": 1,
+       "bilgi": "Fatih, İstanbul'un fethinden sonra Venedikli ressam Bellini gibi Avrupalı sanatçıları saraya davet ederek portresini yaptırmıştır.",
+       "sayfa": 293
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
