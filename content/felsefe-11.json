@@ -1,0 +1,2745 @@
+{
+ "kitap": "felsefe-11",
+ "ders": "felsefe",
+ "sinif": 11,
+ "baslik": "Felsefe Dersi 11. Sınıf Ders Kitabı",
+ "sayfaUrl": "https://tymm.meb.gov.tr/kitap/403/felsefe-dersi-11sinif-ders-kitabi",
+ "pdfUrl": "https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi-11sinif-ders-kitabi_20261003_214213_339.pdf",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Çevre Sorunları ve Felsefe",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Çevre ve İnsan İlişkisi",
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "bosluk",
+       "cumle": "İnsan ilişkileri temelinde şekillenen yapıyı ifade eden çevre türüne ___ çevre denir.",
+       "cevap": "sosyokültürel",
+       "celdiriciler": [
+        "fiziksel",
+        "yapay",
+        "doğal"
+       ],
+       "bilgi": "Sosyokültürel çevre insan ilişkileriyle şekillenirken fiziksel çevre doğal ve yapay unsurlardan oluşur.",
+       "sayfa": 16
+      },
+      {
+       "id": "1.1-02",
+       "tur": "dy",
+       "ifade": "Fiziksel çevre yalnızca doğal unsurlardan oluşur; yapay unsurlar sosyokültürel çevreye aittir.",
+       "dogru": false,
+       "bilgi": "Fiziksel çevre doğal ve yapay unsurlardan oluşur; insan, yaşam alanlarını dönüştürerek yapay çevreyi meydana getirir.",
+       "sayfa": 16
+      },
+      {
+       "id": "1.1-03",
+       "tur": "secmeli",
+       "soru": "Günümüzdeki çevre sorunları büyük ölçüde hangi gelişmelerle şekillenen doğa anlayışına bağlanır?",
+       "secenekler": [
+        "Orta Çağ'daki inanç-akıl tartışmaları",
+        "Antik Yunan'daki arkhe arayışı",
+        "Rönesans'la başlayan modern düşünce ve Bilimsel Devrim",
+        "Uzak Doğu kültürlerindeki Tao ve uyum anlayışı"
+       ],
+       "dogru": 2,
+       "bilgi": "Rönesans ve Bilimsel Devrim'le şekillenen insan merkezli, mekanik doğa anlayışı Sanayi İnkılabı ile yaygınlaşarak çevre sorunlarına zemin hazırlamıştır.",
+       "sayfa": 17
+      },
+      {
+       "id": "1.1-04",
+       "tur": "bosluk",
+       "cumle": "Batı'da insan-çevre dengesinin gerekliliği bilinci ___ yıllardan itibaren artmış ve çözüm arayışları gündeme girmiştir.",
+       "cevap": "1960'lı",
+       "celdiriciler": [
+        "1920'li",
+        "1990'lı",
+        "1880'li"
+       ],
+       "bilgi": "Batı'da insan-çevre dengesi bilinci 1960'lı yıllardan itibaren artmıştır.",
+       "sayfa": 17
+      },
+      {
+       "id": "1.1-05",
+       "tur": "secmeli",
+       "soru": "Öküz Dağı örneğiyle ağaç kesimi ve hayvan otlatmanın çevreyi bozduğuna dikkat çeken MÖ 4. yüzyıl Çin düşünürü kimdir?",
+       "secenekler": [
+        "Lao Tse",
+        "Mencius",
+        "Konfüçyüs"
+       ],
+       "dogru": 1,
+       "bilgi": "Mencius, Öküz Dağı örneğiyle insanların çevre bozulmasının insan etkinliğinden kaynaklandığını fark etmediğini vurgular.",
+       "sayfa": 17
+      },
+      {
+       "id": "1.1-06",
+       "tur": "eslestir",
+       "yonerge": "Doğaya önem veren kadim kültür örneklerini bulundukları yerle eşleştir.",
+       "ciftler": [
+        [
+         "Zen bahçesi",
+         "Japonya"
+        ],
+        [
+         "Gurabahane-i Laklakan (Leylek Hastanesi)",
+         "Bursa"
+        ],
+        [
+         "Gölpınar Hitit Barajı",
+         "Çorum"
+        ]
+       ],
+       "bilgi": "Uzak Doğu, Türkistan ve Anadolu kültürlerinde doğa değerli kabul edilmiş; Selçuklu ve Osmanlı'da hayvanlar ve ormanlar için vakıflar kurulmuştur.",
+       "sayfa": 17
+      },
+      {
+       "id": "1.1-07",
+       "tur": "dy",
+       "ifade": "Bhopal gaz sızıntısı, 1984 yılında Hindistan'da tarım ilacı üreten bir fabrikada meydana gelmiştir.",
+       "dogru": true,
+       "bilgi": "2-3 Aralık 1984'te Bhopal'daki fabrikada yaşanan gaz kaçağında toplam can kaybı 15.000 civarındadır.",
+       "sayfa": 16
+      },
+      {
+       "id": "1.1-08",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki küresel çevre sözleşmelerinden hangisi 1997 yılında imzalanmıştır?",
+       "secenekler": [
+        "Montreal Protokolü",
+        "Karadeniz'in Kirliliğe Karşı Korunması Sözleşmesi",
+        "Türk Devletler Teşkilatı Çevre İş Birliği",
+        "Kyoto Protokolü"
+       ],
+       "dogru": 3,
+       "bilgi": "Küresel çevre sözleşmeleri: 1987 Montreal, 1992 Karadeniz'in Kirliliğe Karşı Korunması, 1997 Kyoto, 2022 TDT Çevre İş Birliği.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.1-09",
+       "tur": "bosluk",
+       "cumle": "Toprağı doğayla özdeşleştiren “Benim sâdık yârim kara topraktır.” dizesi halk ozanı ___ tarafından söylenmiştir.",
+       "cevap": "Âşık Veysel",
+       "celdiriciler": [
+        "Yunus Emre",
+        "Karacaoğlan",
+        "Pir Sultan Abdal"
+       ],
+       "bilgi": "Âşık Veysel (1894-1973), toprağa bağlılığını dile getiren şiiriyle doğayı koruma bilincine örnek olur.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1-10",
+       "tur": "secmeli",
+       "soru": "Geri dönüştürülebilir taş, tuğla ve ahşap malzemesi ile kontrollü doğal havalandırmasıyla sürdürülebilir mimariye örnek gösterilen yapı hangisidir?",
+       "secenekler": [
+        "Süleymaniye Külliyesi",
+        "Selimiye Külliyesi",
+        "Topkapı Sarayı",
+        "Galata Kulesi"
+       ],
+       "dogru": 0,
+       "bilgi": "Mimar Sinan'ın Süleymaniye Külliyesi suyun, enerjinin, malzemenin ve ekosistemin korunumu bakımından günümüz yapılarına ilham verir.",
+       "sayfa": 24
+      },
+      {
+       "id": "1.1-11",
+       "tur": "dy",
+       "ifade": "Çevre sorunlarının çözümü yalnızca bilim insanlarının çabasıyla mümkündür.",
+       "dogru": false,
+       "bilgi": "Çevre sorunlarının çözümü bilim insanları, hükûmet temsilcileri, sivil toplum kuruluşları ile kamu ve özel sektörün iş birliğini gerektirir.",
+       "sayfa": 18
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "Çevre Etiği",
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "secmeli",
+       "soru": "Çevre sorunlarını ve insanın doğaya karşı ahlaki sorumluluklarını felsefi açıdan inceleyen, 20. yüzyılda ortaya çıkan uygulamalı etik alanı hangisidir?",
+       "secenekler": [
+        "Biyoetik",
+        "Çevre etiği",
+        "Meta-etik",
+        "Ekoloji"
+       ],
+       "dogru": 1,
+       "bilgi": "Çevre etiği, 20. yüzyılın başlarında John Muir ve Aldo Leopold'ın çalışmalarıyla görünür olmaya başlayan uygulamalı bir etik alanıdır.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.2-02",
+       "tur": "secmeli",
+       "soru": "Doğaya Saygı: Çevre Etiği Teorisi adlı eserinde Kantçı etik anlayışını tüm canlı varlıklara uygulayan düşünür kimdir?",
+       "secenekler": [
+        "Aldo Leopold",
+        "John Muir",
+        "Arne Naess",
+        "Paul W. Taylor"
+       ],
+       "dogru": 3,
+       "bilgi": "Paul W. Taylor'ın bu eseri, çevre sorunlarında insan temelli değer kaygısından ilk ciddi uzaklaşma olarak görülür.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.2-03",
+       "tur": "secmeli",
+       "soru": "İnsanın doğanın üstünde değil bir parçası olduğunu, bu yüzden diğer canlılarla eşit değere sahip olduğunu savunan düşünür kimdir?",
+       "secenekler": [
+        "Arne Naess",
+        "Francis Bacon",
+        "Thomas Hobbes",
+        "René Descartes"
+       ],
+       "dogru": 0,
+       "bilgi": "Arne Naess; Antik Yunan doğa anlayışı, Heidegger, romantik akım, Uzak Doğu ve Kızılderili mistisizminden etkilenmiştir.",
+       "sayfa": 27
+      },
+      {
+       "id": "1.2-04",
+       "tur": "bosluk",
+       "cumle": "Erken dönem Antik Yunan filozoflarının madde ve doğanın canlılık taşıdığını savunan görüşüne ___ görüş denir.",
+       "cevap": "hilozoistik",
+       "celdiriciler": [
+        "mekanist",
+        "idealist",
+        "determinist"
+       ],
+       "bilgi": "Hilozoistik görüşü benimseyen doğa filozofları, arkhe düşüncesiyle tüm varlıkların ortak bir kökene sahip olduğunu ileri sürmüştür.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-05",
+       "tur": "eslestir",
+       "yonerge": "İlk Çağ filozoflarını doğaya ilişkin görüşleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Thales",
+         "Varlıkların ilk nedeni sudur."
+        ],
+        [
+         "Empedokles",
+         "Hava, su, toprak ve ateş dört ana nedendir."
+        ],
+        [
+         "Herakleitos",
+         "Değişim doğanın temel niteliğidir."
+        ],
+        [
+         "Parmenides",
+         "Değişim aldatıcıdır; varlık bir ve değişmezdir."
+        ]
+       ],
+       "bilgi": "Doğa filozoflarının çoğu değişimi doğanın temel yasası sayarken Parmenides değişimi aldatıcı bulur.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-06",
+       "tur": "secmeli",
+       "soru": "Doğadaki varlıkların insan için var olduğunu ve değerlerinin insana sağladıkları fayda kadar olduğunu savunan Antik Yunan filozofu kimdir?",
+       "secenekler": [
+        "Platon",
+        "Aristoteles",
+        "Parmenides",
+        "Empedokles"
+       ],
+       "dogru": 1,
+       "bilgi": "Aristoteles doğadaki varlıkların değerini insana sağladıkları faydayla ölçer; Platon ise görünüşleri ideaların yansıması sayar.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-07",
+       "tur": "dy",
+       "ifade": "Kyniklere göre insanın doğaya uygun bir yaşam sürmesi gerekir.",
+       "dogru": true,
+       "bilgi": "Kynikler doğaya uygun yaşamı savunurken Stoacılar doğayı canlı ve ruhlu bir varlık alanı sayıp insanın doğanın yasalarına uymasını ister.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-08",
+       "tur": "bosluk",
+       "cumle": "Farabi ve İbni Sina'nın doğa anlayışında, çokluğun “bir” olandan taşma yoluyla meydana geldiğini anlatan ___ öğretisi öne çıkar.",
+       "cevap": "sudur",
+       "celdiriciler": [
+        "tevhit",
+        "arkhe",
+        "idea"
+       ],
+       "bilgi": "Sudur öğretisine göre doğa yaratıcının eseri ve ondan sudur eden varlık olduğu için sevilmelidir.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.2-09",
+       "tur": "eslestir",
+       "yonerge": "Rönesans ve modern dönem düşünürlerini doğaya ilişkin görüşleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Francis Bacon",
+         "Bilgi güçtür; doğaya egemen olmak mümkündür."
+        ],
+        [
+         "Thomas Hobbes",
+         "Doğa bir makine gibidir."
+        ],
+        [
+         "Adorno",
+         "Doğaya egemen olmak yabancılaşma getirir."
+        ],
+        [
+         "Giordano Bruno",
+         "Doğanın mistik bir değeri de vardır."
+        ]
+       ],
+       "bilgi": "Rönesans'tan itibaren doğa makine gibi görülmeye başlanmış; Adorno bu egemenliğin bedelinin yabancılaşma olduğunu söylemiştir.",
+       "sayfa": 27
+      },
+      {
+       "id": "1.2-10",
+       "tur": "dy",
+       "ifade": "Heidegger'e göre Descartes ile birlikte varlık felsefesi matematiksel fiziğe indirgenmiş ve varlığın anlamı unutulmuştur.",
+       "dogru": true,
+       "bilgi": "Heidegger'e göre bilimin her şeyi ölçme ve hesaplama yönelişiyle insan kendini doğanın efendisi, doğayı ise devasa bir makine olarak görmüştür.",
+       "sayfa": 27
+      },
+      {
+       "id": "1.2-11",
+       "tur": "secmeli",
+       "soru": "Canlı merkezci anlayışa cansız doğayı da ekleyerek insanın sorumluluk alanını genişleten çevre etiği yaklaşımı hangisidir?",
+       "secenekler": [
+        "İnsan merkezci yaklaşım",
+        "Canlı merkezci yaklaşım",
+        "Çevre merkezci yaklaşım",
+        "Fütüristik yaklaşım"
+       ],
+       "dogru": 2,
+       "bilgi": "Çevre merkezci yaklaşım insanı ekosistemin eşit bir parçası sayar ve insanın doğa üzerindeki ayrıcalıklı üstünlüğünü reddeder.",
+       "sayfa": 29
+      },
+      {
+       "id": "1.2-12",
+       "tur": "dy",
+       "ifade": "İnsan merkezci yaklaşıma göre etik temel, insanın doğayla ilişkisinde de aranmalıdır.",
+       "dogru": false,
+       "bilgi": "İnsan merkezci yaklaşımda etik temel yalnızca insanlar arası ilişkide geçerlidir; doğa değerini insana araç olmasından alır.",
+       "sayfa": 29
+      },
+      {
+       "id": "1.2-13",
+       "tur": "secmeli",
+       "soru": "İnsanın doğayı gelecek kuşaklardan ödünç aldığı düşüncesiyle merkeze gelecek kuşakları alan yaklaşım hangisidir?",
+       "secenekler": [
+        "Derin ekoloji",
+        "Fütüristik yaklaşım",
+        "Canlı merkezci yaklaşım",
+        "İnsan merkezci yaklaşım"
+       ],
+       "dogru": 1,
+       "bilgi": "Fütüristik yaklaşıma göre insan doğanın efendisi değil koruyucusudur; izleri sürdürülebilir kalkınma olgusunda görülür.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.2-14",
+       "tur": "bosluk",
+       "cumle": "Çevre etiğinde ___ kavramı, dünya kaynaklarının nesiller boyu eşit ve adil paylaşımına odaklanır.",
+       "cevap": "nesiller arası eşitlik",
+       "celdiriciler": [
+        "sürdürülebilirlik",
+        "potansiyel değer",
+        "derin ekoloji"
+       ],
+       "bilgi": "Çevre etiğinin öne çıkan kavramları potansiyel değer, sürdürülebilirlik ve nesiller arası eşitliktir.",
+       "sayfa": 28
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Teknoloji ve Hayat",
+   "konular": [
+    {
+     "no": "2.1",
+     "ad": "Teknoloji ve İnsan Hayatı",
+     "kartlar": [
+      {
+       "id": "2.1-01",
+       "tur": "secmeli",
+       "soru": "Teknoloji ve teknik kelimelerinin köken olarak dayandığı, Antik Yunan Dönemi'nde kullanılan kavram hangisidir?",
+       "secenekler": [
+        "Logos",
+        "Tekhne",
+        "Arkhe",
+        "Episteme"
+       ],
+       "dogru": 1,
+       "bilgi": "Teknoloji yeni bir olgu gibi görünse de köken olarak Antik Yunan'daki “tekhne” kelimesine dayanır.",
+       "sayfa": 48
+      },
+      {
+       "id": "2.1-02",
+       "tur": "bosluk",
+       "cumle": "Tekhne, Yunancada “aletheia” (açığa çıkarma) ve “___” (sanatsal üretim) anlamlarını taşır.",
+       "cevap": "poiesis",
+       "celdiriciler": [
+        "logos",
+        "episteme",
+        "physis"
+       ],
+       "bilgi": "Tekhne açığa çıkarma (aletheia) ve sanatsal üretim (poiesis) anlamlarını taşır; zamanla modern tekniğe ve teknolojiye dönüşmüştür.",
+       "sayfa": 48
+      },
+      {
+       "id": "2.1-03",
+       "tur": "dy",
+       "ifade": "Teknik, insanın doğa karşısında eksik kaldığı durumlarda sınırlarını aşmak için başvurduğu yapay bir süreçtir.",
+       "dogru": true,
+       "bilgi": "Teknik, insanın doğaya müdahalesini içeren yapay bir süreçtir.",
+       "sayfa": 48
+      },
+      {
+       "id": "2.1-04",
+       "tur": "eslestir",
+       "yonerge": "Endüstri evrelerini öne çıkan özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Endüstri 1.0",
+         "Buhar gücü ve makineleşme"
+        ],
+        [
+         "Endüstri 2.0",
+         "Elektrik ve seri üretim (montaj hattı)"
+        ],
+        [
+         "Endüstri 3.0",
+         "Otomasyon sistemleri ve robotlar"
+        ],
+        [
+         "Endüstri 4.0",
+         "Yapay zekâ ve akıllı fabrikalar"
+        ]
+       ],
+       "bilgi": "El emeğinden fabrika sistemine geçişle başlayan süreç, makinelerin kendi kendine karar verebildiği akıllı fabrikalara uzanmıştır.",
+       "sayfa": 49
+      },
+      {
+       "id": "2.1-05",
+       "tur": "secmeli",
+       "soru": "Sanayi Devrimi'nin en belirgin özelliği olan ve bedensel iş gücüne dayalı üretimden makinelerle üretime geçişi ifade eden kavram hangisidir?",
+       "secenekler": [
+        "Otomasyon",
+        "Dijitalleşme",
+        "Seri üretim",
+        "Makineleşme"
+       ],
+       "dogru": 3,
+       "bilgi": "Makineleşme üretimde hız ve verimliliği artırırken insan emeğine duyulan ihtiyacı azaltmıştır.",
+       "sayfa": 49
+      },
+      {
+       "id": "2.1-06",
+       "tur": "secmeli",
+       "soru": "Güç, zenginlik ve doğayı kontrol etmek adına teknolojik gelişimi destekleyen, 19. yüzyıl Batı sanayileşmesine egemen olan tutum hangisidir?",
+       "secenekler": [
+        "Teknolojik anarşi",
+        "Teknofobi",
+        "Uygun teknoloji",
+        "Teknofili"
+       ],
+       "dogru": 0,
+       "bilgi": "Sanayileşmiş Batı toplumunda teknolojiye yönelik dört tutum vardır: teknolojik anarşi, uygun teknoloji, teknofobi ve teknofili.",
+       "sayfa": 51
+      },
+      {
+       "id": "2.1-07",
+       "tur": "bosluk",
+       "cumle": "Teknolojiye karşı duyulan korkuyu ve insan hayatının teknolojiden arındırılması isteğini ifade eden tutuma ___ denir.",
+       "cevap": "teknofobi",
+       "celdiriciler": [
+        "teknofili",
+        "teknolojik anarşi",
+        "uygun teknoloji"
+       ],
+       "bilgi": "Teknofobi teknolojiyi insan özgürlüğünü kısıtlayan bir olgu olarak görür ve teknolojinin reddini içerir.",
+       "sayfa": 51
+      },
+      {
+       "id": "2.1-08",
+       "tur": "dy",
+       "ifade": "Teknofili, teknolojinin getirilerine teslim olmadan önce amaçlar ve değerler üzerine düşünülmesini savunan tutumdur.",
+       "dogru": false,
+       "bilgi": "Bu tanım uygun teknolojiye aittir; teknofili teknolojiye aşırı düşkünlük ve bağlılıktır.",
+       "sayfa": 51
+      },
+      {
+       "id": "2.1-09",
+       "tur": "secmeli",
+       "soru": "Teknolojinin insan hayatındaki en önemli etkileri hangi seçenekte birlikte verilmiştir?",
+       "secenekler": [
+        "Konfor, hız ve kolaylık",
+        "Güvenlik, adalet ve eşitlik",
+        "Üretim, tasarruf ve sadelik",
+        "Yalnızlık, kaygı ve bağımlılık"
+       ],
+       "dogru": 0,
+       "bilgi": "Teknoloji konfor, hız ve kolaylık sağlayarak özellikle iletişim ve ulaşımda zaman ve mekân sınırlarını büyük ölçüde ortadan kaldırır.",
+       "sayfa": 50
+      },
+      {
+       "id": "2.1-10",
+       "tur": "dy",
+       "ifade": "Bilim ve teknoloji birbirini besler; örneğin elektromanyetik dalgaların keşfi iletişim teknolojilerinin gelişmesini sağlamıştır.",
+       "dogru": true,
+       "bilgi": "Bilimsel keşifler teknolojik yenilikleri, mikroskop ve yapay zekâ gibi teknolojik araçlar da yeni bilimsel keşifleri mümkün kılar.",
+       "sayfa": 52
+      }
+     ]
+    },
+    {
+     "no": "2.2",
+     "ad": "Teknoloji Bağlamında Ontolojik Problemler",
+     "kartlar": [
+      {
+       "id": "2.2-01",
+       "tur": "secmeli",
+       "soru": "Teknolojinin etkisiyle insanın kendine ve doğaya yabancılaşması ve varoluşsal olarak anlam yitirmesi hangi tür problemlerdir?",
+       "secenekler": [
+        "Aksiyolojik problemler",
+        "Epistemolojik problemler",
+        "Ontolojik problemler",
+        "Estetik problemler"
+       ],
+       "dogru": 2,
+       "bilgi": "Ontolojik problemler, teknolojik gelişmelerin varlık ve varoluş üzerinden gerçeklik algısını değiştirmesiyle ortaya çıkar.",
+       "sayfa": 55
+      },
+      {
+       "id": "2.2-02",
+       "tur": "bosluk",
+       "cumle": "İnsanın doğasından ve özünden uzaklaşarak varlığıyla bağının kopması ve kendiliğini kaybetmesine ___ denir.",
+       "cevap": "yabancılaşma",
+       "celdiriciler": [
+        "değerlerin tahribatı",
+        "simülasyon",
+        "çerçeveleme"
+       ],
+       "bilgi": "Yabancılaşma ve ontolojik anlam kaybı, teknoloji bağlamındaki başlıca ontolojik problemlerdir.",
+       "sayfa": 55
+      },
+      {
+       "id": "2.2-03",
+       "tur": "dy",
+       "ifade": "Ontolojik anlam kaybı, insanın bütüncül varlığı göz ardı edildiğinde zihinsel, bedensel ve manevi özsel değerlerin anlamını yitirmesidir.",
+       "dogru": true,
+       "bilgi": "Ontolojik anlam kaybı, insanın varoluşunun ve yaşamının ne anlama geldiğinin anlaşılamaması sonucu ortaya çıkan anlam ve değer kaybıdır.",
+       "sayfa": 55
+      },
+      {
+       "id": "2.2-04",
+       "tur": "secmeli",
+       "soru": "Modern teknolojinin özünü, doğayı nesneleştirip ölçülebilir ögelere dönüştüren “çerçeveleme” olarak niteleyen filozof kimdir?",
+       "secenekler": [
+        "Gabriel Marcel",
+        "Martin Heidegger",
+        "Jacques Ellul",
+        "Jean Baudrillard"
+       ],
+       "dogru": 1,
+       "bilgi": "Heidegger'e göre çerçeveleme varlığın unutulmasına, insanın köksüzleşmesine ve yurtsuzlaşmasına yol açan büyük bir tehlikedir.",
+       "sayfa": 59
+      },
+      {
+       "id": "2.2-05",
+       "tur": "bosluk",
+       "cumle": "Heidegger tekniğin özünü ___ olarak ifade eder ve tekniği modern teknikten ve teknolojiden ayırır.",
+       "cevap": "açığa çıkarma",
+       "celdiriciler": [
+        "çerçeveleme",
+        "sahip olma",
+        "simülasyon"
+       ],
+       "bilgi": "Heidegger'e göre tekniğin açığa çıkarma anlamı, modern teknolojide doğanın insan kullanımı için zorlanmasına dönüşmüştür.",
+       "sayfa": 59
+      },
+      {
+       "id": "2.2-06",
+       "tur": "eslestir",
+       "yonerge": "Düşünürleri teknolojiye ilişkin görüşleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Martin Heidegger",
+         "Çerçeveleme varlığın unutuluşuna yol açar."
+        ],
+        [
+         "Gabriel Marcel",
+         "İnsanın makine gibi görülmesi anlam kaybı doğurur."
+        ],
+        [
+         "Jacques Ellul",
+         "Kaybolan bütünlük teknikle geri getirilemez."
+        ],
+        [
+         "Jean Baudrillard",
+         "İnsan gerçekliğin ötesinde bir simülasyonda yaşar."
+        ]
+       ],
+       "bilgi": "Heidegger, Marcel, Ellul ve Baudrillard teknolojinin insanda yol açtığı anlam kaybına dikkat çeker.",
+       "sayfa": 61
+      },
+      {
+       "id": "2.2-07",
+       "tur": "secmeli",
+       "soru": "Teknolojinin insanda sahip olma arzusunu beslediğini ve insanın sahip olduklarını yitirme korkusuyla onların tutsağı olduğunu savunan filozof kimdir?",
+       "secenekler": [
+        "Jean Baudrillard",
+        "Jacques Ellul",
+        "Zygmunt Bauman",
+        "Gabriel Marcel"
+       ],
+       "dogru": 3,
+       "bilgi": "Marcel, teknolojinin insan için araç olmaktan çıkıp amaca dönüşmesini tehlike olarak görür.",
+       "sayfa": 59
+      },
+      {
+       "id": "2.2-08",
+       "tur": "dy",
+       "ifade": "Heidegger'e göre teknolojiyi nötr bir şey olarak görmek, ona teslim olmaktan kurtulmanın en iyi yoludur.",
+       "dogru": false,
+       "bilgi": "Heidegger'e göre teknoloji nötr görüldüğünde mümkün olan en kötü tarzda ona teslim olunur; onu tutkuyla olumlamak da ona isyan etmek de çözüm değildir.",
+       "sayfa": 61
+      },
+      {
+       "id": "2.2-09",
+       "tur": "bosluk",
+       "cumle": "Heidegger'e göre teknik, tehlikeyi ve ___ içinde saklı tutar; yanlış olan tekhnenin kendisi değil kötü amaçlarla kullanılmasıdır.",
+       "cevap": "kurtarıcıyı",
+       "celdiriciler": [
+        "yıkıcıyı",
+        "özgürlüğü",
+        "simülasyonu"
+       ],
+       "bilgi": "Heidegger'e göre tekniğin özü insanı varlığın karşısında değil içinde olmaya götürür.",
+       "sayfa": 61
+      },
+      {
+       "id": "2.2-10",
+       "tur": "secmeli",
+       "soru": "Baudrillard'ın simülasyon kuramında bir gerçeklik olarak algılanmak istenen görünüme ne ad verilir?",
+       "secenekler": [
+        "Simülakr",
+        "Simülasyon",
+        "Çerçeveleme",
+        "Panoptikon"
+       ],
+       "dogru": 0,
+       "bilgi": "Simülakr gerçeklik olarak algılanmak istenen görünümdür; simüle etmek ise gerçek olmayanı gerçekmiş gibi sunmaktır.",
+       "sayfa": 62
+      },
+      {
+       "id": "2.2-11",
+       "tur": "bosluk",
+       "cumle": "Jean Baudrillard'ın, “gerçek” ile “sahte” arasındaki farkın yok olduğunu öne süren kuramı ___ Kuramı'dır.",
+       "cevap": "Simülasyon",
+       "celdiriciler": [
+        "Çerçeveleme",
+        "Panoptikon",
+        "Yabancılaşma"
+       ],
+       "bilgi": "Baudrillard'a göre simülasyon her zaman gerçeklikten daha etkilidir ve gelişen teknolojiyle insan yaşamında anlam yitimi yaşanır.",
+       "sayfa": 62
+      }
+     ]
+    },
+    {
+     "no": "2.3",
+     "ad": "Teknoloji Bağlamında Aksiyolojik Problemler",
+     "kartlar": [
+      {
+       "id": "2.3-01",
+       "tur": "secmeli",
+       "soru": "Seçim, eylem ve değer bağlamında ortaya çıkan ve temelinde “ben” odaklı düşünmenin ahlaki değerlerin önüne geçmesi yatan problemler hangileridir?",
+       "secenekler": [
+        "Ontolojik problemler",
+        "Aksiyolojik problemler",
+        "Epistemolojik problemler",
+        "Metafizik problemler"
+       ],
+       "dogru": 1,
+       "bilgi": "Teknoloji bağlamındaki aksiyolojik problemler güvenlik sorunları, değerlerin tahribatı ve ahlaki eylemin imkânıdır.",
+       "sayfa": 55
+      },
+      {
+       "id": "2.3-02",
+       "tur": "eslestir",
+       "yonerge": "Teknolojinin yol açtığı aksiyolojik problemleri açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Güvenlik sorunları",
+         "Siber saldırı, mahremiyet ihlali gibi veri kaynaklı sorunlar"
+        ],
+        [
+         "Değerlerin tahribatı",
+         "Bireysel ve toplumsal yaşamın temel değerlerinin yitirilmesi"
+        ],
+        [
+         "Ahlaki eylemin imkânı",
+         "Yeni teknolojilere etik kural oluşturulamaması"
+        ]
+       ],
+       "bilgi": "Kolaylık ve konfor arzusu değerlerin tahribatına, sosyal ilişkilerdeki karmaşıklık ise kuralsızlığa yol açar.",
+       "sayfa": 55
+      },
+      {
+       "id": "2.3-03",
+       "tur": "secmeli",
+       "soru": "İnsanların sosyal medyayı kullanarak kişisel yaşamlarını bir panoptikona dönüştürdüğünü savunan düşünür kimdir?",
+       "secenekler": [
+        "Zygmunt Bauman",
+        "Jürgen Habermas",
+        "Gabriel Marcel",
+        "Jean Baudrillard"
+       ],
+       "dogru": 0,
+       "bilgi": "Bauman'a göre bu gözetim alanı, kullanıcıların gözetlenmesiyle elde edilen bilgilerden kâr sağlanarak sürdürülür.",
+       "sayfa": 66
+      },
+      {
+       "id": "2.3-04",
+       "tur": "bosluk",
+       "cumle": "Bauman'ın sosyal medyayı anlatmak için kullandığı panoptikon kavramı aslında bir ___ inşa modelidir.",
+       "cevap": "hapishane",
+       "celdiriciler": [
+        "kütüphane",
+        "tiyatro",
+        "fabrika"
+       ],
+       "bilgi": "Panoptikon, gardiyanların mahkûmları sürekli izleyebilmesi için tasarlanmış hapishane modelidir.",
+       "sayfa": 66
+      },
+      {
+       "id": "2.3-05",
+       "tur": "dy",
+       "ifade": "Bauman'a göre teknoloji kördür; bir yere varmak için değil hareket ettiği için hareket eder.",
+       "dogru": true,
+       "bilgi": "Bauman'a göre teknolojiye hâkimiyet, onu bütünüyle kontrol etmek değil etkilerinin farkında olup eleştirel bir tutum geliştirmektir.",
+       "sayfa": 66
+      },
+      {
+       "id": "2.3-06",
+       "tur": "secmeli",
+       "soru": "Teknolojinin bir ideoloji olduğunu ve insanın sosyal ve politik duruşunun teknolojinin yükselişi karşısında güç yitirdiğini vurgulayan düşünür kimdir?",
+       "secenekler": [
+        "Jacques Ellul",
+        "Zygmunt Bauman",
+        "Jürgen Habermas",
+        "Martin Heidegger"
+       ],
+       "dogru": 2,
+       "bilgi": "Habermas'a göre teknoloji ideolojisi insana hizmet etmekten çok onun sonunu getirecek riskler barındırır.",
+       "sayfa": 72
+      },
+      {
+       "id": "2.3-07",
+       "tur": "bosluk",
+       "cumle": "Kandil saati, saz çalan robot ve pompa otomatı gibi icatlarıyla robot teknolojisinin öncüsü sayılan bilgin ___ olarak bilinir.",
+       "cevap": "Cezeri",
+       "celdiriciler": [
+        "Farabi",
+        "İbni Sina",
+        "Uluğ Bey"
+       ],
+       "bilgi": "Cezeri tarihte robot teknolojisinin öncüsü ve mucidi olarak bilinir; bugün “Robotlar ahlaklı davranabilir mi?” sorusu tartışılmaktadır.",
+       "sayfa": 68
+      },
+      {
+       "id": "2.3-08",
+       "tur": "dy",
+       "ifade": "Oxford Üniversitesinin 2024'te yılın kelimesi seçtiği “brain rot”, yapay zekâ sistemlerinin kontrolden çıkmasını ifade eder.",
+       "dogru": false,
+       "bilgi": "Brain rot (beyin çürümesi), önemsiz çevrim içi içeriklerin aşırı tüketimiyle kişinin zihinsel durumunun bozulmasıdır.",
+       "sayfa": 67
+      },
+      {
+       "id": "2.3-09",
+       "tur": "dy",
+       "ifade": "Yapay zekâ teknolojilerinin tasarımlarının temelinde biyolojik taklit ilkeleri bulunur.",
+       "dogru": true,
+       "bilgi": "Yapay zekâ insan gibi düşünen ve davranan sistemlerdir; kontrolden çıkmaları veya insanın yerini almaları endişe yaratır.",
+       "sayfa": 64
+      },
+      {
+       "id": "2.3-10",
+       "tur": "secmeli",
+       "soru": "Bilgisayar, bilgisayar ağı veya ağa bağlı bir cihazı hedef alan ve çoğunlukla para kazanmak isteyen korsanlarca işlenen suç türü hangisidir?",
+       "secenekler": [
+        "Kimlik hırsızlığı",
+        "Dezenformasyon",
+        "Mahremiyet ihlali",
+        "Siber suç"
+       ],
+       "dogru": 3,
+       "bilgi": "Siber suçlar kazanç dışında bilişim sistemlerine siyasi ya da kişisel nedenlerle zarar vermeyi de amaçlayabilir.",
+       "sayfa": 65
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "ad": "Akıl ve İnanç",
+   "konular": [
+    {
+     "no": "3.1",
+     "ad": "Akıl-İnanç İlişkisine Yönelik Felsefi Sorular ve Problemler",
+     "kartlar": [
+      {
+       "id": "3.1-01",
+       "tur": "eslestir",
+       "yonerge": "Felsefe-din ilişkisi üzerine yazan filozofları eserleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Hegel",
+         "Din Felsefesi Dersleri"
+        ],
+        [
+         "İbn Rüşd",
+         "Din Felsefe Tartışması"
+        ],
+        [
+         "Henri Bergson",
+         "Ahlâkın ve Dinin İki Kaynağı"
+        ]
+       ],
+       "bilgi": "Hegel felsefe ile dinin özdeşleştiğini, İbn Rüşd ikisinin ayrı ilkeleri olduğunu, Bergson ise dinin eylem, felsefenin düşünce olarak kaldığını söyler.",
+       "sayfa": 79
+      },
+      {
+       "id": "3.1-02",
+       "tur": "secmeli",
+       "soru": "Felsefe ve dinin ayrı ilkeleri olduğunu, din sorunlarının din çerçevesinde, felsefe sorunlarının kendi içinde ele alınmasını savunan filozof kimdir?",
+       "secenekler": [
+        "Hegel",
+        "Henri Bergson",
+        "İbn Rüşd",
+        "Søren Kierkegaard"
+       ],
+       "dogru": 2,
+       "bilgi": "İbn Rüşd'e göre felsefe ile dinin karıştırılması yanlışlıklara yol açar; her birinin doğrusu kendi bünyesinde belirlenir.",
+       "sayfa": 79
+      },
+      {
+       "id": "3.1-03",
+       "tur": "dy",
+       "ifade": "Bergson'a göre felsefe ile din birbirine karışsa bile din esas olarak eylem, felsefe ise düşünce olarak kalır.",
+       "dogru": true,
+       "bilgi": "Bergson, hiçbir zaman dinsiz bir toplum olmadığını ancak felsefe ile dinin her zaman birbirinden ayrı olduğunu belirtir.",
+       "sayfa": 79
+      },
+      {
+       "id": "3.1-04",
+       "tur": "bosluk",
+       "cumle": "Felsefi anlamda bilgi, Platon'dan bu yana “___ doğru inanç” anlayışı üzerinden ele alınır.",
+       "cevap": "gerekçelendirilmiş",
+       "celdiriciler": [
+        "deneyimlenmiş",
+        "sezgisel",
+        "evrensel"
+       ],
+       "bilgi": "Platon'a göre bilgiye sahip olmak için bir önermeye inanmak, bu inancın doğru olması ve sağlam gerekçelerle desteklenmesi gerekir.",
+       "sayfa": 80
+      },
+      {
+       "id": "3.1-05",
+       "tur": "dy",
+       "ifade": "Platon'un bilgi tanımına göre bir inancın doğru çıkması, onun bilgi sayılması için yeterlidir.",
+       "dogru": false,
+       "bilgi": "Bir inancın doğru çıkması onu bilgi yapmaz, çünkü bu doğruluk tesadüf eseri olabilir; inancın sağlam gerekçelere dayanması gerekir.",
+       "sayfa": 80
+      },
+      {
+       "id": "3.1-06",
+       "tur": "secmeli",
+       "soru": "Arapça kökenli olan, güven, samimiyet ve teslimiyet anlamları içeren ve yöneldiği varlık Tanrı olan kavram hangisidir?",
+       "secenekler": [
+        "İnanç",
+        "Akıl",
+        "Bilgi",
+        "İman"
+       ],
+       "dogru": 3,
+       "bilgi": "İnanç farklı düşünce ve kabulleri kapsarken iman daha çok din alanına aittir ve çoğu zaman aklı aşan bir bağlılıktır.",
+       "sayfa": 80
+      },
+      {
+       "id": "3.1-07",
+       "tur": "secmeli",
+       "soru": "“Bu yol kestirmedir.” yargısını doğru kabul etmek, inancın hangi anlamına örnektir?",
+       "secenekler": [
+        "Bir önermeyi doğru kabul eden zihinsel tutum",
+        "Teslimiyet içeren varoluşsal yönelim",
+        "Kalbî tecrübe ve manevi sezgiyle ulaşılan kesinlik",
+        "Koşulsuz ve aklı aşan bağlılık"
+       ],
+       "dogru": 0,
+       "bilgi": "İnanç, bir önermeyi doğru kabul eden zihinsel tutumu ve dinî bağlamda güven, bağlılık, teslimiyet içeren içsel yönelimi kapsar.",
+       "sayfa": 80
+      },
+      {
+       "id": "3.1-08",
+       "tur": "secmeli",
+       "soru": "Tanrı'ya inanmak ile Tanrı'nın var olduğuna inanmak arasında önemli bir ayrım yapan düşünür kimdir?",
+       "secenekler": [
+        "John Hick",
+        "Alvin Plantinga",
+        "Richard Swinburne",
+        "Henri Bergson"
+       ],
+       "dogru": 1,
+       "bilgi": "Bu ayrıma göre Tanrı'ya inanmak, bir önermeyi kabul etmenin ötesinde Tanrı'ya güvenmeyi ve yaşamı O'na göre düzenlemeyi içerir.",
+       "sayfa": 81
+      },
+      {
+       "id": "3.1-09",
+       "tur": "bosluk",
+       "cumle": "Tanrı'nın varlığı vahiy, peygamber, kutsal kitap ve mucize gibi unsurlarla desteklenen, bağlanma ve teslimiyet içeren ___ bir kabulü ifade eder.",
+       "cevap": "sezgisel",
+       "celdiriciler": [
+        "deneysel",
+        "mantıksal",
+        "bilimsel"
+       ],
+       "bilgi": "Bu kabulün iki boyutu vardır: Tanrı'nın varlığını kabul etmek ve Tanrı hakkındaki önermelerin doğruluğunu benimsemek.",
+       "sayfa": 81
+      },
+      {
+       "id": "3.1-10",
+       "tur": "secmeli",
+       "soru": "Dinin nesnesinin de felsefeninki gibi ebedî hakikat, yani Tanrı olduğunu ve felsefe ile dinin özdeşleştiğini savunan filozof kimdir?",
+       "secenekler": [
+        "Hegel",
+        "İbn Rüşd",
+        "Henri Bergson",
+        "Alvin Plantinga"
+       ],
+       "dogru": 0,
+       "bilgi": "Hegel'e göre felsefe dini açıklayarak kendini, kendini açıklayarak da dini açıklar.",
+       "sayfa": 79
+      }
+     ]
+    },
+    {
+     "no": "3.2",
+     "ad": "Akıl-İnanç İlişkisine Yönelik Felsefi Görüş ve Argümanlar",
+     "kartlar": [
+      {
+       "id": "3.2-01",
+       "tur": "secmeli",
+       "soru": "İnancın aklı aştığını, mantıksal temellendirmeye tabi tutulamayacağını ve insanın önce inanıp sonra bildiğini savunan görüş hangisidir?",
+       "secenekler": [
+        "Temelcilik",
+        "Fideizm",
+        "Pozitivizm",
+        "Natüralizm"
+       ],
+       "dogru": 1,
+       "bilgi": "Fideizm (imancılık), inançtaki delil yetersizliğini iradenin gücüyle aşmaya çalışır ve Tanrı'ya ulaşmayı sezgisel bir süreç sayar.",
+       "sayfa": 85
+      },
+      {
+       "id": "3.2-02",
+       "tur": "bosluk",
+       "cumle": "İnancın akla uygun temellere ve kanıtlara dayandırılması gerektiğini savunan felsefi yaklaşıma ___ denir.",
+       "cevap": "temelcilik",
+       "celdiriciler": [
+        "fideizm",
+        "mistisizm",
+        "pozitivizm"
+       ],
+       "bilgi": "Temelciliğe göre Tanrı inancına temel olacak yeterli makul kanıt yoksa buna inanmak doğru değildir.",
+       "sayfa": 85
+      },
+      {
+       "id": "3.2-03",
+       "tur": "dy",
+       "ifade": "Gönül kavramını öne çıkaran ılımlı yaklaşıma göre inanç akıldan önce gelse de akılcı ve bilimsel düşünme değersiz değildir.",
+       "dogru": true,
+       "bilgi": "Bu yaklaşımda Tanrı'ya varışta aracı akıl değil gönüldür; ancak dinî doğruları anlamada aklın rehberliğine ihtiyaç vardır.",
+       "sayfa": 85
+      },
+      {
+       "id": "3.2-04",
+       "tur": "eslestir",
+       "yonerge": "Gazali'ye göre inancın temellendirilmesindeki yolları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Sebepler",
+         "Akıl yürütme ve delillendirme"
+        ],
+        [
+         "Karineler",
+         "Evrendeki düzen, olaylar ve işaretler"
+        ],
+        [
+         "Tecrübeler",
+         "İbadet, zikir ve manevi tecrübe"
+        ]
+       ],
+       "bilgi": "Gazali'ye göre inanç taklitten araştırmaya, oradan da yakîn derecesindeki kesinliğe doğru gelişen bir süreçtir.",
+       "sayfa": 86
+      },
+      {
+       "id": "3.2-05",
+       "tur": "bosluk",
+       "cumle": "Gazali'ye göre kalbî tecrübe ve manevi sezgiyle ulaşılan, şüpheden uzak kesin inanç ___ ya da ariflerin imanıdır.",
+       "cevap": "yakîn",
+       "celdiriciler": [
+        "taklit",
+        "nakil",
+        "sudur"
+       ],
+       "bilgi": "Gazali'nin üç iman mertebesi taklit imanı (avamın imanı), delillendirmeye dayalı inanç ve yakîn imanıdır.",
+       "sayfa": 86
+      },
+      {
+       "id": "3.2-06",
+       "tur": "secmeli",
+       "soru": "“Biz gerçekliği yalnız usla kavrayamayız, gönülle de biliriz ayrıca.” sözüyle inancı akla önceleyen ama aklı dışlamayan Hristiyan düşünür kimdir?",
+       "secenekler": [
+        "Tertullianus",
+        "Augustinus",
+        "Pascal",
+        "Kierkegaard"
+       ],
+       "dogru": 2,
+       "bilgi": "Pascal, Tanrı'nın varlığı hakkında “Tanrı vardır.” ve “Tanrı yoktur.” seçeneklerini karşılaştıran bir akıl yürütme ortaya koyar.",
+       "sayfa": 86
+      },
+      {
+       "id": "3.2-07",
+       "tur": "dy",
+       "ifade": "Pascal'a göre Tanrı'nın var olduğuna inanan kişi, Tanrı gerçekten varsa sonsuz mutluluğa ulaşarak en büyük kazancı elde eder.",
+       "dogru": true,
+       "bilgi": "Pascal'a göre Tanrı'ya inanan kişi Tanrı yoksa yalnızca dinî kurallara uygun yaşamış olur; inanmayan ise Tanrı varsa sonsuz mutluluğu kaybeder.",
+       "sayfa": 86
+      },
+      {
+       "id": "3.2-08",
+       "tur": "secmeli",
+       "soru": "Tanrı'nın varlığının aklı aştığını savunan ve inanmayı, inanılan şeyin “saçma” olmasına bağlayan Hristiyan düşünür kimdir?",
+       "secenekler": [
+        "Augustinus",
+        "Anselmus",
+        "Thomas Aquinas",
+        "Tertullianus"
+       ],
+       "dogru": 3,
+       "bilgi": "Tertullianus'a göre akıl ile inanç uzlaşmaz; “Saçma olduğu için inanıyorum.” anlayışını savunur.",
+       "sayfa": 90
+      },
+      {
+       "id": "3.2-09",
+       "tur": "bosluk",
+       "cumle": "İlk dönem Hristiyan düşünürlerinin Hristiyanlığa yönelik eleştirilere felsefe aracılığıyla karşı çıkma çabasına ___ (savunma) denir.",
+       "cevap": "apoloji",
+       "celdiriciler": [
+        "skolastik",
+        "teslis",
+        "enkarnasyon"
+       ],
+       "bilgi": "Orta Çağ Hristiyan felsefesinde Tanrı'nın varlığı akılsal temelde açıklanmaya çalışılmış, akıl vahyin emrine sunulmuştur.",
+       "sayfa": 87
+      },
+      {
+       "id": "3.2-10",
+       "tur": "eslestir",
+       "yonerge": "Orta Çağ İslam düşüncesindeki ekolleri akıl-inanç görüşleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Meşşaiye okulu",
+         "İnanç akılla desteklenmelidir."
+        ],
+        [
+         "Kelam okulları",
+         "Hakikat akılla bilinebilir."
+        ],
+        [
+         "Tasavvuf",
+         "Akıl yalnızca inancın bilgisini tasdik eder."
+        ]
+       ],
+       "bilgi": "İslam felsefesinde genel olarak din ile felsefe, akıl ile inanç arasında birliktelik sağlanmaya çalışılmıştır.",
+       "sayfa": 88
+      },
+      {
+       "id": "3.2-11",
+       "tur": "secmeli",
+       "soru": "“Tanrı vardır.” önermesinin deney ve gözlemle doğrulanamadığı için bilişsel olarak anlamlı olmadığını ileri süren yaklaşım hangisidir?",
+       "secenekler": [
+        "Fideizm",
+        "Temelcilik",
+        "Teizm",
+        "Pozitivizm"
+       ],
+       "dogru": 3,
+       "bilgi": "Diyalektik materyalizm, natüralizm ve pozitivizm gibi yaklaşımlar ile ateist düşünürler Tanrı inancına çeşitli eleştiriler yöneltmiştir.",
+       "sayfa": 88
+      },
+      {
+       "id": "3.2-12",
+       "tur": "dy",
+       "ifade": "Kötülük problemi, teist düşünürlerin Tanrı'nın varlığını kanıtlamak için kullandığı temel argümandır.",
+       "dogru": false,
+       "bilgi": "Kötülük problemi ateistlerin itirazıdır; teistler kozmolojik, ontolojik, teleolojik ve ahlak delili gibi argümanlara başvurur.",
+       "sayfa": 88
+      },
+      {
+       "id": "3.2-13",
+       "tur": "eslestir",
+       "yonerge": "Akıl-inanç ilişkisi üzerine düşünen kişileri eserleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Tertullianus",
+         "De Carne Christi"
+        ],
+        [
+         "Augustinus",
+         "İtiraflar"
+        ],
+        [
+         "Kierkegaard",
+         "Korku ve Titreme"
+        ],
+        [
+         "Hacı Bektaş Veli",
+         "Makâlât"
+        ],
+        [
+         "Âşık Paşa",
+         "Garib-nâme"
+        ]
+       ],
+       "bilgi": "Hacı Bektaş Veli'ye göre gönül ile Tanrı arasında perde yoktur; Kierkegaard'a göre ise iman aklı aşan paradoksal bir durumdur.",
+       "sayfa": 93
+      },
+      {
+       "id": "3.2-14",
+       "tur": "secmeli",
+       "soru": "İnsanın Tanrı'yı kavramadaki zorluğunun, madde ve yoklukla karışmış aklımızın zayıflığından kaynaklandığını söyleyen filozof kimdir?",
+       "secenekler": [
+        "Gazali",
+        "Farabi",
+        "İbn Rüşd",
+        "Mevlana"
+       ],
+       "dogru": 1,
+       "bilgi": "Farabi El Medine'tül Fazıla'da, İlk Olan'ın aşırı mükemmelliğinin onu tam olarak tasavvur etmemize engel olduğunu belirtir.",
+       "sayfa": 91
+      },
+      {
+       "id": "3.2-15",
+       "tur": "secmeli",
+       "soru": "İbni Sina'ya göre evrendeki mümkün varlıkların var olmak için ihtiyaç duyduğu Tanrı nasıl nitelenir?",
+       "secenekler": [
+        "Zorunlu varlık",
+        "Mümkün varlık",
+        "İlk madde",
+        "Demiourgos"
+       ],
+       "dogru": 0,
+       "bilgi": "İbni Sina'ya göre Tanrı zorunlu varlıktır; bu yüzden Tanrı'nın varlığının kanıtlanmasında vahyin yanı sıra akıl da gereklidir.",
+       "sayfa": 99
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "ad": "Edebiyat ve Felsefe",
+   "konular": [
+    {
+     "no": "4.1",
+     "ad": "Edebiyat-Felsefe İlişkisi",
+     "kartlar": [
+      {
+       "id": "4.1-01",
+       "tur": "secmeli",
+       "soru": "Dilin yalnızca düşüncenin aracı olmadığını, aynı zamanda düşünceyi üreten ve ileriye taşıyan bir etkinlik olduğunu savunan düşünür kimdir?",
+       "secenekler": [
+        "Jacques Derrida",
+        "Nicolai Hartmann",
+        "Wilhelm von Humboldt",
+        "Iris Murdoch"
+       ],
+       "dogru": 2,
+       "bilgi": "Dil, edebiyat ve felsefenin ortak evrenidir; Humboldt'a göre düşünceyi üreten bir etkinliktir.",
+       "sayfa": 108
+      },
+      {
+       "id": "4.1-02",
+       "tur": "secmeli",
+       "soru": "İnsanın dünyayı kavrayış biçimini belirleyen ve edebiyat ile felsefenin ortak zeminini oluşturan sistem hangisidir?",
+       "secenekler": [
+        "Mantık",
+        "Dil",
+        "Estetik",
+        "Kültür"
+       ],
+       "dogru": 1,
+       "bilgi": "Dil yalnızca bir iletişim aracı değil, varlıkları ve anlamları şekillendiren bir sistemdir.",
+       "sayfa": 108
+      },
+      {
+       "id": "4.1-03",
+       "tur": "secmeli",
+       "soru": "Edebiyat ile felsefe arasındaki temel fark hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "Edebiyatta mantık, felsefede estetik öne çıkar.",
+        "Edebiyat soyut ve kavramsal, felsefe betimleyici bir dil kullanır.",
+        "Edebiyatta içerik, felsefede biçim daha önemlidir.",
+        "Edebiyatta estetik, felsefede mantık ve düşünce öne çıkar."
+       ],
+       "dogru": 3,
+       "bilgi": "Edebiyat okuyucuda estetik haz uyandırmayı amaçlar; felsefe ise düşündürür, sorgulatır ve doğruyu arar.",
+       "sayfa": 109
+      },
+      {
+       "id": "4.1-04",
+       "tur": "dy",
+       "ifade": "Bir eserin felsefi sayılabilmesi için mutlaka edebî değer taşıması gerekir.",
+       "dogru": false,
+       "bilgi": "Bir eserin felsefi olması için edebî değer taşıması gerekmez; önemli olan düşünsel ve mantıksal bir temele dayanmasıdır.",
+       "sayfa": 109
+      },
+      {
+       "id": "4.1-05",
+       "tur": "bosluk",
+       "cumle": "Felsefede içerik önemliyken edebiyatta ___ ve anlatımın ön plana çıktığı görülür.",
+       "cevap": "biçim",
+       "celdiriciler": [
+        "kavram",
+        "kanıt",
+        "mantık"
+       ],
+       "bilgi": "Filozoflar genellikle soyut ve kavramsal bir dil, edebiyatçılar ise duyguya hitap eden bir anlatım kullanır.",
+       "sayfa": 109
+      },
+      {
+       "id": "4.1-06",
+       "tur": "dy",
+       "ifade": "Yaratıcılık ile bütünlük ve tutarlılık, hem edebiyat hem de felsefe için önemli ölçütlerdir.",
+       "dogru": true,
+       "bilgi": "Her iki alan da bireysel çabanın ürünüdür; filozof yeni sorular ararken edebiyatçı özgün olmanın peşindedir.",
+       "sayfa": 109
+      },
+      {
+       "id": "4.1-07",
+       "tur": "eslestir",
+       "yonerge": "Biçim ve içerik ölçütlerini özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Akılcılık",
+         "Neden-sonuç ilişkisi ve kanıta dayalılık"
+        ],
+        [
+         "Metaforik",
+         "Benzetim ve mecazi anlatım"
+        ],
+        [
+         "Somut",
+         "Duyulara hitap eden, gerçeklik temelli anlatım"
+        ],
+        [
+         "Hayal gücü",
+         "Bilim kurgu ve fantastik eserlerdeki yeni kurgular"
+        ]
+       ],
+       "bilgi": "Eleştirel düşünme sorgulayıcı ve gerekçelere dayalıyken betimleyici anlatım ayrıntılı tasvir ve söz sanatları içerir.",
+       "sayfa": 110
+      },
+      {
+       "id": "4.1-08",
+       "tur": "secmeli",
+       "soru": "İnsanlar arasındaki ortaklaşa çalışma bağını sağlayanın dil olduğunu İnsan Felsefesi adlı eserinde belirten Türk düşünür kimdir?",
+       "secenekler": [
+        "Takiyettin Mengüşoğlu",
+        "Ahmet Hamdi Tanpınar",
+        "Özdemir Asaf",
+        "Bahaeddin Ögel"
+       ],
+       "dogru": 0,
+       "bilgi": "Mengüşoğlu'na göre insan, dil sayesinde başkalarının başarılarını öğrenir ve kendi başarılarıyla bağ kurar.",
+       "sayfa": 111
+      },
+      {
+       "id": "4.1-09",
+       "tur": "bosluk",
+       "cumle": "Edebiyat-felsefe kesişimi, “edebî unsurlara felsefi bakışın imkânı” ve “edebî unsurlarla ___ yapmanın imkânı” problemleriyle değerlendirilir.",
+       "cevap": "felsefe",
+       "celdiriciler": [
+        "sanat",
+        "bilim",
+        "eleştiri"
+       ],
+       "bilgi": "Felsefenin etki gücünün artmasında edebiyatın, edebiyatın derinlik ve kalıcılık kazanmasında felsefenin önemli rolü vardır.",
+       "sayfa": 113
+      },
+      {
+       "id": "4.1-10",
+       "tur": "secmeli",
+       "soru": "Sokrates'in, ruhumuzun bu dünyaya gelmeden önce de var olması gerektiğini Simmias'la tartıştığı Platon eseri hangisidir?",
+       "secenekler": [
+        "Phaidon",
+        "Devlet",
+        "Şölen",
+        "Sokrates'in Savunması"
+       ],
+       "dogru": 0,
+       "bilgi": "Platon eserlerini diyalog biçiminde yazmış ve felsefi düşünceyi diyaloglarla ortaya koymuştur.",
+       "sayfa": 111
+      }
+     ]
+    },
+    {
+     "no": "4.2",
+     "ad": "Edebî Unsurlara Felsefi Bakış",
+     "kartlar": [
+      {
+       "id": "4.2-01",
+       "tur": "eslestir",
+       "yonerge": "Edebî karakterleri yazarlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Odysseus",
+         "Homeros"
+        ],
+        [
+         "Gregor Samsa",
+         "Franz Kafka"
+        ],
+        [
+         "Raskolnikov",
+         "Fyodor Dostoyevski"
+        ],
+        [
+         "Don Kişot",
+         "Miguel de Cervantes"
+        ],
+        [
+         "Selim Işık",
+         "Oğuz Atay"
+        ]
+       ],
+       "bilgi": "Edebî karakterler yalnızca kurgu unsuru değil, belirli düşüncelerin ve varoluşsal sorunların ifadesidir.",
+       "sayfa": 114
+      },
+      {
+       "id": "4.2-02",
+       "tur": "secmeli",
+       "soru": "Dostoyevski'nin Raskolnikov karakteri hangi felsefi temayı temsil eder?",
+       "secenekler": [
+        "Suç ve vicdan",
+        "Yabancılaşma",
+        "Hayal ve gerçek çatışması",
+        "Akıl ve strateji"
+       ],
+       "dogru": 0,
+       "bilgi": "Odysseus akıl ve strateji, Don Kişot hayal ve gerçek çatışması, İnce Memed adalet, Selim Işık kimlik ve varoluş temasını yansıtır.",
+       "sayfa": 114
+      },
+      {
+       "id": "4.2-03",
+       "tur": "bosluk",
+       "cumle": "Kafka'nın Dönüşüm'deki Gregor Samsa karakteri ___ temasının metaforik bir anlatımıdır.",
+       "cevap": "yabancılaşma",
+       "celdiriciler": [
+        "adalet",
+        "suç ve vicdan",
+        "akıl ve strateji"
+       ],
+       "bilgi": "Dönüşüm'de bir sabah dev bir böceğe dönüşen Gregor Samsa, insanın kendine ve topluma yabancılaşmasını anlatır.",
+       "sayfa": 114
+      },
+      {
+       "id": "4.2-04",
+       "tur": "dy",
+       "ifade": "Edebî bir eserin felsefi nitelik taşıması zorunlu değildir ancak bu nitelik esere derinlik ve kalıcılık kazandırır.",
+       "dogru": true,
+       "bilgi": "Güçlü bir düşünsel altyapıya sahip edebî eserler okuyucuda düşünsel dönüşüm yaratarak daha kalıcı etki bırakır.",
+       "sayfa": 114
+      },
+      {
+       "id": "4.2-05",
+       "tur": "secmeli",
+       "soru": "Dünyayı anlama çabasının en eski örneği kabul edilen eser hangisidir?",
+       "secenekler": [
+        "Platon – Devlet",
+        "Homeros – İlyada",
+        "Platon – Şölen",
+        "Kierkegaard – Korku ve Titreme"
+       ],
+       "dogru": 1,
+       "bilgi": "İlk Çağ'da düşüncenin yazıya döküldüğü biçim şiirdir; diyaloglarla yazan Platon'un Devlet ve Şölen eserleri edebiyat tarihinde de değerlidir.",
+       "sayfa": 115
+      },
+      {
+       "id": "4.2-06",
+       "tur": "secmeli",
+       "soru": "Aynı zamanda Nobel Edebiyat Ödülü almış filozoflar hangi seçenekte birlikte verilmiştir?",
+       "secenekler": [
+        "Søren Kierkegaard, Friedrich Nietzsche, Martin Heidegger",
+        "Voltaire, Hartmann, Derrida",
+        "Bertrand Russell, Albert Camus, Jean Paul Sartre",
+        "Platon, Augustinus, Pascal"
+       ],
+       "dogru": 2,
+       "bilgi": "Camus ve Sartre, insan varoluşunun absürtlüğünü ve çıkmazlarını roman türünde yansıtan Fransız edebiyatı temsilcileridir.",
+       "sayfa": 115
+      },
+      {
+       "id": "4.2-07",
+       "tur": "dy",
+       "ifade": "Kierkegaard ve Nietzsche eserlerinde edebî dil yerine akademik ve kuru bir dil tercih etmiştir.",
+       "dogru": false,
+       "bilgi": "Kierkegaard ve Nietzsche akademik dil yerine edebî ve şiirsel bir dil seçmiş, sanatçı olma niteliğini seve seve kabul etmiştir.",
+       "sayfa": 115
+      },
+      {
+       "id": "4.2-08",
+       "tur": "bosluk",
+       "cumle": "Nietzsche'nin metaforik ve şiirsel diliyle öne çıkan eseri ___ adını taşır.",
+       "cevap": "Zerdüşt Böyle Buyurdu",
+       "celdiriciler": [
+        "Korku ve Titreme",
+        "Bulantı",
+        "Veba"
+       ],
+       "bilgi": "Korku ve Titreme'deki lirik anlatım ile Zerdüşt Böyle Buyurdu'daki şiirsel dil, yazarlarının daha çok okuyucuya ulaşmasını sağlamıştır.",
+       "sayfa": 115
+      },
+      {
+       "id": "4.2-09",
+       "tur": "eslestir",
+       "yonerge": "Filozofları edebiyat-felsefe ilişkisine dair görüşleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Voltaire",
+         "Hayatın amacı bilim ve sanatta ilerlemedir."
+        ],
+        [
+         "Nicolai Hartmann",
+         "Edebî eser real ve irreal yapıdan oluşur."
+        ],
+        [
+         "Iris Murdoch",
+         "Felsefe ve edebiyat moloz yığınından biçim yaratır."
+        ]
+       ],
+       "bilgi": "Hartmann'a göre sanat eseri bir objektivasyondur; Murdoch'a göre felsefe ve edebiyatın ortak amacı iyiyi ve gerçekliği anlamaktır.",
+       "sayfa": 116
+      },
+      {
+       "id": "4.2-10",
+       "tur": "secmeli",
+       "soru": "Yapısökümcülük yöntemini geliştiren ve anlamın sabit bir merkezden türemeyip bağlamla değiştiğini savunan düşünür kimdir?",
+       "secenekler": [
+        "Iris Murdoch",
+        "Jacques Derrida",
+        "Nicolai Hartmann",
+        "Voltaire"
+       ],
+       "dogru": 1,
+       "bilgi": "Derrida'ya göre felsefe ve edebiyat dilin kaygan zemini üzerine kuruludur ve bu nedenle birbirleriyle kesişebilir.",
+       "sayfa": 117
+      }
+     ]
+    },
+    {
+     "no": "4.3",
+     "ad": "Edebî Unsurlarla Felsefe Yapma",
+     "kartlar": [
+      {
+       "id": "4.3-01",
+       "tur": "eslestir",
+       "yonerge": "Filozofları kullandıkları metaforlarla eşleştir.",
+       "ciftler": [
+        [
+         "Platon",
+         "Mağara"
+        ],
+        [
+         "Descartes",
+         "Kötü cin"
+        ],
+        [
+         "John Locke",
+         "Tabula rasa"
+        ],
+        [
+         "Herakleitos",
+         "Irmak"
+        ],
+        [
+         "İbn Sina",
+         "Uçan adam"
+        ]
+       ],
+       "bilgi": "Filozoflar doğrudan ifade etmekte güçlük çektikleri karmaşık durumlarda metaforlara başvurur.",
+       "sayfa": 121
+      },
+      {
+       "id": "4.3-02",
+       "tur": "eslestir",
+       "yonerge": "Filozofları kullandıkları metaforlarla eşleştir.",
+       "ciftler": [
+        [
+         "David Hume",
+         "Bilardo topları"
+        ],
+        [
+         "Francis Bacon",
+         "Arı"
+        ],
+        [
+         "Karl Jaspers",
+         "Yol"
+        ],
+        [
+         "Aristoteles",
+         "Tohum ve ağaç"
+        ],
+        [
+         "Nietzsche",
+         "Aslan"
+        ]
+       ],
+       "bilgi": "Mevlana'nın “yanmak”, Unamuno'nun “sis” metaforları da düşünce tarihindeki metafor örneklerindendir.",
+       "sayfa": 121
+      },
+      {
+       "id": "4.3-03",
+       "tur": "secmeli",
+       "soru": "Düşünce tarihinde ironiyi ustaca kullanan filozoflar hangi seçenekte birlikte verilmiştir?",
+       "secenekler": [
+        "Descartes ve Locke",
+        "Hume ve Bacon",
+        "Sokrates ve Kierkegaard",
+        "Aristoteles ve İbn Sina"
+       ],
+       "dogru": 2,
+       "bilgi": "“Bildiğim tek şey hiçbir şey bilmediğimdir.” sözü Sokrates'in ironisine örnektir.",
+       "sayfa": 121
+      },
+      {
+       "id": "4.3-04",
+       "tur": "bosluk",
+       "cumle": "Okuyucuyu düşünmeye ve görünenin arkasına bakmaya teşvik eden edebî ve felsefi yönteme ___ denir.",
+       "cevap": "ironi",
+       "celdiriciler": [
+        "metafor",
+        "betimleme",
+        "tasvir"
+       ],
+       "bilgi": "Filozoflar betimleme, tasvir, metafor ve ironi gibi edebî yöntemlerle eserlerine hayat katar.",
+       "sayfa": 121
+      },
+      {
+       "id": "4.3-05",
+       "tur": "dy",
+       "ifade": "Mizaha felsefe alanında az rastlanır; bilgelik yüklü Nasrettin Hoca fıkraları ise felsefi sorgulamaya alan açar.",
+       "dogru": true,
+       "bilgi": "Günümüzde özellikle çocuklar için yapılan felsefe çalışmalarında mizaha başvurulur.",
+       "sayfa": 121
+      },
+      {
+       "id": "4.3-06",
+       "tur": "dy",
+       "ifade": "Felsefe, edebiyatta öncelikli olan estetik unsuru temel amaç edinir ve sözdeki güzelliği arar.",
+       "dogru": false,
+       "bilgi": "Felsefe sözdeki güzelliği değil hakikati ve doğruluğu amaçlar; bu yüzden estetik unsur felsefede geri planda kalır.",
+       "sayfa": 121
+      },
+      {
+       "id": "4.3-07",
+       "tur": "secmeli",
+       "soru": "“Mutluluk veren bilgi” anlamına gelen, 11. yüzyılda yazılmış ve adalet, akıl, mutluluk ile devlet yönetimini konu edinen eser hangisidir?",
+       "secenekler": [
+        "Atebetü'l-Hakâyık",
+        "Kutadgu Bilig",
+        "Garib-nâme",
+        "Makâlât"
+       ],
+       "dogru": 1,
+       "bilgi": "Kutadgu Bilig, Yûsuf Has Hâcib tarafından yazılmış ve Türk düşünce tarihi için büyük önem taşıyan bir eserdir.",
+       "sayfa": 123
+      },
+      {
+       "id": "4.3-08",
+       "tur": "bosluk",
+       "cumle": "Günümüze Hakikatlerin Eşiği olarak aktarılan ve ahlaki öğütler içeren ___ adlı eser Edip Ahmet Yükneki'ye aittir.",
+       "cevap": "Atebetü'l-Hakâyık",
+       "celdiriciler": [
+        "Kutadgu Bilig",
+        "Garib-nâme",
+        "Mesnevi"
+       ],
+       "bilgi": "Atebetü'l-Hakâyık ahlakın temel kavram ve problemlerini konu edinir; hadis ve ayetlerle desteklenir.",
+       "sayfa": 124
+      },
+      {
+       "id": "4.3-09",
+       "tur": "secmeli",
+       "soru": "Batı felsefe tarihinin dikkate değer ilk metni sayılan ve varlık, hiçlik, birlik, çokluk gibi temalara değinen eser hangisidir?",
+       "secenekler": [
+        "Homeros – İlyada",
+        "Platon – Sokrates'in Savunması",
+        "Hölderlin – Hyperion",
+        "Parmenides – Doğa Üzerine"
+       ],
+       "dogru": 3,
+       "bilgi": "Parmenides'in Peri Phuseus (Doğa Üzerine) adlı eserinde mitolojik bir yolculuk anlatılır.",
+       "sayfa": 123
+      },
+      {
+       "id": "4.3-10",
+       "tur": "secmeli",
+       "soru": "Sokrates'in gençleri yoldan çıkardığı suçlamasıyla Atina mahkemesinde yargılanışını konu edinen Platon eseri hangisidir?",
+       "secenekler": [
+        "Phaidon",
+        "Devlet",
+        "Sokrates'in Savunması",
+        "Şölen"
+       ],
+       "dogru": 2,
+       "bilgi": "Sokrates'in Savunması, Sokratik doğurtma ve ironi yönteminin güçlü bir yansımasıdır.",
+       "sayfa": 123
+      },
+      {
+       "id": "4.3-11",
+       "tur": "eslestir",
+       "yonerge": "Varoluşçu edebiyatın örneği sayılan eserleri yazarlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Dönüşüm",
+         "Franz Kafka"
+        ],
+        [
+         "Bulantı",
+         "Jean Paul Sartre"
+        ],
+        [
+         "Veba",
+         "Albert Camus"
+        ],
+        [
+         "Yeraltından Notlar",
+         "Fyodor Dostoyevski"
+        ]
+       ],
+       "bilgi": "Günlük biçiminde yazılan Bulantı, Sartre'ın ilk romanıdır ve varoluşçuluğun kült eserlerinden sayılır.",
+       "sayfa": 126
+      },
+      {
+       "id": "4.3-12",
+       "tur": "secmeli",
+       "soru": "Kierkegaard ile başlayıp Jaspers, Heidegger, Marcel, Sartre ve Camus ile belirgin karakter kazanan felsefe akımı hangisidir?",
+       "secenekler": [
+        "Yapısalcılık",
+        "Pozitivizm",
+        "Aydınlanma felsefesi",
+        "Varoluşçuluk"
+       ],
+       "dogru": 3,
+       "bilgi": "Varoluşçu felsefe insanın somut varoluşunu ve öznel tecrübelerini edebî dil, betimleme ve metaforla tasvir etmeye çalışır.",
+       "sayfa": 127
+      },
+      {
+       "id": "4.3-13",
+       "tur": "bosluk",
+       "cumle": "Heidegger'in deyimiyle dil, varlığın ___dir.",
+       "cevap": "evi",
+       "celdiriciler": [
+        "aynası",
+        "gölgesi",
+        "sınırı"
+       ],
+       "bilgi": "Dil her türlü düşüncenin ve varlığın zeminidir; her dile ait bir düşünce dünyası ve dünya görüşü bulunur.",
+       "sayfa": 131
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "ad": "Hayatın Anlamı",
+   "konular": [
+    {
+     "no": "5.1",
+     "ad": "Hayatın Anlamına Yönelik Felsefi Sorular ve Problemler",
+     "kartlar": [
+      {
+       "id": "5.1-01",
+       "tur": "eslestir",
+       "yonerge": "Düşünürleri hayatın anlamına ilişkin sözleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Epiküros",
+         "Haz, mutlu bir hayatın başı ve sonudur."
+        ],
+        [
+         "Dostoyevski",
+         "Yaşamın sırrı ne için yaşadığındadır."
+        ],
+        [
+         "Jean Paul Sartre",
+         "Hayatın önsel bir anlamı yoktur."
+        ],
+        [
+         "Kierkegaard",
+         "Yaşam geriye doğru anlaşılır, ileriye doğru yaşanır."
+        ]
+       ],
+       "bilgi": "Sartre'a göre hayata anlam kazandırmak insanın işidir; değer de insanın seçtiği anlamdan başka bir şey değildir.",
+       "sayfa": 139
+      },
+      {
+       "id": "5.1-02",
+       "tur": "dy",
+       "ifade": "Hayatın anlamına yönelik arayış, canlılar arasında yalnızca insana özgüdür.",
+       "dogru": true,
+       "bilgi": "Dünyadaki varoluş üzerine düşünmek varoluşun bir parçasıdır; bu arayış günümüzde daha yoğun ve zorlu bir süreçtir.",
+       "sayfa": 141
+      },
+      {
+       "id": "5.1-03",
+       "tur": "dy",
+       "ifade": "Hayatın anlamını yalnızca acı deneyimler yaşayan ya da umutsuzluğa düşen insanlar sorgular.",
+       "dogru": false,
+       "bilgi": "İnsan daha çok acı ve umutsuzluk karşısında hayatın anlamını sorgulasa da bütün hedeflerine ulaşmış mutlu bir insan da bunu sorgulayabilir.",
+       "sayfa": 141
+      },
+      {
+       "id": "5.1-04",
+       "tur": "secmeli",
+       "soru": "Hayatın anlamına yönelik arayışta insana destek daha çok hangi alanlardan gelir?",
+       "secenekler": [
+        "Sanat, spor ve ekonomi",
+        "Felsefe, din, bilim ve ahlak",
+        "Hukuk, siyaset ve tarih",
+        "Teknoloji, ticaret ve medya"
+       ],
+       "dogru": 1,
+       "bilgi": "İlahi dinlere göre evrendeki düzenin yaratıcısı Tanrı'dır; ahlak açısından ise hayatın anlamı iyi insan olmak üzerine şekillenir.",
+       "sayfa": 141
+      },
+      {
+       "id": "5.1-05",
+       "tur": "secmeli",
+       "soru": "Tüm hedefleri gerçekleşse bile mutlu olmayacağını fark edince hayatının temelinin yıkıldığını Otobiyografi'sinde anlatan düşünür kimdir?",
+       "secenekler": [
+        "Arthur Schopenhauer",
+        "Søren Kierkegaard",
+        "Albert Camus",
+        "John Stuart Mill"
+       ],
+       "dogru": 3,
+       "bilgi": "Mill'in deneyimi, hayatı anlamlı kılan bir amacın gerçekleşmesinin mutluluğu garanti etmediğini gösteren bir örnektir.",
+       "sayfa": 143
+      },
+      {
+       "id": "5.1-06",
+       "tur": "bosluk",
+       "cumle": "Mutluluğu insan eylemlerinin nihai amacı olarak gören felsefi anlayışa ___ denir.",
+       "cevap": "eudaimonizm",
+       "celdiriciler": [
+        "nihilizm",
+        "pesimizm",
+        "pozitivizm"
+       ],
+       "bilgi": "Antik Çağ'da yaygın olan eudaimonizm, düşünce tarihinin farklı dönemlerinde farklı biçimlerde ortaya çıkmıştır.",
+       "sayfa": 144
+      },
+      {
+       "id": "5.1-07",
+       "tur": "secmeli",
+       "soru": "Mutlulukla ayrılmaz bir bütün oluşturan “mutluluğun ortak değerleri” hangi seçenekte verilmiştir?",
+       "secenekler": [
+        "Güç, irade, istenç ve acı",
+        "Kaygı, ölüm, saçma ve umutsuzluk",
+        "İyi, hoş, güzel ve doğru",
+        "Konfor, refah, yarar ve başarı"
+       ],
+       "dogru": 2,
+       "bilgi": "Mutluluk; iyi, hoş, güzel ve doğru kavramlarıyla birlikte olan bir duygu, düşünce veya ruh hâli olarak değerlendirilmiştir.",
+       "sayfa": 144
+      },
+      {
+       "id": "5.1-08",
+       "tur": "bosluk",
+       "cumle": "Varoluş; var olmakta oluşu, ___ ve bir süreci ifade eder.",
+       "cevap": "bitmemişliği",
+       "celdiriciler": [
+        "değişmezliği",
+        "tamamlanmışlığı",
+        "kesinliği"
+       ],
+       "bilgi": "İnsan olmakta olan bir varlıktır; bu oluşun devamı ona özgürlük ve sorumluluk getirir.",
+       "sayfa": 144
+      },
+      {
+       "id": "5.1-09",
+       "tur": "dy",
+       "ifade": "Varoluş kavramı, insana ait önceden belirlenmiş bir özün varlığı düşüncesiyle tam bir uyum içindedir.",
+       "dogru": false,
+       "bilgi": "Var olma hâlinin devam edişi, insana ait önceden belirlenmiş bir özün varlığı düşüncesiyle çelişir.",
+       "sayfa": 144
+      },
+      {
+       "id": "5.1-10",
+       "tur": "secmeli",
+       "soru": "İnsanın kendisini diğer insanlardan farklı kılanı keşfetmesi ve kendine özgülüğe ulaşması hangi kavramla ifade edilir?",
+       "secenekler": [
+        "Kendi olma",
+        "Yabancılaşma",
+        "Ataraksiya",
+        "Eudaimonia"
+       ],
+       "dogru": 0,
+       "bilgi": "Kendilik, insanın iç ve dış dünyasıyla kurduğu anlamlı bütünlüğü ifade eder; “Beni ben yapan nedir?” sorusu sancılı bir keşif sürecidir.",
+       "sayfa": 145
+      }
+     ]
+    },
+    {
+     "no": "5.2",
+     "ad": "Mutluluk ve Hayat İlişkisi",
+     "kartlar": [
+      {
+       "id": "5.2-01",
+       "tur": "eslestir",
+       "yonerge": "Düşünce tarihindeki dönemleri öne çıkan mutluluk anlayışlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Antik Yunan",
+         "Haz ve erdem merkezli düşünceler"
+        ],
+        [
+         "Orta Çağ",
+         "Ebedî mutluluk (öteki dünya) anlayışı"
+        ],
+        [
+         "Yeni Çağ",
+         "Toplumun mutluluğu düşüncesi"
+        ],
+        [
+         "Çağdaş Dönem",
+         "Mutluluk olasılığının sorgulanması ve pesimizm"
+        ]
+       ],
+       "bilgi": "Mutluluğa dair yanıtlar çoğunlukla haz, erdem ve yarar ölçütleri ekseninde öne sürülmüştür.",
+       "sayfa": 147
+      },
+      {
+       "id": "5.2-02",
+       "tur": "bosluk",
+       "cumle": "Mutluluk felsefesinde ruh dinginliğine ___ denir.",
+       "cevap": "ataraksiya",
+       "celdiriciler": [
+        "eudaimonia",
+        "daimon",
+        "decadence"
+       ],
+       "bilgi": "Daimon insanı daha yüksek bir yaşama erdiren gücü, kâmil insan ise Yaradan'a ulaşma yolunda olgunlaşmış insanı ifade eder.",
+       "sayfa": 147
+      },
+      {
+       "id": "5.2-03",
+       "tur": "secmeli",
+       "soru": "Sokrates'in, mutluluğu kaybetme tehlikesine karşı uyarıcı rolüyle açığa çıktığını belirttiği iç sesi hangisidir?",
+       "secenekler": [
+        "Logos",
+        "Daimon",
+        "Ataraksiya",
+        "Arkhe"
+       ],
+       "dogru": 1,
+       "bilgi": "Sokrates mutluluğu erdem, erdemi de bilgelik üzerine kurar; ona göre kötülüğün nedeni bilgisizliktir.",
+       "sayfa": 148
+      },
+      {
+       "id": "5.2-04",
+       "tur": "secmeli",
+       "soru": "“Kendin için ne istiyorsan başkası için de onu iste.” sözüyle bilinen ve gerçek mutluluğun temeline erdemli yaşamayı koyan Uzak Doğu düşünürü kimdir?",
+       "secenekler": [
+        "Lao Tse",
+        "Mencius",
+        "Konfüçyüs",
+        "Epiktetos"
+       ],
+       "dogru": 2,
+       "bilgi": "Konfüçyüs'e göre insanın mutluluğu kendi elindedir; mutluluk ruhun doğruluk ve adalete dayanan ölçülü ve ahenkli hâlidir.",
+       "sayfa": 148
+      },
+      {
+       "id": "5.2-05",
+       "tur": "secmeli",
+       "soru": "İnsan ne kadar az şeye bağlanır ve az şeyle idare ederse o kadar mutlu olacağını savunan Sokratesçi okul hangisidir?",
+       "secenekler": [
+        "Kynikler",
+        "Kyreneliler",
+        "Stoacılar",
+        "Epikürcüler"
+       ],
+       "dogru": 0,
+       "bilgi": "Kyniklere göre mutluluk sade ve erdemli yaşamaya bağlıdır; Kyrenelilere göre ise hazzı sağlayan iyi, acı veren kötüdür.",
+       "sayfa": 148
+      },
+      {
+       "id": "5.2-06",
+       "tur": "secmeli",
+       "soru": "İnsanı tiyatro sahnesindeki oyuncuya benzeten ve ona düşenin rolünü en iyi şekilde oynamak olduğunu söyleyen Geç Stoa filozofu kimdir?",
+       "secenekler": [
+        "Epiküros",
+        "Sokrates",
+        "Augustinus",
+        "Epiktetos"
+       ],
+       "dogru": 3,
+       "bilgi": "Epiktetos'a göre insan kendi elinde olmayan şeyler için kaygı duymamalı, dış koşullardan bağımsız içsel bir özgürlük kazanmalıdır.",
+       "sayfa": 149
+      },
+      {
+       "id": "5.2-07",
+       "tur": "bosluk",
+       "cumle": "Epiktetos'un kayaya kazıdığı “Hür İnsan Üzerine Bir Şiir”, Isparta'daki ___ bölgesinde bulunur.",
+       "cevap": "Yazılı Kanyon",
+       "celdiriciler": [
+        "Kapadokya",
+        "Pamukkale",
+        "Sagalassos"
+       ],
+       "bilgi": "Bölge, Epiktetos'un kayaya kazıdığı yazılar nedeniyle Yazılı Kanyon olarak adlandırılır.",
+       "sayfa": 149
+      },
+      {
+       "id": "5.2-08",
+       "tur": "dy",
+       "ifade": "Augustinus'a göre gerçek mutluluk, insanın maddi hazlarını sınırsızca yaşamasıyla mümkündür.",
+       "dogru": false,
+       "bilgi": "Augustinus'a göre gerçek mutluluk, insanın Tanrı'yı aklı ve kalbiyle sevmesiyle mümkündür; mutlu yaşam hakikate dayalı sevinçtir.",
+       "sayfa": 150
+      },
+      {
+       "id": "5.2-09",
+       "tur": "secmeli",
+       "soru": "Mutluluğu ruhun maddeye ihtiyaç duymayacağı mükemmellik derecesine ulaşması olarak tanımlayan İslam filozofu kimdir?",
+       "secenekler": [
+        "Farabi",
+        "İbni Miskeveyh",
+        "Yûsuf Has Hâcib",
+        "Gazali"
+       ],
+       "dogru": 0,
+       "bilgi": "Farabi'ye göre herkes gerçek mutluluğa ulaşamaz; toplumda gerçek mutluluğu bilen yönetici diğerlerine kılavuzluk eder.",
+       "sayfa": 151
+      },
+      {
+       "id": "5.2-10",
+       "tur": "secmeli",
+       "soru": "Genel ve özel mutluluk ayrımı yapan ve ortak mutluluğa ulaşılmadıkça özel mutluluğa erişilemeyeceğini savunan düşünür kimdir?",
+       "secenekler": [
+        "Farabi",
+        "İbni Miskeveyh",
+        "İbni Sina",
+        "Yûsuf Has Hâcib"
+       ],
+       "dogru": 1,
+       "bilgi": "İbni Miskeveyh'e göre ahlaki erdemler, insanın nihai amacı olan mutluluğa erişmesinin en önemli araçlarıdır.",
+       "sayfa": 151
+      },
+      {
+       "id": "5.2-11",
+       "tur": "dy",
+       "ifade": "Yûsuf Has Hâcib sonsuz mutluluğu ahiret hayatına bağlar ve bilginin insanı iyiliğe, iyiliğin de mutluluğa götürdüğünü söyler.",
+       "dogru": true,
+       "bilgi": "Yûsuf Has Hâcib'e göre bilgelik, doğruluk, alçakgönüllülük ve ölçülülük gibi erdemler iki dünya mutluluğunun koşuludur.",
+       "sayfa": 152
+      },
+      {
+       "id": "5.2-12",
+       "tur": "secmeli",
+       "soru": "Kötümser bir yaşam öğretisiyle acının nedenini arzu, acıdan kurtulmanın yolunu istencin yadsınması olarak gören filozof kimdir?",
+       "secenekler": [
+        "Friedrich Nietzsche",
+        "Søren Kierkegaard",
+        "Arthur Schopenhauer",
+        "Epiktetos"
+       ],
+       "dogru": 2,
+       "bilgi": "Schopenhauer'a göre istemek yaşamak, yaşamak ise ıstırap çekmektir; her tatmin yeni bir yoksunluk doğurur.",
+       "sayfa": 152
+      },
+      {
+       "id": "5.2-13",
+       "tur": "bosluk",
+       "cumle": "Schopenhauer, ahlaki değerde bir eylemin ölçütü olarak gördüğü ___ etiğin esrarı olarak niteler.",
+       "cevap": "merhameti",
+       "celdiriciler": [
+        "adaleti",
+        "bilgeliği",
+        "cesareti"
+       ],
+       "bilgi": "Schopenhauer'a göre merhamet karşıdakine acımak değil, onun acısına ortak olmaktır.",
+       "sayfa": 152
+      }
+     ]
+    },
+    {
+     "no": "5.3",
+     "ad": "Varoluş ve Kendi Olma Problemi",
+     "kartlar": [
+      {
+       "id": "5.3-01",
+       "tur": "secmeli",
+       "soru": "Dünya savaşlarını izleyen yıllarda hayatın anlamına ve varoluşa yönelik sorgulayışı barındıran çağdaş felsefe akımı hangisidir?",
+       "secenekler": [
+        "Pozitivizm",
+        "Rasyonalizm",
+        "Varoluşçuluk",
+        "İdealizm"
+       ],
+       "dogru": 2,
+       "bilgi": "Varoluşçuluk pozitivizm, rasyonalizm ve idealizme eleştirel yaklaşır; insanı somut ve bireysel bir varlık olarak görür.",
+       "sayfa": 154
+      },
+      {
+       "id": "5.3-02",
+       "tur": "dy",
+       "ifade": "Varoluşçuluk, insanın yalnızca düşünen bir varlık olarak ele alınmasını savunur.",
+       "dogru": false,
+       "bilgi": "Varoluşçuluk, insanın düşünen varlık oluşunun öne çıkarılıp duygu varlığı oluşunun göz ardı edilmesine karşı çıkar.",
+       "sayfa": 154
+      },
+      {
+       "id": "5.3-03",
+       "tur": "secmeli",
+       "soru": "Kierkegaard'a göre bireyin önündeki üç varoluş alanı hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "Akıl, irade ve duygu",
+        "Haz, erdem ve yarar",
+        "Estetik, etik ve dinî",
+        "Real, irreal ve ideal"
+       ],
+       "dogru": 2,
+       "bilgi": "Birey karşılaştığı kritik durumlarda yaptığı özgür seçimlerle estetik, etik ve dinî varoluş alanlarına dâhil olur.",
+       "sayfa": 156
+      },
+      {
+       "id": "5.3-04",
+       "tur": "dy",
+       "ifade": "Kierkegaard'a göre varoluş, kolayca anlatılabilen ve başkalarına iletilebilen bir niteliktedir.",
+       "dogru": false,
+       "bilgi": "Kierkegaard'a göre varoluş değişken, belirsiz, öznel ve içseldir; anlatılamaz, iletilemez, yalnızca tasvir edilebilir.",
+       "sayfa": 156
+      },
+      {
+       "id": "5.3-05",
+       "tur": "bosluk",
+       "cumle": "Nietzsche, insanı yücelten değerlerin zamanla yozlaşmasını ve yaşam enerjisinin azalmasını ___ (çöküş) kavramıyla açıklar.",
+       "cevap": "decadence",
+       "celdiriciler": [
+        "dasein",
+        "das man",
+        "ataraksiya"
+       ],
+       "bilgi": "Nietzsche insan yaşamının temeline güç istencini koyar; yeni değerler oluşturan kişiyi üst insan olarak adlandırır.",
+       "sayfa": 156
+      },
+      {
+       "id": "5.3-06",
+       "tur": "secmeli",
+       "soru": "Heidegger'e göre gerçek benliğini açığa çıkaramamış, kendi olamamış insana ne ad verilir?",
+       "secenekler": [
+        "Dasein",
+        "Das man",
+        "Üst insan",
+        "Kâmil insan"
+       ],
+       "dogru": 1,
+       "bilgi": "Dasein olanaklarını gerçekleştirme yolunda ilerleyen varlıktır; olasılıklar karşısında duyduğu kaygı onu harekete geçirir.",
+       "sayfa": 157
+      },
+      {
+       "id": "5.3-07",
+       "tur": "eslestir",
+       "yonerge": "Varoluşçu düşünürleri öne çıkan kavram ve sözleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Kierkegaard",
+         "“Ya/ya da” ikilemi"
+        ],
+        [
+         "Nietzsche",
+         "Güç istenci"
+        ],
+        [
+         "Albert Camus",
+         "Absürt (saçma)"
+        ],
+        [
+         "Jean Paul Sartre",
+         "“Başkaları cehennemdir.”"
+        ]
+       ],
+       "bilgi": "Varoluşçular kendi olma problemini yalnızlık, kaygı, umutsuzluk, yabancılaşma ve saçma gibi varoluşsal olgularla açıklar.",
+       "sayfa": 158
+      },
+      {
+       "id": "5.3-08",
+       "tur": "secmeli",
+       "soru": "“Varoluş özden önce gelir.” sözüyle insanın özgür ve sorumlu olduğunu vurgulayan ve insanın seçmeme özgürlüğü olmadığını savunan filozof kimdir?",
+       "secenekler": [
+        "Jean Paul Sartre",
+        "Albert Camus",
+        "Martin Heidegger",
+        "Søren Kierkegaard"
+       ],
+       "dogru": 0,
+       "bilgi": "Sartre'a göre insan kendi tasarısından başka bir şey değildir; seçim ve eylemlerinin toplamından ibarettir.",
+       "sayfa": 158
+      },
+      {
+       "id": "5.3-09",
+       "tur": "bosluk",
+       "cumle": "Sartre'a göre seçimlerin tam olarak doğrulanamayışından ve herkese karşı duyulan sorumluluktan kaynaklanan iç sıkıntısına ___ denir.",
+       "cevap": "bunaltı",
+       "celdiriciler": [
+        "decadence",
+        "ataraksiya",
+        "umut"
+       ],
+       "bilgi": "Sartre'a göre seçimlere dayanacak manevi değerler yoktur; tek dayanak kişinin kendisidir.",
+       "sayfa": 158
+      },
+      {
+       "id": "5.3-10",
+       "tur": "dy",
+       "ifade": "Camus'ye göre hayatı insan için saçma kılan şeyler monotonluk, mekaniklik ve geleceğin değiştirilemez oluşudur.",
+       "dogru": true,
+       "bilgi": "Camus'ye göre dünya bilinçli insanın beklentisine cevap veremez; ölümün kesinliği hayatın saçmalığını derinleştirir.",
+       "sayfa": 158
+      },
+      {
+       "id": "5.3-11",
+       "tur": "secmeli",
+       "soru": "Camus'ye göre absürt ile yaşamayı öğrenen dört tip insandan “yeni değerler oluşturan tip” hangisidir?",
+       "secenekler": [
+        "Don Juan",
+        "Aktör",
+        "Fatih",
+        "Yaratıcı sanatçı"
+       ],
+       "dogru": 3,
+       "bilgi": "Camus'nün tipleri: Don Juan (seven), Aktör (rol yapan), Fatih (mücadele eden) ve Yaratıcı sanatçı (yeni değerler oluşturan).",
+       "sayfa": 158
+      },
+      {
+       "id": "5.3-12",
+       "tur": "bosluk",
+       "cumle": "Olimpos tanrıları tarafından sonsuza dek bir kayayı dağın tepesine çıkarmaya mahkûm edilen ve saçma döngüyü simgeleyen figür ___'tur.",
+       "cevap": "Sisifos",
+       "celdiriciler": [
+        "Prometheus",
+        "Odysseus",
+        "Tantalos"
+       ],
+       "bilgi": "Sisifos Efsanesi'nde Sisifos, kendisine dayatılan saçmalığı kabul etmeyi reddederek isyan eder.",
+       "sayfa": 162
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "ad": "Hukuk ve Felsefe",
+   "konular": [
+    {
+     "no": "6.1",
+     "ad": "Hukuk ve İnsan",
+     "kartlar": [
+      {
+       "id": "6.1-01",
+       "tur": "secmeli",
+       "soru": "Bir toplumun üyesi olmaktan kaynaklanan ve bireye sonradan verilen haklara ne ad verilir?",
+       "secenekler": [
+        "Doğal haklar",
+        "Yasal haklar",
+        "Temel haklar",
+        "Evrensel haklar"
+       ],
+       "dogru": 1,
+       "bilgi": "Doğal haklar insanın varoluşundan kaynaklanır; yasal haklar ise toplum üyeliğinden doğar ve sonradan verilir.",
+       "sayfa": 172
+      },
+      {
+       "id": "6.1-02",
+       "tur": "dy",
+       "ifade": "Doğal haklar, devlet tarafından sonradan tanınan ve gerektiğinde başkasına devredilebilen haklardır.",
+       "dogru": false,
+       "bilgi": "Doğal haklar, insanın varoluşundan kaynaklanan vazgeçilemez ve devredilemez temel haklardır.",
+       "sayfa": 172
+      },
+      {
+       "id": "6.1-03",
+       "tur": "bosluk",
+       "cumle": "Bireyin başkalarına zarar vermeden kendi iradesiyle düşünme, karar verme ve davranabilme durumuna ___ denir.",
+       "cevap": "özgürlük",
+       "celdiriciler": [
+        "hak",
+        "hakkaniyet",
+        "yasa"
+       ],
+       "bilgi": "Hak, bireylere tanınan ve belirli davranışlarda bulunmalarını sağlayan yetkidir; hak ve özgürlükler hukukla korunur.",
+       "sayfa": 172
+      },
+      {
+       "id": "6.1-04",
+       "tur": "dy",
+       "ifade": "Hak ve özgürlükler sınırsız değildir; özgürlüğün sınırını kanunlar belirler.",
+       "dogru": true,
+       "bilgi": "Kişinin hakkı, başkasının hakkına saygı duyma yükümlülüğünü de gerektirir.",
+       "sayfa": 172
+      },
+      {
+       "id": "6.1-05",
+       "tur": "eslestir",
+       "yonerge": "Hak ve özgürlük mücadelesinin öncülerini tanıtıcı bilgileriyle eşleştir.",
+       "ciftler": [
+        [
+         "Mahatma Gandhi",
+         "Hindistan için şiddete karşı barışçıl mücadele"
+        ],
+        [
+         "Nelson Mandela",
+         "Güney Afrika'nın ilk siyahi cumhurbaşkanı"
+        ],
+        [
+         "Malcolm X",
+         "ABD'de siyahilerin hakları için mücadele eden aktivist"
+        ]
+       ],
+       "bilgi": "Hak ve özgürlük mücadelelerinin ortak amacı temel haklara ulaşmak ve adil, eşit bir düzen kurmaktır.",
+       "sayfa": 173
+      },
+      {
+       "id": "6.1-06",
+       "tur": "bosluk",
+       "cumle": "Mahatma Gandhi, ___ yılında gerçekleştirdiği Tuz Yürüyüşü ile büyük etki yaratmıştır.",
+       "cevap": "1930",
+       "celdiriciler": [
+        "1919",
+        "1947",
+        "1956"
+       ],
+       "bilgi": "Gandhi, Hindistan'ın İngiliz sömürüsünden kurtuluşu için mücadele eden siyasi ve ruhani bir liderdir.",
+       "sayfa": 173
+      },
+      {
+       "id": "6.1-07",
+       "tur": "secmeli",
+       "soru": "Medine'de Müslümanlar, Yahudiler ve farklı kabileler arasında barışı sağlamak için hazırlatılan ve ilk toplumsal sözleşmelerden sayılan belge hangisidir?",
+       "secenekler": [
+        "Magna Carta",
+        "Veda Hutbesi",
+        "Hammurabi Kanunları",
+        "Medine Sözleşmesi"
+       ],
+       "dogru": 3,
+       "bilgi": "Medine Sözleşmesi (622-624), Hz. Muhammed (sav) tarafından hicretten sonra adaletsizlikleri gidermek için hazırlatılmıştır.",
+       "sayfa": 173
+      },
+      {
+       "id": "6.1-08",
+       "tur": "secmeli",
+       "soru": "1995'te Ratko Mladiç komutasındaki Sırp askerlerinin 8000'den fazla Boşnak'ı öldürdüğü soykırım nerede gerçekleşmiştir?",
+       "secenekler": [
+        "Saraybosna",
+        "Srebrenitsa",
+        "Mostar",
+        "Kosova"
+       ],
+       "dogru": 1,
+       "bilgi": "Srebrenitsa'da işlenen bu soykırım insanlığa karşı bir savaş suçudur.",
+       "sayfa": 174
+      },
+      {
+       "id": "6.1-09",
+       "tur": "secmeli",
+       "soru": "Doğal hukuk ile pozitif hukuk arasındaki tartışmayı konu edinen, hukukun doğasına ilişkin felsefi problem hangisidir?",
+       "secenekler": [
+        "Hukukun gereği ve önemi",
+        "Ahlak-hukuk ilişkisi",
+        "Hukukun kaynağı",
+        "Suç-ceza ilişkisi"
+       ],
+       "dogru": 2,
+       "bilgi": "Hukukun doğasına ilişkin üç felsefi problem: hukukun gereği ve önemi, hukukun kaynağı ve ahlak-hukuk ilişkisi.",
+       "sayfa": 175
+      },
+      {
+       "id": "6.1-10",
+       "tur": "secmeli",
+       "soru": "Temelde insan için ortaya çıkan hukuk, zamanla hangi ilişkileri de kapsayacak biçimde genişlemiştir?",
+       "secenekler": [
+        "İnsanın doğa ve diğer canlılarla ilişkilerini",
+        "Yalnızca devletlerin iç işleyişini ve kurumlarını",
+        "Yalnızca aile içi ilişkileri",
+        "Yalnızca ticari sözleşmeleri"
+       ],
+       "dogru": 0,
+       "bilgi": "Hukuk bireyler arasındaki ilişkilerin yanı sıra farklı toplumların ilişkilerini de uluslararası sözleşmelerle düzenler.",
+       "sayfa": 172
+      }
+     ]
+    },
+    {
+     "no": "6.2",
+     "ad": "Hukukun Gereği ve Önemi",
+     "kartlar": [
+      {
+       "id": "6.2-01",
+       "tur": "eslestir",
+       "yonerge": "Medeniyetleri kanunları belirleyen otoriteyle eşleştir.",
+       "ciftler": [
+        [
+         "Atina şehir devleti",
+         "Erkek yurttaşların katıldığı halk meclisi"
+        ],
+        [
+         "Çin (20. yüzyıla kadar)",
+         "İmparator"
+        ],
+        [
+         "Orta Çağ Avrupası",
+         "Kral ve kilise"
+        ],
+        [
+         "Osmanlı Devleti",
+         "Padişah (Divân-ı Hümâyun)"
+        ]
+       ],
+       "bilgi": "Osmanlı'da kanunlar dinî ve örfi gelenek gözetilerek padişah tarafından belirlenir, Divân-ı Hümâyunda düzenlenirdi.",
+       "sayfa": 176
+      },
+      {
+       "id": "6.2-02",
+       "tur": "secmeli",
+       "soru": "Farklı fiziki ortamların farklı yaşam biçimlerine, bunların da farklı hukuk sistemlerine yol açtığını belirten düşünür kimdir?",
+       "secenekler": [
+        "Montesquieu",
+        "Jean-Jacques Rousseau",
+        "John Locke",
+        "Thomas Hobbes"
+       ],
+       "dogru": 0,
+       "bilgi": "Hukuk kavramsal ve ilkesel olarak evrensel olsa da içeriğini oluşturan kurallar kültürden kültüre değişir.",
+       "sayfa": 176
+      },
+      {
+       "id": "6.2-03",
+       "tur": "dy",
+       "ifade": "Hukukun içeriğini oluşturan kurallar bütün kültürlerde aynıdır.",
+       "dogru": false,
+       "bilgi": "Hukuk ilkesel olarak evrensel bir nitelik taşır ancak içeriğini oluşturan kurallar kültürden kültüre değişir.",
+       "sayfa": 176
+      },
+      {
+       "id": "6.2-04",
+       "tur": "bosluk",
+       "cumle": "Hukukun uygulanışı mekanik değil ___ bir süreçtir; bu yüzden farklı durumlarda hakkaniyetin sağlanması önemlidir.",
+       "cevap": "insani",
+       "celdiriciler": [
+        "teknik",
+        "otomatik",
+        "bürokratik"
+       ],
+       "bilgi": "Ölçülülük ve hakkaniyet ilkeleri gözetilerek toplumun ortak iyiliğine ulaşmak hukukun asgari amacıdır.",
+       "sayfa": 177
+      },
+      {
+       "id": "6.2-05",
+       "tur": "secmeli",
+       "soru": "Çağdaş toplumlarda kanunları genellikle hangi organ yapar?",
+       "secenekler": [
+        "Kral ve kilise",
+        "Mahkemeler",
+        "Seçimle oluşturulan parlamento",
+        "Bütün yurttaşların katıldığı halk meclisi"
+       ],
+       "dogru": 2,
+       "bilgi": "Kanun teklifi parlamentoda oy çokluğuyla kabul edilir ve cumhurbaşkanlığınca onaylanır; cumhurbaşkanlığının sınırlı bir veto hakkı vardır.",
+       "sayfa": 177
+      },
+      {
+       "id": "6.2-06",
+       "tur": "dy",
+       "ifade": "Atatürk'ün 1920'de açılışını yaptığı TBMM, “Egemenlik kayıtsız şartsız milletindir.” ilkesi üzerine kurulmuştur.",
+       "dogru": true,
+       "bilgi": "Kanun teklifleri halkın seçtiği milletvekillerince parlamentoya sunulur ve oy çokluğuyla kabul edilir.",
+       "sayfa": 177
+      },
+      {
+       "id": "6.2-07",
+       "tur": "eslestir",
+       "yonerge": "İnsan haklarının tarihsel gelişimindeki belgeleri tarihleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Hammurabi Kanunları",
+         "MÖ 1760 (civarı)"
+        ],
+        [
+         "Veda Hutbesi",
+         "632"
+        ],
+        [
+         "Magna Carta",
+         "1215"
+        ],
+        [
+         "Fransız İnsan ve Yurttaş Hakları Bildirgesi",
+         "1789"
+        ],
+        [
+         "İnsan Hakları Evrensel Bildirgesi",
+         "10 Aralık 1948"
+        ]
+       ],
+       "bilgi": "İnsan haklarının gelişiminde Kiros Silindiri (MÖ 539), İngiliz Hakları Beyannamesi (1689) ve Virginia Haklar Beyannamesi (1776) de yer alır.",
+       "sayfa": 178
+      },
+      {
+       "id": "6.2-08",
+       "tur": "secmeli",
+       "soru": "Hukukun, ölçülülük ve hakkaniyet ilkelerini gözeterek ulaşması gereken asgari amaç nedir?",
+       "secenekler": [
+        "Toplumun ortak iyiliği",
+        "Devletin gücünün artırılması",
+        "Tarafların her zaman tam memnuniyeti",
+        "Yasaların mekanik biçimde uygulanması"
+       ],
+       "dogru": 0,
+       "bilgi": "Bir denge işi olan hukukun tarafların memnuniyetini her zaman sağlaması güçtür; asgari amaç toplumun ortak iyiliğidir.",
+       "sayfa": 177
+      },
+      {
+       "id": "6.2-09",
+       "tur": "secmeli",
+       "soru": "Avam Kamarası ve Lordlar Kamarasından oluşan çift meclisli bir parlamentoya sahip ülke hangisidir?",
+       "secenekler": [
+        "İngiltere",
+        "Fransa",
+        "Türkiye",
+        "Almanya"
+       ],
+       "dogru": 0,
+       "bilgi": "İngiltere'de yasama gücü halk tarafından seçilen Avam Kamarasındadır; Fransız parlamentosu ise 1958'de Charles de Gaulle öncülüğünde son hâlini almıştır.",
+       "sayfa": 177
+      }
+     ]
+    },
+    {
+     "no": "6.3",
+     "ad": "Hukukun Kaynağı",
+     "kartlar": [
+      {
+       "id": "6.3-01",
+       "tur": "bosluk",
+       "cumle": "1215'te Kral John ile soylular arasında imzalanan ve kral bile olsa kimsenin yasaların üstünde olamayacağını duyuran belge ___'dır.",
+       "cevap": "Magna Carta",
+       "celdiriciler": [
+        "Veda Hutbesi",
+        "Kiros Silindiri",
+        "Medine Sözleşmesi"
+       ],
+       "bilgi": "Magna Carta'da hiçbir gücün temel hakları çiğneyemeyeceği yönünde karar alınması doğal hukukun varlığını ve meşruluğunu gösterir.",
+       "sayfa": 179
+      },
+      {
+       "id": "6.3-02",
+       "tur": "secmeli",
+       "soru": "Hukukun kaynağını doğanın düzeninde bulan ve bu kaynağın evrensel ahlaki ilkelerden türetildiğine inanan anlayış hangisidir?",
+       "secenekler": [
+        "Pozitif hukuk",
+        "Doğal hukuk",
+        "Yasal hukuk",
+        "Örf hukuku"
+       ],
+       "dogru": 1,
+       "bilgi": "Doğal hukukta hukuka temel olan ahlaki gerçeklerin akıl ve vicdan yoluyla keşfedileceği düşünülür.",
+       "sayfa": 179
+      },
+      {
+       "id": "6.3-03",
+       "tur": "dy",
+       "ifade": "Pozitif hukuk anlayışına göre hukukun kaynağı, akıl ve vicdanla keşfedilen evrensel ahlaki ilkelerdir.",
+       "dogru": false,
+       "bilgi": "Pozitif hukukta hukukun kaynağı insan iradesi veya otoritesidir; hukuk devletçe resmî olarak yürürlüğe girmesiyle geçerlilik kazanır.",
+       "sayfa": 179
+      },
+      {
+       "id": "6.3-04",
+       "tur": "secmeli",
+       "soru": "Doğal ve pozitif hukuk anlayışlarının öne çıktığı dönemler hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "Doğal hukuk Aydınlanma'da, pozitif hukuk Orta Çağ ve Rönesans'ta",
+        "Doğal hukuk Rönesans'ta, pozitif hukuk İlk Çağ'da",
+        "Doğal hukuk İlk-Orta Çağ'da, pozitif hukuk Rönesans-Aydınlanma'da",
+        "İkisi de yalnızca 20. yüzyıl hukuk sistemlerinde doğmuştur"
+       ],
+       "dogru": 2,
+       "bilgi": "Pozitif hukuk, modern ulus devletlerin ve hukuk sistemlerinin ortaya çıkışıyla Rönesans ve Aydınlanma Dönemi'nde başlamıştır.",
+       "sayfa": 179
+      },
+      {
+       "id": "6.3-05",
+       "tur": "dy",
+       "ifade": "Günümüzde pozitif hukuk güçlense de doğal hukuk geçerliliğini tamamen yitirmemiştir.",
+       "dogru": true,
+       "bilgi": "Pozitif hukuk, zorunlu olmamakla birlikte doğal hukuku temel alır.",
+       "sayfa": 179
+      },
+      {
+       "id": "6.3-06",
+       "tur": "eslestir",
+       "yonerge": "Filozofları hukukun kaynağına ilişkin görüşleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Aristoteles",
+         "Yasalar yetersiz kalınca hakkaniyet devreye girer."
+        ],
+        [
+         "Thomas Hobbes",
+         "Doğuştan sosyal olmayan insan barış için devlet kurar."
+        ],
+        [
+         "John Locke",
+         "Doğa durumunda adalet, eşitlik ve özgürlük hâkimdir."
+        ],
+        [
+         "Jean-Jacques Rousseau",
+         "Modernleşme insanlar arası eşitsizlikleri artırmıştır."
+        ]
+       ],
+       "bilgi": "Aristoteles'in hukuk anlayışı, doğal hukuk ile pozitif hukuku birlikte değerlendirmesi bakımından önemlidir.",
+       "sayfa": 181
+      },
+      {
+       "id": "6.3-07",
+       "tur": "secmeli",
+       "soru": "Hobbes'tan önce insanların doğal bencilliğinin siyasal ve toplumsal hayattaki işlevine değinen düşünür kimdir?",
+       "secenekler": [
+        "Farabi",
+        "İbni Miskeveyh",
+        "Montesquieu",
+        "İbn Haldun"
+       ],
+       "dogru": 3,
+       "bilgi": "İbn Haldun'a göre doğa karşısında yalnız olan insanı ihtiyaçları toplum kurmaya, düzen ihtiyacı da kanun oluşturmaya yöneltir.",
+       "sayfa": 181
+      },
+      {
+       "id": "6.3-08",
+       "tur": "bosluk",
+       "cumle": "Rousseau'ya göre insan, sosyal sözleşmeyle doğal özgürlüğünü yitirmiş; bunun yerine ___ özgürlüğe ve mülkiyet hakkına kavuşmuştur.",
+       "cevap": "medeni",
+       "celdiriciler": [
+        "sınırsız",
+        "doğal",
+        "ahlaki"
+       ],
+       "bilgi": "Sosyal sözleşmeyle insan, elde edebileceği her şey üzerindeki sınırsız hakkını yitirmiştir.",
+       "sayfa": 181
+      },
+      {
+       "id": "6.3-09",
+       "tur": "dy",
+       "ifade": "Locke doğal hukuku tamamen dışlar ve yalnızca insan eliyle yapılan yasaları geçerli sayar.",
+       "dogru": false,
+       "bilgi": "Locke doğal hukuku dışlamaz; doğal hukukun pozitif hukuka temel oluşturduğu düşüncesini paylaşır.",
+       "sayfa": 181
+      },
+      {
+       "id": "6.3-10",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi doğal hukukun özelliklerinden biridir?",
+       "secenekler": [
+        "Kaynağı insan iradesi ve otoritesidir.",
+        "Devletçe resmî olarak yürürlüğe konmasıyla geçerlilik kazanır.",
+        "Akıl ve vicdan yoluyla elde edilen normları içerir.",
+        "Ahlaki içeriğinden bağımsız olarak işler."
+       ],
+       "dogru": 2,
+       "bilgi": "Doğal hukuk doğanın akılsal düzenine uyan, ilahi iradenin buyruğu olarak da kabul gören emredici veya yasaklayıcı normlar içerir.",
+       "sayfa": 179
+      }
+     ]
+    },
+    {
+     "no": "6.4",
+     "ad": "Ahlak-Hukuk İlişkisi",
+     "kartlar": [
+      {
+       "id": "6.4-01",
+       "tur": "bosluk",
+       "cumle": "Ahlak ve hukuk, ne yapılması gerektiğini belirttikleri için ___ (kural koyucu) niteliktedir.",
+       "cevap": "normatif",
+       "celdiriciler": [
+        "betimsel",
+        "deneysel",
+        "öznel"
+       ],
+       "bilgi": "Ahlak ve hukuk insan davranışlarını ve toplumsal yaşayışı düzenlemeye dönüktür.",
+       "sayfa": 183
+      },
+      {
+       "id": "6.4-02",
+       "tur": "dy",
+       "ifade": "Ahlak kurallarının yaptırım gücü resmîdir; hukuk kuralları ise gönüllülük esasına dayanır.",
+       "dogru": false,
+       "bilgi": "Ahlak kuralları daha çok gönüllülükle işler ve sosyal-manevi yaptırımlarla desteklenir; hukukun yaptırım gücü ise resmîdir.",
+       "sayfa": 183
+      },
+      {
+       "id": "6.4-03",
+       "tur": "secmeli",
+       "soru": "Ahlaken yanlış olduğu hâlde hukuki olarak sorun teşkil etmeyen davranışa örnek hangisidir?",
+       "secenekler": [
+        "Hırsızlık yapmak",
+        "İftira atmak",
+        "Yardıma muhtaç birine yardım etmemek",
+        "Başkasının malına bilerek zarar vermek"
+       ],
+       "dogru": 2,
+       "bilgi": "Her ahlaki kural hukuki, her hukuki kural da ahlaki değildir; hırsızlık ve iftira ise hem hukuken hem ahlaken yanlıştır.",
+       "sayfa": 183
+      },
+      {
+       "id": "6.4-04",
+       "tur": "secmeli",
+       "soru": "Güney Afrika'da beyazlarla siyahların yaşam yerlerini ayıran ve hukuken geçerli olduğu hâlde ahlaki ilkelerle çelişen yasalar hangileridir?",
+       "secenekler": [
+        "Magna Carta",
+        "Hammurabi Kanunları",
+        "Virginia Haklar Beyannamesi",
+        "Apartheid Yasaları"
+       ],
+       "dogru": 3,
+       "bilgi": "Apartheid “ayrı yaşam, ayrı tutma” anlamına gelir ve beyazların siyahlar üzerindeki üstünlüğünü korumaya dönüktü.",
+       "sayfa": 183
+      },
+      {
+       "id": "6.4-05",
+       "tur": "bosluk",
+       "cumle": "Hukuk ile ahlak arasındaki kesişim noktası ___ ilkesidir.",
+       "cevap": "adalet",
+       "celdiriciler": [
+        "caydırıcılık",
+        "orantılılık",
+        "egemenlik"
+       ],
+       "bilgi": "Ahlaki değerlerin güçlü olduğu toplumlarda hukukun işlerliği daha kolay sağlanır; ahlaki yozlaşmada hukuk sorunları artar.",
+       "sayfa": 183
+      },
+      {
+       "id": "6.4-06",
+       "tur": "eslestir",
+       "yonerge": "Ünlü davaları tartışmalara konu olan yönleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Sokrates'in yargılanması (MÖ 399)",
+         "İfade ve düşünme özgürlüğü, sivil itaatsizlik"
+        ],
+        [
+         "Sacco ve Vanzetti davası (1920)",
+         "Göçmenlere ön yargılı yargılama"
+        ],
+        [
+         "Bernard Madoff davası (2009)",
+         "Ponzi şeması dolandırıcılığı"
+        ]
+       ],
+       "bilgi": "Sacco ve Vanzetti 1927'de idam edilmiş, 1977'de Massachusetts Valisi adil yargılanmadıklarını belirterek iade-i itibar kararı vermiştir.",
+       "sayfa": 184
+      },
+      {
+       "id": "6.4-07",
+       "tur": "secmeli",
+       "soru": "Yasanın adalete aykırılık oluşturduğu durumlarda kararın vicdan ve adalet duygularına göre verilmesini öngören ilke hangisidir?",
+       "secenekler": [
+        "Hakkaniyet ilkesi",
+        "Caydırıcılık ilkesi",
+        "Orantı-orantısızlık ilkesi",
+        "Yasallık ilkesi"
+       ],
+       "dogru": 0,
+       "bilgi": "Orantı-orantısızlık ilkesi hukuki müdahalenin meşru zeminde ve gerektiği ölçüde yapılmasını ifade eder.",
+       "sayfa": 185
+      },
+      {
+       "id": "6.4-08",
+       "tur": "dy",
+       "ifade": "Caydırıcılık ilkesi, suçun tekrarlanmasını önlemeye dönüktür.",
+       "dogru": true,
+       "bilgi": "Madoff davasında verilen 150 yıllık hapis cezası, caydırıcılık ve emsal oluşturma açısından önemli görülmüştür.",
+       "sayfa": 185
+      },
+      {
+       "id": "6.4-09",
+       "tur": "secmeli",
+       "soru": "Hakkaniyet olarak adalet anlayışını benimseyen ve hukukun işlerliği için “cehalet örtüsü”nü gerekli gören düşünür kimdir?",
+       "secenekler": [
+        "John Locke",
+        "John Rawls",
+        "Thomas Hobbes",
+        "Montesquieu"
+       ],
+       "dogru": 1,
+       "bilgi": "Rawls'a göre adil toplum, herkesin hak ve özgürlüklerini koruyan ve kaynakları hakkaniyetle dağıtan toplumdur.",
+       "sayfa": 187
+      },
+      {
+       "id": "6.4-10",
+       "tur": "dy",
+       "ifade": "Rawls'ın cehalet örtüsüne göre hukuk uygulanırken bireylerin toplumsal konumu ve doğal yetenekleri dikkate alınmalıdır.",
+       "dogru": false,
+       "bilgi": "Cehalet örtüsüne göre bireylerin toplumsal konumu, statüsü ve doğal yetenekleri göz önüne alınmamalıdır; böylece tarafsızlık sağlanır.",
+       "sayfa": 187
+      },
+      {
+       "id": "6.4-11",
+       "tur": "bosluk",
+       "cumle": "Rawls'a göre kaynakların dağılımında ___ eşitliği sağlanmalı, görev ve pozisyonlar liyakat esasına göre herkese açık olmalıdır.",
+       "cevap": "fırsat",
+       "celdiriciler": [
+        "sonuç",
+        "gelir",
+        "statü"
+       ],
+       "bilgi": "Rawls'ın adaletin iki temel ilkesi: eşit hak ve özgürlükler ile kaynakların hakkaniyetli dağılımı.",
+       "sayfa": 187
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
