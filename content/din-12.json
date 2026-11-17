@@ -1,0 +1,2544 @@
+{
+ "kitap": "din-12",
+ "ders": "din",
+ "sinif": 12,
+ "baslik": "Din Kültürü Ve Ahlak Bilgisi 12. Sınıf Ders Kitabı",
+ "sayfaUrl": "https://tymm.meb.gov.tr/kitap/520/din-kulturu-ve-ahlak-bilgisi-12sinif-ders-kitabi",
+ "pdfUrl": "https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-12sinif-ders-kitabi_20261003_190757_270.pdf",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "İslam ve Bilim",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Din ve Bilim İlişkisi",
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "bosluk",
+       "cumle": "Allah'ın (cc) kader kavramı çerçevesinde kâinatta koyduğu ve yönettiği sisteme \"âdetullah\" veya ___ denir.",
+       "cevap": "sünnetullah",
+       "celdiriciler": [
+        "hikmet",
+        "kaza",
+        "tevekkül"
+       ],
+       "bilgi": "Kur'an'da \"Allah'ın kanununda asla bir değişiklik bulamazsın.\" buyrularak bu sistemin değişmezliğine dikkat çekilir.",
+       "sayfa": 12
+      },
+      {
+       "id": "1.1-02",
+       "tur": "secmeli",
+       "soru": "Kâinatta Allah'ın yarattığı sistemi akıl, deney ve gözlemle araştırıp sebep-sonuç ilişkilerini keşfeden ve insanlığın hizmetine sunan disiplin hangisidir?",
+       "secenekler": [
+        "Bilim",
+        "Kelam",
+        "Tasavvuf",
+        "Fıkıh"
+       ],
+       "dogru": 0,
+       "bilgi": "İlim ve bilim geçmişte birbirinin yerine kullanılmıştır; İslam kültüründe dinî konuları araştıran disiplinler için daha çok ilim kavramı kullanılır.",
+       "sayfa": 13
+      },
+      {
+       "id": "1.1-03",
+       "tur": "dy",
+       "ifade": "Plüton, gözlem tekniklerinin gelişmesiyle gezegen niteliği taşımadığı anlaşılınca 2006'da gezegen listesinden çıkarılmıştır.",
+       "dogru": true,
+       "bilgi": "Bu örnek, bilimsel kabul görmüş bazı bilgilerin zamanla değişebileceğini gösterir.",
+       "sayfa": 13
+      },
+      {
+       "id": "1.1-04",
+       "tur": "secmeli",
+       "soru": "İslam'a göre bilimsel bir çalışma hangi durumda Allah (cc) katında değersizdir?",
+       "secenekler": [
+        "Kişiyi Rabbine yaklaştırmadığında",
+        "Deney ve gözleme dayanarak yapıldığında",
+        "Fen bilimleri alanında ortaya konduğunda",
+        "Önceki bilgileri geçersiz kıldığında"
+       ],
+       "dogru": 0,
+       "bilgi": "İslam'a göre bilim Allah'ı ve O'nun kanunlarını tanımaya ve insanlığın hizmetine vesile olmalıdır.",
+       "sayfa": 14
+      },
+      {
+       "id": "1.1-05",
+       "tur": "eslestir",
+       "yonerge": "Kur'an'ın akla yüklediği görevleri ilgili kavramlarla eşleştir.",
+       "ciftler": [
+        [
+         "İbret almak",
+         "İtibar"
+        ],
+        [
+         "Akıl yürütmek",
+         "Nazar"
+        ],
+        [
+         "İnce bir kavrayışa sahip olmak",
+         "Tefakkuh"
+        ],
+        [
+         "Düşünüp anlamak",
+         "Tezekkür"
+        ]
+       ],
+       "bilgi": "Derin düşünmek ise tedebbür ve tefekkür kavramlarıyla ifade edilir.",
+       "sayfa": 15
+      },
+      {
+       "id": "1.1-06",
+       "tur": "bosluk",
+       "cumle": "Kur'an'da akıl kelimesi çoğunlukla \"akletmek\" şeklinde ___ kalıbında kullanılır.",
+       "cevap": "fiil",
+       "celdiriciler": [
+        "isim",
+        "sıfat",
+        "zarf"
+       ],
+       "bilgi": "Akıl sözcüğünün fiil hâlinde sıkça kullanılması, bu kavramın dinamik bir uygulama alanına sahip olduğunu gösterir.",
+       "sayfa": 15
+      },
+      {
+       "id": "1.1-07",
+       "tur": "dy",
+       "ifade": "Bir hadise göre âlimler peygamberlerin vârisleridir ve peygamberler miras olarak altın ve gümüş bırakmışlardır.",
+       "dogru": false,
+       "bilgi": "Hadise göre peygamberler miras olarak ne altın ne gümüş bırakmıştır; onların bıraktığı yegâne miras ilimdir.",
+       "sayfa": 16
+      },
+      {
+       "id": "1.1-08",
+       "tur": "secmeli",
+       "soru": "Hz. Peygamber mescitte rastladığı iki gruptan hangisinin daha üstün olduğunu belirtip onların yanına oturmuştur?",
+       "secenekler": [
+        "Allah'a dua edip O'ndan bir şey isteyenlerin",
+        "Kur'an'ı ezberlemeye çalışanların",
+        "Mescitte nafile namaz kılanların",
+        "İlim öğrenip öğretmeye çalışanların"
+       ],
+       "dogru": 3,
+       "bilgi": "Hz. Peygamber \"Şüphe yok ki ben de bir öğretmen olarak gönderildim.\" diyerek ilim öğrenenlerin yanına oturmuştur.",
+       "sayfa": 16
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "İslam Medeniyetinde Bilim ve Düşüncenin Gelişimi",
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "secmeli",
+       "soru": "Halife Memun'un Bağdat'ta kurduğu Beytülhikme'deki mütercimlerin başına getirilen bilim insanı kimdir?",
+       "secenekler": [
+        "Huneyn bin İshak",
+        "Harizmi",
+        "Sind bin Ali",
+        "Fezari"
+       ],
+       "dogru": 0,
+       "bilgi": "Beytülhikme kütüphane, akademi ve tercüme bölümünden oluşan bir ilim merkeziydi.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.2-02",
+       "tur": "dy",
+       "ifade": "İlk tercüme çalışmaları Abbasiler Dönemi'nde başlamış, Emeviler Dönemi'nde artarak devam etmiştir.",
+       "dogru": false,
+       "bilgi": "İlk tercümeler Emeviler Dönemi'nde başlamış, Abbasiler Dönemi'nde 750-900 yılları arasında artarak sürmüştür.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.2-03",
+       "tur": "bosluk",
+       "cumle": "Temelinde bilgi (ilim) kavramı bulunan ve bilimsel bir süreç sonunda oluşan İslam medeniyeti \"___ medeniyet\" olarak nitelendirilebilir.",
+       "cevap": "bilimsel",
+       "celdiriciler": [
+        "ticari",
+        "askerî",
+        "göçebe"
+       ],
+       "bilgi": "İslam medeniyetinde bilimsel süreci başlatan çalışmalar öncelikle vahiyle, yani Kur'an ve sünnetin anlaşılmasıyla başlamıştır.",
+       "sayfa": 17
+      },
+      {
+       "id": "1.2-04",
+       "tur": "secmeli",
+       "soru": "İslam dünyasında ilimlerin sınıflandırmasını (tasnifini) yapan en önemli âlimler hangi seçenekte birlikte verilmiştir?",
+       "secenekler": [
+        "Piri Reis, Seydi Ali Reis ve Evliya Çelebi",
+        "Buhari, Müslim, Tirmizi ve Ebu Davud",
+        "Cezeri, Zehravi, İbnünnefis ve Akşemseddin",
+        "Farabi, Gazali, Taşköprizade, Kâtip Çelebi"
+       ],
+       "dogru": 3,
+       "bilgi": "Tercümelerle birlikte önceleri İslami ilimler için kullanılan \"ulûm\" teriminin kapsamı genişlemiş ve bütün ilimleri içine almıştır.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.2-05",
+       "tur": "eslestir",
+       "yonerge": "Farabi'nin ilimler tasnifindeki grupları içerdikleri ilimlerle eşleştir.",
+       "ciftler": [
+        [
+         "Dil İlmi",
+         "Gramer, şiir, konuşma ve telaffuz"
+        ],
+        [
+         "Alet İlimleri",
+         "Aritmetik, geometri, optik ve musiki"
+        ],
+        [
+         "Fizik ve Metafizik",
+         "Zooloji, mineraloji ve botanik"
+        ],
+        [
+         "Toplum İlimleri",
+         "Hukuk, ekonomi ve siyaset"
+        ]
+       ],
+       "bilgi": "Farabi'nin tasnifi, Müslümanların X. yüzyılda tüm bilim dallarında eser verdiğini gösterir.",
+       "sayfa": 18
+      },
+      {
+       "id": "1.2-06",
+       "tur": "secmeli",
+       "soru": "Batı'nın Eflatun ve Sokrat gibi Antik Çağ düşünürleriyle bağ kurmasında aracı olan İslam düşünürleri hangi seçenekte verilmiştir?",
+       "secenekler": [
+        "Farabi ve İbni Rüşd",
+        "Harizmi ve Fergani",
+        "Buhari ve Müslim",
+        "Piri Reis ve Kâtip Çelebi"
+       ],
+       "dogru": 0,
+       "bilgi": "Batı medeniyeti özellikle Endülüs Emevi Devleti'nin bilimsel birikiminden çokça yararlanmıştır.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.2-07",
+       "tur": "dy",
+       "ifade": "İslam dünyasında VII. yüzyılda başlayan ilim ve düşüncenin gelişimi X. yüzyılda tam anlamıyla zirveye ulaşmıştır.",
+       "dogru": true,
+       "bilgi": "Müslüman bilim insanları düşünce ve bilim tarihinde yaklaşık beş yüz yıl egemenliklerini sürdürmüştür.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.2-08",
+       "tur": "secmeli",
+       "soru": "İstanbul'daki İslam Bilim ve Teknoloji Tarihi Müzesi'ni hazırlayan İslam bilim tarihçisi kimdir?",
+       "secenekler": [
+        "Fuat Sezgin",
+        "Aziz Sancar",
+        "Ahmet Cevdet Paşa",
+        "Kâtip Çelebi"
+       ],
+       "dogru": 0,
+       "bilgi": "2008'de açılan müze, alanında Türkiye'de ilk, Frankfurt'tan sonra dünyada ikinci örnektir.",
+       "sayfa": 20
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "İslam Medeniyetinde Öne Çıkan Eğitim Kurumları",
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "secmeli",
+       "soru": "Mekke Dönemi'nde Müslümanlar için eğitim verilen ilk mekân neresidir?",
+       "secenekler": [
+        "Suffe",
+        "Kuba Mescidi",
+        "Darülerkâm",
+        "Darülhadis"
+       ],
+       "dogru": 2,
+       "bilgi": "Darülerkâm, Erkâm'ın (ra) evidir; Hz. Peygamber Mekke'nin zor şartlarına rağmen eğitim faaliyetlerini burada yürütmüştür.",
+       "sayfa": 21
+      },
+      {
+       "id": "1.3-02",
+       "tur": "dy",
+       "ifade": "Mescid-i Nebi'ye bitişik olarak yapılan Suffe, İslam medeniyetinin ilk eğitim kurumu kabul edilir.",
+       "dogru": true,
+       "bilgi": "Suffe'de ikamet eden gençler ilim tahsiliyle ilgilenmiştir.",
+       "sayfa": 22
+      },
+      {
+       "id": "1.3-03",
+       "tur": "secmeli",
+       "soru": "İslam dünyasındaki ilk büyük medrese olan Nizamiye Medresesi kim tarafından ve nerede kurulmuştur?",
+       "secenekler": [
+        "Melikşah, İsfahan",
+        "Memun, Kurtuba",
+        "Nureddin Zengi, Şam",
+        "Nizamülmülk, Bağdat"
+       ],
+       "dogru": 3,
+       "bilgi": "Büyük Selçuklu Veziri Nizamülmülk'ün 1067'de kurduğu medresede İslami ilimlerle birlikte edebiyat, matematik ve felsefe de okutulmuştur.",
+       "sayfa": 24
+      },
+      {
+       "id": "1.3-04",
+       "tur": "bosluk",
+       "cumle": "Selçuklular, kıraat ilminin okutulduğu medreseleri genellikle ___ olarak adlandırmıştır.",
+       "cevap": "darülhuffaz",
+       "celdiriciler": [
+        "darülhadis",
+        "darüşşifa",
+        "darülerkâm"
+       ],
+       "bilgi": "Osmanlılar Dönemi'nde Kur'an ihtisası yapılan medrese bölümlerine darülkurra adı verilmiştir.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.3-05",
+       "tur": "secmeli",
+       "soru": "Darülhadisler ilk defa hangi şehirde inşa edilmiştir?",
+       "secenekler": [
+        "Şam",
+        "Bağdat",
+        "Kahire",
+        "Konya"
+       ],
+       "dogru": 0,
+       "bilgi": "İlk darülhadis, kurucusu Atabeg Nureddin Zengi'ye nispetle \"Darülhadisin-Nuriye\" diye adlandırılmıştır.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.3-06",
+       "tur": "dy",
+       "ifade": "Anadolu'da inşa edilen ilk darülhadis Sivas'taki Gök Medrese'dir.",
+       "dogru": false,
+       "bilgi": "Anadolu'da ilk inşa edilen darülhadis Çankırı Darülhadisi'dir; Sivas'taki Gök Medrese ikinci darülhadistir.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.3-07",
+       "tur": "secmeli",
+       "soru": "İslam ilim dünyasına beş yüz yıldan fazla kaynaklık eden Bağdat'taki Beytülhikme ne zaman ve kimler tarafından yıkılmıştır?",
+       "secenekler": [
+        "1099'da Haçlılar",
+        "1071'de Bizanslılar",
+        "1453'te Osmanlılar",
+        "1258'de Moğollar"
+       ],
+       "dogru": 3,
+       "bilgi": "Fiilî kurucusu Halife Memun olan Beytülhikme, Orta Çağ'ın en zengin kütüphanesi ve ilmî araştırma merkezi hâline gelmiştir.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.3-08",
+       "tur": "eslestir",
+       "yonerge": "Rasathaneleri özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Şemmasiye Rasathanesi",
+         "Bağdat'ta açılan ilk rasathane (828)"
+        ],
+        [
+         "Hemedan Rasathanesi",
+         "İbni Sina'nın çalışmaları için kuruldu (1023)"
+        ],
+        [
+         "Meraga Rasathanesi",
+         "Hülagu yaptırdı, Nasiruddin Tusi yönetti"
+        ],
+        [
+         "Takiyüddin Rasathanesi",
+         "İslam medeniyetinin son büyük rasathanesi"
+        ]
+       ],
+       "bilgi": "Sürekli ve sistemli çalışan rasathaneler ilk olarak İslam dünyasında ortaya çıkmıştır.",
+       "sayfa": 29
+      },
+      {
+       "id": "1.3-09",
+       "tur": "secmeli",
+       "soru": "Anadolu Selçuklu Hükümdarı Gıyaseddin Keyhüsrev'in kız kardeşi adına Kayseri'de yaptırdığı şifahane hangisidir?",
+       "secenekler": [
+        "Divriği Darüşşifası",
+        "Nizamiye Bimaristanı",
+        "Gevher Nesibe Darüşşifası",
+        "Fustat Şifahanesi"
+       ],
+       "dogru": 2,
+       "bilgi": "İslam dünyasında ilk hastane 707'de Emevi Halifesi Velid bin Abdülmelik tarafından kurulmuştur.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.3-10",
+       "tur": "bosluk",
+       "cumle": "Ruh ve sinir hastalarının musiki ile tedavi edilmesine ___ denir.",
+       "cevap": "müzikoterapi",
+       "celdiriciler": [
+        "fizyoterapi",
+        "psikofizyoloji",
+        "anestezi"
+       ],
+       "bilgi": "Ruh ve sinir hastalarının müzikle tedavisi filozof Kindi'ye kadar uzanır.",
+       "sayfa": 30
+      }
+     ]
+    },
+    {
+     "no": "1.4",
+     "ad": "Müslümanların Bilim Alanında Yaptığı Öncü ve Özgün Çalışmalar",
+     "kartlar": [
+      {
+       "id": "1.4-01",
+       "tur": "bosluk",
+       "cumle": "Hadis alanında yazılmış en güvenilir altı eser İslam dünyasında ___ adıyla anılır.",
+       "cevap": "Kütübisitte",
+       "celdiriciler": [
+        "Tıbb-ı Nebevi",
+        "Fıkhü'l-ekber",
+        "Kitabü't-Tevhid"
+       ],
+       "bilgi": "Kütübisitte'nin yazarları Buhari, Müslim, İbni Mace, Ebu Davud, Tirmizi ve Nesai'dir.",
+       "sayfa": 31
+      },
+      {
+       "id": "1.4-02",
+       "tur": "secmeli",
+       "soru": "İslam'ın inanç esaslarını tartışmaya girmeden izah eden kelam ilminin alt koluna ne ad verilir?",
+       "secenekler": [
+        "Akait",
+        "Fıkıh",
+        "Tefsir",
+        "Siyer"
+       ],
+       "dogru": 0,
+       "bilgi": "Ebu Hanife'nin \"Fıkhü'l-ekber\" adlı eseri ilk akait eserlerinden biri kabul edilir.",
+       "sayfa": 32
+      },
+      {
+       "id": "1.4-03",
+       "tur": "eslestir",
+       "yonerge": "Âlimleri eserleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Matüridi",
+         "Kitabü't-Tevhid"
+        ],
+        [
+         "Harizmi",
+         "el-Cebr vel mukabele"
+        ],
+        [
+         "Kâtip Çelebi",
+         "Cihannüma"
+        ],
+        [
+         "Piri Reis",
+         "Kitab-ı Bahriyye"
+        ],
+        [
+         "Evliya Çelebi",
+         "Seyahatname"
+        ]
+       ],
+       "bilgi": "İslam dünyasında kabul gören iki büyük kelamcı İmam Matüridi ve İmam Eşari'dir.",
+       "sayfa": 32
+      },
+      {
+       "id": "1.4-04",
+       "tur": "secmeli",
+       "soru": "Dünya'yı tarif eden ilk coğrafyacı olduğu için \"İslam Coğrafyasının Babası\" unvanı verilen bilgin kimdir?",
+       "secenekler": [
+        "Harizmi",
+        "Seydi Ali Reis",
+        "Hurdazbih",
+        "Evliya Çelebi"
+       ],
+       "dogru": 2,
+       "bilgi": "Hurdazbih'in \"Kitabü'l-Mesalik ve'l-memalik\" adlı eseri tasvirî coğrafyacılara kaynak olmuştur.",
+       "sayfa": 33
+      },
+      {
+       "id": "1.4-05",
+       "tur": "dy",
+       "ifade": "Piri Reis'in 1513'te Gelibolu'da çizdiği dünya haritası Amerika kıtasının doğu kıyılarını da göstermektedir.",
+       "dogru": true,
+       "bilgi": "Piri Reis'in \"Kitab-ı Bahriyye\" adlı eserindeki Akdeniz haritası ve dünya haritası büyük ün kazanmıştır.",
+       "sayfa": 33
+      },
+      {
+       "id": "1.4-06",
+       "tur": "secmeli",
+       "soru": "Kur'an okumayı kolaylaştırmak için Hz. Ali'nin emriyle harekelendirme işini ilk kez gerçekleştiren dil bilgini kimdir?",
+       "secenekler": [
+        "Ebülesved Düeli",
+        "Cahiz",
+        "Zemahşeri",
+        "Taberi"
+       ],
+       "dogru": 0,
+       "bilgi": "Basra ve Kufe gramer çalışmalarının merkezi olmuş; Arapçaya mükemmel şeklini veren dil bilgini ise Cahiz'dir.",
+       "sayfa": 34
+      },
+      {
+       "id": "1.4-07",
+       "tur": "secmeli",
+       "soru": "Güneş'in kendi çevresinde döndüğünü ilk keşfeden ve 842'deki Güneş tutulmasının zamanını önceden tespit eden âlim kimdir?",
+       "secenekler": [
+        "Bettani",
+        "Fezari",
+        "Biruni",
+        "Fergani"
+       ],
+       "dogru": 3,
+       "bilgi": "Fergani'nin çalışmaları nedeniyle Ay'daki Alfraganus kraterine onun adı verilmiştir.",
+       "sayfa": 35
+      },
+      {
+       "id": "1.4-08",
+       "tur": "bosluk",
+       "cumle": "Gece ve gündüz sürelerini belirlemeye, şehirlerin enlem ve boylamlarını tespit etmeye yarayan usturlabı ___ icat etmiştir.",
+       "cevap": "Fezari",
+       "celdiriciler": [
+        "Fergani",
+        "Bettani",
+        "Uluğ Bey"
+       ],
+       "bilgi": "Usturlap yıldızların konumunu belirlemede de kullanılmıştır.",
+       "sayfa": 35
+      },
+      {
+       "id": "1.4-09",
+       "tur": "dy",
+       "ifade": "Güneş yılını 365 gün 5 saat 46 dakika 24 saniye olarak ölçen âlim Uluğ Bey'dir.",
+       "dogru": false,
+       "bilgi": "Güneş yılını bu şekilde ölçen Bettani'dir; Uluğ Bey ise Semerkant'ta rasathane kurmuştur.",
+       "sayfa": 36
+      },
+      {
+       "id": "1.4-10",
+       "tur": "secmeli",
+       "soru": "Görmenin gözden çıkan ışınlarla değil, cisimlerden gelen ışınların göze ulaşmasıyla gerçekleştiğini keşfeden bilim insanı kimdir?",
+       "secenekler": [
+        "Cabir bin Hayyan",
+        "Kindi",
+        "Ebu Bekir Razi",
+        "İbnülheysem"
+       ],
+       "dogru": 3,
+       "bilgi": "İbnülheysem eserlerinde \"karanlık oda\"dan söz etmiş; eserleri Latinceye çevrilip yaklaşık 600 yıl Avrupa'yı etkilemiştir.",
+       "sayfa": 37
+      },
+      {
+       "id": "1.4-11",
+       "tur": "eslestir",
+       "yonerge": "Müslüman hekimleri tıp alanındaki katkılarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Zehravi",
+         "Cerrahinin babası"
+        ],
+        [
+         "Sabit bin Kurre",
+         "Ameliyatlarda anesteziyi ilk kullanan hekim"
+        ],
+        [
+         "İbnünnefis",
+         "Kan dolaşımını keşfetti"
+        ],
+        [
+         "Akşemseddin",
+         "Mikrobu \"Maddetü'l-Hayat\" adlı eserinde dile getirdi"
+        ],
+        [
+         "İbni Sina",
+         "el-Kanun fi't-Tıb"
+        ]
+       ],
+       "bilgi": "Tıbbın prensi olarak bilinen İbni Sina'nın el-Kanun fi't-Tıb'ı XIX. yüzyılın başına kadar tıp dünyasında otorite kabul edilmiştir.",
+       "sayfa": 38
+      },
+      {
+       "id": "1.4-12",
+       "tur": "secmeli",
+       "soru": "Sibernetiğin ilk adımlarını atıp ilk robotu yapan; fil saati ve abdest otomatı gibi makineler tasarlayan bilim insanı kimdir?",
+       "secenekler": [
+        "Ömer Hayyam",
+        "Nasirüddin Tusi",
+        "Ali Kuşçu",
+        "Cezeri"
+       ],
+       "dogru": 3,
+       "bilgi": "Adını doğduğu Cizre'den alan Cezeri'nin otomatik makineleri mekanik ve sibernetik bilimlerinin temel taşlarındandır.",
+       "sayfa": 37
+      }
+     ]
+    },
+    {
+     "no": "1.5",
+     "ad": "Kur'an'dan Mesajlar: Fatır Suresi 27-28. Ayetler",
+     "kartlar": [
+      {
+       "id": "1.5-01",
+       "tur": "secmeli",
+       "soru": "Fatır suresine, ikinci sırada geçen \"Melaike\" kelimesinden dolayı verilen diğer ad hangisidir?",
+       "secenekler": [
+        "Melekler suresi",
+        "Nur suresi",
+        "Mülk suresi",
+        "Kevser suresi"
+       ],
+       "dogru": 0,
+       "bilgi": "Sure; Allah'ın birliğine davet, varlığının delilleri ve şirkin temellerinin yıkılması gibi inanç konularını içerir.",
+       "sayfa": 41
+      },
+      {
+       "id": "1.5-02",
+       "tur": "dy",
+       "ifade": "Fatır suresi adını yaratma, yoktan var etme ve kâinatı var etmeye delalet eden ilahi vasıftan alır.",
+       "dogru": true,
+       "bilgi": "Fatır, yoktan var eden anlamına gelen ilahi vasıftır.",
+       "sayfa": 41
+      },
+      {
+       "id": "1.5-03",
+       "tur": "bosluk",
+       "cumle": "Fatır suresinin 28. ayetine göre kulları içinden Allah'tan gereğince ancak ___ korkar.",
+       "cevap": "âlimler",
+       "celdiriciler": [
+        "zenginler",
+        "yöneticiler",
+        "şairler"
+       ],
+       "bilgi": "Düşünen, tefekkür eden ve ibret alan âlimlerin Allah katındaki değeri daha yücedir.",
+       "sayfa": 41
+      },
+      {
+       "id": "1.5-04",
+       "tur": "secmeli",
+       "soru": "Fatır suresinin 27. ayetinde renkleri çeşit çeşit meyvelerin çıkarılmasının kaynağı olarak ne gösterilir?",
+       "secenekler": [
+        "Güneşin ışığı",
+        "Rüzgârın taşıdığı tohumlar",
+        "Toprağın verimi",
+        "Gökten indirilen su"
+       ],
+       "dogru": 3,
+       "bilgi": "Aynı toprak ve sudan farklı özellikte bitkilerin yaratılması Allah'ın varlığının ve yaratmanın delili olarak hatırlatılır.",
+       "sayfa": 42
+      },
+      {
+       "id": "1.5-05",
+       "tur": "dy",
+       "ifade": "Fatır suresinin 27-28. ayetlerinde insan, hayvan ve bitkilerdeki renk çeşitliliğinin tesadüf eseri olduğu vurgulanır.",
+       "dogru": false,
+       "bilgi": "Bu çeşitliliğin tamamı, böylesine bir ahenk içinde çeşitliliği sağlayan irade ve güce, yani Allah'a işaret eder.",
+       "sayfa": 42
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Anadolu'da İslam",
+   "konular": [
+    {
+     "no": "2.1",
+     "ad": "Türklerin Müslüman Oluşu",
+     "kartlar": [
+      {
+       "id": "2.1-01",
+       "tur": "secmeli",
+       "soru": "Seyhun ve Ceyhun nehirleri arasında kalan ve Türklerin İslamiyet'le karşılaştıkları ilk bölge hangisidir?",
+       "secenekler": [
+        "Maveraünnehir",
+        "Horasan",
+        "Harizm",
+        "Hazar"
+       ],
+       "dogru": 0,
+       "bilgi": "Emeviler 706'da Maveraünnehir'i fethetmiş; Buhara, Semerkant ve Taşkent gibi şehirler önemli bilim ve kültür merkezleri olmuştur.",
+       "sayfa": 49
+      },
+      {
+       "id": "2.1-02",
+       "tur": "secmeli",
+       "soru": "Türklerin İslamiyet'i benimsemesinde etkili olan en önemli unsur hangisidir?",
+       "secenekler": [
+        "İslam'ın Türklerin karakter ve ideallerine uygun olması",
+        "Türklerin İslam'dan önce tamamen yerleşik hayata geçmiş olması",
+        "Arapların Türklere vergi muafiyeti tanımış olması",
+        "Türklerin Arapçayı ortak dil olarak benimsemesi"
+       ],
+       "dogru": 0,
+       "bilgi": "Ahiret inancı ve cihadın mükâfatı alplık ülküsüyle örtüşmüş; Müslümanların ticaretteki dürüstlüğü de kabulü kolaylaştırmıştır.",
+       "sayfa": 48
+      },
+      {
+       "id": "2.1-03",
+       "tur": "dy",
+       "ifade": "Emevilerin Arap olmayanları mevali olarak adlandırıp onlara gereken değeri vermemesi, Türklerin İslam'a girişini hızlandırmıştır.",
+       "dogru": false,
+       "bilgi": "Emevilerin bu politikası Türklerin millet olarak İslam'a girmesini yavaşlatmıştır.",
+       "sayfa": 49
+      },
+      {
+       "id": "2.1-04",
+       "tur": "secmeli",
+       "soru": "İslam'ın tüm insanlığın kurtuluşu için gönderildiğinin vurgulandığı ve Türklerin İslam'ı kabulünün hızlandığı Emevi halifesi dönemi hangisidir?",
+       "secenekler": [
+        "Muaviye Dönemi",
+        "Velid bin Abdülmelik Dönemi",
+        "Ömer bin Abdülaziz Dönemi",
+        "Hişam bin Abdülmelik Dönemi"
+       ],
+       "dogru": 2,
+       "bilgi": "Bu dönemde oluşan barış ortamında yapılan etkili irşat faaliyetleri kısa sürede sonuç vermiştir.",
+       "sayfa": 49
+      },
+      {
+       "id": "2.1-05",
+       "tur": "bosluk",
+       "cumle": "Türklerin Çinlilere karşı Müslümanların yanında yer aldığı ___ Savaşı (751), Türk-Müslüman ilişkilerinin seyrini değiştirmiştir.",
+       "cevap": "Talas",
+       "celdiriciler": [
+        "Malazgirt",
+        "Dandanakan",
+        "Miryokefalon"
+       ],
+       "bilgi": "Bu savaştan sonra Abbasi halifeleri Türkleri askerî ve idari kadrolarda görevlendirmeye başlamıştır.",
+       "sayfa": 50
+      },
+      {
+       "id": "2.1-06",
+       "tur": "secmeli",
+       "soru": "X. yüzyılda Harizmli tüccarlar vesilesiyle tanıdıkları İslamiyet'i devlet dini olarak kabul eden Türk topluluğu hangisidir?",
+       "secenekler": [
+        "Uygurlar",
+        "Kıpçaklar",
+        "Hazarlar",
+        "İdil (Volga) Bulgarları"
+       ],
+       "dogru": 3,
+       "bilgi": "Hazarlar ve İdil Bulgarları İslam'la ticari ilişkiler yoluyla tanışmıştır; Hazarların ise tümü Müslüman olmamıştır.",
+       "sayfa": 50
+      },
+      {
+       "id": "2.1-07",
+       "tur": "secmeli",
+       "soru": "Karlukların başında hüküm sürüp İslamiyet'i kabul ederek Karahanlı Türk-İslam devletini kuran hükümdar kimdir?",
+       "secenekler": [
+        "Satuk Buğra Han",
+        "Tuğrul Bey",
+        "Alparslan",
+        "Melikşah"
+       ],
+       "dogru": 0,
+       "bilgi": "Karahanlıların İslamiyet'i kabulü diğer Türk topluluklarını etkilemiş, Oğuzların Müslüman olması da bu döneme denk gelmiştir.",
+       "sayfa": 50
+      },
+      {
+       "id": "2.1-08",
+       "tur": "bosluk",
+       "cumle": "Sınır boylarında askerî amaçlı inşa edilen ve İslam'ın güç kazanmasından sonra tekke ve zaviyelere dönüşen yapılara ___ denir.",
+       "cevap": "ribat",
+       "celdiriciler": [
+        "medrese",
+        "imaret",
+        "darülhadis"
+       ],
+       "bilgi": "Ticaret yolları üzerindeki ribatlar ise zamanla kervanların güvenliğini ve konaklamasını sağlayan kervansaraylara dönüşmüştür.",
+       "sayfa": 51
+      },
+      {
+       "id": "2.1-09",
+       "tur": "dy",
+       "ifade": "Ahi kelimesi Arapçada \"kardeş\", Türkçede ise \"cömert\" anlamına gelir.",
+       "dogru": true,
+       "bilgi": "Ahilik, Abbasiler Dönemi'nde ortaya çıkan ve gençlik, yiğitlik anlamındaki fütüvvet teşkilatının ahlakı üzerine kurulmuştur.",
+       "sayfa": 51
+      },
+      {
+       "id": "2.1-10",
+       "tur": "bosluk",
+       "cumle": "İbni Battuta'ya göre Ahi zaviyelerinin başındaki kişiye Ahi, üyelerine ise ___ denir.",
+       "cevap": "fityan",
+       "celdiriciler": [
+        "mürit",
+        "kalfa",
+        "derviş"
+       ],
+       "bilgi": "1334'te Anadolu'yu gezen İbni Battuta ahilerin dayanışmasını ve misafirperverliğini övgüyle anlatmıştır.",
+       "sayfa": 52
+      }
+     ]
+    },
+    {
+     "no": "2.2",
+     "ad": "Dinî Anlayış ve Kültürümüzün Oluşmasında Etkili Olan Bazı Şahsiyetler",
+     "kartlar": [
+      {
+       "id": "2.2-01",
+       "tur": "eslestir",
+       "yonerge": "Şahsiyetleri eserleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Matüridi",
+         "Tevilatü'l-Kur'an"
+        ],
+        [
+         "İmam Şafii",
+         "er-Risale"
+        ],
+        [
+         "İmam Eşari",
+         "Makalatü'l-İslamiyyin"
+        ],
+        [
+         "Ahmed Yesevi",
+         "Divan-ı Hikmet"
+        ],
+        [
+         "Mevlana",
+         "Fihi Ma Fih"
+        ]
+       ],
+       "bilgi": "Hacı Bektaş Veli'nin en önemli eseri ise Makalat'tır.",
+       "sayfa": 55
+      },
+      {
+       "id": "2.2-02",
+       "tur": "secmeli",
+       "soru": "Asıl adı Numan bin Sabit olan ve İmam-ı Azam namıyla şöhret bulan âlim kimdir?",
+       "secenekler": [
+        "İmam Şafii",
+        "Cafer Sadık",
+        "Ebu Hanife",
+        "İmam Matüridi"
+       ],
+       "dogru": 2,
+       "bilgi": "Ebu Hanife'nin görüşleri etrafında şekillenen Hanefilik; Türkiye, Orta Asya, Hindistan, Pakistan ve Balkanlarda yaygındır.",
+       "sayfa": 53
+      },
+      {
+       "id": "2.2-03",
+       "tur": "bosluk",
+       "cumle": "Caferilik mezhebi, on iki imamı kabul ettikleri için ___ olarak da isimlendirilir.",
+       "cevap": "İsnâaşeriyye",
+       "celdiriciler": [
+        "Mutezile",
+        "Selefiye",
+        "Eşariyye"
+       ],
+       "bilgi": "Masum imamlara inanmayı imanın şartı saydıkları için İmamiye, Cafer Sadık'ın görüşlerine dayandıkları için Caferiye de denir.",
+       "sayfa": 54
+      },
+      {
+       "id": "2.2-04",
+       "tur": "dy",
+       "ifade": "Caferilik ekolüne göre sünnet, Hz. Peygamber'in sünnetinin yanı sıra masum kabul edilen on iki imamın söz ve fiillerini de kapsar.",
+       "dogru": true,
+       "bilgi": "Cafer Sadık'ın nesebi baba tarafından Hz. Ali'ye, anne tarafından Hz. Ebubekir'e dayanır; hadiste otorite kabul edilmiştir.",
+       "sayfa": 54
+      },
+      {
+       "id": "2.2-05",
+       "tur": "secmeli",
+       "soru": "Ebu Hanife'nin inanç alanındaki görüşleri etrafında Ehlisünnet itikadını sistemli hâle getiren ve \"Ehlisünnetin Reisi\" olarak anılan âlim kimdir?",
+       "secenekler": [
+        "İmam Eşari",
+        "Cafer Sadık",
+        "Ahmed bin Hanbel",
+        "İmam Matüridi"
+       ],
+       "dogru": 3,
+       "bilgi": "Matüridi, Selefiye ile Mutezile'nin hâkim olduğu dönemde nakil ile aklı uzlaştırmış; yöntemi geniş kitlelerce kabul görmüştür.",
+       "sayfa": 55
+      },
+      {
+       "id": "2.2-06",
+       "tur": "secmeli",
+       "soru": "Bilgi kuramını kelamın müstakil bir konusu hâline getiren Matüridi'ye göre bilgi kaynakları hangileridir?",
+       "secenekler": [
+        "Keşif, ilham, rüya ve sezgi yoluyla elde edilen bilgi",
+        "Gelenek, tecrübe ve toplumun ortak kabulleri",
+        "Akıl, sağlıklı duyu organları ve doğru haber",
+        "Yalnızca vahiy ve ilham"
+       ],
+       "dogru": 2,
+       "bilgi": "Matüridi akıl ve duyuların yanı sıra doğru haberi (nakil) de bilgi kaynakları arasına dâhil etmiştir.",
+       "sayfa": 55
+      },
+      {
+       "id": "2.2-07",
+       "tur": "secmeli",
+       "soru": "İslam kültür tarihinde fıkıh usulü ilminin temellerini atan ilk âlim kimdir?",
+       "secenekler": [
+        "İmam Malik",
+        "Ebu Hanife",
+        "Ahmed bin Hanbel",
+        "İmam Şafii"
+       ],
+       "dogru": 3,
+       "bilgi": "İmam Şafii, Medine fıkhı ile Irak fıkhını birleştirici bir yol izlemiş; en tanınmış eseri Kitabu'l-Umm'dur.",
+       "sayfa": 56
+      },
+      {
+       "id": "2.2-08",
+       "tur": "dy",
+       "ifade": "İmam Eşari, Basra'da yaygın olan Mutezile mezhebinin görüşlerini ömrünün sonuna kadar savunmuştur.",
+       "dogru": false,
+       "bilgi": "Eşari Mutezile'nin görüşlerini terk edip Bağdat'a gitmiştir; Eşarilik bugün Matüridilikle birlikte en yaygın iki itikadi mezhepten biridir.",
+       "sayfa": 57
+      },
+      {
+       "id": "2.2-09",
+       "tur": "secmeli",
+       "soru": "Hocası Evhadüddin Kirmani'nin kızı Fatma Bacı ile evlenen ve otuz iki çeşit esnafı teşkilatlandıran şahsiyet kimdir?",
+       "secenekler": [
+        "Ahi Evran",
+        "Şeyh Edebali",
+        "Hacı Bayram Veli",
+        "Sarı Saltuk"
+       ],
+       "dogru": 0,
+       "bilgi": "Ahilik teşkilatının piri kabul edilen Ahi Evran Kırşehir'e yerleşmiştir; Fatma Bacı ise Bacıyan-ı Rum teşkilatını kurmuştur.",
+       "sayfa": 60
+      },
+      {
+       "id": "2.2-10",
+       "tur": "bosluk",
+       "cumle": "Hacı Bektaş Veli'nin insan eğitimi ve nefis terbiyesine dair en önemli öğretisi \"___ sahip ol!\" düsturudur.",
+       "cevap": "Eline, diline, beline",
+       "celdiriciler": [
+        "Aklına, malına, canına",
+        "Sözüne, özüne, işine",
+        "Yurduna, yuvana, adına"
+       ],
+       "bilgi": "Osmanlı, XIV. yüzyılın sonlarında Hacı Bektaş Veli'yi Yeniçeri Ocağı'nın piri olarak seçmiştir.",
+       "sayfa": 61
+      },
+      {
+       "id": "2.2-11",
+       "tur": "dy",
+       "ifade": "Mürşidi Tapduk Emre olan Yunus Emre, Eski Anadolu Türkçesinin oluşumunda çok önemli rol oynayan ilk Türk şairidir.",
+       "dogru": true,
+       "bilgi": "Yunus Emre'nin kullandığı kelime ve ifade kalıpları, Türkçenin edebî bir dil hâline gelmesinde büyük bir aşama olmuştur.",
+       "sayfa": 62
+      },
+      {
+       "id": "2.2-12",
+       "tur": "secmeli",
+       "soru": "Ankara'daki Kara Medrese'de müderrislik yaptıktan sonra Somuncu Baba'ya bağlanan ve esnafın zekât ve sadakalarını ihtiyaç sahiplerine ulaştıran şahsiyet kimdir?",
+       "secenekler": [
+        "Yunus Emre",
+        "Ahi Evran",
+        "Hacı Bayram Veli",
+        "Hacı Bektaş Veli"
+       ],
+       "dogru": 2,
+       "bilgi": "Hacı Bayram Veli zenginlerle fakirler arasında köprü olmuş, Türk göçerlerin yerleşik hayata geçmesine katkı sağlamıştır.",
+       "sayfa": 63
+      }
+     ]
+    },
+    {
+     "no": "2.3",
+     "ad": "Kur'an'dan Mesajlar: Nisa Suresi 69. Ayet",
+     "kartlar": [
+      {
+       "id": "2.3-01",
+       "tur": "secmeli",
+       "soru": "Nisa suresinin 69. ayetinde Allah'ın kendilerine nimet verdiği kimseler olarak sayılan dört sınıf hangisidir?",
+       "secenekler": [
+        "Melekler, peygamberler, âlimler ve gaziler",
+        "Peygamberler, sıddıklar, şehitler ve salihler",
+        "Sahabe, âlimler, hafızlar ve veliler",
+        "Peygamberler, halifeler, şehitler ve zahitler"
+       ],
+       "dogru": 1,
+       "bilgi": "Ayete göre Allah'a ve Peygamber'e itaat edenler, hangi dönemde yaşarlarsa yaşasınlar bu kimselerle birlikte olacaktır.",
+       "sayfa": 65
+      },
+      {
+       "id": "2.3-02",
+       "tur": "dy",
+       "ifade": "Nisa suresi Mekke'de nazil olmuştur ve Kur'an-ı Kerim'in en uzun suresidir.",
+       "dogru": false,
+       "bilgi": "Nisa suresi Medine'de nazil olmuştur; 176 ayetten oluşan Kur'an'ın ikinci uzun suresidir.",
+       "sayfa": 65
+      },
+      {
+       "id": "2.3-03",
+       "tur": "bosluk",
+       "cumle": "Sözlükte baş eğmek ve söz dinlemek anlamlarına gelen itaat, terim olarak \"___ emir ve isteklere uymak\" demektir.",
+       "cevap": "meşru",
+       "celdiriciler": [
+        "bütün",
+        "geleneksel",
+        "kişisel"
+       ],
+       "bilgi": "Kur'an'da itaat edilecekler Allah, Allah Resulü ve yöneticiler olarak ele alınır; buna ana-babaya itaat de eklenebilir.",
+       "sayfa": 66
+      },
+      {
+       "id": "2.3-04",
+       "tur": "secmeli",
+       "soru": "Kur'an-ı Kerim'e göre aşağıdakilerden hangisine itaat edilmemesi istenir?",
+       "secenekler": [
+        "Ana-babaya",
+        "Allah Resulü'ne",
+        "Münafıklara",
+        "Yöneticilere"
+       ],
+       "dogru": 2,
+       "bilgi": "Kâfirler, münafıklar, nefsani arzularına uyup aşırıya gidenler ve insanları Allah yolundan uzaklaştıranlara itaat edilmez.",
+       "sayfa": 66
+      },
+      {
+       "id": "2.3-05",
+       "tur": "dy",
+       "ifade": "Nisa suresinin 69. ayeti \"Bunlar ne güzel arkadaştır.\" sözleriyle son bulur ve insanlar iyilerle arkadaş olmaya teşvik edilir.",
+       "dogru": true,
+       "bilgi": "Dünya ve ahirette mutlu olmak için ayette geçen kimselere yakın olmak ve onları örnek almak önemlidir.",
+       "sayfa": 66
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "ad": "İslam Düşüncesinde Tasavvufi Yorumlar",
+   "konular": [
+    {
+     "no": "3.1",
+     "ad": "Tasavvufi Düşüncenin Oluşumu",
+     "kartlar": [
+      {
+       "id": "3.1-01",
+       "tur": "bosluk",
+       "cumle": "Sözlükte saf olmak ve ilk safta bulunmak anlamına gelen tasavvufu benimseyen kimselere ___ denir.",
+       "cevap": "sufi",
+       "celdiriciler": [
+        "müderris",
+        "muhaddis",
+        "müfessir"
+       ],
+       "bilgi": "Sufiler sonraki dönemlerde mutasavvıf olarak da adlandırılmıştır; mutasavvıflara göre nefsin arındırılması tasavvufun ana gayelerindendir.",
+       "sayfa": 72
+      },
+      {
+       "id": "3.1-02",
+       "tur": "secmeli",
+       "soru": "Tasavvufi düşüncenin gelişim aşamaları hangi seçenekte doğru sıralanmıştır?",
+       "secenekler": [
+        "Tasavvuf - Züht - Tarikat",
+        "Tarikat - Tasavvuf - Züht",
+        "Züht - Tasavvuf - Tarikat",
+        "Züht - Tarikat - Tasavvuf"
+       ],
+       "dogru": 2,
+       "bilgi": "Züht Dönemi hicri II. asra kadar, Tasavvuf Dönemi yaklaşık dört asır sürmüş; hicri VI. asırda tarikatlar kurumsallaşmıştır.",
+       "sayfa": 73
+      },
+      {
+       "id": "3.1-03",
+       "tur": "dy",
+       "ifade": "Tasavvufta züht, dünyayı tamamen terk edip çalışmayı bırakmak demektir.",
+       "dogru": false,
+       "bilgi": "Züht, dünyayı terk etmek değil; lezzet verici şeyleri azaltmak, ahireti unutmayıp dünyaya esir olmamaktır.",
+       "sayfa": 73
+      },
+      {
+       "id": "3.1-04",
+       "tur": "secmeli",
+       "soru": "Hasan Basri ile korku ve hüzün hâkim olan züht anlayışını Allah (cc) sevgisine dayalı bir şekle dönüştüren sufi kimdir?",
+       "secenekler": [
+        "Cüneyd Bağdadi",
+        "Râbia Adeviyye",
+        "Bayezid Bistami",
+        "Zünnun Mısri"
+       ],
+       "dogru": 1,
+       "bilgi": "Hicri II. asırda Medine, Kufe, Basra ve Horasan züht hayatının yaşandığı merkezler olarak öne çıkmıştır.",
+       "sayfa": 73
+      },
+      {
+       "id": "3.1-05",
+       "tur": "eslestir",
+       "yonerge": "Tasavvuf kavramlarını anlamlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "İhsan",
+         "Allah'a O'nu görüyormuş gibi ibadet etmek"
+        ],
+        [
+         "Halvet",
+         "Uzlet, inziva, tek başına yaşamak"
+        ],
+        [
+         "Seyrüsüluk",
+         "Bir rehberin denetiminde çıkılan manevi yolculuk"
+        ],
+        [
+         "Tezkiye",
+         "Nefsi manevi kirlerden arındırma"
+        ],
+        [
+         "Masiva",
+         "Allah'ın dışındaki tüm varlıklar"
+        ]
+       ],
+       "bilgi": "Züht ise elde mevcut olsa bile gönülde mal ve mülk sevgisine yer vermemektir.",
+       "sayfa": 74
+      },
+      {
+       "id": "3.1-06",
+       "tur": "secmeli",
+       "soru": "Teoride \"tasavvuf\" diye adlandırılan akımın pratik hayatta aldığı isim nedir?",
+       "secenekler": [
+        "Fütüvvet",
+        "Ahilik",
+        "Züht",
+        "Tarikat"
+       ],
+       "dogru": 3,
+       "bilgi": "Tasavvuf düşüncesinin öğretileri gündelik hayatta tarikatlar yoluyla uygulamaya geçirilmiştir.",
+       "sayfa": 74
+      },
+      {
+       "id": "3.1-07",
+       "tur": "bosluk",
+       "cumle": "Tarikatların kurumsallaştığı ve sosyal hayatın bir parçası hâline geldiği dönem hicri ___ asırdır.",
+       "cevap": "VI.",
+       "celdiriciler": [
+        "II.",
+        "III.",
+        "IV."
+       ],
+       "bilgi": "Bu dönemde İbnülarabi ve Mevlana gibi büyük mutasavvıflar yetişmiş, şiir ve edebiyatta önemli tasavvufi eserler verilmiştir.",
+       "sayfa": 74
+      },
+      {
+       "id": "3.1-08",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki mutasavvıflardan hangisi tasavvuf düşüncesini XII-XIII. asırlarda tarikat yapısına dönüştürenlerden biridir?",
+       "secenekler": [
+        "Abdulkadir Geylani",
+        "Hasan Basri",
+        "Râbia Adeviyye",
+        "Maruf Kerhi"
+       ],
+       "dogru": 0,
+       "bilgi": "Ahmed Yesevi, Ahmed Rıfai ve Bahaeddin Nakşibend de tasavvufu tarikat yapılarına dönüştüren mutasavvıflardandır.",
+       "sayfa": 74
+      }
+     ]
+    },
+    {
+     "no": "3.2",
+     "ad": "Tasavvufi Düşüncenin Ahlaki Boyutu",
+     "kartlar": [
+      {
+       "id": "3.2-01",
+       "tur": "secmeli",
+       "soru": "\"Tasavvuf ne birtakım merasimler ne de bir bilgi yığınıdır; tasavvuf yalnızca ahlaktır.\" diyen sufi kimdir?",
+       "secenekler": [
+        "Hasan Basri",
+        "Gazali",
+        "Ebülhüseyin Nuri",
+        "Cüneyd Bağdadi"
+       ],
+       "dogru": 2,
+       "bilgi": "Ebülhüseyin Nuri'ye göre tasavvuf hürriyet, fütüvvet, dünya yüklerinden sıyrılmak ve cömertlik erdemlerinden ibarettir.",
+       "sayfa": 75
+      },
+      {
+       "id": "3.2-02",
+       "tur": "eslestir",
+       "yonerge": "Tasavvufun ahlaki boyutuyla ilgili kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Tahalluk",
+         "Tasavvufun İslam ahlakını öğreten eğitim boyutu"
+        ],
+        [
+         "Tahakkuk",
+         "Sufinin Hakk'ı zat, sıfat ve fiilleriyle tanımaya başlaması"
+        ],
+        [
+         "Edep",
+         "İyi ahlak, incelik ve terbiye"
+        ],
+        [
+         "Hüsnülhuluk",
+         "Güzel ahlak"
+        ]
+       ],
+       "bilgi": "Bazı mutasavvıflar tasavvufun konusunu \"tahalluk ve tahakkuk\" olarak özetlemiştir.",
+       "sayfa": 75
+      },
+      {
+       "id": "3.2-03",
+       "tur": "bosluk",
+       "cumle": "Arapçada \"olgun insan\" anlamına gelen ve tasavvuf eğitiminin insanı ulaştırmayı amaçladığı en yüksek mertebe ___'dir.",
+       "cevap": "insanıkâmil",
+       "celdiriciler": [
+        "zahit",
+        "mürit",
+        "salik"
+       ],
+       "bilgi": "İnsanıkâmil; şeriat, tarikat, hakikat ve marifet itibarıyla tam ve olgun kişidir.",
+       "sayfa": 76
+      },
+      {
+       "id": "3.2-04",
+       "tur": "dy",
+       "ifade": "Sufiler, zarafet ve nezaketin kaynağı olan edep anlayışını \"Edep Ya Hu!\" sözüyle ifade etmişlerdir.",
+       "dogru": true,
+       "bilgi": "\"Tasavvuf tamamen edepten ibarettir.\" diyen sufiler, edep kurallarını Tarikatlar Dönemi'nde adap ve erkân tabirleriyle ifade etmiştir.",
+       "sayfa": 75
+      },
+      {
+       "id": "3.2-05",
+       "tur": "dy",
+       "ifade": "Sufilere göre tasavvufi hayatta ahlak ve faziletler, ibadet ve zikirden sonra gelen ikinci derecede konulardır.",
+       "dogru": false,
+       "bilgi": "Sufiler, tasavvufi hayatta ibadet ve zikir kadar ahlak ve faziletlerin de önemli bir yeri olduğunu belirtmiştir.",
+       "sayfa": 75
+      },
+      {
+       "id": "3.2-06",
+       "tur": "secmeli",
+       "soru": "Hz. Peygamber'in ahlakını soran kişiye \"Sen hiç Kur'an okumuyor musun? Onun ahlakı Kur'an'dı.\" cevabını veren kimdir?",
+       "secenekler": [
+        "Hz. Fatıma",
+        "Hz. Aişe",
+        "Hz. Ali",
+        "Hz. Ebubekir"
+       ],
+       "dogru": 1,
+       "bilgi": "İslam'da ahlakın kaynağı Kur'an'dır ve Kur'an ahlakını en güzel biçimde yaşayan Hz. Muhammed'dir (sav).",
+       "sayfa": 75
+      }
+     ]
+    },
+    {
+     "no": "3.3",
+     "ad": "Kültürümüzde Etkin Olan Tasavvufi Yorumlar",
+     "kartlar": [
+      {
+       "id": "3.3-01",
+       "tur": "eslestir",
+       "yonerge": "Tasavvufi akımları görüşleri etrafında oluştukları şahsiyetlerle eşleştir.",
+       "ciftler": [
+        [
+         "Yesevilik",
+         "Hoca Ahmed Yesevi"
+        ],
+        [
+         "Kadirilik",
+         "Abdülkadir Geylani"
+        ],
+        [
+         "Rifailik",
+         "Ahmed Rıfai"
+        ],
+        [
+         "Mevlevilik",
+         "Mevlana Celaleddin Rumi"
+        ],
+        [
+         "Nakşibendilik",
+         "Muhammed Bahaeddin Nakşibend"
+        ]
+       ],
+       "bilgi": "Tasavvufi düşünce, İslam'ın Anadolu, Balkanlar, Orta Asya, Hindistan ve Endonezya gibi farklı coğrafyalara ulaşmasında büyük etki yapmıştır.",
+       "sayfa": 76
+      },
+      {
+       "id": "3.3-02",
+       "tur": "secmeli",
+       "soru": "Kadiriliği Anadolu'ya ilk kez getiren ve tarikatta \"Pir-i Sani\" diye anılan Hacı Bayram Veli'nin damadı kimdir?",
+       "secenekler": [
+        "Kenan Rıfai",
+        "Eşrefoğlu Rumi",
+        "Abdal Musa",
+        "Geyikli Baba"
+       ],
+       "dogru": 1,
+       "bilgi": "Eşrefoğlu Rumi \"Müzekki'n-Nüfus\" adlı eseri ve şiirleriyle Anadolu tasavvuf çevrelerinde çok sevilmiştir.",
+       "sayfa": 78
+      },
+      {
+       "id": "3.3-03",
+       "tur": "secmeli",
+       "soru": "Allah'a ulaşmanın nefsin tezkiyesiyle mümkün olduğunu kabul eden ve dokuz aşamalı bir eğitim ve zikir programı uygulayan tarikat hangisidir?",
+       "secenekler": [
+        "Kadirilik",
+        "Nakşibendilik",
+        "Mevlevilik",
+        "Rifailik"
+       ],
+       "dogru": 3,
+       "bilgi": "Rifailere göre tasavvuf baştan sona edeptir; Rifailik ülkemizde Kenan Rıfai ve talebeleri tarafından sürdürülmüştür.",
+       "sayfa": 79
+      },
+      {
+       "id": "3.3-04",
+       "tur": "dy",
+       "ifade": "Mevlevilikte sema kıyamet gününü, semahane ise kâinatı temsil eder.",
+       "dogru": true,
+       "bilgi": "Semazenin başındaki sikke mezar taşını, hırkası mezarını, tennuresi kefenini temsil eder; Mevlana'nın görüşlerini oğlu Sultan Veled sistemleştirmiştir.",
+       "sayfa": 80
+      },
+      {
+       "id": "3.3-05",
+       "tur": "bosluk",
+       "cumle": "Zikrin gizlice ve kalpten yapılmasını esas alan Nakşibendilikte toplu hâlde yapılan zikre ___ denir.",
+       "cevap": "hatmihacegan",
+       "celdiriciler": [
+        "semah",
+        "mukabele",
+        "gülbank"
+       ],
+       "bilgi": "Nakşibendiliğin esaslarından biri \"halvet der encümen\", yani halk içinde Hak'la olmaktır.",
+       "sayfa": 81
+      },
+      {
+       "id": "3.3-06",
+       "tur": "secmeli",
+       "soru": "Hacı Bektaş Veli'nin \"dört kapı kırk makam\" öğretisindeki dört kapı hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "İman, İslam, ihsan ve takva",
+        "Şeriat, tarikat, marifet ve hakikat",
+        "Züht, tasavvuf, tarikat ve insanıkâmil",
+        "İlim, amel, ihlas ve edep"
+       ],
+       "dogru": 1,
+       "bilgi": "Kaygusuz Abdal dört kapıyı mevsimlere benzetmiştir: Kış şeriat, yaz tarikat, güz marifet, bahar hakikattir.",
+       "sayfa": 82
+      },
+      {
+       "id": "3.3-07",
+       "tur": "secmeli",
+       "soru": "Alevi-Bektaşi geleneğinde ayinicem erkânının yapıldığı, yol ve adabın öğrenilip uygulandığı yere ne ad verilir?",
+       "secenekler": [
+        "Cemevi",
+        "Zaviye",
+        "Ribat",
+        "Semahane"
+       ],
+       "dogru": 0,
+       "bilgi": "Bektaşilikte cemevi, meydanevi veya kırklar meydanı olarak da isimlendirilir; cem, Alevi-Bektaşi geleneğinin en önemli erkânıdır.",
+       "sayfa": 83
+      },
+      {
+       "id": "3.3-08",
+       "tur": "eslestir",
+       "yonerge": "Cemdeki on iki hizmetten bazılarını görevleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Mürşit (Dede)",
+         "Cem erkânının başkanlığını yapar"
+        ],
+        [
+         "Rehber",
+         "Yola girmek isteyenleri hazırlar"
+        ],
+        [
+         "Gözcü",
+         "Cemin sessiz ve sakin geçmesini sağlar"
+        ],
+        [
+         "Zakir (Âşık)",
+         "Tevhit, düvazde imam ve mersiye söyler"
+        ],
+        [
+         "Peyikçi",
+         "Cem olacağını tüm canlara duyurur"
+        ]
+       ],
+       "bilgi": "Cem erkânının ana teması Allah-Muhammed-Ali ve ehlibeyt sevgisidir.",
+       "sayfa": 84
+      },
+      {
+       "id": "3.3-09",
+       "tur": "bosluk",
+       "cumle": "Alevilik-Bektaşilikte evli iki kişinin aileleriyle birlikte kurban keserek hayat boyu yol kardeşi olmaya ikrar vermesine ___ denir.",
+       "cevap": "musahiplik",
+       "celdiriciler": [
+        "razılık",
+        "gülbank",
+        "semah"
+       ],
+       "bilgi": "Musahiplik, Hz. Peygamber'in Medine'de muhacirlerle ensar arasında kurduğu kardeşlik (muahat) uygulamasına dayandırılır.",
+       "sayfa": 85
+      },
+      {
+       "id": "3.3-10",
+       "tur": "dy",
+       "ifade": "Alevilik-Bektaşilik kültüründe dua \"semah\" olarak adlandırılır.",
+       "dogru": false,
+       "bilgi": "Alevilik-Bektaşilikte dua gülbank olarak adlandırılır; semah ise ilahi bir aşkla ayakta dönülerek yapılan zikirdir.",
+       "sayfa": 87
+      },
+      {
+       "id": "3.3-11",
+       "tur": "secmeli",
+       "soru": "Alevi-Bektaşilerin Kerbela'da yapılan zulmü anmak için muharrem ayında matemle birlikte tuttukları orucun diğer adı nedir?",
+       "secenekler": [
+        "Hızır orucu",
+        "Abdal Musa orucu",
+        "Yas-ı Matem",
+        "Nevruz orucu"
+       ],
+       "dogru": 2,
+       "bilgi": "Hızır orucu ise genellikle şubat ayının 13, 14 ve 15. günlerinde tutulur.",
+       "sayfa": 88
+      },
+      {
+       "id": "3.3-12",
+       "tur": "secmeli",
+       "soru": "Yılın ilk cemi olan ve dargın kimselerin barıştırılıp birliğin sağlanması amacıyla yapılan cem hangisidir?",
+       "secenekler": [
+        "Dardan indirme cemi",
+        "Abdal Musa cemi",
+        "Düşkünlükten kaldırma cemi",
+        "Musahiplik cemi"
+       ],
+       "dogru": 1,
+       "bilgi": "Dardan indirme cemi vefat eden kişi için razılık alma cemidir; düşkünlükten kaldırma cemi ise tövbe edip kul hakkını iade edenler için yapılır.",
+       "sayfa": 85
+      }
+     ]
+    },
+    {
+     "no": "3.4",
+     "ad": "Kur'an'dan Mesajlar: Hucurat Suresi 10. Ayet",
+     "kartlar": [
+      {
+       "id": "3.4-01",
+       "tur": "secmeli",
+       "soru": "Hucurat suresine adını veren \"hucurât\" kelimesinin anlamı nedir?",
+       "secenekler": [
+        "Kardeşler",
+        "Odalar",
+        "Duvarlar",
+        "Kapılar"
+       ],
+       "dogru": 1,
+       "bilgi": "Sure, inananların Peygamber'e karşı ve kendi aralarında uymaları gereken görgü ve ahlak kurallarını konu edinir.",
+       "sayfa": 92
+      },
+      {
+       "id": "3.4-02",
+       "tur": "dy",
+       "ifade": "Hucurat suresi Mekke Dönemi'nde nazil olmuştur.",
+       "dogru": false,
+       "bilgi": "Hucurat suresi Medine Dönemi'nde nazil olmuş ve on sekiz ayettir.",
+       "sayfa": 92
+      },
+      {
+       "id": "3.4-03",
+       "tur": "bosluk",
+       "cumle": "Hucurat suresinin 10. ayetinde \"Müminler ancak ___. Öyleyse kardeşlerinizin arasını düzeltin.\" buyrulur.",
+       "cevap": "kardeştirler",
+       "celdiriciler": [
+        "dosttur",
+        "eşittir",
+        "komşudur"
+       ],
+       "bilgi": "Ayette bunların takva bilinciyle yapılması gerektiği ve bu yolla Allah'ın merhametine ulaşılabileceği vurgulanır.",
+       "sayfa": 92
+      },
+      {
+       "id": "3.4-04",
+       "tur": "secmeli",
+       "soru": "Hz. Peygamber'in hicretten sonra muhacirlerle ensarı kardeş ilan ettiği uygulamaya ne ad verilir?",
+       "secenekler": [
+        "Biat",
+        "Mevali",
+        "Muahat",
+        "Fütüvvet"
+       ],
+       "dogru": 2,
+       "bilgi": "Muahat sonucunda Medineli Müslümanlar her şeylerini Mekke'de bırakan muhacirlerle evlerini ve bahçelerini paylaşmıştır.",
+       "sayfa": 93
+      },
+      {
+       "id": "3.4-05",
+       "tur": "dy",
+       "ifade": "Kur'an'ın öngördüğü kardeşliği ortaya koyan ana unsur imandır; iman aralarında kan bağı olmayan bireyleri kardeş yapar.",
+       "dogru": true,
+       "bilgi": "Bu bağ, Hz. Bilal'i kölelikten kurtarıp Hz. Ebu Bekir'le aynı seviyeye getirmiştir.",
+       "sayfa": 93
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "ad": "Güncel Dinî Meseleler",
+   "konular": [
+    {
+     "no": "4.1",
+     "ad": "Dinî Meselelerin Çözümünde Temel İlke ve Yöntemler",
+     "kartlar": [
+      {
+       "id": "4.1-01",
+       "tur": "bosluk",
+       "cumle": "Kur'an, sünnet ve icma ile hükmü açıkça konulmamış bir dinî meselenin hükmüne ulaşmak için müçtehidin elinden gelen çabayı sarf etmesine ___ denir.",
+       "cevap": "içtihat",
+       "celdiriciler": [
+        "icma",
+        "fetva",
+        "maslahat"
+       ],
+       "bilgi": "Müçtehit, Kur'an ve sünnet gibi asli delillerden dinî hükümler çıkarabilecek bilgi ve beceriye sahip âlimdir.",
+       "sayfa": 98
+      },
+      {
+       "id": "4.1-02",
+       "tur": "secmeli",
+       "soru": "Hz. Muhammed'in (sav) vefatından sonra herhangi bir asırda müçtehitlerin bir meselenin dinî hükmü üzerinde ittifak etmelerine ne denir?",
+       "secenekler": [
+        "İçtihat",
+        "Fetva",
+        "İcma",
+        "Maslahat"
+       ],
+       "dogru": 2,
+       "bilgi": "Kur'an ve sünnette hüküm bulunmayan meseleler beşer zekâsına ve içtihada bırakılmıştır.",
+       "sayfa": 98
+      },
+      {
+       "id": "4.1-03",
+       "tur": "eslestir",
+       "yonerge": "Zaruri maslahatları kapsadıkları konularla eşleştir.",
+       "ciftler": [
+        [
+         "Dinin korunması",
+         "İnanç hürriyeti ve ibadetlerin yerine getirilmesi"
+        ],
+        [
+         "Hayatın korunması",
+         "Yaşama hakkı ve kişinin dokunulmazlığı"
+        ],
+        [
+         "Aklın korunması",
+         "Uyuşturucu ve sarhoşluk verici maddelerden korunma"
+        ],
+        [
+         "Neslin korunması",
+         "Zinanın yasaklanması ve aile mahremiyeti"
+        ],
+        [
+         "Malın korunması",
+         "Ferdî mülkiyet ve haksız kazanç yasağı"
+        ]
+       ],
+       "bilgi": "Din, hayat, akıl, nesil ve mal İslam'da insana verilen beş temel hak (zaruri maslahatlar) olarak değerlendirilmiştir.",
+       "sayfa": 99
+      },
+      {
+       "id": "4.1-04",
+       "tur": "dy",
+       "ifade": "Hakkında açık hüküm bulunan veya geçmişte icma ile hükme bağlanmış (zaruratıdiniye) konularda da içtihat yapılabilir.",
+       "dogru": false,
+       "bilgi": "Zaruratıdiniye konularında içtihat söz konusu olmaz; içtihat yalnızca hakkında açık ve kesin hüküm bulunmayan konularda yapılır.",
+       "sayfa": 99
+      },
+      {
+       "id": "4.1-05",
+       "tur": "secmeli",
+       "soru": "İslam'ın korumaya çalıştığı değerleri ihlal ettiği için caiz (mübah) görülmeyen uygulama hangisidir?",
+       "secenekler": [
+        "Kan bağışı",
+        "Organ ticareti",
+        "Zaruret hâlinde otopsi",
+        "Tedavi amaçlı organ nakli"
+       ],
+       "dogru": 1,
+       "bilgi": "Dinî meseleleri çözmeye çalışan âlim fıtrata, ahlaka ve insan onuruna uygunluğu öncelemelidir.",
+       "sayfa": 99
+      },
+      {
+       "id": "4.1-06",
+       "tur": "secmeli",
+       "soru": "İmam Rabbani'nin zaruratıdiniye sınıflandırmasında zina, içki ve kumar hangi grupta yer alır?",
+       "secenekler": [
+        "İnanılması zorunlu esaslar",
+        "Farziyeti kesin ibadetler",
+        "Mekruh sayılan davranışlar",
+        "Haramlığı sabit hususlar"
+       ],
+       "dogru": 3,
+       "bilgi": "İmam Rabbani'ye göre tevhit, nübüvvet, ahiret inanılması zorunlu esaslar; namaz, zekât, oruç, hac farziyeti kesin ibadetlerdir.",
+       "sayfa": 99
+      },
+      {
+       "id": "4.1-07",
+       "tur": "bosluk",
+       "cumle": "Yeni meselelerin dinî hükmünü tespit eden Din İşleri Yüksek Kurulu, 1924 yılında ___ adıyla kurulmuştur.",
+       "cevap": "Heyetimüşavere",
+       "celdiriciler": [
+        "Meşihat",
+        "Şeyhülislamlık",
+        "Darülhikme"
+       ],
+       "bilgi": "Kurul, asli delillerin yanında maslahat, zaruret, örf ve âdet gibi tali delilleri de esas alır.",
+       "sayfa": 100
+      },
+      {
+       "id": "4.1-08",
+       "tur": "dy",
+       "ifade": "İslam'da içki ve uyuşturucu yasağı, sağlığa zararlarının yanında özellikle aklı korumak için konulmuş bir hükümdür.",
+       "dogru": true,
+       "bilgi": "İnsanın dinî, hukuki ve ahlaki yükümlülüklerden sorumlu olmasının temel şartı akıldır.",
+       "sayfa": 100
+      },
+      {
+       "id": "4.1-09",
+       "tur": "secmeli",
+       "soru": "Fıkıh ilmi geniş anlamıyla nasıl tanımlanır?",
+       "secenekler": [
+        "Kişinin hak ve yükümlülüklerini bilmesi",
+        "Kur'an ayetlerinin anlamını açıklama",
+        "İnanç esaslarını akli delillerle savunma",
+        "Hz. Peygamber'in hayatını inceleme"
+       ],
+       "dogru": 0,
+       "bilgi": "Fıkıh, ortaya koyduğu hükümlerle hayatı dinî ölçülere göre yaşamayı mümkün kılar.",
+       "sayfa": 98
+      }
+     ]
+    },
+    {
+     "no": "4.2",
+     "ad": "İktisadi Hayatla İlgili Meseleler",
+     "kartlar": [
+      {
+       "id": "4.2-01",
+       "tur": "secmeli",
+       "soru": "İslam'a göre malın kazanımı, kullanımı ve tüketiminde en temel ilke hangisidir?",
+       "secenekler": [
+        "Meşruluk",
+        "Biriktirme",
+        "Hız",
+        "Rekabet"
+       ],
+       "dogru": 0,
+       "bilgi": "Nisa suresinin 29. ayeti faiz, kumar, rüşvet gibi batıl yollarla mal edinmeyi yasaklar.",
+       "sayfa": 101
+      },
+      {
+       "id": "4.2-02",
+       "tur": "dy",
+       "ifade": "İslam'ın mülkiyet anlayışına göre mülkün asıl sahibi Allah'tır ve insan O'nun mülkü üzerinde sınırsız tasarruf hakkına sahiptir.",
+       "dogru": false,
+       "bilgi": "İnsanın tasarruf hakkı sınırsız değildir; toplum yararını gözetmek, cimrilik ve israftan kaçınmak zorundadır.",
+       "sayfa": 101
+      },
+      {
+       "id": "4.2-03",
+       "tur": "bosluk",
+       "cumle": "İslam, ekonomik sıkıntıdaki kişiye faizli borç yerine karşılık beklenmeden verilen güzel borç anlamındaki ___ önerir.",
+       "cevap": "karzıhaseni",
+       "celdiriciler": [
+        "sadakayıcariyeyi",
+        "kefaleti",
+        "fidyeyi"
+       ],
+       "bilgi": "Kur'an'da karz kelimesi başkasına borç vermek ve karşılıksız ödünç vermek anlamında kullanılır.",
+       "sayfa": 104
+      },
+      {
+       "id": "4.2-04",
+       "tur": "dy",
+       "ifade": "Karşı tarafın şahsiyetini incitmediği için ihtiyaç sahibine borç vermek, sadaka vermekten daha faziletli kabul edilir.",
+       "dogru": true,
+       "bilgi": "Allah için borç vermek, karşılığında menfaat beklememek ve borçluya ödeme kolaylığı tanımak demektir.",
+       "sayfa": 104
+      },
+      {
+       "id": "4.2-05",
+       "tur": "secmeli",
+       "soru": "İyiliklerde farz olan asgari ölçünün ötesine geçip isteyerek ve severek daha fazlasını yapmak hangi kavramla ifade edilir?",
+       "secenekler": [
+        "Adalet",
+        "Meşruluk",
+        "İhsan",
+        "Ölçülülük"
+       ],
+       "dogru": 2,
+       "bilgi": "İslam gelir eşitsizliği ve fakirliğe karşı adalet, ihsan ve paylaşma eksenli çözümler üretir.",
+       "sayfa": 104
+      },
+      {
+       "id": "4.2-06",
+       "tur": "bosluk",
+       "cumle": "İslam'a göre adalet eşitlik değil, verilen ile hak edilen arasındaki ___ ifade eder.",
+       "cevap": "dengeyi",
+       "celdiriciler": [
+        "benzerliği",
+        "sınırı",
+        "farkı"
+       ],
+       "bilgi": "Adalet davranış ve hükümde doğru olmak, her şeyin yerli yerinde olması anlamlarına gelir.",
+       "sayfa": 104
+      },
+      {
+       "id": "4.2-07",
+       "tur": "secmeli",
+       "soru": "Hz. Muhammed'in (sav) \"İşçiye ücretini alın teri kurumadan ödeyiniz.\" sözü öncelikle neyi vurgular?",
+       "secenekler": [
+        "İşçinin işverene dürüst davranmasını",
+        "Ücretin geciktirilmeden ödenmesini",
+        "İşin süresinin uzatılmasını",
+        "Ücretin işin zorluğuna göre artırılmasını"
+       ],
+       "dogru": 1,
+       "bilgi": "İşveren, iş başlamadan önce işin türünü, süresini ve ücretini bildirerek işçiyle mutabakata varmalıdır.",
+       "sayfa": 107
+      },
+      {
+       "id": "4.2-08",
+       "tur": "secmeli",
+       "soru": "İslam'a göre işveren, işçi seçerken öncelikle neye önem vermelidir?",
+       "secenekler": [
+        "İşçinin dinine ve ırkına",
+        "İşçinin mensup olduğu sosyal gruba",
+        "İşçinin kabiliyet ve liyakatine",
+        "İşçinin doğduğu memlekete"
+       ],
+       "dogru": 2,
+       "bilgi": "İşveren işçinin dinine, rengine, ırkına veya sosyal grubuna değil kabiliyet ve liyakatine bakmalıdır.",
+       "sayfa": 107
+      },
+      {
+       "id": "4.2-09",
+       "tur": "secmeli",
+       "soru": "Kardeş ilan edildiği Sad bin Rebi'nin servetinin yarısını teklif etmesini kabul etmeyip \"Bana çarşınızın yerini göster.\" diyen sahabi kimdir?",
+       "secenekler": [
+        "Hz. Bilal",
+        "Abdurrahman bin Avf",
+        "Mus'ab bin Umeyr",
+        "Sad bin Muaz"
+       ],
+       "dogru": 1,
+       "bilgi": "Küçük alışverişlerle başlayan Abdurrahman bin Avf kısa sürede Medine'nin sayılı zenginlerinden biri olmuştur.",
+       "sayfa": 106
+      },
+      {
+       "id": "4.2-10",
+       "tur": "dy",
+       "ifade": "Hz. Peygamber en temiz kazancı, kişinin kendi elinin emeği ve dürüst ticaretten elde edilen kazanç olarak açıklamıştır.",
+       "dogru": true,
+       "bilgi": "Ölçü ve tartıda hile yapmamak, borcu tam ve zamanında ödemek İslam'ın ekonomik ilkelerindendir.",
+       "sayfa": 106
+      }
+     ]
+    },
+    {
+     "no": "4.3",
+     "ad": "Gıda Maddeleri ve Bağımlılıkla İlgili Meseleler",
+     "kartlar": [
+      {
+       "id": "4.3-01",
+       "tur": "bosluk",
+       "cumle": "İslam'da aksi yönde dinî bir hüküm bulunmadıkça her şey helal kabul edilir; çünkü \"Eşyada aslolan ___ ve serbest oluştur.\"",
+       "cevap": "helal",
+       "celdiriciler": [
+        "haram",
+        "mekruh",
+        "şüpheli"
+       ],
+       "bilgi": "Dinin serbest bıraktığı şeylere helal, terk edilmesini istediği şeylere haram denir.",
+       "sayfa": 109
+      },
+      {
+       "id": "4.3-02",
+       "tur": "dy",
+       "ifade": "İslam'a göre bir şeye \"haram\" demek, \"helal\" demekten daha zordur.",
+       "dogru": true,
+       "bilgi": "İslam'da yasaklar sınırlı, helallerin kapsamı ise oldukça geniştir.",
+       "sayfa": 109
+      },
+      {
+       "id": "4.3-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi İslam'da helal ve haramlarla ilgili temel ölçütlerden biridir?",
+       "secenekler": [
+        "Miktarın azlığı haram hükmünü değiştirir.",
+        "İyi niyet haramı helal yapmaz.",
+        "Şüpheli şeyler serbestçe tüketilebilir.",
+        "Hileli yollarla haram helal kılınabilir."
+       ],
+       "dogru": 1,
+       "bilgi": "Zaruretler yasak olan şeyleri mübah kılar; ancak miktarın azlığı veya çokluğu haram hükmünü değiştirmez.",
+       "sayfa": 110
+      },
+      {
+       "id": "4.3-04",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi İslam'da haram kılınan hayvansal ürünlerden biri değildir?",
+       "secenekler": [
+        "Domuz eti",
+        "Vücuttan dışarı akan kan",
+        "Deniz avı",
+        "Kesilmeksizin ölen hayvanın eti"
+       ],
+       "dogru": 2,
+       "bilgi": "Kur'an'da denizden elde edilen yiyecekler ve deniz avının helal olduğu bildirilmiştir.",
+       "sayfa": 110
+      },
+      {
+       "id": "4.3-05",
+       "tur": "bosluk",
+       "cumle": "Bazı âlimlere göre katkı maddelerinde ___ denilen kimyasal değişim meydana geldiğinde bu gıdaların tüketimi helal olur.",
+       "cevap": "istihale",
+       "celdiriciler": [
+        "içtihat",
+        "maslahat",
+        "zaruret"
+       ],
+       "bilgi": "Domuzdan elde edilen katkı maddeleri bu görüşün istisnasıdır; çünkü domuz ayet ve hadislerle açıkça haram kılınmıştır.",
+       "sayfa": 111
+      },
+      {
+       "id": "4.3-06",
+       "tur": "dy",
+       "ifade": "Domuzdan elde edilen katkı maddeleri istihale ile kimyasal değişime uğradığında helal hâle gelir.",
+       "dogru": false,
+       "bilgi": "Haram hükmünün değişmesinde istihalenin rolü yoktur; domuzdan elde edilen katkı maddeleri haramdır.",
+       "sayfa": 111
+      },
+      {
+       "id": "4.3-07",
+       "tur": "secmeli",
+       "soru": "Sigara içmek; içene ve çevresine zarar vermesi, israfa ve hak ihlallerine yol açması nedeniyle dinen nasıl değerlendirilmiştir?",
+       "secenekler": [
+        "Mübah (serbest)",
+        "Tenzihen (hafif) mekruh",
+        "Harama yakın mekruh",
+        "Helal ve serbest"
+       ],
+       "dogru": 2,
+       "bilgi": "Sigara tahrimen (harama yakın) mekruh sayılmıştır; alkollü içki, uyuşturucu ve kumar ise haramdır.",
+       "sayfa": 113
+      },
+      {
+       "id": "4.3-08",
+       "tur": "secmeli",
+       "soru": "Hz. Peygamber'e göre haram bir maddeyi kullananla birlikte kimler de aynı günaha girer?",
+       "secenekler": [
+        "Yalnızca onu satın alanlar",
+        "Onu imal eden, taşıyan ve sunanlar",
+        "Sadece onu ilk kez deneyenler",
+        "Hiç kimse; günah yalnızca kullanana aittir"
+       ],
+       "dogru": 1,
+       "bilgi": "İslam'da yasak olan şeyleri yapmak günah olduğu gibi bunlara rıza göstermek ve yardımcı olmak da günahtır.",
+       "sayfa": 113
+      }
+     ]
+    },
+    {
+     "no": "4.4",
+     "ad": "Sağlık ve Tıpla İlgili Meseleler",
+     "kartlar": [
+      {
+       "id": "4.4-01",
+       "tur": "secmeli",
+       "soru": "Din âlimlerine göre otopsinin hükmü nedir?",
+       "secenekler": [
+        "Her durumda kesinlikle haramdır.",
+        "Zaruret ölçüsünde caizdir.",
+        "Hiçbir şarta bağlı olmadan serbesttir.",
+        "Yalnızca ölünün vasiyeti varsa farzdır."
+       ],
+       "dogru": 1,
+       "bilgi": "Din âlimlerine göre otopsi gereklilik hâlinde ve zaruret ölçüsünde caizdir; insanın ölümünden sonra da dokunulmazlığı vardır.",
+       "sayfa": 114
+      },
+      {
+       "id": "4.4-02",
+       "tur": "bosluk",
+       "cumle": "Sözlükte kolay ölüm, hızlı ölüm anlamlarına gelen ___, tedavisi olmayan hastanın hayatına izinle son verilmesidir.",
+       "cevap": "ötenazi",
+       "celdiriciler": [
+        "otopsi",
+        "intihar",
+        "anestezi"
+       ],
+       "bilgi": "İslam'da \"ölüm hakkı\" değil \"yaşama hakkı\" olduğu için ötenazi haram, hatta cinayet sayılır.",
+       "sayfa": 114
+      },
+      {
+       "id": "4.4-03",
+       "tur": "secmeli",
+       "soru": "İslam âlimlerinin çoğuna göre hangi durumda yaşam desteğinin çekilmesi ötenazi kapsamında değerlendirilmez?",
+       "secenekler": [
+        "Bitkisel hayattaki kişide",
+        "Beyin ölümü gerçekleşmiş kişide",
+        "Uzun süredir tedavi gören yaşlı hastada",
+        "Şiddetli ağrı çeken hastada"
+       ],
+       "dogru": 1,
+       "bilgi": "Bitkisel hayattaki kişi tıbben ölü sayılmadığı için tedavisinin durdurulması ötenazi kabul edilir.",
+       "sayfa": 115
+      },
+      {
+       "id": "4.4-04",
+       "tur": "secmeli",
+       "soru": "Organ nakliyle ilgili fetva kurullarının kararlarına göre aşağıdakilerden hangisi haramdır?",
+       "secenekler": [
+        "Zaruret ve olumlu sonuç beklentisi varken nakil",
+        "Kişinin veya kanuni temsilcisinin izniyle nakil",
+        "Ticari amaç taşımayan tedavi amaçlı nakil",
+        "Canlıdan hayatını bitirecek organı almak"
+       ],
+       "dogru": 3,
+       "bilgi": "Organ naklinin caizliği, organların ticari eşya gibi alınıp satılmaması şartına bağlıdır.",
+       "sayfa": 116
+      },
+      {
+       "id": "4.4-05",
+       "tur": "dy",
+       "ifade": "Kan bağışı dinen sakıncalıdır; kişi kendi tedavisi için de kan aldıramaz.",
+       "dogru": false,
+       "bilgi": "Kan nakli dinen sakıncalı değildir; bağışçının ücret talep etmeden insani bir görev olarak bağışta bulunması en doğrusudur.",
+       "sayfa": 116
+      },
+      {
+       "id": "4.4-06",
+       "tur": "dy",
+       "ifade": "Uzman ve dinine bağlı bir doktor başka seçenek olmadığını bildirirse hayati tehlikedeki hastanın haram maddelerle tedavisi caiz görülmüştür.",
+       "dogru": true,
+       "bilgi": "Hastalıklara çare aramak hem fıtri hem dinî bir gerekliliktir.",
+       "sayfa": 116
+      },
+      {
+       "id": "4.4-07",
+       "tur": "secmeli",
+       "soru": "Kişinin hayatını sürdürecek ölçüde yemekten kaçınarak \"ölüm orucu\" tutması İslam'da nasıl değerlendirilir?",
+       "secenekler": [
+        "Nafile ibadet",
+        "İntihar hükmünde",
+        "Mübah bir davranış",
+        "Sevap kazandıran bir perhiz"
+       ],
+       "dogru": 1,
+       "bilgi": "İntihar dinen haram ve büyük günahtır; İslam ölüm tehlikesinde haram gıdaların bile yenmesine izin verir.",
+       "sayfa": 116
+      }
+     ]
+    },
+    {
+     "no": "4.5",
+     "ad": "Kur'an'dan Mesajlar: Enam Suresi 151 ve 152. Ayetler",
+     "kartlar": [
+      {
+       "id": "4.5-01",
+       "tur": "secmeli",
+       "soru": "Allah'ın birliği ve Hz. Muhammed'in hak peygamber olduğuna dair kesin belgeler içerdiği için Enam suresine verilen diğer ad hangisidir?",
+       "secenekler": [
+        "Melekler suresi",
+        "Hüccet suresi",
+        "Hucurat suresi",
+        "Fatır suresi"
+       ],
+       "dogru": 1,
+       "bilgi": "165 ayetlik Enam suresi adını \"deve, sığır, koyun ve keçi\" anlamındaki en'âm kelimesinden alır.",
+       "sayfa": 118
+      },
+      {
+       "id": "4.5-02",
+       "tur": "bosluk",
+       "cumle": "İbni Mesud, Enam suresinin 151-152. ayetleri için \"Kim Resulullah'ın ___ vasiyetini görmek isterse bu ayetleri okusun.\" demiştir.",
+       "cevap": "mühürlü",
+       "celdiriciler": [
+        "son",
+        "yazılı",
+        "gizli"
+       ],
+       "bilgi": "Bu ayetler canın, malın, neslin ve dinin dokunulmazlığını ve aklı kullanmanın önemini vurgular.",
+       "sayfa": 118
+      },
+      {
+       "id": "4.5-03",
+       "tur": "secmeli",
+       "soru": "Enam suresinin 151. ayetine göre Allah'ın haram kıldığı şeylerin başında hangisi gelir?",
+       "secenekler": [
+        "Faiz",
+        "Yalan",
+        "İsraf",
+        "Şirk"
+       ],
+       "dogru": 3,
+       "bilgi": "Şirk, Allah'ın zatında, sıfatlarında, fiillerinde veya O'na ibadette ortağı ya da dengi bulunduğuna inanmaktır.",
+       "sayfa": 119
+      },
+      {
+       "id": "4.5-04",
+       "tur": "dy",
+       "ifade": "İslam'da Allah'a ve Hz. Peygamber'e saygı ve itaatten sonra anne-babaya saygı ve itaat üçüncü sırada gelir.",
+       "dogru": true,
+       "bilgi": "\"Anaya babaya iyi davranın\" emri, onları incitmeme yasağını da içine alır.",
+       "sayfa": 119
+      },
+      {
+       "id": "4.5-05",
+       "tur": "dy",
+       "ifade": "Kumarla kazanılan parayı bir hayır kurumuna vermeyi amaçlamak kumarı meşru hâle getirir.",
+       "dogru": false,
+       "bilgi": "Haramlar konusunda iyi niyetli amaçlar da haramı meşru kılmaz; İslam harama yaklaştıran işleri de yasaklamıştır.",
+       "sayfa": 120
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "ad": "Hint ve Çin Dinleri",
+   "konular": [
+    {
+     "no": "5.1",
+     "ad": "Hinduizm",
+     "kartlar": [
+      {
+       "id": "5.1-01",
+       "tur": "secmeli",
+       "soru": "Hindular kendi dinlerini \"ezelî-ebedî din\" anlamında hangi adla anarlar?",
+       "secenekler": [
+        "Tripitaka",
+        "Sanatana Dharma",
+        "Tao Te King",
+        "Sangha"
+       ],
+       "dogru": 1,
+       "bilgi": "\"Hindu\" ve \"India\" terimleri ırmak anlamındaki Sanskritçe \"sindhu\" sözcüğünden türetilmiş Farsça kelimelerdir.",
+       "sayfa": 126
+      },
+      {
+       "id": "5.1-02",
+       "tur": "dy",
+       "ifade": "Hinduizm'i resmî din olarak kabul eden tek ülke Hindistan'dır.",
+       "dogru": false,
+       "bilgi": "Hinduizm'i resmî din kabul eden tek ülke Nepal'dir; Hindistan'da Hinduizm'den sonra en yaygın din İslam'dır.",
+       "sayfa": 126
+      },
+      {
+       "id": "5.1-03",
+       "tur": "secmeli",
+       "soru": "Hinduizm hakkında aşağıdakilerden hangisi doğrudur?",
+       "secenekler": [
+        "Buda tarafından kurulmuş evrensel bir dindir.",
+        "Tek tanrılı ve vahye dayalı bir dindir.",
+        "Çin'de doğup Hindistan'a yayılmıştır.",
+        "Kurucusu olmayan etnik (millî) bir dindir."
+       ],
+       "dogru": 3,
+       "bilgi": "Hinduizm, MÖ 2000'lerin ortalarında Hindistan'ı istila eden Arilerin inançlarıyla yerli halkın dünya görüşünün karışmasından doğmuştur.",
+       "sayfa": 127
+      },
+      {
+       "id": "5.1-04",
+       "tur": "eslestir",
+       "yonerge": "Hinduizm'deki tanrısal varlıkları özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Brahma",
+         "Yaratıcı tanrı"
+        ],
+        [
+         "Vişnu",
+         "Koruyucu; avatar olarak yeryüzüne gelir"
+        ],
+        [
+         "Şiva",
+         "Yok edici; ölüm ve hastalık tanrısı"
+        ],
+        [
+         "Devi",
+         "Hayat veren dişi tanrısal varlık, \"Anne\""
+        ]
+       ],
+       "bilgi": "Brahma en eski tanrılardan olmasına rağmen günümüzde en az saygı gösterilen tanrısal varlıktır.",
+       "sayfa": 127
+      },
+      {
+       "id": "5.1-05",
+       "tur": "eslestir",
+       "yonerge": "Hinduizm'deki kastları kapsadıkları gruplarla eşleştir.",
+       "ciftler": [
+        [
+         "Brahmanlar",
+         "Rahipler"
+        ],
+        [
+         "Kşatriyalar",
+         "Hükümdar sülalesi ve savaşçılar"
+        ],
+        [
+         "Vaisyalar",
+         "Tüccar, esnaf ve çiftçiler"
+        ],
+        [
+         "Sudralar",
+         "İşçiler"
+        ]
+       ],
+       "bilgi": "İnanca göre kastlar Brahma'nın vücudundan yaratılmıştır; kast doğuştan gelir, değiştirilemez ve kişi yalnız kendi kastından evlenebilir.",
+       "sayfa": 128
+      },
+      {
+       "id": "5.1-06",
+       "tur": "bosluk",
+       "cumle": "Hinduizm'de kast dışına itilmiş ve \"dokunulmazlar\" olarak bilinen sınıfa ___ denir.",
+       "cevap": "paryalar",
+       "celdiriciler": [
+        "sudralar",
+        "brahmanlar",
+        "vaisyalar"
+       ],
+       "bilgi": "Paryaların çarşılara, tapınaklara girmesi ve kamuya açık çeşmelerden su içmesi bile yasaktır.",
+       "sayfa": 128
+      },
+      {
+       "id": "5.1-07",
+       "tur": "bosluk",
+       "cumle": "Hinduizm'de doğum-ölüm-yeniden doğuş döngüsünü ifade eden ve tenasüh, reenkarnasyon olarak da anılan kavram ___'dır.",
+       "cevap": "samsara",
+       "celdiriciler": [
+        "karma",
+        "nirvana",
+        "avatar"
+       ],
+       "bilgi": "Ruhun bu döngüden kurtulmasına Nirvana (Mokşa) denir.",
+       "sayfa": 128
+      },
+      {
+       "id": "5.1-08",
+       "tur": "secmeli",
+       "soru": "Hinduizm'de ruhun doğum-ölüm döngüsündeki durumunu belirleyen sebep-sonuç yasası hangisidir?",
+       "secenekler": [
+        "Karma",
+        "Samsara",
+        "Nirvana",
+        "Dharma"
+       ],
+       "dogru": 0,
+       "bilgi": "Hinduizm'e göre kişinin kastı, cinsiyeti ve bahtı önceki hayatındaki davranışlarına göre karma tarafından belirlenir.",
+       "sayfa": 129
+      },
+      {
+       "id": "5.1-09",
+       "tur": "dy",
+       "ifade": "Tenasüh ve reenkarnasyon inancı, İslam'daki ahiret inancıyla çeliştiği için İslam âlimleri ve filozoflarınca reddedilir.",
+       "dogru": true,
+       "bilgi": "Bu inanç cennet, cehennem ve kıyameti inkâra götürür; ruhun birliği ve sorumluluk ilkesine de aykırıdır.",
+       "sayfa": 128
+      },
+      {
+       "id": "5.1-10",
+       "tur": "secmeli",
+       "soru": "Hinduizm'de evlerin özel bölümlerinde, tanrıları sembolize eden heykellerin önünde yapılan ayine ne denir?",
+       "secenekler": [
+        "Mandır",
+        "Om",
+        "Puja",
+        "Yoga"
+       ],
+       "dogru": 2,
+       "bilgi": "Hindu ibadet yerlerine mandır denir; ibadete kutsal \"Om\" hecesi okunarak başlanır.",
+       "sayfa": 130
+      },
+      {
+       "id": "5.1-11",
+       "tur": "secmeli",
+       "soru": "Hinduizm'de ilham edildiğine inanılan (Şruti) ve \"ilahi bilgi\" anlamına gelen kutsal metinler hangileridir?",
+       "secenekler": [
+        "Mahabharata ve Ramayana",
+        "Vedalar",
+        "Tripitaka",
+        "Beş Klasik"
+       ],
+       "dogru": 1,
+       "bilgi": "Sanskritçe yazılan Vedalar en eski dinî metinler sayılır; Mahabharata ve Ramayana ise beşerî kaynaklı (Smriti) kabul edilir.",
+       "sayfa": 131
+      }
+     ]
+    },
+    {
+     "no": "5.2",
+     "ad": "Budizm",
+     "kartlar": [
+      {
+       "id": "5.2-01",
+       "tur": "secmeli",
+       "soru": "\"Aydınlanmış, uyanmış\" anlamında Buda adı verilen Budizm'in kurucusu kimdir?",
+       "secenekler": [
+        "Lao Tzu",
+        "Siddharta Gautama",
+        "Konfüçyüs",
+        "Mensiyüs"
+       ],
+       "dogru": 1,
+       "bilgi": "Gautama MÖ 563'te Nepal'deki Sakya kabilesi yöneticisinin çocuğu olarak doğmuştur.",
+       "sayfa": 132
+      },
+      {
+       "id": "5.2-02",
+       "tur": "dy",
+       "ifade": "Budizm; Hinduizm'in çok tanrıcılığına, din adamlarının otoritesine ve kast sistemine tepki olarak gelişmiştir.",
+       "dogru": true,
+       "bilgi": "Budizm Hindistan'da doğmuş, ancak mensupları daha çok Çin, Japonya, Tayland gibi Güney Asya ve Uzak Doğu ülkelerinde yaşamaktadır.",
+       "sayfa": 132
+      },
+      {
+       "id": "5.2-03",
+       "tur": "bosluk",
+       "cumle": "Gautama'nın altında düşünürken aydınlanmaya eriştiği incir ağacına ___ ağacı denir.",
+       "cevap": "Bodhi",
+       "celdiriciler": [
+        "Lotus",
+        "Meru",
+        "Sangha"
+       ],
+       "bilgi": "Gautama, aşırı dünyevi hayat ile tamamen çileci hayat arasında bir \"orta yol\" bulunduğu kanaatine varmıştır.",
+       "sayfa": 133
+      },
+      {
+       "id": "5.2-04",
+       "tur": "secmeli",
+       "soru": "Buda'nın Nirvana'ya ulaşmak için önerdiği \"orta yol\" nasıl adlandırılır?",
+       "secenekler": [
+        "Dört Kapı Kırk Makam",
+        "Üç Hâl Kanunu",
+        "Sekiz Dilimli Yol",
+        "Beş Klasik"
+       ],
+       "dogru": 2,
+       "bilgi": "Sekiz Dilimli Yol doğru anlayış, doğru karar, doğru konuşma, doğru hareket gibi basamaklardan oluşur.",
+       "sayfa": 133
+      },
+      {
+       "id": "5.2-05",
+       "tur": "eslestir",
+       "yonerge": "Budizm'le ilgili kavramları anlamlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Buda",
+         "Aydınlanmış, uyanmış kişi"
+        ],
+        [
+         "Dharma",
+         "Buda'nın öğretisi"
+        ],
+        [
+         "Sangha",
+         "Rahipler topluluğu"
+        ],
+        [
+         "Vihara",
+         "Budist rahiplerin ikamet ettiği kutsal yapı"
+        ]
+       ],
+       "bilgi": "Her Budist \"Buda'ya, Dharma'ya ve Sangha'ya sığınırım\" iman ikrarını söylemelidir; bu üç esastan birini kabul etmeyen Budist olamaz.",
+       "sayfa": 133
+      },
+      {
+       "id": "5.2-06",
+       "tur": "dy",
+       "ifade": "Budizm'de rahiplerin evlenmesi serbesttir ve rahipler çalışarak geçimlerini sağlar.",
+       "dogru": false,
+       "bilgi": "Budist rahiplerin evlenmesi yasaktır; çalışıp para kazanmaları da yasak olduğundan geçimlerini sadaka toplayarak sağlarlar.",
+       "sayfa": 135
+      },
+      {
+       "id": "5.2-07",
+       "tur": "secmeli",
+       "soru": "Buda'nın sözlerini içeren ve \"Üç Sepet\" olarak da bilinen en eski Budist kutsal kitabı hangisidir?",
+       "secenekler": [
+        "Tripitaka",
+        "Vedalar",
+        "Tao Te King",
+        "Lün Yu"
+       ],
+       "dogru": 0,
+       "bilgi": "Buda'nın öğretisi yaklaşık dört asır sözlü aktarıldıktan sonra Pali dilinde yazıya geçirilmiştir.",
+       "sayfa": 136
+      },
+      {
+       "id": "5.2-08",
+       "tur": "secmeli",
+       "soru": "Budizm'de kutsal kabul edilen yerlerden Buda'nın aydınlanmaya ulaştığı yer hangisidir?",
+       "secenekler": [
+        "Lumbuni",
+        "Sarnath",
+        "Kushinagar",
+        "Bodhgaya"
+       ],
+       "dogru": 3,
+       "bilgi": "Lumbuni Buda'nın doğduğu, Sarnath ilk vaazını verdiği, Kushinagar ise öldüğü yerdir.",
+       "sayfa": 136
+      },
+      {
+       "id": "5.2-09",
+       "tur": "secmeli",
+       "soru": "ABD, Avustralya ve bazı Batı Avrupa ülkelerinde ilgi gören yeni Budist mezhep hangisidir?",
+       "secenekler": [
+        "Hare Krishna",
+        "Zen Budizm",
+        "Reiki",
+        "Sai Baba"
+       ],
+       "dogru": 1,
+       "bilgi": "Budizm, 400-450 milyon civarındaki mensubuyla yaşayan büyük dünya dinleri arasındadır.",
+       "sayfa": 132
+      },
+      {
+       "id": "5.2-10",
+       "tur": "bosluk",
+       "cumle": "Budistlerin dua ederken kullandıkları dua tekerleklerine ___ adı verilir.",
+       "cevap": "çakra",
+       "celdiriciler": [
+        "mandala",
+        "stupa",
+        "vihara"
+       ],
+       "bilgi": "Budist rahipler sol bileklerine 108'lik tespih takar; Dharma çakra, lotus çiçeği ve mandala Budizm'in sembollerindendir.",
+       "sayfa": 136
+      }
+     ]
+    },
+    {
+     "no": "5.3",
+     "ad": "Konfüçyanizm",
+     "kartlar": [
+      {
+       "id": "5.3-01",
+       "tur": "secmeli",
+       "soru": "Konfüçyüs isminin Latince karşılığı olduğu \"Kung Fu-Tzu\" ne anlama gelir?",
+       "secenekler": [
+        "İhtiyar bilgin",
+        "Göğün Oğlu",
+        "Üstad veya Filozof Kung",
+        "Aydınlanmış ve uyanmış kişi"
+       ],
+       "dogru": 2,
+       "bilgi": "Konfüçyüs MÖ 551'de Çin'in Tsou şehrinde doğmuştur; \"ihtiyar bilgin\" ise Lao-Tzu'ya verilen lakaptır.",
+       "sayfa": 137
+      },
+      {
+       "id": "5.3-02",
+       "tur": "dy",
+       "ifade": "Konfüçyanizm, Vu-ti Dönemi'nden 1912 yılına kadar Çin'de devlet dini olarak tanınmıştır.",
+       "dogru": true,
+       "bilgi": "Konfüçyanizm, Çin'de âlimlerin, bürokratların ve imparatorluk ailesinin dini kabul edilmiş; imparator başrahip sıfatı taşımıştır.",
+       "sayfa": 137
+      },
+      {
+       "id": "5.3-03",
+       "tur": "dy",
+       "ifade": "Konfüçyüs'ün hedefi eskilerin hikmetli sözlerini aktarmak değil, tamamen yeni görüşler ortaya koymaktı.",
+       "dogru": false,
+       "bilgi": "Konfüçyüs'ün hedefi yeni görüşler ortaya koymak değil, eski bilgelerin erdemlerini yeni nesillere aktarmaktı.",
+       "sayfa": 137
+      },
+      {
+       "id": "5.3-04",
+       "tur": "bosluk",
+       "cumle": "Konfüçyüs, Çin'de \"Şangti\" diye adlandırılan yüce varlığı ifade etmek için ___ kelimesini kullanmayı tercih etmiştir.",
+       "cevap": "T'ien",
+       "celdiriciler": [
+        "Tao",
+        "Te",
+        "Brahma"
+       ],
+       "bilgi": "Konfüçyüs'e göre T'ien tabiat düzeninin yöneticisi, her şeyin üstündeki varlık ve yaratıcı kudrettir.",
+       "sayfa": 138
+      },
+      {
+       "id": "5.3-05",
+       "tur": "secmeli",
+       "soru": "Konfüçyanizm'de faziletin dört kısmı hangi seçenekte doğru verilmiştir?",
+       "secenekler": [
+        "İnsan sevgisi, adalet, merasime riayet ve bilgi",
+        "Hareketsizlik, rekabetsizlik, yetinme ve sessizlik",
+        "Doğru anlayış, doğru karar, doğru söz ve doğru hareket",
+        "Şeriat, tarikat, marifet ve hakikat"
+       ],
+       "dogru": 0,
+       "bilgi": "Konfüçyüs, erdemli yönetilen bir devlet ve imparator-bakan-halk şeklinde hiyerarşik bir toplum anlayışını savunmuştur.",
+       "sayfa": 138
+      },
+      {
+       "id": "5.3-06",
+       "tur": "secmeli",
+       "soru": "Konfüçyanizm'de en yaygın ibadet şekli hangisidir?",
+       "secenekler": [
+        "Ganj Nehri'nde yıkanma",
+        "Atalara dua (ibadet)",
+        "Ateş üzerinde yürüme",
+        "Dua tekerleği çevirme"
+       ],
+       "dogru": 1,
+       "bilgi": "Konfüçyüs, başkalarının atalarına tapınmanın dalkavukluk olduğunu söylemiştir; zamanla her aile kendi atalarına tapınmayı öne çıkarmıştır.",
+       "sayfa": 139
+      },
+      {
+       "id": "5.3-07",
+       "tur": "secmeli",
+       "soru": "Konfüçyüs'ün kendisi ve düşüncesi hakkında en doğru bilginin elde edilebileceği metin hangisidir?",
+       "secenekler": [
+        "Tao Te King",
+        "Değişiklikler Kitabı",
+        "Tripitaka",
+        "Konuşmalar (Lün Yu)"
+       ],
+       "dogru": 3,
+       "bilgi": "Konfüçyanizm'in kutsal metinleri \"Beş Klasik\" ve \"Dört Kitap\" adlı iki koleksiyonda toplanmıştır.",
+       "sayfa": 140
+      },
+      {
+       "id": "5.3-08",
+       "tur": "secmeli",
+       "soru": "Konfüçyüs'ün etkisinin ölümünden sonra artmasını sağlayanlardan biri olan en büyük takipçisi kimdir?",
+       "secenekler": [
+        "Lao Tzu",
+        "Vu-ti",
+        "Mensiyüs",
+        "Siddharta Gautama"
+       ],
+       "dogru": 2,
+       "bilgi": "Konfüçyüs'ün ahlaki ve politik etkisi Han Hanedanlığı Dönemi'nde giderek artmıştır.",
+       "sayfa": 138
+      }
+     ]
+    },
+    {
+     "no": "5.4",
+     "ad": "Taoizm",
+     "kartlar": [
+      {
+       "id": "5.4-01",
+       "tur": "secmeli",
+       "soru": "Asıl adı Li Tan olan ve \"ihtiyar bilgin\" lakabıyla bilinen Taoizm'in kurucusu kimdir?",
+       "secenekler": [
+        "Konfüçyüs",
+        "Lao Tzu",
+        "Mensiyüs",
+        "Buda"
+       ],
+       "dogru": 1,
+       "bilgi": "Taoizm Çin, Japonya ve Kore'de yaygındır; günümüzde yaklaşık 95 milyon mensubu vardır.",
+       "sayfa": 141
+      },
+      {
+       "id": "5.4-02",
+       "tur": "bosluk",
+       "cumle": "Taoizm, adını Çince \"___\" anlamına gelen Tao kelimesinden alır.",
+       "cevap": "yol",
+       "celdiriciler": [
+        "gök",
+        "erdem",
+        "ışık"
+       ],
+       "bilgi": "Eski Çinliler Göğün Yolu'nu (T'ien Tao) parlak ve doğru, İnsanın Yolu'nu (Jen Tao) ise karanlık ve onun tersi saymıştır.",
+       "sayfa": 141
+      },
+      {
+       "id": "5.4-03",
+       "tur": "dy",
+       "ifade": "Lao-Tzu'ya göre Tao, yaratıcı prensip olmasına rağmen yaratıcı değildir.",
+       "dogru": true,
+       "bilgi": "Tao isimsizdir; görülemez, işitilemez ve kavranamaz; yaratılmış ve yaratılmamış her şeyin kaynağıdır.",
+       "sayfa": 141
+      },
+      {
+       "id": "5.4-04",
+       "tur": "secmeli",
+       "soru": "Taoizm'de Tao'nun erdemi veya gizli gücü olarak bütün varlıklarda bulunan kavram hangisidir?",
+       "secenekler": [
+        "Karma",
+        "T'ien",
+        "Te",
+        "Yin"
+       ],
+       "dogru": 2,
+       "bilgi": "Bütün varlıkları Tao meydana getirir; Te ise onları besler, büyütür ve şekil verir.",
+       "sayfa": 141
+      },
+      {
+       "id": "5.4-05",
+       "tur": "bosluk",
+       "cumle": "Taoizm'in ülküsü hâline gelen \"iş yapmamak\" prensibine ___ denir.",
+       "cevap": "wu wei",
+       "celdiriciler": [
+        "yin yang",
+        "jen tao",
+        "t'ien tao"
+       ],
+       "bilgi": "Lao Tzu, yaratıcı gücü yumuşak olmasına rağmen her kuvveti yenen suya benzetmiştir.",
+       "sayfa": 142
+      },
+      {
+       "id": "5.4-06",
+       "tur": "dy",
+       "ifade": "Taoizm'e göre iyi-kötü, doğru-yanlış gibi zıtlıklar mutlaktır ve zamana ya da mekâna göre değişmez.",
+       "dogru": false,
+       "bilgi": "Taoizm'e göre zıt gibi görünen şeyler zaman ve mekâna göre görecelidir; evrendeki her şey negatif ve pozitif zıtlıkların birleşmesinden oluşur.",
+       "sayfa": 142
+      },
+      {
+       "id": "5.4-07",
+       "tur": "secmeli",
+       "soru": "Taoizm düşüncesinin kaynağı olan ve \"Yol ve Onun Gücü\" anlamına gelen Lao Tzu'nun kitabı hangisidir?",
+       "secenekler": [
+        "Lün Yu",
+        "Tripitaka",
+        "Vedalar",
+        "Tao Te King"
+       ],
+       "dogru": 3,
+       "bilgi": "Beş bin kelimeden oluşan Tao Te King, Çin'in büyük klasiklerinden biri kabul edilir.",
+       "sayfa": 143
+      },
+      {
+       "id": "5.4-08",
+       "tur": "eslestir",
+       "yonerge": "Hint ve Çin dinlerini kutsal metinleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Hinduizm",
+         "Vedalar"
+        ],
+        [
+         "Budizm",
+         "Tripitaka"
+        ],
+        [
+         "Konfüçyanizm",
+         "Beş Klasik ve Dört Kitap"
+        ],
+        [
+         "Taoizm",
+         "Tao Te King"
+        ]
+       ],
+       "bilgi": "Taoizm'in sembolü Yin Yang, Budizm'in sembolü ise Dharma Çarkı'dır.",
+       "sayfa": 143
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
