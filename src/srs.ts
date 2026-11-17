@@ -26,7 +26,16 @@ export function vadesiGeldi(d: KartDurum | undefined, simdi = Date.now()): boole
  * Doğru: kararlılık büyür — unutmaya yakınken hatırlamak daha çok büyütür.
  * Yanlış: kararlılık sert düşer, kart kısa sürede tekrar gelir.
  */
-export function guncelle(d: KartDurum | undefined, dogru: boolean, simdi = Date.now()): KartDurum {
+export type Kalite = "yanlis" | "tahmin" | "dogru";
+
+export function guncelle(d: KartDurum | undefined, sonuc: boolean | Kalite, simdi = Date.now()): KartDurum {
+  const kalite: Kalite = sonuc === true ? "dogru" : sonuc === false ? "yanlis" : sonuc;
+  const dogru = kalite !== "yanlis";
+  if (kalite === "tahmin") {
+    // Doğru ama tahminle: bilgi henüz oturmamış, yakında tekrar gelsin
+    if (!d) return { s: 0.5, l: simdi, ok: 1, no: 0 };
+    return { s: Math.max(0.5, Math.min(d.s * 1.2, d.s + 1)), l: simdi, ok: d.ok + 1, no: d.no };
+  }
   if (!d) {
     return dogru ? { s: 1, l: simdi, ok: 1, no: 0 } : { s: 0.25, l: simdi, ok: 0, no: 1 };
   }

@@ -148,6 +148,14 @@ export interface Ayarlar {
   ses: boolean;
 }
 
+export interface DenemeKaydi {
+  tarih: number;
+  sinav: "TYT" | "AYT";
+  sureSn: number;
+  /** ders -> doğru / yanlış / boş */
+  dersler: Partial<Record<DersKey, { d: number; y: number; b: number }>>;
+}
+
 export interface Ilerleme {
   v: 1;
   kurulum: boolean;
@@ -155,8 +163,14 @@ export interface Ilerleme {
   kartlar: Record<string, KartDurum>;
   /** "YYYY-MM-DD" -> o gün kazanılan XP */
   gunler: Record<string, number>;
+  /** "YYYY-MM-DD" -> o gün ilk kez görülen bilgi sayısı */
+  yeniler: Record<string, number>;
   toplamXp: number;
   /** en uzun seri */
   enUzunSeri: number;
   sonKonu?: string;
+  /** Seri dondurma: her 7 günlük seride 1 hak (en fazla 2); çalışılmayan gün otomatik kullanılır */
+  dondurma: { hak: number; gunler: string[] };
+  denemeler: DenemeKaydi[];
+  sonYedek?: number;
 }

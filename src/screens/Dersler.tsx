@@ -7,6 +7,7 @@ import { useIlerleme } from "../store";
 import { hatirlama, seviye } from "../srs";
 import { DERSLER } from "../subjects";
 import { alanBilgi, type Sinav } from "../kurslar";
+import { SORU_SAYISI } from "../yks";
 import { geri, git } from "../router";
 import { DersRozeti, HafizaCubugu, Ikon, IKON, UstBar, yuzde } from "../ui";
 
@@ -54,7 +55,8 @@ export function DersListesi({ dizin }: { dizin: Dizin }) {
                     <span className="ders-satir-metin">
                       <strong>{b.ad}</strong>
                       <span className="soluk-metin">
-                        {k.uniteler.length} ünite · {k.konular.length} konu · {o.toplam} bilgi
+                        {SORU_SAYISI[k.sinav][k.ders] ? `Sınavda ${SORU_SAYISI[k.sinav][k.ders]} soru · ` : ""}
+                        {k.konular.length} konu · {o.toplam} bilgi
                         {!aktif.has(k.id) && " · alanın dışında"}
                       </span>
                       <HafizaCubugu hafiza={o.hafiza} gorulen={o.gorulen} toplam={o.toplam} />
@@ -99,6 +101,7 @@ export function KursDetay({ dizin, kursId }: { dizin: Dizin; kursId: string }) {
           <span className={`sinav-rozet ${kurs.sinav.toLowerCase()}`}>{kurs.sinav}</span>
           <h1>{b.ad}</h1>
           <p className="soluk-metin">
+            {SORU_SAYISI[kurs.sinav][kurs.ders] ? `${kurs.sinav}'de ${SORU_SAYISI[kurs.sinav][kurs.ders]} soru · ` : ""}
             Hafıza {yuzde(o.hafiza)} · {o.gorulen}/{o.toplam} bilgi görüldü
           </p>
         </div>

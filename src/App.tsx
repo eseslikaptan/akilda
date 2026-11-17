@@ -3,12 +3,15 @@ import { icerikYukle, type Dizin } from "./content";
 import { useIlerleme } from "./store";
 import { vadeliKartlar, type OturumTipi } from "./oturum";
 import { useRota, git } from "./router";
+import { kaliciDepolamaIste } from "./araclar";
 import { Ikon, IKON } from "./ui";
 import { Bugun } from "./screens/Bugun";
 import { DersListesi, KonuOzeti, KursDetay } from "./screens/Dersler";
 import { Oturum } from "./screens/Oturum";
 import { Kaynaklar, Profil } from "./screens/Profil";
 import { Kurulum } from "./screens/Kurulum";
+import { Deneme, DenemeSecim } from "./screens/Deneme";
+import { Defter } from "./screens/Defter";
 
 export function App() {
   const [dizin, setDizin] = useState<Dizin | null>(null);
@@ -19,6 +22,11 @@ export function App() {
   useEffect(() => {
     icerikYukle().then(setDizin, (e) => setHata(String(e)));
   }, []);
+
+  // Kurulumdan sonra tarayıcıdan verileri kendiliğinden silmemesini iste
+  useEffect(() => {
+    if (p.kurulum) kaliciDepolamaIste();
+  }, [p.kurulum]);
 
   if (hata) return <div className="yukleniyor">İçerik yüklenemedi: {hata}</div>;
   if (!dizin)
@@ -42,9 +50,30 @@ export function App() {
         ? { tip: "tekrar", kurs }
         : s.get("cikmis")
           ? { tip: "cikmis", kurs }
-          : { tip: "karisik", kurs };
+          : s.get("defter")
+            ? { tip: "defter" }
+            : { tip: "karisik", kurs };
     // Aynı rotada yeni oturum açılınca bileşen sıfırdan kurulsun
     return <Oturum key={window.location.hash} dizin={dizin} tip={tip} />;
+  }
+
+  if (bolum === "meydan") {
+    const s = rota.sorgu;
+    const uids = (s.get("k") ?? "").split(",").filter((u) => dizin.kartlar.has(u));
+    return (
+      <Oturum
+        key={window.location.hash}
+        dizin={dizin}
+        tip={{ tip: "liste", uids }}
+        meydan={{ ad: (s.get("a") ?? "Bir arkadaşın").slice(0, 24), skor: s.get("s") ?? "" }}
+      />
+    );
+  }
+
+  if (bolum === "deneme" && rota.sorgu.get("sinav")) {
+    const sinav = rota.sorgu.get("sinav") === "AYT" ? "AYT" : "TYT";
+    const olcek = Math.min(1, Math.max(0.25, Number(rota.sorgu.get("olcek")) || 0.5));
+    return <Deneme key={window.location.hash} dizin={dizin} sinav={sinav} olcek={olcek} />;
   }
 
   let icerik;
@@ -58,6 +87,10 @@ export function App() {
   } else if (bolum === "ozet" && arg) {
     icerik = <KonuOzeti dizin={dizin} konuId={arg} />;
     sekme = "dersler";
+  } else if (bolum === "deneme") {
+    icerik = <DenemeSecim dizin={dizin} />;
+  } else if (bolum === "defter") {
+    icerik = <Defter dizin={dizin} />;
   } else if (bolum === "profil") {
     icerik = <Profil dizin={dizin} />;
     sekme = "profil";

@@ -1,0 +1,724 @@
+{
+ "kitap": "cikmis-tyt-tarih",
+ "tip": "cikmis",
+ "ders": "tarih",
+ "sinav": "TYT",
+ "baslik": "YKS Çıkmış Sorular 2018-2026 TYT",
+ "sayfaUrl": "https://ogmmateryal.eba.gov.tr/yks-cikmis-soru-kitaplari",
+ "pdfUrl": "https://ogm-small-cdn.eba.gov.tr/ogm-test-images/6aba49d35748c605dd7fe9e8/CS_TYT_2018_2026.pdf",
+ "testUrl": "https://ogmmateryal.eba.gov.tr/ogm-test/book/6aba4cb35748c605dd7ff053",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Tarih",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "İlk ve Orta Çağlarda Türk Dünyası",
+     "soruSayisi": 9,
+     "eslesen": [
+      "tarih-9/2.5",
+      "tarih-9/3.1",
+      "tarih-9/3.2",
+      "tarih-9/2.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "dy",
+       "ifade": "Roma tarihçisi Ammianus Marcellinus, Hunları piyade savaşında usta ama okçulukta zayıf bir topluluk olarak anlatmıştır.",
+       "dogru": false,
+       "bilgi": "Ammianus Marcellinus'a göre Hunlar piyade savaşına alışkın değildi; buna karşılık ok, yay ve kement kullanmada eşsizdiler.",
+       "sayfa": 151,
+       "yil": "2018-TYT"
+      },
+      {
+       "id": "1.1-02",
+       "tur": "bosluk",
+       "cumle": "Hunların batıya ilerleyip Karadeniz'in kuzeyindeki Germen kavimlerini yerinden etmesiyle başlayan büyük göç hareketine ___ denir.",
+       "cevap": "Kavimler Göçü",
+       "celdiriciler": [
+        "Haçlı Seferleri",
+        "Moğol İstilası",
+        "Coğrafi Keşifler"
+       ],
+       "bilgi": "Kavimler Göçü, Avrupa'nın etnik yapısını ve siyasi dengelerini değiştirmiş, ikiye ayrılmış Roma İmparatorluğu'nu zayıflatmıştır.",
+       "sayfa": 151,
+       "yil": "2019-TYT"
+      },
+      {
+       "id": "1.1-03",
+       "tur": "secmeli",
+       "soru": "Doğu-batı ticaret yolları üzerinde yaşayan Uygurların Çin'den ve İran'dan benimsediği inançlar sırasıyla hangisidir?",
+       "secenekler": [
+        "Maniheizm – Budizm",
+        "Budizm – Maniheizm",
+        "Taoizm – Zerdüştlük",
+        "Konfüçyüsçülük – Mazdeizm"
+       ],
+       "dogru": 1,
+       "bilgi": "Uygurlar Çin'den Budizmi, İran'dan Maniheizmi almış; farklı kültürlere açık, yerleşik bir toplum oluşturmuşlardır.",
+       "sayfa": 151,
+       "yil": "2020-TYT"
+      },
+      {
+       "id": "1.1-04",
+       "tur": "bosluk",
+       "cumle": "Avrupa Hunları ile Doğu Roma arasında 434'te imzalanan ve Roma'nın ödediği yıllık vergiyi iki katına çıkaran antlaşma ___ Antlaşması'dır.",
+       "cevap": "Margos",
+       "celdiriciler": [
+        "Anatolios",
+        "Verdun",
+        "Kadeş"
+       ],
+       "bilgi": "Margos Antlaşması'yla Doğu Roma, Hunlardan kaçanlara sığınma hakkı vermemeyi ve Hunlara bağlı kavimlerle antlaşma yapmamayı da kabul etmiştir.",
+       "sayfa": 151,
+       "yil": "2021-TYT"
+      },
+      {
+       "id": "1.1-05",
+       "tur": "dy",
+       "ifade": "X. yüzyıl kaynaklarına göre Uygur devleti, yiyeceği olmayanlara devlet eliyle yardım eden bir sosyal devlet anlayışına sahipti.",
+       "dogru": true,
+       "bilgi": "Turfan'a gelen bir Çin elçisi, Uygur ülkesinde yoksulun az olduğunu ve muhtaçlara devletçe yardım edildiğini yazmıştır; Uygurlar yerleşik hayata geçmişti.",
+       "sayfa": 152,
+       "yil": "2022-TYT"
+      },
+      {
+       "id": "1.1-06",
+       "tur": "eslestir",
+       "yonerge": "Hükümdarları yönettikleri devletle eşleştir.",
+       "ciftler": [
+        [
+         "Mete Han",
+         "Asya Hun Devleti"
+        ],
+        [
+         "Kapgan Kağan",
+         "İkinci Göktürk Devleti"
+        ],
+        [
+         "Moyen-Çor",
+         "Uygur Devleti"
+        ],
+        [
+         "Attila",
+         "Avrupa Hun Devleti"
+        ]
+       ],
+       "bilgi": "İlk Türk devletlerinin hükümdarları, öncelikle dağınık Türk boylarını tek yönetim altında toplayarak güçlü bir merkezî yapı kurmayı hedeflemiştir.",
+       "sayfa": 152,
+       "yil": "2023-TYT"
+      },
+      {
+       "id": "1.1-07",
+       "tur": "dy",
+       "ifade": "Roma İmparatorluğu, Attila ile Doğu Roma arasında imzalanan Anatolios Antlaşması'nın ardından ikiye ayrılmıştır.",
+       "dogru": false,
+       "bilgi": "Roma 395'te ikiye ayrılmıştı; 447'deki Anatolios Antlaşması vergiyi üç katına çıkararak Hunların Doğu Roma üzerindeki üstünlüğünü pekiştirdi.",
+       "sayfa": 152,
+       "yil": "2024-TYT"
+      },
+      {
+       "id": "1.1-08",
+       "tur": "dy",
+       "ifade": "İlk Türk devletlerinde kağan dâhil herkes töreye uymak zorundaydı.",
+       "dogru": true,
+       "bilgi": "Töre değişmez değil gelişmeye açıktı; kağanların koyduğu kurallar ve kurultay kararlarıyla zenginleşir, kağan dâhil herkes için bağlayıcıydı.",
+       "sayfa": 152,
+       "yil": "2025-TYT"
+      },
+      {
+       "id": "1.1-09",
+       "tur": "bosluk",
+       "cumle": "Çöl göçebeliğinde devenin üstlendiği temel rolü, bozkır konargöçer kültüründe ___ üstlenir.",
+       "cevap": "at",
+       "celdiriciler": [
+        "koyun",
+        "sığır",
+        "katır"
+       ],
+       "bilgi": "Atlı bozkır kültürü kuvvet, hareket ve sürat üzerine kurulmuş; geniş otlaklar bu kültürün gelişmesini sağlamıştır.",
+       "sayfa": 153,
+       "yil": "2026-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "Türklerin İslamiyet'i Kabulü ve İlk Türk İslam Devletleri",
+     "soruSayisi": 7,
+     "eslesen": [
+      "tarih-10/1.1",
+      "tarih-10/1.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "bosluk",
+       "cumle": "Türk-İslam devletlerinde halkın yöneticilerden şikâyetlerinin dinlendiği ve hükümdarın bizzat karar verebildiği yargı kuruluna ___ denirdi.",
+       "cevap": "mezâlim divanı",
+       "celdiriciler": [
+        "kurultay",
+        "Divan-ı Arz",
+        "Divan-ı İstifa"
+       ],
+       "bilgi": "Gazneli Sultan Mahmut'un mezâlim divanında oğlu Mesut aleyhine tacir lehine karar vermesi, sultanın gerektiğinde yargı yetkisini kullandığını gösterir.",
+       "sayfa": 153,
+       "yil": "2018-TYT"
+      },
+      {
+       "id": "1.2-02",
+       "tur": "bosluk",
+       "cumle": "Gazneli Mahmut, Abbasi halifesini Büveyhoğullarının baskısından kurtarmasına karşılık halifeden ___ unvanını almıştır.",
+       "cevap": "sultan",
+       "celdiriciler": [
+        "kağan",
+        "atabey",
+        "emîrü'l-ümerâ"
+       ],
+       "bilgi": "Halifeden sultan unvanını alması, Gazneli Mahmut'un İslam dünyasında önemli bir siyasi güç olduğunu gösterir.",
+       "sayfa": 153,
+       "yil": "2019-TYT"
+      },
+      {
+       "id": "1.2-03",
+       "tur": "dy",
+       "ifade": "Haçlı Seferleri, Malazgirt Savaşı'ndan önce başlamıştır.",
+       "dogru": false,
+       "bilgi": "Malazgirt Savaşı 1071'de, I. Haçlı Seferi ise 1096'da gerçekleşmiştir; Alp Arslan savaştan önce Bizans İmparatoru Romen Diyojen'e barış teklif etmişti.",
+       "sayfa": 153,
+       "yil": "2021-TYT"
+      },
+      {
+       "id": "1.2-04",
+       "tur": "dy",
+       "ifade": "Türklerin İslamiyet'i kabulü kısa sürede tamamlanmış bir süreçtir.",
+       "dogru": false,
+       "bilgi": "Türklerin İslamlaşması Hz. Muhammed dönemine kadar uzanan ve yüzyıllar süren bir süreçtir; sahabe arasında Türklerin de bulunduğu belirtilir.",
+       "sayfa": 154,
+       "yil": "2022-TYT"
+      },
+      {
+       "id": "1.2-05",
+       "tur": "secmeli",
+       "soru": "Horasan'ın Gaznelilerden Selçuklulara geçmesini sağlayan ve Büyük Selçuklu Devleti'nin kuruluşunu kesinleştiren savaş hangisidir?",
+       "secenekler": [
+        "Malazgirt",
+        "Katvan",
+        "Dandanakan",
+        "Pasinler"
+       ],
+       "dogru": 2,
+       "bilgi": "Nesâ ve Serahs'tan sonra 1040'taki Dandanakan Savaşı'yla Horasan Selçuklulara geçmiş ve Büyük Selçuklu Devleti kurulmuştur.",
+       "sayfa": 154,
+       "yil": "2023-TYT"
+      },
+      {
+       "id": "1.2-06",
+       "tur": "bosluk",
+       "cumle": "Melikşah'ın tahta çıkışını tanımayıp taht mücadelesine girişen amcası ___ yenilgiye uğratılmıştır.",
+       "cevap": "Kavurd Bey",
+       "celdiriciler": [
+        "Kutalmış",
+        "Çağrı Bey",
+        "Süleyman Şah"
+       ],
+       "bilgi": "Ülkenin hanedanın ortak malı sayılması taht kavgalarına yol açmış; Melikşah amcası Kavurd Bey'i yenerek otoritesini kurmuştur.",
+       "sayfa": 154,
+       "yil": "2025-TYT"
+      },
+      {
+       "id": "1.2-07",
+       "tur": "dy",
+       "ifade": "Melikşah döneminde Selçuklular, Mısır'daki Şii Fâtımi halifeliğine karşı sefer düzenlemiştir.",
+       "dogru": true,
+       "bilgi": "Melikşah, Karahanlı ve Gaznelilerle barış yaparak doğuyu güvenceye almış, ardından Fâtımilere karşı sefer düzenlemiştir; İslam dünyası yine de tek halifelik altında birleşmemiştir.",
+       "sayfa": 154,
+       "yil": "2025-TYT"
+      },
+      {
+       "id": "1.2-08",
+       "tur": "bosluk",
+       "cumle": "Türk-İslam devletlerinde bir bölgenin yönetimi verilen hanedan üyelerine ___ denirdi.",
+       "cevap": "melik",
+       "celdiriciler": [
+        "atabey",
+        "subaşı",
+        "hacib"
+       ],
+       "bilgi": "Melikler kendi vezir ve askerleriyle bölgelerini yönetir, adlarına hutbe okuturdu; ancak dış ilişkilerde sultanın belirlediği siyasete bağlıydılar.",
+       "sayfa": 154,
+       "yil": "2026-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "Yerleşme ve Devletleşme Sürecinde Selçuklu Türkiyesi",
+     "soruSayisi": 2,
+     "eslesen": [
+      "tarih-10/1.1",
+      "tarih-10/1.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "dy",
+       "ifade": "Türkiye Selçukluları 1220'de Venedik'e ticari ayrıcalıklar tanıyarak ülkedeki ticareti canlandırmayı amaçlamıştır.",
+       "dogru": true,
+       "bilgi": "1220 antlaşmasıyla Venediklilerin kendi aralarındaki davalara kendi heyetleri bakabiliyor, hırsızlık ve cinayet gibi suçlarda ise Selçuklu mahkemeleri yetkili oluyordu.",
+       "sayfa": 155,
+       "yil": "2020-TYT"
+      },
+      {
+       "id": "1.3-02",
+       "tur": "bosluk",
+       "cumle": "Türkiye Selçukluları 1230'daki Yassıçemen Savaşı'nda ___ Devleti'ni yenilgiye uğratmıştır.",
+       "cevap": "Harzemşah",
+       "celdiriciler": [
+        "İlhanlı",
+        "Eyyubi",
+        "Danişmentli"
+       ],
+       "bilgi": "Harzemşahlar, I. Alâeddin Keykubad'ın Moğollara karşı ortak hareket teklifini reddetmiş, Ahlat'ı kuşatmış ve Yassıçemen'de yenilmiştir.",
+       "sayfa": 155,
+       "yil": "2024-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.4",
+     "ad": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+     "soruSayisi": 2,
+     "eslesen": [
+      "tarih-10/2.1",
+      "tarih-10/2.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.4-01",
+       "tur": "dy",
+       "ifade": "Osmanlılar 1340'lı yıllarda Rumeli'de kalıcı topraklara sahipti.",
+       "dogru": false,
+       "bilgi": "Osmanlılar Rumeli'ye kalıcı olarak 1353'te Çimpe Kalesi'nin alınmasıyla geçmiştir; 1340'larda Anadolu'da Beylikler Dönemi sürüyordu.",
+       "sayfa": 155,
+       "yil": "2018-TYT"
+      },
+      {
+       "id": "1.4-02",
+       "tur": "bosluk",
+       "cumle": "Ertuğrul Gazi'ye bağlı boylar, Türkiye Selçuklularınca Bizans sınırındaki Söğüt ve ___ bölgesine yerleştirilmiştir.",
+       "cevap": "Domaniç",
+       "celdiriciler": [
+        "İznik",
+        "Bursa",
+        "Edirne"
+       ],
+       "bilgi": "Moğol istilasından kaçan Oğuz boylarının bir kısmı Bizans sınırına yerleştirilmiş; Osmanlı Beyliği Kuzeybatı Anadolu'da bir uç beyliği olarak doğmuştur.",
+       "sayfa": 155,
+       "yil": "2022-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.5",
+     "ad": "Sultan ve Osmanlı Merkez Teşkilatı",
+     "soruSayisi": 2,
+     "eslesen": [
+      "tarih-10/2.3",
+      "tarih-10/3.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.5-01",
+       "tur": "dy",
+       "ifade": "Osmanlı Devleti'nde veliahdın belirlenmesi Divan-ı Hümayunun görevleri arasındaydı.",
+       "dogru": false,
+       "bilgi": "Divan-ı Hümayunda devlet işleri görüşülür, davalar ve halkın şikâyetleri dinlenir, elçiler kabul edilirdi; veliaht belirlemek divanın görevi değildi.",
+       "sayfa": 156,
+       "yil": "2019-TYT"
+      },
+      {
+       "id": "1.5-02",
+       "tur": "bosluk",
+       "cumle": "Osmanlı'da yeni padişahın tahta çıkışına ___ denirdi; adına hutbe okunması ve sikke kesilmesi egemenliğinin simgesiydi.",
+       "cevap": "cülus",
+       "celdiriciler": [
+        "nevbet",
+        "kurultay",
+        "kılıç kuşanma"
+       ],
+       "bilgi": "Cülus fermanıyla tahta çıkış ülkeye duyurulur; hutbe ve sikke, ilahi kaynaklı sayılan hükümdarlığın alametleriydi.",
+       "sayfa": 156,
+       "yil": "2021-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.6",
+     "ad": "Klasik Çağ'da Osmanlı Toplum Düzeni",
+     "soruSayisi": 1,
+     "eslesen": [
+      "tarih-10/2.4",
+      "tarih-10/1.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.6-01",
+       "tur": "bosluk",
+       "cumle": "Osmanlı'da bir vakfın mallarını, gelirlerinin nasıl kullanılacağını ve yönetimini gösteren, kadı huzurunda düzenlenen belgeye ___ denirdi.",
+       "cevap": "vakfiye",
+       "celdiriciler": [
+        "berat",
+        "ferman",
+        "temessük"
+       ],
+       "bilgi": "Vakfiye, İslam hukukuna göre kurulan vakfın faaliyet alanını ve koşullarını önceden belirleyen belgedir; vakfı kurucu ya da mütevelli yönetirdi.",
+       "sayfa": 156,
+       "yil": "2026-TYT"
+      },
+      {
+       "id": "1.6-02",
+       "tur": "dy",
+       "ifade": "Osmanlı vakıfları, kurucularının ölümüyle birlikte faaliyetlerini sona erdirirdi.",
+       "dogru": false,
+       "bilgi": "Vakıflar vakfiyedeki şartlara göre mütevelliler eliyle kurucularından sonra da çalışmayı sürdüren sosyal yardım kurumlarıydı.",
+       "sayfa": 156,
+       "yil": "2026-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.7",
+     "ad": "Değişen Dünya Dengeleri Karşısında Osmanlı Siyaseti (1595-1774)",
+     "soruSayisi": 1,
+     "eslesen": [
+      "tarih-10/3.4",
+      "tarih-10/3.1",
+      "tarih-11/1.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.7-01",
+       "tur": "bosluk",
+       "cumle": "Kuyucu Murat Paşa'nın Safevilerin üzerine yürümesinin ardından Osmanlı ile Safeviler arasında 1612'de ___ Antlaşması imzalanmıştır.",
+       "cevap": "Nasuh Paşa",
+       "celdiriciler": [
+        "Ferhat Paşa",
+        "Kasr-ı Şirin",
+        "Amasya"
+       ],
+       "bilgi": "Safeviler, Osmanlı'nın Habsburglar ve Celâli İsyanları ile uğraşmasını fırsat bilerek kaybettikleri toprakları geri almış; savaş 1612 Nasuh Paşa Antlaşması'yla sona ermiştir.",
+       "sayfa": 157,
+       "yil": "2024-TYT"
+      },
+      {
+       "id": "1.7-02",
+       "tur": "secmeli",
+       "soru": "Celâli İsyanlarını sert yöntemlerle bastırarak Anadolu'da devlet otoritesini yeniden kuran sadrazam kimdir?",
+       "secenekler": [
+        "Köprülü Mehmet Paşa",
+        "Sokullu Mehmet Paşa",
+        "Nasuh Paşa",
+        "Kuyucu Murat Paşa"
+       ],
+       "dogru": 3,
+       "bilgi": "Kuyucu Murat Paşa Celâli İsyanlarını bastırdıktan sonra Safevilere karşı sefere çıkmış, Şah Abbas barış istemek zorunda kalmıştır.",
+       "sayfa": 157,
+       "yil": "2024-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.8",
+     "ad": "Uluslararası İlişkilerde Denge Stratejisi (1774-1914)",
+     "soruSayisi": 2,
+     "eslesen": [
+      "tarih-11/2.2",
+      "tarih-11/2.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.8-01",
+       "tur": "bosluk",
+       "cumle": "Osmanlıcılık fikrini anayasal bir yönetimle güçlendirmek isteyen Tanzimat aydınlarının çabaları, 1876'da ___ ilanıyla sonuç vermiştir.",
+       "cevap": "I. Meşrutiyet'in",
+       "celdiriciler": [
+        "II. Meşrutiyet'in",
+        "Islahat Fermanı'nın",
+        "Tanzimat Fermanı'nın"
+       ],
+       "bilgi": "Tanzimat aydınları Balkanlardaki isyanların Osmanlıcılık ve Batı tarzı yeniliklerle önlenebileceğini savunmuş; bu düşünce I. Meşrutiyet'le hayata geçmiştir.",
+       "sayfa": 157,
+       "yil": "2020-TYT"
+      },
+      {
+       "id": "1.8-02",
+       "tur": "dy",
+       "ifade": "Tanzimat Fermanı İngiltere ve Fransa'da olumlu karşılanırken Avusturya Başbakanı Metternich fermanı Osmanlı için zararlı bulmuştur.",
+       "dogru": true,
+       "bilgi": "Tanzimat Fermanı'nı her devlet kendi sistemine ve çıkarına göre yorumlamış; Metternich Avrupai reform zihniyetini Osmanlı'nın çöküş nedeni saymıştır.",
+       "sayfa": 157,
+       "yil": "2023-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.9",
+     "ad": "XIX ve XX. Yüzyılda Değişen Sosyoekonomik Hayat",
+     "soruSayisi": 1,
+     "eslesen": [
+      "tarih-11/2.4",
+      "tarih-11/1.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.9-01",
+       "tur": "dy",
+       "ifade": "Sadrazam Rami Paşa, Avrupa ile rekabet edebilmek için ham madde ihracatının artırılmasını önermiştir.",
+       "dogru": false,
+       "bilgi": "Rami Paşa, Avrupa'nın ham maddeyi Osmanlı'dan alıp mamul olarak geri satmasına karşı ham maddenin yurt içinde işlenmesini ve yerli sanayi kurulmasını savunmuştur.",
+       "sayfa": 158,
+       "yil": "2025-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.10",
+     "ad": "Millî Mücadele",
+     "soruSayisi": 15,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.10-01",
+       "tur": "dy",
+       "ifade": "Mondros Mütarekesi'nden sonra kurulan millî cemiyetlerin temel amacı ülkede yeni bir rejim kurmaktı.",
+       "dogru": false,
+       "bilgi": "Millî cemiyetler bölgesel savunma için kurulmuş; mitingler düzenlemiş, kongrelerin toplanmasına ve Kuvayımilliye'nin silah ihtiyacına katkı sağlamıştır.",
+       "sayfa": 158,
+       "yil": "2018-TYT"
+      },
+      {
+       "id": "1.10-02",
+       "tur": "bosluk",
+       "cumle": "Birinci TBMM'nin yasama, yürütme ve yargı yetkilerini kendi bünyesinde toplaması ___ ilkesinin uygulanmasıdır.",
+       "cevap": "kuvvetler birliği",
+       "celdiriciler": [
+        "kuvvetler ayrılığı",
+        "kabine sistemi",
+        "yerinden yönetim"
+       ],
+       "bilgi": "Farklı zümrelerden vekillerden oluşan Birinci TBMM, olağanüstü şartlarda meclis hükûmeti sistemini uygulamış ve önceliği kurtuluşa vermiştir.",
+       "sayfa": 158,
+       "yil": "2019-TYT"
+      },
+      {
+       "id": "1.10-03",
+       "tur": "dy",
+       "ifade": "İzmir'in işgaline tepki olarak düzenlenen Fatih ve Sultanahmet mitingleri, Amasya Genelgesi'nin yayımlanmasından sonra yapılmıştır.",
+       "dogru": false,
+       "bilgi": "Fatih (19 Mayıs 1919) ve Sultanahmet (23 Mayıs 1919) mitingleri, 22 Haziran 1919'daki Amasya Genelgesi'nden önce yapılmıştır.",
+       "sayfa": 158,
+       "yil": "2020-TYT"
+      },
+      {
+       "id": "1.10-04",
+       "tur": "bosluk",
+       "cumle": "İngiltere'nin eski başbakanı Lloyd George, Türklerin İngiltere'nin dört yıllık savaşta kazandıklarını geri aldığını söyleyerek ___ Antlaşması'nı eleştirmiştir.",
+       "cevap": "Lozan",
+       "celdiriciler": [
+        "Mudanya",
+        "Sevr",
+        "Ankara"
+       ],
+       "bilgi": "Lloyd George, Lozan Antlaşması'nı İngiliz dış siyasetinde silinmez bir leke olarak nitelendirmiştir.",
+       "sayfa": 159,
+       "yil": "2020-TYT"
+      },
+      {
+       "id": "1.10-05",
+       "tur": "bosluk",
+       "cumle": "Ekim 1920'deki ___ yenilgisi, Kuvayımilliye'nin yetersizliğini göstererek düzenli orduya geçişi hızlandırmıştır.",
+       "cevap": "Gediz",
+       "celdiriciler": [
+        "Sakarya",
+        "Kütahya-Eskişehir",
+        "I. İnönü"
+       ],
+       "bilgi": "Mustafa Kemal, dağınık ve komutasız savaşların sonucunda Gediz'de yenildiklerini TBMM'de dile getirmiş; bu yenilgi düzenli ordunun kurulmasında etkili olmuştur.",
+       "sayfa": 159,
+       "yil": "2021-TYT"
+      },
+      {
+       "id": "1.10-06",
+       "tur": "bosluk",
+       "cumle": "TBMM'nin 20 Ocak 1921'de kabul ettiği ve yeni bir devlet teşkilatı kurduğunu gösteren ilk anayasası ___ adını taşır.",
+       "cevap": "Teşkilat-ı Esasiye Kanunu",
+       "celdiriciler": [
+        "Kanun-ı Esasi",
+        "Misakımillî",
+        "Hıyanet-i Vataniye Kanunu"
+       ],
+       "bilgi": "1921 Teşkilat-ı Esasiye Kanunu kanun yapma, antlaşma ve savaş kararı gibi temel hakları Büyük Millet Meclisine vermiştir.",
+       "sayfa": 159,
+       "yil": "2021-TYT"
+      },
+      {
+       "id": "1.10-07",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi, Sivas Kongresi'nde oluşturulan Heyet-i Temsiliye'nin yürütme organı gibi çalıştığını gösteren icraatlardan biridir?",
+       "secenekler": [
+        "Ali Fuat Paşa'yı Batı Cephesi Kuvayımilliye komutanlığına ataması",
+        "Saltanatı kaldırması",
+        "Misakımillî'yi kabul etmesi",
+        "Hıyanet-i Vataniye Kanunu'nu çıkarması"
+       ],
+       "dogru": 0,
+       "bilgi": "Ülkenin tamamını temsil eden Heyet-i Temsiliye, TBMM açılana kadar komutan ataması gibi yürütmeye ait işleri üstlenmiştir.",
+       "sayfa": 159,
+       "yil": "2022-TYT"
+      },
+      {
+       "id": "1.10-08",
+       "tur": "bosluk",
+       "cumle": "Mustafa Kemal Paşa, 21 Mayıs 1919'da iş birliği umudunu dile getirdiği telgrafı XV. Kolordu Komutanı ___ çekmiştir.",
+       "cevap": "Kâzım Karabekir'e",
+       "celdiriciler": [
+        "Ali Fuat Paşa'ya",
+        "Refet Paşa'ya",
+        "Cafer Tayyar'a"
+       ],
+       "bilgi": "Mustafa Kemal Paşa bu telgrafı 9. Ordu Müfettişi iken, İzmir'in işgalinden sonra ve Amasya Genelgesi'nden önce çekmiştir.",
+       "sayfa": 160,
+       "yil": "2023-TYT"
+      },
+      {
+       "id": "1.10-09",
+       "tur": "dy",
+       "ifade": "İsmet Paşa'nın Lozan'da \"Mondros'tan değil, Mudanya'dan geldim.\" demesi, savaşı kazanmış bir devleti temsil ettiğini vurgulamak içindi.",
+       "dogru": true,
+       "bilgi": "İsmet Paşa, Mondros'un yenik Osmanlı'sını değil, Mudanya'yı imzalayan galip TBMM Hükûmetini temsil ettiğini vurgulamıştır.",
+       "sayfa": 160,
+       "yil": "2023-TYT"
+      },
+      {
+       "id": "1.10-10",
+       "tur": "bosluk",
+       "cumle": "İzmir'in işgalinin ertesi günü halkı imkânsızlıklara rağmen direnmeye çağıran fetvayı Denizli Müftüsü ___ vermiştir.",
+       "cevap": "Ahmet Hulusi Efendi",
+       "celdiriciler": [
+        "Dürrizade Abdullah Efendi",
+        "Mustafa Sabri Efendi",
+        "Rifat Börekçi"
+       ],
+       "bilgi": "Denizli Müftüsü Ahmet Hulusi Efendi, silah ve cephane azlığının mücadeleye engel olmayacağını söyleyerek halkı direnişe çağırmıştır.",
+       "sayfa": 160,
+       "yil": "2024-TYT"
+      },
+      {
+       "id": "1.10-11",
+       "tur": "bosluk",
+       "cumle": "Lozan'a İstanbul Hükûmetinin de çağrılması üzerine ikili temsili önlemek için TBMM 1 Kasım 1922'de ___ kaldırmıştır.",
+       "cevap": "saltanatı",
+       "celdiriciler": [
+        "halifeliği",
+        "Şer'iye Vekâletini",
+        "Heyet-i Temsiliyeyi"
+       ],
+       "bilgi": "Mudanya'yı yalnız TBMM imzalamıştı; saltanatın kaldırılmasıyla Lozan'da Türkiye'yi tek meşru hükûmet olarak TBMM temsil etti.",
+       "sayfa": 160,
+       "yil": "2024-TYT"
+      },
+      {
+       "id": "1.10-12",
+       "tur": "dy",
+       "ifade": "Kütahya-Eskişehir Savaşları'ndan sonra İngiltere, Anadolu'ya kendi ordusunu göndermek yerine Türk ve Yunan taraflarının çarpışmayı sürdürmesini tercih etmiştir.",
+       "dogru": true,
+       "bilgi": "İngiltere Başbakanı Ağustos 1921'de ulusal direnişi bir ayaklanma olarak nitelemiş ve İngiliz çıkarları için Türk-Yunan savaşının sürmesini istemiştir.",
+       "sayfa": 161,
+       "yil": "2025-TYT"
+      },
+      {
+       "id": "1.10-13",
+       "tur": "bosluk",
+       "cumle": "Türk heyeti Lozan'da, Misakımillî'ye uygun olarak Batı Trakya'nın geleceğinin ___ ile belirlenmesini savunmuştur.",
+       "cevap": "halk oylaması",
+       "celdiriciler": [
+        "Milletler Cemiyeti kararı",
+        "büyük devletlerin denetimi",
+        "savaş tazminatı karşılığı"
+       ],
+       "bilgi": "Misakımillî'ye göre Batı Trakya'nın hukuki durumu halkın serbest oyuyla belirlenmeliydi; Türk heyeti Lozan'da bu tezi savunmuştur.",
+       "sayfa": 161,
+       "yil": "2025-TYT"
+      },
+      {
+       "id": "1.10-14",
+       "tur": "bosluk",
+       "cumle": "Mustafa Kemal Paşa'nın İzmir ve Manisa'nın işgaline karşı mitinglerin canlı biçimde sürdürülmesini istediği genelge ___ Genelgesi'dir.",
+       "cevap": "Havza",
+       "celdiriciler": [
+        "Amasya",
+        "Sivas",
+        "Erzurum"
+       ],
+       "bilgi": "9. Ordu Müfettişi olarak asayiş için gönderilen Mustafa Kemal Paşa, Havza Genelgesi'yle hükûmetin verdiği görevin dışına çıkarak millî direnişi örgütlemeye başlamıştır.",
+       "sayfa": 161,
+       "yil": "2026-TYT"
+      },
+      {
+       "id": "1.10-15",
+       "tur": "dy",
+       "ifade": "1921 Teşkilat-ı Esasiye Kanunu'ndaki \"Hâkimiyet kayıtsız şartsız milletindir.\" hükmüyle egemenliğin kaynağı değiştirilmiştir.",
+       "dogru": true,
+       "bilgi": "1921 Teşkilat-ı Esasiye Kanunu'nun ilk maddesi egemenliği hanedandan alıp millete vermiş, halkın kendi geleceğini bizzat yönetmesi esasını getirmiştir.",
+       "sayfa": 161,
+       "yil": "2026-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.11",
+     "ad": "Atatürkçülük ve Türk İnkılabı",
+     "soruSayisi": 3,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.11-01",
+       "tur": "bosluk",
+       "cumle": "II. Meşrutiyet'te İttihat ve Terakki'nin hedeflediği ortak eğitim sistemi, 3 Mart 1924'te kabul edilen ___ Kanunu ile gerçekleşmiştir.",
+       "cevap": "Tevhid-i Tedrisat",
+       "celdiriciler": [
+        "Teşkilat-ı Esasiye",
+        "Medeni",
+        "Soyadı"
+       ],
+       "bilgi": "Tevhid-i Tedrisat Kanunu, ülkedeki tüm eğitim kurumlarını Maarif Vekâletine bağlayarak eğitimde birliği sağlamıştır.",
+       "sayfa": 162,
+       "yil": "2018-TYT"
+      },
+      {
+       "id": "1.11-02",
+       "tur": "dy",
+       "ifade": "Atatürk milliyetçiliği, Türk milletini diğer milletlerden üstün gören bir anlayışa dayanır.",
+       "dogru": false,
+       "bilgi": "Atatürk milliyetçiliği bencil ve mağrur değildir; başka milletlerin düşmanlığına dayanmaz, iş birliği yapılan milletlere saygı gösterir ve insan onuruna değer verir.",
+       "sayfa": 162,
+       "yil": "2019-TYT"
+      },
+      {
+       "id": "1.11-03",
+       "tur": "dy",
+       "ifade": "Mustafa Kemal'e göre millî eğitim programı, milletin durumuna, toplumun ihtiyaçlarına ve çağın gereklerine uygun olmalıdır.",
+       "dogru": true,
+       "bilgi": "Mustafa Kemal 1 Mart 1922'de millî eğitimi hükûmetin en önemli görevi saymış; eğitimin millî, toplumsal ihtiyaçlara dönük ve çağdaş olmasını istemiştir.",
+       "sayfa": 162,
+       "yil": "2022-TYT"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

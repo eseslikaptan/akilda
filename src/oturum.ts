@@ -7,7 +7,9 @@ export type OturumTipi =
   | { tip: "konu"; konuId: string }
   | { tip: "tekrar"; kurs?: string }
   | { tip: "karisik"; kurs?: string }
-  | { tip: "cikmis"; kurs?: string };
+  | { tip: "cikmis"; kurs?: string }
+  | { tip: "defter" }
+  | { tip: "liste"; uids: string[] };
 
 const KONU_KART = 10;
 const TEKRAR_KART = 15;
@@ -61,6 +63,9 @@ export function oturumKartlari(d: Dizin, p: Ilerleme, o: OturumTipi): KartRef[] 
     return araya(secilen, tekrar);
   }
   if (o.tip === "tekrar") return karistir(vadeliKartlar(d, p, o.kurs).slice(0, TEKRAR_KART));
+
+  if (o.tip === "defter") return karistir(yanlisDefteri(d, p).slice(0, KARISIK_KART));
+  if (o.tip === "liste") return o.uids.map((u) => d.kartlar.get(u)).filter((k): k is KartRef => !!k);
 
   if (o.tip === "cikmis") {
     // ÖSYM'de çıkan bilgiler: önce hiç görülmeyenler ya da zayıflar, en çok soru çıkan başlıklardan
@@ -132,4 +137,18 @@ export function siradakiKonu(d: Dizin, p: Ilerleme, kursId?: string): Konu | und
     if (ilk) return ilk;
   }
   return undefined;
+}
+
+/**
+ * Yanlış defteri: en az bir kez yanlış cevaplanmış bilgiler.
+ * Önce yanlış sayısı doğruya göre fazla olanlar, sonra hatırlaması en zayıf olanlar.
+ */
+export function yanlisDefteri(d: Dizin, p: Ilerleme): KartRef[] {
+  const simdi = Date.now();
+  return Object.entries(p.kartlar)
+    .filter(([, k]) => k.no > 0)
+    .map(([uid, k]) => ({ ref: d.kartlar.get(uid), puan: k.no * 2 - k.ok + (1 - hatirlama(k, simdi)) * 2 }))
+    .filter((x): x is { ref: KartRef; puan: number } => !!x.ref)
+    .sort((a, b) => b.puan - a.puan)
+    .map((x) => x.ref);
 }

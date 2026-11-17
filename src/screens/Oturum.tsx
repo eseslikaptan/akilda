@@ -1,10 +1,11 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import type { Dizin } from "../content";
 import { kaynakLinki } from "../content";
-import type { KartRef } from "../types";
+import type { KartDurum, KartRef } from "../types";
 import { oturumKartlari, siradakiKonu, type OturumTipi } from "../oturum";
-import { cevapKaydet, ilerleme, useIlerleme, xpEkle } from "../store";
-import { sureMetni } from "../srs";
+import { cevapKaydet, ilerleme, kartDurumYaz, useIlerleme, xpEkle } from "../store";
+import { guncelle, sureMetni } from "../srs";
+import { hataBildirLinki, meydanLinki, paylas } from "../araclar";
 import { SoruGovdesi, soruEtiketi, type Cevap } from "../sorular";
 import { sesler } from "../ses";
 import { DERSLER } from "../subjects";
@@ -18,6 +19,7 @@ interface Adim {
 }
 
 interface Sonuc {
+  uids: string[];
   xp: number;
   dogru: number;
   toplam: number;
@@ -30,7 +32,12 @@ const XP_DOGRU = 10;
 const XP_TEKRAR_DOGRU = 4;
 const XP_KUSURSUZ = 15;
 
-export function Oturum({ dizin, tip }: { dizin: Dizin; tip: OturumTipi }) {
+export interface Meydan {
+  ad: string;
+  skor: string; // "9/12"
+}
+
+export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; meydan?: Meydan }) {
   const p = useIlerleme();
   // Oturum kartları başta bir kez belirlenir
   const [kuyruk, setKuyruk] = useState<Adim[]>(() =>
@@ -45,6 +52,8 @@ export function Oturum({ dizin, tip }: { dizin: Dizin; tip: OturumTipi }) {
   const baslangic = useRef(Date.now());
   const [sonuc, setSonuc] = useState<Sonuc | null>(null);
   const [kombo, setKombo] = useState(0);
+  const oncekiDurum = useRef<KartDurum | undefined>(undefined);
+  const [tahmin, setTahmin] = useState(false);
 
   const adim = kuyruk[i];
 
@@ -55,7 +64,8 @@ export function Oturum({ dizin, tip }: { dizin: Dizin; tip: OturumTipi }) {
       const uid = adim.ref.uid;
       if (!ilkDeneme.current.has(uid)) {
         ilkDeneme.current.set(uid, c.dogru);
-        if (!ilerleme().kartlar[uid]) yeniKartlar.current.add(uid);
+        oncekiDurum.current = ilerleme().kartlar[uid];
+        if (!oncekiDurum.current) yeniKartlar.current.add(uid);
         const yeni = cevapKaydet(uid, c.dogru);
         setSonDurumS(yeni.s);
         if (c.dogru) xp.current += XP_DOGRU;
@@ -91,6 +101,7 @@ export function Oturum({ dizin, tip }: { dizin: Dizin; tip: OturumTipi }) {
     if (xp.current > 0 || konuId) xpEkle(xp.current, konuId);
     if (ilerleme().ayarlar.ses) sesler.bitis();
     setSonuc({
+      uids: [...ilkDeneme.current.keys()],
       xp: xp.current,
       dogru: dogrular,
       toplam,
@@ -104,6 +115,7 @@ export function Oturum({ dizin, tip }: { dizin: Dizin; tip: OturumTipi }) {
     if (!cevap) return;
     setCevap(null);
     setSonDurumS(null);
+    setTahmin(false);
     if (i + 1 >= kuyruk.length) bitir();
     else setI(i + 1);
   }, [cevap, i, kuyruk.length, bitir]);
@@ -133,7 +145,17 @@ export function Oturum({ dizin, tip }: { dizin: Dizin; tip: OturumTipi }) {
     git("/", true);
   };
 
-  if (sonuc) return <SonucEkrani sonuc={sonuc} dizin={dizin} tip={tip} />;
+  if (sonuc) return <SonucEkrani sonuc={sonuc} dizin={dizin} tip={tip} meydan={meydan} />;
+
+  // Doğru ama tahminle bulunduysa kart daha erken tekrar gelsin
+  const tahminEttim = () => {
+    if (!adim) return;
+    const yeni = guncelle(oncekiDurum.current, "tahmin");
+    kartDurumYaz(adim.ref.uid, yeni);
+    setSonDurumS(yeni.s);
+    xp.current = Math.max(0, xp.current - 5);
+    setTahmin(true);
+  };
 
   if (!adim) {
     return (
@@ -173,6 +195,11 @@ export function Oturum({ dizin, tip }: { dizin: Dizin; tip: OturumTipi }) {
         </span>
       </div>
 
+      {meydan && i === 0 && !cevap && (
+        <p className="meydan-serit">
+          <strong>{meydan.ad}</strong> sana meydan okudu: aynı soruları {meydan.skor} bildi.
+        </p>
+      )}
       <main className={`soru-alani ${cevap ? "cevaplandi" : ""}`} key={i}>
         <div className="soru-ust">
           <span className="soru-etiket">{soruEtiketi(kart)}</span>
@@ -200,6 +227,11 @@ export function Oturum({ dizin, tip }: { dizin: Dizin; tip: OturumTipi }) {
               <span className="gb-sonraki">Sonraki tekrar: {sureMetni(sonDurumS)}</span>
             )}
           </div>
+          {cevap.dogru && sonDurumS !== null && (
+            <button className={`tahmin-dugme ${tahmin ? "secili" : ""}`} onClick={tahminEttim} disabled={tahmin}>
+              {tahmin ? "Tamam, bu bilgi daha sık gelecek" : "Aslında tahmin ettim"}
+            </button>
+          )}
           <p className="gb-bilgi">{kart.bilgi}</p>
           <a className="gb-kaynak" href={kaynakLinki(adim.ref.kitap, kart.sayfa)} target="_blank" rel="noreferrer" title={adim.ref.kitap.baslik}>
             {kart.yil
@@ -210,6 +242,9 @@ export function Oturum({ dizin, tip }: { dizin: Dizin; tip: OturumTipi }) {
           <button className="dugme birincil genis" onClick={devam} ref={(b) => b?.focus({ preventScroll: true })}>
             Devam
           </button>
+          <a className="hata-bildir" href={hataBildirLinki(adim.ref)} target="_blank" rel="noreferrer">
+            Bu kartta hata mı var? Bildir
+          </a>
         </footer>
       )}
     </div>
@@ -221,8 +256,14 @@ function ovgu() {
   return OVGULER[Math.floor(Math.random() * OVGULER.length)];
 }
 
-function SonucEkrani({ sonuc, dizin, tip }: { sonuc: Sonuc; dizin: Dizin; tip: OturumTipi }) {
+function SonucEkrani({ sonuc, dizin, tip, meydan }: { sonuc: Sonuc; dizin: Dizin; tip: OturumTipi; meydan?: Meydan }) {
   const p = useIlerleme();
+  const [paylasimMesaji, setPaylasimMesaji] = useState("");
+  const meydanOku = async () => {
+    const url = meydanLinki(sonuc.uids, p.ayarlar.ad, sonuc.dogru);
+    setPaylasimMesaji(await paylas("Akılda meydan okuması", `Bu ${sonuc.uids.length} YKS sorusunda ${sonuc.dogru} doğru yaptım. Sen kaç yaparsın?`, url));
+  };
+  const rakip = meydan ? Number(meydan.skor.split("/")[0]) : undefined;
   const isabet = sonuc.toplam ? sonuc.dogru / sonuc.toplam : 0;
   const sonraki = tip.tip === "konu" ? siradakiKonu(dizin, p, dizin.konular.get(tip.konuId)?.kursId) : undefined;
   const dk = Math.floor(sonuc.sureSn / 60);
@@ -234,7 +275,24 @@ function SonucEkrani({ sonuc, dizin, tip }: { sonuc: Sonuc; dizin: Dizin; tip: O
         <div className="sonuc-madalya">
           <Ikon d={IKON.yildiz} boyut={44} kalin={1.6} />
         </div>
-        <h1>{isabet === 1 ? "Kusursuz!" : isabet >= 0.7 ? "Güzel iş!" : "Tekrar güçlendirir"}</h1>
+        <h1>
+          {meydan && rakip !== undefined
+            ? sonuc.dogru > rakip
+              ? "Meydan okumayı kazandın!"
+              : sonuc.dogru === rakip
+                ? "Berabere!"
+                : `${meydan.ad} bu sefer önde`
+            : isabet === 1
+              ? "Kusursuz!"
+              : isabet >= 0.7
+                ? "Güzel iş!"
+                : "Tekrar güçlendirir"}
+        </h1>
+        {meydan && (
+          <p>
+            Sen {sonuc.dogru}/{sonuc.toplam} · {meydan.ad} {meydan.skor}
+          </p>
+        )}
         <p>{sonuc.yeni > 0 ? `${sonuc.yeni} yeni bilgi hafızana eklendi.` : "Hafızan tazelendi."}</p>
       </div>
       <div className="sonuc-kutular">
@@ -276,6 +334,12 @@ function SonucEkrani({ sonuc, dizin, tip }: { sonuc: Sonuc; dizin: Dizin; tip: O
             Sıradaki: {sonraki.ad}
           </button>
         )}
+        {sonuc.uids.length >= 5 && (
+          <button className="dugme ikincil genis" onClick={meydanOku}>
+            Arkadaşına meydan oku
+          </button>
+        )}
+        {paylasimMesaji && <p className="soluk-metin paylasim-mesaj">{paylasimMesaji}</p>}
         <button className={`dugme genis ${sonraki ? "ikincil" : "birincil"}`} onClick={() => git("/", true)}>
           Ana sayfa
         </button>

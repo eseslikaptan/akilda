@@ -1,9 +1,11 @@
-import { useRef, useState, type CSSProperties } from "react";
+import { useEffect, useRef, useState, type CSSProperties } from "react";
 import type { Dizin } from "../content";
 import { aktifKurslar, kartlarOzet } from "../oturum";
 import { ALANLAR, alanBilgi, alandaMi, type AlanKey } from "../kurslar";
 import { kursAdi } from "./Dersler";
-import { ayarlariGuncelle, disaAktar, gunAnahtari, iceAktar, seri, sifirla, useIlerleme } from "../store";
+import { ayarlariGuncelle, disaAktar, gunAnahtari, iceAktar, seri, sifirla, useIlerleme, yedekAlindi } from "../store";
+import { dosyaIndir, kaliciDepolamaIste, kaliciMi, takvimDosyasi, uygulamaAdresi } from "../araclar";
+import { net } from "../yks";
 import { seviye } from "../srs";
 import { DERSLER } from "../subjects";
 import { geri, git } from "../router";
@@ -46,13 +48,16 @@ export function Profil({ dizin }: { dizin: Dizin }) {
   const toplamKart = dizin.kartlar.size;
   seviyeler[0] = toplamKart - Object.keys(p.kartlar).length;
 
+  const [saat, setSaat] = useState("20:00");
+  const [kalici, setKalici] = useState<boolean | null>(null);
+  useEffect(() => {
+    kaliciMi().then(setKalici);
+  }, []);
+
   const yedekIndir = () => {
-    const blob = new Blob([disaAktar()], { type: "application/json" });
-    const a = document.createElement("a");
-    a.href = URL.createObjectURL(blob);
-    a.download = `akilda-yedek-${gunAnahtari()}.json`;
-    a.click();
-    URL.revokeObjectURL(a.href);
+    dosyaIndir(disaAktar(), `akilda-yedek-${gunAnahtari()}.json`, "application/json");
+    yedekAlindi();
+    setMesaj("Yedek indirildi.");
   };
 
   const yedekYukle = async (f: File) => {
@@ -87,11 +92,38 @@ export function Profil({ dizin }: { dizin: Dizin }) {
           <span>en uzun seri</span>
         </div>
       </section>
+      <p className="soluk-metin dondurma-bilgi">
+        ❄ {p.dondurma.hak} seri dondurma hakkın var. Her 7 günlük seride 1 hak kazanırsın (en fazla 2); çalışamadığın gün
+        otomatik kullanılır{p.dondurma.gunler.length ? `, şimdiye kadar ${p.dondurma.gunler.length} gün kurtardı` : ""}.
+      </p>
 
       <section className="kutu">
         <h2 className="bolum-baslik">Çalışma takvimi</h2>
         <Isi gunler={p.gunler} />
       </section>
+
+      {p.denemeler.length > 0 && (
+        <section className="kutu">
+          <div className="bolum-ust">
+            <h2 className="bolum-baslik">Deneme netlerin</h2>
+            <button className="metin-dugme" onClick={() => git("/deneme")}>
+              Yeni deneme
+            </button>
+          </div>
+          <div className="net-grafik" role="img" aria-label="Son denemelerin net yüzdeleri">
+            {p.denemeler.slice(-12).map((k) => {
+              const t = Object.values(k.dersler).reduce((a, x) => ({ d: a.d + x!.d, y: a.y + x!.y, n: a.n + x!.d + x!.y + x!.b }), { d: 0, y: 0, n: 0 });
+              const oran = t.n ? Math.max(0, net(t.d, t.y) / t.n) : 0;
+              return (
+                <span key={k.tarih} className={`net-sutun ${k.sinav.toLowerCase()}`} title={`${k.sinav}: ${net(t.d, t.y)} net / ${t.n} soru`}>
+                  <span style={{ height: `${Math.max(4, oran * 100)}%` }} />
+                </span>
+              );
+            })}
+          </div>
+          <p className="soluk-metin">Sütunlar netin soru sayısına oranı. Koyu: TYT, turuncu: AYT.</p>
+        </section>
+      )}
 
       <section className="kutu">
         <h2 className="bolum-baslik">Hafızadaki bilgiler</h2>
@@ -160,8 +192,39 @@ export function Profil({ dizin }: { dizin: Dizin }) {
       </section>
 
       <section className="kutu">
+        <h2 className="bolum-baslik">Hatırlatma</h2>
+        <p className="soluk-metin">
+          Takvimine her gün bir tekrar hatırlatması ve 2027 YKS günleri eklenir. Bildirimi telefonunun kendi takvimi gönderir.
+        </p>
+        <div className="dugme-satir">
+          <label className="saat-alan">
+            <span>Saat</span>
+            <input id="hatirlatma-saati" type="time" value={saat} onChange={(e) => setSaat(e.target.value || "20:00")} />
+          </label>
+          <button className="dugme ikincil" onClick={() => dosyaIndir(takvimDosyasi(saat, uygulamaAdresi()), "akilda-hatirlatma.ics", "text/calendar")}>
+            Takvime ekle
+          </button>
+        </div>
+      </section>
+
+      <section className="kutu">
         <h2 className="bolum-baslik">Verilerin</h2>
-        <p className="soluk-metin">İlerlemen yalnızca bu cihazda saklanır. Cihaz değiştirirken yedek al.</p>
+        <p className="soluk-metin">
+          İlerlemen yalnızca bu cihazda saklanır. Cihaz değiştirirken yedek al.
+          {p.sonYedek ? ` Son yedek: ${new Date(p.sonYedek).toLocaleDateString("tr-TR")}.` : " Henüz yedek almadın."}
+        </p>
+        <p className="soluk-metin">
+          {kalici === true
+            ? "Tarayıcı bu verileri kalıcı olarak saklıyor."
+            : kalici === false
+              ? "Tarayıcı yer açmak için verileri silebilir. "
+              : ""}
+          {kalici === false && (
+            <button className="metin-dugme satir-ici" onClick={() => kaliciDepolamaIste().then((x) => setKalici(!!x))}>
+              Kalıcı saklamayı iste
+            </button>
+          )}
+        </p>
         <div className="dugme-satir">
           <button className="dugme ikincil" onClick={yedekIndir}>
             Yedek indir

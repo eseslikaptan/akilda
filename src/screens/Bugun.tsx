@@ -1,8 +1,10 @@
-import type { CSSProperties } from "react";
+import { useState, type CSSProperties } from "react";
 import type { Dizin } from "../content";
 import { aktifKurslar, kartlarOzet, siradakiKonu, vadeliKartlar } from "../oturum";
 import { kursAdi } from "./Dersler";
-import { gunAnahtari, seri, useIlerleme } from "../store";
+import { gunAnahtari, seri, seriTehlikede, useIlerleme } from "../store";
+import { gunKaldi, gunlukYeniHedef } from "../yks";
+import { anaEkrandaMi, iosMu } from "../araclar";
 import { DERSLER } from "../subjects";
 import { git } from "../router";
 import { DersRozeti, HafizaCubugu, Halka, Ikon, IKON, yuzde } from "../ui";
@@ -25,6 +27,20 @@ export function Bugun({ dizin }: { dizin: Dizin }) {
   const kurslar = aktifKurslar(dizin, p);
   const cikmisSoru = kurslar.reduce((t, k) => t + (k.cikmis.some((c) => c.kartlar.length) ? k.cikmisSoru : 0), 0);
   const gorulenToplam = Object.keys(p.kartlar).length;
+  const kalan = gunKaldi();
+  const gorulmemis = kurslar.reduce((t, k) => t + k.kartlar.filter((r) => !p.kartlar[r.uid]).length, 0);
+  const yeniHedef = gunlukYeniHedef(gorulmemis, kalan);
+  const bugunYeni = p.yeniler[gunAnahtari()] ?? 0;
+  const birikti = vadeli.length > 80;
+  const [iosGizle, setIosGizle] = useState(() => {
+    try {
+      return localStorage.getItem("akilda:ios-ipucu") === "1";
+    } catch {
+      return false;
+    }
+  });
+  const iosIpucu = !iosGizle && iosMu() && !anaEkrandaMi();
+  const yedekGerekli = gorulenToplam >= 50 && (!p.sonYedek || Date.now() - p.sonYedek > 14 * 86_400_000) && !iosIpucu;
 
   return (
     <div className="sayfa">
@@ -33,12 +49,63 @@ export function Bugun({ dizin }: { dizin: Dizin }) {
           <p className="ust-etiket">{selam()}{p.ayarlar.ad ? `, ${p.ayarlar.ad}` : ""}</p>
           <h1 className="baslik-buyuk">Bugün ne hatırlayalım?</h1>
         </div>
-        <div className="seri-rozet" title="Ardışık çalışma günü">
+        <div className="seri-rozet" title={`Ardışık çalışma günü · ${p.dondurma.hak} seri dondurma hakkı`}>
           <Ikon d={IKON.alev} boyut={18} />
           <strong>{gunSeri}</strong>
           <span>gün</span>
+          {p.dondurma.hak > 0 && <span className="dondurma" aria-label={`${p.dondurma.hak} dondurma hakkı`}>❄{p.dondurma.hak}</span>}
         </div>
       </header>
+
+      {iosIpucu && (
+        <div className="uyari-serit">
+          <p>
+            <strong>İlerlemen silinmesin:</strong> Safari'de Paylaş düğmesine dokun, sonra <strong>Ana Ekrana Ekle</strong>. Ana ekrandan açılan
+            uygulamanın verileri Safari'nin 7 günlük temizliğine takılmaz.
+          </p>
+          <button
+            className="metin-dugme"
+            onClick={() => {
+              setIosGizle(true);
+              try {
+                localStorage.setItem("akilda:ios-ipucu", "1");
+              } catch {
+                /* önemli değil */
+              }
+            }}
+          >
+            Tamam
+          </button>
+        </div>
+      )}
+      {yedekGerekli && (
+        <button className="uyari-serit" onClick={() => git("/profil")}>
+          <p>
+            <strong>{gorulenToplam} bilgi</strong> hafızanda ve ilerlemen sadece bu cihazda. Profil'den yedek almayı unutma.
+          </p>
+        </button>
+      )}
+
+      <section className="sayac-kart">
+        <div className="sayac-sayi">
+          <strong>{kalan}</strong>
+          <span>gün</span>
+        </div>
+        <div className="sayac-metin">
+          <h2>2027 YKS'ye</h2>
+          <p className="soluk-metin">TYT 19 Haziran, AYT 20 Haziran</p>
+          {birikti ? (
+            <p className="tempo uyari">Tekrarlar birikti. Bugün yeni konu yerine önce tekrarları erit.</p>
+          ) : yeniHedef > 0 ? (
+            <p className="tempo">
+              Bu tempoyla her şeyi sınavdan 3 hafta önce bitirmek için günde <strong>{yeniHedef} yeni bilgi</strong>. Bugün:{" "}
+              <strong className={bugunYeni >= yeniHedef ? "tamam" : ""}>{bugunYeni}</strong>
+            </p>
+          ) : (
+            <p className="tempo">Tüm bilgileri gördün. Artık sadece tekrar.</p>
+          )}
+        </div>
+      </section>
 
       <section className="hedef-kart">
         <Halka oran={bugunXp / hedef} boyut={84} kalinlik={9}>
@@ -50,6 +117,11 @@ export function Bugun({ dizin }: { dizin: Dizin }) {
             {bugunXp >= hedef ? "Bugünkü hedefi tamamladın." : `${hedef - bugunXp} XP kaldı`} · {bugunXp}/{hedef} XP
           </p>
           <p className="soluk-metin">Toplam {gorulenToplam} bilgi hafızanda</p>
+          {seriTehlikede(p) && new Date().getHours() >= 18 && (
+            <p className="seri-uyari">
+              Bugün çalışmazsan {p.dondurma.hak > 0 ? "dondurma hakkın kullanılacak" : `${gunSeri} günlük serin bozulacak`}.
+            </p>
+          )}
         </div>
       </section>
 
@@ -90,6 +162,23 @@ export function Bugun({ dizin }: { dizin: Dizin }) {
           </button>
         </section>
       )}
+
+      <div className="arac-satir">
+        <button className="arac" onClick={() => git("/deneme")}>
+          <Ikon d={IKON.hedef} />
+          <span>
+            <strong>Deneme</strong>
+            <span className="soluk-metin">Süreli, netli</span>
+          </span>
+        </button>
+        <button className="arac" onClick={() => git("/defter")}>
+          <Ikon d={IKON.liste} />
+          <span>
+            <strong>Yanlış defteri</strong>
+            <span className="soluk-metin">{Object.values(p.kartlar).filter((k) => k.no > 0).length} bilgi</span>
+          </span>
+        </button>
+      </div>
 
       {cikmisSoru > 0 && (
         <button className="osym-kisayol" onClick={() => git("/oturum?cikmis=1")}>

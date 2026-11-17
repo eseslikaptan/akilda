@@ -1904,6 +1904,327 @@ h3 {
   color: var(--accent-strong);
 }
 
+/* ============ YKS araçları ============ */
+.dondurma {
+  margin-left: 4px;
+  padding-left: 6px;
+  border-left: 1px solid color-mix(in srgb, var(--accent-strong) 30%, transparent);
+  color: #3f8fd2;
+  font-weight: 700;
+}
+.dondurma-bilgi {
+  margin: -6px 0 0;
+}
+.uyari-serit {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  padding: 12px 14px;
+  border-radius: var(--r-m);
+  background: color-mix(in srgb, var(--warn) 14%, var(--surface));
+  border: 1px solid color-mix(in srgb, var(--warn) 35%, var(--line));
+  font-size: 14px;
+  text-align: left;
+}
+.uyari-serit p {
+  margin: 0;
+  flex: 1;
+}
+.sayac-kart {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  padding: 16px;
+  border-radius: var(--r-l);
+  background: var(--ink);
+  color: var(--bg);
+}
+.sayac-sayi {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 72px;
+}
+.sayac-sayi strong {
+  font: 700 38px/1 var(--font-serif);
+  font-variant-numeric: tabular-nums;
+}
+.sayac-sayi span {
+  font-size: 12px;
+  font-weight: 700;
+  opacity: 0.7;
+}
+.sayac-metin {
+  min-width: 0;
+}
+.sayac-metin h2 {
+  font-size: 17px;
+}
+.sayac-metin .soluk-metin {
+  color: inherit;
+  opacity: 0.7;
+  margin: 2px 0 6px;
+}
+.tempo {
+  margin: 0;
+  font-size: 13.5px;
+  line-height: 1.45;
+}
+.tempo strong.tamam {
+  color: var(--good);
+}
+.tempo.uyari {
+  color: var(--warn);
+  font-weight: 700;
+}
+.seri-uyari {
+  margin: 6px 0 0;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--warn);
+}
+.arac-satir {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.arac {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-m);
+  box-shadow: var(--press);
+  color: var(--accent-strong);
+  min-width: 0;
+}
+.arac > span {
+  display: flex;
+  flex-direction: column;
+  color: var(--ink);
+  min-width: 0;
+}
+.arac strong {
+  font-size: 14.5px;
+}
+
+/* Deneme */
+.deneme .oturum-ust {
+  gap: 12px;
+}
+.deneme-sure {
+  flex: 1;
+  font: 700 18px var(--font-sans);
+  font-variant-numeric: tabular-nums;
+}
+.deneme-sure.az {
+  color: var(--bad);
+}
+.secenek.isaretli {
+  border-color: var(--ders);
+  background: var(--ders-soft);
+}
+.secenek.isaretli .sik-harf {
+  background: var(--ders);
+  border-color: var(--ders);
+  color: var(--surface);
+}
+.deneme-alt {
+  display: flex;
+  gap: 10px;
+  padding: 8px 0;
+}
+.deneme-alt .dugme {
+  flex: 1;
+}
+.deneme-palet {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  padding: 4px 0 calc(12px + env(safe-area-inset-bottom));
+}
+.deneme-palet button {
+  flex-shrink: 0;
+  width: 34px;
+  height: 34px;
+  border-radius: 10px;
+  border: 1.5px solid var(--line);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--ink-2);
+  font-variant-numeric: tabular-nums;
+}
+.deneme-palet button.dolu {
+  background: var(--ders-soft);
+  border-color: var(--ders);
+  color: var(--ders-ink);
+}
+.deneme-palet button.aktif {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+.onay-perde {
+  position: fixed;
+  inset: 0;
+  z-index: 30;
+  display: grid;
+  place-items: center;
+  padding: 16px;
+  background: rgba(10, 8, 20, 0.45);
+}
+.onay-kutu {
+  width: min(380px, 100%);
+  padding: 20px;
+  border-radius: var(--r-l);
+  background: var(--surface);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.onay-kutu h2 {
+  font: 600 20px var(--font-serif);
+}
+.onay-kutu p {
+  margin: 0;
+  color: var(--ink-2);
+}
+.net-tablo {
+  width: 100%;
+  border-collapse: collapse;
+  font-variant-numeric: tabular-nums;
+  background: var(--surface);
+  border-radius: var(--r-m);
+  overflow: hidden;
+}
+.net-tablo th,
+.net-tablo td {
+  padding: 10px 8px;
+  text-align: center;
+  border-bottom: 1px solid var(--line);
+}
+.net-tablo th:first-child,
+.net-tablo td:first-child {
+  text-align: left;
+}
+.net-tablo th {
+  font-size: 12px;
+  color: var(--ink-2);
+}
+.deneme-gecmis {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.deneme-gecmis li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+}
+.deneme-gecmis strong {
+  margin-left: auto;
+}
+.yanlis-metin {
+  color: var(--bad);
+}
+.net-grafik {
+  display: flex;
+  align-items: flex-end;
+  gap: 6px;
+  height: 90px;
+}
+.net-sutun {
+  flex: 1;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  background: var(--surface-2);
+  border-radius: 6px;
+  overflow: hidden;
+  max-width: 28px;
+}
+.net-sutun span {
+  width: 100%;
+  background: var(--ink);
+  border-radius: 6px 6px 0 0;
+}
+.net-sutun.ayt span {
+  background: var(--accent);
+}
+.saat-alan {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  font-weight: 600;
+}
+.saat-alan input {
+  font: inherit;
+  color: var(--ink);
+  background: var(--surface);
+  border: 1.5px solid var(--line);
+  border-radius: var(--r-s);
+  padding: 8px 10px;
+}
+.metin-dugme.satir-ici {
+  padding: 0;
+  display: inline;
+}
+
+/* Yanlış defteri, oturum ekleri */
+.defter-madde {
+  border-left-color: var(--bad);
+}
+.defter-madde .ust-etiket {
+  margin-bottom: 4px;
+  color: var(--ders);
+}
+.defter-sayac {
+  font-weight: 700;
+  color: var(--bad);
+}
+.bos-durum.sol {
+  text-align: left;
+  align-items: flex-start;
+  color: var(--ink-2);
+}
+.meydan-serit {
+  margin: 12px 0 0;
+  padding: 10px 14px;
+  border-radius: var(--r-m);
+  background: var(--accent-soft);
+  color: var(--accent-strong);
+  font-size: 14px;
+}
+.tahmin-dugme {
+  align-self: flex-start;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--good);
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1.5px solid color-mix(in srgb, var(--good) 40%, transparent);
+}
+.tahmin-dugme.secili {
+  opacity: 0.75;
+}
+.hata-bildir {
+  align-self: center;
+  font-size: 12px;
+  color: var(--ink-3);
+}
+.paylasim-mesaj {
+  text-align: center;
+  margin: 0;
+  word-break: break-all;
+}
+
 /* ============ Animasyonlar ============ */
 @keyframes belir {
   from {
