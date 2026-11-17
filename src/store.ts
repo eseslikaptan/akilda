@@ -7,7 +7,7 @@ const ANAHTAR = "akilda:v1";
 const BOS: Ilerleme = {
   v: 1,
   kurulum: false,
-  ayarlar: { ad: "", gunlukHedef: 100, alan: "HEPSI", ses: true },
+  ayarlar: { ad: "", gunlukHedef: 100, alan: "HEPSI", ses: true, yazarak: false },
   kartlar: {},
   gunler: {},
   yeniler: {},
@@ -15,6 +15,7 @@ const BOS: Ilerleme = {
   enUzunSeri: 0,
   dondurma: { hak: 1, gunler: [] },
   denemeler: [],
+  cevaplar: {},
 };
 
 function oku(): Ilerleme {
@@ -121,7 +122,10 @@ export function cevapKaydet(uid: string, sonuc: boolean | Kalite): KartDurum {
   const yeni = guncelle(onceki, sonuc);
   const bugun = gunAnahtari();
   const yeniler = onceki ? durum.yeniler : { ...durum.yeniler, [bugun]: (durum.yeniler[bugun] ?? 0) + 1 };
-  yaz({ ...durum, kartlar: { ...durum.kartlar, [uid]: yeni }, yeniler });
+  const [d, y] = durum.cevaplar[bugun] ?? [0, 0];
+  const dogru = sonuc !== false && sonuc !== "yanlis";
+  const cevaplar = { ...durum.cevaplar, [bugun]: (dogru ? [d + 1, y] : [d, y + 1]) as [number, number] };
+  yaz({ ...durum, kartlar: { ...durum.kartlar, [uid]: yeni }, yeniler, cevaplar });
   return yeni;
 }
 
@@ -163,6 +167,10 @@ export function xpEkle(xp: number, sonKonu?: string) {
 
 export function denemeKaydet(k: DenemeKaydi) {
   yaz({ ...durum, denemeler: [...durum.denemeler, k].slice(-50) });
+}
+
+export function sonTurBaslat(baslat: boolean) {
+  yaz({ ...durum, sonTur: baslat ? { baslangic: Date.now() } : undefined });
 }
 
 export function yedekAlindi() {

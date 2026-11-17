@@ -8,6 +8,7 @@ import { hatirlama, seviye } from "../srs";
 import { DERSLER } from "../subjects";
 import { alanBilgi, type Sinav } from "../kurslar";
 import { SORU_SAYISI } from "../yks";
+import { KarisanListe, dersSetleri } from "./Karisanlar";
 import { geri, git } from "../router";
 import { DersRozeti, HafizaCubugu, Ikon, IKON, UstBar, yuzde } from "../ui";
 
@@ -169,6 +170,16 @@ export function KursDetay({ dizin, kursId }: { dizin: Dizin; kursId: string }) {
           </ol>
         </section>
       ))}
+
+      {dersSetleri(dizin, kurs.ders).length > 0 && (
+        <section className="unite">
+          <header className="unite-baslik">
+            <span className="unite-no">Karıştırılanlar</span>
+            <h2>Birbirine benzeyen kavramlar</h2>
+          </header>
+          <KarisanListe dizin={dizin} setler={dersSetleri(dizin, kurs.ders)} />
+        </section>
+      )}
 
       <p className="kaynak-not">Kaynak: MEB {b.ad} ders kitapları</p>
       </>}

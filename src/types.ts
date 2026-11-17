@@ -134,8 +134,12 @@ export interface Kurs {
 export interface KartDurum {
   /** kararlılık (gün): hatırlama olasılığının %90'a düştüğü süre */
   s: number;
+  /** FSRS zorluğu (1–10); eski kayıtlarda yok, 5 kabul edilir */
+  d?: number;
   /** son tekrar zamanı (ms) */
   l: number;
+  /** bir sonraki tekrar zamanı (ms); yoksa l + s gün */
+  v?: number;
   /** toplam doğru / yanlış */
   ok: number;
   no: number;
@@ -146,6 +150,8 @@ export interface Ayarlar {
   gunlukHedef: number; // XP
   alan: "TYT" | "SAY" | "EA" | "SOZ" | "HEPSI";
   ses: boolean;
+  /** Boşlukları yazarak cevapla, çoktan seçmelide şıkları önce gizle */
+  yazarak: boolean;
 }
 
 export interface DenemeKaydi {
@@ -173,4 +179,8 @@ export interface Ilerleme {
   dondurma: { hak: number; gunler: string[] };
   denemeler: DenemeKaydi[];
   sonYedek?: number;
+  /** "YYYY-MM-DD" -> [doğru, yanlış] (ilk denemeler; karne için) */
+  cevaplar: Record<string, [number, number]>;
+  /** Son tur: başladığı andan sonra en az bir kez sorulan bilgiler "turu tamamlamış" sayılır */
+  sonTur?: { baslangic: number };
 }

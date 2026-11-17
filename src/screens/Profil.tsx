@@ -3,7 +3,7 @@ import type { Dizin } from "../content";
 import { aktifKurslar, kartlarOzet } from "../oturum";
 import { ALANLAR, alanBilgi, alandaMi, type AlanKey } from "../kurslar";
 import { kursAdi } from "./Dersler";
-import { ayarlariGuncelle, disaAktar, gunAnahtari, iceAktar, seri, sifirla, useIlerleme, yedekAlindi } from "../store";
+import { ayarlariGuncelle, disaAktar, gunAnahtari, iceAktar, seri, sifirla, sonTurBaslat, useIlerleme, yedekAlindi } from "../store";
 import { dosyaIndir, kaliciDepolamaIste, kaliciMi, takvimDosyasi, uygulamaAdresi } from "../araclar";
 import { net } from "../yks";
 import { seviye } from "../srs";
@@ -189,6 +189,26 @@ export function Profil({ dizin }: { dizin: Dizin }) {
           <span>Sesler</span>
           <input type="checkbox" checked={p.ayarlar.ses} onChange={(e) => ayarlariGuncelle({ ses: e.target.checked })} />
         </label>
+        <label className="alan satir">
+          <span>
+            Yazarak cevapla
+            <small className="soluk-metin ayar-aciklama">Boşlukları yaz; çoktan seçmelide önce aklından cevapla, sonra şıkları gör.</small>
+          </span>
+          <input type="checkbox" checked={p.ayarlar.yazarak} onChange={(e) => ayarlariGuncelle({ yazarak: e.target.checked })} />
+        </label>
+        <div className="alan satir">
+          <span>
+            Son tur
+            <small className="soluk-metin ayar-aciklama">
+              {p.sonTur
+                ? `${new Date(p.sonTur.baslangic).toLocaleDateString("tr-TR")} tarihinde başladı. Her bilgi en az bir kez sorulur.`
+                : "Sınava kadar her bilgiyi en az bir kez görmek için. Son 3 haftada önerilir."}
+            </small>
+          </span>
+          <button className="dugme ikincil kucuk" onClick={() => sonTurBaslat(!p.sonTur)}>
+            {p.sonTur ? "Bitir" : "Başlat"}
+          </button>
+        </div>
       </section>
 
       <section className="kutu">
@@ -258,6 +278,11 @@ export function Profil({ dizin }: { dizin: Dizin }) {
         {mesaj && <p className="soluk-metin">{mesaj}</p>}
       </section>
 
+      <button className="kaynak-satir" onClick={() => git("/karne")}>
+        <Ikon d={IKON.yildiz} />
+        <span>Haftalık karne</span>
+        <Ikon d={IKON.ileri} />
+      </button>
       <button className="kaynak-satir" onClick={() => git("/kaynaklar")}>
         <Ikon d={IKON.kitap} />
         <span>Kaynaklar ve hakkında</span>

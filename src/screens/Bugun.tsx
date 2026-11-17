@@ -1,8 +1,8 @@
 import { useState, type CSSProperties } from "react";
 import type { Dizin } from "../content";
-import { aktifKurslar, kartlarOzet, siradakiKonu, vadeliKartlar } from "../oturum";
+import { aktifKurslar, kartlarOzet, siradakiKonu, sonTurDurumu, vadeliKartlar } from "../oturum";
 import { kursAdi } from "./Dersler";
-import { gunAnahtari, seri, seriTehlikede, useIlerleme } from "../store";
+import { gunAnahtari, seri, seriTehlikede, sonTurBaslat, useIlerleme } from "../store";
 import { gunKaldi, gunlukYeniHedef } from "../yks";
 import { anaEkrandaMi, iosMu } from "../araclar";
 import { DERSLER } from "../subjects";
@@ -32,6 +32,8 @@ export function Bugun({ dizin }: { dizin: Dizin }) {
   const yeniHedef = gunlukYeniHedef(gorulmemis, kalan);
   const bugunYeni = p.yeniler[gunAnahtari()] ?? 0;
   const birikti = vadeli.length > 80;
+  const sonTur = p.sonTur ? sonTurDurumu(dizin, p) : undefined;
+  const sonTurGunluk = sonTur ? Math.ceil(sonTur.kalan / Math.max(1, kalan)) : 0;
   const [iosGizle, setIosGizle] = useState(() => {
     try {
       return localStorage.getItem("akilda:ios-ipucu") === "1";
@@ -107,6 +109,36 @@ export function Bugun({ dizin }: { dizin: Dizin }) {
         </div>
       </section>
 
+      {sonTur ? (
+        <button className="son-tur-kart" onClick={() => git("/oturum?sontur=1")}>
+          <span className="son-tur-ust">
+            <strong>Son tur</strong>
+            <span>
+              {sonTur.tamam}/{sonTur.toplam}
+            </span>
+          </span>
+          <span className="son-tur-cubuk" aria-hidden="true">
+            <span style={{ width: `${(sonTur.tamam / Math.max(1, sonTur.toplam)) * 100}%` }} />
+          </span>
+          <span className="soluk-metin">
+            {sonTur.kalan === 0
+              ? "Her bilgiyi en az bir kez gördün. Artık yalnızca zamanı gelen tekrarlar."
+              : `Sınava kadar her bilgiyi bir kez görmek için günde ~${sonTurGunluk} bilgi. En zayıf hatırladıkların önce gelir.`}
+          </span>
+        </button>
+      ) : (
+        kalan <= 21 && (
+          <div className="uyari-serit">
+            <p>
+              <strong>Son 3 hafta:</strong> Sınavdan önce her bilgiyi en az bir kez görmek için son turu başlat.
+            </p>
+            <button className="metin-dugme" onClick={() => sonTurBaslat(true)}>
+              Başlat
+            </button>
+          </div>
+        )
+      )}
+
       <section className="hedef-kart">
         <Halka oran={bugunXp / hedef} boyut={84} kalinlik={9}>
           <strong>{Math.min(100, Math.round((bugunXp / hedef) * 100))}%</strong>
@@ -176,6 +208,22 @@ export function Bugun({ dizin }: { dizin: Dizin }) {
           <span>
             <strong>Yanlış defteri</strong>
             <span className="soluk-metin">{Object.values(p.kartlar).filter((k) => k.no > 0).length} bilgi</span>
+          </span>
+        </button>
+        {dizin.karisanlar.length > 0 && (
+          <button className="arac" onClick={() => git("/karisanlar")}>
+            <Ikon d={IKON.karisik} />
+            <span>
+              <strong>Karıştırılanlar</strong>
+              <span className="soluk-metin">{dizin.karisanlar.length} set</span>
+            </span>
+          </button>
+        )}
+        <button className="arac" onClick={() => git("/karne")}>
+          <Ikon d={IKON.yildiz} />
+          <span>
+            <strong>Haftalık karne</strong>
+            <span className="soluk-metin">Paylaş</span>
           </span>
         </button>
       </div>

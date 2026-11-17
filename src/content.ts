@@ -2,7 +2,17 @@ import type { KartRef, KitapJson, Konu, KonuJson, Kurs } from "./types";
 import { DERS_SIRASI } from "./subjects";
 import { kitabinSinavi, kursId, type Sinav } from "./kurslar";
 
+/** Birbirine karıştırılan kavramlar: aynı oturumda art arda sorulan kart setleri */
+export interface KarisanSet {
+  id: string;
+  ders: string;
+  ad: string;
+  fark: string;
+  kartlar: string[];
+}
+
 export interface Dizin {
+  karisanlar: KarisanSet[];
   kitaplar: KitapJson[];
   /** YKS dersleri sırayla: önce TYT, sonra AYT */
   kurslar: Kurs[];
@@ -14,10 +24,20 @@ export interface Dizin {
 
 // Her kitap ayrı bir parça olarak yüklenir (service worker önbelleğe alır).
 const yukleyiciler = import.meta.glob<KitapJson>("../content/*.json", { import: "default" });
+const karisanYukleyiciler = import.meta.glob<{ setler: KarisanSet[] }>("../content/karisanlar/*.json", { import: "default" });
 
 export async function icerikYukle(): Promise<Dizin> {
-  const kitaplar = await Promise.all(Object.values(yukleyiciler).map((f) => f()));
-  return dizinKur(kitaplar);
+  const [kitaplar, karisanDosyalari] = await Promise.all([
+    Promise.all(Object.values(yukleyiciler).map((f) => f())),
+    Promise.all(Object.values(karisanYukleyiciler).map((f) => f())),
+  ]);
+  const dizin = dizinKur(kitaplar);
+  // Yalnızca kartları gerçekten var olan setleri al
+  dizin.karisanlar = karisanDosyalari
+    .flatMap((x) => x.setler)
+    .map((s) => ({ ...s, kartlar: s.kartlar.filter((u) => dizin.kartlar.has(u)) }))
+    .filter((s) => s.kartlar.length >= 4);
+  return dizin;
 }
 
 const SINAV_SIRASI: Sinav[] = ["TYT", "AYT"];
@@ -86,7 +106,7 @@ export function dizinKur(kitaplar: KitapJson[]): Dizin {
   const kurslar = [...kurs.values()].sort(
     (a, b) => SINAV_SIRASI.indexOf(a.sinav) - SINAV_SIRASI.indexOf(b.sinav) || DERS_SIRASI.indexOf(a.ders) - DERS_SIRASI.indexOf(b.ders),
   );
-  return { kitaplar, kurslar, kurs, konular, kartlar, kitapKursu };
+  return { kitaplar, kurslar, kurs, konular, kartlar, kitapKursu, karisanlar: [] };
 }
 
 function konuKur(

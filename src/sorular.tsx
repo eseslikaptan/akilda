@@ -7,12 +7,47 @@ import { Ikon, IKON } from "./ui";
 export interface Cevap {
   dogru: boolean;
   secim?: string;
+  /** Yazarak cevapta küçük yazım farkıyla doğru sayıldı */
+  yakin?: boolean;
 }
 
 interface Props<K extends Kart> {
   kart: K;
   cevap: Cevap | null;
   onCevap: (c: Cevap) => void;
+  /** Boşluğu yazarak cevapla; çoktan seçmelide şıkları önce gizle */
+  yazarak?: boolean;
+}
+
+/** Türkçe karşılaştırma için sadeleştir: küçük harf, şapkasız, noktalama ve fazla boşluksuz */
+export function sadelestir(s: string): string {
+  return s
+    .toLocaleLowerCase("tr")
+    .replace(/[âäà]/g, "a")
+    .replace(/[îï]/g, "i")
+    .replace(/[ûü]/g, (h) => (h === "ü" ? "ü" : "u"))
+    .replace(/[’'`"().,;:!?-]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function mesafe(a: string, b: string): number {
+  const d = Array.from({ length: a.length + 1 }, (_, i) => [i, ...Array(b.length).fill(0)]);
+  for (let j = 1; j <= b.length; j++) d[0][j] = j;
+  for (let i = 1; i <= a.length; i++)
+    for (let j = 1; j <= b.length; j++)
+      d[i][j] = Math.min(d[i - 1][j] + 1, d[i][j - 1] + 1, d[i - 1][j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+  return d[a.length][b.length];
+}
+
+/** Yazılan cevap doğru sayılır mı? Uzun cevaplarda 1-2 harf hatası tolere edilir. */
+export function yazimKabul(yazilan: string, cevap: string): "tam" | "yakin" | "yanlis" {
+  const a = sadelestir(yazilan);
+  const b = sadelestir(cevap);
+  if (!a) return "yanlis";
+  if (a === b) return "tam";
+  const tolerans = b.length >= 9 ? 2 : b.length >= 5 ? 1 : 0;
+  return mesafe(a, b) <= tolerans ? "yakin" : "yanlis";
 }
 
 export function SoruGovdesi(props: Props<Kart>) {
@@ -53,11 +88,25 @@ function useRakamTuslari(aktif: boolean, adet: number, sec: (i: number) => void,
   }, [aktif, adet, sec, harfli]);
 }
 
-function Secmeli({ kart, cevap, onCevap }: Props<SecmeliKart>) {
+function Secmeli({ kart, cevap, onCevap, yazarak }: Props<SecmeliKart>) {
   const dogruMetin = kart.secenekler[kart.dogru];
   const secenekler = useMemo(() => karistir(kart.secenekler), [kart]);
+  const [goster, setGoster] = useState(!yazarak);
   const sec = (i: number) => onCevap({ dogru: secenekler[i] === dogruMetin, secim: secenekler[i] });
-  useRakamTuslari(!cevap, secenekler.length, sec, true);
+  useRakamTuslari(!cevap && goster, secenekler.length, sec, true);
+
+  if (!goster && !cevap)
+    return (
+      <>
+        <p className="soru-metni">{kart.soru}</p>
+        <div className="sik-gizli">
+          <p>Önce cevabı aklından söyle, sonra şıklardan seç.</p>
+          <button className="dugme ikincil" onClick={() => setGoster(true)} autoFocus>
+            Şıkları göster
+          </button>
+        </div>
+      </>
+    );
 
   return (
     <>
@@ -121,11 +170,63 @@ function DogruYanlis({ kart, cevap, onCevap }: Props<DYKart>) {
   );
 }
 
-function Bosluk({ kart, cevap, onCevap }: Props<BoslukKart>) {
+function Bosluk({ kart, cevap, onCevap, yazarak }: Props<BoslukKart>) {
   const secenekler = useMemo(() => karistir([kart.cevap, ...kart.celdiriciler]), [kart]);
   const [once, sonra] = kart.cumle.split("___");
+  const [yazi, setYazi] = useState("");
   const sec = (i: number) => onCevap({ dogru: secenekler[i] === kart.cevap, secim: secenekler[i] });
-  useRakamTuslari(!cevap, secenekler.length, sec);
+  useRakamTuslari(!cevap && !yazarak, secenekler.length, sec);
+
+  if (yazarak) {
+    const kontrol = () => {
+      const k = yazimKabul(yazi, kart.cevap);
+      onCevap({ dogru: k !== "yanlis", secim: yazi.trim() || undefined, yakin: k === "yakin" });
+    };
+    return (
+      <>
+        <p className="soru-metni bosluk-cumle">
+          {once}
+          {cevap ? (
+            cevap.dogru ? (
+              <span className="bosluk-yer dogru">{kart.cevap}</span>
+            ) : (
+              <>
+                {cevap.secim && <span className="bosluk-yer yanlis">{cevap.secim}</span>}
+                <span className="bosluk-yer dogru">{kart.cevap}</span>
+              </>
+            )
+          ) : (
+            <span className="bosluk-yer bos">&nbsp;</span>
+          )}
+          {sonra}
+        </p>
+        {!cevap && (
+          <form
+            className="yazi-form"
+            onSubmit={(e) => {
+              e.preventDefault();
+              if (yazi.trim()) kontrol();
+            }}
+          >
+            <input
+              id="yazili-cevap"
+              value={yazi}
+              onChange={(e) => setYazi(e.target.value)}
+              placeholder="Cevabını yaz"
+              autoComplete="off"
+              autoCapitalize="off"
+              spellCheck={false}
+              autoFocus
+            />
+            <button className="dugme birincil" type="submit" disabled={!yazi.trim()}>
+              Kontrol et
+            </button>
+          </form>
+        )}
+        {cevap?.yakin && <p className="yazim-not">Küçük bir yazım farkıyla doğru sayıldı. Doğru yazımı: {kart.cevap}</p>}
+      </>
+    );
+  }
 
   let bosluk = <span className="bosluk-yer bos">&nbsp;</span>;
   if (cevap) {

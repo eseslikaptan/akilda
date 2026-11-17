@@ -1,20 +1,31 @@
-// Aralıklı tekrar: her kart için bir "kararlılık" (s, gün) tutulur.
-// Hatırlama olasılığı R(t) = 0.9^(t / s) — t gün sonra.
-// t = s olduğunda R %90'a iner ve kart tekrar zamanı gelmiş sayılır.
+// Aralıklı tekrar: FSRS (Free Spaced Repetition Scheduler, ts-fsrs).
+// Her kart için kararlılık (s, gün) ve zorluk (d, 1–10) tutulur.
+// Kararlılık: hatırlama olasılığının %90'a düştüğü süre. FSRS'in tanımı da budur; bu sayede
+// eski (kendi yazdığımız) modelden gelen kayıtlar zorluk = 5 kabul edilerek doğrudan kullanılabilir.
+import { createEmptyCard, forgetting_curve, fsrs, generatorParameters, Rating, State, type Card, type Grade } from "ts-fsrs";
 import type { KartDurum } from "./types";
 
 const GUN = 86_400_000;
 
 export const HEDEF_R = 0.9;
 
+const PARAMETRELER = generatorParameters({
+  request_retention: HEDEF_R,
+  maximum_interval: 365,
+  enable_fuzz: false,
+  enable_short_term: false, // oturum içi tekrarları uygulama kendisi yönetiyor
+});
+const zamanlayici = fsrs(PARAMETRELER);
+
+/** Bilgi hiç görülmemişse 0; aksi hâlde şu anki hatırlama olasılığı */
 export function hatirlama(d: KartDurum | undefined, simdi = Date.now()): number {
   if (!d) return 0;
   const t = Math.max(0, simdi - d.l) / GUN;
-  return Math.pow(HEDEF_R, t / Math.max(d.s, 0.01));
+  return forgetting_curve(PARAMETRELER.w, t, Math.max(d.s, 0.01));
 }
 
 export function vadesi(d: KartDurum): number {
-  return d.l + d.s * GUN;
+  return d.v ?? d.l + d.s * GUN;
 }
 
 export function vadesiGeldi(d: KartDurum | undefined, simdi = Date.now()): boolean {
@@ -22,32 +33,47 @@ export function vadesiGeldi(d: KartDurum | undefined, simdi = Date.now()): boole
 }
 
 /**
- * Cevaptan sonra kartın yeni durumu.
- * Doğru: kararlılık büyür — unutmaya yakınken hatırlamak daha çok büyütür.
- * Yanlış: kararlılık sert düşer, kart kısa sürede tekrar gelir.
+ * yanlis: bilemedi · tahmin: doğru ama şansla · dogru: bildi · kolay: hiç zorlanmadan bildi (ön testte bilinen bilgi)
  */
-export type Kalite = "yanlis" | "tahmin" | "dogru";
+export type Kalite = "yanlis" | "tahmin" | "dogru" | "kolay";
 
+const PUAN: Record<Kalite, Grade> = {
+  yanlis: Rating.Again,
+  tahmin: Rating.Hard,
+  dogru: Rating.Good,
+  kolay: Rating.Easy,
+};
+
+function fsrsKarti(d: KartDurum | undefined, simdi: Date): Card {
+  if (!d) return createEmptyCard(simdi);
+  return {
+    due: new Date(vadesi(d)),
+    stability: Math.max(d.s, 0.01),
+    difficulty: d.d ?? 5,
+    elapsed_days: 0,
+    scheduled_days: Math.max(0, Math.round(d.s)),
+    reps: d.ok + d.no,
+    lapses: d.no,
+    learning_steps: 0,
+    state: State.Review,
+    last_review: new Date(d.l),
+  };
+}
+
+/** Cevaptan sonra kartın yeni durumu */
 export function guncelle(d: KartDurum | undefined, sonuc: boolean | Kalite, simdi = Date.now()): KartDurum {
   const kalite: Kalite = sonuc === true ? "dogru" : sonuc === false ? "yanlis" : sonuc;
+  const an = new Date(simdi);
+  const { card } = zamanlayici.next(fsrsKarti(d, an), an, PUAN[kalite]);
   const dogru = kalite !== "yanlis";
-  if (kalite === "tahmin") {
-    // Doğru ama tahminle: bilgi henüz oturmamış, yakında tekrar gelsin
-    if (!d) return { s: 0.5, l: simdi, ok: 1, no: 0 };
-    return { s: Math.max(0.5, Math.min(d.s * 1.2, d.s + 1)), l: simdi, ok: d.ok + 1, no: d.no };
-  }
-  if (!d) {
-    return dogru ? { s: 1, l: simdi, ok: 1, no: 0 } : { s: 0.25, l: simdi, ok: 0, no: 1 };
-  }
-  const r = hatirlama(d, simdi);
-  if (dogru) {
-    // R düşükken (zor hatırlanan) büyüme daha fazla; aynı gün tekrarında çok az.
-    // R=0.9 (tam vaktinde) → ×2.2, R=0.5 (gecikmiş) → ×3.6, R≈1 (aynı gün) → ~×1.2
-    const carpan = (r > 0.97 ? 1 : 1.3) + 3.5 * Math.pow(1 - r, 0.6);
-    const s = Math.min(365, Math.max(d.s * carpan, d.s + 0.5));
-    return { s, l: simdi, ok: d.ok + 1, no: d.no };
-  }
-  return { s: Math.max(0.2, d.s * 0.3), l: simdi, ok: d.ok, no: d.no + 1 };
+  return {
+    s: card.stability,
+    d: card.difficulty,
+    l: simdi,
+    v: card.due.getTime(),
+    ok: (d?.ok ?? 0) + (dogru ? 1 : 0),
+    no: (d?.no ?? 0) + (dogru ? 0 : 1),
+  };
 }
 
 /** Kartın ne kadar oturduğu: 0 yeni, 1 öğreniliyor, 2 pekişiyor, 3 kalıcı */
@@ -64,4 +90,9 @@ export function sureMetni(gun: number): string {
   if (gun < 30) return `${Math.round(gun)} gün`;
   if (gun < 365) return `${Math.round(gun / 30)} ay`;
   return "1 yıl+";
+}
+
+/** Bir sonraki tekrara kalan süre (gün) */
+export function sonrakiTekrarGun(d: KartDurum, simdi = Date.now()): number {
+  return Math.max(0, (vadesi(d) - simdi) / GUN);
 }

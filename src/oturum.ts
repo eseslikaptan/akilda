@@ -9,6 +9,8 @@ export type OturumTipi =
   | { tip: "karisik"; kurs?: string }
   | { tip: "cikmis"; kurs?: string }
   | { tip: "defter" }
+  | { tip: "sonTur" }
+  | { tip: "karisan"; setId: string }
   | { tip: "liste"; uids: string[] };
 
 const KONU_KART = 10;
@@ -65,6 +67,12 @@ export function oturumKartlari(d: Dizin, p: Ilerleme, o: OturumTipi): KartRef[] 
   if (o.tip === "tekrar") return karistir(vadeliKartlar(d, p, o.kurs).slice(0, TEKRAR_KART));
 
   if (o.tip === "defter") return karistir(yanlisDefteri(d, p).slice(0, KARISIK_KART));
+  if (o.tip === "sonTur") return sonTurKalan(d, p).slice(0, TEKRAR_KART);
+  if (o.tip === "karisan") {
+    // Karıştırılan kavramlar art arda: aynı setin kartları karışık sırayla
+    const set = d.karisanlar.find((x) => x.id === o.setId);
+    return karistir((set?.kartlar ?? []).map((u) => d.kartlar.get(u)).filter((k): k is KartRef => !!k));
+  }
   if (o.tip === "liste") return o.uids.map((u) => d.kartlar.get(u)).filter((k): k is KartRef => !!k);
 
   if (o.tip === "cikmis") {
@@ -151,4 +159,24 @@ export function yanlisDefteri(d: Dizin, p: Ilerleme): KartRef[] {
     .filter((x): x is { ref: KartRef; puan: number } => !!x.ref)
     .sort((a, b) => b.puan - a.puan)
     .map((x) => x.ref);
+}
+
+/** Son tur: tur başladıktan sonra hiç sorulmamış bilgiler, en zayıf hatırlananlar önce (görülmemişler en sonda) */
+export function sonTurKalan(d: Dizin, p: Ilerleme): KartRef[] {
+  const bas = p.sonTur?.baslangic ?? Date.now();
+  const simdi = Date.now();
+  return aktifKurslar(d, p)
+    .flatMap((k) => k.kartlar)
+    .filter((r) => !p.kartlar[r.uid] || p.kartlar[r.uid].l < bas)
+    .sort((a, b) => {
+      const da = p.kartlar[a.uid];
+      const db = p.kartlar[b.uid];
+      return (da ? hatirlama(da, simdi) : 2) - (db ? hatirlama(db, simdi) : 2);
+    });
+}
+
+export function sonTurDurumu(d: Dizin, p: Ilerleme) {
+  const toplam = aktifKurslar(d, p).reduce((t, k) => t + k.kartlar.length, 0);
+  const kalan = sonTurKalan(d, p).length;
+  return { toplam, tamam: toplam - kalan, kalan };
 }

@@ -12,6 +12,8 @@ import { Kaynaklar, Profil } from "./screens/Profil";
 import { Kurulum } from "./screens/Kurulum";
 import { Deneme, DenemeSecim } from "./screens/Deneme";
 import { Defter } from "./screens/Defter";
+import { Karne } from "./screens/Karne";
+import { Karisanlar } from "./screens/Karisanlar";
 
 export function App() {
   const [dizin, setDizin] = useState<Dizin | null>(null);
@@ -52,7 +54,11 @@ export function App() {
           ? { tip: "cikmis", kurs }
           : s.get("defter")
             ? { tip: "defter" }
-            : { tip: "karisik", kurs };
+            : s.get("sontur")
+              ? { tip: "sonTur" }
+              : s.get("karisan")
+                ? { tip: "karisan", setId: s.get("karisan")! }
+                : { tip: "karisik", kurs };
     // Aynı rotada yeni oturum açılınca bileşen sıfırdan kurulsun
     return <Oturum key={window.location.hash} dizin={dizin} tip={tip} />;
   }
@@ -91,6 +97,11 @@ export function App() {
     icerik = <DenemeSecim dizin={dizin} />;
   } else if (bolum === "defter") {
     icerik = <Defter dizin={dizin} />;
+  } else if (bolum === "karisanlar") {
+    icerik = <Karisanlar dizin={dizin} />;
+  } else if (bolum === "karne") {
+    icerik = <Karne dizin={dizin} />;
+    sekme = "profil";
   } else if (bolum === "profil") {
     icerik = <Profil dizin={dizin} />;
     sekme = "profil";

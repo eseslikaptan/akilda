@@ -2,9 +2,9 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import type { Dizin } from "../content";
 import { kaynakLinki } from "../content";
 import type { KartDurum, KartRef } from "../types";
-import { oturumKartlari, siradakiKonu, type OturumTipi } from "../oturum";
-import { cevapKaydet, ilerleme, kartDurumYaz, useIlerleme, xpEkle } from "../store";
-import { guncelle, sureMetni } from "../srs";
+import { karistir, oturumKartlari, siradakiKonu, type OturumTipi } from "../oturum";
+import { ayarlariGuncelle, cevapKaydet, ilerleme, kartDurumYaz, useIlerleme, xpEkle } from "../store";
+import { guncelle, sonrakiTekrarGun, sureMetni } from "../srs";
 import { hataBildirLinki, meydanLinki, paylas } from "../araclar";
 import { SoruGovdesi, soruEtiketi, type Cevap } from "../sorular";
 import { sesler } from "../ses";
@@ -16,7 +16,10 @@ import { Ikon, IKON, yuzde } from "../ui";
 interface Adim {
   ref: KartRef;
   tekrar: boolean; // bu oturumda yanlış yapılıp yeniden sorulan kart
+  onTest?: boolean; // konuya başlamadan önceki ön test sorusu
 }
+
+const ON_TEST_SORU = 5;
 
 interface Sonuc {
   uids: string[];
@@ -54,6 +57,25 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
   const [kombo, setKombo] = useState(0);
   const oncekiDurum = useRef<KartDurum | undefined>(undefined);
   const [tahmin, setTahmin] = useState(false);
+  // Ön test: hiç başlanmamış konuda önce ne bildiğine bak (bilinenler ileri tarihe atılır)
+  const yeniKonu = tip.tip === "konu" ? dizin.konular.get(tip.konuId) : undefined;
+  const [asama, setAsama] = useState<"secim" | "onTest" | "araSonuc" | "ders">(() =>
+    yeniKonu && yeniKonu.kartlar.length >= 6 && yeniKonu.kartlar.every((k) => !ilerleme().kartlar[k.uid]) ? "secim" : "ders",
+  );
+  const onTestBilinen = useRef(0);
+
+  const onTestBaslat = () => {
+    setKuyruk(karistir(yeniKonu!.kartlar).slice(0, ON_TEST_SORU).map((ref) => ({ ref, tekrar: false, onTest: true })));
+    setAsama("onTest");
+  };
+  const dersBaslat = () => {
+    // Ön testte bilinenler artık "yeni" değil; ders kalanlarla devam eder
+    const ders = oturumKartlari(dizin, ilerleme(), tip).map((ref) => ({ ref, tekrar: false }));
+    if (!ders.length) return bitir();
+    setKuyruk((q) => [...q, ...ders]);
+    setI((x) => x + 1);
+    setAsama("ders");
+  };
 
   const adim = kuyruk[i];
 
@@ -62,12 +84,22 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
       if (!adim || cevap) return;
       setCevap(c);
       const uid = adim.ref.uid;
+      if (adim.onTest) {
+        // Ön test: bilinen bilgi "kolay" sayılır ve ileri tarihe atılır; bilinmeyen kaydedilmez, derste öğrenilir
+        if (c.dogru) {
+          onTestBilinen.current++;
+          xp.current += XP_DOGRU;
+          setSonDurumS(sonrakiTekrarGun(cevapKaydet(uid, "kolay")));
+        } else setSonDurumS(null);
+        if (ilerleme().ayarlar.ses) (c.dogru ? sesler.dogru : sesler.yanlis)();
+        return;
+      }
       if (!ilkDeneme.current.has(uid)) {
         ilkDeneme.current.set(uid, c.dogru);
         oncekiDurum.current = ilerleme().kartlar[uid];
         if (!oncekiDurum.current) yeniKartlar.current.add(uid);
         const yeni = cevapKaydet(uid, c.dogru);
-        setSonDurumS(yeni.s);
+        setSonDurumS(sonrakiTekrarGun(yeni));
         if (c.dogru) xp.current += XP_DOGRU;
       } else {
         setSonDurumS(null);
@@ -116,9 +148,10 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
     setCevap(null);
     setSonDurumS(null);
     setTahmin(false);
-    if (i + 1 >= kuyruk.length) bitir();
+    if (asama === "onTest" && i + 1 >= kuyruk.length) setAsama("araSonuc");
+    else if (i + 1 >= kuyruk.length) bitir();
     else setI(i + 1);
-  }, [cevap, i, kuyruk.length, bitir]);
+  }, [cevap, i, kuyruk.length, bitir, asama]);
 
   // Cevaptan sonra doğru cevap panelin altında kalmasın
   useEffect(() => {
@@ -152,10 +185,56 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
     if (!adim) return;
     const yeni = guncelle(oncekiDurum.current, "tahmin");
     kartDurumYaz(adim.ref.uid, yeni);
-    setSonDurumS(yeni.s);
+    setSonDurumS(sonrakiTekrarGun(yeni));
     xp.current = Math.max(0, xp.current - 5);
     setTahmin(true);
   };
+
+  if (asama === "secim" && yeniKonu)
+    return (
+      <div className="oturum bos-oturum">
+        <div className="bos-durum on-test-secim">
+          <Ikon d={IKON.hedef} boyut={40} />
+          <h2>{yeniKonu.ad}</h2>
+          <p>
+            Yeni bir konu. İstersen önce {ON_TEST_SORU} soruluk kısa bir ön testle ne bildiğine bakalım: bildiğin bilgiler
+            ileri tarihe atılır, bilmediklerin derste gelir. Yanlış yapsan bile ön test sonraki öğrenmeyi güçlendirir.
+          </p>
+          <div className="dugme-satir">
+            <button className="dugme ikincil" onClick={() => setAsama("ders")}>
+              Doğrudan öğren
+            </button>
+            <button className="dugme birincil" onClick={onTestBaslat}>
+              Ön teste başla
+            </button>
+          </div>
+        </div>
+      </div>
+    );
+
+  if (asama === "araSonuc")
+    return (
+      <div className="oturum bos-oturum">
+        <div className="bos-durum on-test-secim">
+          <div className="osym-sayi">
+            <strong>
+              {onTestBilinen.current}/{kuyruk.length}
+            </strong>
+            <span>biliyordun</span>
+          </div>
+          <h2>{onTestBilinen.current === kuyruk.length ? "Bu konuya hâkimsin" : "Ön test bitti"}</h2>
+          <p>
+            {onTestBilinen.current > 0
+              ? `Bildiğin ${onTestBilinen.current} bilgi birkaç gün sonraya atıldı. `
+              : ""}
+            Şimdi konunun geri kalanını öğrenelim.
+          </p>
+          <button className="dugme birincil" onClick={dersBaslat}>
+            Konuyu öğren
+          </button>
+        </div>
+      </div>
+    );
 
   if (!adim) {
     return (
@@ -193,8 +272,21 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
         <span className={`kombo ${kombo >= 3 ? "gorunur" : ""}`} aria-live="polite">
           <Ikon d={IKON.alev} boyut={16} /> {kombo}
         </span>
+        <button
+          className={`yaz-dugme ${p.ayarlar.yazarak ? "acik" : ""}`}
+          onClick={() => ayarlariGuncelle({ yazarak: !p.ayarlar.yazarak })}
+          aria-pressed={p.ayarlar.yazarak}
+          title="Yazarak cevapla: boşlukları yaz, şıkları önce gizle"
+        >
+          Yaz
+        </button>
       </div>
 
+      {tip.tip === "karisan" && (
+        <p className="meydan-serit karisan-serit">
+          <strong>Ayırt et:</strong> {dizin.karisanlar.find((x) => x.id === tip.setId)?.ad}
+        </p>
+      )}
       {meydan && i === 0 && !cevap && (
         <p className="meydan-serit">
           <strong>{meydan.ad}</strong> sana meydan okudu: aynı soruları {meydan.skor} bildi.
@@ -203,11 +295,12 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
       <main className={`soru-alani ${cevap ? "cevaplandi" : ""}`} key={i}>
         <div className="soru-ust">
           <span className="soru-etiket">{soruEtiketi(kart)}</span>
+          {adim.onTest && <span className="rozet yeni">Ön test</span>}
           {adim.tekrar && <span className="rozet uyari">Tekrar</span>}
-          {!adim.tekrar && !p.kartlar[adim.ref.uid] && !cevap && <span className="rozet yeni">Yeni bilgi</span>}
+          {!adim.onTest && !adim.tekrar && !p.kartlar[adim.ref.uid] && !cevap && <span className="rozet yeni">Yeni bilgi</span>}
           {kart.yil && <span className="yil-rozet">{kart.yil.replace("-", " ")}</span>}
         </div>
-        <SoruGovdesi kart={kart} cevap={cevap} onCevap={cevapla} />
+        <SoruGovdesi kart={kart} cevap={cevap} onCevap={cevapla} yazarak={p.ayarlar.yazarak} key={`${i}-${p.ayarlar.yazarak}`} />
         <p className="soru-kaynak">
           {kursAdi(dizin.kitapKursu.get(adim.ref.kitap.kitap)!)} · {dizin.konular.get(adim.ref.konuId)?.ad}
         </p>
@@ -222,17 +315,22 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
       ) : (
         <footer className={`geri-bildirim ${cevap.dogru ? "iyi" : "kotu"}`} role="status">
           <div className="gb-ust">
-            <strong>{cevap.dogru ? ovgu() : cevap.secim === undefined ? "Şimdi öğren" : "Bir dahakine!"}</strong>
+            <strong>
+              {cevap.dogru ? ovgu() : adim.onTest ? "Birazdan öğreneceksin" : cevap.secim === undefined ? "Şimdi öğren" : "Bir dahakine!"}
+            </strong>
             {sonDurumS !== null && (
               <span className="gb-sonraki">Sonraki tekrar: {sureMetni(sonDurumS)}</span>
             )}
           </div>
-          {cevap.dogru && sonDurumS !== null && (
+          {cevap.dogru && sonDurumS !== null && !adim.onTest && (
             <button className={`tahmin-dugme ${tahmin ? "secili" : ""}`} onClick={tahminEttim} disabled={tahmin}>
               {tahmin ? "Tamam, bu bilgi daha sık gelecek" : "Aslında tahmin ettim"}
             </button>
           )}
           <p className="gb-bilgi">{kart.bilgi}</p>
+          {tip.tip === "karisan" && !cevap.dogru && (
+            <p className="gb-fark">Fark: {dizin.karisanlar.find((x) => x.id === tip.setId)?.fark}</p>
+          )}
           <a className="gb-kaynak" href={kaynakLinki(adim.ref.kitap, kart.sayfa)} target="_blank" rel="noreferrer" title={adim.ref.kitap.baslik}>
             {kart.yil
               ? `Bu bilgi ${kart.yil.replace("-", " ")}'de soruldu · asıl soruyu gör (MEB, s. ${kart.sayfa})`
