@@ -1,0 +1,1375 @@
+{
+ "kitap": "cikmis-tyt-felsefe",
+ "tip": "cikmis",
+ "ders": "felsefe",
+ "sinav": "TYT",
+ "baslik": "YKS Çıkmış Sorular 2018-2026 TYT",
+ "sayfaUrl": "https://ogmmateryal.eba.gov.tr/yks-cikmis-soru-kitaplari",
+ "pdfUrl": "https://ogm-small-cdn.eba.gov.tr/ogm-test-images/6aba49d35748c605dd7fe9e8/CS_TYT_2018_2026.pdf",
+ "testUrl": "https://ogmmateryal.eba.gov.tr/ogm-test/book/6aba4cb35748c605dd7ff053",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Felsefe",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Felsefenin Anlamı",
+     "soruSayisi": 3,
+     "eslesen": [
+      "felsefe-10/1.1",
+      "felsefe-10/1.5"
+     ],
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "dy",
+       "ifade": "Felsefe, sorunlara herkes için geçerli, kesin ve hazır çözümler sunar.",
+       "dogru": false,
+       "bilgi": "Felsefe yaşamdan kopuk değildir; hayatın anlamını ve görünenin ardındaki gerçeği sorgular, ancak herkese uyan hazır çözümler sunmaz.",
+       "sayfa": 182,
+       "yil": "2019-TYT"
+      },
+      {
+       "id": "1.1-02",
+       "tur": "bosluk",
+       "cumle": "Platon'un Şölen adlı eserinde bilge ile bilgisiz arasında yer alan ve bilgeliği seven kişi ___ olarak tanımlanır.",
+       "cevap": "filozof",
+       "celdiriciler": [
+        "sofist",
+        "bilge",
+        "hatip"
+       ],
+       "bilgi": "Platon'a göre bilge zaten bildiği, cahil de eksikliğinin farkında olmadığı için bilgiyi aramaz; bilgeliği arzulayan filozof ikisinin arasındadır.",
+       "sayfa": 182,
+       "yil": "2020-TYT"
+      },
+      {
+       "id": "1.1-03",
+       "tur": "dy",
+       "ifade": "Çağdaş felsefe, \"İyi nedir?\" gibi geleneksel soruların yanında yapay zekâ ve insan klonlama gibi güncel konuları da ele alır.",
+       "dogru": true,
+       "bilgi": "Felsefe bilimler gibi hızla ilerlemese de güncel olandan bağını koparmaz; insana ve doğaya dair her konuyla ilgilenir.",
+       "sayfa": 183,
+       "yil": "2021-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "Felsefi Düşüncenin Ortaya Çıkışı ve Özellikleri",
+     "soruSayisi": 6,
+     "eslesen": [
+      "felsefe-10/1.2",
+      "felsefe-10/1.3",
+      "felsefe-10/1.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi felsefi bir soru değildir?",
+       "secenekler": [
+        "Adalet nedir?",
+        "Güzellik kişiden kişiye değişir mi?",
+        "Bilgi mümkün müdür?",
+        "Bu otobüs şehir merkezine gider mi?"
+       ],
+       "dogru": 3,
+       "bilgi": "Felsefi soruların kesin ve herkese uygulanabilecek yanıtları yoktur; gündelik, bilgi edinmeye yönelik pratik sorular ise felsefi değildir.",
+       "sayfa": 183,
+       "yil": "2022-TYT"
+      },
+      {
+       "id": "1.2-02",
+       "tur": "bosluk",
+       "cumle": "Bertrand Russell'a göre filozof, kesinlik barındırmayan düşünsel yaşamla barışık olduğu için ___ yönünü daha çok kullanır.",
+       "cevap": "eleştirel",
+       "celdiriciler": [
+        "dogmatik",
+        "deneysel",
+        "duygusal"
+       ],
+       "bilgi": "Felsefe kesinlikten uzak ve sorgulayıcı yapısıyla dogmatizmden uzak durur; bu durum Russell'a göre bir dezavantaj değildir.",
+       "sayfa": 184,
+       "yil": "2022-TYT"
+      },
+      {
+       "id": "1.2-03",
+       "tur": "dy",
+       "ifade": "Felsefi sorgulama, temel sorulara ilişkin hakikatlere ulaşıldığında tamamlanan bir süreçtir.",
+       "dogru": false,
+       "bilgi": "Felsefe hiç bitmeyen bir sohbettir; mutlak ve kesin sonuçlar içermez, temel sorulara ilişkin arayış hiçbir zaman tamamlanmaz.",
+       "sayfa": 184,
+       "yil": "2023-TYT"
+      },
+      {
+       "id": "1.2-04",
+       "tur": "dy",
+       "ifade": "Yapay zekânın insanın bilinçli zihnine eş değer bir varoluşa sahip olup olamayacağı, insanın özüne ilişkin felsefi bir sorudur.",
+       "dogru": true,
+       "bilgi": "\"İnsanı insan yapan nedir?\" ve \"Bilinç yapay zekâ için zorunlu mudur?\" gibi sorular, yapay zekâ bağlamında insanın özünü sorgulayan felsefi sorulardır.",
+       "sayfa": 185,
+       "yil": "2023-TYT"
+      },
+      {
+       "id": "1.2-05",
+       "tur": "dy",
+       "ifade": "Filozof, sözcüklerin tarih içindeki anlam değişimlerini bir anlam bilimci gibi inceler.",
+       "dogru": false,
+       "bilgi": "Sözcüklerin anlamını ve değişimini anlam bilimi (semantik) inceler; filozof ise dilin kendisiyle değil, dilin işaret ettiği şeyle ve ona erişimle ilgilenir.",
+       "sayfa": 185,
+       "yil": "2024-TYT"
+      },
+      {
+       "id": "1.2-06",
+       "tur": "bosluk",
+       "cumle": "Bir şeyi o şey yapan ve tanımında zorunlu olan niteliklere ___, bulunmasa da o şeyin kendisi olmaya devam ettiği niteliklere ilineksel nitelikler denir.",
+       "cevap": "özsel",
+       "celdiriciler": [
+        "nicel",
+        "ikincil",
+        "göreli"
+       ],
+       "bilgi": "Felsefe olguları kavramsal derinliğe inerek inceler; bir kavramın özsel ve ilineksel unsurlarını birbirinden ayırır.",
+       "sayfa": 186,
+       "yil": "2026-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "Felsefenin İnsan ve Toplum Hayatı Üzerindeki Rolü",
+     "soruSayisi": 2,
+     "eslesen": [
+      "felsefe-10/1.6"
+     ],
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "dy",
+       "ifade": "Sokrates'e göre bilgelik, her şeyi bilmek değil, neyi bilip neyi bilmediğini bilmektir.",
+       "dogru": true,
+       "bilgi": "Felsefe eğitimi, kişiye bildiği konuda konuşmayı, bilmediğinde susmayı öğreterek kavramsal bilgiyi pratik yaşama aktarır.",
+       "sayfa": 186,
+       "yil": "2018-TYT"
+      },
+      {
+       "id": "1.3-02",
+       "tur": "bosluk",
+       "cumle": "Hegel'in \"Minerva'nın baykuşu ancak ___ uçmaya başlar.\" sözü, felsefenin bir dönemi olaylar yaşandıktan sonra kavradığını anlatır.",
+       "cevap": "gün batarken",
+       "celdiriciler": [
+        "şafak sökerken",
+        "gün ortasında",
+        "fırtınadan önce"
+       ],
+       "bilgi": "Hegel'e göre herkes kendi zamanının çocuğudur ve felsefe de kendi zamanını, olaylar olup bittikten sonra düşüncede özetler.",
+       "sayfa": 187,
+       "yil": "2024-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.4",
+     "ad": "Düşünme ve Akıl Yürütmeye İlişkin Kavramlar",
+     "soruSayisi": 2,
+     "eslesen": [
+      "felsefe-10/2.2",
+      "felsefe-10/2.3",
+      "felsefe-11/2.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.4-01",
+       "tur": "secmeli",
+       "soru": "Birkaç örneğe bakarak aceleyle bütün bir grup hakkında genelleme yapılmasına hangi hatalı akıl yürütme denir?",
+       "secenekler": [
+        "Yetersiz örnek (aceleci genelleme)",
+        "Otoriteye başvurma",
+        "Kısır döngü",
+        "Kişiye saldırı"
+       ],
+       "dogru": 0,
+       "bilgi": "Sınırlı ya da az sayıdaki örnekten hızla genel bir yargıya varmak, yetersiz örnek hatalı akıl yürütmesidir.",
+       "sayfa": 187,
+       "yil": "2025-TYT"
+      },
+      {
+       "id": "1.4-02",
+       "tur": "bosluk",
+       "cumle": "Alan Turing'in Taklit Oyunu'ndan esinlenen testine göre bir makinenin düşünüp düşünmediği, onun ___ davranışlarına bakılarak belirlenir.",
+       "cevap": "gözlemlenebilir",
+       "celdiriciler": [
+        "biyolojik",
+        "bilinçdışı",
+        "duygusal"
+       ],
+       "bilgi": "Turing testinde sorgulayıcı, yazılı iletişimde insanı makineden tutarlı biçimde ayırt edemezse makine testi geçmiş sayılır.",
+       "sayfa": 188,
+       "yil": "2026-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.5",
+     "ad": "Felsefi Bir Görüşü veya Argümanı Sorgulama",
+     "soruSayisi": 1,
+     "eslesen": [
+      "felsefe-10/2.3",
+      "felsefe-11/2.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.5-01",
+       "tur": "dy",
+       "ifade": "Searle'ün Çin Odası Argümanı'na göre sorulara doğru yanıtlar üreten bir yapay zekâ, sembolleri işlediği için içerikleri de kavramış olur.",
+       "dogru": false,
+       "bilgi": "Searle'e göre Çince bilmeden kurallarla doğru yanıt veren kişi gibi yapay zekâ da sembolleri işler ama anlamaz; içerikleri kavramak insana özgüdür.",
+       "sayfa": 187,
+       "yil": "2025-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.6",
+     "ad": "Varlık Felsefesi Alanındaki Çağdaş Yaklaşımlar",
+     "soruSayisi": 2,
+     "eslesen": [
+      "felsefe-10/3.2",
+      "felsefe-10/3.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.6-01",
+       "tur": "dy",
+       "ifade": "İnsanı tözsel değil işlevsel olarak tanımlayan yaklaşıma göre insanın neliği; dil, din, sanat ve bilim gibi ürettiği edimlere bakılarak anlaşılır.",
+       "dogru": true,
+       "bilgi": "Bu yaklaşıma göre insanı metafizik bir öz ya da doğal bir içgüdü değil, yaptığı işler belirler; dil, söylence, din, sanat, bilim ve tarih bu işlerin parçalarıdır.",
+       "sayfa": 188,
+       "yil": "2018-TYT"
+      },
+      {
+       "id": "1.6-02",
+       "tur": "secmeli",
+       "soru": "İnsanı ve hayvanı yaylardan oluşan birer makine olarak gören, ruhu da bedenin maddi bir parçasına indirgeyen düşünür kimdir?",
+       "secenekler": [
+        "Descartes",
+        "La Mettrie",
+        "Berkeley",
+        "Leibniz"
+       ],
+       "dogru": 1,
+       "bilgi": "La Mettrie'ye göre insan hayvandan daha karmaşık bir makinedir; ruh da maddeye indirgenebilen bir hareket ilkesidir.",
+       "sayfa": 189,
+       "yil": "2019-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.7",
+     "ad": "Bilgi Felsefesinin Konusu ve Bilginin İmkânı Problemi",
+     "soruSayisi": 3,
+     "eslesen": [
+      "felsefe-10/4.1",
+      "felsefe-10/4.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.7-01",
+       "tur": "dy",
+       "ifade": "Yüzyıllarca kesin kabul edilen yer merkezli evren modelinin yanlış çıkması, \"Doğru bilgi mümkün müdür?\" sorusunu gündeme getirir.",
+       "dogru": true,
+       "bilgi": "Batlamyus astronomisinin modern bilimle çürütülmesi, bugün kesin sanılan bilgilerin de yanlış çıkabileceğini düşündürerek doğru bilginin imkânını sorgulatır.",
+       "sayfa": 189,
+       "yil": "2018-TYT"
+      },
+      {
+       "id": "1.7-02",
+       "tur": "bosluk",
+       "cumle": "Descartes, her şeyden şüphe etse de şüphe ettiğinden şüphe edemeyeceğini belirterek \"___\" önermesine ulaşır.",
+       "cevap": "Düşünüyorum, o hâlde varım.",
+       "celdiriciler": [
+        "Bildiğim tek şey, hiçbir şey bilmediğimdir.",
+        "Var olmak algılanmaktır.",
+        "İnsan her şeyin ölçüsüdür."
+       ],
+       "bilgi": "Descartes bu önermeyle kuşkuculuğa karşı, düşünen bir şey olarak kendi varlığının kesin bilgisine ulaşılabileceğini göstermeye çalışmıştır.",
+       "sayfa": 189,
+       "yil": "2019-TYT"
+      },
+      {
+       "id": "1.7-03",
+       "tur": "dy",
+       "ifade": "Her şeyden aynı anda kuşku duymak mümkündür; kuşku hiçbir kesinliği önceden varsaymaz.",
+       "dogru": false,
+       "bilgi": "Bu görüşe göre kuşku, bazı önermelerin kuşkudan muaf olmasına bağlıdır; kapının döndüğü menteşeler gibi sabit önermeler olmadan her şeyden kuşkulanan kuşku işlemez.",
+       "sayfa": 190,
+       "yil": "2025-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.8",
+     "ad": "Bilginin Kaynağı ile İlgili Görüşler",
+     "soruSayisi": 6,
+     "eslesen": [
+      "felsefe-10/4.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.8-01",
+       "tur": "bosluk",
+       "cumle": "Felsefe sorunlarının dilin mantığının yanlış anlaşılmasından doğduğunu öne süren Wittgenstein, ___ felsefenin önemli temsilcilerindendir.",
+       "cevap": "çözümleyici",
+       "celdiriciler": [
+        "yararcı",
+        "sezgici",
+        "eleştirici"
+       ],
+       "bilgi": "Wittgenstein Tractatus'ta söylenebilecek olanın açıkça söylenmesini, üzerine konuşulamayan konusunda ise susulmasını önermiştir.",
+       "sayfa": 190,
+       "yil": "2018-TYT"
+      },
+      {
+       "id": "1.8-02",
+       "tur": "dy",
+       "ifade": "Descartes'ın balmumu örneği, bilginin güvenilir kaynağının duyular olduğunu göstermek için kullanılır.",
+       "dogru": false,
+       "bilgi": "Eriyen balmumu tüm duyusal niteliklerini yitirse de aynı balmumu kalır; Descartes bu örnekle cisimleri duyularla değil akılla bildiğimizi savunur.",
+       "sayfa": 190,
+       "yil": "2020-TYT"
+      },
+      {
+       "id": "1.8-03",
+       "tur": "bosluk",
+       "cumle": "Soyut kuramlar yerine düşüncelerin pratik sonuçlarını ve yararını ölçüt alan felsefi akıma ___ denir.",
+       "cevap": "pragmatizm",
+       "celdiriciler": [
+        "pozitivizm",
+        "rasyonalizm",
+        "monizm"
+       ],
+       "bilgi": "Pragmatizme göre bir düşüncenin değeri, gündelik yaşamda sağladığı sonuç ve yarara göre belirlenir.",
+       "sayfa": 191,
+       "yil": "2022-TYT"
+      },
+      {
+       "id": "1.8-04",
+       "tur": "dy",
+       "ifade": "\"Demir ısıtılınca genleşir.\" önermesi apriori bir bilgidir.",
+       "dogru": false,
+       "bilgi": "Apriori bilgi yalnızca akıldan türetilir ve deneyimle çürütülemez; ısıtılan demirin genleşmesi ise deneyle öğrenilen aposteriori bir bilgidir.",
+       "sayfa": 191,
+       "yil": "2022-TYT"
+      },
+      {
+       "id": "1.8-05",
+       "tur": "dy",
+       "ifade": "Hiç görmediği bir mavi tonunu zihninde tasarlayabilen kişi örneği, bütün bilgimizin yalnızca duyu izlenimlerinden geldiği görüşüne yöneltilmiş bir eleştiridir.",
+       "dogru": true,
+       "bilgi": "Duyularla hiç algılanmamış bir renk tonunun zihinde oluşturulabilmesi, tüm bilginin dış dünyadan edinilen izlenimlerden oluştuğu görüşünü sarsar.",
+       "sayfa": 192,
+       "yil": "2023-TYT"
+      },
+      {
+       "id": "1.8-06",
+       "tur": "bosluk",
+       "cumle": "Kant'a göre algıladığımız dünyayı zihnimizdeki evrensel ve zorunlu ___ aracılığıyla kurarız.",
+       "cevap": "kategoriler",
+       "celdiriciler": [
+        "idealar",
+        "izlenimler",
+        "doğuştan fikirler"
+       ],
+       "bilgi": "Kant'a göre bilginin kaynağı deneyimdir ama zihin edilgen değildir; bilgi bireye göre değil, insan türüne özgü zihinsel kalıplara göre oluşur.",
+       "sayfa": 192,
+       "yil": "2025-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.9",
+     "ad": "Bilginin Sınırları, Ölçütü - Doğruluk ve Gerçeklik, Bilginin Değeri ve Güvenirliği",
+     "soruSayisi": 3,
+     "eslesen": [
+      "felsefe-10/4.2",
+      "felsefe-10/4.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.9-01",
+       "tur": "bosluk",
+       "cumle": "Bilgi felsefesinde bir yargının olguya uygun olması ___, yargının konusu olan şeyin var olması ise gerçeklik olarak adlandırılır.",
+       "cevap": "doğruluk",
+       "celdiriciler": [
+        "tutarlılık",
+        "geçerlilik",
+        "kesinlik"
+       ],
+       "bilgi": "Copernicus'un tezlerinin gerçekte mümkün olması gerekmediğini, gözleme uyan isabetli hesapların yeterli olduğunu söylemesi doğruluk-gerçeklik ayrımına dayanır.",
+       "sayfa": 193,
+       "yil": "2021-TYT"
+      },
+      {
+       "id": "1.9-02",
+       "tur": "dy",
+       "ifade": "Nietzsche'ye göre hakikat, özneden bağımsız olarak var olan ve keşfedilmeyi bekleyen bir şeydir.",
+       "dogru": false,
+       "bilgi": "Nietzsche'ye göre hakikat keşfedilmez, icat edilir; özne olguları bulunduğu konuma göre yorumladığı için özneden bağımsız mutlak bir hakikat yoktur.",
+       "sayfa": 193,
+       "yil": "2021-TYT"
+      },
+      {
+       "id": "1.9-03",
+       "tur": "dy",
+       "ifade": "Gerçekten var olan bir ağaç hakkında \"Bu bir kiraz ağacıdır.\" yargısının yanlış çıkması, gerçeklik ile doğruluğun farklı kavramlar olduğunu gösterir.",
+       "dogru": true,
+       "bilgi": "Gerçeklik var olanla, doğruluk ise yargının var olana uygunluğuyla ilgilidir; nesne gerçek olduğu hâlde onunla ilgili yargı yanlış olabilir.",
+       "sayfa": 194,
+       "yil": "2024-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.10",
+     "ad": "Bilimin Değeri - Bilim Felsefe İlişkisi - Bilim ve Hayat İlişkisi",
+     "soruSayisi": 2,
+     "eslesen": [
+      "felsefe-10/9.1",
+      "felsefe-10/9.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.10-01",
+       "tur": "dy",
+       "ifade": "İnsanı ve evreni anlamanın tek güvenilir aracı bilimdir.",
+       "dogru": false,
+       "bilgi": "Bilim belli bir yaklaşımın tekelinde değildir ve evreni anlamanın tek yolu da değildir; felsefe, sanat ve din de var olanı anlamanın yollarıdır.",
+       "sayfa": 194,
+       "yil": "2019-TYT"
+      },
+      {
+       "id": "1.10-02",
+       "tur": "dy",
+       "ifade": "Bilimsel gelişmeler; kişisel motivasyonlardan, ahlaki değerlerden ve siyasi beklentilerden yalıtılmış biçimde gerçekleşir.",
+       "dogru": false,
+       "bilgi": "Bilim, kişisel değer yargıları ve toplumsal koşullarla iç içedir; bilimsel buluşlar tarihsel bir bağlam içinde ortaya çıkar.",
+       "sayfa": 195,
+       "yil": "2024-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.11",
+     "ad": "Ahlak Felsefesinin Konusu ve Temel Kavramları",
+     "soruSayisi": 2,
+     "eslesen": [
+      "felsefe-10/5.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.11-01",
+       "tur": "bosluk",
+       "cumle": "MacIntyre'a göre modern dünyada ahlak dili, ait olduğu düşünce bütünlüğünü yitirmiş bölük pörçük ___ hâlindedir.",
+       "cevap": "fragmanlar",
+       "celdiriciler": [
+        "yasalar",
+        "ödevler",
+        "sözleşmeler"
+       ],
+       "bilgi": "MacIntyre, modern ahlak dilinde temel ahlaki kavramların ait oldukları bağlamdan koparıldığını ve yalnızca ahlakın suretine sahip olduğumuzu savunur.",
+       "sayfa": 195,
+       "yil": "2019-TYT"
+      },
+      {
+       "id": "1.11-02",
+       "tur": "dy",
+       "ifade": "\"Hiç kimse bile isteye kötülük yapmaz.\" görüşü, kötülüğü bilgisizliğe bağlayan Sokrates'in ahlak anlayışını yansıtır.",
+       "dogru": true,
+       "bilgi": "Sokrates'e göre kötülük bilgisizlikten doğar; buna karşı çıkanlar ise iyilik ve kötülüğün insanın iradesini özgürce nasıl kullandığına bağlı olduğunu savunur.",
+       "sayfa": 196,
+       "yil": "2025-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.12",
+     "ad": "Ahlak Felsefesinde Özgürlük ve Sorumluluk",
+     "soruSayisi": 4,
+     "eslesen": [
+      "felsefe-10/5.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.12-01",
+       "tur": "bosluk",
+       "cumle": "Levinas'a göre ahlaki değerlendirmenin merkezinde, başkasına yönelen ___ kavramı yer alır.",
+       "cevap": "sorumluluk",
+       "celdiriciler": [
+        "haz",
+        "çıkar",
+        "erdem"
+       ],
+       "bilgi": "Levinas'a göre yalnızca kendimizi korumaya yönelik eylemler ahlaki değildir; ahlak, kendimiz dışında bir başkasının varlığını kabul etmeyi zorunlu olarak içerir.",
+       "sayfa": 196,
+       "yil": "2019-TYT"
+      },
+      {
+       "id": "1.12-02",
+       "tur": "dy",
+       "ifade": "Camus'ye göre özgürlük, hiçbir yasa ve değerle sınırlanmadan her şeyi istediği gibi yapabilmektir.",
+       "dogru": false,
+       "bilgi": "Camus'ye göre özgürlük ne yasanın mutlak egemenliği ne de bütünüyle yokluğudur; bir eylemi seçmek bir değer ve amacın varlığını gerektirir.",
+       "sayfa": 197,
+       "yil": "2020-TYT"
+      },
+      {
+       "id": "1.12-03",
+       "tur": "bosluk",
+       "cumle": "Ne yapılırsa yapılsın sonucun önceden belirlendiğini ve değişmeyeceğini savunan kaderci görüşe ___ denir.",
+       "cevap": "fatalizm",
+       "celdiriciler": [
+        "indeterminizm",
+        "otodeterminizm",
+        "pragmatizm"
+       ],
+       "bilgi": "Yazgının yanında özgür iradenin de etkili olduğunu düşünen biri, insanın elinden geleni yapıp sonrasını kadere bırakması gerektiğini savunur.",
+       "sayfa": 197,
+       "yil": "2023-TYT"
+      },
+      {
+       "id": "1.12-04",
+       "tur": "dy",
+       "ifade": "Belirlenimciliğe (determinizm) göre insanın gelecekte yapacağı eylemler de önceden belirlenmiştir.",
+       "dogru": true,
+       "bilgi": "Determinizme göre her olay ve eylem önceki nedenlerle zorunlu olarak belirlenir; bir insanın tüm yaşamı baştan sona yazılmış bir kitap gibidir.",
+       "sayfa": 197,
+       "yil": "2026-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.13",
+     "ad": "Evrensel Ahlak Yasasını Reddeden Görüşler ve Filozoflar",
+     "soruSayisi": 1,
+     "eslesen": [
+      "felsefe-10/5.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.13-01",
+       "tur": "bosluk",
+       "cumle": "Epiküros'a göre gerçek haz, bedende acı çekmemek ve ruhta hiçbir ___ duymamaktır.",
+       "cevap": "huzursuzluk",
+       "celdiriciler": [
+        "sevinç",
+        "istek",
+        "merak"
+       ],
+       "bilgi": "Hazzı yaşamın amacı sayan Epiküros, hazdan maddi zevklerin sınırsızca doyurulmasını değil, acıdan kaçınmayı ve ruh dinginliğini anlar.",
+       "sayfa": 198,
+       "yil": "2020-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.14",
+     "ad": "Ahlak Felsefesinde İyilik ve Mutluluk İlişkisi",
+     "soruSayisi": 1,
+     "eslesen": [
+      "felsefe-10/5.1",
+      "felsefe-11/5.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.14-01",
+       "tur": "secmeli",
+       "soru": "Tragedyaları etik için yol gösterici bir kaynak sayan \"İyiliğin Kırılganlığı\" adlı eserin yazarı kimdir?",
+       "secenekler": [
+        "Hannah Arendt",
+        "Simone de Beauvoir",
+        "Martha Nussbaum",
+        "Iris Murdoch"
+       ],
+       "dogru": 2,
+       "bilgi": "Nussbaum'a göre iyi insan olmak, kötü rastlantılar karşısında incinmeyi göze almayı gerektirir; iyi davranış belirsizlikte bile yönünü değiştirmez.",
+       "sayfa": 198,
+       "yil": "2024-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.15",
+     "ad": "Din Felsefesinin Konusu ve Soruları",
+     "soruSayisi": 3,
+     "eslesen": [
+      "felsefe-10/8.1",
+      "felsefe-10/8.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.15-01",
+       "tur": "eslestir",
+       "yonerge": "Filozofları Tanrı-evren ilişkisine dair görüşleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Platon",
+         "Demiurgos maddeye idealara bakarak biçim verir"
+        ],
+        [
+         "Aristoteles",
+         "Tanrı varlığın yaratıcısı değil amacıdır"
+        ],
+        [
+         "Farabi",
+         "Varlık Tanrı'dan taşma (sudûr) yoluyla çıkar"
+        ],
+        [
+         "Anselmus",
+         "Tanrı her şeyi yoktan var etmiştir"
+        ]
+       ],
+       "bilgi": "Tanrı ile evren arasındaki ilişki din felsefesinin temel problemlerindendir ve filozoflar bu konuda farklı açıklamalar getirmiştir.",
+       "sayfa": 199,
+       "yil": "2018-TYT"
+      },
+      {
+       "id": "1.15-02",
+       "tur": "dy",
+       "ifade": "Gazali'ye göre asıl sanat, yoktan yaratan ve yarattıklarına eşsiz biçimler veren Tanrı'nın sanatıdır.",
+       "dogru": true,
+       "bilgi": "Gazali, ressamın yalnızca var olan malzemeleri bir araya getirdiğini, malzemelerin ve yeteneğin ise Tanrı tarafından yaratıldığını vurgular.",
+       "sayfa": 199,
+       "yil": "2019-TYT"
+      },
+      {
+       "id": "1.15-03",
+       "tur": "bosluk",
+       "cumle": "Tanrı ile evreni özdeş gören, aşkın bir Tanrı'yı reddedip her şeyin Tanrı'nın parçası olduğunu savunan görüşe ___ denir.",
+       "cevap": "panteizm",
+       "celdiriciler": [
+        "deizm",
+        "teizm",
+        "agnostisizm"
+       ],
+       "bilgi": "Panteizme göre Tanrı evrenin dışında ya da üstünde değil, evrene içkindir; doğa bir bütün olarak Tanrı ile özdeştir.",
+       "sayfa": 200,
+       "yil": "2022-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.16",
+     "ad": "Siyaset Felsefesinin Konusu ve Problemleri",
+     "soruSayisi": 2,
+     "eslesen": [
+      "felsefe-10/7.1",
+      "felsefe-10/7.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.16-01",
+       "tur": "dy",
+       "ifade": "Rawls'a göre adil bir toplumda yasalar, sosyal ve ekonomik eşitsizlikleri gidermek için en az avantajlı olanın yararına düzenlenmelidir.",
+       "dogru": true,
+       "bilgi": "Rawls'ın iki adalet ilkesi eşit temel özgürlükler ve eşitsizliklerin en az avantajlıların yararına düzenlenmesidir; doğuştan farklar devletin temeli yapılamaz.",
+       "sayfa": 200,
+       "yil": "2018-TYT"
+      },
+      {
+       "id": "1.16-02",
+       "tur": "dy",
+       "ifade": "Liberal devlet anlayışına göre devlet, bireyin yalnızca kendine zarar veren ihmallerine de yasayla müdahale etmelidir.",
+       "dogru": false,
+       "bilgi": "Liberal anlayışta devlet yalnızca bireysel haklar başkalarınca ihlal edildiğinde müdahale eder; kimse kendi iyiliği için zengin ya da sağlıklı olmaya zorlanamaz.",
+       "sayfa": 201,
+       "yil": "2019-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.17",
+     "ad": "Sanat Felsefesinin Konusu ve Problemleri",
+     "soruSayisi": 4,
+     "eslesen": [
+      "felsefe-10/6.1",
+      "felsefe-10/6.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.17-01",
+       "tur": "bosluk",
+       "cumle": "Sanatın temelini sanatçının duygu, sezgi ve deneyimlerinin yapıta yansımasında gören akıma ___ denir.",
+       "cevap": "dışavurumculuk",
+       "celdiriciler": [
+        "yansıtmacılık",
+        "biçimcilik",
+        "gerçekçilik"
+       ],
+       "bilgi": "Dışavurumculuğa göre eserin değeri sanatçının özgünlüğü ve içtenliğiyle belirlenir; sanatçının gerçekliğe bağlı kalma ya da beğeni kazanma sorumluluğu yoktur.",
+       "sayfa": 201,
+       "yil": "2018-TYT"
+      },
+      {
+       "id": "1.17-02",
+       "tur": "dy",
+       "ifade": "Beğeni yargısını çıkar gözetmeyen, apriori ve genelgeçer bir yargı sayan anlayış, estetik yargıların göreli olduğunu kabul eder.",
+       "dogru": false,
+       "bilgi": "Bu anlayışa göre güzellik nesnenin niteliklerine bağlıdır; çıkarsız beğeni yargısı keyfî ya da göreli değil, genelgeçer ve zorunludur.",
+       "sayfa": 201,
+       "yil": "2019-TYT"
+      },
+      {
+       "id": "1.17-03",
+       "tur": "dy",
+       "ifade": "Doğa güzelliklerinden farklı olarak bir sanat eseri bir konuya ve anlama sahip olduğu için yorumlanabilir.",
+       "dogru": true,
+       "bilgi": "Bir dağ manzarası güzel bulunabilir ama yorumlanamaz; bir dağ resmi ise bir şeyin temsili olduğu için ne ifade ettiği sorulabilir.",
+       "sayfa": 202,
+       "yil": "2021-TYT"
+      },
+      {
+       "id": "1.17-04",
+       "tur": "bosluk",
+       "cumle": "Her kültürün kendine özgü estetik değerleri olduğunu ve beğeni yargılarının yalnızca kendi kültür çevresinde geçerli olduğunu savunan yaklaşıma ___ denir.",
+       "cevap": "kültürel rölativizm",
+       "celdiriciler": [
+        "estetik nesnelcilik",
+        "evrenselcilik",
+        "biçimcilik"
+       ],
+       "bilgi": "Kültürel rölativizm, beğenileri tamamen bireysel ya da tamamen birey üstü gören iki karşıt anlayışı uzlaştırıcı bir seçenek olarak görülür.",
+       "sayfa": 202,
+       "yil": "2023-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.18",
+     "ad": "İlk Neden (Arkhe) ve Değişim Problemi",
+     "soruSayisi": 2,
+     "eslesen": [
+      "felsefe-10/1.3",
+      "felsefe-10/3.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.18-01",
+       "tur": "eslestir",
+       "yonerge": "Doğa filozoflarını evrenin ana maddesi (arkhe) olarak gördükleri şeyle eşleştir.",
+       "ciftler": [
+        [
+         "Thales",
+         "Su"
+        ],
+        [
+         "Anaksimenes",
+         "Hava"
+        ],
+        [
+         "Herakleitos",
+         "Ateş"
+        ],
+        [
+         "Empedokles",
+         "Toprak, su, hava ve ateş"
+        ]
+       ],
+       "bilgi": "Anaksimenes, evrenin arkhesi saydığı havayı canlılığın ilkesi olan ruhla özdeş görerek felsefi bir ruh öğretisi geliştirmiştir.",
+       "sayfa": 203,
+       "yil": "2023-TYT"
+      },
+      {
+       "id": "1.18-02",
+       "tur": "eslestir",
+       "yonerge": "Anadolu'da yaşamış filozofları ilişkilendirildikleri antik kentle eşleştir.",
+       "ciftler": [
+        [
+         "Anaksimenes",
+         "Miletos"
+        ],
+        [
+         "Herakleitos",
+         "Efes (Ephesos)"
+        ],
+        [
+         "Ksenofanes",
+         "Kolophon"
+        ],
+        [
+         "Aristoteles",
+         "Assos"
+        ]
+       ],
+       "bilgi": "Felsefenin doğuşunda Batı Anadolu kentleri önemli rol oynamış; Miletos, Efes ve Kolophon ilk filozofların yaşadığı merkezler olmuştur.",
+       "sayfa": 203,
+       "yil": "2026-TYT"
+      },
+      {
+       "id": "1.18-03",
+       "tur": "dy",
+       "ifade": "Herakleitos'un \"Aynı ırmakta iki kez yıkanılmaz.\" sözü, değişim problemine ilişkindir.",
+       "dogru": true,
+       "bilgi": "Efesli Herakleitos her şeyin sürekli değiştiğini savunmuş ve bu düşüncesini akan ırmak benzetmesiyle anlatmıştır.",
+       "sayfa": 203,
+       "yil": "2026-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.19",
+     "ad": "Sofistler ile Sokrates'in Bilgi ve Değer Anlayışları",
+     "soruSayisi": 1,
+     "eslesen": [
+      "felsefe-10/1.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.19-01",
+       "tur": "dy",
+       "ifade": "Sokrates, sofistler gibi bilginin ve değerlerin kişiden kişiye değiştiğini savunmuştur.",
+       "dogru": false,
+       "bilgi": "Sokrates doğa yerine insan ve ahlaka yönelmiş; sofistlerin göreceliğine karşı, her bilgiyi sorgulayarak herkes için geçerli mutlak bilgiye ulaşılabileceğini savunmuştur.",
+       "sayfa": 204,
+       "yil": "2022-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.20",
+     "ad": "Platon ve Aristoteles'in Varlık, Bilgi ve Değer Anlayışı",
+     "soruSayisi": 6,
+     "eslesen": [
+      "felsefe-10/1.3",
+      "felsefe-10/4.2",
+      "felsefe-10/5.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.20-01",
+       "tur": "bosluk",
+       "cumle": "Aristoteles'e göre başka bir şeyin aracı olarak değil, yalnızca kendisi için istenen nihai iyi ___ olarak adlandırılır.",
+       "cevap": "mutluluk",
+       "celdiriciler": [
+        "zenginlik",
+        "ün",
+        "güç"
+       ],
+       "bilgi": "Aristoteles'e göre zenginlik gibi şeyler başka amaçların aracıdır; \"Niçin?\" sorusuna başka bir amaç göstermeyen nihai iyi mutluluktur.",
+       "sayfa": 204,
+       "yil": "2018-TYT"
+      },
+      {
+       "id": "1.20-02",
+       "tur": "bosluk",
+       "cumle": "Duyularla algıladıklarımızın gerçeğin yalnızca gölgeleri olabileceğini anlatan ___ alegorisi Platon'a aittir.",
+       "cevap": "mağara",
+       "celdiriciler": [
+        "Çin odası",
+        "balmumu",
+        "boş levha"
+       ],
+       "bilgi": "Platon'un mağara alegorisinde ömür boyu duvardaki gölgeleri gören mahkûmlar, duyular aracılığıyla bildiklerimizin bir yanılsama olabileceğini simgeler.",
+       "sayfa": 205,
+       "yil": "2019-TYT"
+      },
+      {
+       "id": "1.20-03",
+       "tur": "dy",
+       "ifade": "Platon'a göre ruh, bedene girmeden önce idealar evreninde tanıdığı bilgileri hatırlar; bu nedenle bilmek bir anımsamadır.",
+       "dogru": true,
+       "bilgi": "Platon, Menon diyaloğunda eğitimsiz bir kölenin geometri problemini çözmesini, ruhun idealar evreninden getirdiği bilgiyi anımsamasıyla açıklar.",
+       "sayfa": 205,
+       "yil": "2021-TYT"
+      },
+      {
+       "id": "1.20-04",
+       "tur": "bosluk",
+       "cumle": "Aristoteles'in, erdemi cimrilik ile savurganlık gibi iki aşırı uç arasında doğru ortayı bulmak olarak açıklayan ilkesine ___ denir.",
+       "cevap": "altın orta",
+       "celdiriciler": [
+        "kategorik buyruk",
+        "ataraksia",
+        "entelekheia"
+       ],
+       "bilgi": "Aristoteles'e göre örneğin cesaret, düşüncesizce atılganlık ile korkaklık arasındaki ortadır; cömertlik de cimrilik ile savurganlık arasında yer alır.",
+       "sayfa": 206,
+       "yil": "2021-TYT"
+      },
+      {
+       "id": "1.20-05",
+       "tur": "dy",
+       "ifade": "Platon da doğa filozofları gibi evreni su ya da hava gibi duyulur bir ana maddeyle açıklamıştır.",
+       "dogru": false,
+       "bilgi": "Platon, doğa filozoflarından farklı olarak düşüncesinin merkezine duyu dünyasına ait olmayan ve asıl varlık saydığı ideaları koymuştur.",
+       "sayfa": 206,
+       "yil": "2024-TYT"
+      },
+      {
+       "id": "1.20-06",
+       "tur": "dy",
+       "ifade": "Aristoteles'e göre doğru orta kişiye ve koşullara göre değişebilir; yemekteki ölçü bir sporcu ile bir çocuk için aynı değildir.",
+       "dogru": true,
+       "bilgi": "Aristoteles'e göre orta kişiye göreli olsa da akılla belirlenir; özünde kötü olan eylemlerin ise bir ortası yoktur.",
+       "sayfa": 206,
+       "yil": "2025-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.21",
+     "ad": "Hristiyan, İslam Felsefesinin Özellikleri, İnanç Akıl İlişkisi ve Filozofların Görüşleri",
+     "soruSayisi": 11,
+     "eslesen": [
+      "felsefe-11/3.1",
+      "felsefe-11/3.2",
+      "felsefe-10/8.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.21-01",
+       "tur": "bosluk",
+       "cumle": "Anselmus'un, Tanrı'nın varlığını \"kendisinden daha yetkini düşünülemeyen varlık\" kavramından çıkaran kanıtına ___ kanıt denir.",
+       "cevap": "ontolojik",
+       "celdiriciler": [
+        "kozmolojik",
+        "teleolojik",
+        "ahlaki"
+       ],
+       "bilgi": "Anselmus'a göre hem zihinde hem zihin dışında var olan, yalnızca zihinde olandan daha yetkindir; bu yüzden en yetkin varlık olan Tanrı gerçekten vardır.",
+       "sayfa": 207,
+       "yil": "2020-TYT"
+      },
+      {
+       "id": "1.21-02",
+       "tur": "bosluk",
+       "cumle": "İlk Çağ filozofları daha çok \"Doğa nedir?\" sorusuna, Orta Çağ filozofları ise daha çok \"___ nedir?\" sorusuna yoğunlaşmıştır.",
+       "cevap": "Varlık",
+       "celdiriciler": [
+        "Bilgi",
+        "Toplum",
+        "Dil"
+       ],
+       "bilgi": "Orta Çağ felsefesini İlk Çağ'dan ayıran başlıca unsur, varlığı ve en yüce varlığı bir bütün olarak kavramaya yönelen ontolojik yaklaşımıdır.",
+       "sayfa": 207,
+       "yil": "2025-TYT"
+      },
+      {
+       "id": "1.21-03",
+       "tur": "eslestir",
+       "yonerge": "Orta Çağ filozoflarını tümeller problemine ilişkin görüşleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Augustinus",
+         "Tümeller ayrı varlıklar olarak Tanrı'nın zihnindedir"
+        ],
+        [
+         "Aquinalı Thomas",
+         "Tümeller tek tek varlıkların içinde bulunur"
+        ],
+        [
+         "Ockhamlı William",
+         "Tümeller soyutlama ve genellemelerden ibarettir"
+        ]
+       ],
+       "bilgi": "Ockhamlı William'a göre tümeller kendi başına var olmaz; örneğin \"adalet\", adil bulunan davranışlar arasındaki benzerliklerden dilde oluşturulur.",
+       "sayfa": 208,
+       "yil": "2021-TYT"
+      },
+      {
+       "id": "1.21-04",
+       "tur": "dy",
+       "ifade": "Anselmus'a göre Tanrı'nın varlığı, deneyime başvurmadan yalnızca Tanrı kavramının tanımından hareketle kanıtlanabilir.",
+       "dogru": true,
+       "bilgi": "Anselmus'un kanıtı apriori bir kanıttır: Tanrı en mükemmel varlıktır ve var olmak düşünülmüş olmaktan üstün olduğuna göre Tanrı vardır.",
+       "sayfa": 208,
+       "yil": "2024-TYT"
+      },
+      {
+       "id": "1.21-05",
+       "tur": "dy",
+       "ifade": "Gazali'ye göre doğada neden ile sonuç arasında zorunlu bir bağ vardır; ateş her durumda yakar.",
+       "dogru": false,
+       "bilgi": "Gazali'ye göre filozofların nedensellik dediği şey olayların art arda gelmesidir; ateşin yakmayabileceğini düşünmek mantıksal olarak çelişkili değildir.",
+       "sayfa": 209,
+       "yil": "2018-TYT"
+      },
+      {
+       "id": "1.21-06",
+       "tur": "bosluk",
+       "cumle": "Maturidi'ye göre insan davranışlarını ___ seçer, seçimlerini iradesiyle eyleme geçirir ve bu yüzden davranışlarından sorumludur.",
+       "cevap": "aklıyla",
+       "celdiriciler": [
+        "sezgisiyle",
+        "duygularıyla",
+        "alışkanlıklarıyla"
+       ],
+       "bilgi": "İslam felsefesinde özgürlük kader ve iradenin yanında akılla da ele alınmış; Maturidi insan özgürlüğünün temeline aklı koymuştur.",
+       "sayfa": 209,
+       "yil": "2020-TYT"
+      },
+      {
+       "id": "1.21-07",
+       "tur": "dy",
+       "ifade": "Farabi'ye göre felsefe ve din aynı konuları ele alır; felsefe hakikati ispatla, din ise örnekler ve inandırma yoluyla ortaya koyar.",
+       "dogru": true,
+       "bilgi": "Farabi'ye göre felsefe ve din aynı hakikate farklı yollardan ulaşır: felsefe akılla kavrayıp ispatlar, din imgelerle anlatıp ikna eder.",
+       "sayfa": 209,
+       "yil": "2021-TYT"
+      },
+      {
+       "id": "1.21-08",
+       "tur": "bosluk",
+       "cumle": "Augustinus'a göre kötülük bir şey değil, iyiliğin ___ ya da noksanlığıdır.",
+       "cevap": "yokluğu",
+       "celdiriciler": [
+        "zıddı",
+        "kaynağı",
+        "gölgesi"
+       ],
+       "bilgi": "Augustinus'a göre Tanrı kötülüğü yaratmamıştır; ahlaki kötülükler insanın kendisine verilen özgür iradeyi yanlış kullanmasından doğar.",
+       "sayfa": 210,
+       "yil": "2022-TYT"
+      },
+      {
+       "id": "1.21-09",
+       "tur": "dy",
+       "ifade": "İbn Rüşd, doğadaki değişmez yasaların akılla kavranabileceğini savunarak Gazali'nin akla yönelik eleştirisine karşı çıkmıştır.",
+       "dogru": true,
+       "bilgi": "İbn Rüşd'e göre şeylerin akılla anlaşılamayacağı kabul edilirse bilim de kalmaz; bu yüzden Gazali'nin aklı yetersiz sayan tutumunu eleştirmiştir.",
+       "sayfa": 210,
+       "yil": "2023-TYT"
+      },
+      {
+       "id": "1.21-10",
+       "tur": "dy",
+       "ifade": "Yunus Emre'nin \"Ete kemiğe büründüm, Yunus diye göründüm.\" dizesi, ruhun insanın özü olduğunu ve bedenle görünür hâle geldiğini anlatır.",
+       "dogru": true,
+       "bilgi": "Bir rivayete göre Yunus Emre, Mesnevi'nin ruh-beden ilişkisine dair anlattıklarını bu kısa ve özlü dizeyle ifade edebileceğini söylemiştir.",
+       "sayfa": 211,
+       "yil": "2026-TYT"
+      },
+      {
+       "id": "1.21-11",
+       "tur": "dy",
+       "ifade": "Aquinalı Thomas'a göre inanç, akla aykırı bilgiler sunar ve aklı devre dışı bırakır.",
+       "dogru": false,
+       "bilgi": "Thomas'a göre akıl ve inanç aynı hakikate yönelen iki yoldur; inanç aklın kapasitesini aşan bilgileri sunarak aklı yetkinleştirir.",
+       "sayfa": 211,
+       "yil": "2026-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.22",
+     "ad": "15-17. Yüzyıl Felsefesinde Öne Çıkan Problemler ve Görüşler",
+     "soruSayisi": 7,
+     "eslesen": [
+      "felsefe-10/3.2",
+      "felsefe-10/4.2",
+      "felsefe-10/7.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.22-01",
+       "tur": "bosluk",
+       "cumle": "Zihin ile bedenin birbirinden farklı iki töz olduğunu savunan Descartes'ın varlık anlayışına ___ denir.",
+       "cevap": "düalizm",
+       "celdiriciler": [
+        "monizm",
+        "materyalizm",
+        "panteizm"
+       ],
+       "bilgi": "Descartes'a göre düşünmemizi sağlayan beyin değil zihindir; fiziksel olmayan zihin, yer kaplayan bedenden ayrı bir tözdür.",
+       "sayfa": 212,
+       "yil": "2018-TYT"
+      },
+      {
+       "id": "1.22-02",
+       "tur": "dy",
+       "ifade": "Ütopyalar, sundukları toplum modellerini değişmez biçimde kurguladıkları için değişime kapalı oldukları yönünde eleştirilir.",
+       "dogru": true,
+       "bilgi": "Ütopyalar toplumsal sorunlara çözüm öneren kurgusal düzen tasarımlarıdır; durağan ve tarihsiz modeller öngördükleri için totaliter yönleri olduğu söylenir.",
+       "sayfa": 212,
+       "yil": "2020-TYT"
+      },
+      {
+       "id": "1.22-03",
+       "tur": "bosluk",
+       "cumle": "Hobbes'a göre devletin olmadığı doğa durumunda ___ savaşı yaşanır.",
+       "cevap": "herkesin herkese karşı",
+       "celdiriciler": [
+        "sınıfların birbirine karşı",
+        "devletlerin birbirine karşı",
+        "kuşakların birbirine karşı"
+       ],
+       "bilgi": "Hobbes'a göre doğa durumunda sürekli ölüm tehlikesi vardır; insanın varlığını sürdürme güdüsü başkaları için tehdit oluşturduğundan devlet gereklidir.",
+       "sayfa": 212,
+       "yil": "2022-TYT"
+      },
+      {
+       "id": "1.22-04",
+       "tur": "dy",
+       "ifade": "Spinoza, ahlaki doğruların akılla çıkarsanamayacağını, yalnızca deneyimle öğrenilebileceğini savunmuştur.",
+       "dogru": false,
+       "bilgi": "Matematiğin kesinliğinden etkilenen Spinoza, ahlaki doğruların da geometrik yöntemle akıl yoluyla çıkarsanabileceğini düşünmüştür.",
+       "sayfa": 213,
+       "yil": "2023-TYT"
+      },
+      {
+       "id": "1.22-05",
+       "tur": "bosluk",
+       "cumle": "Spinoza, Etika adlı eserini Eukleides'ten esinlenerek tanım, aksiyom ve önermelerle ilerleyen ___ yöntemle yazmıştır.",
+       "cevap": "geometrik",
+       "celdiriciler": [
+        "diyalektik",
+        "deneysel",
+        "fenomenolojik"
+       ],
+       "bilgi": "Spinoza, insanın mutluluğa ulaşma sürecini doğru akıl yürütmelerle âdeta cetvelle çizer gibi göstermeyi amaçlamış; bilginin kesinliğini yönteme bağlamıştır.",
+       "sayfa": 213,
+       "yil": "2024-TYT"
+      },
+      {
+       "id": "1.22-06",
+       "tur": "dy",
+       "ifade": "Galileo'nun hareket eden geminin direğinden bırakılan taş düşünce deneyi, Dünya'nın dönmediğine dair eski bir delili çürütmeyi amaçlar.",
+       "dogru": true,
+       "bilgi": "Galileo'ya göre taş geminin arkasına değil direğin dibine düşer; bu nedenle dikey atılan taşın geri düşmemesi Dünya'nın hareketsiz olduğunu kanıtlamaz.",
+       "sayfa": 214,
+       "yil": "2025-TYT"
+      },
+      {
+       "id": "1.22-07",
+       "tur": "bosluk",
+       "cumle": "Uzaktaki tren raylarının birleşiyor gibi görünmesi, Descartes'ın ___ yanıltıcı olabileceğini göstermek için kullanabileceği bir örnektir.",
+       "cevap": "duyuların",
+       "celdiriciler": [
+        "aklın",
+        "sezginin",
+        "vahyin"
+       ],
+       "bilgi": "Descartes, Meditasyonlar'ın ilk bölümünde kanaatlerimizin çoğuna kaynaklık eden duyulardan gelen inançların şüphe edilebilir olduğunu gösterir.",
+       "sayfa": 214,
+       "yil": "2026-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.23",
+     "ad": "18-19. Yüzyıl Felsefesinde Öne Çıkan Problemler ve Görüşler",
+     "soruSayisi": 8,
+     "eslesen": [
+      "felsefe-10/4.2",
+      "felsefe-10/5.2",
+      "felsefe-10/7.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.23-01",
+       "tur": "bosluk",
+       "cumle": "Kant aydınlanmayı, insanın kendi suçuyla düştüğü ___ durumundan kurtulması olarak tanımlar.",
+       "cevap": "ergin olmayış",
+       "celdiriciler": [
+        "kölelik",
+        "yoksulluk",
+        "yalnızlık"
+       ],
+       "bilgi": "Kant'a göre ergin olmayış, insanın kendi aklını kullanma cesareti gösterememesidir; aydınlanma akla güvenip bilgiye dayanarak cehaletten kurtulmaktır.",
+       "sayfa": 214,
+       "yil": "2020-TYT"
+      },
+      {
+       "id": "1.23-02",
+       "tur": "secmeli",
+       "soru": "Çocuklarda doğuştan mantık ve ahlak ilkeleri bulunmadığını öne sürerek doğuştan fikirleri reddeden filozof kimdir?",
+       "secenekler": [
+        "Leibniz",
+        "Descartes",
+        "Platon",
+        "Locke"
+       ],
+       "dogru": 3,
+       "bilgi": "Deneyci Locke'a göre zihin doğuştan boş bir levhadır; tüm bilgiler deneyimle edinilir.",
+       "sayfa": 214,
+       "yil": "2020-TYT"
+      },
+      {
+       "id": "1.23-03",
+       "tur": "bosluk",
+       "cumle": "Hobbes, Locke ve Rousseau, devletin nasıl ortaya çıktığını ___ kavramıyla açıklamıştır.",
+       "cevap": "toplum sözleşmesi",
+       "celdiriciler": [
+        "ilahi hak",
+        "sınıf çatışması",
+        "aile birliği"
+       ],
+       "bilgi": "Antik ve Orta Çağ'da devlet doğal bir kurum sayılmış; devletin kökeni problemi 17. yüzyılda toplum sözleşmesi kavramı etrafında tartışılmıştır.",
+       "sayfa": 215,
+       "yil": "2021-TYT"
+      },
+      {
+       "id": "1.23-04",
+       "tur": "dy",
+       "ifade": "Hegel'e göre bir şeyin hakikati, onun tek bir anlık durumundan değil, tüm gelişim aşamalarını içeren bütününden anlaşılır.",
+       "dogru": true,
+       "bilgi": "Hegel, tomurcuk-çiçek-meyve örneğinde birbirinin yerini alan aşamaların hepsinin bitkinin bütünü için gerekli olduğunu anlatır.",
+       "sayfa": 215,
+       "yil": "2022-TYT"
+      },
+      {
+       "id": "1.23-05",
+       "tur": "dy",
+       "ifade": "Kant'a göre bir yardımın ahlaki değeri, yardım edenin hissettiği acıma duygusundan ya da elde edeceği mutluluktan gelir.",
+       "dogru": false,
+       "bilgi": "Kant'a göre eylem ahlaki değerini ödev bilincinden alır; eylemin ilkesi evrensel yasa olabilmeli ve insan her zaman amaç olarak görülmelidir.",
+       "sayfa": 215,
+       "yil": "2023-TYT"
+      },
+      {
+       "id": "1.23-06",
+       "tur": "bosluk",
+       "cumle": "Locke'a göre renk, koku ve tat gibi algılayana göre değişen ve nesnenin kendisinde bulunmayan nitelikler ___ niteliklerdir.",
+       "cevap": "ikincil",
+       "celdiriciler": [
+        "birincil",
+        "tözsel",
+        "özsel"
+       ],
+       "bilgi": "Locke'a göre büyüklük ve biçim gibi birincil nitelikler nesnededir; insan maddenin tözünü değil yalnızca niteliklerini bilebilir.",
+       "sayfa": 216,
+       "yil": "2024-TYT"
+      },
+      {
+       "id": "1.23-07",
+       "tur": "bosluk",
+       "cumle": "Hume'a göre nedensellik fikri, akıl yürütmeden ya da tek tek deneyimlerden değil, tekrarlanan birlikteliklerin zihinde oluşturduğu ___ kaynaklanır.",
+       "cevap": "alışkanlıktan",
+       "celdiriciler": [
+        "doğuştan fikirlerden",
+        "tanrısal iradeden",
+        "matematiksel kesinlikten"
+       ],
+       "bilgi": "Hume'a göre hiçbir deneyim iki olay arasında zorunlu bir bağ olduğunu göstermez; nedensellik zihinsel bir alışkanlıktır.",
+       "sayfa": 216,
+       "yil": "2025-TYT"
+      },
+      {
+       "id": "1.23-08",
+       "tur": "dy",
+       "ifade": "Rousseau'ya göre özel mülkiyet, insan doğasını bozarak toplumsal çatışmalara yol açar.",
+       "dogru": true,
+       "bilgi": "Rousseau mülkiyeti kendi başına değil, bir şeyleri elde etme ve koruma çabasının sürekli çatışma doğurması nedeniyle kötülüğün kaynağı sayar.",
+       "sayfa": 217,
+       "yil": "2026-TYT"
+      }
+     ]
+    },
+    {
+     "no": "1.24",
+     "ad": "20. Yüzyıl Felsefesinde Bazı Ana Akımlar ve Filozofların Görüşleri",
+     "soruSayisi": 8,
+     "eslesen": [
+      "felsefe-11/5.3",
+      "felsefe-10/9.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.24-01",
+       "tur": "bosluk",
+       "cumle": "Mantıkçı pozitivizm, bir önermenin anlamlı olmasının ölçütü olarak ___ ilkesini benimsemiştir.",
+       "cevap": "doğrulanabilirlik",
+       "celdiriciler": [
+        "yanlışlanabilirlik",
+        "tutarlılık",
+        "yararlılık"
+       ],
+       "bilgi": "Mantıkçı pozitivizmin dayandığı tümevarım ve doğrulanabilirlik, geleceğin geçmişe benzeyeceği varsayımının alışkanlığa dayandığı gerekçesiyle eleştirilmiştir.",
+       "sayfa": 217,
+       "yil": "2020-TYT"
+      },
+      {
+       "id": "1.24-02",
+       "tur": "bosluk",
+       "cumle": "Sartre'a göre insanda ___ özden önce gelir; insan önce var olur, sonra yaptıklarıyla kendini oluşturur.",
+       "cevap": "varoluş",
+       "celdiriciler": [
+        "akıl",
+        "doğa",
+        "kader"
+       ],
+       "bilgi": "Sartre'a göre masa gibi nesnelerin özü önceden tasarlanır; insan ise önceden belirlenmemiştir, örneğin korkak doğmaz, yaptıklarıyla korkak olur.",
+       "sayfa": 217,
+       "yil": "2021-TYT"
+      },
+      {
+       "id": "1.24-03",
+       "tur": "bosluk",
+       "cumle": "Fenomenolojinin temel çağrısı, ön yargılardan ve devralınmış kavramlardan arınarak ___ dönmektir.",
+       "cevap": "şeylerin kendisine",
+       "celdiriciler": [
+        "doğanın yasalarına",
+        "tarihin akışına",
+        "dilin kurallarına"
+       ],
+       "bilgi": "Heidegger'e göre fenomenoloji, kendini göstereni kendi kendinden hareketle görünür kılmayı ve anlamayı amaçlar.",
+       "sayfa": 218,
+       "yil": "2022-TYT"
+      },
+      {
+       "id": "1.24-04",
+       "tur": "dy",
+       "ifade": "Nietzsche'ye göre yeni değerler yaratanlar, kalabalıklardan ve pazar yerinin gürültüsünden uzak dururlar.",
+       "dogru": true,
+       "bilgi": "Böyle Buyurdu Zerdüşt'te Nietzsche, dünyanın şöhretli oyuncuların değil yeni değerler yaratanların çevresinde döndüğünü söyler.",
+       "sayfa": 218,
+       "yil": "2023-TYT"
+      },
+      {
+       "id": "1.24-05",
+       "tur": "dy",
+       "ifade": "Dilthey'a göre insan, değişmeyen bir öze sahip olduğu için tarihsellikten bağımsızdır.",
+       "dogru": false,
+       "bilgi": "Dilthey'a göre insan sürekli değişen dinamik bir tarihtir; içinde bulunduğu zamanı kurar, şimdiyi belirleyen geçmişi de anılarıyla taşır.",
+       "sayfa": 218,
+       "yil": "2024-TYT"
+      },
+      {
+       "id": "1.24-06",
+       "tur": "dy",
+       "ifade": "Nietzsche, Sokrates ve Platon'dan beri süren akılcı felsefe geleneğini insanın yaşama içgüdüsünü yok saydığı için eleştirmiştir.",
+       "dogru": true,
+       "bilgi": "Nietzsche'ye göre insan, her türlü oluş ve tutkuyu barındıran trajik yaşama dönerek ve hayatı olumlayarak geleneklerin bağlarından kurtulabilir.",
+       "sayfa": 219,
+       "yil": "2025-TYT"
+      },
+      {
+       "id": "1.24-07",
+       "tur": "bosluk",
+       "cumle": "Bergson'a göre insanın yaşadığı zaman, saatle ölçülen eşit parçalara bölünemeyen kesintisiz bir ___ olarak deneyimlenir.",
+       "cevap": "akış",
+       "celdiriciler": [
+        "döngü",
+        "nokta dizisi",
+        "tekrar"
+       ],
+       "bilgi": "Bergson'a göre yaşanan zaman parçaların toplamına indirgenemeyen dinamik bir süredir; saatle ölçmek nehri dondurup kovalara doldurmaya benzer.",
+       "sayfa": 219,
+       "yil": "2026-TYT"
+      },
+      {
+       "id": "1.24-08",
+       "tur": "dy",
+       "ifade": "Fenomenolojiye göre nesne, özneden bütünüyle yalıtılmış ve bağımsız bir varlıktır.",
+       "dogru": false,
+       "bilgi": "Fenomenoloji özne ile nesne arasındaki keskin karşıtlığı kabul etmez; nesne öznenin olanaklarıyla biçimlenir, bilinen bilenden bağımsız değildir.",
+       "sayfa": 219,
+       "yil": "2026-TYT"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

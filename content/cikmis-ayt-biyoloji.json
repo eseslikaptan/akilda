@@ -1,0 +1,1747 @@
+{
+ "kitap": "cikmis-ayt-biyoloji",
+ "tip": "cikmis",
+ "ders": "biyoloji",
+ "sinav": "AYT",
+ "baslik": "YKS Çıkmış Sorular 2018-2026 AYT Sayısal",
+ "sayfaUrl": "https://ogmmateryal.eba.gov.tr/yks-cikmis-soru-kitaplari",
+ "pdfUrl": "https://ogm-small-cdn.eba.gov.tr/ogm-test-images/6abbe07510f5ec2735b6cda6/CS_AYT_SAY_2018_2026.pdf",
+ "testUrl": "https://ogmmateryal.eba.gov.tr/ogm-test/book/6abbe72f10f5ec2735b6e6a5",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Biyoloji",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Denetleyici ve Düzenleyici Sistem, Duyu Organları",
+     "soruSayisi": 13,
+     "eslesen": [
+      "biyoloji-11/1.7",
+      "biyoloji-11/1.5",
+      "biyoloji-11/2.5",
+      "biyoloji-11/2.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "dy",
+       "ifade": "Akson çapı ve miyelin kılıf üzerindeki Ranvier boğumları, impuls iletim hızını etkilemeyen özelliklerdir.",
+       "dogru": false,
+       "bilgi": "Akson çapı büyüdükçe ve miyelinli aksonlarda impuls Ranvier boğumları arasında atlayarak ilerledikçe iletim hızı artar.",
+       "sayfa": 196,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.1-02",
+       "tur": "bosluk",
+       "cumle": "Eşik değere ulaşan her uyarıya nöronun aynı büyüklükte impulsla cevap vermesi ___ kuralı olarak bilinir.",
+       "cevap": "ya hep ya hiç",
+       "celdiriciler": [
+        "sinaptik gecikme",
+        "refrakter dönem",
+        "uyarı toplanması"
+       ],
+       "bilgi": "Eşik değerin altındaki uyarılar impuls oluşturmaz; eşik değer ve üzerindeki uyarılara nöron hep aynı şiddette cevap verir.",
+       "sayfa": 196,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.1-03",
+       "tur": "secmeli",
+       "soru": "Doğal bir uyarıyla birlikte defalarca verilen nötr bir uyarıya, bir süre sonra tek başına da aynı tepkinin verilmesi hangi öğrenme biçimidir?",
+       "secenekler": [
+        "İçgüdüsel davranış",
+        "Klasik koşullanma",
+        "Alışma (habituasyon)",
+        "Damgalanma"
+       ],
+       "dogru": 1,
+       "bilgi": "Pavlov'un deneyinde yiyecekle birlikte tekrarlanan ses, sonunda tek başına da tükürük salgısına yol açmıştır; bu klasik koşullanmadır.",
+       "sayfa": 196,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.1-04",
+       "tur": "secmeli",
+       "soru": "Tiroit bezi hücreleri bağışıklık sistemince yıkılan bir kişide kandaki tiroksin azaldıkça hangi değişiklik beklenir?",
+       "secenekler": [
+        "Bazal metabolizma hızı yükselir",
+        "Hipofizden salgılanan TSH miktarı azalır",
+        "Hipofizden salgılanan TSH miktarı artar",
+        "Vücut sıcaklığı belirgin biçimde yükselir"
+       ],
+       "dogru": 2,
+       "bilgi": "Tiroksin azalınca negatif geri bildirim kalkar ve hipofiz daha çok TSH salgılar; tiroksin eksikliğinde bazal metabolizma hızı düşer.",
+       "sayfa": 197,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.1-05",
+       "tur": "bosluk",
+       "cumle": "Göze giren ışık sırasıyla saydam tabakadan (kornea) ve göz merceğinden geçtikten sonra retinaya ulaşmadan önce ___ içinden geçer.",
+       "cevap": "camsı cisim",
+       "celdiriciler": [
+        "koroit tabaka",
+        "sarı benek",
+        "iris"
+       ],
+       "bilgi": "Işık gözde kornea, göz merceği ve camsı cisim sırasıyla geçerek retinaya ulaşır.",
+       "sayfa": 197,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.1-06",
+       "tur": "bosluk",
+       "cumle": "Kana salgılanan bir hormon vücuttaki bütün hücrelere ulaşır ancak yalnızca kendisine özgü ___ taşıyan hedef hücrelerde etki gösterir.",
+       "cevap": "reseptör",
+       "celdiriciler": [
+        "enzim",
+        "antikor",
+        "nörotransmitter"
+       ],
+       "bilgi": "Hormonlar kanla her yere taşınır; etkisini yalnızca o hormona özgü reseptöre sahip hedef hücrelerde gösterir.",
+       "sayfa": 197,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.1-07",
+       "tur": "dy",
+       "ifade": "Hormonal sistemle oluşturulan tepkiler, sinir sistemiyle oluşturulan tepkilere göre daha yavaş başlar.",
+       "dogru": true,
+       "bilgi": "Hormonlar endokrin bezlerden hedef hücrelere kanla taşındığı için hormonal tepkiler sinirsel tepkilerden daha yavaş gerçekleşir.",
+       "sayfa": 197,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.1-08",
+       "tur": "secmeli",
+       "soru": "İç kulakta ses titreşimlerini algılayıp impulsa dönüştüren işitme reseptörlerini taşıyan yapı hangisidir?",
+       "secenekler": [
+        "Korti organı",
+        "Yarım daire kanalları",
+        "Östaki borusu",
+        "Örs kemiği"
+       ],
+       "dogru": 0,
+       "bilgi": "İşitme reseptörleri salyangozdaki Korti organında bulunur; dengeyi yarım daire kanalları, orta kulak basıncını östaki borusu ayarlar.",
+       "sayfa": 198,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.1-09",
+       "tur": "dy",
+       "ifade": "Akson ucuna ulaşan her impuls, sinaps aracılığıyla mutlaka bir sonraki nörona aktarılır.",
+       "dogru": false,
+       "bilgi": "Sinapsta nörotransmitter ekzositozla salınır ve karşı nörondaki reseptörlere bağlanır; ancak oluşan etki eşiği aşmazsa impuls sonraki nörona geçmez.",
+       "sayfa": 198,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.1-10",
+       "tur": "dy",
+       "ifade": "Enzimler ve hormonlar protein yapılı olabilir; ancak kana salgılanarak uzaktaki hedef organda etki gösterme hormonlara özgüdür.",
+       "dogru": true,
+       "bilgi": "Enzimler ve hormonların ortak özelliği protein yapılı olabilmeleridir; endokrin bezlerden kana salgılanıp hedef organda işlev görmek hormonlara özgüdür.",
+       "sayfa": 198,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.1-11",
+       "tur": "eslestir",
+       "yonerge": "Hormonları kan şekeri ya da mineral düzeyine etkileriyle eşleştir.",
+       "ciftler": [
+        [
+         "İnsülin",
+         "Kan glikoz düzeyini düşürür"
+        ],
+        [
+         "Glukagon",
+         "Karaciğerde glikojen yıkımını uyararak kan şekerini artırır"
+        ],
+        [
+         "Adrenalin",
+         "Stres anında kan şekerini hızla yükseltir"
+        ],
+        [
+         "Kalsitonin",
+         "Kandaki kalsiyum düzeyini düşürür"
+        ]
+       ],
+       "bilgi": "Kan glikoz düzeyini insülin düşürür; glukagon ve adrenalin ise artırıcı yönde etki eder.",
+       "sayfa": 198,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.1-12",
+       "tur": "dy",
+       "ifade": "Sinir sistemindeki bütün nöronların aksonları miyelin kılıfla örtülüdür.",
+       "dogru": false,
+       "bilgi": "Miyelinsiz nöronlar da vardır; miyelinli aksonlarda iletim daha hızlıdır ve Ranvier boğumlarında miyelin bulunmaz.",
+       "sayfa": 199,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.1-13",
+       "tur": "secmeli",
+       "soru": "Sempatik sinir sisteminin baskın olduğu ani bir tehlike anında aşağıdakilerden hangisi gerçekleşir?",
+       "secenekler": [
+        "Kalp atış hızı yavaşlar",
+        "Karaciğerde glikojen depolanması artar",
+        "Bronşlar daralır",
+        "Sindirim kanalına giden kan miktarı azalır"
+       ],
+       "dogru": 3,
+       "bilgi": "Korku ve kaçma anında kalp atışı ve solunum hızlanır, adrenalin ve glikojen yıkımı artar; sindirim sistemine giden kan ise azalır.",
+       "sayfa": 199,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.1-14",
+       "tur": "bosluk",
+       "cumle": "Karanlıkta salgısı artan ve biyolojik saatin düzenlenmesinde rol oynayan melatonin hormonu ___ bezinden salgılanır.",
+       "cevap": "epifiz",
+       "celdiriciler": [
+        "hipofiz",
+        "tiroit",
+        "böbrek üstü"
+       ],
+       "bilgi": "Melatonini hipofiz değil epifiz (pineal) bezi salgılar; salgısı karanlıkta artar ve uyku-uyanıklık döngüsünü düzenler.",
+       "sayfa": 199,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "Destek ve Hareket Sistemi",
+     "soruSayisi": 4,
+     "eslesen": [
+      "biyoloji-11/1.9",
+      "biyoloji-11/1.10"
+     ],
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "dy",
+       "ifade": "Kalp kası, sinir sisteminden bağımsız olarak kendi ritmik uyartılarını oluşturabilir.",
+       "dogru": true,
+       "bilgi": "Bantlaşma iskelet kasında da, istemsiz çalışma düz kasta da görülür; kasılma uyartısını kendisinin oluşturması kalp kasına özgüdür.",
+       "sayfa": 199,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.2-02",
+       "tur": "dy",
+       "ifade": "İskelet kası kasılırken aktin ve miyozin iplikçiklerinin boyu kısalır.",
+       "dogru": false,
+       "bilgi": "Kasılmada aktin ve miyozin iplikçikleri boylarını korur, birbiri üzerinde kayar; bu sırada sarkomerin boyu kısalır.",
+       "sayfa": 200,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.2-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi insan iskelet sisteminin görevlerinden biri değildir?",
+       "secenekler": [
+        "Kalsiyum ve fosfor depolamak",
+        "Alyuvar üretimini uyaran hormonu salgılamak",
+        "İç organları mekanik etkilere karşı korumak",
+        "Kaslara tutunma yüzeyi sağlamak"
+       ],
+       "dogru": 1,
+       "bilgi": "İskelet mineral depolar, organları korur, eklemlerle hareketi sağlar ve kaslara tutunma yeri olur; alyuvar yapımını uyaran eritropoietin böbrekte üretilir.",
+       "sayfa": 200,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.2-04",
+       "tur": "secmeli",
+       "soru": "İskelet kası kasılırken sarkomerin hangi bölümünün boyu değişmez?",
+       "secenekler": [
+        "H bandı",
+        "I bandı",
+        "A bandı",
+        "Sarkomerin tamamı"
+       ],
+       "dogru": 2,
+       "bilgi": "Kasılmada H bandı ve I bandı kısalır, sarkomer kısalır; miyozin iplikçiklerinin uzunluğuna karşılık gelen A bandının boyu değişmez.",
+       "sayfa": 200,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "Sindirim Sistemi",
+     "soruSayisi": 5,
+     "eslesen": [
+      "biyoloji-10/1.5",
+      "biyoloji-10/1.6"
+     ],
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "eslestir",
+       "yonerge": "Besinleri kimyasal sindirimlerinin başladığı yerle eşleştir.",
+       "ciftler": [
+        [
+         "Nişasta",
+         "Ağız"
+        ],
+        [
+         "Protein",
+         "Mide"
+        ],
+        [
+         "Yağ",
+         "İnce bağırsak"
+        ]
+       ],
+       "bilgi": "Nişasta ağızda maltoza, proteinler midede küçük polipeptitlere parçalanmaya başlar; yağların sindirimi ince bağırsakta başlar.",
+       "sayfa": 201,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.3-02",
+       "tur": "dy",
+       "ifade": "İnsanda besinlerin monomerlerine kadar parçalanması hücre içi sindirimle gerçekleşir.",
+       "dogru": false,
+       "bilgi": "İnsanda besinler sindirim kanalında hücre dışı sindirimle monomerlerine parçalanır ve ince bağırsaktaki villuslardan emilir.",
+       "sayfa": 201,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.3-03",
+       "tur": "bosluk",
+       "cumle": "Yağların sindirimini kolaylaştıran safra, ___ tarafından üretilir ve safra kesesinde depolanır.",
+       "cevap": "karaciğer",
+       "celdiriciler": [
+        "pankreas",
+        "mide",
+        "ince bağırsak"
+       ],
+       "bilgi": "Safra karaciğerde üretilir; yağları sindiren lipaz enzimi ise pankreastan salgılanır.",
+       "sayfa": 202,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.3-04",
+       "tur": "dy",
+       "ifade": "Karaciğer, sindirim kanalına sindirim enzimleri salgılayan organlardan biridir.",
+       "dogru": false,
+       "bilgi": "Karaciğer safra üretir ama sindirim enzimi salgılamaz; kan proteinlerini sentezler, yaşlı alyuvarları yıkar, zehirleri etkisizleştirir ve glikojen depolar.",
+       "sayfa": 202,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.3-05",
+       "tur": "bosluk",
+       "cumle": "Midede proteinleri sindiren pepsin, mide bezlerinden inaktif hâlde ___ olarak salgılanır.",
+       "cevap": "pepsinojen",
+       "celdiriciler": [
+        "tripsinojen",
+        "gastrin",
+        "sekretin"
+       ],
+       "bilgi": "Pepsin inaktif pepsinojen olarak salgılanır; proteinleri parçalayan enzimler farklı pH değerlerinde çalışır ve pankreas ile ince bağırsakta da üretilir.",
+       "sayfa": 202,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.4",
+     "ad": "Dolaşım Sistemi",
+     "soruSayisi": 9,
+     "eslesen": [
+      "biyoloji-11/2.6",
+      "biyoloji-11/1.11"
+     ],
+     "kartlar": [
+      {
+       "id": "1.4-01",
+       "tur": "dy",
+       "ifade": "Lenf sistemi, ince bağırsakta emilen yağların kana taşınmasında görev alır.",
+       "dogru": true,
+       "bilgi": "Lenf sistemi doku sıvısını kana döndürür, yağların taşınmasına aracılık eder ve savunmada görev alır; oksijen taşımaz.",
+       "sayfa": 203,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.4-02",
+       "tur": "secmeli",
+       "soru": "Akciğerlerden oksijence zengin kanı kalbe getiren akciğer toplardamarı kalbin hangi bölümüne açılır?",
+       "secenekler": [
+        "Sağ kulakçık",
+        "Sağ karıncık",
+        "Sol karıncık",
+        "Sol kulakçık"
+       ],
+       "dogru": 3,
+       "bilgi": "Kan; sağ kulakçık, sağ karıncık, akciğer atardamarı, akciğer, akciğer toplardamarı, sol kulakçık, sol karıncık ve aort yolunu izler.",
+       "sayfa": 203,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.4-03",
+       "tur": "dy",
+       "ifade": "Dolaşım sistemi, sindirim enzimlerini salgılandıkları bezlerden sindirim kanalına taşır.",
+       "dogru": false,
+       "bilgi": "Sindirim enzimleri kanallarla doğrudan sindirim kanalına dökülür; kan ise hormon, solunum gazı, azotlu atık ve antikor taşır.",
+       "sayfa": 203,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.4-04",
+       "tur": "bosluk",
+       "cumle": "Parasempatik sinirlerin uçlarından salınarak kalp atış hızını düşüren madde ___ adlı nörotransmitterdir.",
+       "cevap": "asetilkolin",
+       "celdiriciler": [
+        "adrenalin",
+        "tiroksin",
+        "noradrenalin"
+       ],
+       "bilgi": "Asetilkolin kalp atışını yavaşlatır; adrenalin, tiroksin, kanda CO₂ artışı ve vücut sıcaklığının yükselmesi kalp atışını hızlandırır.",
+       "sayfa": 203,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.4-05",
+       "tur": "secmeli",
+       "soru": "İnce bağırsakta kana geçen glikoz, beyne ulaşmadan önce ilk olarak hangi organa taşınır?",
+       "secenekler": [
+        "Böbrek",
+        "Karaciğer",
+        "Dalak",
+        "Akciğer"
+       ],
+       "dogru": 1,
+       "bilgi": "Emilen glikoz kapı toplardamarıyla önce karaciğere gider; ardından kalp ve akciğerlerden geçerek aortla beyne ulaşır.",
+       "sayfa": 203,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.4-06",
+       "tur": "dy",
+       "ifade": "Kılcal damarların duvarı yalnızca tek katlı endotel hücrelerinden oluşur.",
+       "dogru": true,
+       "bilgi": "Kılcal damar duvarında bağ doku ve kas doku bulunmaz; toplam yüzey alanı en büyük olan damarlar kılcallardır, kan basıncı ise en yüksek atardamarlardadır.",
+       "sayfa": 204,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.4-07",
+       "tur": "secmeli",
+       "soru": "Kılcal damarların toplardamar ucunda doku sıvısındaki suyun kana geri dönmesini sağlayan temel etken hangisidir?",
+       "secenekler": [
+        "Kanın osmotik basıncının kan basıncından büyük olması",
+        "Kan basıncının osmotik basınçtan büyük olması",
+        "Alyuvarların aktif taşıma yapması",
+        "Lenf düğümlerinin kasılması"
+       ],
+       "dogru": 0,
+       "bilgi": "Atardamar ucunda kan basıncı baskın olduğundan sıvı dokuya geçer; toplardamar ucunda ise osmotik basınç baskın olduğundan sıvı kana geri döner.",
+       "sayfa": 204,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.4-08",
+       "tur": "eslestir",
+       "yonerge": "Bağışıklık hücrelerini görevleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Mast hücresi",
+         "Histamin salgılayarak damar geçirgenliğini artırır"
+        ],
+        [
+         "Makrofaj",
+         "Mikroorganizmaları fagositozla yok eder"
+        ],
+        [
+         "T lenfosit",
+         "Hücresel bağışıklıkta görev alır"
+        ],
+        [
+         "Doğal katil hücre",
+         "Doğuştan gelen savunmada enfekte hücreleri öldürür"
+        ]
+       ],
+       "bilgi": "Doğal katil hücreler doğal bağışıklıkta görev alır; humoral bağışıklık B lenfositlerin ürettiği antikorlarla sağlanır.",
+       "sayfa": 204,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.4-09",
+       "tur": "dy",
+       "ifade": "Kalpte kulakçıklar ve karıncıklar aynı anda kasılır.",
+       "dogru": false,
+       "bilgi": "Önce kulakçıklar, ardından karıncıklar kasılır; uyartıyı kalp kasının özelleşmiş düğümleri oluşturur ve kapakçıklar kanın tek yönde akmasını sağlar.",
+       "sayfa": 204,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.5",
+     "ad": "Solunum Sistemi",
+     "soruSayisi": 6,
+     "eslesen": [
+      "biyoloji-11/2.7"
+     ],
+     "kartlar": [
+      {
+       "id": "1.5-01",
+       "tur": "dy",
+       "ifade": "Kan pH'sinin düşmesi, hemoglobinin oksijene olan ilgisini artırır.",
+       "dogru": false,
+       "bilgi": "pH düştükçe hemoglobinin oksijene ilgisi azalır ve dokulara daha çok oksijen bırakılır; buna Bohr etkisi denir.",
+       "sayfa": 205,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.5-02",
+       "tur": "secmeli",
+       "soru": "Alveollerde birim zamanda gerçekleşen gaz alışverişini artıran durum hangisidir?",
+       "secenekler": [
+        "Alveol ile kan arasındaki oksijen kısmi basınç farkının azalması",
+        "Toplam alveol yüzeyinin küçülmesi",
+        "Alveol duvarının ince ve nemli olması",
+        "Alveol duvarının kalınlaşması"
+       ],
+       "dogru": 2,
+       "bilgi": "Gaz alışverişini geniş toplam yüzey, ince ve nemli alveol duvarı ve yüksek kısmi basınç farkı hızlandırır.",
+       "sayfa": 205,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.5-03",
+       "tur": "dy",
+       "ifade": "Soluk verme sırasında dışarı atılan havada oksijen bulunmaz, yalnızca karbon dioksit bulunur.",
+       "dogru": false,
+       "bilgi": "Verilen hava azot, oksijen, karbon dioksit ve su buharı içerir; yalnızca CO₂ oranı alınan havaya göre daha yüksektir.",
+       "sayfa": 205,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.5-04",
+       "tur": "bosluk",
+       "cumle": "Kanda karbon dioksit kısmi basıncının artması, solunum merkezinin bulunduğu ___ bölgesini uyararak solunumu hızlandırır.",
+       "cevap": "omurilik soğanı",
+       "celdiriciler": [
+        "beyincik",
+        "hipotalamus",
+        "talamus"
+       ],
+       "bilgi": "Kandaki CO₂ artışı omurilik soğanındaki solunum merkezini uyarır; solunum gazları difüzyonla alınıp verilir.",
+       "sayfa": 205,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.5-05",
+       "tur": "secmeli",
+       "soru": "Hangisi hemoglobinin dokulara daha fazla oksijen bırakmasına, yani oksijen doygunluk eğrisinin sağa kaymasına yol açar?",
+       "secenekler": [
+        "Kan pH'sinin yükselmesi",
+        "Egzersizde kasta sıcaklık ve CO₂ miktarının artması",
+        "Vücut sıcaklığının düşmesi",
+        "Kandaki CO₂ miktarının azalması"
+       ],
+       "dogru": 1,
+       "bilgi": "Koşu gibi egzersizlerde artan sıcaklık, CO₂ ve asitlik hemoglobinin oksijene ilgisini azaltır; eğri sağa kayar ve dokuya daha çok oksijen verilir.",
+       "sayfa": 206,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.5-06",
+       "tur": "bosluk",
+       "cumle": "Dokulardan kana geçen karbon dioksitin en büyük kısmı plazmada ___ iyonları hâlinde taşınır.",
+       "cevap": "bikarbonat",
+       "celdiriciler": [
+        "karbonat",
+        "hidrojen",
+        "klorür"
+       ],
+       "bilgi": "CO₂ plazmada çözünmüş olarak, hemoglobine bağlı karbaminohemoglobin olarak ve en çok plazmada bikarbonat iyonu olarak taşınır.",
+       "sayfa": 206,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.5-07",
+       "tur": "dy",
+       "ifade": "Yüksek rakımda yaşayan insanların kanındaki hemoglobin miktarı, deniz seviyesinde yaşayanlarınkinden daha düşüktür.",
+       "dogru": false,
+       "bilgi": "Oksijenin az olduğu yüksek kesimlerde yaşayanlarda alyuvar ve hemoglobin miktarı daha fazladır; bu, kanın oksijen taşıma kapasitesini artırır.",
+       "sayfa": 206,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.6",
+     "ad": "Üriner Sistem",
+     "soruSayisi": 6,
+     "eslesen": [
+      "biyoloji-11/2.8"
+     ],
+     "kartlar": [
+      {
+       "id": "1.6-01",
+       "tur": "secmeli",
+       "soru": "Sağlıklı bir nefronda süzüldükten sonra geri emilmeyip idrarla atılan madde hangisidir?",
+       "secenekler": [
+        "Glikoz",
+        "Amino asit",
+        "Kreatinin",
+        "Sodyum iyonu"
+       ],
+       "dogru": 2,
+       "bilgi": "Kreatinin geri emilmez ve idrarla atılır; glikoz ve amino asitler ise proksimal tüpte geri emilir.",
+       "sayfa": 207,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.6-02",
+       "tur": "secmeli",
+       "soru": "Kandan nefrona süzülmeyen bazı maddelerin yine de idrarda bulunabilmesini sağlayan olay hangisidir?",
+       "secenekler": [
+        "Tübüler salgılama",
+        "Glomerulusta süzülme",
+        "Geri emilim",
+        "Fagositoz"
+       ],
+       "dogru": 0,
+       "bilgi": "Bazı maddeler kılcallardan nefron kanalına salgılanır; bu nedenle süzüntüde bulunmayan bir madde idrarda bulunabilir.",
+       "sayfa": 207,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.6-03",
+       "tur": "dy",
+       "ifade": "Henle kulpunun inen ve çıkan kollarının suya geçirgenliği aynıdır.",
+       "dogru": false,
+       "bilgi": "Henle kulpunun inen kolu suya geçirgendir, çıkan kolu ise suya geçirgen değildir ve tuz geri emer.",
+       "sayfa": 208,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.6-04",
+       "tur": "bosluk",
+       "cumle": "Böbreklerde üretilen ve kemik iliğinde alyuvar yapımını uyaran hormon ___ hormonudur.",
+       "cevap": "eritropoietin",
+       "celdiriciler": [
+        "antidiüretik",
+        "aldosteron",
+        "kalsitonin"
+       ],
+       "bilgi": "Kronik böbrek yetmezliğinde eritropoietin yeterince üretilmediğinden alyuvar yapımı azalır ve kansızlık (anemi) görülür.",
+       "sayfa": 208,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.6-05",
+       "tur": "dy",
+       "ifade": "Nefrona süzülen ürenin bir kısmı geri emilir, kalanı idrarla atılır.",
+       "dogru": true,
+       "bilgi": "Ürenin tamamı idrara geçmez, bir kısmı geri emilir; glomerulustan süzülmede molekül büyüklüğü belirleyicidir.",
+       "sayfa": 208,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.6-06",
+       "tur": "secmeli",
+       "soru": "Böbrek atardamarıyla gelip idrarla atılan bir üre molekülünün izlediği yol hangisinde doğru sıralanmıştır?",
+       "secenekler": [
+        "Proksimal tüp – glomerulus – Henle kulpu – toplama kanalı – distal tüp",
+        "Glomerulus – Henle kulpu – proksimal tüp – distal tüp – toplama kanalı",
+        "Glomerulus – proksimal tüp – distal tüp – Henle kulpu – toplama kanalı",
+        "Glomerulus – proksimal tüp – Henle kulpu – distal tüp – toplama kanalı"
+       ],
+       "dogru": 3,
+       "bilgi": "Süzüntü glomerulustan Bowman kapsülüne geçer; proksimal tüp, Henle kulpu ve distal tüpten sonra en son toplama kanalından geçer.",
+       "sayfa": 208,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.7",
+     "ad": "Üreme Sistemi ve Embriyonik Gelişim",
+     "soruSayisi": 3,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.7-01",
+       "tur": "dy",
+       "ifade": "Döllenme olmadığında korpus luteumun parçalanması, kandaki östrojen ve progesteron düzeyini hızla artırır.",
+       "dogru": false,
+       "bilgi": "Korpus luteum parçalanınca östrojen ve progesteron düzeyi düşer; bu düşüş endometriyumun yıkılmasına (menstruasyon) yol açar.",
+       "sayfa": 209,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.7-02",
+       "tur": "bosluk",
+       "cumle": "İnsanda spermatogenez sırasında mayoz bölünme ___ hücresinde başlar.",
+       "cevap": "birincil spermatosit",
+       "celdiriciler": [
+        "spermatogonyum",
+        "spermatit",
+        "ikincil spermatosit"
+       ],
+       "bilgi": "Spermatogonyum mitozla çoğalıp büyüyerek birincil spermatositi oluşturur; mayoz I birincil spermatositte başlar.",
+       "sayfa": 209,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.7-03",
+       "tur": "secmeli",
+       "soru": "Ovulasyonla atılan ikincil oosit, döllenme gerçekleşene kadar mayozun hangi evresinde bekler?",
+       "secenekler": [
+        "Profaz I",
+        "Anafaz I",
+        "Metafaz II",
+        "Telofaz II"
+       ],
+       "dogru": 2,
+       "bilgi": "İkincil oosit metafaz II'de bekler ve mayoz II'yi ancak döllenince tamamlar; birincil oosit ise profaz I'de bekler.",
+       "sayfa": 209,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.8",
+     "ad": "Komünite Ekolojisi",
+     "soruSayisi": 8,
+     "eslesen": [
+      "biyoloji-10/2.2",
+      "biyoloji-10/2.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.8-01",
+       "tur": "bosluk",
+       "cumle": "Aynı sınırlı kaynağı kullanan iki türden birinin zamanla diğerini ortamdan uzaklaştırması ___ ilkesiyle açıklanır.",
+       "cevap": "rekabetçi dışlama",
+       "celdiriciler": [
+        "ekolojik ardışıklık",
+        "biyolojik birikim",
+        "taşıma kapasitesi"
+       ],
+       "bilgi": "Aynı besinle beslenen iki Paramecium türü birlikte yetiştirildiğinde aralarında rekabet olur ve biri diğerini ortamdan uzaklaştırır.",
+       "sayfa": 210,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.8-02",
+       "tur": "dy",
+       "ifade": "Bir türün diğerinin üzerindeki parazitleri yiyerek beslendiği ve iki türün de yarar sağladığı ilişki amensalizme örnektir.",
+       "dogru": false,
+       "bilgi": "İki türün de yarar gördüğü ilişki mutualizmdir; amensalizmde bir tür zarar görürken diğeri bu ilişkiden etkilenmez.",
+       "sayfa": 210,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.8-03",
+       "tur": "eslestir",
+       "yonerge": "Örnekleri türler arası etkileşim çeşitleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Liken oluşturan alg ve mantar",
+         "Mutualizm"
+        ],
+        [
+         "Ağaç dalında yaşayan epifit orkide ile ağaç",
+         "Kommensalizm"
+        ],
+        [
+         "Salgısıyla çevresindeki bakterileri öldüren küf",
+         "Amensalizm"
+        ],
+        [
+         "İnsan bağırsağında yaşayan tenya",
+         "Parazitlik"
+        ]
+       ],
+       "bilgi": "Mutualizmde iki taraf da yararlanır; kommensalizmde biri yararlanırken diğeri etkilenmez; amensalizmde biri zarar görür, diğeri etkilenmez.",
+       "sayfa": 211,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.8-04",
+       "tur": "dy",
+       "ifade": "Aynı habitatı paylaşan benzer nişli iki türden biri ekolojik nişini değiştirirse iki tür aynı alanda birlikte yaşayabilir.",
+       "dogru": true,
+       "bilgi": "Benzer nişteki türler arasında rekabet vardır; nişlerden birinin değişmesi rekabeti azaltır ve türlerin birlikte yaşamasını sağlar.",
+       "sayfa": 211,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.8-05",
+       "tur": "dy",
+       "ifade": "Kilit taşı türler, komünitede birey sayısı her zaman en fazla olan türlerdir.",
+       "dogru": false,
+       "bilgi": "Kilit taşı türlerin sayısı az olabilir; ancak komüniteden ayrılmaları komünitenin yapısını ve türler arası ilişkileri bozar.",
+       "sayfa": 211,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.8-06",
+       "tur": "secmeli",
+       "soru": "Meyvesini yiyen kuşların sindirim kanalından geçen tohumları çimlenebilen bir bitki ile bu kuşlar arasındaki ilişki hangisidir?",
+       "secenekler": [
+        "Kommensalizm",
+        "Amensalizm",
+        "Parazitlik",
+        "Mutualizm"
+       ],
+       "dogru": 3,
+       "bilgi": "Kuş besin elde ederken bitkinin tohumları yayılıp çimlenir; iki tür de yarar sağladığından kuş popülasyonundaki azalma bitkinin çoğalmasını da etkiler.",
+       "sayfa": 212,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.8-07",
+       "tur": "dy",
+       "ifade": "Av-avcı ilişkisinde av ve avcı popülasyonlarının yoğunluğu, avcı artışı av artışını biraz geriden izleyecek biçimde dalgalanır.",
+       "dogru": true,
+       "bilgi": "Av çoğaldıkça avcı da artar, artan avcı baskısı avı azaltır ve ardından avcı da azalır; iki popülasyon dönemli olarak dalgalanır.",
+       "sayfa": 212,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.8-08",
+       "tur": "dy",
+       "ifade": "Mutualizmde birlikte yaşayan iki tür her zaman birbirine eşit düzeyde fayda sağlar.",
+       "dogru": false,
+       "bilgi": "Mutualizmde iki tür de yararlanır ama fayda eşit olmak zorunda değildir; bazı birlikteliklerde türlerden biri bağımsız da yaşayabilir.",
+       "sayfa": 213,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.9",
+     "ad": "Popülasyon Ekolojisi",
+     "soruSayisi": 6,
+     "eslesen": [
+      "biyoloji-10/2.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.9-01",
+       "tur": "eslestir",
+       "yonerge": "Popülasyon dağılış tiplerini tipik durumlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Kümeli dağılış",
+         "Kaynakların yamalı olduğu yerlerde gruplar oluşturma"
+        ],
+        [
+         "Düzenli dağılış",
+         "Alan savunan bireyler arasında eşit aralık bulunması"
+        ],
+        [
+         "Rastgele dağılış",
+         "Kaynakların düzgün, etkileşimin zayıf olduğu durum"
+        ]
+       ],
+       "bilgi": "Doğada en yaygın dağılış kümeli dağılıştır; üreme döneminde alan savunan penguenlerde ise düzenli dağılış görülür.",
+       "sayfa": 213,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.9-02",
+       "tur": "bosluk",
+       "cumle": "Her yaş döneminde ölüm oranının yaklaşık sabit olduğu hayatta kalma eğrisi ___ eğrisidir.",
+       "cevap": "Tip II",
+       "celdiriciler": [
+        "Tip I",
+        "Tip III",
+        "J tipi"
+       ],
+       "bilgi": "Tip I'de ölümler ileri yaşta, Tip III'te erken yaşta yoğunlaşır; Tip II'de her yaşta ölüm oranı yaklaşık sabittir.",
+       "sayfa": 213,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.9-03",
+       "tur": "dy",
+       "ifade": "Popülasyon büyüklüğü taşıma kapasitesine yaklaştıkça çevre direnci azalır.",
+       "dogru": false,
+       "bilgi": "Taşıma kapasitesine yaklaşıldıkça çevre direnci ve kaynak rekabeti artar, büyüme yavaşlar; doğum ve ölüm oranları birbirine yaklaşır.",
+       "sayfa": 214,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.9-04",
+       "tur": "dy",
+       "ifade": "J tipi büyüme eğrisi, kaynakların sınırsız olduğu ideal koşullardaki popülasyon artışını gösterir.",
+       "dogru": true,
+       "bilgi": "J tipi büyüme ideal koşulları yansıtır ve doğada sonsuza kadar süremez; S tipi büyümede popülasyon taşıma kapasitesine ulaşır.",
+       "sayfa": 214,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.9-05",
+       "tur": "bosluk",
+       "cumle": "Popülasyon yoğunluğu arttıkça aynı türün bireyleri arasında ___ artar ve bireylerin hayatta kalma oranı düşebilir.",
+       "cevap": "tür içi rekabet",
+       "celdiriciler": [
+        "mutualizm",
+        "kommensalizm",
+        "türler arası yardımlaşma"
+       ],
+       "bilgi": "Yoğunluğun yüksek olduğu popülasyonda tür içi rekabet artar; düşük yoğunluk bireylerin hayatta kalmasını olumlu etkileyebilir.",
+       "sayfa": 215,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.9-06",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi bir popülasyonun birey sayısını doğrudan değiştiren etkenlerden biri değildir?",
+       "secenekler": [
+        "Doğum oranı",
+        "Dışarıya göç",
+        "Bireylerin rastgele eşleşmesi",
+        "Ölüm oranı"
+       ],
+       "dogru": 2,
+       "bilgi": "Popülasyon büyüklüğünü doğum, ölüm, göç, çevre koşulları ve rekabet etkiler; rastgele eşleşme birey sayısını değiştirmez.",
+       "sayfa": 215,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.10",
+     "ad": "Nükleik Asitlerin Keşfi ve Önemi",
+     "soruSayisi": 9,
+     "eslesen": [
+      "biyoloji-9/1.6"
+     ],
+     "kartlar": [
+      {
+       "id": "1.10-01",
+       "tur": "dy",
+       "ifade": "Ribozomun yapısının büyük bölümünü oluşturan RNA çeşidi tRNA'dır.",
+       "dogru": false,
+       "bilgi": "Ribozomun yaklaşık üçte ikisini rRNA oluşturur; tRNA ise yonca yaprağı biçiminde katlanır ve antikodon taşır.",
+       "sayfa": 215,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.10-02",
+       "tur": "eslestir",
+       "yonerge": "DNA replikasyonunda görev alan enzimleri işlevleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Helikaz",
+         "Hidrojen bağlarını kırarak sarmalı açar"
+        ],
+        [
+         "DNA polimeraz",
+         "Nükleotit ekleyerek yeni zinciri uzatır"
+        ],
+        [
+         "DNA ligaz",
+         "DNA parçalarını birbirine bağlar"
+        ]
+       ],
+       "bilgi": "Replikasyonda helikaz sarmalı açar, DNA polimeraz nükleotitleri ekler, DNA ligaz ise DNA parçalarını birleştirir.",
+       "sayfa": 216,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.10-03",
+       "tur": "bosluk",
+       "cumle": "Ökaryotik DNA'nın aynı uzunluktaki prokaryotik DNA'dan daha kısa sürede eşlenebilmesi, üzerinde birden fazla ___ bulunmasıyla sağlanır.",
+       "cevap": "replikasyon orijini",
+       "celdiriciler": [
+        "promotor bölgesi",
+        "sentromer",
+        "telomer"
+       ],
+       "bilgi": "Ökaryotik DNA'da çok sayıda replikasyon orijini vardır ve eşlenme birçok noktadan aynı anda başlar; prokaryotik DNA'da tek orijin bulunur.",
+       "sayfa": 216,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.10-04",
+       "tur": "secmeli",
+       "soru": "Aynı uzunluktaki iki DNA'dan guanin–sitozin çifti sayısı fazla olanın yüksek sıcaklığa daha dayanıklı olmasının nedeni nedir?",
+       "secenekler": [
+        "G–C çiftlerinde fosfodiester bağı sayısının fazla olması",
+        "G–C baz çiftleri arasında üç hidrojen bağı bulunması",
+        "Guaninin riboz şekeri içermesi",
+        "A–T çiftleri arasında üç hidrojen bağı bulunması"
+       ],
+       "dogru": 1,
+       "bilgi": "G–C çiftleri arasında üç, A–T çiftleri arasında iki hidrojen bağı bulunur; bu yüzden G–C oranı yüksek DNA ısıya daha dayanıklıdır.",
+       "sayfa": 216,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.10-05",
+       "tur": "dy",
+       "ifade": "DNA eşlenirken bir pirimidin bazının karşısına iki pürin bazından herhangi biri gelebilir.",
+       "dogru": false,
+       "bilgi": "Baz eşleşmesi kesindir: adenin yalnızca timinle, guanin yalnızca sitozinle eşleşir; DNA iplikleri birbirine antiparalel uzanır.",
+       "sayfa": 216,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.10-06",
+       "tur": "secmeli",
+       "soru": "DNA'daki adenin nükleotiti ile RNA'daki adenin nükleotitini birbirinden ayıran bileşen hangisidir?",
+       "secenekler": [
+        "Fosfat grubu",
+        "Adenin bazı",
+        "Beş karbonlu şeker"
+       ],
+       "dogru": 2,
+       "bilgi": "DNA nükleotitlerinde deoksiriboz, RNA nükleotitlerinde riboz bulunur; bu nedenle iki adenin nükleotitinin yapısı aynı değildir.",
+       "sayfa": 217,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.10-07",
+       "tur": "dy",
+       "ifade": "Prokaryotlarda DNA replikasyonu sitoplazmada, ökaryotlarda ise büyük ölçüde çekirdekte gerçekleşir.",
+       "dogru": true,
+       "bilgi": "İki hücre tipinde replikasyonda aynı baz çeşitleri (A, T, G, C) kullanılır; replikasyonun yeri ve orijin sayısı ise farklıdır.",
+       "sayfa": 217,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.10-08",
+       "tur": "bosluk",
+       "cumle": "Isıyla öldürülmüş kapsüllü bakterilerden canlı kapsülsüz bakterilere kalıtsal madde aktarılabildiğini gösteren deneyi ___ yapmıştır.",
+       "cevap": "Griffith",
+       "celdiriciler": [
+        "Mendel",
+        "Chargaff",
+        "Watson"
+       ],
+       "bilgi": "Griffith'in Streptococcus pneumoniae deneyinde R tipi bakteriler ölü S tiplerinden kalıtsal madde alarak öldürücü S tipine dönüşmüştür (transformasyon).",
+       "sayfa": 217,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.10-09",
+       "tur": "bosluk",
+       "cumle": "DNA ve RNA'nın ortak özelliği, ___ adı verilen monomerlerin birleşmesiyle oluşan polimerler olmalarıdır.",
+       "cevap": "nükleotit",
+       "celdiriciler": [
+        "amino asit",
+        "monosakkarit",
+        "yağ asidi"
+       ],
+       "bilgi": "DNA ve RNA nükleotit polimeridir; riboz şekeri ve ribozomun yapısına katılma RNA'ya, replikasyon ve ikili sarmal DNA'ya özgüdür.",
+       "sayfa": 218,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.11",
+     "ad": "Genetik Şifre ve Protein Sentezi",
+     "soruSayisi": 10,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.11-01",
+       "tur": "bosluk",
+       "cumle": "Genetik mühendisliği yöntemleriyle başka bir türe ait gen aktarılmış organizmaya ___ organizma denir.",
+       "cevap": "transgenik",
+       "celdiriciler": [
+        "mutant",
+        "melez",
+        "klon"
+       ],
+       "bilgi": "Bir organizmanın transgenik sayılması için kendisine ait olmayan bir genin genetik mühendisliği yöntemleriyle aktarılmış olması gerekir.",
+       "sayfa": 218,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.11-02",
+       "tur": "dy",
+       "ifade": "DNA'daki bir nokta mutasyonu, bir amino asidi şifreleyen kodonu durdurma kodonuna dönüştürerek polipeptit sentezinin erken bitmesine yol açabilir.",
+       "dogru": true,
+       "bilgi": "UAA, UAG ve UGA durdurma kodonlarıdır; mutasyonla bunlardan biri erken oluşursa polipeptit beklenenden kısa kalır.",
+       "sayfa": 218,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.11-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi protein sentezi sonucunda oluşan bir molekül değildir?",
+       "secenekler": [
+        "Kollajen",
+        "Hemoglobin",
+        "Glisin",
+        "Miyozin"
+       ],
+       "dogru": 2,
+       "bilgi": "Gen ifadesiyle polipeptitler ve proteinler oluşur; glisin ve metiyonin gibi amino asitler proteinlerin ürünü değil yapı taşıdır.",
+       "sayfa": 219,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.11-04",
+       "tur": "bosluk",
+       "cumle": "Genetik şifrede bulunan 64 kodondan ___ tanesi hiçbir amino asidi şifrelemeyen durdurma kodonudur.",
+       "cevap": "üç",
+       "celdiriciler": [
+        "bir",
+        "iki",
+        "dört"
+       ],
+       "bilgi": "64 kodonun 3'ü durdurma kodonudur; bir amino asit birden fazla kodonla şifrelenebilir ve genetik şifre canlılarda ortaktır.",
+       "sayfa": 219,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.11-05",
+       "tur": "bosluk",
+       "cumle": "Amino asit dizisini değiştirmeyen, yani kodonu aynı amino asidi şifreleyen başka bir kodona dönüştüren mutasyona ___ mutasyon denir.",
+       "cevap": "sessiz",
+       "celdiriciler": [
+        "anlamsız",
+        "çerçeve kayması",
+        "yanlış anlamlı"
+       ],
+       "bilgi": "Bir amino asidin birden fazla kodonla şifrelenebilmesi sayesinde bazı mutasyonlar polipeptidin amino asit dizisini değiştirmez.",
+       "sayfa": 219,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.11-06",
+       "tur": "dy",
+       "ifade": "Translasyon, hücrede enerji harcanmadan gerçekleşen bir süreçtir.",
+       "dogru": false,
+       "bilgi": "Translasyon enerji gerektirir; başlangıçta mRNA ribozomun küçük alt birimine bağlanır ve bir mRNA'yı aynı anda birden çok ribozom okuyabilir.",
+       "sayfa": 219,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.11-07",
+       "tur": "secmeli",
+       "soru": "İnsana ait bir genin bakteriye aktarılıp bakteride insan proteininin üretilebilmesi, öncelikle canlıların hangi ortak özelliğine dayanır?",
+       "secenekler": [
+        "Genetik şifrenin canlılarda ortak olması",
+        "Tüm canlıların genomlarının aynı olması",
+        "Bakterilerin çekirdek zarına sahip olması",
+        "Tüm canlılarda aynı sayıda gen bulunması"
+       ],
+       "dogru": 0,
+       "bilgi": "Canlılar ortak genetik kodu kullanır ve DNA'dan RNA'ya, RNA'dan proteine bilgi akışı hepsinde gerçekleşir; genomlar ise türden türe farklıdır.",
+       "sayfa": 220,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.11-08",
+       "tur": "dy",
+       "ifade": "Bir poliribozomdaki ribozomların her biri farklı amino asit dizisine sahip polipeptit sentezler.",
+       "dogru": false,
+       "bilgi": "Poliribozomda aynı mRNA'ya çok sayıda ribozom tutunur ve hepsi aynı polipeptidi sentezler; mRNA'nın kopyası üretilmez.",
+       "sayfa": 220,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.11-09",
+       "tur": "dy",
+       "ifade": "Genetik araştırmalarda kullanılan model organizmaların yeni nesil oluşturma süresinin kısa olması istenir.",
+       "dogru": true,
+       "bilgi": "Model organizmanın kolay yetişmesi, küçük olması, kısa sürede çok yavru vermesi ve gen haritasının bilinmesi tercih edilir.",
+       "sayfa": 220,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.11-10",
+       "tur": "secmeli",
+       "soru": "Transkripsiyon sırasında DNA zincirlerini birbirinden ayırarak RNA sentezini gerçekleştiren enzim hangisidir?",
+       "secenekler": [
+        "DNA ligaz",
+        "RNA polimeraz",
+        "DNA polimeraz",
+        "Ribozom"
+       ],
+       "dogru": 1,
+       "bilgi": "Transkripsiyonu RNA polimeraz gerçekleştirir; Okazaki parçaları ise transkripsiyonda değil, DNA replikasyonunda oluşur.",
+       "sayfa": 220,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.12",
+     "ad": "Canlılık ve Enerji",
+     "soruSayisi": 1,
+     "eslesen": [
+      "biyoloji-10/1.1",
+      "biyoloji-10/1.10"
+     ],
+     "kartlar": [
+      {
+       "id": "1.12-01",
+       "tur": "dy",
+       "ifade": "ATP molekülündeki şeker, beş karbonlu bir monosakkarit olan ribozdur.",
+       "dogru": true,
+       "bilgi": "ATP; adenin bazı, riboz şekeri ve üç fosfattan oluşur; fosfatlar arasında yüksek enerjili bağlar bulunur, riboz RNA'da da yer alır.",
+       "sayfa": 221,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.13",
+     "ad": "Fotosentez",
+     "soruSayisi": 7,
+     "eslesen": [
+      "biyoloji-10/1.2",
+      "biyoloji-10/1.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.13-01",
+       "tur": "secmeli",
+       "soru": "Kloroplastta karbon dioksitin tutulup karbonhidrat üretildiği bölüm hangisidir?",
+       "secenekler": [
+        "Tilakoit zarı",
+        "Stroma",
+        "Tilakoit boşluğu",
+        "Dış zar"
+       ],
+       "dogru": 1,
+       "bilgi": "CO₂'in tutulması ve karbonhidrat üretimi stromada; ışığın soğurulması ve suyun parçalanması tilakoitlerde gerçekleşir.",
+       "sayfa": 221,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.13-02",
+       "tur": "dy",
+       "ifade": "Karotenoitler, aşırı ışığın klorofillere zarar vermesini önleyen yardımcı pigmentlerdir.",
+       "dogru": true,
+       "bilgi": "Karotenoitler çiçek ve meyvelere renk verir, fazla ışığı soğurarak klorofilleri korur; yeşil ışığı soğurmazlar.",
+       "sayfa": 221,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.13-03",
+       "tur": "dy",
+       "ifade": "Fotosentez yapabilmek için bir canlının mutlaka kloroplasta sahip olması gerekir.",
+       "dogru": false,
+       "bilgi": "Fotosentez için ışığı soğuran pigment şarttır; siyanobakteriler gibi kloroplastı olmayan prokaryotlar da fotosentez yapar.",
+       "sayfa": 222,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.13-04",
+       "tur": "bosluk",
+       "cumle": "Hidrojen kaynağı olarak su yerine hidrojen sülfür kullanan fotosentetik bakteriler, oksijen yerine ___ açığa çıkarır.",
+       "cevap": "kükürt",
+       "celdiriciler": [
+        "azot",
+        "metan",
+        "karbon dioksit"
+       ],
+       "bilgi": "Fotosentezde açığa çıkan ürün kullanılan hidrojen kaynağına bağlıdır: su kullanılırsa oksijen, hidrojen sülfür kullanılırsa kükürt çıkar.",
+       "sayfa": 222,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.13-05",
+       "tur": "secmeli",
+       "soru": "Fotosentezin ışığa bağımlı tepkimelerinde ATP hangi enerji kullanılarak üretilir?",
+       "secenekler": [
+        "Glikozun kimyasal enerjisi",
+        "Isı enerjisi",
+        "İnorganik maddelerin oksitlenmesiyle açığa çıkan enerji",
+        "Işık enerjisi"
+       ],
+       "dogru": 3,
+       "bilgi": "Işığa bağımlı tepkimelerde pigmentler ışığı soğurur, su ayrıştırılır ve ATP ışık enerjisiyle (fotofosforilasyon) üretilir.",
+       "sayfa": 222,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.13-06",
+       "tur": "dy",
+       "ifade": "Yaprak epidermisindeki stoma bekçi hücreleri kloroplast içerir ve fotosentez yapabilir.",
+       "dogru": true,
+       "bilgi": "Calvin döngüsü kloroplastlı hücrelerde gerçekleşir: bekçi hücreleri ve palizat parankiması fotosentez yapar, tüy hücreleri yapmaz.",
+       "sayfa": 222,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.13-07",
+       "tur": "eslestir",
+       "yonerge": "Kloroplastın bölümlerini o bölümde gerçekleşen olayla eşleştir.",
+       "ciftler": [
+        [
+         "Tilakoit zarı",
+         "Işık soğurulması ve elektron taşınması"
+        ],
+        [
+         "Tilakoit boşluğu",
+         "Suyun fotolizi ve proton birikimi"
+        ],
+        [
+         "Stroma",
+         "Calvin döngüsü"
+        ]
+       ],
+       "bilgi": "Elektron taşıma sistemi tilakoit zarında bulunur; su fotolizi tilakoit boşluğu tarafında, Calvin döngüsü ise stromada gerçekleşir.",
+       "sayfa": 223,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.14",
+     "ad": "Kemosentez",
+     "soruSayisi": 1,
+     "eslesen": [
+      "biyoloji-10/1.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.14-01",
+       "tur": "bosluk",
+       "cumle": "Nitriti nitrata yükseltgeyerek açığa çıkan kimyasal enerjiyle CO₂ ve sudan organik madde üreten bakterilerin bu beslenme biçimine ___ denir.",
+       "cevap": "kemosentez",
+       "celdiriciler": [
+        "fotosentez",
+        "fermantasyon",
+        "saprofitlik"
+       ],
+       "bilgi": "Kemosentetik bakteriler inorganik maddeleri oksitleyerek enerji elde eder; klorofil ya da ışık kullanan bakteriler fotosentetiktir.",
+       "sayfa": 223,
+       "yil": "2022-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.15",
+     "ad": "Hücresel Solunum",
+     "soruSayisi": 9,
+     "eslesen": [
+      "biyoloji-10/1.7",
+      "biyoloji-10/1.8",
+      "biyoloji-10/1.9"
+     ],
+     "kartlar": [
+      {
+       "id": "1.15-01",
+       "tur": "bosluk",
+       "cumle": "Hücresel solunumun ilk evresi olan ___, ökaryotik hücrede zarla çevrili bir organelde değil sitoplazmada gerçekleşir.",
+       "cevap": "glikoliz",
+       "celdiriciler": [
+        "Krebs döngüsü",
+        "oksidatif fosforilasyon",
+        "pirüvat oksidasyonu"
+       ],
+       "bilgi": "Glikoliz sitoplazmada olur; Krebs döngüsü mitokondride, fotosentez kloroplastta, mRNA sentezi çekirdekte, hücre içi sindirim lizozomda gerçekleşir.",
+       "sayfa": 223,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.15-02",
+       "tur": "dy",
+       "ifade": "Laktik asit fermantasyonunda ATP, elektron taşıma sistemi aracılığıyla kemiozmotik mekanizmayla üretilir.",
+       "dogru": false,
+       "bilgi": "Fermantasyonda ATP yalnızca glikolizde substrat düzeyinde üretilir; oksijenli solunumla ortak nokta NADH'nin NAD⁺'ya yükseltgenmesidir.",
+       "sayfa": 224,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.15-03",
+       "tur": "secmeli",
+       "soru": "Oksijenli solunumda kullanılan moleküler oksijenin atomları hangi üründe yer alır?",
+       "secenekler": [
+        "Krebs döngüsünde açığa çıkan CO₂'te",
+        "Elektron taşıma sisteminde oluşan suda",
+        "Asetil-CoA oluşumunda çıkan CO₂'te",
+        "Glikolizde oluşan pirüvatta"
+       ],
+       "dogru": 1,
+       "bilgi": "O₂ elektron taşıma sisteminin son elektron alıcısıdır ve suya dönüşür; solunumda çıkan CO₂'in oksijeni ise besin molekülünden gelir.",
+       "sayfa": 224,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.15-04",
+       "tur": "bosluk",
+       "cumle": "Hücresel solunumda FAD'ın FADH₂'ye indirgendiği evre ___ evresidir.",
+       "cevap": "Krebs döngüsü",
+       "celdiriciler": [
+        "glikoliz",
+        "etil alkol fermantasyonu",
+        "laktik asit fermantasyonu"
+       ],
+       "bilgi": "FAD yalnızca Krebs döngüsünde indirgenir; glikoliz ve fermantasyon tepkimelerinde FAD kullanılmaz.",
+       "sayfa": 224,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.15-05",
+       "tur": "dy",
+       "ifade": "Bitki hücresinde substrat düzeyinde fosforilasyon hem sitoplazmada hem de mitokondri matriksinde gerçekleşir.",
+       "dogru": true,
+       "bilgi": "Substrat düzeyinde fosforilasyon glikolizde sitoplazmada, Krebs döngüsünde mitokondri matriksinde olur; stromada ATP fotofosforilasyonla üretilir.",
+       "sayfa": 224,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.15-06",
+       "tur": "bosluk",
+       "cumle": "Fermantasyonda pirüvatın laktik aside indirgenmesi ATP üretmez; bu adımın işlevi glikolizin sürebilmesi için ___ yeniden oluşturmaktır.",
+       "cevap": "NAD⁺",
+       "celdiriciler": [
+        "FAD",
+        "NADP⁺",
+        "ADP"
+       ],
+       "bilgi": "Pirüvattan laktik asit oluşurken ATP sentezlenmez; NADH yükseltgenerek glikoliz için gereken NAD⁺ yeniden oluşur.",
+       "sayfa": 225,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.15-07",
+       "tur": "dy",
+       "ifade": "Fotosentez ve oksijenli solunumda ATP sentezinin ortak yolu, protonların ATP sentazdan geçmesiyle işleyen kemiozmotik mekanizmadır.",
+       "dogru": true,
+       "bilgi": "İki süreçte de kemiozmotik ATP sentezi görülür; elektron kaynağı, fosforilasyon tipi ve ürünler ise farklıdır.",
+       "sayfa": 225,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.15-08",
+       "tur": "secmeli",
+       "soru": "İnsan iskelet kası hücrelerinde oksijen yetersizken gerçekleşen fermantasyonun son ürünü hangisidir?",
+       "secenekler": [
+        "Laktik asit",
+        "Etil alkol ve CO₂",
+        "Asetil-CoA",
+        "Sitrik asit"
+       ],
+       "dogru": 0,
+       "bilgi": "Kas hücrelerindeki laktik asit fermantasyonunda pirüvat indirgenir ve NADH yükseltgenir; CO₂ üretilmez.",
+       "sayfa": 225,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.15-09",
+       "tur": "dy",
+       "ifade": "Oksijenli solunum yalnızca mitokondriye sahip canlılarda gerçekleşebilir.",
+       "dogru": false,
+       "bilgi": "Mitokondrisi olmayan bazı bakteriler de hücre zarındaki elektron taşıma sistemiyle oksijenli solunum yapar.",
+       "sayfa": 225,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.16",
+     "ad": "Bitkilerin Yapısı",
+     "soruSayisi": 5,
+     "eslesen": [
+      "biyoloji-11/1.2",
+      "biyoloji-11/1.3",
+      "biyoloji-11/1.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.16-01",
+       "tur": "secmeli",
+       "soru": "Bitkide terlemenin düzenlenmesinde doğrudan görev alan hücreler hangileridir?",
+       "secenekler": [
+        "Depo parankiması hücreleri",
+        "Havalandırma parankiması hücreleri",
+        "Stoma bekçi hücreleri",
+        "Özümleme parankiması hücreleri"
+       ],
+       "dogru": 2,
+       "bilgi": "Parankima fotosentez, depolama, havalandırma ve iletim işlevleri görür; terlemeyi stoma bekçi hücreleri düzenler.",
+       "sayfa": 226,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.16-02",
+       "tur": "eslestir",
+       "yonerge": "Bitkisel hormonları etkileriyle eşleştir.",
+       "ciftler": [
+        [
+         "Etilen",
+         "Meyvenin olgunlaşması"
+        ],
+        [
+         "Giberellin",
+         "Gövde uzaması; eksikliğinde cücelik"
+        ],
+        [
+         "Oksin",
+         "Hücre çeperine etki ederek hücre uzaması"
+        ],
+        [
+         "Absisik asit",
+         "Stomaların kapanması ve tohum dormansisi"
+        ]
+       ],
+       "bilgi": "Bitkisel hormonlar üretildikleri yerden başka dokulara taşınarak da etki gösterir; çiçeklenme, meyve oluşumu ve yaprak dökümünde görev alır.",
+       "sayfa": 226,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.16-03",
+       "tur": "dy",
+       "ifade": "Sekonder büyüme yalnızca dikotil çiçekli bitkilerde görülür.",
+       "dogru": false,
+       "bilgi": "Açık tohumlularda da kambiyumla sekonder büyüme görülür; primer büyüme boyu, sekonder büyüme kalınlığı artırır.",
+       "sayfa": 226,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.16-04",
+       "tur": "bosluk",
+       "cumle": "Bitkilerde uyarının geliş yönünden bağımsız olarak gerçekleşen hareketlere ___ denir.",
+       "cevap": "nasti",
+       "celdiriciler": [
+        "tropizma",
+        "taksi",
+        "fototropizma"
+       ],
+       "bilgi": "Tropizma uyarının yönüne bağlı, asimetrik büyümeyle olur; nasti yönden bağımsızdır ve turgor değişimiyle gerçekleşebilir.",
+       "sayfa": 226,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.16-05",
+       "tur": "bosluk",
+       "cumle": "Yaprak kenarlarındaki ___ adlı yapılar, kök basıncının yüksek olduğu durumlarda suyu sıvı hâlde dışarı atar.",
+       "cevap": "hidatot",
+       "celdiriciler": [
+        "lentisel",
+        "stoma",
+        "trikom"
+       ],
+       "bilgi": "Hidatotlar gutasyonla su kaybettirir; bekçi hücreleri yoktur ve ışıkla açılıp kapanmazlar.",
+       "sayfa": 226,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.17",
+     "ad": "Bitkilerde Madde Taşınması",
+     "soruSayisi": 6,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.17-01",
+       "tur": "dy",
+       "ifade": "Ksilemi oluşturan trake ve trakeitler olgunlaştıklarında çekirdek ve sitoplazmalarını kaybeder.",
+       "dogru": true,
+       "bilgi": "Su ileten trake ve trakeitler olgunlukta ölü hücrelerdir, bölünmezler ve uç uca gelen bölgelerindeki geçitlerle su iletirler.",
+       "sayfa": 227,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.17-02",
+       "tur": "secmeli",
+       "soru": "Suyun ksilemde kökten yapraklara doğru taşınmasını sağlayan temel etken hangisidir?",
+       "secenekler": [
+        "Ksilem hücrelerinin ATP harcaması",
+        "Floemdeki pozitif basınç",
+        "Yapraklardaki şeker üretimi",
+        "Terlemeyle oluşan çekme kuvveti"
+       ],
+       "dogru": 3,
+       "bilgi": "Su ksilemde aktif taşımayla değil; terlemenin oluşturduğu çekim, kohezyon ve adezyon sayesinde pasif olarak taşınır.",
+       "sayfa": 227,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.17-03",
+       "tur": "secmeli",
+       "soru": "Stomaların açılmasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+       "secenekler": [
+        "Bekçi hücrelerine K⁺ girmesiyle turgor basıncı artar",
+        "Bekçi hücrelerinden K⁺ çıkması stomayı açar",
+        "Mezofildeki CO₂ derişiminin artması stomayı açar",
+        "Bekçi hücrelerinin su kaybetmesi stomayı açar"
+       ],
+       "dogru": 0,
+       "bilgi": "Mezofilde CO₂'in azalması ve bekçi hücrelerine K⁺ girişi su alımını artırır; turgor basıncı yükselen bekçi hücreleri stomayı açar.",
+       "sayfa": 227,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.17-04",
+       "tur": "dy",
+       "ifade": "Kök basıncı, her bitkide suyu en üst yapraklara kadar tek başına taşımaya yeterlidir.",
+       "dogru": false,
+       "bilgi": "Kök basıncı kökte osmotik basıncın artmasıyla topraktan su girişi sonucu oluşur; uzun bitkilerde suyu tek başına yukarı taşıyamaz.",
+       "sayfa": 227,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.17-05",
+       "tur": "dy",
+       "ifade": "Floemde organik maddeler kaynaktan havuza doğru hem yukarı hem aşağı yönde taşınabilir.",
+       "dogru": true,
+       "bilgi": "Şeker arkadaş hücrelerle kalburlu borulara yüklenir ve pozitif basınçla iki yönlü taşınır; bir havuz organı gerektiğinde kaynak olabilir.",
+       "sayfa": 228,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.17-06",
+       "tur": "bosluk",
+       "cumle": "Ksilem ve floem, madde iletiminin yanında yapılarındaki lifler sayesinde bitkiye ___ da sağlar.",
+       "cevap": "mekanik destek",
+       "celdiriciler": [
+        "gaz alışverişi",
+        "besin sentezi",
+        "su depolama"
+       ],
+       "bilgi": "Mekanik destek ksilem ve floemin ortak özelliğidir; ksilemde taşıma tek yönlü ve pasif, floemde çift yönlüdür.",
+       "sayfa": 228,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.18",
+     "ad": "Bitkilerde Eşeyli Üreme",
+     "soruSayisi": 4,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.18-01",
+       "tur": "secmeli",
+       "soru": "Çiçekli bir bitkide mayoz bölünme hangi yapılarda gerçekleşir?",
+       "secenekler": [
+        "Filament ve tepecik",
+        "Anter ve ovaryumdaki tohum taslağı",
+        "Taç yaprak ve çanak yaprak",
+        "Tepecik ve dişicik borusu"
+       ],
+       "dogru": 1,
+       "bilgi": "Mayoz başçıktaki (anter) polen ana hücrelerinde ve ovaryumdaki tohum taslağında olur; filament ve tepecikte üreme hücresi oluşmaz.",
+       "sayfa": 228,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.18-02",
+       "tur": "dy",
+       "ifade": "Toprakta bir fasulye tohumunun çimlenebilmesi için su, uygun sıcaklık ve oksijen gereklidir.",
+       "dogru": true,
+       "bilgi": "Çimlenmede su, uygun sıcaklık ve solunum için oksijen gerekir; karbon dioksit çimlenme için gerekli değildir.",
+       "sayfa": 228,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.18-03",
+       "tur": "bosluk",
+       "cumle": "Çiçekli bitkilerde megaspordan yumurta hücresinin oluşumu ___ bölünmeyle gerçekleştiğinden genetik çeşitliliğe katkı sağlamaz.",
+       "cevap": "mitoz",
+       "celdiriciler": [
+        "mayoz",
+        "ikiye bölünme",
+        "tomurcuklanma"
+       ],
+       "bilgi": "Megaspor ve mikrosporlar mayozla oluşur, döllenme de çeşitlilik sağlar; megaspordan yumurta oluşumu ise mitozla gerçekleşir.",
+       "sayfa": 229,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.18-04",
+       "tur": "eslestir",
+       "yonerge": "Tohum ve meyve yapılarını köken aldıkları yapı ya da olayla eşleştir.",
+       "ciftler": [
+        [
+         "Tohum kabuğu",
+         "Tohum taslağı örtüsü"
+        ],
+        [
+         "Meyve",
+         "Ovaryum"
+        ],
+        [
+         "Endosperm",
+         "Sperm ile iki kutup çekirdeğinin birleşmesi"
+        ],
+        [
+         "Embriyo",
+         "Sperm ile yumurta hücresinin birleşmesi"
+        ]
+       ],
+       "bilgi": "Endosperm spermin kutup çekirdekleriyle birleşmesinden oluşur; sinerjit hücreler döllenmeye katılmaz.",
+       "sayfa": 229,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.19",
+     "ad": "Canlılar ve Çevre",
+     "soruSayisi": 4,
+     "eslesen": [
+      "biyoloji-11/2.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.19-01",
+       "tur": "bosluk",
+       "cumle": "Çöl faresi su gereksiniminin büyük bölümünü ___ sonucu açığa çıkan sudan karşılar.",
+       "cevap": "hücresel solunum",
+       "celdiriciler": [
+        "terleme",
+        "fotosentez",
+        "sindirim"
+       ],
+       "bilgi": "Çöl faresi neredeyse hiç su içmeden metabolik suyla yaşar ve idrarla çok az su kaybeder; insan ise suyunun çoğunu içerek alır.",
+       "sayfa": 229,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.19-02",
+       "tur": "dy",
+       "ifade": "Yanlış antibiyotik kullanımı sonucu dirençli bakterilerin çoğalması, yapay seçilime bir örnektir.",
+       "dogru": false,
+       "bilgi": "Dirençli bakterilerin artması doğal seçilimdir; yapay seçilimde insan istenen özellikteki canlıları bilerek seçip çoğaltır.",
+       "sayfa": 230,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.19-03",
+       "tur": "dy",
+       "ifade": "Vücut sıvısının tuz derişimi yaşadığı deniz suyunun tuz derişimiyle birlikte değişen bir yengeç, vücut sıvısının derişimini düzenleyemiyor demektir.",
+       "dogru": true,
+       "bilgi": "Vücut sıvısı derişimi ortamla birlikte değişen canlılar osmotik düzenleme yapamaz; bazı kıyı canlıları ise belli sınırlar içinde düzenleme yapar.",
+       "sayfa": 230,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.19-04",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi mimikriye örnektir?",
+       "secenekler": [
+        "Zehirsiz bir yılanın renk deseninin zehirli bir yılan türüne benzemesi",
+        "Bir kelebeğin kanat renginin konduğu ağaç kabuğuna benzemesi",
+        "Kutup tilkisinin kışın beyaz kürke bürünmesi",
+        "Bukalemunun bulunduğu zemine göre renk değiştirmesi"
+       ],
+       "dogru": 0,
+       "bilgi": "Mimikride bir canlı genellikle zehirli ya da tehlikeli başka bir canlıya benzer; zemine benzeyerek gizlenme ise kamuflajdır.",
+       "sayfa": 231,
+       "yil": "2025-AYT"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
