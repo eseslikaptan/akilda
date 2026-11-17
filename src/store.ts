@@ -1,6 +1,7 @@
 import { useSyncExternalStore } from "react";
 import type { Ayarlar, DenemeKaydi, Ilerleme, KartDurum } from "./types";
 import { guncelle, type Kalite } from "./srs";
+import { ikinciKopya } from "./yerel";
 
 const ANAHTAR = "akilda:v1";
 
@@ -41,7 +42,9 @@ const dinleyiciler = new Set<() => void>();
 function yaz(yeni: Ilerleme) {
   durum = yeni;
   try {
-    localStorage.setItem(ANAHTAR, JSON.stringify(yeni));
+    const json = JSON.stringify(yeni);
+    localStorage.setItem(ANAHTAR, json);
+    ikinciKopya(json);
   } catch {
     // depolama dolu / kapalı: oturum içinde çalışmaya devam et
   }
@@ -69,6 +72,11 @@ export function useIlerleme(): Ilerleme {
 }
 
 export const ilerleme = () => durum;
+
+/** Açılışta (ör. ikinci kopyadan geri yüklemeden sonra) kaydı yeniden oku */
+export function ilerlemeyiYenile() {
+  durum = oku();
+}
 
 // ---- tarih yardımcıları ----
 

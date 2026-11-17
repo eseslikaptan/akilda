@@ -31,6 +31,11 @@ export function gunlukYeniHedef(gorulmemis: number, kalanGun: number): number {
   return Math.max(0, Math.ceil(gorulmemis / ogrenmeGunu));
 }
 
+/** Net değerini Türkçe yaz: 20,5 */
+export function netYaz(n: number): string {
+  return n.toLocaleString("tr-TR", { maximumFractionDigits: 2 });
+}
+
 /** Net = doğru − yanlış / 4 (ÖSYM kuralı) */
 export function net(dogru: number, yanlis: number): number {
   return Math.round((dogru - yanlis / 4) * 100) / 100;

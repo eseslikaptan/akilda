@@ -9,6 +9,7 @@ import { sonucBasligi, tepki, type Tepki } from "../ovgu";
 import { konfeti } from "../konfeti";
 import { rutbe, seviyeHesapla, sinEki, yeniRozetler } from "../rutbe";
 import { bildir } from "../bildirim";
+import { titret } from "../yerel";
 import { guncelle, sonrakiTekrarGun, sureMetni } from "../srs";
 import { hataBildirLinki, meydanLinki, paylas } from "../araclar";
 import { SoruGovdesi, soruEtiketi, type Cevap } from "../sorular";
@@ -146,6 +147,7 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
         }),
       );
       if (c.dogru) {
+        titret("dogru");
         setKombo((k) => k + 1);
       } else {
         setKombo(0);
@@ -158,7 +160,7 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
             return yeni;
           });
         }
-        navigator.vibrate?.(60);
+        titret("yanlis");
       }
       if (ilerleme().ayarlar.ses) (c.dogru ? sesler.dogru : sesler.yanlis)();
     },

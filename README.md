@@ -73,6 +73,13 @@ Soru dosyası biçimi ve yazım kuralları: [docs/icerik-formati.md](docs/icerik
 | `scripts/` | İndirme, metin çıkarma, birleştirme, doğrulama |
 | `data/books.json` | Kullanılan kitapların listesi ve bağlantıları |
 
+## iOS (App Store)
+
+`ios/` klasörü Capacitor ile oluşturulmuş iOS projesidir: web uygulaması içine gömülür, çevrimdışı çalışır;
+yerel bildirim, titreşim ve paylaşım kullanır. Derleme ve App Store Connect'e yükleme GitHub Actions ile
+(`.github/workflows/ios.yml`). Adım adım: [docs/app-store.md](docs/app-store.md). Mağaza metinleri ve ekran
+görüntüleri: `store/`.
+
 ## Kaynak ve haklar
 
 Ders kitaplarının tüm hakları Millî Eğitim Bakanlığına, YKS sorularının hakları ÖSYM'ye aittir. Bu depo kitapların ve

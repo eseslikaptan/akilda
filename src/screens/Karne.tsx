@@ -8,6 +8,7 @@ import { gunKaldi } from "../yks";
 import { geri } from "../router";
 import { kursAdi } from "./Dersler";
 import { UstBar } from "../ui";
+import { dosyaPaylas, yerelMi } from "../yerel";
 
 const GUN_ADI = ["Paz", "Pzt", "Sal", "Çar", "Per", "Cum", "Cmt"];
 
@@ -167,6 +168,11 @@ export function Karne({ dizin }: { dizin: Dizin }) {
   const paylas = async () => {
     const c = tuval.current;
     if (!c) return;
+    if (yerelMi) {
+      // iOS: paylaşım menüsü (Instagram, WhatsApp, Fotoğraflar'a kaydet…)
+      await dosyaPaylas(c.toDataURL("image/png").split(",")[1], "akilda-karne.png", true);
+      return;
+    }
     const blob = await new Promise<Blob | null>((r) => c.toBlob(r, "image/png"));
     if (!blob) return;
     const dosya = new File([blob], "akilda-karne.png", { type: "image/png" });

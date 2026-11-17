@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Akılda · Destek</title>
+<link rel="icon" href="./icon.svg" type="image/svg+xml">
+<style>
+  :root { --bg:#fff8ef; --ink:#2a2240; --ink2:#66607a; --accent:#e86a00; --soft:#ffe7cc; --line:#f2e3cc; color-scheme: light; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#161327; --ink:#f7f2ff; --ink2:#bdb4d6; --accent:#ffb26b; --soft:#3e2a1c; --line:#362f55; color-scheme: dark; } }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif; }
+  main { max-width:680px; margin:0 auto; padding:32px max(18px, env(safe-area-inset-left)) 48px max(18px, env(safe-area-inset-right)); }
+  h1 { font-size:30px; line-height:1.2; margin:0; }
+  h2 { font-size:19px; margin:28px 0 6px; }
+  p, li { color:var(--ink2); }
+  a { color:var(--accent); }
+  .ust { display:flex; align-items:center; gap:14px; margin-bottom:18px; }
+  .ust img { width:56px; height:56px; border-radius:14px; }
+  .dugme { display:inline-block; padding:12px 18px; border-radius:14px; background:var(--accent); color:#fff; font-weight:700; text-decoration:none; }
+  #kart-kutu { display:none; background:var(--soft); border-radius:16px; padding:14px 18px; margin:12px 0; }
+  details { border:1px solid var(--line); border-radius:14px; padding:10px 16px; margin:8px 0; }
+  summary { font-weight:700; cursor:pointer; }
+</style>
+</head>
+<body>
+<main>
+  <div class="ust"><img src="./icon.svg" alt=""><div><h1>Akılda Destek</h1><div>YKS bilgi tekrar uygulaması</div></div></div>
+
+  <div id="kart-kutu">
+    <p><strong>Bir kartta hata bildiriyorsun:</strong> <code id="kart-kimlik"></code></p>
+    <p>Hatayı ve doğrusunu kısaca yaz; mümkünse kaynak sayfasını belirt.</p>
+    <a class="dugme" id="kart-bildir" href="#">Hatayı bildir</a>
+  </div>
+
+  <h2>Bize ulaş</h2>
+  <p>Soru, öneri ve hata bildirimleri için: <a href="https://github.com/eseslikaptan/akilda/issues/new">GitHub üzerinden bildirim aç</a>.</p>
+
+  <h2>Sık sorulanlar</h2>
+  <details><summary>Bilgiler nereden geliyor?</summary><p>Kartlar Millî Eğitim Bakanlığının güncel ders kitaplarındaki bilgilere ve MEB'in 2018–2026 YKS çıkmış soru derlemelerine dayanır. Her kartta bilginin geçtiği kitap sayfasına bağlantı vardır. Kitapların ve soruların metni uygulamada yer almaz.</p></details>
+  <details><summary>İlerlemem nerede saklanıyor?</summary><p>Yalnızca telefonunda. Hesap yok, sunucu yok. Telefon değiştireceksen Profil → Verilerin → "Yedek indir" ile yedeğini al, yeni telefonda "Yedek yükle" ile geri yükle.</p></details>
+  <details><summary>Tekrar zamanlarını nasıl belirliyorsunuz?</summary><p>FSRS adlı aralıklı tekrar algoritmasıyla. Her bilgi, unutma ihtimalin %10'a yaklaştığında yeniden sorulur. Doğru bildikçe aralık uzar, yanlışta kısalır.</p></details>
+  <details><summary>Günlük hatırlatma gelmiyor.</summary><p>Profil → Hatırlatma'dan saati seçip "Bildirimi aç"a dokun. iPhone Ayarlar → Akılda → Bildirimler'in açık olduğundan emin ol.</p></details>
+  <details><summary>Bir kartta hata gördüm.</summary><p>Cevaptan sonra çıkan panelin altındaki "Bu kartta hata mı var? Bildir" bağlantısına dokun.</p></details>
+  <p style="margin-top:28px"><a href="./gizlilik.html">Gizlilik politikası</a></p>
+</main>
+<script>
+  // Uygulamadan gelen "kart hatası" bağlantısı: ?kart=<kimlik>
+  const kart = new URLSearchParams(location.search).get("kart");
+  if (kart && /^[a-z0-9./-]{3,60}$/i.test(kart)) {
+    document.getElementById("kart-kutu").style.display = "block";
+    document.getElementById("kart-kimlik").textContent = kart;
+    const q = new URLSearchParams({ title: "Kart hatası: " + kart, body: "**Kart:** `" + kart + "`\n\n**Sorun nedir?**\n\n", labels: "icerik-hatasi" });
+    document.getElementById("kart-bildir").href = "https://github.com/eseslikaptan/akilda/issues/new?" + q;
+  }
+</script>
+</body>
+</html>

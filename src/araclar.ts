@@ -1,6 +1,7 @@
 // Sunucusuz yardımcılar: kalıcı depolama, takvim hatırlatması, paylaşım, hata bildirimi.
 import type { KartRef } from "./types";
 import { AYT_TARIHI, YKS_TARIHI } from "./yks";
+import { WEB_ADRES, metinPaylas, yerelMi } from "./yerel";
 
 /** Tarayıcıdan verinin kendiliğinden silinmemesini iste (Safari'nin 7 gün kuralına karşı) */
 export async function kaliciDepolamaIste(): Promise<boolean | null> {
@@ -23,6 +24,7 @@ export async function kaliciMi(): Promise<boolean | null> {
 
 /** Uygulama ana ekrana eklenmiş (standalone) olarak mı açık? */
 export function anaEkrandaMi(): boolean {
+  if (yerelMi) return true; // iOS uygulaması: Safari'nin 7 gün kuralı geçerli değil
   return (
     window.matchMedia?.("(display-mode: standalone)").matches ||
     (navigator as Navigator & { standalone?: boolean }).standalone === true
@@ -100,9 +102,9 @@ export function dosyaIndir(icerik: string, ad: string, tur: string) {
   setTimeout(() => URL.revokeObjectURL(a.href), 1000);
 }
 
-/** Uygulamanın kök adresi (hash'siz) */
+/** Uygulamanın kök adresi (hash'siz). iOS uygulamasında paylaşılabilir web adresi. */
 export function uygulamaAdresi(): string {
-  return window.location.href.split("#")[0];
+  return yerelMi ? WEB_ADRES : window.location.href.split("#")[0];
 }
 
 /** Arkadaşa meydan okuma: aynı soruları içeren bağlantı */
@@ -113,6 +115,7 @@ export function meydanLinki(uids: string[], ad: string, dogru: number): string {
 
 /** Paylaş menüsü varsa onu, yoksa panoya kopyalamayı dener. Sonucu metin olarak döner. */
 export async function paylas(baslik: string, metin: string, url: string): Promise<string> {
+  if (await metinPaylas(baslik, metin, url)) return "";
   try {
     if (navigator.share) {
       await navigator.share({ title: baslik, text: metin, url });
@@ -133,6 +136,7 @@ const DEPO = "https://github.com/eseslikaptan/akilda";
 
 /** "Bu kartta hata var": önceden doldurulmuş GitHub issue bağlantısı */
 export function hataBildirLinki(r: KartRef): string {
+  if (yerelMi) return `${WEB_ADRES}destek.html?kart=${encodeURIComponent(r.uid)}`;
   const k = r.kart;
   const metin =
     k.tur === "secmeli" ? k.soru : k.tur === "dy" ? k.ifade : k.tur === "bosluk" ? k.cumle : k.yonerge;

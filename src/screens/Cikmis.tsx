@@ -65,7 +65,7 @@ export function CikmisYillar({ dizin }: { dizin: Dizin }) {
       <div className="maskot-konusma">
         <Kivilcim duygu="selam" boyut={56} />
         <p className="balon">
-          2018'den 2026'ya her YKS'de ÖSYM'nin sorduğu {toplam} bilgi burada. Bir yılı seç, o sınavın bilgileriyle kendini dene.
+          2018'den 2026'ya her YKS'de ÖSYM'nin sorduğu {toplam.toLocaleString("tr-TR")} bilgi burada. Bir yılı seç, o sınavın bilgileriyle kendini dene.
         </p>
       </div>
       <section className="kutu cikmis-ozet">

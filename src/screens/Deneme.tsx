@@ -11,7 +11,7 @@ import { bildir } from "../bildirim";
 import { Kivilcim } from "../maskot";
 import { konfeti } from "../konfeti";
 import { DERSLER } from "../subjects";
-import { SORU_SAYISI, net } from "../yks";
+import { SORU_SAYISI, net, netYaz } from "../yks";
 import type { Sinav } from "../kurslar";
 import { git } from "../router";
 import { HARFLER } from "../sorular";
@@ -82,7 +82,7 @@ export function DenemeSecim({ dizin }: { dizin: Dizin }) {
                 <li key={k.tarih}>
                   <span className={`sinav-rozet ${k.sinav.toLowerCase()}`}>{k.sinav}</span>
                   <span>{new Date(k.tarih).toLocaleDateString("tr-TR", { day: "numeric", month: "short" })}</span>
-                  <strong>{net(toplam.d, toplam.y)} net</strong>
+                  <strong>{netYaz(net(toplam.d, toplam.y))} net</strong>
                   <span className="soluk-metin">
                     {toplam.d}D {toplam.y}Y {toplam.b}B
                   </span>
@@ -263,7 +263,7 @@ function DenemeSonuc({ sorular, cevaplar, sinav, dizin }: { sorular: DenemeSoru[
       <div className="sonuc-ust">
         <Kivilcim duygu={oran >= 0.6 ? "coskulu" : oran >= 0.3 ? "mutlu" : "dusunceli"} boyut={96} className="zipla" />
         <span className={`sinav-rozet ${sinav.toLowerCase()}`}>{sinav} bilgi denemesi</span>
-        <h1>{toplam.n} net</h1>
+        <h1>{netYaz(toplam.n)} net</h1>
         <p>
           {toplam.d} doğru · {toplam.y} yanlış · {toplam.b} boş
         </p>
@@ -291,7 +291,7 @@ function DenemeSonuc({ sorular, cevaplar, sinav, dizin }: { sorular: DenemeSoru[
                 <td>{r.y}</td>
                 <td>{r.b}</td>
                 <td>
-                  <strong>{r.n}</strong>
+                  <strong>{netYaz(r.n)}</strong>
                 </td>
               </tr>
             );

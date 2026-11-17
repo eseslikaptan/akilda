@@ -5,8 +5,9 @@ import { ALANLAR, alanBilgi, alandaMi, type AlanKey } from "../kurslar";
 import { kursAdi } from "./Dersler";
 import { ayarlariGuncelle, disaAktar, gunAnahtari, iceAktar, seri, sifirla, sonTurBaslat, useIlerleme, yedekAlindi } from "../store";
 import { dosyaIndir, kaliciDepolamaIste, kaliciMi, takvimDosyasi, uygulamaAdresi } from "../araclar";
-import { net } from "../yks";
+import { net, netYaz } from "../yks";
 import { ROZETLER, rutbe, seviyeHesapla } from "../rutbe";
+import { dosyaPaylas, hatirlatmaKaldir, hatirlatmaKur, hatirlatmaVarMi, yerelMi } from "../yerel";
 import { Kivilcim } from "../maskot";
 import { seviye } from "../srs";
 import { DERSLER } from "../subjects";
@@ -52,14 +53,19 @@ export function Profil({ dizin }: { dizin: Dizin }) {
 
   const [saat, setSaat] = useState("20:00");
   const [kalici, setKalici] = useState<boolean | null>(null);
+  const [bildirimVar, setBildirimVar] = useState(false);
+  const [bildirimMesaj, setBildirimMesaj] = useState("");
   useEffect(() => {
-    kaliciMi().then(setKalici);
+    if (!yerelMi) kaliciMi().then(setKalici);
+    hatirlatmaVarMi().then(setBildirimVar);
   }, []);
 
-  const yedekIndir = () => {
-    dosyaIndir(disaAktar(), `akilda-yedek-${gunAnahtari()}.json`, "application/json");
+  const yedekIndir = async () => {
+    const ad = `akilda-yedek-${gunAnahtari()}.json`;
+    if (yerelMi) await dosyaPaylas(disaAktar(), ad);
+    else dosyaIndir(disaAktar(), ad, "application/json");
     yedekAlindi();
-    setMesaj("Yedek indirildi.");
+    setMesaj(yerelMi ? "Yedeği Dosyalar'a kaydedebilir ya da kendine gönderebilirsin." : "Yedek indirildi.");
   };
 
   const yedekYukle = async (f: File) => {
@@ -157,7 +163,7 @@ export function Profil({ dizin }: { dizin: Dizin }) {
               const t = Object.values(k.dersler).reduce((a, x) => ({ d: a.d + x!.d, y: a.y + x!.y, n: a.n + x!.d + x!.y + x!.b }), { d: 0, y: 0, n: 0 });
               const oran = t.n ? Math.max(0, net(t.d, t.y) / t.n) : 0;
               return (
-                <span key={k.tarih} className={`net-sutun ${k.sinav.toLowerCase()}`} title={`${k.sinav}: ${net(t.d, t.y)} net / ${t.n} soru`}>
+                <span key={k.tarih} className={`net-sutun ${k.sinav.toLowerCase()}`} title={`${k.sinav}: ${netYaz(net(t.d, t.y))} net / ${t.n} soru`}>
                   <span style={{ height: `${Math.max(4, oran * 100)}%` }} />
                 </span>
               );
@@ -256,23 +262,50 @@ export function Profil({ dizin }: { dizin: Dizin }) {
       <section className="kutu">
         <h2 className="bolum-baslik">Hatırlatma</h2>
         <p className="soluk-metin">
-          Takvimine her gün bir tekrar hatırlatması ve 2027 YKS günleri eklenir. Bildirimi telefonunun kendi takvimi gönderir.
+          {yerelMi
+            ? "Kıvılcım her gün seçtiğin saatte bildirim gönderir."
+            : "Takvimine her gün bir tekrar hatırlatması ve 2027 YKS günleri eklenir. Bildirimi telefonunun kendi takvimi gönderir."}
         </p>
         <div className="dugme-satir">
           <label className="saat-alan">
             <span>Saat</span>
             <input id="hatirlatma-saati" type="time" value={saat} onChange={(e) => setSaat(e.target.value || "20:00")} />
           </label>
-          <button className="dugme ikincil" onClick={() => dosyaIndir(takvimDosyasi(saat, uygulamaAdresi()), "akilda-hatirlatma.ics", "text/calendar")}>
-            Takvime ekle
-          </button>
+          {yerelMi ? (
+            <button
+              className="dugme ikincil"
+              onClick={async () => {
+                setBildirimMesaj(await hatirlatmaKur(saat));
+                setBildirimVar(await hatirlatmaVarMi());
+              }}
+            >
+              {bildirimVar ? "Saati güncelle" : "Bildirimi aç"}
+            </button>
+          ) : (
+            <button className="dugme ikincil" onClick={() => dosyaIndir(takvimDosyasi(saat, uygulamaAdresi()), "akilda-hatirlatma.ics", "text/calendar")}>
+              Takvime ekle
+            </button>
+          )}
         </div>
+        {yerelMi && bildirimVar && (
+          <button
+            className="metin-dugme"
+            onClick={async () => {
+              await hatirlatmaKaldir();
+              setBildirimVar(false);
+              setBildirimMesaj("Hatırlatma kapatıldı.");
+            }}
+          >
+            Hatırlatmayı kapat
+          </button>
+        )}
+        {bildirimMesaj && <p className="soluk-metin">{bildirimMesaj}</p>}
       </section>
 
       <section className="kutu">
         <h2 className="bolum-baslik">Verilerin</h2>
         <p className="soluk-metin">
-          İlerlemen yalnızca bu cihazda saklanır. Cihaz değiştirirken yedek al.
+          İlerlemen yalnızca bu {yerelMi ? "telefonda" : "cihazda"} saklanır. Cihaz değiştirirken yedek al.
           {p.sonYedek ? ` Son yedek: ${new Date(p.sonYedek).toLocaleDateString("tr-TR")}.` : " Henüz yedek almadın."}
         </p>
         <p className="soluk-metin">
