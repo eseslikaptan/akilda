@@ -28,13 +28,25 @@ def clean(text: str) -> str:
     return text.strip()
 
 
+def harf_harf_mi(text: str) -> bool:
+    """Taranmış (OCR'lı) PDF'lerde kelimeler harf harf bölünebilir: "Ç e vr e s or u nl arı"."""
+    kelimeler = re.findall(r"\w+", text)
+    if len(kelimeler) < 200:
+        return False
+    tek = sum(1 for k in kelimeler if len(k) <= 2)
+    return tek / len(kelimeler) > 0.45
+
+
 def extract(pdf: Path) -> Path:
     TEXT_DIR.mkdir(parents=True, exist_ok=True)
     out = TEXT_DIR / f"{pdf.stem}.txt"
     with fitz.open(pdf) as doc:
-        parts = []
-        for i, page in enumerate(doc, start=1):
-            parts.append(f"=== SAYFA {i} ===\n{clean(page.get_text('text'))}")
+        sayfalar = [page.get_text("text") for page in doc]
+        if harf_harf_mi("\n".join(sayfalar)):
+            # Kelime içine boşluk eklenmesini engelleyerek yeniden çıkar
+            sayfalar = [page.get_text("text", flags=fitz.TEXT_INHIBIT_SPACES) for page in doc]
+            print(f"  {pdf.name}: harf harf bölünmüş metin algılandı, bitişik çıkarıldı")
+    parts = [f"=== SAYFA {i} ===\n{clean(t)}" for i, t in enumerate(sayfalar, start=1)]
     out.write_text("\n\n".join(parts) + "\n", "utf-8")
     return out
 
