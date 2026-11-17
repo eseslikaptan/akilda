@@ -86,7 +86,7 @@ export function seviye(d: KartDurum | undefined): 0 | 1 | 2 | 3 {
 
 export function sureMetni(gun: number): string {
   if (gun < 1 / 24) return "birazdan";
-  if (gun < 1) return `${Math.round(gun * 24)} saat`;
+  if (gun < 0.9) return `${Math.max(1, Math.round(gun * 24))} saat`;
   if (gun < 30) return `${Math.round(gun)} gün`;
   if (gun < 365) return `${Math.round(gun / 30)} ay`;
   return "1 yıl+";
