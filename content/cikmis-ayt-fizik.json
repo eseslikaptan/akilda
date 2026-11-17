@@ -1,0 +1,1479 @@
+{
+ "kitap": "cikmis-ayt-fizik",
+ "tip": "cikmis",
+ "ders": "fizik",
+ "sinav": "AYT",
+ "baslik": "YKS Çıkmış Sorular 2018-2026 AYT Sayısal",
+ "sayfaUrl": "https://ogmmateryal.eba.gov.tr/yks-cikmis-soru-kitaplari",
+ "pdfUrl": "https://ogm-small-cdn.eba.gov.tr/ogm-test-images/6abbe07510f5ec2735b6cda6/CS_AYT_SAY_2018_2026.pdf",
+ "testUrl": "https://ogmmateryal.eba.gov.tr/ogm-test/book/6abbe72f10f5ec2735b6e6a5",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Fizik",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Vektörler",
+     "soruSayisi": 1,
+     "eslesen": [
+      "fizik-9/2.3",
+      "fizik-9/2.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "dy",
+       "ifade": "Yer değiştirme, izlenen yoldan bağımsız olarak yalnızca ilk ve son konuma bağlı vektörel bir niceliktir.",
+       "dogru": true,
+       "bilgi": "Art arda yapılan yer değiştirmeler vektörel olarak toplanır; iki nokta arasındaki en kısa yol, ilk konumdan son konuma çizilen vektördür.",
+       "sayfa": 115,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "Bağıl Hareket",
+     "soruSayisi": 3,
+     "eslesen": [
+      "fizik-10/1.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "dy",
+       "ifade": "Sabit hızla giden bir vagondaki kişinin kendine göre düşey yukarı attığı top, yerdeki durgun gözlemciye göre de düşey bir doğru boyunca hareket eder.",
+       "dogru": false,
+       "bilgi": "Top atıldığı anda vagonun yatay hızına da sahip olduğundan yerdeki gözlemci topu eğik atış yaparken, yani parabolik bir yolda görür.",
+       "sayfa": 115,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.2-02",
+       "tur": "bosluk",
+       "cumle": "Bir cismin hareket hâlindeki bir gözlemciye göre olan hızına ___ hız denir.",
+       "cevap": "bağıl",
+       "celdiriciler": [
+        "ortalama",
+        "anlık",
+        "limit"
+       ],
+       "bilgi": "Bir cismin bir gözlemciye göre hızı, cismin yere göre hızından gözlemcinin yere göre hızı vektörel olarak çıkarılarak bulunur.",
+       "sayfa": 116,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "Newton’ın Hareket Yasaları",
+     "soruSayisi": 7,
+     "eslesen": [
+      "fizik-11/1.3",
+      "fizik-11/1.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "dy",
+       "ifade": "Düz yolda sabit hızla giden bir kamyonun kasasında kamyona göre duran sandığa, kamyon hareket yönünde yatay bir kuvvet uygular.",
+       "dogru": false,
+       "bilgi": "Sabit hızla giden sandığa etki eden net kuvvet sıfırdır; yatay kuvvet yoktur, düşeyde ağırlık ile kasanın tepki kuvveti dengelenir.",
+       "sayfa": 117,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.3-02",
+       "tur": "secmeli",
+       "soru": "Sürtünmesiz yatay düzlemde balondan çıkan havanın etkisiyle hızlanan oyuncak arabanın balonundaki hava bittiğinde araba nasıl hareket eder?",
+       "secenekler": [
+        "Yavaşlayarak durur",
+        "Sabit hızla hareketine devam eder",
+        "Hızlanmaya devam eder",
+        "Ters yönde hareket etmeye başlar"
+       ],
+       "dogru": 1,
+       "bilgi": "Hava çıkarken etki-tepki ilkesiyle araba ters yönde itilip hızlanır; net kuvvet sıfırlanınca eylemsizlik nedeniyle sabit hızla gider.",
+       "sayfa": 118,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.4",
+     "ad": "Bir Boyutta Sabit İvmeli Hareket",
+     "soruSayisi": 5,
+     "eslesen": [
+      "fizik-10/1.2",
+      "fizik-11/1.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.4-01",
+       "tur": "dy",
+       "ifade": "Çembersel yörüngede döndürülen bir taşın ipi koptuğu anda taş, o andaki hızının doğrultusunda, yani çembere teğet doğrultuda hareket etmeye başlar.",
+       "dogru": true,
+       "bilgi": "İp kopunca merkezcil kuvvet ortadan kalkar; hız ve ivmenin paralel kalması (düz bir çizgide düşmesi) için kopma anında hızın düşey olması gerekir.",
+       "sayfa": 119,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.4-02",
+       "tur": "dy",
+       "ifade": "Hava direncinin olmadığı ortamda aynı yükseklikten serbest bırakılan bir top ile kuş tüyüne etki eden net kuvvetler eşittir.",
+       "dogru": false,
+       "bilgi": "İkisinin de ivmesi g olduğundan aynı anda yere düşerler; net kuvvet ise ağırlığa eşit olduğundan kütlesi büyük olan topta daha büyüktür.",
+       "sayfa": 119,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.5",
+     "ad": "İki Boyutta Hareket",
+     "soruSayisi": 5,
+     "eslesen": [
+      "fizik-11/1.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.5-01",
+       "tur": "secmeli",
+       "soru": "Hava direncinin ihmal edildiği eğik atışta, cisim yükselirken ve alçalırken değişmeyen nicelik hangisidir?",
+       "secenekler": [
+        "Hızın düşey bileşeni",
+        "Kinetik enerji",
+        "Hızın yatay bileşeni",
+        "Yerden yükseklik"
+       ],
+       "dogru": 2,
+       "bilgi": "Eğik atışta ivme her an düşey aşağı yönlüdür; yatay hız bileşeni ve toplam mekanik enerji sabit kalır, düşey bileşen ise sürekli değişir.",
+       "sayfa": 121,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.5-02",
+       "tur": "dy",
+       "ifade": "Aynı noktadan aynı büyüklükte ilk hızla farklı doğrultularda atılan cisimler, hava direnci yoksa yere aynı süratle çarpar.",
+       "dogru": true,
+       "bilgi": "Mekanik enerji korunduğundan aynı yükseklikten aynı süratle atılan cisimlerin yere çarpma süratleri atış doğrultusundan bağımsızdır.",
+       "sayfa": 121,
+       "yil": "2021-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.6",
+     "ad": "Enerji ve Hareket",
+     "soruSayisi": 3,
+     "eslesen": [
+      "fizik-10/2.3",
+      "fizik-10/2.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.6-01",
+       "tur": "dy",
+       "ifade": "Esneklik sınırı aşılmadan aynı büyüklükte kuvvetle dengede tutulan bir yayda depolanan enerji, yay sıkıştırılsa da gerilse de aynıdır.",
+       "dogru": true,
+       "bilgi": "Yayın esneklik potansiyel enerjisi boyundaki değişime bağlıdır; aynı büyüklükte kuvvet, sıkıştırmada ve germede aynı miktarda boy değişimi oluşturur.",
+       "sayfa": 123,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.6-02",
+       "tur": "bosluk",
+       "cumle": "Yer çekimi kuvvetinin bir cisim üzerinde yaptığı iş, izlenen yoldan bağımsız olup yalnızca ___ farkına bağlıdır.",
+       "cevap": "yükseklik",
+       "celdiriciler": [
+        "hız",
+        "zaman",
+        "yol uzunluğu"
+       ],
+       "bilgi": "Sürtünmesiz farklı yollardan aynı yükseklikten inen özdeş cisimlerde yer çekiminin işi ve son süratler aynıdır; iniş süreleri ise farklı olabilir.",
+       "sayfa": 123,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.7",
+     "ad": "İtme ve Çizgisel Momentum",
+     "soruSayisi": 6,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.7-01",
+       "tur": "dy",
+       "ifade": "Sürtünmesiz buzda birbirini iterek ayrılan iki patenciden kütlesi küçük olanın hızı daha büyüktür.",
+       "dogru": true,
+       "bilgi": "Patenciler birbirine eşit büyüklükte kuvvet uygular; momentum korunduğundan momentumların büyüklükleri eşit olur ve kütlesi küçük olan daha hızlı gider.",
+       "sayfa": 124,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.7-02",
+       "tur": "dy",
+       "ifade": "Eşit kütleli iki cisim merkezî ve esnek çarpıştığında birbirine yapışarak birlikte hareket eder.",
+       "dogru": false,
+       "bilgi": "Esnek çarpışmada cisimler yapışmaz ve kinetik enerji korunur; eşit kütleli cisimlerin merkezî esnek çarpışmasında hızlar değiş tokuş edilir.",
+       "sayfa": 124,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.7-03",
+       "tur": "secmeli",
+       "soru": "Köpüğe sarılan bir yumurtanın aynı yükseklikten sert zemine düştüğünde kırılmamasının nedeni nedir?",
+       "secenekler": [
+        "Çarpışma süresini uzatıp zeminin uyguladığı ortalama kuvveti azaltması",
+        "Yumurtanın momentum değişimini artırması",
+        "Yumurtanın zemine çarpma süratini artırması",
+        "Çarpışma süresini kısaltarak itmeyi sıfırlaması"
+       ],
+       "dogru": 0,
+       "bilgi": "İtme momentum değişimine eşittir; momentum değişimi aynı kalırken etkileşme süresi uzarsa ortalama kuvvet azalır. Hava yastığı ve kask da bu ilkeyle çalışır.",
+       "sayfa": 125,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.7-04",
+       "tur": "dy",
+       "ifade": "Eğik atış yapan bir cismin momentumunun büyüklüğü, yörüngenin tepe noktasında en küçük değerini alır.",
+       "dogru": true,
+       "bilgi": "Momentumun büyüklüğü süratle orantılıdır; tepe noktasında hızın yalnızca yatay bileşeni kaldığından sürat ve momentum en küçüktür.",
+       "sayfa": 125,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.8",
+     "ad": "Tork",
+     "soruSayisi": 3,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.8-01",
+       "tur": "dy",
+       "ifade": "Sabit bir eksen etrafında dönebilen bir çubuk dengedeyse, çubuğa etki eden kuvvetlerin bu eksene göre torklarının toplamı sıfırdır.",
+       "dogru": true,
+       "bilgi": "Dönme dengesinde saat yönündeki torkların toplamı, saatin tersi yönündeki torkların toplamına eşittir.",
+       "sayfa": 125,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.8-02",
+       "tur": "secmeli",
+       "soru": "Bir döner kapıyı aynı büyüklükte kuvvetle en kolay döndürmek için kuvvet nasıl uygulanmalıdır?",
+       "secenekler": [
+        "Eksene en yakın noktadan, kapı yüzeyine dik olarak",
+        "Eksenden en uzak noktadan, kapı yüzeyine paralel olarak",
+        "Doğrudan dönme ekseninin üzerinden",
+        "Eksenden en uzak noktadan, kapı yüzeyine dik olarak"
+       ],
+       "dogru": 3,
+       "bilgi": "Tork, kuvvetin büyüklüğü ile kuvvetin dönme eksenine dik uzaklığının çarpımıdır; zıt yönlü torklar birbirini dengelemezse kapı döner.",
+       "sayfa": 126,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.9",
+     "ad": "Denge ve Denge Şartları",
+     "soruSayisi": 3,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.9-01",
+       "tur": "dy",
+       "ifade": "Bir cisme etki eden kuvvetlerin bileşkesi sıfırsa cismin çizgisel momentumu da kesinlikle sıfırdır.",
+       "dogru": false,
+       "bilgi": "Net kuvvet sıfırsa kütle merkezinin ivmesi sıfırdır; cisim sabit hızla gidebileceği için momentumu sıfır olmayabilir, net tork da sıfır olmak zorunda değildir.",
+       "sayfa": 126,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.9-02",
+       "tur": "secmeli",
+       "soru": "Tek tekerlekli bir el arabasındaki yük tekerleğin eksenine yaklaştırılırsa arabayı dengede tutmak için kollara uygulanan kuvvet nasıl değişir?",
+       "secenekler": [
+        "Artar",
+        "Azalır",
+        "Değişmez"
+       ],
+       "dogru": 1,
+       "bilgi": "Yükün tekerlek eksenine göre torku azalınca onu dengeleyen kuvvetin torku, dolayısıyla kuvvet de azalır; dengede net tork daima sıfırdır.",
+       "sayfa": 127,
+       "yil": "2021-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.10",
+     "ad": "Basit Makineler",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.10-01",
+       "tur": "dy",
+       "ifade": "Makasla sert bir teli keserken teli bıçakların birleştiği destek noktasına yaklaştırmak, tele uygulanan kuvveti artırır.",
+       "dogru": true,
+       "bilgi": "Makas, destek noktası ortada olan bir kaldıraçtır; yük kolu kısalıp kuvvet kolu uzadıkça aynı el kuvvetiyle tele daha büyük kuvvet uygulanır.",
+       "sayfa": 128,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.10-02",
+       "tur": "secmeli",
+       "soru": "Ağır bir yükü eğik düzlemde sabit hızla çekerek yükseltmenin, doğrudan kaldırmaya göre sağladığı kazanç hangisidir?",
+       "secenekler": [
+        "Daha az iş yapılması",
+        "Daha küçük kuvvet uygulanması",
+        "Daha kısa yol alınması",
+        "Daha az enerji harcanması"
+       ],
+       "dogru": 1,
+       "bilgi": "Basit makineler işten kazanç sağlamaz; eğik düzlemde kuvvetten kazanılırken yoldan kaybedilir.",
+       "sayfa": 128,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.11",
+     "ad": "Elektriksel Kuvvet ve Elektrik Alan",
+     "soruSayisi": 1,
+     "eslesen": [
+      "fizik-11/2.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.11-01",
+       "tur": "dy",
+       "ifade": "İki noktasal yük arasındaki elektriksel kuvvetin büyüklüğü, yükler arasındaki uzaklığın karesiyle ters orantılıdır.",
+       "dogru": true,
+       "bilgi": "Coulomb yasasına göre aynı cins yükler iter, zıt cins yükler çeker; bir yüke etki eden toplam kuvvet, diğer yüklerin kuvvetlerinin vektörel toplamıdır.",
+       "sayfa": 128,
+       "yil": "2021-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.12",
+     "ad": "Elektriksel Potansiyel",
+     "soruSayisi": 4,
+     "eslesen": [
+      "fizik-11/2.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.12-01",
+       "tur": "dy",
+       "ifade": "Farklı yarıçaplı iki iletken küre birbirine dokundurulduğunda yük geçişi, kürelerin yükleri eşitlenene kadar sürer.",
+       "dogru": false,
+       "bilgi": "Yük geçişi küre yüzeylerindeki potansiyeller eşitlenince durur; yükler yarıçaplarla orantılı paylaşılır ve küreler aynı cins yükle yüklenir.",
+       "sayfa": 129,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.12-02",
+       "tur": "dy",
+       "ifade": "Elektrik alanda bir yükü iki nokta arasında taşırken yapılan iş izlenen yola bağlı değildir, iki noktanın potansiyel farkına bağlıdır.",
+       "dogru": true,
+       "bilgi": "Yapılan iş yük ile potansiyel farkının çarpımına bağlıdır; aynı eş potansiyel yüzey üzerinde yük taşımak iş gerektirmez.",
+       "sayfa": 130,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.13",
+     "ad": "Düzgün Elektrik Alan ve Sığa",
+     "soruSayisi": 3,
+     "eslesen": [
+      "fizik-11/2.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.13-01",
+       "tur": "secmeli",
+       "soru": "Yatay düzgün elektrik alanda ipe asılı olarak dengede duran yüklü bir cismin ipinin düşeyle yaptığı açı hangi değişiklikle artar?",
+       "secenekler": [
+        "Cismin kütlesini artırmak",
+        "İpin uzunluğunu artırmak",
+        "Elektrik alanın büyüklüğünü artırmak",
+        "İpin uzunluğunu azaltmak"
+       ],
+       "dogru": 2,
+       "bilgi": "Açı, elektriksel kuvvetin ağırlığa oranıyla belirlenir: alan büyürse açı artar, kütle artarsa azalır; ipin uzunluğu açıyı etkilemez.",
+       "sayfa": 130,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.13-02",
+       "tur": "dy",
+       "ifade": "Düzgün elektrik alana giren negatif yüklü bir parçacığa, alan çizgileriyle aynı yönde elektriksel kuvvet etki eder.",
+       "dogru": false,
+       "bilgi": "Pozitif yüke alan yönünde, negatif yüke alana zıt yönde kuvvet etki eder; alana dik giren zıt yüklü parçacıklar zıt yönlere parabolik yolla sapar.",
+       "sayfa": 131,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.13-03",
+       "tur": "bosluk",
+       "cumle": "Bir düzlem sığacın sığası levhaların yüzey alanına, levhalar arasındaki uzaklığa ve aradaki ___ bağlıdır; uygulanan gerilime bağlı değildir.",
+       "cevap": "yalıtkanın cinsine",
+       "celdiriciler": [
+        "gerilimin büyüklüğüne",
+        "yükün işaretine",
+        "akımın şiddetine"
+       ],
+       "bilgi": "Sığası büyük tam dolu bir sığaç daha çok enerji depolar; flaşta sığaç boşaldıkça üzerindeki yük azalır.",
+       "sayfa": 131,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.14",
+     "ad": "Manyetizma ve Elektromanyetik İndüklenme",
+     "soruSayisi": 9,
+     "eslesen": [
+      "fizik-11/2.2",
+      "fizik-11/2.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.14-01",
+       "tur": "dy",
+       "ifade": "Manyetik alan içindeki, içinden akım geçen bir iletken çubuğa, akım alan çizgilerine paralel değilse manyetik kuvvet etki eder.",
+       "dogru": true,
+       "bilgi": "Akım taşıyan iletkene etki eden manyetik kuvvet hem akıma hem alana diktir; raylar üzerindeki serbest çubuk bu kuvvetle hızlanarak harekete geçer.",
+       "sayfa": 132,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.14-02",
+       "tur": "bosluk",
+       "cumle": "İndüksiyon akımının yönü, kendisini oluşturan manyetik akı değişimine karşı koyacak biçimdedir; bu ilke ___ yasası olarak bilinir.",
+       "cevap": "Lenz",
+       "celdiriciler": [
+        "Ohm",
+        "Coulomb",
+        "Kepler"
+       ],
+       "bilgi": "İletken bir bilezikten geçen mıknatıs bilezikte akım oluşturur, bu akım mıknatısın hareketine karşı koyar; mıknatıs aynı anda bırakılan bir silgiden daha yavaş düşer.",
+       "sayfa": 132,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.14-03",
+       "tur": "bosluk",
+       "cumle": "Manyetik alanda alan çizgilerini kesecek biçimde hareket eden iletken bir çubuğun uçları arasında oluşan potansiyel farkına ___ denir.",
+       "cevap": "indüksiyon emk'sı",
+       "celdiriciler": [
+        "durdurma gerilimi",
+        "etkin gerilim",
+        "eşik gerilimi"
+       ],
+       "bilgi": "Hareket eden iletkendeki serbest yüklere manyetik kuvvet etki eder; yükler çubuğun uçlarında toplanır ve uçlar zıt işaretle yüklenir.",
+       "sayfa": 133,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.14-04",
+       "tur": "bosluk",
+       "cumle": "İçinden akım geçtiğinde mıknatıs gibi davranıp demir cisimleri çeken, akım kesilince bu özelliğini yitiren bobine ___ denir.",
+       "cevap": "elektromıknatıs",
+       "celdiriciler": [
+        "transformatör",
+        "sığaç",
+        "reosta"
+       ],
+       "bilgi": "Bobine çekilen demir bilye devreyi açarsa düşer, düşünce devre yeniden kapanır ve bilye tekrar çekilir; böylece bilye periyodik olarak yukarı aşağı hareket eder.",
+       "sayfa": 133,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.14-05",
+       "tur": "dy",
+       "ifade": "Düzgün manyetik alana alan çizgilerine dik giren yüklü bir parçacık çembersel yörünge izler.",
+       "dogru": true,
+       "bilgi": "Manyetik kuvvet hıza dik olduğundan süratini değiştirmez, yörüngeyi çembere çevirir; hız doğrultusundaki elektrik alan ise parçacığı doğrusal yolda hızlandırır.",
+       "sayfa": 134,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.14-06",
+       "tur": "secmeli",
+       "soru": "Bir ampermetrede aynı akım geçerken ibrenin daha fazla sapmasını hangi değişiklik sağlar?",
+       "secenekler": [
+        "Mıknatısın kutupları arasındaki uzaklığı azaltmak",
+        "Mıknatısın kutupları arasındaki uzaklığı artırmak",
+        "Daha zayıf bir mıknatıs kullanmak",
+        "Çerçevedeki sarım sayısını azaltmak"
+       ],
+       "dogru": 0,
+       "bilgi": "Çerçeveye etki eden manyetik kuvvet akım ve manyetik alan şiddetiyle artar; daha güçlü bir mıknatıs ya da birbirine yaklaştırılmış kutuplar ibreyi daha çok saptırır.",
+       "sayfa": 134,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.14-07",
+       "tur": "dy",
+       "ifade": "Manyetik alana aynı hızla dik giren pozitif ve negatif yüklü parçacıklar aynı yöne sapar.",
+       "dogru": false,
+       "bilgi": "Manyetik kuvvetin yönü yükün işaretine bağlıdır; zıt yüklü parçacıklar zıt yönlere sapar, nötr parçacıklar ise sapmadan geçer.",
+       "sayfa": 135,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.14-08",
+       "tur": "secmeli",
+       "soru": "Düzgün manyetik alandaki bir yüzeyden geçen manyetik akı, yüzey hangi konumdayken en büyüktür?",
+       "secenekler": [
+        "Yüzey alan çizgilerine paralel iken",
+        "Yüzey alan çizgilerine dik iken",
+        "Yüzey alan çizgileriyle 30° açı yaparken"
+       ],
+       "dogru": 1,
+       "bilgi": "Manyetik akı alan şiddetine ve yüzeyin alana dik izdüşüm alanına bağlıdır; yüzey alana dik iken en büyük, paralel iken sıfırdır.",
+       "sayfa": 136,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.15",
+     "ad": "Alternatif Akım",
+     "soruSayisi": 6,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.15-01",
+       "tur": "dy",
+       "ifade": "Sığaç (kondansatör), düşük frekanslı alternatif akıma yüksek frekanslı akıma göre daha büyük direnç gösterir.",
+       "dogru": true,
+       "bilgi": "Sığacın direnci (kapasitif reaktans) frekans arttıkça azalır; bu yüzden ses devresinde bas sesleri tiz seslerden daha çok zayıflatır.",
+       "sayfa": 136,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.15-02",
+       "tur": "bosluk",
+       "cumle": "Elektrik enerjisi iletim hatlarında yüksek gerilim ve düşük akımla taşınır; böylece hatlarda ısıya dönüşen ___ azaltılır.",
+       "cevap": "enerji kaybı",
+       "celdiriciler": [
+        "gerilim",
+        "frekans",
+        "manyetik akı"
+       ],
+       "bilgi": "İletim hattında ısıya dönüşen güç akımın karesiyle artar; gerilim yükseltilip akım düşürüldüğünde kayıp azalır.",
+       "sayfa": 137,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.15-03",
+       "tur": "eslestir",
+       "yonerge": "Devre elemanlarını, uygulanan alternatif gerilimin frekansı artınca dirençlerindeki değişimle eşleştir.",
+       "ciftler": [
+        [
+         "Bobin",
+         "Direnci artar"
+        ],
+        [
+         "Sığaç",
+         "Direnci azalır"
+        ],
+        [
+         "Omik direnç",
+         "Direnci değişmez"
+        ]
+       ],
+       "bilgi": "Bobinin indüktif direnci frekansla artar, sığacın kapasitif direnci frekansla azalır; omik direnç frekanstan bağımsızdır.",
+       "sayfa": 137,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.15-04",
+       "tur": "dy",
+       "ifade": "Seri bağlı direnç, bobin ve sığaçtan oluşan devre rezonans frekansındayken devrenin empedansı en küçük, akımı en büyüktür.",
+       "dogru": true,
+       "bilgi": "Rezonanstan sonra frekans artırılırsa bobinin direnci artar, empedans büyür ve etkin akım azalır; sığacın sığası frekansa bağlı değildir.",
+       "sayfa": 137,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.15-05",
+       "tur": "secmeli",
+       "soru": "Direnç ve sığaç içeren bir alternatif akım devresinin belirli bir frekansta saf dirençli gibi davranması için devreye hangi eleman eklenmelidir?",
+       "secenekler": [
+        "İkinci bir sığaç",
+        "Diyot",
+        "Bobin",
+        "İkinci bir direnç"
+       ],
+       "dogru": 2,
+       "bilgi": "Bobin ile sığacın dirençleri belirli bir frekansta birbirini dengeler (rezonans); devre saf dirençli gibi davranır ve akım en büyük değerini alır.",
+       "sayfa": 138,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.16",
+     "ad": "Transformatörler",
+     "soruSayisi": 4,
+     "eslesen": [
+      "fizik-11/2.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.16-01",
+       "tur": "dy",
+       "ifade": "Transformatörün primer sargısına sabit doğru akım uygulandığında sekonder sargıda sürekli bir gerilim oluşur.",
+       "dogru": false,
+       "bilgi": "Transformatör yalnızca değişen akımla çalışır; doğru akımda manyetik akı değişmediği için sekonderde gerilim indüklenmez.",
+       "sayfa": 139,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.16-02",
+       "tur": "secmeli",
+       "soru": "Santral çıkışında gerilimi yükselten transformatörün sarım sayıları için hangisi doğrudur?",
+       "secenekler": [
+        "Primer sarım sayısı sekonderinkinden fazladır",
+        "Sarım sayıları eşittir",
+        "Sekonder sarım sayısı primerinkinden fazladır"
+       ],
+       "dogru": 2,
+       "bilgi": "Santraldeki yükseltici transformatörde sekonder sarım sayısı fazladır; evlere yakın düşürücü transformatörde ise primer sarım sayısı fazladır.",
+       "sayfa": 139,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.16-03",
+       "tur": "dy",
+       "ifade": "Gerilimi 220 V'tan 110 V'a düşüren ideal bir transformatörde prize bağlanan sargının sarım sayısı, cihaza bağlanan sargınınkinin iki katıdır.",
+       "dogru": true,
+       "bilgi": "İdeal transformatörde gerilimler sarım sayılarıyla doğru orantılıdır; gerilimi düşürmek için yüksek gerilim çok sarımlı sargıya uygulanır.",
+       "sayfa": 140,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.16-04",
+       "tur": "bosluk",
+       "cumle": "İdeal olmayan bir transformatörde ısı ve manyetik kayıplar nedeniyle primer devrenin gücü, sekonder devrenin gücünden ___.",
+       "cevap": "büyüktür",
+       "celdiriciler": [
+        "küçüktür",
+        "eşittir"
+       ],
+       "bilgi": "Gerçek transformatörlerin verimi %100'den küçüktür; primer ve sekonder gerilimleri ise sarım sayılarına göre büyük ya da küçük olabilir.",
+       "sayfa": 140,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.17",
+     "ad": "Düzgün Çembersel Hareket",
+     "soruSayisi": 10,
+     "eslesen": [
+      "fizik-11/1.6"
+     ],
+     "kartlar": [
+      {
+       "id": "1.17-01",
+       "tur": "dy",
+       "ifade": "Salınım yapan bir sarkacın bilyesi en alt noktadan geçerken bilyeye etki eden net kuvvet sıfırdır.",
+       "dogru": false,
+       "bilgi": "En alt noktada hız yataydır; ip gerilmesi ağırlıktan büyük olduğundan net kuvvet ve merkezcil ivme yukarıya, asılma noktasına doğrudur.",
+       "sayfa": 141,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.17-02",
+       "tur": "dy",
+       "ifade": "Virajların yarıçapı küçültüldükçe araçların aynı süratle virajı güvenle dönmesi kolaylaşır.",
+       "dogru": false,
+       "bilgi": "Yarıçap küçüldükçe gereken merkezcil kuvvet artar; güvenli dönüş için büyük yarıçap, içe doğru eğimli yol ve yeterli sürtünme gerekir.",
+       "sayfa": 141,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.17-03",
+       "tur": "dy",
+       "ifade": "Sabit açısal hızla dönen dönme dolaptaki bir yolcuya etki eden merkezcil kuvvetin büyüklüğü, kabin hangi konumda olursa olsun aynıdır.",
+       "dogru": true,
+       "bilgi": "Düzgün çembersel harekette sürat ve yarıçap sabit olduğundan merkezcil kuvvetin büyüklüğü her noktada aynıdır; yalnızca yönü değişir.",
+       "sayfa": 141,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.17-04",
+       "tur": "dy",
+       "ifade": "Kinetik enerjisi sabit kalan hareketli bir cisme etki eden kuvvetlerin yaptığı toplam iş sıfırdır.",
+       "dogru": true,
+       "bilgi": "Net iş kinetik enerjideki değişime eşittir; düzgün çembersel harekette momentum yön değiştirse de net kuvvet iş yapmaz ve sıfır değildir.",
+       "sayfa": 142,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.17-05",
+       "tur": "secmeli",
+       "soru": "Sürtünmesiz yatay düzlemde düzgün çembersel hareket yapan noktasal bir cisim için aşağıdakilerden hangisi sıfırdır?",
+       "secenekler": [
+        "Net kuvvet",
+        "Merkezcil ivme",
+        "Çizgisel hız",
+        "Çember merkezine göre net tork"
+       ],
+       "dogru": 3,
+       "bilgi": "Net kuvvet merkeze yöneldiği için merkeze göre torku sıfırdır; net kuvvet ve merkezcil ivme ise sıfır değildir.",
+       "sayfa": 142,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.17-06",
+       "tur": "dy",
+       "ifade": "Dönen bir diskin merkezden uzak noktalarının açısal sürati, merkeze yakın noktalarınkinden büyüktür.",
+       "dogru": false,
+       "bilgi": "Dönen bir cismin bütün noktaları aynı açısal süratle döner; merkezden uzaklaştıkça çizgisel sürat artar.",
+       "sayfa": 142,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.17-07",
+       "tur": "dy",
+       "ifade": "Dünya çevresinde çembersel yörüngede dolanan bir uydunun yörünge sürati, yörünge yarıçapı büyüdükçe azalır.",
+       "dogru": true,
+       "bilgi": "Yörünge sürati uydunun kendi kütlesine bağlı değildir; aynı yükseklikteki yörüngelerde dolanan uyduların süratleri eşittir.",
+       "sayfa": 143,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.18",
+     "ad": "Dönerek Öteleme Hareketi",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.18-01",
+       "tur": "dy",
+       "ifade": "Bir cismin eylemsizlik momenti, cismin dönme ekseni etrafındaki dönüş yönüne bağlıdır.",
+       "dogru": false,
+       "bilgi": "Eylemsizlik momenti dönmeye karşı direncin ölçüsüdür; kütleye ve kütlenin eksene göre dağılımına bağlıdır, dönüş yönüne bağlı değildir.",
+       "sayfa": 144,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.18-02",
+       "tur": "secmeli",
+       "soru": "İp cambazının elindeki sırığın uçlarına ağırlık bağlaması dengesini neden kolaylaştırır?",
+       "secenekler": [
+        "Eylemsizlik momentini artırdığı için",
+        "Toplam ağırlığını azalttığı için",
+        "Açısal hızını artırdığı için",
+        "Eylemsizlik momentini azalttığı için"
+       ],
+       "dogru": 0,
+       "bilgi": "Kütle eksenden uzağa dağıldıkça eylemsizlik momenti artar ve devrilmeye karşı direnç büyür; aynı kütleli daha uzun sırık da aynı etkiyi yapar.",
+       "sayfa": 144,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.19",
+     "ad": "Açısal Momentum",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.19-01",
+       "tur": "bosluk",
+       "cumle": "Kollarını açıp dönen bir patenci kollarını vücuduna yaklaştırdığında açısal momentumu korunur, eylemsizlik momenti azalır ve açısal hızı ___.",
+       "cevap": "artar",
+       "celdiriciler": [
+        "azalır",
+        "değişmez",
+        "sıfırlanır"
+       ],
+       "bilgi": "Dış tork yoksa açısal momentum korunur; eylemsizlik momenti azalınca açısal hız artar.",
+       "sayfa": 144,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.19-02",
+       "tur": "dy",
+       "ifade": "Çizgisel momentum ile açısal momentum aynı birimle ifade edilir.",
+       "dogru": false,
+       "bilgi": "İkisi de vektöreldir; çizgisel momentum kg·m/s, açısal momentum kg·m²/s birimiyle ifade edilir ve yönleri farklıdır.",
+       "sayfa": 145,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.20",
+     "ad": "Kütle Çekim Kuvveti",
+     "soruSayisi": 3,
+     "eslesen": [
+      "fizik-9/2.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.20-01",
+       "tur": "dy",
+       "ifade": "Yerküre, Güneş'e en yakın olduğu ocak ayı başında yörüngesinde en hızlı hareket eder.",
+       "dogru": true,
+       "bilgi": "Güneş'e en yakın konumda (3 Ocak) Yerküre'nin hızı ve Güneş'in uyguladığı çekim kuvveti en büyüktür; açısal momentumu ise yörüngenin her yerinde aynıdır.",
+       "sayfa": 145,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.20-02",
+       "tur": "bosluk",
+       "cumle": "Ekvator düzleminde Yerküre'nin dönüş yönünde ve dönme periyoduyla dolandığı için yerden hep aynı noktada görünen uydulara ___ uydu denir.",
+       "cevap": "yer eşzamanlı",
+       "celdiriciler": [
+        "kutupsal",
+        "alçak yörüngeli",
+        "doğal"
+       ],
+       "bilgi": "Yerden bakıldığında doğuya kayan bir uydu Yerküre'den hızlı dolanıyordur; eşzamanlı olması için daha büyük yarıçaplı bir yörüngeye geçirilmelidir.",
+       "sayfa": 145,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.20-03",
+       "tur": "dy",
+       "ifade": "Düzgün çembersel yörüngede dolanan bir uyduya etki eden net kuvvet sıfırdır.",
+       "dogru": false,
+       "bilgi": "Uyduya etki eden çekim kuvveti merkeze yönelik net kuvvettir; hıza dik olduğundan iş yapmaz ve uydunun açısal momentumu sabit kalır.",
+       "sayfa": 146,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.21",
+     "ad": "Kepler Kanunları",
+     "soruSayisi": 3,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.21-01",
+       "tur": "secmeli",
+       "soru": "Eliptik yörüngede dolanan bir gezegenin Güneş'e yakın ve uzak olduğu konumlarda hangi niceliği aynıdır?",
+       "secenekler": [
+        "Çizgisel hızı",
+        "Güneş'in uyguladığı çekim kuvveti",
+        "Kinetik enerjisi",
+        "Güneş'e göre açısal momentumu"
+       ],
+       "dogru": 3,
+       "bilgi": "Gezegenin Güneş'e göre açısal momentumu korunur; bu yüzden Güneş'e yakınken daha hızlı, uzakken daha yavaş hareket eder.",
+       "sayfa": 146,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.21-02",
+       "tur": "dy",
+       "ifade": "Bir gezegenin çevresinde çembersel yörüngelerde dolanan parçacıklardan gezegene yakın olanın yörünge periyodu daha uzundur.",
+       "dogru": false,
+       "bilgi": "Kepler'in üçüncü yasasına göre yörünge yarıçapı küçüldükçe periyot kısalır; yakın parçacığın sürati, açısal sürati ve ivmesi daha büyüktür.",
+       "sayfa": 147,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.21-03",
+       "tur": "bosluk",
+       "cumle": "Kepler'in ikinci yasasına göre gezegeni Güneş'e birleştiren doğru parçası eşit zaman aralıklarında eşit ___ tarar.",
+       "cevap": "alanlar",
+       "celdiriciler": [
+        "açılar",
+        "yollar",
+        "hacimler"
+       ],
+       "bilgi": "Eşit sürelerde eşit alan taranması, gezegenin Güneş'e yakınken hızlı, uzakken yavaş gitmesi demektir; toplam mekanik enerji yörünge boyunca sabittir.",
+       "sayfa": 147,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.22",
+     "ad": "Basit Harmonik Hareket",
+     "soruSayisi": 9,
+     "eslesen": [
+      "fizik-10/4.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.22-01",
+       "tur": "dy",
+       "ifade": "Yaya bağlı bir cismin titreşim periyodu, cismin yatay, düşey ya da eğik düzlemde titreşmesine bağlı değildir.",
+       "dogru": true,
+       "bilgi": "Yay sarkacının periyodu yalnızca cismin kütlesine ve yay sabitine bağlıdır; yer çekimi ivmesi ve düzlemin eğimi periyodu değiştirmez.",
+       "sayfa": 148,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.22-02",
+       "tur": "secmeli",
+       "soru": "Yeryüzündeki bir basit sarkaç ile bir yay sarkacı Ay'a götürülürse periyotları nasıl değişir?",
+       "secenekler": [
+        "İkisininki de artar",
+        "Basit sarkacınki artar, yay sarkacınki değişmez",
+        "Basit sarkacınki değişmez, yay sarkacınki artar",
+        "İkisininki de azalır"
+       ],
+       "dogru": 1,
+       "bilgi": "Basit sarkacın periyodu yer çekimi ivmesi küçüldükçe artar; yay sarkacının periyodu ise yer çekimine bağlı olmadığından değişmez.",
+       "sayfa": 148,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.22-03",
+       "tur": "dy",
+       "ifade": "Basit harmonik hareket yapan cismin ivmesi, süratinin sıfır olduğu uç noktalarda en büyük değerini alır.",
+       "dogru": true,
+       "bilgi": "Uç noktalarda sürat sıfır, ivme ve yayın potansiyel enerjisi en büyüktür; denge noktasında ise sürat en büyük, ivme sıfırdır.",
+       "sayfa": 149,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.22-04",
+       "tur": "dy",
+       "ifade": "Basit sarkacın periyodu, salınan cismin kütlesi arttıkça artar.",
+       "dogru": false,
+       "bilgi": "Basit sarkacın periyodu ip uzunluğuna ve yer çekimi ivmesine bağlıdır, kütleden bağımsızdır; ip kısaldıkça periyot azalır.",
+       "sayfa": 150,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.22-05",
+       "tur": "secmeli",
+       "soru": "Basit harmonik hareket yapan bir cismin uzanımı artarken hangi niceliğin büyüklüğü azalır?",
+       "secenekler": [
+        "İvme",
+        "Geri çağırıcı kuvvet",
+        "Yayın potansiyel enerjisi",
+        "Hız"
+       ],
+       "dogru": 3,
+       "bilgi": "Uzanım arttıkça geri çağırıcı kuvvet ve ivme büyür, hız ise azalır; uç noktada hız sıfırdır.",
+       "sayfa": 150,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.22-06",
+       "tur": "bosluk",
+       "cumle": "Basit harmonik hareket yapan bir sarkacın sürati ___ konumunda en büyük değerini alır.",
+       "cevap": "denge",
+       "celdiriciler": [
+        "uç",
+        "dönüş",
+        "en yüksek"
+       ],
+       "bilgi": "Sarkaç denge konumundan uç noktalara doğru giderken yavaşlar; denge konumuna eşit uzaklıktaki noktalarda süratleri eşittir.",
+       "sayfa": 150,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.23",
+     "ad": "Dalgalarda Kırınım, Girişim ve Doppler Olayı",
+     "soruSayisi": 7,
+     "eslesen": [
+      "fizik-10/4.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.23-01",
+       "tur": "bosluk",
+       "cumle": "Eş fazlı iki kaynaktan çıkan dalgaların yıkıcı girişim yaptığı ve su yüzeyinin titreşmediği noktalara ___ noktası denir.",
+       "cevap": "düğüm",
+       "celdiriciler": [
+        "karın",
+        "tepe",
+        "odak"
+       ],
+       "bilgi": "Düğüm noktalarında bir dalganın tepesi ile diğerinin çukuru üst üste gelir; bu noktalardaki hafif cisimler dalgalardan etkilenmeden durur.",
+       "sayfa": 151,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.23-02",
+       "tur": "dy",
+       "ifade": "Çift yarık deneyinde yeşil ışık yerine kırmızı ışık kullanılırsa saçak genişliği artar.",
+       "dogru": true,
+       "bilgi": "Saçak genişliği dalga boyuyla doğru orantılıdır ve kırmızının dalga boyu daha büyüktür; merkezî aydınlık saçağın yeri değişmez.",
+       "sayfa": 151,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.23-03",
+       "tur": "dy",
+       "ifade": "Doppler olayı yalnızca ses gibi boyuna dalgalarda gözlenir.",
+       "dogru": false,
+       "bilgi": "Doppler olayı enine, boyuna ve elektromanyetik bütün dalga türlerinde gözlenebilir.",
+       "sayfa": 151,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.23-04",
+       "tur": "secmeli",
+       "soru": "Sabit frekansta ses yayan bir kaynak durgun bir gözlemciden uzaklaşırken gözlemcinin algıladığı frekans için hangisi doğrudur?",
+       "secenekler": [
+        "Kaynağın frekansından küçüktür",
+        "Kaynağın frekansından büyüktür",
+        "Kaynağın frekansına eşittir"
+       ],
+       "dogru": 0,
+       "bilgi": "Kaynak uzaklaşırken algılanan frekans düşer, yaklaşırken yükselir; kaynakla birlikte hareket eden gözlemci ise kaynağın frekansını duyar.",
+       "sayfa": 152,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.23-05",
+       "tur": "bosluk",
+       "cumle": "Tek yarıkta kırınım deseninin oluşması, yarık üzerindeki her noktanın yeni bir dalga kaynağı gibi davrandığını ifade eden ___ ilkesiyle açıklanır.",
+       "cevap": "Huygens",
+       "celdiriciler": [
+        "Pascal",
+        "Arşimet",
+        "Bernoulli"
+       ],
+       "bilgi": "Yarıktaki noktalardan çıkan dalgacıklar birbiriyle girişim yapar; bu yüzden tek yarıkta da aydınlık ve karanlık saçaklar oluşur.",
+       "sayfa": 152,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.23-06",
+       "tur": "dy",
+       "ifade": "Ses kaynağı ile gözlemci arasındaki uzaklık azalıyorsa gözlemci, kaynağın yaydığından daha yüksek frekansta ses işitir.",
+       "dogru": true,
+       "bilgi": "Belirleyici olan kaynak ile gözlemcinin birbirine göre hareketidir: aradaki uzaklık azalırken frekans yüksek, artarken düşük algılanır.",
+       "sayfa": 152,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.24",
+     "ad": "Elektromanyetik Dalgalar",
+     "soruSayisi": 4,
+     "eslesen": [
+      "fizik-10/4.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.24-01",
+       "tur": "dy",
+       "ifade": "Radyo vericisinden alıcı antene ulaşan dalgalar, yayılmak için maddesel ortama ihtiyaç duyan ses dalgalarıdır.",
+       "dogru": false,
+       "bilgi": "Radyo dalgaları enine elektromanyetik dalgalardır ve boşlukta da yayılır.",
+       "sayfa": 152,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.24-02",
+       "tur": "secmeli",
+       "soru": "X ışınlarının canlılara görünür ışıktan daha çok zarar vermesi, görünür ışığa göre hangi niceliğinin daha büyük olmasından kaynaklanır?",
+       "secenekler": [
+        "Dalga boyunun",
+        "Frekansının",
+        "Boşluktaki hızının"
+       ],
+       "dogru": 1,
+       "bilgi": "X ışınlarının frekansı ve foton enerjisi görünür ışıktan büyük, dalga boyu küçüktür; boşluktaki hızları ise aynıdır.",
+       "sayfa": 153,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.24-03",
+       "tur": "dy",
+       "ifade": "Kırmızı ışığın dalga boyu mavi ışığınkinden büyüktür.",
+       "dogru": true,
+       "bilgi": "Tüm elektromanyetik dalgalar boşlukta aynı hızla yayılır; X ışınlarının frekansı mikrodalgalarınkinden, mavi ışığınki kırmızınınkinden büyüktür.",
+       "sayfa": 153,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.24-04",
+       "tur": "bosluk",
+       "cumle": "Atom çekirdeklerinden yayılan ve elektromanyetik spektrumun en yüksek enerjili bölgesinde bulunan ışınlara ___ ışınları denir.",
+       "cevap": "gama",
+       "celdiriciler": [
+        "X",
+        "morötesi",
+        "kızılötesi"
+       ],
+       "bilgi": "Gama ışınları spektrumda en yüksek frekanslı ve enerjili dalgalardır; süpernova patlamaları gibi olaylarda da yayılır.",
+       "sayfa": 153,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.25",
+     "ad": "Atom Kavramının Tarihsel Gelişimi",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.25-01",
+       "tur": "bosluk",
+       "cumle": "Elektrik alan içindeki yağ damlalarını gözlemleyerek elektrik yükünün belirli bir temel değerin katları olduğunu gösteren deneyi ___ yapmıştır.",
+       "cevap": "Millikan",
+       "celdiriciler": [
+        "Thomson",
+        "Rutherford",
+        "Bohr"
+       ],
+       "bilgi": "Yağ damlası deneyinde damla sabit hızla hareket ediyorsa elektriksel kuvvet ağırlığı dengelemiştir; bu yolla elektronun yükü ölçülmüştür.",
+       "sayfa": 154,
+       "yil": "2026-AYT"
+      },
+      {
+       "id": "1.25-02",
+       "tur": "eslestir",
+       "yonerge": "Bilim insanlarını atom modeline katkılarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Thomson",
+         "Atomu, elektronların gömülü olduğu pozitif bir küre olarak tasarladı"
+        ],
+        [
+         "Rutherford",
+         "Atomda pozitif yüklü bir çekirdek bulunduğunu öne sürdü"
+        ],
+        [
+         "Bohr",
+         "Elektronların ışıma yapmadan kararlı yörüngelerde dolandığını öne sürdü"
+        ],
+        [
+         "Schrödinger",
+         "Elektronun olası konumlarını dalga denklemiyle açıkladı"
+        ]
+       ],
+       "bilgi": "Atom modellerinin tarihsel sırası Thomson, Rutherford (çekirdek), Bohr (kararlı yörüngeler) ve modern kuantum (dalga denklemi) modelidir.",
+       "sayfa": 154,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.26",
+     "ad": "Büyük Patlama ve Evrenin Oluşumu",
+     "soruSayisi": 2,
+     "eslesen": [
+      "fizik-9/2.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.26-01",
+       "tur": "dy",
+       "ifade": "Kütlesiz bir parçacık olan foton, Higgs bozonuyla etkileşerek kütle kazanan parçacıklardandır.",
+       "dogru": false,
+       "bilgi": "Standart modele göre elektron ve kuarklar gibi kütleli parçacıklar Higgs alanıyla etkileşir; foton etkileşmez ve kütlesizdir.",
+       "sayfa": 154,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.26-02",
+       "tur": "eslestir",
+       "yonerge": "Doğadaki temel kuvvetleri örnek etkileriyle eşleştir.",
+       "ciftler": [
+        [
+         "Kütle çekim kuvveti",
+         "Gök cisimlerini bir arada tutar"
+        ],
+        [
+         "Elektromanyetik kuvvet",
+         "Hidrojen atomunda elektronu protona bağlar"
+        ],
+        [
+         "Güçlü (yeğin) çekirdek kuvveti",
+         "Çekirdekteki protonları ve nötronları bir arada tutar"
+        ],
+        [
+         "Zayıf çekirdek kuvveti",
+         "Beta bozunmasından sorumludur"
+        ]
+       ],
+       "bilgi": "Çekirdekteki protonlar birbirini elektriksel olarak itse de güçlü çekirdek kuvveti onları bir arada tutar; gök cisimlerini kütle çekim kuvveti bağlar.",
+       "sayfa": 155,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.27",
+     "ad": "Radyoaktivite",
+     "soruSayisi": 4,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.27-01",
+       "tur": "dy",
+       "ifade": "Füzyon tepkimesinde enerji açığa çıkması, oluşan çekirdeğin tepkimeye giren çekirdeklerden daha kararlı olmasından kaynaklanır.",
+       "dogru": true,
+       "bilgi": "Döteryum ile trityumun birleşerek helyum oluşturduğu füzyonda helyum çekirdeği girenlerden daha kararlı olduğundan enerji açığa çıkar.",
+       "sayfa": 155,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.27-02",
+       "tur": "eslestir",
+       "yonerge": "Bozunma türlerini çekirdekte oluşturdukları değişimle eşleştir.",
+       "ciftler": [
+        [
+         "Alfa bozunması",
+         "Atom numarası 2, kütle numarası 4 azalır"
+        ],
+        [
+         "Beta eksi bozunması",
+         "Atom numarası 1 artar, kütle numarası değişmez"
+        ],
+        [
+         "Beta artı bozunması",
+         "Atom numarası 1 azalır, kütle numarası değişmez"
+        ],
+        [
+         "Gama ışıması",
+         "Atom ve kütle numarası değişmez"
+        ]
+       ],
+       "bilgi": "Bizmut-214'ün önce beta eksi bozunmasıyla polonyum-214'e, ardından alfa bozunmasıyla kurşun-210'a dönüşmesi bu kurallara uyar.",
+       "sayfa": 156,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.27-03",
+       "tur": "dy",
+       "ifade": "Kararlı çekirdeklerde de nötron sayısı proton sayısından fazla olabilir.",
+       "dogru": true,
+       "bilgi": "Nötron sayısının proton sayısından fazla olması iki çekirdek türünde de görülebilir; kendiliğinden ışıma yapıp başka çekirdeğe dönüşme radyoaktif çekirdeklere özgüdür.",
+       "sayfa": 156,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.27-04",
+       "tur": "secmeli",
+       "soru": "Uranyum-235'in nötron yakalayarak iki çekirdeğe bölündüğü fisyonda, iki ürün çekirdeğin hangi niceliklerinin toplamı uranyumunkine kesinlikle eşittir?",
+       "secenekler": [
+        "Atom numaraları",
+        "Kütle numaraları",
+        "Nötron sayıları"
+       ],
+       "dogru": 0,
+       "bilgi": "Fisyonda serbest nötronlar da açığa çıktığından ürün çekirdeklerin kütle numaraları ve nötron sayıları toplamı uranyumunkine eşit olmaz; proton sayısı ise korunur.",
+       "sayfa": 156,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.28",
+     "ad": "Özel Görelilik",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.28-01",
+       "tur": "dy",
+       "ifade": "Özel görelilik kuramına göre fizik yasaları, birbirine göre sabit hızla hareket eden bütün gözlemciler için aynıdır.",
+       "dogru": true,
+       "bilgi": "Özel göreliliğin iki postülası vardır: fizik yasaları tüm eylemsiz gözlemciler için aynıdır ve ışığın boşluktaki hızı kaynağın ya da gözlemcinin hareketinden bağımsızdır.",
+       "sayfa": 156,
+       "yil": "2022-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.29",
+     "ad": "Fotoelektrik Olayı",
+     "soruSayisi": 5,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.29-01",
+       "tur": "dy",
+       "ifade": "Fotoelektrik olayda elektronların maksimum kinetik enerjisi–frekans grafiğinin eğimi, kullanılan metalin cinsine göre değişir.",
+       "dogru": false,
+       "bilgi": "Eğim Planck sabitine eşit olduğundan bütün metaller için aynıdır; grafiğin frekans eksenini kestiği nokta metalin eşik frekansını verir.",
+       "sayfa": 157,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.29-02",
+       "tur": "secmeli",
+       "soru": "Topuzlarına eşik enerjisinden biraz büyük enerjili morötesi ışık düşürülen yüklü elektroskoplardan hangisinin yaprakları kapanır?",
+       "secenekler": [
+        "Pozitif yüklü olanın",
+        "Her ikisinin de",
+        "Negatif yüklü olanın"
+       ],
+       "dogru": 2,
+       "bilgi": "Morötesi ışık negatif yüklü elektroskoptan elektron sökerek yükünü azaltır ve yapraklar kapanır; pozitif yüklü elektroskopta değişiklik gözlenmez.",
+       "sayfa": 157,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.29-03",
+       "tur": "bosluk",
+       "cumle": "Metalden sökülen fotoelektronların en hızlılarını bile durdurarak devre akımını sıfırlayan ters gerilime ___ gerilimi denir.",
+       "cevap": "durdurma",
+       "celdiriciler": [
+        "eşik",
+        "etkin",
+        "indüksiyon"
+       ],
+       "bilgi": "Işık elektron sökecek enerjide olsa bile devreye ters bağlı yeterli gerilimdeki bir üreteç akımın geçmesini engelleyebilir.",
+       "sayfa": 158,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.30",
+     "ad": "Compton Saçılması ve De Broglie Dalga Boyu",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.30-01",
+       "tur": "dy",
+       "ifade": "Compton saçılmasında elektrondan saçılan fotonun dalga boyu, gelen fotonunkinden büyüktür.",
+       "dogru": true,
+       "bilgi": "Foton enerjisinin bir kısmını elektrona aktarır; momentumu azalır, dalga boyu artar, hızı ise değişmez.",
+       "sayfa": 158,
+       "yil": "2022-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.31",
+     "ad": "Görüntüleme Teknolojileri",
+     "soruSayisi": 4,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.31-01",
+       "tur": "eslestir",
+       "yonerge": "Görüntüleme cihazlarını görüntü oluşturma ilkeleriyle eşleştir.",
+       "ciftler": [
+        [
+         "PET",
+         "Elektron ile pozitronun yok olmasıyla çıkan ışınlar"
+        ],
+        [
+         "Sonar",
+         "Hedeften yansıyan ses dalgaları"
+        ],
+        [
+         "Termal kamera",
+         "Cisimlerin yaydığı kızılötesi ışınlar"
+        ],
+        [
+         "Röntgen",
+         "Dokulardan farklı oranda geçen X ışınları"
+        ]
+       ],
+       "bilgi": "PET'te madde ile antimaddenin yok olmasıyla çıkan ışınlar sayılır; sonar ses yansımasıyla, termal kamera kızılötesi ışınla görüntü oluşturur.",
+       "sayfa": 159,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.31-02",
+       "tur": "dy",
+       "ifade": "Manyetik rezonans (MR) görüntülemede güçlü manyetik alan kullanıldığı için cihaza metal eşyalarla yaklaşılmamalıdır.",
+       "dogru": true,
+       "bilgi": "Bilgisayarlı tomografi X ışınlarıyla, ultrason ise elektromanyetik dalga yerine ses dalgalarıyla görüntü oluşturur.",
+       "sayfa": 159,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.31-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki tıbbi görüntüleme yöntemlerinden hangisi ses dalgalarıyla çalışır?",
+       "secenekler": [
+        "Ultrason",
+        "Tomografi",
+        "Röntgen",
+        "Termal kamera"
+       ],
+       "dogru": 0,
+       "bilgi": "Ultrason ve sonar ses dalgaları kullanır; röntgen ve tomografi X ışınlarıyla, termal kamera kızılötesi ışınlarla görüntü oluşturur.",
+       "sayfa": 160,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.31-04",
+       "tur": "dy",
+       "ifade": "Radar, görüntü oluştururken mekanik dalga olan ses dalgalarını kullanır.",
+       "dogru": false,
+       "bilgi": "Radar elektromanyetik (radyo) dalgalarla çalışır; görüntüleme cihazları arasında mekanik dalga kullanan sonardır.",
+       "sayfa": 160,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.32",
+     "ad": "Süper İletkenler",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.32-01",
+       "tur": "bosluk",
+       "cumle": "Süper iletken bir malzemenin elektrik direnci, ___ adı verilen sıcaklığın altına soğutulduğunda sıfır olur.",
+       "cevap": "kritik sıcaklık",
+       "celdiriciler": [
+        "erime sıcaklığı",
+        "Curie sıcaklığı",
+        "kaynama sıcaklığı"
+       ],
+       "bilgi": "Kritik sıcaklığın altında direnç sıfır olduğundan bu malzemeden yapılan reostanın sürgüsü kaydırılsa da devre akımı değişmez; akım için yine üreteç gerekir.",
+       "sayfa": 160,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.33",
+     "ad": "Laser Işınları",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.33-01",
+       "tur": "bosluk",
+       "cumle": "Laser, uyarılmış atomlardan ___ ışıma yoluyla salınan fotonlarla ışığın güçlendirilmesine dayanır.",
+       "cevap": "uyarılmış",
+       "celdiriciler": [
+        "kendiliğinden",
+        "termal",
+        "radyoaktif"
+       ],
+       "bilgi": "Laser elde edilirken atomlar uyarılır ve gelen fotonun etkisiyle aynı özellikte foton yayar; füzyon gibi çekirdek tepkimeleri gerçekleşmez.",
+       "sayfa": 161,
+       "yil": "2021-AYT"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
