@@ -346,15 +346,14 @@
       },
       {
        "id": "1.3-04",
-       "tur": "secmeli",
-       "soru": "Bir cismin hızında meydana gelecek değişmeye direnme eğilimine ne ad verilir?",
-       "secenekler": [
-        "Sürtünme",
-        "Ağırlık",
-        "Bileşke kuvvet",
-        "Eylemsizlik"
+       "tur": "bosluk",
+       "cumle": "Bir cismin hızında meydana gelecek değişmeye direnme eğilimine ___ denir.",
+       "cevap": "eylemsizlik",
+       "celdiriciler": [
+        "sürtünme",
+        "ağırlık",
+        "bileşke kuvvet"
        ],
-       "dogru": 3,
        "bilgi": "Ani fren yapan servisteki öğrencilerin ve çantaların harekete devam etme isteği eylemsizliğin sonucudur.",
        "sayfa": 44
       },
@@ -395,15 +394,14 @@
       },
       {
        "id": "1.3-08",
-       "tur": "secmeli",
-       "soru": "Yerkürenin bir cisme uyguladığı kütle çekim kuvvetine ne ad verilir?",
-       "secenekler": [
-        "Ağırlık",
-        "Kütle",
-        "Normal kuvvet",
-        "Gerilme kuvveti"
+       "tur": "bosluk",
+       "cumle": "Yerkürenin bir cisme uyguladığı kütle çekim kuvvetine o cismin ___ denir.",
+       "cevap": "ağırlığı",
+       "celdiriciler": [
+        "kütlesi",
+        "normal kuvveti",
+        "eylemsizliği"
        ],
-       "dogru": 0,
        "bilgi": "Ağırlık, yönü yerin merkezine doğru olan vektörel bir kuvvettir ve G = m · g ile bulunur.",
        "sayfa": 47
       },
@@ -511,7 +509,7 @@
       {
        "id": "1.4-04",
        "tur": "secmeli",
-       "soru": "Pürüzlü zeminde duran bir masayı harekete geçirmek için gereken kuvvet ile onu sabit hızla hareket ettirmek için gereken kuvvet karşılaştırıldığında hangisi doğrudur?",
+       "soru": "Pürüzlü zemindeki bir masayı harekete geçirmek için gereken kuvvet ile sabit hızla kaydırmak için gereken kuvvet nasıl karşılaştırılır?",
        "secenekler": [
         "Harekete geçirmek için gereken kuvvet daha büyüktür.",
         "İki kuvvet her zaman eşittir.",
@@ -524,15 +522,14 @@
       },
       {
        "id": "1.4-05",
-       "tur": "secmeli",
-       "soru": "Sürtünme kuvvetinin ortaya çıkış nedeni olarak hangisi gösterilir?",
-       "secenekler": [
-        "Cismin hız büyüklüğü",
-        "Yüzeylerin mikroskobik pürüzleri ve aralarındaki kimyasal bağlar",
-        "Yüzeylerin rengi ve parlaklığı",
-        "Ortamın yer çekimi ivmesi"
+       "tur": "bosluk",
+       "cumle": "Sürtünme kuvveti, temas eden yüzeylerin mikro ölçekteki ___ ve yüzeyler arasındaki kimyasal bağlardan kaynaklanır.",
+       "cevap": "pürüzlerinden",
+       "celdiriciler": [
+        "renklerinden",
+        "sıcaklıklarından",
+        "kütlelerinden"
        ],
-       "dogru": 1,
        "bilgi": "Düzgün görünen yüzeyler mikro ölçekte pürüzlüdür; sürtünme atom ve moleküller arası elektriksel etkileşimleri içerir.",
        "sayfa": 70
       },
@@ -722,9 +719,9 @@
        "soru": "Akışkan içinde hareket eden bir cisme etki eden direnç kuvvetinin bağlı olduğu değişkenler hangi seçenekte verilmiştir?",
        "secenekler": [
         "Sürtünme katsayısı, kesit alanı, hız",
-        "Kütle, sıcaklık, renk",
-        "Yükseklik, kütle, zaman",
-        "Yoğunluk, hacim, periyot"
+        "Cismin kütlesi, sıcaklığı ve yüzey rengi",
+        "Yükseklik, kütle ve düşme süresi",
+        "Yoğunluk, hacim ve dönme periyodu"
        ],
        "dogru": 0,
        "bilgi": "Kesit alanı, cismin hareket doğrultusuna dik olan en büyük kesit alanıdır; hız ise cismin akışkana göre hızıdır.",
@@ -750,8 +747,8 @@
        "secenekler": [
         "Dünya'dakinden küçük olur.",
         "Dünya'dakiyle aynı olur.",
-        "Dünya'dakinden çok daha büyük olur.",
-        "Sıfır olur."
+        "Çok daha büyük olur.",
+        "Sıfıra iner."
        ],
        "dogru": 2,
        "bilgi": "Mars'ın ince atmosferinde sürtünme katsayısı çok küçük olduğundan ağırlığın dengelenmesi için sondanın çok daha yüksek hıza ulaşması gerekir.",
@@ -816,8 +813,8 @@
        "soru": "Çembersel hareket yapan bir cismin hız vektörü, o noktadaki yarıçap vektörüne göre nasıl yönelir?",
        "secenekler": [
         "Yarıçap vektörüyle aynı yöndedir.",
-        "Yarıçap vektörüne dik ve yörüngeye teğettir.",
-        "Merkeze doğru yönelir.",
+        "Yarıçapa dik, yörüngeye teğettir.",
+        "Çemberin merkezine doğru yönelir.",
         "Yarıçap vektörüne zıt yöndedir."
        ],
        "dogru": 1,
@@ -880,10 +877,10 @@
        "tur": "secmeli",
        "soru": "Düzgün çembersel hareket yapan bir cismin merkezcil ivmesinin yönü nasıldır?",
        "secenekler": [
-        "Hız vektörüyle aynı yöndedir.",
-        "Merkezden dışarı doğrudur.",
-        "Yörüngeye teğettir.",
-        "Hız vektörüne dik ve cisimden merkeze doğrudur."
+        "Hız vektörüyle aynı yönde ve teğettir.",
+        "Merkezden dışarı, yarıçap yönündedir.",
+        "Yörüngeye teğet ve hareket yönündedir.",
+        "Hıza dik, cisimden merkeze doğrudur."
        ],
        "dogru": 3,
        "bilgi": "Merkezcil ivme yarıçap doğrultusunda, yarıçap vektörüne zıt yönde, cisimden çemberin merkezine doğrudur.",
@@ -907,15 +904,14 @@
       },
       {
        "id": "1.6-10",
-       "tur": "secmeli",
-       "soru": "Yatay bir virajı dönen aracın yoldan çıkmaması için gereken merkezcil kuvvet hangi kuvvetle sağlanır?",
-       "secenekler": [
-        "Yol ile tekerlekler arasındaki sürtünme kuvvetiyle",
-        "Aracın ağırlığıyla",
-        "Motorun itme kuvvetiyle",
-        "Hava direnciyle"
+       "tur": "bosluk",
+       "cumle": "Yatay bir virajı dönen aracın ihtiyaç duyduğu merkezcil kuvvet, yol ile tekerlekler arasındaki ___ kuvvetiyle sağlanır.",
+       "cevap": "sürtünme",
+       "celdiriciler": [
+        "normal",
+        "kaldırma",
+        "elektriksel"
        ],
-       "dogru": 0,
        "bilgi": "Güvenli dönüş için gereken merkezcil kuvvet, statik sürtünme kuvvetinin en büyük değerini aşmamalıdır.",
        "sayfa": 114
       },
@@ -936,7 +932,7 @@
       {
        "id": "1.6-12",
        "tur": "bosluk",
-       "cumle": "Dünya'nın kendi ekseni etrafındaki dönüşüne eşit açısal hızla dolanan ve gökyüzünde hep aynı noktada duruyormuş gibi görünen uyduların yörüngesine ___ yörünge denir.",
+       "cumle": "Dünya'nın kendi ekseni etrafındaki dönüşüne eşit açısal hızla dolanan, gökyüzünde hep aynı noktada görünen uyduların yörüngesine ___ yörünge denir.",
        "cevap": "geostatik",
        "celdiriciler": [
         "eliptik",
@@ -1105,15 +1101,14 @@
       },
       {
        "id": "2.1-12",
-       "tur": "secmeli",
-       "soru": "Michael Faraday'ın keşfettiği Faraday kafesinin iç kısmını dış elektriksel alanlardan korumasının nedeni nedir?",
-       "secenekler": [
-        "Kafesin yalıtkan maddeden yapılması",
-        "Dengedeki iletkenin içinde elektriksel alanın sıfır olması",
-        "Metalin güçlü manyetik alan üretmesi",
-        "Yüklerin iletkenin iç yüzeyinde toplanması"
+       "tur": "bosluk",
+       "cumle": "Faraday kafesinin içi dış elektriksel alanlardan korunur; çünkü dengedeki bir iletkenin içinde elektriksel alan ___ olur.",
+       "cevap": "sıfır",
+       "celdiriciler": [
+        "en büyük",
+        "düzgün",
+        "sonsuz"
        ],
-       "dogru": 1,
        "bilgi": "Faraday kafesi elektrostatik kalkan etkisi gösterir; iletkenin içi dış elektriksel alandan korunur.",
        "sayfa": 181
       },
@@ -1122,9 +1117,9 @@
        "tur": "secmeli",
        "soru": "Aşağıdakilerden hangisi Faraday kafesi etkisine bir örnektir?",
        "secenekler": [
-        "Metal asansörde cep telefonunun çekmemesi",
-        "Pusulanın kuzeyi göstermesi",
-        "Tarağın kâğıt parçalarını çekmesi",
+        "Asansörde telefonun çekmemesi",
+        "Pusula iğnesinin kuzeyi göstermesi",
+        "Saça sürtülen tarağın kâğıdı çekmesi",
         "Elektrikli yılan balığının avlanması"
        ],
        "dogru": 0,
@@ -1292,10 +1287,10 @@
        "tur": "secmeli",
        "soru": "Elektromıknatısların doğal mıknatıslara göre avantajı hangisidir?",
        "secenekler": [
-        "Hiç enerji gerektirmemesi",
-        "Tek kutuplu olması",
-        "İstenince mıknatıslanması ve alanın ayarlanabilmesi",
-        "Manyetik alanının hiç değişmemesi"
+        "Hiç elektrik enerjisi gerektirmemesi",
+        "Tek kutuplu olarak üretilebilmesi",
+        "Alanının akımla açılıp ayarlanabilmesi",
+        "Manyetik alanının hiç değiştirilememesi"
        ],
        "dogru": 2,
        "bilgi": "Hurda vinçlerindeki elektromıknatıs, akım sıfırlanınca mıknatıs özelliğini kaybeder ve demir hurdaları bırakır.",
@@ -1441,10 +1436,10 @@
        "tur": "secmeli",
        "soru": "Faraday Yasası'na göre bir bobinde oluşan indüksiyon geriliminin büyüklüğü neye bağlıdır?",
        "secenekler": [
-        "Yalnızca manyetik alanın yönüne",
-        "Halkanın kütlesine",
+        "Yalnızca halkadaki manyetik alanın yönüne",
+        "Halkanın kütlesine ve bulunduğu ortamın sıcaklığına",
         "Manyetik akının değişim hızına ve sarım sayısına",
-        "Yalnızca halkanın direncine"
+        "Yalnızca halka telinin elektriksel direncine"
        ],
        "dogru": 2,
        "bilgi": "Mıknatıs daha hızlı hareket ettirilir veya daha güçlü mıknatıs kullanılırsa daha büyük indüksiyon akımı elde edilir.",
@@ -1504,16 +1499,15 @@
       },
       {
        "id": "2.3-11",
-       "tur": "secmeli",
-       "soru": "Manyetik alanda döndürülen çerçevede oluşan alternatif akımın büyüklüğü için hangisi doğrudur?",
-       "secenekler": [
-        "Manyetik alan, sarım sayısı, yüzey alanı ve dönme frekansıyla doğru orantılıdır.",
-        "Yalnızca çerçevenin kütlesine bağlıdır.",
-        "Dönme frekansı arttıkça azalır.",
-        "Manyetik alanın büyüklüğünden bağımsızdır."
+       "tur": "bosluk",
+       "cumle": "Manyetik alanda döndürülen çerçevede oluşan alternatif akımın büyüklüğü, çerçevenin dönme frekansı arttıkça ___.",
+       "cevap": "artar",
+       "celdiriciler": [
+        "azalır",
+        "değişmez",
+        "sıfırlanır"
        ],
-       "dogru": 0,
-       "bilgi": "Yönü ve büyüklüğü periyodik olarak değişen akıma alternatif akım denir; manyetik akı değişim hızı arttıkça büyüklüğü artar.",
+       "bilgi": "Alternatif akımın büyüklüğü; manyetik alanın büyüklüğü, sarım sayısı, çerçevenin yüzey alanı ve dönme frekansıyla doğru orantılıdır.",
        "sayfa": 258
       },
       {
@@ -1789,10 +1783,10 @@
        "tur": "secmeli",
        "soru": "Noktasal bir ışık kaynağının dik olarak aydınlattığı bir yüzeydeki aydınlanma için hangisi doğrudur?",
        "secenekler": [
-        "Işık şiddetiyle ters, uzaklıkla doğru orantılıdır.",
-        "Işık şiddetinden bağımsızdır.",
+        "Işık şiddetiyle ters, kaynağa uzaklığın karesiyle doğru orantılıdır.",
+        "Işık şiddetinden ve uzaklıktan tamamen bağımsızdır.",
         "Işık şiddetiyle doğru, uzaklığın karesiyle ters orantılıdır.",
-        "Yalnızca yüzeyin rengine bağlıdır."
+        "Yalnızca aydınlatılan yüzeyin rengine bağlıdır."
        ],
        "dogru": 2,
        "bilgi": "Işınlar yüzey normaliyle açı yaparak gelirse aydınlanma, dik geldiği duruma göre azalır.",
@@ -1896,15 +1890,14 @@
       },
       {
        "id": "3.2-06",
-       "tur": "secmeli",
-       "soru": "Düzlem aynada oluşan görüntüyle ilgili hangisi doğrudur?",
-       "secenekler": [
-        "Görüntü cisimden daima küçüktür.",
-        "Görüntünün aynaya uzaklığı cismin aynaya uzaklığına eşittir.",
-        "Görüntü aynanın önünde oluşur.",
-        "Görüntü cisme göre terstir."
+       "tur": "bosluk",
+       "cumle": "Düzlem aynada görüntünün aynaya dik uzaklığı, cismin aynaya dik uzaklığına ___.",
+       "cevap": "eşittir",
+       "celdiriciler": [
+        "iki katıdır",
+        "yarısıdır",
+        "bağlı değildir"
        ],
-       "dogru": 1,
        "bilgi": "Düzlem aynada görüntü cisimle aynı boydadır ve cisimle aynaya göre simetriktir.",
        "sayfa": 317
       },
@@ -1928,8 +1921,8 @@
        "secenekler": [
         "Aynanın büyüklüğüne ve aynaya olan uzaklığa",
         "Yalnızca ortamın sıcaklığına",
-        "Yalnızca gözlemcinin boyuna",
-        "Aynanın camının rengine"
+        "Yalnızca ortamdaki ışığın rengine",
+        "Aynanın çerçevesinin rengine ve kalınlığına"
        ],
        "dogru": 0,
        "bilgi": "Saydam olmayan cisimlerin veya görüntülerinin arkasında kalan cisimler aynada görülemez.",
@@ -2076,9 +2069,9 @@
        "soru": "Çukur aynada cisim merkez noktasında ise oluşan görüntü nasıldır?",
        "secenekler": [
         "Merkezde, ters, gerçek ve cisimle aynı boyda",
-        "Aynanın arkasında, düz ve büyük",
-        "Odakta, nokta şeklinde",
-        "Sonsuzda oluşur"
+        "Aynanın arkasında, düz, sanal ve cisimden büyük",
+        "Odak noktasında, nokta şeklinde ve gerçek",
+        "Merkez ile sonsuz arasında, ters ve büyük"
        ],
        "dogru": 0,
        "bilgi": "Çukur aynada cisim merkezin dışındaysa görüntü merkez ile odak arasında, ters, gerçek ve küçüktür.",
@@ -2089,10 +2082,10 @@
        "tur": "secmeli",
        "soru": "Çukur aynada cisim odak noktası ile tepe noktası arasında ise oluşan görüntü nasıldır?",
        "secenekler": [
-        "Ters, gerçek ve küçük",
+        "Merkez ile odak arasında, ters ve küçük",
         "Aynanın arkasında, düz, sanal ve büyük",
-        "Merkezde ve cisimle aynı boyda",
-        "Odakta ve nokta şeklinde"
+        "Merkezde ve cisimle aynı boyda, ters",
+        "Odakta, nokta şeklinde ve gerçek"
        ],
        "dogru": 1,
        "bilgi": "Diş hekimleri dişin büyük ve düz görüntüsünü elde etmek için çukur ayna kullanır.",
@@ -2187,10 +2180,10 @@
        "tur": "secmeli",
        "soru": "Işık az kırıcı ortamdan çok kırıcı ortama geçerken hangisi gerçekleşir?",
        "secenekler": [
-        "Normalden uzaklaşır ve hızı artar.",
-        "Frekansı artar, hızı değişmez.",
-        "Normale yaklaşarak kırılır, hızı azalır, frekansı sabit kalır.",
-        "Mutlaka tam yansıma yapar."
+        "Normalden uzaklaşarak kırılır, hızı artar, frekansı azalır.",
+        "Kırılmadan geçer, hızı ve frekansı değişmeden kalır.",
+        "Normale yaklaşır, hızı azalır, frekansı değişmez.",
+        "Her gelme açısında tam yansıma yaparak geri döner."
        ],
        "dogru": 2,
        "bilgi": "Ortamların kırıcılık indisleri arasındaki fark veya gelme açısı artarsa sapma açısı da artar.",
@@ -2211,15 +2204,14 @@
       },
       {
        "id": "3.4-08",
-       "tur": "secmeli",
-       "soru": "Çok kırıcı ortamdan az kırıcı ortama sınır açısından büyük bir açıyla gelen ışının geldiği ortama geri dönmesine ne denir?",
-       "secenekler": [
-        "Dağınık yansıma",
-        "Kırınım",
-        "Tam yansıma",
-        "Saçılma"
+       "tur": "bosluk",
+       "cumle": "Çok kırıcı ortamdan az kırıcı ortama sınır açısından büyük açıyla gelen ışının geldiği ortama dönmesine ___ denir.",
+       "cevap": "tam yansıma",
+       "celdiriciler": [
+        "dağınık yansıma",
+        "kırınım",
+        "saçılma"
        ],
-       "dogru": 2,
        "bilgi": "Tam yansımada ışın normalle eşit açı yaparak geldiği ortama döner; fiber optik ve prizmalar bu ilkeyle çalışır.",
        "sayfa": 347
       },
@@ -2250,12 +2242,12 @@
        "tur": "secmeli",
        "soru": "Güneş'in ufuk çizgisinin altına indiği hâlde bir süre daha görülebilmesinin nedeni nedir?",
        "secenekler": [
-        "Işınların atmosferden geçerken doğrultu değiştirmesi",
-        "Işığın bulutlardan düzgün yansıması",
-        "Güneş'in kendi ekseninde dönmesi",
-        "Işığın boşlukta yavaşlaması"
+        "Işığın bulutlardan düzgün biçimde yansıması",
+        "Işınların atmosferde kırılması",
+        "Güneş'in kendi ekseni etrafında hızla dönmesi",
+        "Işığın boşlukta ilerlerken giderek yavaşlaması"
        ],
-       "dogru": 0,
+       "dogru": 1,
        "bilgi": "Atmosferde kırılan ışık nedeniyle Güneş, Ay ve yıldızlar gerçek konumlarından farklı yerlerde görülür.",
        "sayfa": 343
       }
@@ -2306,9 +2298,9 @@
        "soru": "Görünür derinliğin bağlı olduğu etmenler hangi seçenekte doğru verilmiştir?",
        "secenekler": [
         "Gözlemcinin yüzeye uzaklığı, cismin kütlesi, ortam sıcaklığı",
-        "Cismin yüzeye uzaklığı, ortamların kırma indisi farkı, ışığın rengi",
-        "Yalnızca gözlemcinin boyu",
-        "Cismin kütlesi ve hacmi"
+        "Cismin yüzeye uzaklığı, kırma indisi farkı, ışığın rengi",
+        "Yalnızca gözlemcinin boyu ve bakış hızı",
+        "Cismin kütlesi, hacmi ve yoğunluğu"
        ],
        "dogru": 1,
        "bilgi": "Görünür derinlik cisimden gelen ışığın rengine de bağlıdır.",
@@ -2428,15 +2420,14 @@
       },
       {
        "id": "3.6-05",
-       "tur": "secmeli",
-       "soru": "Şehirler arası ve kıtalar arası genel ağ iletiminde genellikle hangi tür fiber optik kablo kullanılır?",
-       "secenekler": [
-        "Tek modlu fiber optik kablo",
-        "Çok modlu fiber optik kablo",
-        "Bakır kablo",
-        "Plastik kılıfsız kablo"
+       "tur": "bosluk",
+       "cumle": "Şehirler arası ve kıtalar arası genel ağ iletiminde, ışığın tek bir yol izlediği ___ fiber optik kablolar kullanılır.",
+       "cevap": "tek modlu",
+       "celdiriciler": [
+        "çok modlu",
+        "bakır çekirdekli",
+        "kılıfsız"
        ],
-       "dogru": 0,
        "bilgi": "Tek modlu kablolarda ışık tek bir yol izler; bu çok ince lifler bilgiyi uzun mesafelerde daha az kayıpla iletir.",
        "sayfa": 364
       },
@@ -2467,10 +2458,10 @@
        "tur": "secmeli",
        "soru": "Fiber optik malzemelerin manyetik alanlardan etkilenmemesinin nedeni nedir?",
        "secenekler": [
-        "Bakırdan yapılmaları",
-        "Elektriksel sinyaller yerine ışık sinyalleriyle çalışmaları",
-        "Çok kalın olmaları",
-        "Toprağa gömülmeleri"
+        "Bakır tellerden üretilip plastikle yalıtılmaları",
+        "Elektrik yerine ışık sinyalleriyle çalışmaları",
+        "Kablolarının çok kalın ve ağır olması",
+        "Toprağın derinliklerine gömülmeleri"
        ],
        "dogru": 1,
        "bilgi": "Fiber optik kablolar dinlemeye karşı dirençli olduğundan şifreli ve güvenli veri iletiminde de tercih edilir.",
@@ -2524,15 +2515,14 @@
       },
       {
        "id": "3.7-03",
-       "tur": "secmeli",
-       "soru": "Dar açıları 45° olan ikizkenar dik üçgen şeklindeki cam prizmalara ne ad verilir?",
-       "secenekler": [
-        "Tam yansımalı prizma",
-        "Kırıcı mercek",
-        "Çukur prizma",
-        "Optik daire"
+       "tur": "bosluk",
+       "cumle": "Dar açıları 45° olan ikizkenar dik üçgen şeklindeki cam prizmalara ___ prizma denir.",
+       "cevap": "tam yansımalı",
+       "celdiriciler": [
+        "kırıcı",
+        "dağıtıcı",
+        "yakınsak"
        ],
-       "dogru": 0,
        "bilgi": "Tam yansımalı prizmaya gelen ışın prizma içinde en az bir tam yansıma yapar.",
        "sayfa": 369
       },
@@ -2574,15 +2564,14 @@
       },
       {
        "id": "3.7-07",
-       "tur": "secmeli",
-       "soru": "Pırlantanın parlak ve renkli ışıklar saçıyor gibi görünmesinin nedeni nedir?",
-       "secenekler": [
-        "Kendi kendine ışık üretmesi",
-        "Kırma indisinin yüksek olması ve çok sayıda kesim yüzeyinde tam yansıma yapılması",
-        "Işığı hiç kırmaması",
-        "Yüzeyinin pürüzlü ve kirli olması"
+       "tur": "bosluk",
+       "cumle": "Pırlantanın parlak görünmesi, yüksek kırma indisi ve çok sayıda kesim yüzeyi nedeniyle içinde gerçekleşen ___ olaylarından kaynaklanır.",
+       "cevap": "tam yansıma",
+       "celdiriciler": [
+        "soğurma",
+        "dağınık yansıma",
+        "kırınım"
        ],
-       "dogru": 1,
        "bilgi": "Güneş ışığı pırlantaya girerken renklerine ayrılır; yüzeydeki kirlilik ve düzensizlikler parlaklığı azaltır.",
        "sayfa": 367
       },
@@ -2602,15 +2591,14 @@
      "kartlar": [
       {
        "id": "3.8-01",
-       "tur": "secmeli",
-       "soru": "Ormanlık alanlara bırakılan cam şişe veya su dolu şişelerin yangına yol açabilmesinin nedeni nedir?",
-       "secenekler": [
-        "Güneş ışığını bir noktada odaklayabilmeleri",
-        "Işığı tamamen soğurmaları",
-        "Kendi kendilerine ısınmaları",
-        "Oksijeni azaltmaları"
+       "tur": "bosluk",
+       "cumle": "Ormana bırakılan cam şişeler, güneş ışığını bir noktada ___ kuru otların tutuşmasına yol açabilir.",
+       "cevap": "odaklayarak",
+       "celdiriciler": [
+        "soğurarak",
+        "dağıtarak",
+        "geri yansıtarak"
        ],
-       "dogru": 0,
        "bilgi": "Mercek gibi davranan cam ve su damlacıkları, gelen ışığı kırarak odaklayabilir ya da dağıtabilir.",
        "sayfa": 373
       },
@@ -2714,10 +2702,10 @@
        "tur": "secmeli",
        "soru": "Yakınsak mercekte cisim 2F noktasında ise oluşan görüntü nasıldır?",
        "secenekler": [
-        "Cisimle aynı tarafta, düz ve büyük",
-        "Karşı taraftaki 2F'de, ters, gerçek ve cisimle aynı boyda",
-        "Odakta ve nokta şeklinde",
-        "Sonsuzda oluşur"
+        "Cisimle aynı tarafta, düz, sanal ve büyük",
+        "Karşı 2F'de, ters, gerçek ve aynı boyda",
+        "Karşı taraftaki odakta ve nokta şeklinde",
+        "2F ile sonsuz arasında, ters ve cisimden büyük"
        ],
        "dogru": 1,
        "bilgi": "Yakınsak mercekte cisim mercek ile F arasındaysa görüntü cisimle aynı tarafta, düz, sanal ve büyüktür.",
