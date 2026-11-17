@@ -1,0 +1,1191 @@
+{
+ "kitap": "cikmis-ayt-din",
+ "tip": "cikmis",
+ "ders": "din",
+ "sinav": "AYT",
+ "baslik": "Din Kültürü ve Ahlâk Bilgisi Çıkmış Sorular 2018-2026 AYT Sözel",
+ "sayfaUrl": "https://ogmmateryal.eba.gov.tr/yks-cikmis-soru-kitaplari",
+ "pdfUrl": "https://ogm-small-cdn.eba.gov.tr/ogm-test-images/6abc1cb910f5ec2735b7be59/CS_AYT_DIIN_SOZ_2018_2026.pdf",
+ "testUrl": "https://ogmmateryal.eba.gov.tr/ogm-test/book/6abc1d2910f5ec2735b7bf7d",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Din Kültürü ve Ahlak Bilgisi",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Kur'an'dan Mesajlar: Hucurât Suresi 13. Ayet",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-10/5.3",
+      "din-10/3.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "dy",
+       "ifade": "Hucurât Suresi 13. ayete göre insanların farklı boylara ve kabilelere ayrılmasının hikmeti, birbirleriyle tanışmalarıdır.",
+       "dogru": true,
+       "bilgi": "Ayete göre soy ve etnik farklılıklar üstünlük sebebi değildir; insanlar tanışmak için farklı topluluklar hâlinde yaratılmıştır.",
+       "sayfa": 14,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.1-02",
+       "tur": "bosluk",
+       "cumle": "Hucurât Suresi 13. ayete göre Allah katında üstünlüğün ölçüsü soy ya da kabile değil, ___dır.",
+       "cevap": "takva",
+       "celdiriciler": [
+        "servet",
+        "makam",
+        "nesep"
+       ],
+       "bilgi": "Allah katında en değerli olan, O'na karşı gelmekten en çok sakınandır; yani üstünlüğün ölçüsü takvadır.",
+       "sayfa": 14,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "İslam'da İbadetin Amacı ve Önemi",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-9/3.1",
+      "din-9/3.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "bosluk",
+       "cumle": "İbadet ve iyiliklerin dünyevi bir karşılık ya da takdir beklenmeden yalnızca Allah rızası gözetilerek yapılmasına ___ denir.",
+       "cevap": "ihlas",
+       "celdiriciler": [
+        "riya",
+        "tevekkül",
+        "kanaat"
+       ],
+       "bilgi": "İslam'da iyiliği değerli kılan, karşılık beklemeden Allah rızası için yapılmasıdır; iyiliğe iyilikle karşılık bekleyen tutum eleştirilmiştir.",
+       "sayfa": 14,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "İslam'da İbadet Yükümlülüğü",
+     "soruSayisi": 2,
+     "eslesen": [
+      "din-9/3.1",
+      "din-9/3.2",
+      "din-10/5.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "eslestir",
+       "yonerge": "Fıkıh kavramlarını tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Farz",
+         "Kesin olarak emredilen, inkârı küfre götüren hüküm"
+        ],
+        [
+         "Mübah",
+         "Yapılıp yapılmaması kişinin tercihine bırakılan fiil"
+        ],
+        [
+         "Mekruh",
+         "Hoş görülmeyen ama kesin delille yasaklanmayan fiil"
+        ],
+        [
+         "İcma",
+         "Müçtehitlerin bir meselenin hükmünde görüş birliği etmesi"
+        ]
+       ],
+       "bilgi": "Farz, sünnet, mübah ve mekruh fiillerin dinî hükümleridir; icma ise müçtehitlerin bir meselede ittifak etmesidir.",
+       "sayfa": 15,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.3-02",
+       "tur": "bosluk",
+       "cumle": "Dinin özünde bulunmadığı hâlde bilgisizlik ya da kültür etkileşimiyle sonradan ortaya çıkıp ibadet gibi kabul edilen uygulamalara ___ denir.",
+       "cevap": "bidat",
+       "celdiriciler": [
+        "riya",
+        "içtihat",
+        "takva"
+       ],
+       "bilgi": "İbadetlerin esasları Kur'an'da, uygulanışı Hz. Muhammed aracılığıyla bildirilmiştir; bunlarda değişiklik yapmak ya da yeni ibadet uydurmak bidattir.",
+       "sayfa": 15,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.4",
+     "ad": "İslam'da İbadetlerin Temel İlkeleri",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-9/3.1",
+      "din-9/3.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.4-01",
+       "tur": "dy",
+       "ifade": "Bir Müslüman, ibadetlerin nasıl yapılacağı konusunda kendi bakış açısına göre yeni bir uygulama biçimi geliştirebilir.",
+       "dogru": false,
+       "bilgi": "İbadetler Kur'an ve Sünnet'e uygun yapılmalıdır; temel ilkeleri Allah belirlemiş, uygulanışı Hz. Muhammed'in rehberliğine bırakılmıştır.",
+       "sayfa": 15,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.5",
+     "ad": "Kur'an'dan Mesajlar: Bakara Suresi 177. Ayet",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-9/2.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.5-01",
+       "tur": "dy",
+       "ifade": "Bakara Suresi 177. ayet iyiliği; iman, ibadet, ihtiyaç sahiplerine yardım, sözünde durma ve zorluklarda sabrı birlikte kapsayan bütüncül bir tutum olarak tanımlar.",
+       "dogru": true,
+       "bilgi": "Ayete göre iyilik yalnızca bir yöne yönelmek değildir; imani, ahlaki, bireysel ve toplumsal yönleri olan bütüncül bir tutumdur.",
+       "sayfa": 16,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.6",
+     "ad": "Allah'ın Varlığı ve Birliği",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-10/2.1",
+      "din-10/3.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.6-01",
+       "tur": "bosluk",
+       "cumle": "Enbiyâ Suresi 22. ayette yerde ve gökte birden fazla ilah bulunsaydı düzenin bozulacağı bildirilerek Allah'ın ___ vurgulanır.",
+       "cevap": "birliği",
+       "celdiriciler": [
+        "merhameti",
+        "adaleti",
+        "affediciliği"
+       ],
+       "bilgi": "Kâinattaki düzen tek bir yaratıcıya işaret eder; âlemde birden fazla ilahın bulunması imkânsızdır.",
+       "sayfa": 16,
+       "yil": "2020-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.7",
+     "ad": "Allah'ın İsim ve Sıfatları",
+     "soruSayisi": 2,
+     "eslesen": [
+      "din-10/2.2",
+      "din-12/1.5"
+     ],
+     "kartlar": [
+      {
+       "id": "1.7-01",
+       "tur": "eslestir",
+       "yonerge": "Allah'ın sıfatlarını anlamlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Hayat",
+         "Diri olması"
+        ],
+        [
+         "İlim",
+         "Gizli ve açık her şeyi bilmesi"
+        ],
+        [
+         "Semi",
+         "Her şeyi işitmesi"
+        ],
+        [
+         "Basar",
+         "Her şeyi görmesi"
+        ],
+        [
+         "Tekvin",
+         "Yaratması, yoktan var etmesi"
+        ]
+       ],
+       "bilgi": "Allah'ın ilmi hiçbir araca ve şarta bağlı değildir; geçmişi, şimdiyi ve geleceği bilir, cehalet O'nun için söz konusu olamaz.",
+       "sayfa": 16,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.7-02",
+       "tur": "dy",
+       "ifade": "Fâtır Suresi 27-28. ayetlerde yağmurla farklı renklerde meyvelerin çıkması ve canlıların çeşitliliği, Allah'ın kudretine işaret eden deliller olarak sunulur.",
+       "dogru": true,
+       "bilgi": "Evrendeki renk ve tür çeşitliliği Allah'ın kudret ve varlığının izleridir; ayette Allah'tan gereğince ancak âlimlerin korktuğu da belirtilir.",
+       "sayfa": 17,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.8",
+     "ad": "İnsanın Allah ile İrtibatı",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-9/1.3",
+      "din-9/1.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.8-01",
+       "tur": "dy",
+       "ifade": "Tövbe, kulun Allah'ın rahmetinden ümidini kestiğini gösteren bir davranıştır.",
+       "dogru": false,
+       "bilgi": "Tövbe; günahtan pişmanlık duyup Allah'tan bağışlanma dilemek, O'na verilen sözü tazelemek, nefsi arındırmak ve yanlışı düzeltme iradesidir.",
+       "sayfa": 17,
+       "yil": "2018-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.9",
+     "ad": "Bazı Genç Sahabiler",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-9/5.2",
+      "din-9/5.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.9-01",
+       "tur": "bosluk",
+       "cumle": "Hz. Muhammed'in vefatına yakın bir dönemde, yaklaşık on sekiz yaşındayken İslam ordusuna komutan atadığı genç sahabi ___'dir.",
+       "cevap": "Üsame bin Zeyd",
+       "celdiriciler": [
+        "Mus'ab bin Umeyr",
+        "Zeyd bin Sâbit",
+        "Erkam bin Ebi'l-Erkam"
+       ],
+       "bilgi": "Hz. Muhammed, daha yaşlı sahabeler varken genç Üsame'yi komutan atayarak gençlere değer verdiğini ve ehil olana sorumluluk yüklediğini göstermiştir.",
+       "sayfa": 18,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.10",
+     "ad": "Kur'an'dan Mesajlar: Âl-i İmrân Suresi 159. Ayet",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-9/5.2",
+      "din-9/5.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.10-01",
+       "tur": "bosluk",
+       "cumle": "Âl-i İmrân Suresi 159. ayette toplumu ilgilendiren işlerde ___ yapılması, karar verildikten sonra da Allah'a tevekkül edilmesi öğütlenir.",
+       "cevap": "istişare",
+       "celdiriciler": [
+        "biat",
+        "içtihat",
+        "tefekkür"
+       ],
+       "bilgi": "Ayet; yumuşak ve merhametli davranmayı, affetmeyi, danışarak karar almayı ve kararın ardından Allah'a güvenmeyi öğütler.",
+       "sayfa": 18,
+       "yil": "2018-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.11",
+     "ad": "Din, Kültür ve Sanat",
+     "soruSayisi": 2,
+     "eslesen": [
+      "din-11/2.3",
+      "din-11/3.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.11-01",
+       "tur": "bosluk",
+       "cumle": "Kur'an-ı Kerim ve yazma eserlerin sayfalarını altın tozu ve doğal boyalarla çiçek-yaprak motifleriyle süsleme sanatına ___ denir.",
+       "cevap": "tezhip",
+       "celdiriciler": [
+        "hat",
+        "ebru",
+        "kalem işi"
+       ],
+       "bilgi": "Tezhip, simetri ve renk ahengi gözetilerek Kur'an başta olmak üzere yazma eserlerin kenar ve boşluklarını altın ve boyayla süsleme sanatıdır.",
+       "sayfa": 18,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.11-02",
+       "tur": "eslestir",
+       "yonerge": "Eserleri ait oldukları İslam kültür ve sanat alanıyla eşleştir.",
+       "ciftler": [
+        [
+         "Selimiye Camii",
+         "Mimari"
+        ],
+        [
+         "Celî sülüs levha",
+         "Hat"
+        ],
+        [
+         "Mesnevi",
+         "Edebiyat"
+        ],
+        [
+         "Itrî'nin Tekbir'i",
+         "Musiki"
+        ]
+       ],
+       "bilgi": "Cami ve kubbeler mimari, estetik yazılar hat, Mesnevi edebiyat, ezan ve dinî nağmeler musiki alanında İslam kültürünün ürünleridir.",
+       "sayfa": 19,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.12",
+     "ad": "Din ve Ekonomi",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-12/4.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.12-01",
+       "tur": "dy",
+       "ifade": "Haşr Suresi 7. ayette servetin yalnızca zenginler arasında dolaşan bir güç hâline gelmemesi gerektiği vurgulanır.",
+       "dogru": true,
+       "bilgi": "Necm 39-41. ayetler ve emekle ilgili hadisler çalışmanın değerini; Haşr 7. ayet ise servetin toplumda adil dağılımını vurgular.",
+       "sayfa": 19,
+       "yil": "2022-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.13",
+     "ad": "Tutum ve Davranışlarda Ölçülü Olmak",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-9/4.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.13-01",
+       "tur": "bosluk",
+       "cumle": "Bir işte dinin ölçülerini aşacak kadar aşırıya gitmeye ___, gereğini yapmayıp ihmal etmeye ise tefrit denir.",
+       "cevap": "ifrat",
+       "celdiriciler": [
+        "taassup",
+        "fitne",
+        "itidal"
+       ],
+       "bilgi": "Hz. Muhammed, sürekli namaz kılıp oruç tutmaya yemin eden sahabeleri uyararak ibadette bile aşırılığı (ifrat) eleştirmiş, ölçülü olmayı öğütlemiştir.",
+       "sayfa": 20,
+       "yil": "2020-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.14",
+     "ad": "İslam Ahlakında Yerilen Bazı Davranışlar",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-10/1.3",
+      "din-9/4.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.14-01",
+       "tur": "eslestir",
+       "yonerge": "İslam ahlakında yerilen davranışları anlamlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Tecessüs",
+         "Başkalarının kusurlarını ve gizli hâllerini araştırmak"
+        ],
+        [
+         "Gıybet",
+         "Birini arkasından hoşlanmayacağı biçimde konuşmak"
+        ],
+        [
+         "Suizan",
+         "Başkası hakkında kötü zan beslemek"
+        ],
+        [
+         "Haset",
+         "Başkasındaki nimetin yok olmasını istemek"
+        ]
+       ],
+       "bilgi": "Hucurât Suresi 12. ayette yasaklanan tecessüs, kişilerin mahremiyetini ihlal edip gizli hâllerini araştırmaktır.",
+       "sayfa": 20,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.15",
+     "ad": "İslam Düşüncesindeki Fıkhi Yorumlar",
+     "soruSayisi": 2,
+     "eslesen": [
+      "din-10/5.2",
+      "din-10/5.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.15-01",
+       "tur": "dy",
+       "ifade": "İmameti bir inanç esası sayan ve Hz. Muhammed'den sonra yönetimin Hz. Ali'ye ve onun soyuna ait olduğunu savunan yorum Şia'dır.",
+       "dogru": true,
+       "bilgi": "Şia'ya göre imamet bir inanç esasıdır; ilk imam Hz. Ali olmalıydı ve imamet onun soyundan gelenlerin hakkıdır.",
+       "sayfa": 20,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.15-02",
+       "tur": "bosluk",
+       "cumle": "İslam hukuk metodolojisinin ilk eseri sayılan er-Risâle ___ tarafından yazılmıştır.",
+       "cevap": "İmam Şafii",
+       "celdiriciler": [
+        "Ebu Hanife",
+        "İmam Malik",
+        "Ahmed bin Hanbel"
+       ],
+       "bilgi": "Ehl-i rey ve ehl-i hadis birikimini birleştiren İmam Şafii, görüşlerini Mısır'da açıklamış; adına nispet edilen mezhebin Türkiye'de de mensupları vardır.",
+       "sayfa": 20,
+       "yil": "2021-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.16",
+     "ad": "Varoluşun ve Hayatın Anlamı",
+     "soruSayisi": 3,
+     "eslesen": [
+      "din-9/1.1",
+      "din-9/3.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.16-01",
+       "tur": "dy",
+       "ifade": "Kehf Suresi 45. ayette dünya hayatı, yeşerip gelişen ama sonunda kuruyup rüzgârın savurduğu bitkiye benzetilerek dünyanın geçiciliği vurgulanır.",
+       "dogru": true,
+       "bilgi": "Kehf 45. ayet, gökten inen suyla yeşerip sonra çer çöpe dönen bitki örneğiyle dünya hayatının geçici olduğunu anlatır.",
+       "sayfa": 21,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.16-02",
+       "tur": "bosluk",
+       "cumle": "Zâriyât Suresi 56. ayete göre Allah cinleri ve insanları ancak kendisine ___ etmeleri için yaratmıştır.",
+       "cevap": "kulluk",
+       "celdiriciler": [
+        "ticaret",
+        "rekabet",
+        "seyahat"
+       ],
+       "bilgi": "İslam'a göre varoluş amaçsız değildir; insan Allah'a kulluk için yaratılmıştır ve başıboş bırakılmamıştır.",
+       "sayfa": 21,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.17",
+     "ad": "Hz. Muhammed'in Şahsiyeti",
+     "soruSayisi": 2,
+     "eslesen": [
+      "din-9/5.1",
+      "din-9/5.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.17-01",
+       "tur": "dy",
+       "ifade": "Hz. Muhammed, Medine'ye gelen erzakı daha fazla kazanç için stoklamak isteyen kişiye bu istifçiliği yasaklamıştır.",
+       "dogru": true,
+       "bilgi": "Hz. Muhammed'in rehberliği ibadetlerle sınırlı kalmamış; toplumda adalet ve barışı sağlamak için karaborsacılık (ihtikâr) gibi uygulamaları da yasaklamıştır.",
+       "sayfa": 22,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.18",
+     "ad": "Hz. Muhammed'in Peygamberlik Yönü",
+     "soruSayisi": 3,
+     "eslesen": [
+      "din-9/5.1",
+      "din-9/5.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.18-01",
+       "tur": "bosluk",
+       "cumle": "Ahzâb Suresi 21. ayette Hz. Muhammed'in müminler için \"güzel bir örnek\" olduğu bildirilerek onun ___ yönüne dikkat çekilir.",
+       "cevap": "temsil",
+       "celdiriciler": [
+        "tebyin",
+        "teşri",
+        "tebliğ"
+       ],
+       "bilgi": "Temsil, Hz. Muhammed'in dini en güzel biçimde yaşayarak insanlara örnek olmasıdır; Ahzâb 21. ayet bu yöne işaret eder.",
+       "sayfa": 23,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.18-02",
+       "tur": "eslestir",
+       "yonerge": "Hz. Muhammed'in peygamberlik görevlerini açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Tebliğ",
+         "Vahyi eksiksiz olarak insanlara ulaştırmak"
+        ],
+        [
+         "Tebyin",
+         "Kur'an'daki hükümleri açıklamak"
+        ],
+        [
+         "Teşri",
+         "Allah'ın izniyle hüküm koymak"
+        ],
+        [
+         "Temsil",
+         "Dini yaşayarak örnek olmak"
+        ]
+       ],
+       "bilgi": "Teşri, Hz. Muhammed'in Allah'ın izni ve bilgisi dâhilinde hüküm koymasıdır; müminler bu hükümlere uymakla yükümlüdür (Ahzâb, 33:36).",
+       "sayfa": 23,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.19",
+     "ad": "Hz. Muhammed'e Bağlılık ve İtaat",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-9/5.2",
+      "din-9/5.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.19-01",
+       "tur": "secmeli",
+       "soru": "Hz. Muhammed'in, sahabeden birinin söylediği bir sözü ya da yaptığı bir işi görüp itiraz etmeyerek onaylamasına ne ad verilir?",
+       "secenekler": [
+        "Takrirî sünnet",
+        "Kavlî sünnet",
+        "Fiilî sünnet",
+        "Mütevatir haber"
+       ],
+       "dogru": 0,
+       "bilgi": "Sünnet; Hz. Muhammed'in sözleri (kavlî/sözlü), davranış ve uygulamaları (fiilî) ve sahabenin söz ya da fiilini onaylaması (takrirî) olmak üzere üçe ayrılır.",
+       "sayfa": 23,
+       "yil": "2018-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.20",
+     "ad": "Dosdoğru Yol: Sıratımüstakim",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-9/3.1",
+      "din-9/3.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.20-01",
+       "tur": "eslestir",
+       "yonerge": "Kur'an'daki kavramları anlamlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "İhsan",
+         "Allah'ı görüyormuş gibi kulluk etmek"
+        ],
+        [
+         "Takva",
+         "Allah'a karşı gelmekten sakınmak"
+        ],
+        [
+         "İnfak",
+         "Allah yolunda maldan harcamak"
+        ],
+        [
+         "Sıratımüstakim",
+         "Allah'ın razı olduğu dosdoğru yol"
+        ]
+       ],
+       "bilgi": "Dosdoğru yol duasında iman, takva, riyadan uzak ihlaslı ibadet ve ihsan bilinci birlikte istenir.",
+       "sayfa": 24,
+       "yil": "2021-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.21",
+     "ad": "İyi, Doğru ve Güzel Davranış: Salih Amel",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-9/2.1",
+      "din-9/1.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.21-01",
+       "tur": "dy",
+       "ifade": "Anne ve babaya saygılı davranmak, herkesin yapmakla yükümlü olmadığı, yalnızca teşvik edilen salih amellerdendir.",
+       "dogru": false,
+       "bilgi": "Salih amellerin bir kısmı herkesin yapması gereken görevlerdir; anne babaya saygı da bunlardandır. Yol, çeşme, okul yaptırmak ve faydalı icatlar teşvik edilen hayırlardır.",
+       "sayfa": 24,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.22",
+     "ad": "İnançla İlgili Felsefi Yaklaşımlar",
+     "soruSayisi": 3,
+     "eslesen": [
+      "din-11/4.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.22-01",
+       "tur": "dy",
+       "ifade": "Teizme göre Tanrı vahiy göndererek insanlarla iletişim kurar ve âleme sürekli müdahale eder.",
+       "dogru": true,
+       "bilgi": "Teizm; tek, şuurlu ve iradeli bir Tanrı'nın âlemi yarattığını, vahiyle insanlara yol gösterdiğini ve âleme her an müdahale ettiğini kabul eder.",
+       "sayfa": 24,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.22-02",
+       "tur": "eslestir",
+       "yonerge": "İnançla ilgili felsefi yaklaşımları görüşleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Nihilizm",
+         "Hiçbir değer ve gerçeği kabul etmeyip hiçliği savunur"
+        ],
+        [
+         "Agnostisizm",
+         "Tanrı hakkında kesin bilgiye ulaşılamayacağını savunur"
+        ],
+        [
+         "Deizm",
+         "Tanrı'yı yaratıcı sayar ama evrene müdahalesini reddeder"
+        ],
+        [
+         "Ateizm",
+         "Tanrı'nın varlığını inkâr eder"
+        ]
+       ],
+       "bilgi": "Nihilizm hiçliği, agnostisizm Tanrı'nın bilinemezliğini, deizm yaratıcının evrene müdahale etmediğini, ateizm Tanrı'nın yokluğunu savunur.",
+       "sayfa": 25,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.22-03",
+       "tur": "secmeli",
+       "soru": "Tanrı'yı yaratıcı olarak kabul edip vahyi, peygamberliği ve Tanrı'nın evrene müdahalesini reddeden anlayış hangisidir?",
+       "secenekler": [
+        "Teizm",
+        "Panteizm",
+        "Animizm",
+        "Deizm"
+       ],
+       "dogru": 3,
+       "bilgi": "Deizm aklı yeterli görüp vahyi reddeder; buna karşı insanın aklıyla her şeyi bilemeyeceği, vahye ihtiyaç duyduğu ve Tanrı'nın âleme müdahale ettiği savunulur.",
+       "sayfa": 25,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.23",
+     "ad": "Yeni Dinî Hareketler",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-11/4.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.23-01",
+       "tur": "dy",
+       "ifade": "Yeni dinî hareketlerde grup üyeleri hiyerarşiden uzak, eşit haklara sahip bir yapı içinde bulunur.",
+       "dogru": false,
+       "bilgi": "Bu hareketlerde katı kurallar ve hiyerarşik bir yapı vardır; kurtarıcı beklentisi ve misyonerlik öne çıkar, hızla modernleşen toplumlarda yaygınlaşırlar.",
+       "sayfa": 25,
+       "yil": "2020-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.24",
+     "ad": "Yahudilik",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-11/5.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.24-01",
+       "tur": "eslestir",
+       "yonerge": "Yahudilikle ilgili kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Şabat",
+         "Cumartesi günü tutulan dinlenme ve ibadet günü"
+        ],
+        [
+         "Sinagog",
+         "Yahudilerin ibadet yeri"
+        ],
+        [
+         "Kipa",
+         "Erkeklerin başlarına taktığı küçük takke"
+        ],
+        [
+         "Menora",
+         "Yedi kollu şamdan"
+        ],
+        [
+         "Tora",
+         "Kutsal kitabın ilk beş bölümü"
+        ]
+       ],
+       "bilgi": "Yahudilikte Şabat, sinagog, kipa ve menora önemli dinî unsurlardır; Tora ise kutsal kitap Tanah'ın ilk beş bölümüdür.",
+       "sayfa": 26,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.25",
+     "ad": "Hristiyanlık",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-11/5.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.25-01",
+       "tur": "bosluk",
+       "cumle": "Hristiyanlıkta Baba, Oğul ve Kutsal Ruh'tan oluşan üçlü tanrı anlayışına ___ denir.",
+       "cevap": "teslis",
+       "celdiriciler": [
+        "vaftiz",
+        "aforoz",
+        "ruhban"
+       ],
+       "bilgi": "Teslis inancında Baba yaratıcı, Oğul (Hz. İsa) kurtarıcı, Kutsal Ruh ise tasdik edici kabul edilir.",
+       "sayfa": 26,
+       "yil": "2022-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.26",
+     "ad": "İslam Medeniyetinde Bilim ve Düşüncenin Gelişimi",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-12/1.2",
+      "din-12/1.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.26-01",
+       "tur": "bosluk",
+       "cumle": "Hicretten sonra Medine'de Mescid-i Nebevi'nin bitişiğinde eğitim öğretimin yapıldığı bölüme ___ denir.",
+       "cevap": "suffe",
+       "celdiriciler": [
+        "medrese",
+        "ribat",
+        "darülhadis"
+       ],
+       "bilgi": "Suffe ile başlayan eğitim, sonra cami merkezli ders halkalarıyla sürmüş ve darülhadis, darülkurra ile medreselerde kurumsallaşmıştır.",
+       "sayfa": 26,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.27",
+     "ad": "İslam Medeniyetinde Öne Çıkan Eğitim Kurumları",
+     "soruSayisi": 3,
+     "eslesen": [
+      "din-12/1.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.27-01",
+       "tur": "bosluk",
+       "cumle": "Abbasiler döneminde Bağdat'ta kurulan, çeviri faaliyetlerinin yürütüldüğü ve ilimler akademisi niteliği taşıyan merkez ___'dir.",
+       "cevap": "Beytü'l-hikme",
+       "celdiriciler": [
+        "Nizamiye Medresesi",
+        "Süleymaniye Külliyesi",
+        "Ezher Camii"
+       ],
+       "bilgi": "Beytü'l-hikme'de farklı dillerdeki eserler çevrilmiş, zengin bir kütüphane oluşturulmuş ve ilmî tartışmalar yapılmıştır.",
+       "sayfa": 27,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.27-02",
+       "tur": "dy",
+       "ifade": "Rasathaneler, medreselerin ayrılmaz bir parçası olarak her medresede bulunmuştur.",
+       "dogru": false,
+       "bilgi": "Rasathaneler dinî ve bilimsel gerekçelerle, yöneticilerin desteğiyle kurulmuş ve astronomi ile matematiğe katkı sağlamıştır; medreselerin ayrılmaz parçası değildir.",
+       "sayfa": 27,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.27-03",
+       "tur": "eslestir",
+       "yonerge": "İslam medeniyetindeki eğitim kurumlarını işlevleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Küttap",
+         "Çocuklara okuma yazma öğretilen ilk kademe okul"
+        ],
+        [
+         "Medrese",
+         "Yükseköğretim düzeyinde eğitim kurumu"
+        ],
+        [
+         "Darülkurra",
+         "Kur'an, kıraat ve hafızlık eğitimi veren kurum"
+        ],
+        [
+         "Darülhadis",
+         "Hadis öğretimi yapılan kurum"
+        ]
+       ],
+       "bilgi": "Camilerdeki ders halkaları artan nüfusa yetmeyince küttap, medrese ve darülkurra gibi farklı eğitim kurumları ortaya çıkmıştır.",
+       "sayfa": 27,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.28",
+     "ad": "Müslümanların Bilim Alanında Yaptığı Öncü ve Özgün Çalışmalar",
+     "soruSayisi": 3,
+     "eslesen": [
+      "din-12/1.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.28-01",
+       "tur": "bosluk",
+       "cumle": "İslam'ın inanç esaslarını ayet, hadis ve akla dayanarak açıklayan ve eleştirilere karşı savunan ilim dalı ___ ilmidir.",
+       "cevap": "kelam",
+       "celdiriciler": [
+        "tefsir",
+        "fıkıh",
+        "siyer"
+       ],
+       "bilgi": "Kelam, inanç esaslarını naklî ve aklî delillerle açıklayıp ispat eden ve başka din mensuplarının eleştirilerine karşı savunan ilimdir.",
+       "sayfa": 27,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.28-02",
+       "tur": "eslestir",
+       "yonerge": "Eserleri ait oldukları İslami ilim dalıyla eşleştir.",
+       "ciftler": [
+        [
+         "Hak Dini Kur'an Dili",
+         "Tefsir"
+        ],
+        [
+         "Sahih-i Buhari",
+         "Hadis"
+        ],
+        [
+         "İslam İlmihali",
+         "Fıkıh"
+        ],
+        [
+         "Kitabü't-Tevhid",
+         "Kelam"
+        ]
+       ],
+       "bilgi": "Elmalılı'nın eseri tefsir, Buhari'nin Sahih'i hadis, ilmihaller fıkıh, Maturidi'nin Kitabü't-Tevhid'i ise kelam alanındadır.",
+       "sayfa": 28,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.28-03",
+       "tur": "secmeli",
+       "soru": "Logaritma ve sıfırlı ondalık sayı üzerine çalışmalarıyla bilinen ve cebir ilminin kurucusu kabul edilen Müslüman âlim hangisidir?",
+       "secenekler": [
+        "İbn Rüşd",
+        "Harizmi",
+        "Cabir bin Hayyan",
+        "Uluğ Bey"
+       ],
+       "dogru": 1,
+       "bilgi": "Harizmi matematik alanındaki çalışmalarıyla cebirin kurucusu kabul edilir; logaritmayı geliştirmiş, sıfırlı ondalık sayıyı bulmuştur.",
+       "sayfa": 28,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.29",
+     "ad": "Türklerin Müslüman Olmaları",
+     "soruSayisi": 2,
+     "eslesen": [
+      "din-12/2.1",
+      "din-12/2.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.29-01",
+       "tur": "bosluk",
+       "cumle": "Sınır boylarında güvenliği sağlamak ve fetihlere hazırlanmak için kurulan, zamanla tekke ve zaviyeye dönüşen yapılara ___ denir.",
+       "cevap": "ribat",
+       "celdiriciler": [
+        "suffe",
+        "imaret",
+        "darüşşifa"
+       ],
+       "bilgi": "Ribatlar sınırlar genişleyince iç bölgelerde kalmış, kervansaray ya da ilim ve zikir merkezlerine dönüşerek İslam'ın yayılmasını hızlandırmıştır.",
+       "sayfa": 28,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.29-02",
+       "tur": "dy",
+       "ifade": "Ahilik teşkilatının temel amacı devlet adamı yetiştirmektir.",
+       "dogru": false,
+       "bilgi": "Fütüvvet anlayışından beslenen Ahilik; İslam'ın yayılmasında, göçebelerin yerleşik hayata geçmesinde, gençlere meslek kazandırmada ve toplumsal düzende etkili olmuştur.",
+       "sayfa": 28,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.30",
+     "ad": "Tasavvufi Düşüncenin Oluşumu",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-12/3.1",
+      "din-12/3.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.30-01",
+       "tur": "dy",
+       "ifade": "Tasavvuf; nefsi arındırmayı, güzel ahlaka sahip olmayı ve ibadetleri samimiyetle yapmayı amaçlayan bir yorum biçimidir.",
+       "dogru": true,
+       "bilgi": "Tasavvuf, Hz. Muhammed'in sade, mütevazı ve tefekküre dalan hayatını örnek alarak İslam'ın ahlak esasları üzerinde yoğunlaşan düşünce sistemidir.",
+       "sayfa": 29,
+       "yil": "2018-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.31",
+     "ad": "Kültürümüzde Etkin Olan Tasavvufi Yorumlar",
+     "soruSayisi": 2,
+     "eslesen": [
+      "din-12/3.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.31-01",
+       "tur": "dy",
+       "ifade": "Ahilik, kültürümüzde etkin olan tasavvufi yorumlardan (tarikatlardan) biridir.",
+       "dogru": false,
+       "bilgi": "Yesevilik, Kadirilik, Nakşibendilik ve Bektaşilik tasavvufi yorumlardır; Ahilik ise fütüvvet anlayışına dayanan bir esnaf ve zanaatkâr teşkilatıdır.",
+       "sayfa": 29,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.31-02",
+       "tur": "eslestir",
+       "yonerge": "Tasavvufi yorumları dayandıkları şahsiyetle eşleştir.",
+       "ciftler": [
+        [
+         "Mevlevilik",
+         "Mevlana Celaleddin Rumi"
+        ],
+        [
+         "Yesevilik",
+         "Hoca Ahmed Yesevi"
+        ],
+        [
+         "Kadirilik",
+         "Abdülkadir Geylani"
+        ],
+        [
+         "Nakşibendilik",
+         "Bahaeddin Nakşibend"
+        ]
+       ],
+       "bilgi": "Mevlevilikte nefis terbiyesi ve sema önemlidir; sema, insanın benliğini aşıp Hakk'a yönelmesini ve manevi yolculuğunu temsil eder.",
+       "sayfa": 29,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.32",
+     "ad": "İktisadi Hayatla İlgili Meseleler",
+     "soruSayisi": 2,
+     "eslesen": [
+      "din-12/4.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.32-01",
+       "tur": "bosluk",
+       "cumle": "\"İnsan için kendi çalışmasından başka bir şey yoktur.\" (Necm, 53:39) ayeti, İslam'da ___ dayalı kazancın değerini vurgular.",
+       "cevap": "emeğe",
+       "celdiriciler": [
+        "mirasa",
+        "faize",
+        "şansa"
+       ],
+       "bilgi": "İslam, çalışarak elde edilen helal kazancı över ve kimsenin emeğinin zayi edilmemesini, işçinin ücretinin vaktinde ödenmesini ister.",
+       "sayfa": 30,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.32-02",
+       "tur": "dy",
+       "ifade": "İslam, insanlar arasında ortak mülkiyeti esas alan bir ekonomik düzen öngörür.",
+       "dogru": false,
+       "bilgi": "İslam bireysel mülkiyeti tanır; helal kazanç, paylaşma, yoksulu gözetme, cimrilik ve israftan kaçınma yoluyla sosyal adaleti esas alır.",
+       "sayfa": 30,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.33",
+     "ad": "Dinî Meselelerin Çözümünde Temel İlke ve Yöntemler",
+     "soruSayisi": 2,
+     "eslesen": [
+      "din-12/4.1",
+      "din-12/4.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.33-01",
+       "tur": "dy",
+       "ifade": "Din İşleri Yüksek Kurulu'nun organ nakline ilişkin fetvasına göre alınacak organ veya doku karşılığında hiçbir şekilde ücret alınmamalıdır.",
+       "dogru": true,
+       "bilgi": "Fetvaya göre başka çare olmamalı, organ alınan kişi ölmüş olmalı ya da hayati işlevi etkilenmemeli, ücret alınmamalı, alıcı razı olmalı ve işlem devlet denetiminde yapılmalıdır.",
+       "sayfa": 31,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.33-02",
+       "tur": "bosluk",
+       "cumle": "Hakkında açık hüküm bulunmayan bir meseleye, ortak gerekçeleri nedeniyle benzer bir meselenin hükmünü uygulamaya ___ denir.",
+       "cevap": "kıyas",
+       "celdiriciler": [
+        "icma",
+        "fetva",
+        "tefsir"
+       ],
+       "bilgi": "Dinî hükümlerin temel kaynakları Kur'an, Sünnet, icma ve kıyastır; diğer kutsal kitaplardaki hükümler bu kaynaklar arasında yer almaz.",
+       "sayfa": 31,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.34",
+     "ad": "Hinduizm",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-12/5.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.34-01",
+       "tur": "bosluk",
+       "cumle": "Hinduizmde insanların doğuştan belirlenen ve aralarında geçişin mümkün olmadığı toplumsal sınıflara ayrılmasına ___ sistemi denir.",
+       "cevap": "kast",
+       "celdiriciler": [
+        "karma",
+        "samsara",
+        "dharma"
+       ],
+       "bilgi": "Kast sistemine göre toplum din adamları, yöneticiler-askerler, esnaflar, köleler ve toplum dışı sayılanlar olarak doğuştan ayrılır; meslek ve evliliği belirler.",
+       "sayfa": 32,
+       "yil": "2019-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.35",
+     "ad": "Budizm",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-12/5.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.35-01",
+       "tur": "dy",
+       "ifade": "Budizmin kurucusu Sidharta Gotama'nın vaazları, ölümünden sonra Tipitaka (Üç Sepet) adıyla derlenmiştir.",
+       "dogru": true,
+       "bilgi": "Saray hayatını bırakıp hakikati arayan Sidharta Gotama din adamlarının şekilciliğine karşı çıkmış; vaazları Tipitaka'da toplanmıştır.",
+       "sayfa": 32,
+       "yil": "2018-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.36",
+     "ad": "Taoizm",
+     "soruSayisi": 1,
+     "eslesen": [
+      "din-12/5.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.36-01",
+       "tur": "bosluk",
+       "cumle": "Taoizmde evrendeki iki zıt ama birbirini tamamlayan ögenin uyum ve dengesini simgeleyen kavram çifti ___'dır.",
+       "cevap": "Yin-Yang",
+       "celdiriciler": [
+        "Brahman-Atman",
+        "Karma-Samsara",
+        "Nirvana-Dukkha"
+       ],
+       "bilgi": "Yin ve Yang, Taoizmde karanlık-aydınlık gibi zıt ögelerin her şeyde bulunduğunu ve sürekli etkileşim içinde dengelendiğini anlatır.",
+       "sayfa": 32,
+       "yil": "2026-AYT"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
