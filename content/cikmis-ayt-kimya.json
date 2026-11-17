@@ -1,0 +1,1202 @@
+{
+ "kitap": "cikmis-ayt-kimya",
+ "tip": "cikmis",
+ "ders": "kimya",
+ "sinav": "AYT",
+ "baslik": "YKS Çıkmış Sorular 2018-2026 AYT Sayısal",
+ "sayfaUrl": "https://ogmmateryal.eba.gov.tr/yks-cikmis-soru-kitaplari",
+ "pdfUrl": "https://ogm-small-cdn.eba.gov.tr/ogm-test-images/6abbe07510f5ec2735b6cda6/CS_AYT_SAY_2018_2026.pdf",
+ "testUrl": "https://ogmmateryal.eba.gov.tr/ogm-test/book/6abbe72f10f5ec2735b6e6a5",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Kimya",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Atomun Kuantum Modeli",
+     "soruSayisi": 8,
+     "eslesen": [
+      "kimya-9/1.2.2",
+      "kimya-9/1.2.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "eslestir",
+       "yonerge": "Alt kabukları açısal momentum kuantum sayılarıyla (ℓ) eşleştir.",
+       "ciftler": [
+        [
+         "s",
+         "ℓ = 0"
+        ],
+        [
+         "p",
+         "ℓ = 1"
+        ],
+        [
+         "d",
+         "ℓ = 2"
+        ],
+        [
+         "f",
+         "ℓ = 3"
+        ]
+       ],
+       "bilgi": "Açısal momentum kuantum sayısı orbitalin türünü belirler: s için 0, p için 1, d için 2, f için 3'tür.",
+       "sayfa": 165,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.1-02",
+       "tur": "dy",
+       "ifade": "Birinci enerji düzeyindeki (n = 1) elektronların açısal momentum kuantum sayısı 1'dir.",
+       "dogru": false,
+       "bilgi": "ℓ, 0 ile n − 1 arasında değer alır; bu nedenle n = 1 olan elektronlar için ℓ yalnızca 0 olabilir (1s orbitali).",
+       "sayfa": 165,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.1-03",
+       "tur": "dy",
+       "ifade": "Bir p alt kabuğunda en fazla 6 elektron bulunabilir.",
+       "dogru": true,
+       "bilgi": "ℓ = 1 olan p alt kabuğunda mℓ değeri −1, 0 ve +1 olan üç orbital vardır; her orbital zıt spinli en fazla iki elektron alır.",
+       "sayfa": 166,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.1-04",
+       "tur": "secmeli",
+       "soru": "Temel hâldeki ₂₄Cr atomunun elektron dizilimi hangi alt kabuklarla sona erer?",
+       "secenekler": [
+        "4s¹ 3d⁵",
+        "4s² 3d⁴",
+        "4s¹ 3d⁴",
+        "4s² 3d⁵"
+       ],
+       "dogru": 0,
+       "bilgi": "Krom, yarı dolu d alt kabuğunun kararlılığı nedeniyle 4s² 3d⁴ yerine 4s¹ 3d⁵ dizilimine sahiptir; bu yüzden n = 4 olan tek elektronu vardır.",
+       "sayfa": 166,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "Periyodik Özellikler",
+     "soruSayisi": 1,
+     "eslesen": [
+      "kimya-9/1.2.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "dy",
+       "ifade": "Elektron sayıları eşit olan iyonlarda çekirdekteki proton sayısı arttıkça iyon yarıçapı küçülür.",
+       "dogru": true,
+       "bilgi": "O²⁻, F⁻ ve Na⁺ iyonlarının her biri 10 elektronludur; proton sayısı arttıkça çekim artar ve yarıçap Na⁺ < F⁻ < O²⁻ olur.",
+       "sayfa": 167,
+       "yil": "2018-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "Yükseltgenme Basamakları",
+     "soruSayisi": 1,
+     "eslesen": [
+      "kimya-9/2.1.6",
+      "kimya-10/1.1.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki bileşiklerin hangisinde kükürtün yükseltgenme basamağı +4'tür?",
+       "secenekler": [
+        "SO₃",
+        "SO₂",
+        "SF₆",
+        "CaSO₄"
+       ],
+       "dogru": 1,
+       "bilgi": "SO₂'de kükürt +4; SO₃, SF₆ ve sülfat iyonu içeren bileşiklerde ise +6 yükseltgenme basamağındadır.",
+       "sayfa": 167,
+       "yil": "2021-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.4",
+     "ad": "Gazların Özellikleri ve Gaz Yasaları",
+     "soruSayisi": 2,
+     "eslesen": [
+      "kimya-10/1.2.1",
+      "kimya-10/1.2.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.4-01",
+       "tur": "dy",
+       "ifade": "Aynı sıcaklık ve basınçta bulunan gazların hacimleri mol sayılarıyla ters orantılıdır.",
+       "dogru": false,
+       "bilgi": "Avogadro yasasına göre aynı sıcaklık ve basınçta eşit hacimdeki gazlar eşit sayıda tanecik içerir; hacim mol sayısıyla doğru orantılıdır.",
+       "sayfa": 167,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.5",
+     "ad": "İdeal Gaz Yasası",
+     "soruSayisi": 3,
+     "eslesen": [
+      "kimya-10/1.2.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.5-01",
+       "tur": "dy",
+       "ifade": "Basıncı sabit tutulan belirli miktardaki ideal gazın mutlak sıcaklığı artırılırsa yoğunluğu azalır.",
+       "dogru": true,
+       "bilgi": "İdeal gazın yoğunluğu basınçla doğru, mutlak sıcaklıkla ters orantılıdır; sıcaklık artınca hacim büyür, yoğunluk azalır.",
+       "sayfa": 168,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.6",
+     "ad": "Gazlarda Kinetik Teori",
+     "soruSayisi": 5,
+     "eslesen": [
+      "kimya-10/1.2.1",
+      "kimya-10/1.2.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.6-01",
+       "tur": "dy",
+       "ifade": "Aynı sıcaklıkta bulunan iki gazdan mol kütlesi büyük olanın tanecikleri daha yüksek ortalama kinetik enerjiye sahiptir.",
+       "dogru": false,
+       "bilgi": "Gaz taneciklerinin ortalama kinetik enerjisi yalnızca mutlak sıcaklığa bağlıdır; gazın türüne ve mol kütlesine bağlı değildir.",
+       "sayfa": 168,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.6-02",
+       "tur": "secmeli",
+       "soru": "Aynı sıcaklık ve basınçta aşağıdaki gazlardan hangisi küçük bir delikten en kısa sürede efüzlenir?",
+       "secenekler": [
+        "O₂",
+        "CH₄",
+        "He",
+        "H₂"
+       ],
+       "dogru": 3,
+       "bilgi": "Hafif gazların tanecikleri daha hızlı hareket eder; bu yüzden mol kütlesi en küçük olan H₂ en hızlı yayılır ve efüzlenir.",
+       "sayfa": 169,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.6-03",
+       "tur": "bosluk",
+       "cumle": "Aynı koşullardaki gazların difüzyon hızlarının mol kütlelerinin kareköküyle ters orantılı olduğunu ifade eden yasa ___ yasasıdır.",
+       "cevap": "Graham",
+       "celdiriciler": [
+        "Avogadro",
+        "Dalton",
+        "Boyle"
+       ],
+       "bilgi": "Graham yasasına göre mol kütlesi büyük olan gaz daha yavaş yayılır; bir borunun iki ucundan bırakılan gazlar ağır gazın tarafına yakın yerde karşılaşır.",
+       "sayfa": 169,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.7",
+     "ad": "Gaz Karışımları",
+     "soruSayisi": 2,
+     "eslesen": [
+      "kimya-10/1.2.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.7-01",
+       "tur": "dy",
+       "ifade": "Su üzerinde toplanan bir gazın kısmi basıncı, toplam basınçtan o sıcaklıktaki suyun buhar basıncı çıkarılarak bulunur.",
+       "dogru": true,
+       "bilgi": "Su üzerinde toplanan gaz su buharıyla karışıktır; Dalton'un kısmi basınçlar yasasına göre toplam basınç bileşenlerin kısmi basınçları toplamıdır.",
+       "sayfa": 170,
+       "yil": "2019-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.8",
+     "ad": "Derişim Birimleri",
+     "soruSayisi": 9,
+     "eslesen": [
+      "kimya-10/2.1.7"
+     ],
+     "kartlar": [
+      {
+       "id": "1.8-01",
+       "tur": "dy",
+       "ifade": "Bir tuz çözeltisine su eklenerek seyreltildiğinde çözünen maddenin mol sayısı değişmez.",
+       "dogru": true,
+       "bilgi": "Seyreltmede çözücü miktarı ve çözelti hacmi artar, derişim azalır; çözünen maddenin mol sayısı ise aynı kalır.",
+       "sayfa": 170,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.8-02",
+       "tur": "bosluk",
+       "cumle": "1 kilogram çözücüde çözünmüş maddenin mol sayısıyla ifade edilen derişim birimine ___ denir.",
+       "cevap": "molalite",
+       "celdiriciler": [
+        "molarite",
+        "kütlece yüzde",
+        "mol kesri"
+       ],
+       "bilgi": "Molalite çözücünün kütlesine, molarite ise çözeltinin hacmine (1 litre) göre tanımlanan derişim birimidir.",
+       "sayfa": 171,
+       "yil": "2021-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.9",
+     "ad": "Koligatif Özellikler",
+     "soruSayisi": 4,
+     "eslesen": [
+      "kimya-10/2.1.8"
+     ],
+     "kartlar": [
+      {
+       "id": "1.9-01",
+       "tur": "dy",
+       "ifade": "Kaynama noktası yükselmesi gibi koligatif özellikler, çözünen taneciklerin cinsine değil toplam tanecik derişimine bağlıdır.",
+       "dogru": true,
+       "bilgi": "İyonlarına ayrışarak çözünen tuzlar daha çok tanecik oluşturur; bu yüzden aynı molalitedeki şeker çözeltisine göre kaynama noktasını daha çok yükseltir.",
+       "sayfa": 173,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.9-02",
+       "tur": "secmeli",
+       "soru": "Bir tuz çözeltisi su eklenerek seyreltildiğinde aşağıdakilerden hangisi gerçekleşir?",
+       "secenekler": [
+        "Kaynamaya başlama sıcaklığı yükselir",
+        "Donmaya başlama sıcaklığı yükselir",
+        "Osmotik basıncı artar",
+        "Buhar basıncı azalır"
+       ],
+       "dogru": 1,
+       "bilgi": "Seyreltilen çözeltide tanecik derişimi azalır; osmotik basınç ve kaynama noktası düşer, donma noktası ise yükselir.",
+       "sayfa": 173,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.10",
+     "ad": "Çözünürlük",
+     "soruSayisi": 1,
+     "eslesen": [
+      "kimya-10/2.1.4",
+      "kimya-10/2.1.5"
+     ],
+     "kartlar": [
+      {
+       "id": "1.10-01",
+       "tur": "dy",
+       "ifade": "Potasyum nitratın (KNO₃) sudaki çözünürlüğü sıcaklık arttıkça azalır.",
+       "dogru": false,
+       "bilgi": "KNO₃ gibi suda endotermik çözünen katıların çözünürlüğü sıcaklık arttıkça artar; ısıtılan doygun çözelti doymamış hâle geçer.",
+       "sayfa": 173,
+       "yil": "2021-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.11",
+     "ad": "Tepkimelerde Isı Değişimi",
+     "soruSayisi": 1,
+     "eslesen": [
+      "kimya-11/1.1.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.11-01",
+       "tur": "bosluk",
+       "cumle": "Standart koşullarda elementlerin en kararlı hâllerinin standart oluşum entalpisi ___ kabul edilir.",
+       "cevap": "sıfır",
+       "celdiriciler": [
+        "en yüksek değer",
+        "her zaman negatif",
+        "her zaman pozitif"
+       ],
+       "bilgi": "O₂(g) ve Br₂(s) gibi elementlerin en kararlı hâllerinin oluşum entalpisi sıfırdır; tepkime entalpisi bu değerler kullanılarak hesaplanır.",
+       "sayfa": 173,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.12",
+     "ad": "Oluşum Entalpisi",
+     "soruSayisi": 3,
+     "eslesen": [
+      "kimya-11/1.1.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.12-01",
+       "tur": "dy",
+       "ifade": "Karbon monoksitin yanarak karbon dioksite dönüşmesi tepkimesinin entalpisi, CO₂'in standart oluşum entalpisine eşittir.",
+       "dogru": false,
+       "bilgi": "Oluşum entalpisi 1 mol bileşiğin en kararlı hâldeki elementlerinden oluşumuna aittir; H₂ ile O₂'den sıvı su oluşumu buna örnektir.",
+       "sayfa": 174,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.12-02",
+       "tur": "secmeli",
+       "soru": "Ekzotermik bir tepkime için aşağıdakilerden hangisi doğrudur?",
+       "secenekler": [
+        "Ürünlerin entalpileri toplamı girenlerinkinden büyüktür",
+        "Tepkime entalpisi (ΔH) pozitiftir",
+        "Oluşan bağların enerjileri toplamı kırılan bağlarınkinden büyüktür",
+        "Gerçekleşirken ortamdan ısı alır"
+       ],
+       "dogru": 2,
+       "bilgi": "Ekzotermik tepkimede girenlerin entalpisi ürünlerinkinden büyüktür, ΔH negatiftir ve oluşan bağlar kırılanlardan daha fazla enerji açığa çıkarır.",
+       "sayfa": 174,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.13",
+     "ad": "Tepkime Isılarının Toplanabilirliği",
+     "soruSayisi": 4,
+     "eslesen": [
+      "kimya-11/1.1.3",
+      "kimya-11/1.1.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.13-01",
+       "tur": "dy",
+       "ifade": "Bir tepkime denklemi ters çevrildiğinde entalpi değişiminin sayısal değeri aynı kalır, yalnızca işareti değişir.",
+       "dogru": true,
+       "bilgi": "Denklem ters çevrilince ΔH'nin işareti değişir; denklem bir sayıyla çarpılırsa ΔH de aynı sayıyla çarpılır.",
+       "sayfa": 175,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.13-02",
+       "tur": "bosluk",
+       "cumle": "Bir tepkimenin entalpi değişiminin, tepkimenin tek basamakta ya da birkaç basamakta gerçekleşmesinden bağımsız olduğunu ifade eden yasa ___ yasasıdır.",
+       "cevap": "Hess",
+       "celdiriciler": [
+        "Avogadro",
+        "Graham",
+        "Dalton"
+       ],
+       "bilgi": "Hess yasasına göre ara basamakların entalpileri toplanarak toplam tepkimenin entalpisi bulunabilir; örneğin metanın yanma entalpisi oluşum tepkimelerinden hesaplanır.",
+       "sayfa": 175,
+       "yil": "2022-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.14",
+     "ad": "Tepkime Hızları",
+     "soruSayisi": 5,
+     "eslesen": [
+      "kimya-11/1.2.1",
+      "kimya-11/1.2.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.14-01",
+       "tur": "dy",
+       "ifade": "Potansiyel enerji diyagramında ürünlerin enerjisi girenlerinkinden yüksekse tepkime endotermiktir.",
+       "dogru": true,
+       "bilgi": "Ürünlerin potansiyel enerjisi girenlerinkinden yüksekse ΔH pozitiftir; aktivasyon enerjisi girenlerden tepe noktasına kadar olan enerji farkıdır.",
+       "sayfa": 176,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.14-02",
+       "tur": "dy",
+       "ifade": "Sabit sıcaklıkta gerçekleşen bir tepkime ilerledikçe hız sabitinin (k) değeri azalır.",
+       "dogru": false,
+       "bilgi": "Hız sabiti sıcaklığa ve katalizöre bağlıdır; tepkime ilerledikçe derişim azaldığı için hız düşer ama k değişmez.",
+       "sayfa": 176,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.14-03",
+       "tur": "bosluk",
+       "cumle": "Çok basamaklı bir tepkimenin hızını, aktivasyon enerjisi en büyük olan ___ basamak belirler.",
+       "cevap": "en yavaş",
+       "celdiriciler": [
+        "en hızlı",
+        "ilk",
+        "son"
+       ],
+       "bilgi": "Potansiyel enerji grafiğinde birden fazla tepe varsa tepkime çok basamaklıdır; aktivasyon enerjisi en büyük olan basamak en yavaştır ve hızı belirler.",
+       "sayfa": 176,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.15",
+     "ad": "Tepkime Hızını Etkileyen Faktörler",
+     "soruSayisi": 4,
+     "eslesen": [
+      "kimya-11/1.2.3",
+      "kimya-11/1.2.4"
+     ],
+     "kartlar": [
+      {
+       "id": "1.15-01",
+       "tur": "dy",
+       "ifade": "Hız ifadesindeki derişim üsleri deneysel verilerden belirlenir ve bu üslerin toplamı tepkimenin derecesini verir.",
+       "dogru": true,
+       "bilgi": "Bir maddenin derişimi iki katına çıkınca hız da iki katına çıkıyorsa tepkime o maddeye göre birinci derecedendir; toplam derece üslerin toplamıdır.",
+       "sayfa": 177,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.15-02",
+       "tur": "secmeli",
+       "soru": "Bir tepkimenin eşik (aktivasyon) enerjisini düşürerek hızını artıran etken hangisidir?",
+       "secenekler": [
+        "Katalizör eklenmesi",
+        "Sıcaklığın artırılması",
+        "Temas yüzeyinin artırılması",
+        "Tepkimeye girenlerin derişiminin artırılması"
+       ],
+       "dogru": 0,
+       "bilgi": "Katalizör aktivasyon enerjisi daha düşük bir yol sağlar; sıcaklık artışı ise eşik enerjisini değiştirmez, eşiği aşan tanecik sayısını artırır.",
+       "sayfa": 177,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.16",
+     "ad": "Kimyasal Denge",
+     "soruSayisi": 3,
+     "eslesen": [
+      "kimya-11/2.1.1",
+      "kimya-11/2.1.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.16-01",
+       "tur": "dy",
+       "ifade": "Sabit hacimli kapta dengedeki gaz karışımına inert bir gaz eklenmesi, tepkimeye katılan gazların kısmi basınçlarını değiştirmez.",
+       "dogru": true,
+       "bilgi": "Sabit hacimde inert gaz toplam basıncı artırır ama tepkimedeki gazların kısmi basınçları ve denge değişmez.",
+       "sayfa": 178,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.16-02",
+       "tur": "dy",
+       "ifade": "Heterojen denge tepkimelerinde saf katılar denge sabiti ifadesinde yer alır.",
+       "dogru": false,
+       "bilgi": "Saf katı ve sıvıların derişimi sabit kabul edilir; bu yüzden denge sabiti ifadesine yalnızca gazlar ve sulu çözeltideki türler yazılır.",
+       "sayfa": 178,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.17",
+     "ad": "Dengeyi Etkileyen Faktörler",
+     "soruSayisi": 4,
+     "eslesen": [
+      "kimya-11/2.1.5"
+     ],
+     "kartlar": [
+      {
+       "id": "1.17-01",
+       "tur": "dy",
+       "ifade": "Kimyasal dengeye ulaşıldığında ileri ve geri tepkimeler tamamen durur.",
+       "dogru": false,
+       "bilgi": "Denge dinamiktir: ileri ve geri tepkimeler eşit hızla sürer, bu nedenle maddelerin derişimleri sabit kalır.",
+       "sayfa": 179,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.17-02",
+       "tur": "secmeli",
+       "soru": "Ekzotermik bir denge tepkimesinde sabit hacimde sıcaklık artırılırsa ne olur?",
+       "secenekler": [
+        "Denge ürünler yönüne kayar",
+        "Denge sabitinin değeri artar",
+        "Denge girenler yönüne kayar",
+        "Denge konumu değişmez"
+       ],
+       "dogru": 2,
+       "bilgi": "Sıcaklık artışı ekzotermik tepkimede dengeyi girenler yönüne kaydırır ve K'yi küçültür; katalizör ise denge konumunu değiştirmez.",
+       "sayfa": 179,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.17-03",
+       "tur": "bosluk",
+       "cumle": "Sabit sıcaklıkta hacim değişimi, yalnızca girenler ve ürünlerdeki toplam ___ mol sayısı farklı olan denge tepkimelerini etkiler.",
+       "cevap": "gaz",
+       "celdiriciler": [
+        "katı",
+        "sıvı",
+        "iyon"
+       ],
+       "bilgi": "Hacim azalınca denge gaz mol sayısının az olduğu yöne kayar; iki taraftaki gaz mol sayıları eşitse hacim değişimi dengeyi etkilemez.",
+       "sayfa": 179,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.17-04",
+       "tur": "dy",
+       "ifade": "Dengedeki CaCO₃(k) ⇌ CaO(k) + CO₂(g) sistemine bir miktar daha CaCO₃ katısı eklenirse daha fazla CaO oluşur.",
+       "dogru": false,
+       "bilgi": "Katı eklemek dengeyi etkilemez; tepkime endotermik olduğundan sıcaklık artışı dengeyi ürünler yönüne kaydırır ve CaO miktarını artırır.",
+       "sayfa": 180,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.18",
+     "ad": "Sulu Çözelti Dengeleri",
+     "soruSayisi": 10,
+     "eslesen": [
+      "kimya-11/2.2.3",
+      "kimya-11/2.2.6",
+      "kimya-11/2.3.1",
+      "kimya-11/2.3.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.18-01",
+       "tur": "dy",
+       "ifade": "Kuvvetli bir asidin kuvvetli bir bazla titrasyonunda eşdeğerlik noktasındaki çözeltinin pH'si 25 °C'de 7'dir.",
+       "dogru": true,
+       "bilgi": "Kuvvetli asit ile kuvvetli baz nötr tuz oluşturur; eşdeğerlik noktasında pH 7'dir ve bu noktadan sonra eklenen baz pH'yi hızla yükseltir.",
+       "sayfa": 180,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.18-02",
+       "tur": "secmeli",
+       "soru": "Suda çözünmesi ekzotermik olan bir tuzun çözünürlüğünü aşağıdakilerden hangisi artırır?",
+       "secenekler": [
+        "Çözeltinin sıcaklığını artırmak",
+        "Ortak iyon içeren başka bir tuz eklemek",
+        "Aynı tuzdan katı eklemek",
+        "Çözeltinin sıcaklığını düşürmek"
+       ],
+       "dogru": 3,
+       "bilgi": "Ekzotermik çözünmede sıcaklık düşüşü çözünürlüğü artırır; ortak iyon çözünürlüğü azaltır, aynı tuzdan katı eklemek ise değiştirmez.",
+       "sayfa": 181,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.18-03",
+       "tur": "bosluk",
+       "cumle": "Derişimi bilinen bir çözelti kullanılarak derişimi bilinmeyen asit ya da baz çözeltisinin derişiminin belirlenmesi işlemine ___ denir.",
+       "cevap": "titrasyon",
+       "celdiriciler": [
+        "elektroliz",
+        "damıtma",
+        "kristallendirme"
+       ],
+       "bilgi": "Titrasyonla asit derişimini bulmak için bazın derişimi, harcanan baz hacmi ve titre edilen asit çözeltisinin hacmi bilinmelidir.",
+       "sayfa": 181,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.18-04",
+       "tur": "dy",
+       "ifade": "Az çözünen bir tuzun, ortak iyon içeren bir çözeltideki çözünürlüğü saf sudaki çözünürlüğünden büyüktür.",
+       "dogru": false,
+       "bilgi": "Ortak iyon etkisi çözünürlük dengesini katı yönüne kaydırır; bu yüzden az çözünen tuz en çok saf suda çözünür.",
+       "sayfa": 182,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.18-05",
+       "tur": "secmeli",
+       "soru": "25 °C'de aynı derişimdeki HCl ve HF sulu çözeltileri için aşağıdakilerden hangisi doğrudur?",
+       "secenekler": [
+        "HF, HCl'den daha kuvvetli bir asittir",
+        "HCl'nin iyonlaşma oranı HF'ninkinden büyüktür",
+        "HF çözeltisinin pH'si HCl'ninkinden küçüktür",
+        "İki çözeltideki H⁺ derişimi eşittir"
+       ],
+       "dogru": 1,
+       "bilgi": "HCl kuvvetli asittir ve suda tamamen iyonlaşır; zayıf asit olan HF az iyonlaştığından aynı derişimde pH'si daha yüksektir.",
+       "sayfa": 182,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.18-06",
+       "tur": "dy",
+       "ifade": "Doymuş AgCl çözeltisine bir miktar daha AgCl katısı eklenmesi AgCl'nin çözünürlüğünü değiştirmez.",
+       "dogru": true,
+       "bilgi": "Belirli sıcaklıkta çözünürlük katı miktarına bağlı değildir; çözeltiye Cl⁻ içeren NaCl eklenirse ortak iyon etkisiyle çözünürlük azalır.",
+       "sayfa": 182,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.19",
+     "ad": "İndirgenme - Yükseltgenme Tepkimelerinde Elektrik Akımı",
+     "soruSayisi": 1,
+     "eslesen": [
+      "kimya-10/1.1.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.19-01",
+       "tur": "bosluk",
+       "cumle": "Bir redoks tepkimesinde elektron vererek yükseltgenen ve karşısındaki maddeyi indirgeyen tür ___ olarak adlandırılır.",
+       "cevap": "indirgen",
+       "celdiriciler": [
+        "yükseltgen",
+        "katalizör",
+        "inhibitör"
+       ],
+       "bilgi": "Bakır ile derişik sülfürik asit tepkimesinde Cu yükseltgenir (indirgen), H₂SO₄ ise indirgenir (yükseltgen); SO₂'deki kükürt +4 değerliklidir.",
+       "sayfa": 183,
+       "yil": "2020-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.20",
+     "ad": "Elektrotlar ve Elektrokimyasal Hücreler",
+     "soruSayisi": 4,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.20-01",
+       "tur": "dy",
+       "ifade": "Galvanik hücrede hücre tepkimesi dengeye ulaştığında hücre potansiyeli sıfır olur.",
+       "dogru": true,
+       "bilgi": "Galvanik hücrede istemli tepkime ilerledikçe potansiyel azalır ve dengede sıfırlanır; kütlesi artan elektrot katottur.",
+       "sayfa": 183,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.20-02",
+       "tur": "secmeli",
+       "soru": "Çalışan bir galvanik hücrede tuz köprüsündeki anyonlar hangi yöne hareket eder?",
+       "secenekler": [
+        "Katot yarı hücresine",
+        "Anot yarı hücresine",
+        "Dış devreye",
+        "Hiçbir yöne hareket etmez"
+       ],
+       "dogru": 1,
+       "bilgi": "Anotta katyonlar oluştuğu için tuz köprüsünden anyonlar anoda, katyonlar katoda geçer; elektronlar dış devreye anottan verilir.",
+       "sayfa": 184,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.20-03",
+       "tur": "dy",
+       "ifade": "Kendiliğinden (istemli) çalışan bir galvanik hücrenin hücre potansiyeli sıfırdan küçüktür.",
+       "dogru": false,
+       "bilgi": "İstemli hücre tepkimesinin potansiyeli pozitiftir; Al–Sn hücresinde Al anot olur ve kütlesi azalır, Sn²⁺ iyonları indirgenir.",
+       "sayfa": 184,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.20-04",
+       "tur": "eslestir",
+       "yonerge": "Elektrokimyasal hücrenin bölümlerini görevleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Anot",
+         "Yükseltgenmenin gerçekleştiği elektrot"
+        ],
+        [
+         "Katot",
+         "İndirgenmenin gerçekleştiği elektrot"
+        ],
+        [
+         "Tuz köprüsü",
+         "Yarı hücreler arasında iyon geçişini sağlar"
+        ],
+        [
+         "Dış devre",
+         "Elektronların anottan katoda aktığı yol"
+        ]
+       ],
+       "bilgi": "Hücre şemasında anot sola, katot sağa yazılır; Sn|SnCl₂‖AgNO₃|Ag hücresinde Sn anot, Ag katottur.",
+       "sayfa": 184,
+       "yil": "2022-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.21",
+     "ad": "Elektrot Potansiyelleri",
+     "soruSayisi": 8,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.21-01",
+       "tur": "secmeli",
+       "soru": "Standart indirgenme potansiyelleri Ag⁺ > Cu²⁺ > Ni²⁺ > Zn²⁺ sırasında olduğuna göre bakır metali hangi iyonu içeren çözeltiye atılırsa tepkime gerçekleşir?",
+       "secenekler": [
+        "Zn²⁺",
+        "Ni²⁺",
+        "Ag⁺"
+       ],
+       "dogru": 2,
+       "bilgi": "Bir metal, indirgenme potansiyeli kendisininkinden büyük olan iyonları indirger; bakır Ag⁺ iyonlarını indirgerken Zn²⁺ ve Ni²⁺ ile tepkime vermez.",
+       "sayfa": 185,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.21-02",
+       "tur": "dy",
+       "ifade": "İki metalden oluşan galvanik hücrede standart indirgenme potansiyeli daha küçük olan metal anot olur.",
+       "dogru": true,
+       "bilgi": "Zn ve Cd'den oluşan hücrede indirgenme potansiyeli daha negatif olan Zn yükseltgenir ve anot olur; Cd²⁺ iyonları katotta indirgenir.",
+       "sayfa": 185,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.21-03",
+       "tur": "secmeli",
+       "soru": "Standart koşullardaki Cd|Cd²⁺‖Ag⁺|Ag hücresinde dış devrede elektronlar hangi yönde akar?",
+       "secenekler": [
+        "Cd elektrottan Ag elektroda",
+        "Ag elektrottan Cd elektroda",
+        "Tuz köprüsü üzerinden Cd elektroda",
+        "Çözeltiler içinden Ag elektroda"
+       ],
+       "dogru": 0,
+       "bilgi": "Cd anot, Ag katottur; elektronlar dış devrede Cd'den Ag'ye akar, Ag⁺ indirgenerek Ag kütlesi artar ve ters tepkime istemsizdir.",
+       "sayfa": 186,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.21-04",
+       "tur": "bosluk",
+       "cumle": "Yarı hücre tepkimesine katılmayıp yalnızca elektron alışverişi için yüzey sağlayan platin gibi elektrotlara ___ elektrot denir.",
+       "cevap": "inert",
+       "celdiriciler": [
+        "kurban",
+        "aktif",
+        "tuz köprüsü"
+       ],
+       "bilgi": "Fe³⁺/Fe²⁺ gibi iki iyonun bulunduğu yarı hücrelerde metal elektrot olmadığından platin gibi tepkimeye girmeyen inert elektrotlar kullanılır.",
+       "sayfa": 186,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.22",
+     "ad": "Elektroliz",
+     "soruSayisi": 5,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.22-01",
+       "tur": "dy",
+       "ifade": "Erimiş bir metal klorürün elektrolizinde metal anotta, klor gazı katotta oluşur.",
+       "dogru": false,
+       "bilgi": "Elektrolizde katyonlar katotta indirgenir ve metal birikir; klorür iyonları anotta yükseltgenerek Cl₂ gazı oluşturur.",
+       "sayfa": 187,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.22-02",
+       "tur": "dy",
+       "ifade": "Elektrolizde elektrotta toplanan madde miktarı, devreden geçen elektrik yüküyle doğru orantılıdır.",
+       "dogru": true,
+       "bilgi": "Faraday yasalarına göre akım şiddeti ya da süre arttıkça geçen yük ve dolayısıyla elektrotta toplanan madde miktarı artar.",
+       "sayfa": 187,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.23",
+     "ad": "Korozyon",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.23-01",
+       "tur": "bosluk",
+       "cumle": "Demirden daha aktif olduğu için kendisi yükseltgenerek demiri korozyondan koruyan çinko gibi metallere ___ elektrot denir.",
+       "cevap": "kurban",
+       "celdiriciler": [
+        "inert",
+        "referans",
+        "standart"
+       ],
+       "bilgi": "Demire bağlanan çinko, demirden kolay yükseltgendiği için onun yerine aşınır ve demirin paslanmasını önler.",
+       "sayfa": 188,
+       "yil": "2019-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.24",
+     "ad": "Organik ve Anorganik Bileşikler - Basit Formül ve Molekül Formülü",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.24-01",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi karbon içermesine rağmen anorganik bileşik olarak sınıflandırılır?",
+       "secenekler": [
+        "Kalsiyum karbonat (CaCO₃)",
+        "Etanol (C₂H₅OH)",
+        "Metan (CH₄)",
+        "Asetik asit (CH₃COOH)"
+       ],
+       "dogru": 0,
+       "bilgi": "Karbonatlar, bikarbonatlar (ör. NH₄HCO₃), CO, CO₂ ve siyanürler karbon içerse de anorganik bileşik kabul edilir.",
+       "sayfa": 188,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.25",
+     "ad": "Doğada Karbon",
+     "soruSayisi": 2,
+     "eslesen": [
+      "kimya-9/2.2.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.25-01",
+       "tur": "dy",
+       "ifade": "Grafitteki karbon atomları, elmastaki gibi sp³ hibritleşmesi yapar.",
+       "dogru": false,
+       "bilgi": "Grafitte her karbon üç karbona bağlanıp sp² hibritleşir ve altıgen halkalı katmanlar oluşturur; p orbitallerinin örtüşmesiyle pi bağları da bulunur.",
+       "sayfa": 188,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.25-02",
+       "tur": "eslestir",
+       "yonerge": "Karbon allotroplarını özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Elmas",
+         "Her karbonun dört karbona bağlandığı çok sert üç boyutlu ağ"
+        ],
+        [
+         "Grafit",
+         "Kayabilen katmanlardan oluşan, kurşun kalemde kullanılan yapı"
+        ],
+        [
+         "Fulleren",
+         "Futbol topu biçimli, laboratuvarda elde edilen C₆₀ molekülü"
+        ],
+        [
+         "Karbon nanotüp",
+         "Grafen tabakasının silindir biçiminde kıvrılmasıyla oluşan yapı"
+        ]
+       ],
+       "bilgi": "Elmasta karbonlar sp³, grafitte sp² hibritleşir; fulleren beşgen ve altıgen halkalardan oluşan yapay bir allotroptur.",
+       "sayfa": 189,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.26",
+     "ad": "Lewis Formülü - Hibritleşme - Molekül Geometrisi",
+     "soruSayisi": 6,
+     "eslesen": [
+      "kimya-9/2.1.4",
+      "kimya-9/2.1.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.26-01",
+       "tur": "secmeli",
+       "soru": "Etin (asetilen) molekülündeki karbon atomlarının hibritleşme türü hangisidir?",
+       "secenekler": [
+        "sp³",
+        "sp²",
+        "sp",
+        "dsp²"
+       ],
+       "dogru": 2,
+       "bilgi": "Etinde C≡C bağı bir sigma ve p orbitallerinin örtüşmesiyle oluşan iki pi bağından oluşur; hidrojen atomları hibritleşme yapmaz.",
+       "sayfa": 189,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.26-02",
+       "tur": "bosluk",
+       "cumle": "Metan molekülünde karbon atomu sp³ hibritleşmesi yapar ve molekül ___ geometriye sahiptir.",
+       "cevap": "düzgün dörtyüzlü",
+       "celdiriciler": [
+        "kare düzlem",
+        "doğrusal",
+        "üçgen düzlem"
+       ],
+       "bilgi": "Metanda bağ açıları 109,5°'tir ve molekülde pi bağı bulunmaz; karbon dört hidrojenle sigma bağı yapar.",
+       "sayfa": 190,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.26-03",
+       "tur": "dy",
+       "ifade": "Amonyak (NH₃) molekülünün geometrisi düzgün dörtyüzlüdür.",
+       "dogru": false,
+       "bilgi": "NH₃'te azot sp³ hibritleşir ama bir ortaklanmamış elektron çifti bulunduğundan geometri üçgen piramittir ve bağ açısı 109,5°'ten küçüktür.",
+       "sayfa": 190,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.27",
+     "ad": "Hidrokarbonlar",
+     "soruSayisi": 8,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.27-01",
+       "tur": "dy",
+       "ifade": "Sikloalkenlerin adlandırılmasında çift bağın karbon atomlarına 1 ve 2 numaraları verilir.",
+       "dogru": true,
+       "bilgi": "Halkalı alkenlerde numaralandırma çift bağdan başlar; ardından sübstitüentlere en küçük numaralar verilir ve adlar alfabetik sırayla yazılır.",
+       "sayfa": 190,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.27-02",
+       "tur": "dy",
+       "ifade": "Karbon sayısı aynı olan alkanlarda dallanma arttıkça kaynama noktası yükselir.",
+       "dogru": false,
+       "bilgi": "Dallanma arttıkça moleküller arası temas yüzeyi ve London kuvvetleri azalır; bu yüzden 2-metilbütanın kaynama noktası n-pentanınkinden düşüktür.",
+       "sayfa": 191,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.27-03",
+       "tur": "bosluk",
+       "cumle": "Asimetrik bir alkene HBr katılırken hidrojenin, hidrojen sayısı fazla olan çift bağ karbonuna bağlanmasına ___ kuralı denir.",
+       "cevap": "Markovnikov",
+       "celdiriciler": [
+        "Hund",
+        "Le Chatelier",
+        "Hess"
+       ],
+       "bilgi": "Markovnikov kuralına göre halojen, hidrojeni az olan karbona bağlanır; 2-metil-2-pentene HBr katılınca 2-bromo-2-metilpentan oluşur.",
+       "sayfa": 191,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.27-04",
+       "tur": "dy",
+       "ifade": "Benzen halkasındaki karbon–karbon bağlarının hepsi özdeştir.",
+       "dogru": true,
+       "bilgi": "Benzende pi elektronları halka boyunca dağılmıştır (rezonans); bu yüzden tüm C–C bağları aynı uzunluktadır. İki halkalı aromatik naftalindir.",
+       "sayfa": 191,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.27-05",
+       "tur": "dy",
+       "ifade": "Bir alkenin cis-trans izomerliği gösterebilmesi için çift bağın her iki karbonuna da birbirinden farklı iki grup bağlı olmalıdır.",
+       "dogru": true,
+       "bilgi": "Çift bağ karbonlarından birinde iki özdeş grup (ör. iki CH₃) varsa cis-trans izomerliği görülmez; cis izomerin kaynama noktası genellikle daha yüksektir.",
+       "sayfa": 191,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.27-06",
+       "tur": "secmeli",
+       "soru": "Alkenlere uygun koşullarda su katılması sonucu hangi bileşik sınıfı oluşur?",
+       "secenekler": [
+        "Aldehit",
+        "Alkol",
+        "Eter",
+        "Karboksilik asit"
+       ],
+       "dogru": 1,
+       "bilgi": "Alkenlere su katılmasıyla alkol, HCl katılmasıyla alkil halojenür oluşur; alkenler doymamış hidrokarbonlardır.",
+       "sayfa": 192,
+       "yil": "2026-AYT"
+      },
+      {
+       "id": "1.27-07",
+       "tur": "dy",
+       "ifade": "Asetilene uygun koşullarda su katılması sonucu oluşan kararlı ürün bir ketondur.",
+       "dogru": false,
+       "bilgi": "Asetilene su katılınca oluşan enol kararsızdır ve asetaldehite dönüşür; ürün bir aldehittir.",
+       "sayfa": 192,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.28",
+     "ad": "Fonksiyonel Gruplar",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.28-01",
+       "tur": "eslestir",
+       "yonerge": "Fonksiyonel grupları ait oldukları bileşik sınıfıyla eşleştir.",
+       "ciftler": [
+        [
+         "–CHO",
+         "Aldehit"
+        ],
+        [
+         "–NH₂",
+         "Amin"
+        ],
+        [
+         "–CONH₂",
+         "Amit"
+        ],
+        [
+         "–CN",
+         "Nitril"
+        ],
+        [
+         "–NO₂",
+         "Nitro bileşiği"
+        ]
+       ],
+       "bilgi": "Amitlerin fonksiyonel grubu –NH₂ değil –CONH₂'dir; –NH₂ grubu aminlere aittir.",
+       "sayfa": 192,
+       "yil": "2018-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.29",
+     "ad": "Alkoller - Eterler",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.29-01",
+       "tur": "bosluk",
+       "cumle": "–OH grubunun bağlı olduğu karbon atomu iki karbon atomuna bağlıysa alkol ___ alkol olarak sınıflandırılır.",
+       "cevap": "sekonder",
+       "celdiriciler": [
+        "primer",
+        "tersiyer",
+        "aromatik"
+       ],
+       "bilgi": "–OH grubunu taşıyan karbon bir karbona bağlıysa primer, iki karbona bağlıysa sekonder, üç karbona bağlıysa tersiyer alkoldür.",
+       "sayfa": 192,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.29-02",
+       "tur": "dy",
+       "ifade": "Aynı molekül formülüne sahip bir alkol ile eterden kaynama noktası daha yüksek olan alkoldür.",
+       "dogru": true,
+       "bilgi": "1-Bütanol ve dietil eter yapı izomeridir; eter molekülleri arasında hidrojen bağı olmadığından eterin kaynama noktası daha düşüktür.",
+       "sayfa": 193,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.30",
+     "ad": "Karbonil Bileşikleri",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.30-01",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki bileşiklerden hangisi Tollens ayıracıyla tepkimeye girerek gümüş açığa çıkarır?",
+       "secenekler": [
+        "Aseton (CH₃COCH₃)",
+        "Dietil eter",
+        "Asetaldehit (CH₃CHO)",
+        "Etan"
+       ],
+       "dogru": 2,
+       "bilgi": "Aldehitler Tollens ayıracıyla yükseltgenip karboksilik aside dönüşür ve gümüş aynası oluşur; ketonlar bu tepkimeyi vermez.",
+       "sayfa": 193,
+       "yil": "2022-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.31",
+     "ad": "Karboksilik Asitler",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.31-01",
+       "tur": "bosluk",
+       "cumle": "Sirkenin yapısında bulunan CH₃COOH bileşiğinin IUPAC adı ___ asittir.",
+       "cevap": "etanoik",
+       "celdiriciler": [
+        "metanoik",
+        "propanoik",
+        "bütanoik"
+       ],
+       "bilgi": "CH₃COOH (asetik asit) etanoik asit olarak adlandırılır; fonksiyonel grubu hidroksil değil karboksildir ve bir yağ asidi değildir.",
+       "sayfa": 193,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.32",
+     "ad": "Esterler",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "1.32-01",
+       "tur": "secmeli",
+       "soru": "Metil etanoat esteri hangi karboksilik asit ile hangi alkolün tepkimesinden oluşur?",
+       "secenekler": [
+        "Metanoik asit ve etanol",
+        "Etanoik asit ve etanol",
+        "Metanoik asit ve metanol",
+        "Etanoik asit ve metanol"
+       ],
+       "dogru": 3,
+       "bilgi": "Ester adında önce alkolden gelen alkil grubu, sonra asidin adı söylenir; metil etanoat (CH₃COOCH₃) etanoik asit ile metanolden oluşur.",
+       "sayfa": 193,
+       "yil": "2022-AYT"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3097 @@
+{
+ "kitap": "cikmis-ayt-felsefe",
+ "tip": "cikmis",
+ "ders": "felsefe",
+ "sinav": "AYT",
+ "baslik": "YKS Çıkmış Sorular 2018-2026 AYT Sözel",
+ "sayfaUrl": "https://ogmmateryal.eba.gov.tr/yks-cikmis-soru-kitaplari",
+ "pdfUrl": "https://ogm-small-cdn.eba.gov.tr/ogm-test-images/6abb8789b98f4c074f5d3271/CS_AYT_SOZ_2018_2026.pdf",
+ "testUrl": "https://ogmmateryal.eba.gov.tr/ogm-test/book/6abb8a53b98f4c074f5d380a",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Felsefe",
+   "konular": [
+    {
+     "no": "1.1",
+     "ad": "Felsefenin Anlamı",
+     "soruSayisi": 1,
+     "eslesen": [
+      "felsefe-10/1.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.1-01",
+       "tur": "bosluk",
+       "cumle": "Felsefe, Yunanca “philo” ve “sophia” sözcüklerinden türemiştir ve ___ anlamına gelir.",
+       "cevap": "bilgelik sevgisi",
+       "celdiriciler": [
+        "doğa bilgisi",
+        "akıl yürütme sanatı",
+        "varlık bilimi"
+       ],
+       "bilgi": "Felsefe (philosophia), “bilgelik sevgisi” demektir; filozof da bilgeliği seven ve onu arayan kişidir.",
+       "sayfa": 180,
+       "yil": "2026-AYT"
+      },
+      {
+       "id": "1.1-02",
+       "tur": "dy",
+       "ifade": "Felsefe, hakikate kesin olarak sahip olmaktan çok hakikati arama yolculuğu olarak görülür.",
+       "dogru": true,
+       "bilgi": "Felsefe bitmiş bir bilgi bütünü değil, hakikat arayışıdır; filozof bu arayışta yol gösteren ve sorgulayan kişidir.",
+       "sayfa": 180,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.2",
+     "ad": "Felsefi Düşüncenin Ortaya Çıkışı ve Özellikleri",
+     "soruSayisi": 7,
+     "eslesen": [
+      "felsefe-10/1.2",
+      "felsefe-10/1.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.2-01",
+       "tur": "bosluk",
+       "cumle": "Felsefi düşüncenin belli bir toplum ya da coğrafyayla sınırlı kalmayıp tüm insanlık için geçerli sonuçlara ulaşmayı hedeflemesi ___ olma özelliğidir.",
+       "cevap": "evrensel",
+       "celdiriciler": [
+        "refleksif",
+        "öznel",
+        "çözümleyici"
+       ],
+       "bilgi": "Filozoflar kendi kültürlerinden izler taşısa da insanı genel olarak ele alır ve tüm insanlığı kapsayan sonuçlar arar; bu, felsefenin evrenselliğidir.",
+       "sayfa": 180,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.2-02",
+       "tur": "dy",
+       "ifade": "Felsefenin akla dayalı, temellendirilmiş ve sistemli bir düşünce etkinliği hâline gelmesi Antik Yunan'da gerçekleşmiştir.",
+       "dogru": true,
+       "bilgi": "Diğer medeniyetlerde düşünce daha çok dinî ve pratik ihtiyaçlara hizmet ederken Antik Yunan'da bilgi akıl yoluyla temellendirilip sistemleştirilmiştir.",
+       "sayfa": 181,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.2-03",
+       "tur": "secmeli",
+       "soru": "Felsefi düşüncenin, önceki filozofların ortaya koyduğu görüşlerden yararlanılarak ve onların üzerine inşa edilerek gelişmesi hangi özelliğidir?",
+       "secenekler": [
+        "Yığılımlı (birikimli) olma",
+        "Refleksif olma",
+        "Evrensel olma",
+        "Öznel olma"
+       ],
+       "dogru": 0,
+       "bilgi": "Felsefe yığılımlıdır: Her filozof öncekilerin birikiminden yararlanır; ayrıca felsefe sorgulayıcıdır, kabulleri sorgulayarak ilerler.",
+       "sayfa": 181,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.2-04",
+       "tur": "dy",
+       "ifade": "Nietzsche'ye göre filozof, kendisine miras kalan kavramları olduğu gibi kabul edip yalnızca onları açıklığa kavuşturmakla yetinmelidir.",
+       "dogru": false,
+       "bilgi": "Nietzsche'ye göre filozof, devraldığı kavramlara koşulsuz güvenmemeli; yerleşmiş kavramları sorgulamalı ve yeni kavramlar yaratmalıdır.",
+       "sayfa": 182,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.2-05",
+       "tur": "bosluk",
+       "cumle": "Kabul görmüş doğruları sorgulamak ve dayanaklarını araştırmak anlamına gelen ___, felsefi düşünmenin başlangıç noktalarından biridir.",
+       "cevap": "şüphe etme",
+       "celdiriciler": [
+        "inanma",
+        "ezberleme",
+        "taklit etme"
+       ],
+       "bilgi": "Felsefi düşünme, kişinin sarsılmaz saydığı doğrulara kuşkuyla bakmasıyla başlar; Sokrates de herkesin bildiğini sandığı kavramları sorgulamıştır.",
+       "sayfa": 182,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.2-06",
+       "tur": "eslestir",
+       "yonerge": "Felsefi düşüncenin özelliklerini açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Sistemli olma",
+         "Düşünceleri birbirine bağlı, bütünlüklü bir yapı içinde ortaya koyma"
+        ],
+        [
+         "Tutarlı olma",
+         "Öne sürülen düşüncelerin birbiriyle çelişmemesi"
+        ],
+        [
+         "Eleştirel olma",
+         "Hiçbir bilgiyi sorgulamadan kabul etmeme"
+        ],
+        [
+         "Refleksif olma",
+         "Düşünme üzerine yeniden düşünme"
+        ]
+       ],
+       "bilgi": "Felsefe, bilimlerin sonuçlarını ilişkilendirip bütünlüklü bir dünya görüşü oluşturur; bu, felsefenin sistemli olma özelliğidir.",
+       "sayfa": 183,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.2-07",
+       "tur": "eslestir",
+       "yonerge": "Filozofları ait oldukları felsefe dönemiyle eşleştir.",
+       "ciftler": [
+        [
+         "Parmenides",
+         "MÖ 6. yüzyıl - MS 2. yüzyıl (İlk Çağ)"
+        ],
+        [
+         "İbn Rüşd",
+         "MS 2. yüzyıl - MS 15. yüzyıl (Orta Çağ)"
+        ],
+        [
+         "Descartes",
+         "15-17. yüzyıl felsefesi"
+        ],
+        [
+         "Kant",
+         "18-19. yüzyıl felsefesi"
+        ],
+        [
+         "Sartre",
+         "20. yüzyıl felsefesi"
+        ]
+       ],
+       "bilgi": "Felsefe tarihi İlk Çağ, Orta Çağ, 15-17. yüzyıl, 18-19. yüzyıl ve 20. yüzyıl felsefesi olarak dönemlere ayrılır; filozoflar yaşadıkları döneme göre sınıflandırılabilir.",
+       "sayfa": 183,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.3",
+     "ad": "Düşünme ve Dil İlişkisi",
+     "soruSayisi": 1,
+     "eslesen": [
+      "felsefe-10/2.1",
+      "felsefe-10/2.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.3-01",
+       "tur": "secmeli",
+       "soru": "Bir tartışmada karşı tarafın görüşüne katılmamanın en güçlü ve en yetkin biçimi hangisidir?",
+       "secenekler": [
+        "Üslubu eleştirme",
+        "Yaftalama (ad takma)",
+        "Görüşü gerekçesiz yalanlama",
+        "Ana fikri argümanlarla çürütme"
+       ],
+       "dogru": 3,
+       "bilgi": "Anlaşmazlık basamaklarının en üstünde karşı görüşün ana fikrini gerekçeli argümanlarla çürütmek yer alır; yaftalama, kişiye saldırı ve üslubu eleştirme en zayıf biçimlerdir.",
+       "sayfa": 184,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.3-02",
+       "tur": "dy",
+       "ifade": "Bir görüşü hiçbir gerekçe sunmadan yalnızca “yanlış” diyerek reddetmeye görüşü yalanlama denir ve bu, güçlü bir karşı çıkma biçimi sayılmaz.",
+       "dogru": true,
+       "bilgi": "Görüşü yalanlama, karşıt iddiayı kanıt sunmadan dile getirmektir; bir fikri geçersiz kılmak için argümanla çürütmek gerekir.",
+       "sayfa": 184,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.4",
+     "ad": "Bilgi Felsefesinin Konusu ve Bilginin İmkânı Problemi",
+     "soruSayisi": 1,
+     "eslesen": [
+      "felsefe-10/4.1",
+      "felsefe-10/4.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.4-01",
+       "tur": "bosluk",
+       "cumle": "Determinist (belirlenimci) bir evren modelinde öngörülerimizdeki belirsizlik, gerçekliğin yapısından değil bilgimizin yetersizliğinden doğar; bu tür belirsizliğe ___ belirsizlik denir.",
+       "cevap": "epistemik",
+       "celdiriciler": [
+        "ontolojik",
+        "aksiyolojik",
+        "estetik"
+       ],
+       "bilgi": "Epistemik, bilgiyle ilgili demektir; determinizme göre bütün koşulları bilen biri için belirsizlik kalmaz, belirsizlik bilgi eksikliğinden kaynaklanır.",
+       "sayfa": 184,
+       "yil": "2021-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.5",
+     "ad": "Bilginin Sınırları, Ölçütü - Doğruluk ve Gerçeklik - Bilginin Değeri ve Güvenirliği",
+     "soruSayisi": 3,
+     "eslesen": [
+      "felsefe-10/4.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.5-01",
+       "tur": "eslestir",
+       "yonerge": "Doğruluk ölçütlerini açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Tutarlılık",
+         "Yargının önceden kabul edilen bilgilerle çelişmemesi"
+        ],
+        [
+         "Yarar",
+         "Yargının pratikte işe yaraması, fayda sağlaması"
+        ],
+        [
+         "Tümel uzlaşım",
+         "Yargının toplumda ya da herkesçe kabul görmesi"
+        ],
+        [
+         "Uygunluk",
+         "Yargının dış dünyadaki gerçekliğe karşılık gelmesi"
+        ],
+        [
+         "Apaçıklık",
+         "Yargının kendiliğinden açık ve seçik biçimde kavranması"
+        ]
+       ],
+       "bilgi": "Doğruluk ölçütleri; uygunluk, tutarlılık, apaçıklık, yarar ve tümel uzlaşım olarak sıralanır.",
+       "sayfa": 185,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.5-02",
+       "tur": "dy",
+       "ifade": "Bir konuda çok sayıda enformasyon toplamış olmak, o konuda bilgi sahibi olmayı kendiliğinden sağlar.",
+       "dogru": false,
+       "bilgi": "Enformasyon bilginin ham maddesidir; kişi onu sorgulayıp ilişkilendirmedikçe bilgiye dönüşmez, bu yüzden bilgi sahibi olmadan enformasyon sahibi olunabilir.",
+       "sayfa": 185,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.5-03",
+       "tur": "secmeli",
+       "soru": "“İnsan her şeyin ölçüsüdür.” diyerek doğruluğun algılayan kişiye göre değiştiğini savunan sofist filozof kimdir?",
+       "secenekler": [
+        "Parmenides",
+        "Protagoras",
+        "Sokrates",
+        "Platon"
+       ],
+       "dogru": 1,
+       "bilgi": "Protagoras'a göre şeyler kime nasıl görünüyorsa onun için öyledir; doğruluk algıya ve kişiye göre değişir (görecilik).",
+       "sayfa": 186,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.6",
+     "ad": "Bilimin Değeri - Bilim Felsefe İlişkisi - Bilim ve Hayat İlişkisi",
+     "soruSayisi": 1,
+     "eslesen": [
+      "felsefe-10/1.5",
+      "felsefe-10/9.1"
+     ],
+     "kartlar": [
+      {
+       "id": "1.6-01",
+       "tur": "dy",
+       "ifade": "Bilimsel yasalar farklı araştırmacılarca birbirinden bağımsız olarak keşfedilebilirken felsefi eserler, sanat eserleri gibi onları ortaya koyan kişiye özgüdür.",
+       "dogru": true,
+       "bilgi": "Bilim doğada var olan yasaları keşfeder ve bu keşif başkalarınca da yapılabilir; felsefi eser ise filozofun özgün yaratımıdır.",
+       "sayfa": 186,
+       "yil": "2018-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.7",
+     "ad": "Ahlak Felsefesinde Özgürlük ve Sorumluluk",
+     "soruSayisi": 1,
+     "eslesen": [
+      "felsefe-10/5.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.7-01",
+       "tur": "eslestir",
+       "yonerge": "Özgürlük problemine ilişkin görüşleri savlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Determinizm",
+         "Her olay ve eylem önceki nedenlerle zorunlu olarak belirlenir"
+        ],
+        [
+         "İndeterminizm",
+         "İnsan iradesi nedenlerle belirlenmez, insan tümüyle özgürdür"
+        ],
+        [
+         "Otodeterminizm",
+         "İnsan koşullarla sınırlı olsa da kendi eylemlerini belirleyebilir"
+        ],
+        [
+         "Fatalizm (kadercilik)",
+         "Her şey önceden belirlenmiş bir yazgıya göre gerçekleşir"
+        ]
+       ],
+       "bilgi": "Determinizme göre her şey nedenlerle zorunlu olarak belirlendiğinden insan özgür değildir ve eylemlerinden sorumlu tutulamaz.",
+       "sayfa": 187,
+       "yil": "2018-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.8",
+     "ad": "Ahlak Felsefesinde İyilik ve Mutluluk İlişkisi",
+     "soruSayisi": 1,
+     "eslesen": [
+      "felsefe-10/5.1",
+      "felsefe-10/5.2",
+      "felsefe-11/5.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.8-01",
+       "tur": "secmeli",
+       "soru": "Erdem ile mutluluğu ayrı şeyler olarak görmeyip erdemli olmanın kendi başına mutluluk olduğunu savunan, Etika adlı eserin yazarı filozof kimdir?",
+       "secenekler": [
+        "Epikuros",
+        "Spinoza",
+        "Kant",
+        "Hobbes"
+       ],
+       "dogru": 1,
+       "bilgi": "Spinoza'ya göre mutluluk erdemin ödülü değil, erdemin kendisidir; erdemli olmak kendi başına mutluluktur.",
+       "sayfa": 187,
+       "yil": "2020-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.9",
+     "ad": "Din Felsefesinin Konusu ve Soruları",
+     "soruSayisi": 1,
+     "eslesen": [
+      "felsefe-10/8.1",
+      "felsefe-10/8.2",
+      "felsefe-11/3.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.9-01",
+       "tur": "secmeli",
+       "soru": "Evrenin Tanrı'nın kendi özünü düşünmesiyle ondan zorunlu olarak taştığını (sudur) ve bu nedenle ezelî olduğunu savunan İslam filozofu kimdir?",
+       "secenekler": [
+        "Gazali",
+        "Kindi",
+        "İbn Haldun",
+        "İbn Sina"
+       ],
+       "dogru": 3,
+       "bilgi": "İbn Sina evrenin zaman içinde yoktan yaratılmadığını, Tanrı'dan zorunlu olarak taşarak ortaya çıktığını ve ezelî olduğunu savunur.",
+       "sayfa": 188,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.9-02",
+       "tur": "dy",
+       "ifade": "Gazali, evrenin Tanrı'nın özgür iradesiyle değil, onun doğasından zorunlu olarak çıktığını savunmuştur.",
+       "dogru": false,
+       "bilgi": "Gazali, Tanrı'nın evreni dileyerek, iradesiyle var ettiğini savunur; evrenin Tanrı'dan zorunlu olarak çıktığı görüşü Tanrı'yı gerçek fail olmaktan çıkarır.",
+       "sayfa": 188,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.10",
+     "ad": "Siyaset Felsefesinin Konusu ve Problemleri",
+     "soruSayisi": 1,
+     "eslesen": [
+      "felsefe-10/7.1",
+      "felsefe-10/7.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.10-01",
+       "tur": "secmeli",
+       "soru": "Bir ülkenin başına soyu nedeniyle değil, akıl ve siyasi yeteneği nedeniyle birinin geçmesi gerektiğini savunan biri siyaset felsefesinin hangi sorusunu tartışmaktadır?",
+       "secenekler": [
+        "Yönetme yetkisi hangi koşula dayanmalıdır?",
+        "Devletin ortaya çıkış nedeni nedir?",
+        "Ütopyalar gerçekleştirilebilir mi?",
+        "Devletsiz bir toplum mümkün müdür?"
+       ],
+       "dogru": 0,
+       "bilgi": "Egemenliği kimin, hangi koşulla kullanacağı siyaset felsefesinin temel sorularındandır; yönetme hakkını soya değil akla ve yeteneğe bağlamak bu soruya verilmiş bir cevaptır.",
+       "sayfa": 188,
+       "yil": "2019-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.11",
+     "ad": "Sanat Felsefesinin Konusu ve Problemleri",
+     "soruSayisi": 5,
+     "eslesen": [
+      "felsefe-10/6.1",
+      "felsefe-10/6.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.11-01",
+       "tur": "bosluk",
+       "cumle": "Umberto Eco, her sanat yapıtının sayısız yoruma açık olduğunu ve anlamının alımlayıcıyla kurduğu ilişkide ortaya çıktığını “___” kavramıyla ifade eder.",
+       "cevap": "açık yapıt",
+       "celdiriciler": [
+        "kapalı yapıt",
+        "taklit (mimesis)",
+        "biricik eser"
+       ],
+       "bilgi": "Eco'ya göre hiçbir sanat yapıtı gerçekte kapalı değildir; yapıtın anlamı alımlayıcıyla kurduğu bitimsiz ilişkide açığa çıkar.",
+       "sayfa": 189,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.11-02",
+       "tur": "bosluk",
+       "cumle": "Estetik değerlendirmede bir nesneyi estetik nesne hâline getiren, onun faydası değil izleyicide uyandırdığı ___ duygusudur.",
+       "cevap": "beğeni (hoşlanma)",
+       "celdiriciler": [
+        "korku",
+        "saygı",
+        "acıma"
+       ],
+       "bilgi": "Güzellik yargısı nesnenin ne işe yaradığıyla değil, bizde hoşlanma uyandırıp uyandırmadığıyla ilgilidir; objeyi estetik nesne yapan beğenidir.",
+       "sayfa": 189,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.11-03",
+       "tur": "dy",
+       "ifade": "Sanat eserinin sanatçının duygularının ürünü olması gerektiği görüşü, yapay zekânın ürettiği şiir ve resimlerin sanat sayılıp sayılamayacağı tartışmasını doğurur.",
+       "dogru": true,
+       "bilgi": "Yapay zekâ her seferinde farklı ve beğenilen eserler üretebilse de duygu sahibi olmadığından, eserin duyguların ürünü olması ölçütü tartışmaya açılır.",
+       "sayfa": 190,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "1.11-04",
+       "tur": "secmeli",
+       "soru": "Sanatı, sanatçının yaşadığı bir duyguyu başkalarına da aynı biçimde yaşatması olarak tanımlayan ve görüşlerini Sanat Nedir? adlı eserinde açıklayan düşünür kimdir?",
+       "secenekler": [
+        "Croce",
+        "Hegel",
+        "Tolstoy",
+        "Platon"
+       ],
+       "dogru": 2,
+       "bilgi": "Tolstoy'a göre sanat, insanın yaşadığı duyguları olduğu gibi başkalarına hissettirmesidir.",
+       "sayfa": 190,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "1.11-05",
+       "tur": "bosluk",
+       "cumle": "Schopenhauer'a göre yaşamın özü olan acıdan geçici olarak kurtulmanın yolu, bireysel arzuların askıya alındığı ___ deneyimdir.",
+       "cevap": "sanatsal",
+       "celdiriciler": [
+        "dinî",
+        "bilimsel",
+        "siyasal"
+       ],
+       "bilgi": "Schopenhauer'a göre varlığın özü amaçsız bir istemedir (irade); sanat bu istemeyi askıya alarak insanı acıdan geçici olarak kurtarır.",
+       "sayfa": 191,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.12",
+     "ad": "Felsefi Metin Analizi",
+     "soruSayisi": 1,
+     "eslesen": [
+      "felsefe-10/1.3"
+     ],
+     "kartlar": [
+      {
+       "id": "1.12-01",
+       "tur": "dy",
+       "ifade": "Felsefe tarihindeki dönemler birbirinden kopuk değildir; her dönem öncekilerden devraldıklarıyla kendine özgü yenilikleri bir arada taşır.",
+       "dogru": true,
+       "bilgi": "Bir düşünce dönemi hem öncekilerden aldıklarıyla hem de onu benzersiz kılan yönleriyle anlaşılır; her dönemde önceki birikimin devamı ile yeni olan bir aradadır.",
+       "sayfa": 191,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.13",
+     "ad": "Sofistler ile Sokrates'in Bilgi ve Değer Anlayışları",
+     "soruSayisi": 3,
+     "eslesen": [
+      "felsefe-10/1.3",
+      "felsefe-10/4.2",
+      "felsefe-10/5.2",
+      "felsefe-11/5.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.13-01",
+       "tur": "bosluk",
+       "cumle": "Sokrates'e göre kimse bilerek kötülük yapmaz; kötü eylemlerin asıl kaynağı ___ olarak görülür.",
+       "cevap": "bilgisizlik",
+       "celdiriciler": [
+        "kötü niyet",
+        "toplumsal baskı",
+        "haz düşkünlüğü"
+       ],
+       "bilgi": "Sokrates'e göre erdem bilgidir: İnsan iyiyi bilirse iyiyi yapar; kötülük, kötüyü iyi sanmaktan yani bilgisizlikten doğar.",
+       "sayfa": 192,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.13-02",
+       "tur": "dy",
+       "ifade": "Protagoras'a göre ahlaki ilkeler herkes için geçerli, değişmez kurallardır.",
+       "dogru": false,
+       "bilgi": "Protagoras'a göre insan her şeyin ölçüsü olduğundan evrensel bir ahlak yasası yoktur; ahlaki ilkeler toplumsal uzlaşıyla oluşur ve değişir.",
+       "sayfa": 192,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.13-03",
+       "tur": "secmeli",
+       "soru": "Sokrates'in savunmasında kendisini uyuşuk bir atı sürekli dürten at sineğine benzetmesi onun hangi yönünü öne çıkarır?",
+       "secenekler": [
+        "Devlet yönetimine talip olmasını",
+        "Doğa olaylarını açıklama çabasını",
+        "Toplumu sürekli sorgulayıp eleştirmesini",
+        "Retorik ustalığını"
+       ],
+       "dogru": 2,
+       "bilgi": "Sokrates, insanları rahatsız edip düşünmeye zorlayan at sineği benzetmesiyle eleştirel ve sorgulayıcı kişiliğini vurgular.",
+       "sayfa": 193,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.14",
+     "ad": "Platon ve Aristoteles'in Varlık, Bilgi ve Değer Anlayışı",
+     "soruSayisi": 2,
+     "eslesen": [
+      "felsefe-10/3.2",
+      "felsefe-10/1.3",
+      "felsefe-11/5.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.14-01",
+       "tur": "eslestir",
+       "yonerge": "Aristoteles'in dört nedenini bir masa örneğindeki karşılıklarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Maddi neden",
+         "Masanın yapıldığı ağaç"
+        ],
+        [
+         "Formel (biçimsel) neden",
+         "Masanın tasarımı, biçimi"
+        ],
+        [
+         "Fail (etken) neden",
+         "Masayı yapan marangoz"
+        ],
+        [
+         "Ereksel (amaç) neden",
+         "Masanın üzerinde yemek yenmesi için yapılması"
+        ]
+       ],
+       "bilgi": "Aristoteles'e göre bir şeyin varlığı dört nedenle açıklanır: maddi, formel, fail ve ereksel neden.",
+       "sayfa": 193,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.14-02",
+       "tur": "dy",
+       "ifade": "Aristoteles'e göre insan, kendisini bitki ve hayvanlardan ayıran akla uygun yaşadığında, yani kendine özgü işlevini gerçekleştirdiğinde mutluluğa ulaşır.",
+       "dogru": true,
+       "bilgi": "Aristoteles'e göre her şeyin iyiliği özüne uygun işini yapmasıdır; insana özgü olan akıl olduğundan mutluluk akla uygun etkinlikte bulunmaktır.",
+       "sayfa": 194,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.15",
+     "ad": "Hristiyan, İslam Felsefesinin Özellikleri, İnanç-Akıl İlişkisi ve Filozofların Görüşleri",
+     "soruSayisi": 2,
+     "eslesen": [
+      "felsefe-10/1.3",
+      "felsefe-10/8.2",
+      "felsefe-11/3.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.15-01",
+       "tur": "bosluk",
+       "cumle": "Farabi'ye göre özünde var olmayı içeren ve var olmak için başka bir şeye ihtiyaç duymayan Tanrı zorunlu varlıktır; varlığını ondan alan diğer her şey ise ___ varlıktır.",
+       "cevap": "mümkün",
+       "celdiriciler": [
+        "imkânsız",
+        "ezelî",
+        "mutlak"
+       ],
+       "bilgi": "Farabi'ye göre şeylerin özü varlıklarını içermez; varlığı başkasından alan her şey mümkün varlık, varlığı kendinden olan Tanrı zorunlu varlıktır.",
+       "sayfa": 194,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "1.15-02",
+       "tur": "eslestir",
+       "yonerge": "Orta Çağ'daki tümeller tartışmasında yer alan görüşleri savlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Kavram realizmi",
+         "Tümellerin tikel nesnelerden bağımsız gerçek varlığı vardır"
+        ],
+        [
+         "Ilımlı realizm",
+         "Tümeller tek tek nesnelerin içinde var olur"
+        ],
+        [
+         "Nominalizm (adcılık)",
+         "Tümeller yalnızca nesnelere verdiğimiz adlardır"
+        ],
+        [
+         "Kavramcılık",
+         "Tümeller nesnelerden edinilen, zihindeki kavramlardır"
+        ]
+       ],
+       "bilgi": "Kavram realizmine göre tümel kavramlar, onları taşıyan tikel nesneler yok olsa bile kendi başlarına gerçektir.",
+       "sayfa": 195,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.16",
+     "ad": "15-17. Yüzyıl Felsefesinde Öne Çıkan Problemler ve Görüşler",
+     "soruSayisi": 4,
+     "eslesen": [
+      "felsefe-10/1.3",
+      "felsefe-10/4.2",
+      "felsefe-10/7.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.16-01",
+       "tur": "bosluk",
+       "cumle": "Descartes'ın kuşkusu, kesin bilgiye ulaşmak için başvurulan bir araç olduğundan ___ kuşku olarak adlandırılır.",
+       "cevap": "yöntemsel",
+       "celdiriciler": [
+        "mutlak",
+        "dogmatik",
+        "septik"
+       ],
+       "bilgi": "Descartes kuşkuyu kesin ve doğru bilgiye ulaşmanın yöntemi olarak kullanır; İlk Çağ kuşkucuları ise kesin bilginin olanaksız olduğunu savunur.",
+       "sayfa": 195,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.16-02",
+       "tur": "dy",
+       "ifade": "Rönesans'ta ortaya çıkan hümanizm, insan yaşamının değerinin insanın dışındaki aşkın bir kaynaktan geldiğini savunur.",
+       "dogru": false,
+       "bilgi": "Hümanizm insanı merkeze alan bir dünya görüşüdür; insanın değeri kendindedir ve insan iyi bir yaşama kendi aklı ve çabasıyla ulaşır.",
+       "sayfa": 196,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.16-03",
+       "tur": "bosluk",
+       "cumle": "Daha iyi bir topluma duyulan umudun yitirilmesiyle ortaya çıkan, baskıcı ve karamsar bir gelecek tasvir eden kurgulara ___ denir.",
+       "cevap": "distopya",
+       "celdiriciler": [
+        "ütopya",
+        "teodise",
+        "alegori"
+       ],
+       "bilgi": "20. yüzyıldaki savaşlar ve teknolojinin olumsuz etkileri, ideal toplum arayan iyimser ütopyaların yerini karamsar distopyalara bırakmasına yol açmıştır.",
+       "sayfa": 196,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.16-04",
+       "tur": "eslestir",
+       "yonerge": "Ütopya yazarlarını eserleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Thomas More",
+         "Ütopya"
+        ],
+        [
+         "Tommaso Campanella",
+         "Güneş Ülkesi"
+        ],
+        [
+         "Francis Bacon",
+         "Yeni Atlantis"
+        ]
+       ],
+       "bilgi": "Ütopyalar, dönemlerinin kurumlarını eleştirip ideal bir toplum düzeni kurgular; More, Campanella ve Bacon bu dönemin ütopya yazarlarıdır.",
+       "sayfa": 196,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.16-05",
+       "tur": "dy",
+       "ifade": "Rönesans'la doğan modern bilim anlayışında bir açıklamanın doğruluğu, Platon ve Aristoteles gibi otoritelerin görüşlerine uygunluğuyla ölçülmeye devam etmiştir.",
+       "dogru": false,
+       "bilgi": "Modern bilimle otoriteye uygunluk doğruluk ölçütü olmaktan çıkmış; erekselci açıklamanın yerini nedensel açıklama, ölçüt olarak da ussallık almıştır.",
+       "sayfa": 197,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.17",
+     "ad": "18-19. Yüzyıl Felsefesinde Öne Çıkan Problemler ve Görüşler",
+     "soruSayisi": 2,
+     "eslesen": [
+      "felsefe-10/4.2",
+      "felsefe-10/5.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.17-01",
+       "tur": "bosluk",
+       "cumle": "Kant'a göre bilgi, duyu verilerinin zihinde önceden (a priori) bulunan ___ aracılığıyla biçimlendirilmesiyle oluşur.",
+       "cevap": "kategoriler",
+       "celdiriciler": [
+        "idealar",
+        "doğuştan fikirler",
+        "izlenimler"
+       ],
+       "bilgi": "Kant'a göre doğa bilgisi, duyu verilerinin anlama yetisindeki a priori kategorilere yerleştirilmesiyle oluşur; zihin ve duyum birlikte çalışır.",
+       "sayfa": 197,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.17-02",
+       "tur": "dy",
+       "ifade": "Kant'a göre ruh ve Tanrı gibi ideler duyularla algılanamadığı için teorik akılla bilinemez; bunlar pratik aklın alanına girer.",
+       "dogru": true,
+       "bilgi": "Kant'a göre teorik akıl duyu üstü ideler üzerinde düşündüğünde çelişkiye düşer; bu nedenle metafizik bilgi teorik akılla elde edilemez.",
+       "sayfa": 197,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.17-03",
+       "tur": "bosluk",
+       "cumle": "Kant'a göre bir eylemi ahlaki kılan, sonucu ya da sağladığı yarar değil, eylemin ___ bilinciyle, yani ahlak yasasına saygıdan yapılmasıdır.",
+       "cevap": "ödev",
+       "celdiriciler": [
+        "haz",
+        "çıkar",
+        "erdem"
+       ],
+       "bilgi": "Kant'ta eylemin ahlakiliği kaynağındaki ilkeye bağlıdır; dışarıdan aynı görünen iki eylemden yalnızca ödev bilinciyle yapılanı ahlakidir.",
+       "sayfa": 198,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "1.18",
+     "ad": "20. Yüzyıl Felsefesinde Bazı Ana Akımlar ve Filozoflarının Görüşleri",
+     "soruSayisi": 8,
+     "eslesen": [
+      "felsefe-10/9.2",
+      "felsefe-11/5.3",
+      "felsefe-10/4.2",
+      "felsefe-11/3.2"
+     ],
+     "kartlar": [
+      {
+       "id": "1.18-01",
+       "tur": "bosluk",
+       "cumle": "Karl Popper'a göre bir kuramı bilimsel kılan, onu doğrulayan örneklerin çokluğu değil, ___ ilkesine uygun olmasıdır.",
+       "cevap": "yanlışlanabilirlik",
+       "celdiriciler": [
+        "doğrulanabilirlik",
+        "paradigma",
+        "tümevarım"
+       ],
+       "bilgi": "Popper'a göre doğrulayıcı örnekler bir yasayı kesin olarak kanıtlayamaz; yasanın geçersiz olduğu durumları araştırmak onu hakikate yaklaştırır.",
+       "sayfa": 198,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "1.18-02",
+       "tur": "dy",
+       "ifade": "Nietzsche'nin güç istenci kavramı, insanın başkalarına hükmetme arzusundan ibarettir.",
+       "dogru": false,
+       "bilgi": "Deleuze'ün yorumuyla güç istenci bir egemenlik arzusu değil, yaratıcı ve anlam-değer verici bir güçtür; insanın yeni değerler oluşturmasını sağlar.",
+       "sayfa": 199,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.18-03",
+       "tur": "secmeli",
+       "soru": "Thomas Kuhn'a göre bilim nasıl ilerler?",
+       "secenekler": [
+        "Olağan bilim dönemlerini izleyen paradigma değişimleriyle, yani bilimsel devrimlerle",
+        "Gözlem ve deney sonuçlarının kesintisiz birikmesiyle",
+        "Kuramların yanlışlanarak tek tek elenmesiyle",
+        "Tümevarımla elde edilen yasaların genişletilmesiyle"
+       ],
+       "dogru": 0,
+       "bilgi": "Kuhn'a göre bilim birikimsel ilerlemez; paradigma değişimleriyle sıçramalar ve kopuşlar yaşanır, bilim insanı dünyayı yeniden görmeyi öğrenir.",
+       "sayfa": 199,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "1.18-04",
+       "tur": "bosluk",
+       "cumle": "Gadamer'in geliştirdiği, anlamanın ve yorumlamanın koşullarını inceleyen felsefi yaklaşıma ___ denir.",
+       "cevap": "hermeneutik",
+       "celdiriciler": [
+        "fenomenoloji",
+        "pragmatizm",
+        "pozitivizm"
+       ],
+       "bilgi": "Gadamer'e göre hermeneutik, yorumlayan öznenin kendi tarihî ve kültürel koşullarından bağımsız olmadığını kabul eder.",
+       "sayfa": 200,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.18-05",
+       "tur": "dy",
+       "ifade": "Bergson, saatle ölçülen mekânsal zaman ile bilinçte yaşanan süre (durée) arasında ayrım yapar.",
+       "dogru": true,
+       "bilgi": "Bergson'a göre ölçülebilir zaman ile yaşanan zaman (süre) farklıdır; süre bilinçte nitel olarak yaşanır ve sezgiyle kavranır.",
+       "sayfa": 200,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "1.18-06",
+       "tur": "secmeli",
+       "soru": "Özne merkezli varlık anlayışlarına karşı çıkarak nesnelerin varlığının insana bağlı olmadığını savunan “yeni ontoloji”nin kurucusu kimdir?",
+       "secenekler": [
+        "Edmund Husserl",
+        "Martin Heidegger",
+        "George Berkeley",
+        "Nicolai Hartmann"
+       ],
+       "dogru": 3,
+       "bilgi": "Hartmann'a göre insan dünyanın merkezi değil parçasıdır; varlığın bilgisine düşünülen nesneden yola çıkılarak ulaşılır.",
+       "sayfa": 200,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "1.18-07",
+       "tur": "dy",
+       "ifade": "Nurettin Topçu'nun “isyan ahlakı”, toplumun beklentilerine uymayı ve geçmişi yüceltmeyi esas alan bir ahlak anlayışıdır.",
+       "dogru": false,
+       "bilgi": "Topçu'nun isyan ahlakı, yerel sorunlardan yola çıkıp sorumluluk bilinciyle evrensel ölçülerde yeni bir dünya kurmayı amaçlayan yenilikçi bir ahlaktır.",
+       "sayfa": 201,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "1.18-08",
+       "tur": "secmeli",
+       "soru": "Varoluşçuluğun öncüsü sayılan, insanı tekil varoluşu içinde ele alan ve imanı aklı aşan, paylaşılamaz bir durum olarak gören filozof kimdir?",
+       "secenekler": [
+        "Hegel",
+        "Kierkegaard",
+        "Descartes",
+        "Auguste Comte"
+       ],
+       "dogru": 1,
+       "bilgi": "Kierkegaard'a göre hakikate kuramsal bilgiyle değil imanla ulaşılır; onun varoluşçuluğu insanı tek ve biricik bir birey olarak ele alır.",
+       "sayfa": 201,
+       "yil": "2025-AYT"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Psikoloji",
+   "konular": [
+    {
+     "no": "2.1",
+     "ad": "Psikolojinin Konusu - Bir Bilim Dalı Olma Süreci",
+     "soruSayisi": 3,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "2.1-01",
+       "tur": "dy",
+       "ifade": "Günümüz psikolojisi yalnızca doğrudan gözlenebilen davranışları inceler; zihinsel süreçler ve fizyolojik tepkiler kapsamı dışındadır.",
+       "dogru": false,
+       "bilgi": "Günümüzde psikoloji; gözlenebilir davranışları, doğrudan gözlenemeyen zihinsel süreçleri ve fizyolojik tepkileri birlikte inceler.",
+       "sayfa": 204,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "2.1-02",
+       "tur": "dy",
+       "ifade": "Psikoloji yalnızca insanı değil, hayvan davranışlarını da inceler; Harlow'un yavru maymunlarla yaptığı bağlanma deneyleri buna örnektir.",
+       "dogru": true,
+       "bilgi": "Psikoloji, insan ve hayvanların davranış ve zihinsel süreçlerini bilimsel yöntemlerle inceler; çocukluk yaşantıları ve iş yeri ilişkileri de konusu içindedir.",
+       "sayfa": 204,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "2.1-03",
+       "tur": "bosluk",
+       "cumle": "Psikolojinin deneysel bir bilim olmasına öncülük eden Wilhelm Wundt, 1879'da ___ kentinde ilk psikoloji laboratuvarını kurmuştur.",
+       "cevap": "Leipzig",
+       "celdiriciler": [
+        "Viyana",
+        "Paris",
+        "Boston"
+       ],
+       "bilgi": "Wundt, ilk psikoloji laboratuvarını kurup psikolojik süreçleri deneysel yöntemlerle inceleyerek psikolojinin bağımsız bir bilim olmasını sağlamıştır.",
+       "sayfa": 204,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "2.2",
+     "ad": "Psikolojideki Yaklaşımlar",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "2.2-01",
+       "tur": "eslestir",
+       "yonerge": "Psikolojideki yaklaşımları odaklandıkları konularla eşleştir.",
+       "ciftler": [
+        [
+         "Sosyokültürel yaklaşım",
+         "Davranışın kültür ve toplumsal bağlamdan etkilenmesi"
+        ],
+        [
+         "Davranışçı yaklaşım",
+         "Gözlenebilir davranışlar ve koşullanma"
+        ],
+        [
+         "Psikanalitik yaklaşım",
+         "Bilinçdışı çatışmalar ve çocukluk yaşantıları"
+        ],
+        [
+         "İnsancıl yaklaşım",
+         "Kendini gerçekleştirme ve özgür irade"
+        ],
+        [
+         "Bilişsel yaklaşım",
+         "Algılama, düşünme, bellek gibi zihinsel süreçler"
+        ]
+       ],
+       "bilgi": "Aynı ebeveyn davranışının farklı kültürlerde farklı anlamlandırılması, davranışı kültürel bağlamla açıklayan sosyokültürel yaklaşımla açıklanır.",
+       "sayfa": 204,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "2.3",
+     "ad": "Psikolojinin Bilim Dalı Olarak Ölçütleri, Amaçları - Araştırmalarda Uyulması Gereken Etik Kurallar",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "2.3-01",
+       "tur": "dy",
+       "ifade": "Psikoloji araştırmalarında katılımcı, kendini kötü hissettiğinde çalışmadan çekilme hakkına sahiptir; araştırmacı onu devam etmeye zorlayamaz.",
+       "dogru": true,
+       "bilgi": "Etik ilkelere göre katılımcı araştırmaya özgür iradesiyle katılır ve istediği an ayrılabilir; araştırmacı katılımcının maruz kalacağı riskleri azaltmalıdır.",
+       "sayfa": 205,
+       "yil": "2020-AYT"
+      }
+     ]
+    },
+    {
+     "no": "2.4",
+     "ad": "Psikoloji Araştırmalarında Uygulanan Yöntem ve Teknikler",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "2.4-01",
+       "tur": "bosluk",
+       "cumle": "Deneysel bir araştırmada, araştırmacının değiştirdiği değişkenin etkisiyle ortaya çıkan ve ölçülen değişkene ___ değişken denir.",
+       "cevap": "bağımlı",
+       "celdiriciler": [
+        "bağımsız",
+        "kontrol",
+        "aracı"
+       ],
+       "bilgi": "Deneyde etkisi araştırılan, araştırmacının değiştirdiği değişken bağımsız; bu değişimin sonucunda ölçülen davranış bağımlı değişkendir.",
+       "sayfa": 205,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "2.4-02",
+       "tur": "secmeli",
+       "soru": "Değişkenler arasındaki ilişkinin yönünü ve gücünü belirleyen ancak sebep-sonuç ilişkisi kuramayan araştırma yöntemi hangisidir?",
+       "secenekler": [
+        "Deneysel yöntem",
+        "Vaka (örnek olay) incelemesi",
+        "Doğal gözlem",
+        "Korelasyonel (ilişkisel) yöntem"
+       ],
+       "dogru": 3,
+       "bilgi": "Deneysel yöntem kontrollü değişkenlerle sebep-sonuç ilişkisini ortaya koyar; ilişkinin düzeyini ve yönünü belirlemek korelasyonel yöntemin işidir.",
+       "sayfa": 205,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "2.5",
+     "ad": "Psikolojinin Alt Dalları - İş Alanları - Diğer Bilim Dallarıyla İlişkisi",
+     "soruSayisi": 4,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "2.5-01",
+       "tur": "eslestir",
+       "yonerge": "Psikolojinin alt dallarını çalışma konularıyla eşleştir.",
+       "ciftler": [
+        [
+         "Gelişim psikolojisi",
+         "Yaşam boyu yaşa bağlı değişimler"
+        ],
+        [
+         "Sosyal psikoloji",
+         "Bireyin davranışlarının diğer insanlardan etkilenmesi"
+        ],
+        [
+         "Klinik psikoloji",
+         "Psikolojik bozuklukların tanı ve tedavisi"
+        ],
+        [
+         "Bilişsel psikoloji",
+         "Bellek, düşünme ve problem çözme süreçleri"
+        ]
+       ],
+       "bilgi": "Gelişim psikolojisi yaşa bağlı değişimleri, sosyal psikoloji ilişkilerin davranışa etkisini, klinik psikoloji ruhsal bozuklukları inceler.",
+       "sayfa": 206,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "2.5-02",
+       "tur": "secmeli",
+       "soru": "Çalışanların iş doyumunu ve performansını artırmak için çalışma koşullarını inceleyip yönetime öneriler sunan psikolog hangi alt dalda uzmanlaşmıştır?",
+       "secenekler": [
+        "Sağlık psikolojisi",
+        "Endüstri ve örgüt psikolojisi",
+        "Gelişim psikolojisi",
+        "Eğitim psikolojisi"
+       ],
+       "dogru": 1,
+       "bilgi": "Endüstri ve örgüt psikolojisi iş yerindeki insan davranışını inceler; çalışan performansını, iş memnuniyetini ve verimliliği artırmayı amaçlar.",
+       "sayfa": 206,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "2.5-03",
+       "tur": "dy",
+       "ifade": "Grup üyeliğinin ve diğer insanların bireyin davranışlarını nasıl etkilediğini inceleyen alt dal klinik psikolojidir.",
+       "dogru": false,
+       "bilgi": "Bireyin düşünce, duygu ve davranışlarının diğer insanların ve grupların varlığından nasıl etkilendiğini sosyal psikoloji inceler.",
+       "sayfa": 206,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "2.5-04",
+       "tur": "bosluk",
+       "cumle": "Psikolojinin alt dalları temel ve uygulamalı olarak ikiye ayrılır; davranış bozukluklarının nedenlerini inceleyip tedavi eden klinik psikoloji ___ alt dallardandır.",
+       "cevap": "uygulamalı",
+       "celdiriciler": [
+        "temel (kuramsal)",
+        "deneysel",
+        "karşılaştırmalı"
+       ],
+       "bilgi": "Klinik, endüstri-örgüt, eğitim ve sağlık psikolojisi uygulamalı; gelişim, sosyal, bilişsel ve deneysel psikoloji temel alt dallardır.",
+       "sayfa": 206,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "2.6",
+     "ad": "Uyarılmanın Davranışlara Etkisi - Alışma ve Duyarlılaşma",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "2.6-01",
+       "tur": "bosluk",
+       "cumle": "Tekrarlanan bir uyarıcıya karşı tepkinin giderek güçlenmesine ve bireyin o uyarıcıya daha hassas hâle gelmesine ___ denir.",
+       "cevap": "duyarlılaşma",
+       "celdiriciler": [
+        "alışma",
+        "sönme",
+        "genelleme"
+       ],
+       "bilgi": "Alışma ve duyarlılaşmanın ortak unsuru uyarıcının tekrarıdır; alışmada tepki azalır, duyarlılaşmada ise kişi uyarıcıya daha hassas hâle gelir.",
+       "sayfa": 207,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "2.6-02",
+       "tur": "secmeli",
+       "soru": "Sürekli tekrarlanan ve zararsız bir uyarıcıya verilen tepkinin zamanla azalıp uyarıcının artık fark edilmemesi hangi kavramla açıklanır?",
+       "secenekler": [
+        "Duyarlılaşma",
+        "Alışma",
+        "Ayırt etme",
+        "Kendiliğinden geri gelme"
+       ],
+       "dogru": 1,
+       "bilgi": "Alışma, sürekli ve zararsız bir uyarıcıya verilen tepkinin azalmasıdır; uyarıcı ortadan kalkınca varlığı ancak o zaman fark edilebilir.",
+       "sayfa": 207,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "2.7",
+     "ad": "Algıyı Etkileyen Faktörler - Duyum ve Algı Arasındaki Farklar",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "2.7-01",
+       "tur": "eslestir",
+       "yonerge": "Algıyı etkileyen faktörleri örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "İhtiyaçlar/güdüler",
+         "Susamış birinin yoldaki çeşmeyi hemen fark etmesi"
+        ],
+        [
+         "Deneyimler",
+         "Daha önce köpek ısırmış birinin her havlamayı tehdit sayması"
+        ],
+        [
+         "Kültür",
+         "Aynı el işaretinin bir toplumda övgü, başka bir toplumda hakaret sayılması"
+        ],
+        [
+         "Ortam/bağlam",
+         "Aynı şeklin harfler arasında B, rakamlar arasında 13 görülmesi"
+        ]
+       ],
+       "bilgi": "Algı; algılayanın ihtiyaçları, deneyimleri, kişiliği, tutumları, kültürü ve içinde bulunduğu ortamdan etkilenir.",
+       "sayfa": 207,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "2.7-02",
+       "tur": "bosluk",
+       "cumle": "Eksik ya da kesintili verilen uyarıcıların zihinde bütüne tamamlanarak algılanmasına ___ ilkesi denir.",
+       "cevap": "tamamlama",
+       "celdiriciler": [
+        "yakınlık",
+        "benzerlik",
+        "şekil-zemin"
+       ],
+       "bilgi": "Tamamlama ilkesine göre zihin, eksik bırakılan uyarıcıları geçmiş deneyimlerine dayanarak bütüne tamamlar.",
+       "sayfa": 207,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "2.8",
+     "ad": "Güdülenmeyi Ortaya Çıkaran Faktörler - Güdülenmiş Davranışın Özellikleri",
+     "soruSayisi": 3,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "2.8-01",
+       "tur": "eslestir",
+       "yonerge": "Davranışı etkileyen uygulamaları tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Olumlu pekiştirme",
+         "Davranıştan sonra hoşa giden bir uyarıcı vermek"
+        ],
+        [
+         "Olumsuz pekiştirme",
+         "Davranıştan sonra hoşa gitmeyen bir uyarıcıyı ortadan kaldırmak"
+        ],
+        [
+         "Ceza",
+         "Davranışı azaltmak için hoşa gideni almak ya da hoşa gitmeyeni vermek"
+        ],
+        [
+         "Sönme",
+         "Pekiştirilmeyen davranışın zamanla kaybolması"
+        ]
+       ],
+       "bilgi": "Pekiştirme (olumlu ya da olumsuz) davranışın sıklığını artırır; ceza ise davranışın sıklığını azaltmayı amaçlar.",
+       "sayfa": 208,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "2.8-02",
+       "tur": "bosluk",
+       "cumle": "Açlık ve susuzluk gibi doğuştan gelen, fizyolojik ihtiyaçlardan doğan güdülere ___ denir.",
+       "cevap": "dürtü",
+       "celdiriciler": [
+        "sosyal güdü",
+        "duygu",
+        "alışkanlık"
+       ],
+       "bilgi": "Dürtüler doğuştan ve fizyolojik kökenlidir; sevgi görme, başarı gibi sosyal güdüler ise öğrenilir. Her dürtü bir güdüdür ama her güdü dürtü değildir.",
+       "sayfa": 208,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "2.8-03",
+       "tur": "dy",
+       "ifade": "Bir öğrencinin not ya da ödül beklemeden, yalnızca merak ettiği için bir konuyu araştırması dışsal güdülenmeye örnektir.",
+       "dogru": false,
+       "bilgi": "Dışarıdan ödül ya da zorlama olmadan, kişinin kendi inancı ve doyumu için yaptığı davranışlar içsel güdülenmeye örnektir.",
+       "sayfa": 208,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "2.9",
+     "ad": "Duygu ve Duygu Türleri",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "2.9-01",
+       "tur": "dy",
+       "ifade": "Korkunun nesnesi belirli ve somuttur; kaygıda ise kişi neden endişelendiğini çoğu zaman tam olarak bilemez.",
+       "dogru": true,
+       "bilgi": "Korku belirli bir tehlikeye karşı duyulur; kaygının nesnesi ise belirsizdir. Korkuların bir kısmı doğuştan, bir kısmı deneyimlerle edinilir.",
+       "sayfa": 209,
+       "yil": "2020-AYT"
+      }
+     ]
+    },
+    {
+     "no": "2.10",
+     "ad": "Dikkat ve Türleri",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "2.10-01",
+       "tur": "bosluk",
+       "cumle": "Bireyin isteği dışında, uyarıcının şiddeti ya da yeniliği nedeniyle kendiliğinden oluşan dikkate ___ dikkat denir.",
+       "cevap": "pasif (istemsiz)",
+       "celdiriciler": [
+        "aktif (istemli)",
+        "seçici",
+        "bölünmüş"
+       ],
+       "bilgi": "Pasif dikkat uyarıcının özellikleriyle kendiliğinden yönelir; aktif dikkatte ise kişi dikkatini isteyerek bir uyarıcıya yöneltir ve diğerlerini göz ardı eder.",
+       "sayfa": 209,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "2.11",
+     "ad": "Sosyal Psikoloji",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "2.11-01",
+       "tur": "secmeli",
+       "soru": "Bir arkadaşının toplantıya geç kalmasını “Zaten sorumsuz biridir.” diye açıklayan kişi hangi süreci yaşamaktadır?",
+       "secenekler": [
+        "Dışsal yükleme",
+        "Ön yargı",
+        "Sosyal kolaylaştırma",
+        "İçsel yükleme"
+       ],
+       "dogru": 3,
+       "bilgi": "Bir davranışın nedenini kişinin kendi özelliklerine (karakter, yetenek, tutum) bağlamak içsel yüklemedir.",
+       "sayfa": 209,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "2.11-02",
+       "tur": "bosluk",
+       "cumle": "Bir davranışın nedenini şans, hava koşulları ya da görevin zorluğu gibi kişinin dışındaki etkenlere bağlamaya ___ yükleme denir.",
+       "cevap": "dışsal",
+       "celdiriciler": [
+        "içsel",
+        "kalıp yargısal",
+        "bilişsel"
+       ],
+       "bilgi": "Yükleme, insanların davranışların nedenlerine ilişkin düşünceleridir; nedeni kişiye bağlamak içsel, durum ve koşullara bağlamak dışsal yüklemedir.",
+       "sayfa": 209,
+       "yil": "2020-AYT"
+      }
+     ]
+    },
+    {
+     "no": "2.12",
+     "ad": "Öğrenme ve Öğrenme Türleri - Koşullanma Yoluyla Öğrenme",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "2.12-01",
+       "tur": "bosluk",
+       "cumle": "Emniyet kemeri takılınca rahatsız edici uyarı sesinin susması, kemer takma davranışını ___ pekiştirme yoluyla güçlendirir.",
+       "cevap": "olumsuz",
+       "celdiriciler": [
+        "olumlu",
+        "aralıklı",
+        "ikincil"
+       ],
+       "bilgi": "Olumsuz pekiştirmede davranış, hoşa gitmeyen bir uyarıcıyı ortadan kaldırdığı için tekrarlanır; ağrı geçirmek için ilaç almak da buna örnektir.",
+       "sayfa": 210,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "2.12-02",
+       "tur": "secmeli",
+       "soru": "Klasik koşullanmayla oluşan bir tepkinin, koşullu uyarıcıya benzeyen başka uyarıcılara karşı da gösterilmesine ne denir?",
+       "secenekler": [
+        "Uyarıcı genellemesi",
+        "Ayırt etme",
+        "Sönme",
+        "Kendiliğinden geri gelme"
+       ],
+       "dogru": 0,
+       "bilgi": "Watson'ın deneyinde beyaz fareden korkmaya koşullanan çocuğun benzer beyaz ve tüylü nesnelerden de korkması genellemeye örnektir.",
+       "sayfa": 210,
+       "yil": "2022-AYT"
+      }
+     ]
+    },
+    {
+     "no": "2.13",
+     "ad": "Bilişsel Öğrenme",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "2.13-01",
+       "tur": "eslestir",
+       "yonerge": "Öğrenme türlerini açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Model alarak öğrenme",
+         "Başkalarının davranışlarını gözleyip taklit ederek öğrenme"
+        ],
+        [
+         "Kavrayarak (sezgisel) öğrenme",
+         "Problemin çözümünün birdenbire zihinde belirmesi"
+        ],
+        [
+         "Gizil (örtük) öğrenme",
+         "Farkında olmadan öğrenilip gerektiğinde davranışa yansıyan öğrenme"
+        ],
+        [
+         "Edimsel koşullanma",
+         "Davranışın sonuçlarına (ödül ya da ceza) göre öğrenilmesi"
+        ]
+       ],
+       "bilgi": "Model alarak öğrenme Bandura, kavrayarak öğrenme Köhler, gizil öğrenme ise Tolman'ın çalışmalarıyla açıklanmıştır.",
+       "sayfa": 210,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "2.13-02",
+       "tur": "dy",
+       "ifade": "Tolman'ın deneylerinde ödülsüz olarak labirentte dolaşan farelerin, ödül konulunca yolu hızla bulması gizil öğrenmeye örnektir.",
+       "dogru": true,
+       "bilgi": "Gizil öğrenmede bilgi farkında olmadan edinilir ve hemen davranışa yansımaz; ihtiyaç duyulduğunda ortaya çıkar. Reklam müzikleri de bunu hedefler.",
+       "sayfa": 210,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "2.14",
+     "ad": "Öğrenmeyi Etkileyen Faktörler ve Öğrenme Stratejileri",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "2.14-01",
+       "tur": "bosluk",
+       "cumle": "Tekrarlanan başarısızlıklar sonucunda bireyin çabalarının sonucu değiştirmeyeceğine inanarak denemekten vazgeçmesine ___ denir.",
+       "cevap": "öğrenilmiş çaresizlik",
+       "celdiriciler": [
+        "olgunlaşma",
+        "ket vurma",
+        "olumlu transfer"
+       ],
+       "bilgi": "Seligman'ın tanımladığı öğrenilmiş çaresizlikte kişi, kontrol edemediğini düşündüğü durumlarda çabalamayı bırakır; bu da öğrenmeyi olumsuz etkiler.",
+       "sayfa": 211,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "2.15",
+     "ad": "Bellek ve Bellek Türleri",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "2.15-01",
+       "tur": "dy",
+       "ifade": "Doğru cevabı seçenekler arasından tanımak, aynı bilgiyi hiçbir ipucu olmadan hatırlamaktan genellikle daha zordur.",
+       "dogru": false,
+       "bilgi": "Bellekten geri getirme ipucu arttıkça kolaylaşır; seçenekler arasından tanıma, ipucusuz serbest hatırlamadan daha kolaydır.",
+       "sayfa": 211,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "2.15-02",
+       "tur": "eslestir",
+       "yonerge": "Bellekle ilgili kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "İleriye doğru ket vurma",
+         "Eski öğrenmelerin yeni öğrenilenlerin hatırlanmasını zorlaştırması"
+        ],
+        [
+         "Geriye doğru ket vurma",
+         "Yeni öğrenmelerin eski öğrenilenlerin hatırlanmasını zorlaştırması"
+        ],
+        [
+         "Olumlu transfer",
+         "Önceki bir öğrenmenin yeni bir öğrenmeyi kolaylaştırması"
+        ],
+        [
+         "Bellek izinin silinmesi",
+         "Kullanılmayan bilginin zamanla zayıflayıp kaybolması"
+        ]
+       ],
+       "bilgi": "Terfi eden birinin eski unvanını yazmayı sürdürmesi, eski öğrenmenin yenisini engellediği ileriye doğru ket vurmaya örnektir.",
+       "sayfa": 211,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "2.16",
+     "ad": "Kişilik ve Kişilik Kuramları",
+     "soruSayisi": 5,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "2.16-01",
+       "tur": "dy",
+       "ifade": "Freud'a göre id, haz ilkesine göre çalışır ve isteklerinin ertelenmeden hemen doyurulmasını ister.",
+       "dogru": true,
+       "bilgi": "Psikanalitik kuramda id, kişiliğin doğuştan gelen ve haz ilkesine göre işleyen, isteklerin anında karşılanmasını isteyen bölümüdür.",
+       "sayfa": 212,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "2.16-02",
+       "tur": "eslestir",
+       "yonerge": "Freud'un kişilik yapılarını işlevleriyle eşleştir.",
+       "ciftler": [
+        [
+         "İd",
+         "Haz ilkesine göre işler, isteklerin hemen doyurulmasını ister"
+        ],
+        [
+         "Ego",
+         "Gerçeklik ilkesine göre işler, id ile süperego arasında denge kurar"
+        ],
+        [
+         "Süperego",
+         "Toplumsal değerleri ve ahlak ilkelerini temsil eder, vicdan işlevi görür"
+        ]
+       ],
+       "bilgi": "Ego, id'in dürtülerini toplumca kabul edilebilir ve gerçekliğe uygun yollarla ifade etmeyi sağlar.",
+       "sayfa": 212,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "2.16-03",
+       "tur": "dy",
+       "ifade": "Bir kişinin kişilik özellikleri, bulunduğu her sosyal ortamda başkalarınca aynı biçimde algılanır.",
+       "dogru": false,
+       "bilgi": "Kişilik özelliklerinin nasıl ortaya çıktığı ve başkalarınca nasıl algılandığı, kişinin içinde bulunduğu sosyal koşullara göre değişebilir.",
+       "sayfa": 212,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "2.16-04",
+       "tur": "bosluk",
+       "cumle": "Kişiliğin doğuştan getirilen ve kişinin heyecanlı ya da sakin olması gibi duygusal tepkilerini belirleyen yönüne ___ denir.",
+       "cevap": "mizaç",
+       "celdiriciler": [
+        "karakter",
+        "tutum",
+        "benlik"
+       ],
+       "bilgi": "Mizaç kişiliğin doğuştan gelen duygusal yönü, karakter ise sonradan kazanılan yönüdür; kişilik kalıtım ve çevrenin birlikte etkisiyle şekillenir.",
+       "sayfa": 212,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "2.16-05",
+       "tur": "eslestir",
+       "yonerge": "Erikson'un psikososyal gelişim dönemlerini temel çatışmalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Bebeklik (0-1 yaş)",
+         "Temel güvene karşı güvensizlik"
+        ],
+        [
+         "Okul çağı (6-12 yaş)",
+         "Başarıya karşı aşağılık duygusu"
+        ],
+        [
+         "Ergenlik",
+         "Kimlik kazanmaya karşı rol karmaşası"
+        ],
+        [
+         "Genç yetişkinlik",
+         "Yakınlığa karşı yalıtılmışlık"
+        ]
+       ],
+       "bilgi": "Erikson'a göre ergen, kim olduğu ve ne olmak istediği sorularıyla kimlik arayışı yaşar; bu dönemde akranlarının görüşleri önem kazanır.",
+       "sayfa": 213,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "2.17",
+     "ad": "Stres ve Savunma Mekanizmaları",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "2.17-01",
+       "tur": "eslestir",
+       "yonerge": "Çatışma türlerini örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Yaklaşma-yaklaşma",
+         "Çok beğendiği iki üniversiteden birini seçmek zorunda kalmak"
+        ],
+        [
+         "Kaçınma-kaçınma",
+         "Sevmediği bir işte çalışmakla işsiz kalmak arasında kalmak"
+        ],
+        [
+         "Yaklaşma-kaçınma",
+         "Çok istediği kediyi almak isteyip bakım yükünden çekinmek"
+        ],
+        [
+         "Çift yönlü yaklaşma-kaçınma",
+         "Her birinin hem iyi hem kötü yanı olan iki iş teklifi arasında kalmak"
+        ]
+       ],
+       "bilgi": "Yaklaşma-yaklaşma çatışmasında kişi, ikisi de çekici olan iki seçenekten birini seçmek zorunda kalır.",
+       "sayfa": 213,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "2.17-02",
+       "tur": "secmeli",
+       "soru": "Sınavda kopya çekmeyi düşünen bir öğrencinin, sınıftaki herkesin kopya çekmeye çalıştığını iddia etmesi hangi savunma mekanizmasına örnektir?",
+       "secenekler": [
+        "Yön değiştirme",
+        "Bastırma",
+        "Yansıtma",
+        "Yüceltme"
+       ],
+       "dogru": 2,
+       "bilgi": "Yansıtmada kişi, kabul edemediği kendi duygu ve düşüncelerini başkalarına mal ederek benliğini kaygıdan korur.",
+       "sayfa": 213,
+       "yil": "2021-AYT"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "ad": "Sosyoloji",
+   "konular": [
+    {
+     "no": "3.1",
+     "ad": "Sosyolojiyi Tanıyalım",
+     "soruSayisi": 6,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "3.1-01",
+       "tur": "dy",
+       "ifade": "Sosyolog, toplumsal yaşamı bireylerin gündelik yorumlarıyla anladığı biçimde betimlemekle yetinir.",
+       "dogru": false,
+       "bilgi": "Sosyolog, görünenin ardındaki nedenleri bilimsel ölçütlerle ve olguları mutlaklaştırmadan araştırır; gündelik yorumlarla yetinmez.",
+       "sayfa": 216,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "3.1-02",
+       "tur": "bosluk",
+       "cumle": "Sosyoloji farklı toplumlardaki tek tek somut davranışlardan hareketle ortak yönleri belirler ve ___ yoluyla genel kavramlara ulaşır.",
+       "cevap": "soyutlama",
+       "celdiriciler": [
+        "sezgi",
+        "deneme-yanılma",
+        "taklit"
+       ],
+       "bilgi": "Sosyologlar, farklı yer ve zamanlardaki özel etkinliklerden soyutlama ve genellemeler yaparak her yerde anlaşılan kavramlar oluşturur.",
+       "sayfa": 216,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "3.1-03",
+       "tur": "secmeli",
+       "soru": "C. Wright Mills'in, bireysel yaşantılarla toplumsal yapı arasındaki bağı görebilme yetisi için kullandığı kavram hangisidir?",
+       "secenekler": [
+        "Kolektif bilinç",
+        "Sosyolojik imgelem (muhayyile)",
+        "Anomi",
+        "Kültürel gecikme"
+       ],
+       "dogru": 1,
+       "bilgi": "Sosyolojik düşünme bireysel olayları daha geniş toplumsal olgularla ilişkilendirir ve kişiye topluma farklı ve geniş açılardan bakabilme yetisi kazandırır.",
+       "sayfa": 217,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "3.1-04",
+       "tur": "dy",
+       "ifade": "Sosyolojinin konusu olan toplumsal olgular, doğal dünyadaki nesnelerden farklı olarak insanların onlara yüklediği anlamlardan bağımsız var olamaz.",
+       "dogru": true,
+       "bilgi": "Sosyolojinin nesnesi, insanların anlam ürettiği sosyal dünyadır; suç gibi olgular insan yorumlarına bağlıdır. Bu, sosyolojinin konusunun özgünlüğüdür.",
+       "sayfa": 217,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "3.1-05",
+       "tur": "dy",
+       "ifade": "Sosyolojinin amacı, gündelik bilgilerimizdeki yanlışları tartışılmaz doğrularla değiştirmektir.",
+       "dogru": false,
+       "bilgi": "Sosyolojik düşünme kesin doğrular sunmak yerine kabul görmüş bilgileri eleştirme, çözümleme ve sorgulama alışkanlığı kazandırır.",
+       "sayfa": 218,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "3.1-06",
+       "tur": "secmeli",
+       "soru": "Boşanma oranlarındaki artışı yalnızca eşlerin kişisel uyumsuzluğuyla değil; ekonomik, hukuki ve kültürel etkenlerle birlikte açıklamaya çalışan sosyolog, sosyolojinin hangi özelliğini yansıtır?",
+       "secenekler": [
+        "Olguları bireysel kanılara göre yorumlamasını",
+        "Toplumsal gerçekliği çok boyutlu incelemesini",
+        "Yalnızca sayısal verilerle çalışmasını",
+        "Toplumsal olaylara değer yargısıyla yaklaşmasını"
+       ],
+       "dogru": 1,
+       "bilgi": "Sosyoloji bireysel kanıların ötesine geçer; bir toplumsal olguyu tek bir nedene indirgemeden tüm boyutlarıyla inceler.",
+       "sayfa": 218,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.2",
+     "ad": "Sosyolojinin Kurucuları",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "3.2-01",
+       "tur": "secmeli",
+       "soru": "Toplumsal tabakalaşmayı yalnızca ekonomik duruma değil; saygınlık (statü) ve güce de bağlayan sosyolog kimdir?",
+       "secenekler": [
+        "Karl Marx",
+        "Auguste Comte",
+        "Herbert Spencer",
+        "Max Weber"
+       ],
+       "dogru": 3,
+       "bilgi": "Marx sınıfı üretim araçlarına sahiplikle açıklarken Weber, tabakalaşmada ekonomik durumun yanında saygınlık, statü ve beceriyi de belirleyici sayar.",
+       "sayfa": 219,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.3",
+     "ad": "Sosyolojide Kullanılan Başlıca Yöntemler ve Teknikler",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "3.3-01",
+       "tur": "bosluk",
+       "cumle": "Bir araştırmada incelenmek üzere araştırma evreninden seçilen ve evreni temsil etmesi gereken gruba ___ denir.",
+       "cevap": "örneklem",
+       "celdiriciler": [
+        "hipotez",
+        "değişken",
+        "anket"
+       ],
+       "bilgi": "Örneklem evreni temsil etmezse bulgular genellendiğinde toplumsal gerçeklik yanlış yansıtılır.",
+       "sayfa": 219,
+       "yil": "2022-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.4",
+     "ad": "Sosyalleşme",
+     "soruSayisi": 3,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "3.4-01",
+       "tur": "secmeli",
+       "soru": "Medya imajlarının gerçekliğin yerini aldığını, insanların gerçek kişilere değil imajlara tepki verdiğini savunan, simülasyon ve hipergerçeklik kavramlarıyla tanınan düşünür kimdir?",
+       "secenekler": [
+        "Jean Baudrillard",
+        "Émile Durkheim",
+        "Max Weber",
+        "Auguste Comte"
+       ],
+       "dogru": 0,
+       "bilgi": "Baudrillard'a göre medya imajları gerçeğin yerini alır; insanlar gerçek kişi ve olaylara değil, onların medyadaki görüntülerine tepki verir.",
+       "sayfa": 220,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "3.4-02",
+       "tur": "dy",
+       "ifade": "Sağlıklı sosyalleşme, çocuğun toplumsal değerleri aile ve okul gibi kurumlardan gelişim düzeyine uygun biçimde edinmesini gerektirir; şiddeti olağanlaştıran medya içerikleri bu süreci bozabilir.",
+       "dogru": true,
+       "bilgi": "Sosyalleşmenin merkezine aile ve okul yerine olumsuz mesajlar taşıyan televizyonun oturması, çocuğun benlik gelişimine ve yaşam algısına zarar verebilir.",
+       "sayfa": 220,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "3.4-03",
+       "tur": "bosluk",
+       "cumle": "Bireyin sosyal ilişkilerinin nitelik ya da nicelik bakımından yetersiz kalması durumuna ___ denir.",
+       "cevap": "sosyal yalnızlık",
+       "celdiriciler": [
+        "anomi",
+        "sosyal hareketlilik",
+        "kültürleşme"
+       ],
+       "bilgi": "Sanal ortamda ilişkilerin sayıca artması sıcak ve samimi bağların yerini tutmaz; yüz yüze iletişimin eksikliği kolayca doldurulamaz.",
+       "sayfa": 221,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.5",
+     "ad": "Sosyalleşmenin Aşamaları ve Sosyalleşmenin Toplumsal İlişkiler Üzerindeki Etkisi",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "3.5-01",
+       "tur": "dy",
+       "ifade": "Ergenlikten yetişkinliğe geçiş yalnızca yasal reşit olma yaşıyla belirlenir; toplumsal sınıf bu geçişin zamanlamasını etkilemez.",
+       "dogru": false,
+       "bilgi": "Yetişkin sayılma ölçütleri (eğitimi bitirme, iş sahibi olma, evlenme) toplumsaldır; toplumsal sınıf yetişkinliğe geçiş yaşını etkiler.",
+       "sayfa": 221,
+       "yil": "2019-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.6",
+     "ad": "Toplumsal Statü, Rol, Saygınlık",
+     "soruSayisi": 4,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "3.6-01",
+       "tur": "dy",
+       "ifade": "Toplumsal rol, bireyin sahip olduğu statünün gerektirdiği ve toplumca ondan beklenen davranışlardır.",
+       "dogru": true,
+       "bilgi": "Birey topluma kendisine biçilmiş rollerle katılır; davranışlarının temelinde bu rollerin getirdiği beklenti ve yükümlülükler bulunur.",
+       "sayfa": 222,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "3.6-02",
+       "tur": "secmeli",
+       "soru": "Statü Endişesi adlı kitabında insanların yüksek statü arayışının asıl nedeninin sevilme ve kabul görme ihtiyacı olduğunu ileri süren yazar kimdir?",
+       "secenekler": [
+        "Pierre Bourdieu",
+        "Zygmunt Bauman",
+        "Alain de Botton",
+        "Erving Goffman"
+       ],
+       "dogru": 2,
+       "bilgi": "De Botton'a göre statü arayışında amaç, toplumsal hiyerarşide onaylanacağı ve sevgiyle karşılanacağı bir yer edinmektir.",
+       "sayfa": 222,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "3.6-03",
+       "tur": "bosluk",
+       "cumle": "Bireyin kendi çabası, eğitimi ya da başarısıyla elde ettiği statüye ___ statü denir.",
+       "cevap": "kazanılmış",
+       "celdiriciler": [
+        "verilmiş",
+        "anahtar",
+        "geleneksel"
+       ],
+       "bilgi": "Verilmiş statü cinsiyet, yaş, soy gibi genellikle değiştirilemeyen özelliklere dayanır; kazanılmış statü bireyin çabasıyla elde edilir.",
+       "sayfa": 223,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "3.6-04",
+       "tur": "dy",
+       "ifade": "Bir statüye toplum tarafından atfedilen değer ve itibara saygınlık (prestij) denir.",
+       "dogru": true,
+       "bilgi": "Saygınlık statüye verilen toplumsal değerdir; insanlara yalnızca toplumsal konumlarına göre değer verilmesi insan değerinin statüyle sınırlandırılmasıdır.",
+       "sayfa": 223,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.7",
+     "ad": "Toplumsal Değer - Toplumsal Norm - Toplumsal Kontrol",
+     "soruSayisi": 3,
+     "eslesen": [
+      "felsefe-11/6.4"
+     ],
+     "kartlar": [
+      {
+       "id": "3.7-01",
+       "tur": "secmeli",
+       "soru": "Bir toplumda neyin iyi, doğru, istenir ve önemli olduğuna dair paylaşılan ortak yargılara ne ad verilir?",
+       "secenekler": [
+        "Toplumsal sapma",
+        "Toplumsal statü",
+        "Toplumsal değer",
+        "Toplumsal hareketlilik"
+       ],
+       "dogru": 2,
+       "bilgi": "Toplumsal değerler, kültürden kültüre farklılaşan ve neyin istenir, uygun olduğunu belirleyen kolektif onaylamalardır.",
+       "sayfa": 224,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "3.7-02",
+       "tur": "bosluk",
+       "cumle": "Bireylerin toplumsal değer ve normlara uymasını sağlamak amacıyla resmî ve resmî olmayan yollarla uygulanan yaptırımların bütününe ___ denir.",
+       "cevap": "toplumsal kontrol",
+       "celdiriciler": [
+        "toplumsal sapma",
+        "sosyalleşme",
+        "toplumsal tabakalaşma"
+       ],
+       "bilgi": "Normları bilmek onlara uyulacağı anlamına gelmez; toplumsal kontrol yaptırımlarla norm ve değerlere uyulmasını sağlar, sapma ve suçu önlemeye çalışır.",
+       "sayfa": 224,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "3.7-03",
+       "tur": "dy",
+       "ifade": "Hukuk kurallarını ahlak kurallarından ayıran temel özellik, ihlal edildiğinde devletçe uygulanan resmî ve maddi yaptırımlara sahip olmasıdır.",
+       "dogru": true,
+       "bilgi": "Hukuk kuralları toplumsal değer ve normlardan bağımsız değildir; ancak hapis, tazminat gibi hukukça tanımlanmış resmî yaptırımlara sahiptir.",
+       "sayfa": 225,
+       "yil": "2020-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.8",
+     "ad": "Toplumsal Sapma",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "3.8-01",
+       "tur": "dy",
+       "ifade": "Her toplumsal sapma bir suçtur, ancak her suç bir sapma değildir.",
+       "dogru": false,
+       "bilgi": "Sapma toplumca kabul gören kurallara uymamaktır; suç ise yalnızca yasaların ihlalidir. Bu yüzden sapma, suçtan daha kapsayıcı bir kavramdır.",
+       "sayfa": 225,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "3.8-02",
+       "tur": "secmeli",
+       "soru": "Suçluların kafatası ve beden yapısı gibi fiziksel özelliklerle ayırt edilebileceğini öne süren, bu görüşü günümüz sosyologlarınca reddedilen İtalyan suç bilimci kimdir?",
+       "secenekler": [
+        "Cesare Lombroso",
+        "Robert Merton",
+        "Émile Durkheim",
+        "Howard Becker"
+       ],
+       "dogru": 0,
+       "bilgi": "Lombroso suçu biyolojik özelliklerle açıklamıştır; sosyoloji ise suçu suçluların sosyoekonomik durumuyla ilişkili toplumsal bir olgu olarak inceler.",
+       "sayfa": 225,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.9",
+     "ad": "Toplumsal Yapı ve Unsurları",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "3.9-01",
+       "tur": "dy",
+       "ifade": "Türkiye'de 1950'lerden sonra sanayileşen kentlere yönelen göçle hızlı ve plansız gerçekleşen kentleşme, gecekondulaşma ve çarpık kentleşmeye yol açmıştır.",
+       "dogru": true,
+       "bilgi": "Göç edenlerin altyapısız ve izinsiz konutlar yapması, hızlı ve plansız toplumsal değişmenin çarpık kentleşmeye neden olduğunu gösterir.",
+       "sayfa": 226,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "3.9-02",
+       "tur": "secmeli",
+       "soru": "Kent yaşamında yaygın olan, çıkara dayalı, yüzeysel ve resmî ilişkilere ne ad verilir?",
+       "secenekler": [
+        "Birincil ilişkiler",
+        "Akrabalık ilişkileri",
+        "Komşuluk ilişkileri",
+        "İkincil ilişkiler"
+       ],
+       "dogru": 3,
+       "bilgi": "Bireysellik, ikincil ilişkiler, heterojen kültür ve ekonomik kaygılar kentin özellikleridir; bunlar kentin yalnızlık ve samimiyetsizlikle anılmasına yol açabilir.",
+       "sayfa": 226,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.10",
+     "ad": "Toplumsal Etkileşim Tipleri",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "3.10-01",
+       "tur": "eslestir",
+       "yonerge": "Toplumsal etkileşim tiplerini örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "İş birliği",
+         "Mahalle sakinlerinin parkı birlikte temizlemesi"
+        ],
+        [
+         "Rekabet",
+         "İki fırının daha çok müşteri çekmek için fiyat düşürmesi"
+        ],
+        [
+         "Mübadele",
+         "Bir çiftçinin buğdayını gübreyle takas etmesi"
+        ],
+        [
+         "Uyum",
+         "Yeni bir ülkeye taşınan ailenin oranın yaşam biçimine alışması"
+        ],
+        [
+         "Zorlama (baskı)",
+         "Yöneticinin kurallara uymayan çalışana yaptırım uygulaması"
+        ]
+       ],
+       "bilgi": "Başlıca toplumsal etkileşim tipleri iş birliği, rekabet, mübadele, uyum, zorlama ve çatışmadır.",
+       "sayfa": 226,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "3.10-02",
+       "tur": "secmeli",
+       "soru": "Tarafların ortak bir hedefe kurallar çerçevesinde yarışarak ulaşmaya çalıştığı etkileşim rekabetse, tarafların birbirini engellemeye ya da etkisiz kılmaya yöneldiği etkileşim hangisidir?",
+       "secenekler": [
+        "Uyum",
+        "Çatışma",
+        "Mübadele",
+        "İş birliği"
+       ],
+       "dogru": 1,
+       "bilgi": "Çatışmada taraflar birbirinin amacına ulaşmasını engellemeye ya da birbirini etkisiz kılmaya çalışır; rekabette ise kurallar içinde yarışılır.",
+       "sayfa": 227,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.11",
+     "ad": "Toplumsal Tabakalaşma",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "3.11-01",
+       "tur": "bosluk",
+       "cumle": "Bireyin toplumsal konumunun doğuştan belirlendiği ve tabakalar arasında geçişin mümkün olmadığı kapalı tabakalaşma sistemine ___ sistemi denir.",
+       "cevap": "kast",
+       "celdiriciler": [
+        "sınıf",
+        "zümre",
+        "lonca"
+       ],
+       "bilgi": "Kast sisteminde birey ailesinin kastında doğar ve ömür boyu orada kalır; statü ve rolleri kastı belirler, kastlar birbirine kapalıdır.",
+       "sayfa": 227,
+       "yil": "2020-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.12",
+     "ad": "Toplumsal Değişme ve Toplumsal Değişmeyi Etkileyen Faktörler",
+     "soruSayisi": 3,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "3.12-01",
+       "tur": "dy",
+       "ifade": "Toplumsal değişme, toplumsal yapı ve ilişkilerin zaman içinde geçirdiği dönüşümdür; davranış örüntülerinin yenilenmesi ya da terk edilmesi belli bir sürece bağlıdır.",
+       "dogru": true,
+       "bilgi": "Toplumsal değişme zamanla ilişkilidir; toplumlar canlılar gibi yaşlanıp güçten düşmez, ancak değişmeler zaman içinde ve süreç hâlinde gerçekleşir.",
+       "sayfa": 227,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "3.12-02",
+       "tur": "dy",
+       "ifade": "Sanayi öncesi toplumlarda üretim çoğunlukla evden ayrı, büyük fabrikalarda yapılırdı.",
+       "dogru": false,
+       "bilgi": "Sanayi öncesinde üretim ev ve atölyelerde yapılırken sanayileşme ev ile işi ayırmış, teknoloji ise evden çalışmayı yeniden yaygınlaştırmıştır.",
+       "sayfa": 227,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "3.12-03",
+       "tur": "secmeli",
+       "soru": "Nüfus artışı, yaşlı nüfus oranının yükselmesi ve göçler toplumsal değişmeyi etkileyen hangi faktör grubunda yer alır?",
+       "secenekler": [
+        "Fiziki çevre",
+        "Demografik faktörler",
+        "Bilim ve teknoloji",
+        "Kültürel faktörler"
+       ],
+       "dogru": 1,
+       "bilgi": "Yaşlı nüfusun artması nüfusun yenilenmesini yavaşlatır, çalışan nüfusa bağımlı nüfus oranını yükseltir; bu, demografinin toplumsal değişmeye etkisidir.",
+       "sayfa": 228,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.13",
+     "ad": "Toplumsal Değişme ve Kültür",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "3.13-01",
+       "tur": "bosluk",
+       "cumle": "Maddi kültürdeki hızlı değişmelere maddi olmayan kültürün aynı hızla uyum sağlayamamasından doğan boşluğa William Ogburn ___ adını vermiştir.",
+       "cevap": "kültürel gecikme",
+       "celdiriciler": [
+        "kültürel yozlaşma",
+        "kültürleşme",
+        "kültür emperyalizmi"
+       ],
+       "bilgi": "İnternet üzerinden işlenen yeni bir suç türünün yasal düzenleme yapılana kadar cezasız kalması kültürel gecikmeye örnektir.",
+       "sayfa": 228,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.14",
+     "ad": "Modernleşme ve Küreselleşme",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "3.14-01",
+       "tur": "secmeli",
+       "soru": "Modernleşmenin ve teknolojinin yol açtığı küresel ölçekli, öngörülmesi güç tehlikelerle yaşanan toplumu tanımlamak için Ulrich Beck'in kullandığı kavram hangisidir?",
+       "secenekler": [
+        "Yorgunluk toplumu",
+        "Bilgi toplumu",
+        "Tüketim toplumu",
+        "Risk toplumu"
+       ],
+       "dogru": 3,
+       "bilgi": "Modernleşme ve kâr hırsı, çevre kirliliği ve iklim değişikliği gibi kapsamlı ve belirsiz riskler doğurmuştur.",
+       "sayfa": 229,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "3.14-02",
+       "tur": "bosluk",
+       "cumle": "Bireyin kendi emeğine, topluma ya da kendi benliğine karşı uzaklaşıp onları yabancı hissetmesine ___ denir.",
+       "cevap": "yabancılaşma",
+       "celdiriciler": [
+        "bütünleşme",
+        "sosyalleşme",
+        "kültürleşme"
+       ],
+       "bilgi": "Byung-Chul Han'ın “Yorgunluk Toplumu” kavramına göre aşırı performans baskısı altındaki modern birey kendini tüketir ve kendine yabancılaşır.",
+       "sayfa": 229,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.15",
+     "ad": "Toplumsal Gelişme - Toplumsal Bütünleşme - Toplumsal Çözülme",
+     "soruSayisi": 4,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "3.15-01",
+       "tur": "bosluk",
+       "cumle": "Farklı birey ve grupların ortak değerler ve hedefler etrafında kaynaşarak bir bütün hâline gelmesine ___ denir.",
+       "cevap": "toplumsal bütünleşme",
+       "celdiriciler": [
+        "toplumsal çözülme",
+        "toplumsal hareketlilik",
+        "toplumsal tabakalaşma"
+       ],
+       "bilgi": "Göçmenlerin evlilik, komşuluk, ticaret ve dil öğrenme yoluyla yeni ülkenin millî kimliğini benimsemesi toplumsal bütünleşmeye örnektir.",
+       "sayfa": 230,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "3.15-02",
+       "tur": "eslestir",
+       "yonerge": "Kavramları örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Dikey hareketlilik",
+         "Bir işçinin yıllar içinde şirketin genel müdürü olması"
+        ],
+        [
+         "Yatay hareketlilik",
+         "Bir öğretmenin aynı görevle başka bir ildeki okula atanması"
+        ],
+        [
+         "Kentleşme",
+         "Sanayileşmeyle kentlerdeki nüfus oranının artması"
+        ],
+        [
+         "Toplumsal tabakalaşma",
+         "Grupların gelir, statü ve güce göre hiyerarşik sıralanması"
+        ]
+       ],
+       "bilgi": "Dikey hareketlilikte bireyin statüsü yükselir ya da düşer; yatay hareketlilikte ise statü düzeyi değişmeden konum ya da yer değişir.",
+       "sayfa": 230,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "3.15-03",
+       "tur": "dy",
+       "ifade": "Bir toplumun üyelerini ortak semboller, imgeler ve değerler etrafında birleştirmesi toplumsal çözülmeyi hızlandırır.",
+       "dogru": false,
+       "bilgi": "Ortak imge, sembol ve değerler aidiyet duygusunu ve ortak kimliği güçlendirerek toplumsal bütünleşmeyi sağlar.",
+       "sayfa": 230,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "3.15-04",
+       "tur": "dy",
+       "ifade": "Bireyler ve gruplar arasındaki bağların zayıflaması, normların etkisini yitirmesi ve kutuplaşmanın artması toplumsal çözülmenin belirtileridir.",
+       "dogru": true,
+       "bilgi": "Çıkar gözetilerek öfke ve tepkiyi tetikleyen manipülatif içerikler toplumsal kutuplaşmayı derinleştirerek toplumsal çözülme olasılığını artırır.",
+       "sayfa": 230,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.16",
+     "ad": "Kültürün Anlamı ve İşlevleri",
+     "soruSayisi": 3,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "3.16-01",
+       "tur": "dy",
+       "ifade": "Bir toplumda kalıtsal bir hastalığın daha sık görülmesi, o toplumun kültürel bir özelliği olarak değerlendirilir.",
+       "dogru": false,
+       "bilgi": "Kültür biyolojik kalıtımla değil öğrenmeyle aktarılır; dil ve selamlaşma biçimleri kültürel, kalıtsal hastalıklar ise biyolojik özelliklerdir.",
+       "sayfa": 231,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "3.16-02",
+       "tur": "dy",
+       "ifade": "Kültür yalnızca düşünce ve inançları değil; kişinin giyimi, jest ve mimikleri, yürüyüşü gibi bedensel davranışlarını da biçimlendirir.",
+       "dogru": true,
+       "bilgi": "Kültür üyelerinin hem fiziksel hem zihinsel dünyalarına gözlenebilir anlamlar yükler; bir insanın görünümü yetiştiği kültürü yansıtabilir.",
+       "sayfa": 231,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "3.16-03",
+       "tur": "secmeli",
+       "soru": "Bir kültürün kendine özgü değerlerini ve niteliğini yitirerek bozulmasına ne ad verilir?",
+       "secenekler": [
+        "Kültürel yozlaşma",
+        "Kültürel gecikme",
+        "Kültürleşme",
+        "Kültürel görecelik"
+       ],
+       "dogru": 0,
+       "bilgi": "Standartlaştırılmış, sorgulama gerektirmeyen popüler kültür içerikleri eleştirel düşünmeyi zayıflatarak kültürel yozlaşmayı derinleştirebilir.",
+       "sayfa": 231,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.17",
+     "ad": "Toplumsal Kültürün Önemi",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "3.17-01",
+       "tur": "eslestir",
+       "yonerge": "Kültürel tutum ve süreçleri açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Etnosentrizm",
+         "Başka kültürleri kendi kültürünün ölçütleriyle yargılayıp küçümseme"
+        ],
+        [
+         "Kültürel görecelik",
+         "Her kültürü kendi koşulları ve değerleri içinde anlamaya çalışma"
+        ],
+        [
+         "Kültürleşme",
+         "Etkileşim içindeki kültürlerin birbirinden öge alması"
+        ]
+       ],
+       "bilgi": "Kendini başka bir kültürde doğmuş gibi düşünerek empatiyle bakmak, farklı yaşam biçimlerini ve değerlerini anlamaya yardım eder.",
+       "sayfa": 232,
+       "yil": "2021-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.18",
+     "ad": "Aile Kurumu ve Evlilik",
+     "soruSayisi": 3,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "3.18-01",
+       "tur": "dy",
+       "ifade": "Aile kurumu zaman içinde ve kültürden kültüre biçim değiştirse de tüm toplumlarda varlığını sürdüren evrensel bir kurumdur.",
+       "dogru": true,
+       "bilgi": "Ailenin evrensel tek bir modeli yoktur; geniş, çekirdek, tek ebeveynli gibi türleri vardır, ancak aile tarihsel süreçte değişerek varlığını korur.",
+       "sayfa": 232,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "3.18-02",
+       "tur": "dy",
+       "ifade": "Modern toplumlarda bireyin toplumsal konumu, geleneksel toplumlarda olduğu gibi yalnızca ailesinden devralınır.",
+       "dogru": false,
+       "bilgi": "Modern toplumlarda toplumsal konum yalnızca aileden devralınmaz; ailenin sosyal çevresi ve toplumsal sınıfı bireyin toplumsallaşmasını etkiler.",
+       "sayfa": 233,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "3.18-03",
+       "tur": "dy",
+       "ifade": "Sanayileşmeyle birlikte geniş aileden çekirdek aileye geçişin her yerde kesin ve doğrusal biçimde gerçekleştiği görülmüştür.",
+       "dogru": false,
+       "bilgi": "Kentte büyükanne ve büyükbabanın torunlara bakmak için çocuklarının yanına taşınması, göç edenlerin aile kültürünü sürdürdüğünü gösterir.",
+       "sayfa": 233,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "3.19",
+     "ad": "Siyasal Yönetim Biçimleri",
+     "soruSayisi": 2,
+     "eslesen": [
+      "felsefe-10/7.1"
+     ],
+     "kartlar": [
+      {
+       "id": "3.19-01",
+       "tur": "bosluk",
+       "cumle": "Yurttaşların yalnızca seçimlerde oy vermekle kalmayıp karar süreçlerine, sivil toplum çalışmalarına ve yerel yönetime etkin biçimde katıldığı demokrasi anlayışına ___ demokrasi denir.",
+       "cevap": "katılımcı",
+       "celdiriciler": [
+        "temsilî",
+        "doğrudan",
+        "liberal"
+       ],
+       "bilgi": "Seçimlere ve siyasi etkinliklere katılımın, gönüllü çalışmaların azalması katılımcı demokrasinin zayıfladığını gösterir.",
+       "sayfa": 234,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "3.19-02",
+       "tur": "dy",
+       "ifade": "Engelliliğin sosyal modeline göre engellileri asıl kısıtlayan bireysel yetersizlikleri değil, toplumun ve çevrenin onlara uygun düzenlenmemesidir.",
+       "dogru": true,
+       "bilgi": "Engellilerin temel sorunu sosyal engellemelerdir: İletişime zaman ayrılmaması, uygun kaldırım ve toplu taşıma bulunmaması gibi.",
+       "sayfa": 234,
+       "yil": "2020-AYT"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "ad": "Mantık",
+   "konular": [
+    {
+     "no": "4.1",
+     "ad": "Doğru Düşünme - Temel Kavramlar",
+     "soruSayisi": 3,
+     "eslesen": [
+      "felsefe-10/2.2"
+     ],
+     "kartlar": [
+      {
+       "id": "4.1-01",
+       "tur": "dy",
+       "ifade": "“Keşke yarın kar yağsa.” cümlesi doğru ya da yanlış olarak değerlendirilebildiği için bir önermedir.",
+       "dogru": false,
+       "bilgi": "Önerme, doğru ya da yanlış olabilen yargı bildiren cümledir; dilek, emir, soru ve istek cümleleri önerme değildir.",
+       "sayfa": 237,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "4.1-02",
+       "tur": "dy",
+       "ifade": "Mantık, bir akıl yürütmede ileri sürülen bilgilerin içerik olarak gerçeğe uygun olup olmadığını değil, önermeler arasındaki çıkarım ilişkisini denetler.",
+       "dogru": true,
+       "bilgi": "Mantık düşüncenin biçimiyle ilgilenir; öncüllerle sonuç arasındaki çıkarım ilişkisinin geçerliliğini denetler, bilginin içeriğini denetlemez.",
+       "sayfa": 237,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "4.1-03",
+       "tur": "secmeli",
+       "soru": "Hangi cümle doğruluk değeri taşımadığı için önerme sayılmaz?",
+       "secenekler": [
+        "Ankara Türkiye'nin başkentidir.",
+        "Kapıyı kapatır mısın?",
+        "Ay, Dünya'nın uydusu değildir.",
+        "Bazı kuşlar uçamaz."
+       ],
+       "dogru": 1,
+       "bilgi": "Emir ve soru cümleleri doğru ya da yanlış olamaz; yanlış bir bilgi bildiren cümle ise yine de önermedir.",
+       "sayfa": 237,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "4.2",
+     "ad": "Akıl İlkeleri",
+     "soruSayisi": 5,
+     "eslesen": [
+      "felsefe-10/2.2"
+     ],
+     "kartlar": [
+      {
+       "id": "4.2-01",
+       "tur": "secmeli",
+       "soru": "Özdeşlik ilkesine (“A, A'dır.”) en uygun örnek hangisidir?",
+       "secenekler": [
+        "Aynı kalıptan çıkan iki vazo özdeştir.",
+        "Tek yumurta ikizleri özdeştir.",
+        "Aynı model iki telefon özdeştir.",
+        "Sabah yıldızı ile akşam yıldızı aynı gök cismidir (Venüs)."
+       ],
+       "dogru": 3,
+       "bilgi": "Özdeşlik ilkesine göre bir şey yalnızca kendisiyle özdeştir; farklı adlarla anılan tek bir şey kendisiyle özdeştir, çok benzeyen iki ayrı şey özdeş değildir.",
+       "sayfa": 237,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "4.2-02",
+       "tur": "dy",
+       "ifade": "Parçaları zamanla tümüyle değiştirilen bir geminin hâlâ aynı gemi olup olmadığını soran Theseus'un gemisi paradoksu, çelişmezlik ilkesini tartışmaya açar.",
+       "dogru": false,
+       "bilgi": "Theseus'un gemisi paradoksu, zaman içinde parçaları değişen bir şeyin kendisiyle aynı kalıp kalmadığını sorgulayarak özdeşlik ilkesini tartışır.",
+       "sayfa": 237,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "4.2-03",
+       "tur": "bosluk",
+       "cumle": "“Acı tatlı” ya da “yaşayan ölü” gibi zıt anlamlı sözcükleri bir araya getiren oksimoronlar mantıkta ___ ilkesine aykırıdır.",
+       "cevap": "çelişmezlik",
+       "celdiriciler": [
+        "özdeşlik",
+        "yeter-sebep",
+        "üçüncü hâlin imkânsızlığı"
+       ],
+       "bilgi": "Çelişmezlik ilkesine göre bir şey aynı anda ve aynı bakımdan hem A hem A olmayan olamaz; oksimoron bu ilkeye aykırıdır.",
+       "sayfa": 238,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "4.2-04",
+       "tur": "dy",
+       "ifade": "Birbirinin tıpatıp aynısı görünen iki ayrı nesne, özdeşlik ilkesine göre özdeştir.",
+       "dogru": false,
+       "bilgi": "Özdeşlik bir şeyin yalnızca kendisiyle aynı olmasıdır; “Ben benim, sen de sensin.” sözü bu ilkeye uygundur, birbirine benzeyen iki ayrı nesne ise özdeş değildir.",
+       "sayfa": 238,
+       "yil": "2024-AYT"
+      },
+      {
+       "id": "4.2-05",
+       "tur": "eslestir",
+       "yonerge": "Akıl ilkelerini ifadeleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Özdeşlik",
+         "A, A'dır."
+        ],
+        [
+         "Çelişmezlik",
+         "A, aynı anda hem B hem B olmayan olamaz."
+        ],
+        [
+         "Üçüncü hâlin imkânsızlığı",
+         "A ya B'dir ya B değildir; üçüncü bir durum yoktur."
+        ],
+        [
+         "Yeter-sebep",
+         "Var olan her şeyin yeterli bir nedeni vardır."
+        ]
+       ],
+       "bilgi": "Mantıkta temel akıl ilkeleri özdeşlik, çelişmezlik, üçüncü hâlin imkânsızlığı ve yeter-sebep ilkeleridir.",
+       "sayfa": 238,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "4.3",
+     "ad": "Akıl Yürütme Yöntemleri",
+     "soruSayisi": 6,
+     "eslesen": [
+      "felsefe-10/2.2",
+      "felsefe-10/2.3"
+     ],
+     "kartlar": [
+      {
+       "id": "4.3-01",
+       "tur": "dy",
+       "ifade": "Tümdengelimde öncüller doğru ve akıl yürütme geçerliyse sonuç zorunlu olarak doğrudur.",
+       "dogru": true,
+       "bilgi": "Tümdengelim genelden özele gider ve sonuç öncüllerden zorunlu olarak çıkar; gözlenen örneklerden genel yargıya varmak ise tümevarımdır.",
+       "sayfa": 238,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "4.3-02",
+       "tur": "bosluk",
+       "cumle": "Gözlenen tek tek örneklerden hareketle genel bir yargıya ulaşılan akıl yürütmeye ___ denir.",
+       "cevap": "tümevarım",
+       "celdiriciler": [
+        "tümdengelim",
+        "analoji",
+        "kıyas"
+       ],
+       "bilgi": "Tümevarımın sonucu olasılıklıdır: Görülen bütün kuğuların beyaz olmasından “Bir şey kuğu ise beyazdır.” sonucuna varılır, ama tek bir siyah kuğu bunu çürütür.",
+       "sayfa": 239,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "4.3-03",
+       "tur": "secmeli",
+       "soru": "İki şey arasındaki bazı benzerliklerden yola çıkarak birinde bulunan başka bir özelliğin diğerinde de bulunduğu sonucuna varan akıl yürütme hangisidir?",
+       "secenekler": [
+        "Analoji",
+        "Tümevarım",
+        "Tümdengelim",
+        "Döndürme"
+       ],
+       "dogru": 0,
+       "bilgi": "Analoji (benzetme) tikelden tikele giden bir akıl yürütmedir; sonucu kesin değil, olasılıklıdır.",
+       "sayfa": 239,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "4.3-04",
+       "tur": "dy",
+       "ifade": "Bir sınıftaki öğrencilerin tamamı tek tek incelenerek “Bu sınıftaki bütün öğrenciler gözlüklüdür.” sonucuna varılması eksik tümevarıma örnektir.",
+       "dogru": false,
+       "bilgi": "Bir kümenin bütün üyeleri incelenerek genel yargıya varmak tam tümevarım, yalnızca bir kısmı incelenerek bütün hakkında yargıya varmak eksik tümevarımdır.",
+       "sayfa": 239,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "4.3-05",
+       "tur": "secmeli",
+       "soru": "“Bütün metaller ısıtılınca genleşir. Bakır bir metaldir. O hâlde bakır ısıtılınca genleşir.” akıl yürütmesi hangi türe örnektir?",
+       "secenekler": [
+        "Tümevarım",
+        "Analoji",
+        "Tümdengelim",
+        "Eksik tümevarım"
+       ],
+       "dogru": 2,
+       "bilgi": "Genel bir yargıdan hareketle o genelin kapsadığı tek bir durum hakkında zorunlu bir sonuca varmak tümdengelimdir.",
+       "sayfa": 239,
+       "yil": "2023-AYT"
+      },
+      {
+       "id": "4.3-06",
+       "tur": "eslestir",
+       "yonerge": "Akıl yürütme türlerini örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Tümevarım",
+         "Gördüğü her kargayı siyah bulan birinin tüm kargaların siyah olduğuna karar vermesi"
+        ],
+        [
+         "Analoji",
+         "Mars'ın bazı yönlerden Dünya'ya benzemesinden orada da yaşam olduğunu çıkarmak"
+        ],
+        [
+         "Tümdengelim",
+         "Bütün memeliler akciğerle solur, balina memelidir; o hâlde balina akciğerle solur."
+        ]
+       ],
+       "bilgi": "Tümevarım özelden genele, tümdengelim genelden özele, analoji ise benzerlik yoluyla tikelden tikele gider.",
+       "sayfa": 240,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "4.4",
+     "ad": "Kavram ve Terim",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "4.4-01",
+       "tur": "bosluk",
+       "cumle": "Kavram oluşturulurken nesnelerin birbirinden farklı olan özelliklerinin zihinde ayıklanmasına ___, ortak özelliklerin o türün bütün üyelerine yayılmasına ise genelleme denir.",
+       "cevap": "soyutlama",
+       "celdiriciler": [
+        "tanımlama",
+        "sınıflama",
+        "karşılaştırma"
+       ],
+       "bilgi": "Kavramlar soyutlama ve genelleme ile oluşur: Renk, tat gibi farklılıklar ayıklanır, geriye kalan ortak özellikler tüm türe genellenir.",
+       "sayfa": 240,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "4.5",
+     "ad": "Nelik, Gerçeklik, Kimlik - İçlem ve Kaplam",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "4.5-01",
+       "tur": "eslestir",
+       "yonerge": "Kavramları açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Nelik",
+         "Bir şeyin ne olduğu; dış dünyada karşılığı olmayabilen zihinsel içerik"
+        ],
+        [
+         "Gerçeklik",
+         "Neliğin dış dünyada karşılığının bulunması"
+        ],
+        [
+         "Kimlik",
+         "Bir şeyi tekil olarak diğerlerinden ayıran özellikler"
+        ],
+        [
+         "İçlem",
+         "Bir kavramın kapsadığı ortak niteliklerin bütünü"
+        ],
+        [
+         "Kaplam",
+         "Bir kavramın kapsadığı fertlerin (nesnelerin) bütünü"
+        ]
+       ],
+       "bilgi": "Masaldaki bir dev yalnızca neliktir; rüzgâr türbini gerçekliği olan bir neliktir; belli bir yerdeki belirli türbin ise kimliği olan tekil varlıktır.",
+       "sayfa": 241,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "4.6",
+     "ad": "Kavram Çeşitleri",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "4.6-01",
+       "tur": "eslestir",
+       "yonerge": "Kavram çeşitlerini örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Topluluk (kolektif) kavram",
+         "Orkestra"
+        ],
+        [
+         "Olumsuz kavram",
+         "Sabırsız"
+        ],
+        [
+         "Soyut kavram",
+         "Cesaret"
+        ],
+        [
+         "Tekil kavram",
+         "Ağrı Dağı"
+        ]
+       ],
+       "bilgi": "Topluluk kavramı bir bütün olarak grubu (sendika, ordu), olumsuz kavram bir niteliğin yokluğunu (kaygısız), soyut kavram duyularla algılanamayanı (kötülük) anlatır.",
+       "sayfa": 241,
+       "yil": "2018-AYT"
+      }
+     ]
+    },
+    {
+     "no": "4.7",
+     "ad": "Beş Tümel",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "4.7-01",
+       "tur": "eslestir",
+       "yonerge": "Beş tümeli “insan” kavramı üzerinden örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Cins",
+         "Canlı"
+        ],
+        [
+         "Tür",
+         "İnsan"
+        ],
+        [
+         "Ayrım",
+         "Düşünen (akıl sahibi)"
+        ],
+        [
+         "Özgülük",
+         "Gülebilen"
+        ],
+        [
+         "İlinti",
+         "Yüzme bilen"
+        ]
+       ],
+       "bilgi": "İlinti (araz), varlıkta bulunsa da onun özünü oluşturmayan, olmasa da varlığın o tür olmayı sürdüreceği niteliktir; koşmak ve yüzmek insan için ilintidir.",
+       "sayfa": 241,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "4.8",
+     "ad": "Tanım",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "4.8-01",
+       "tur": "dy",
+       "ifade": "“İnsan iki ayaklı bir canlıdır.” tanımı, kuşları da kapsadığı için tanımlanandan daha geniştir ve kusurlu bir tanımdır.",
+       "dogru": true,
+       "bilgi": "Tanım ne dar ne geniş olmalıdır: Tanımlananın bütün fertlerini kapsamalı (efradını câmi), başka fertleri dışarıda bırakmalıdır (ağyarını mâni).",
+       "sayfa": 242,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "4.9",
+     "ad": "Önerme ve Çeşitleri",
+     "soruSayisi": 2,
+     "eslesen": [
+      "felsefe-10/2.2"
+     ],
+     "kartlar": [
+      {
+       "id": "4.9-01",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki önermelerden hangisi bileşik önermedir?",
+       "secenekler": [
+        "Bütün kuşlar yumurtlar.",
+        "Ayşe öğretmendir.",
+        "Hava hem soğuk hem rüzgârlıdır.",
+        "Bazı çiçekler kokusuzdur."
+       ],
+       "dogru": 2,
+       "bilgi": "Tek yargı bildiren önerme basit önermedir; “ve, veya, ise, ancak ve ancak” gibi bağlaçlarla birden fazla yargıyı birleştiren önerme bileşik önermedir.",
+       "sayfa": 242,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "4.9-02",
+       "tur": "dy",
+       "ifade": "“Güneş batıdan doğar.” cümlesi yanlış bir yargı bildirdiği için önerme değildir.",
+       "dogru": false,
+       "bilgi": "Önerme olmanın ölçütü doğru ya da yanlış olabilmektir; yanlış bir yargı bildiren cümle de önermedir, dilek cümlesi ise önerme değildir.",
+       "sayfa": 242,
+       "yil": "2022-AYT"
+      }
+     ]
+    },
+    {
+     "no": "4.10",
+     "ad": "Çıkarım",
+     "soruSayisi": 1,
+     "eslesen": [
+      "felsefe-10/2.2"
+     ],
+     "kartlar": [
+      {
+       "id": "4.10-01",
+       "tur": "secmeli",
+       "soru": "“Yağmur yağıyorsa yerler ıslaktır.” ve “Yerler ıslak değildir.” öncüllerinden geçerli olarak hangi sonuç çıkar?",
+       "secenekler": [
+        "Yağmur yağmıyordur.",
+        "Yağmur yağıyordur.",
+        "Yerler kurudur ve yağmur yağıyordur.",
+        "Yerler yağmur dışında bir nedenle ıslaktır."
+       ],
+       "dogru": 0,
+       "bilgi": "Koşullu bir önermenin art bileşeni yanlışsa ön bileşeninin de yanlış olduğu sonucu geçerli olarak çıkar (p ise q; q değil; o hâlde p değil).",
+       "sayfa": 242,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "4.11",
+     "ad": "Eşdeğerlik Çıkarımları",
+     "soruSayisi": 2,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "4.11-01",
+       "tur": "bosluk",
+       "cumle": "“Bütün balinalar memelidir.” önermesinin ters döndürmesi “___” önermesidir.",
+       "cevap": "Bütün memeli olmayanlar balina olmayandır.",
+       "celdiriciler": [
+        "Bütün memeliler balinadır.",
+        "Bazı memeliler balinadır.",
+        "Bütün balina olmayanlar memeli olmayandır."
+       ],
+       "bilgi": "Ters döndürmede özne ve yüklemin karşıtları alınıp yer değiştirilir: “Bütün S P'dir.” önermesi “Bütün P olmayanlar S olmayandır.” olur.",
+       "sayfa": 243,
+       "yil": "2020-AYT"
+      },
+      {
+       "id": "4.11-02",
+       "tur": "eslestir",
+       "yonerge": "Önermeleri döndürmeleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Bütün kediler hayvandır.",
+         "Bazı hayvanlar kedidir."
+        ],
+        [
+         "Hiçbir taş canlı değildir.",
+         "Hiçbir canlı taş değildir."
+        ],
+        [
+         "Bazı öğrenciler sporcudur.",
+         "Bazı sporcular öğrencidir."
+        ]
+       ],
+       "bilgi": "Döndürmede özne ile yüklem yer değiştirir; tümel olumlu önerme tikel olumluya döner, tümel olumsuz ve tikel olumlu önermeler aynen döndürülür.",
+       "sayfa": 243,
+       "yil": "2023-AYT"
+      }
+     ]
+    },
+    {
+     "no": "4.12",
+     "ad": "Kıyas",
+     "soruSayisi": 1,
+     "eslesen": [
+      "felsefe-10/2.2"
+     ],
+     "kartlar": [
+      {
+       "id": "4.12-01",
+       "tur": "dy",
+       "ifade": "Öncüllerinin ikisi de tikel ya da ikisi de olumsuz olan bir kıyastan geçerli bir sonuç çıkarılamaz.",
+       "dogru": true,
+       "bilgi": "“Bazı öğrenciler sporcudur, bütün sporcular disiplinlidir; o hâlde bazı öğrenciler disiplinlidir.” geçerli bir kıyastır; iki tikel ya da iki olumsuz öncülden sonuç çıkmaz.",
+       "sayfa": 243,
+       "yil": "2021-AYT"
+      }
+     ]
+    },
+    {
+     "no": "4.13",
+     "ad": "Dilin Görevleri",
+     "soruSayisi": 2,
+     "eslesen": [
+      "felsefe-10/2.1"
+     ],
+     "kartlar": [
+      {
+       "id": "4.13-01",
+       "tur": "bosluk",
+       "cumle": "J. L. Austin'in söz edimleri kuramına göre “Toplantıyı açıyorum.” gibi söylendiği anda bir işi de gerçekleştiren ifadeler dilin ___ görevine örnektir.",
+       "cevap": "eylemsel",
+       "celdiriciler": [
+        "belirtme",
+        "törensel",
+        "yaptırma"
+       ],
+       "bilgi": "Austin'e göre bazı sözler bir durumu bildirmekle kalmaz, söylendikleri anda bir eylemi de gerçekleştirir; bu ifadelerde bildirme ve eylemsel görev birliktedir.",
+       "sayfa": 243,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "4.13-02",
+       "tur": "eslestir",
+       "yonerge": "Dilin görevlerini örnekleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Bildirme",
+         "Su deniz seviyesinde 100 °C'de kaynar."
+        ],
+        [
+         "Belirtme",
+         "Bu manzara içimi öyle ferahlattı ki!"
+        ],
+        [
+         "Yaptırma (yönlendirme)",
+         "Lütfen telefonlarınızı kapatın."
+        ],
+        [
+         "Törensel",
+         "Geçmiş olsun, çabuk iyileşin."
+        ],
+        [
+         "Eylemsel",
+         "Bu gemiye “Umut” adını veriyorum."
+        ]
+       ],
+       "bilgi": "Belirtme görevinde dil, konuşanın duygusal tepkisini ya da tavrını (hoşnutluk, hoşnutsuzluk, sevinç) ifade eder.",
+       "sayfa": 244,
+       "yil": "2025-AYT"
+      }
+     ]
+    },
+    {
+     "no": "4.14",
+     "ad": "Sembolleştirme",
+     "soruSayisi": 2,
+     "eslesen": [
+      "felsefe-10/2.3"
+     ],
+     "kartlar": [
+      {
+       "id": "4.14-01",
+       "tur": "secmeli",
+       "soru": "~(p ∧ q) önermesinin ana eklemi hangisidir?",
+       "secenekler": [
+        "∧ (ve)",
+        "∨ (veya)",
+        "→ (ise)",
+        "~ (değilleme)"
+       ],
+       "dogru": 3,
+       "bilgi": "Ana eklem bileşik önermenin tamamını kapsayan, etki alanı en geniş eklemdir; ~(p ∧ q) önermesinde ayracın dışındaki ~ ana eklemdir.",
+       "sayfa": 244,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "4.14-02",
+       "tur": "bosluk",
+       "cumle": "Sembolik mantıkta “ama”, “fakat” ve “hem... hem...” bağlaçları ___ eklemiyle (∧) gösterilir.",
+       "cevap": "ve",
+       "celdiriciler": [
+        "veya",
+        "ise",
+        "ancak ve ancak"
+       ],
+       "bilgi": "“Ders bitti ama zil çalmadı.” önermesi p: Ders bitti, q: Zil çaldı olmak üzere p ∧ ~q biçiminde sembolleştirilir.",
+       "sayfa": 244,
+       "yil": "2024-AYT"
+      }
+     ]
+    },
+    {
+     "no": "4.15",
+     "ad": "Yorumlama, Önermelerin Doğruluk Değerleri",
+     "soruSayisi": 3,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "4.15-01",
+       "tur": "dy",
+       "ifade": "Koşullu önerme (p → q), yalnızca ön bileşen doğru ve art bileşen yanlış olduğunda yanlış değerini alır.",
+       "dogru": true,
+       "bilgi": "Bu yüzden art bileşeni geçerli olan koşullu önerme her yorumda doğrudur; ön bileşeni geçerli olan koşullu önerme ise yanlış olabilir.",
+       "sayfa": 244,
+       "yil": "2022-AYT"
+      },
+      {
+       "id": "4.15-02",
+       "tur": "bosluk",
+       "cumle": "“p ise q” biçimindeki koşullu önermenin değillemesi “___” önermesine eşdeğerdir.",
+       "cevap": "p ve q değil (p ∧ ~q)",
+       "celdiriciler": [
+        "p değilse q değil (~p → ~q)",
+        "q ise p (q → p)",
+        "p değil veya q (~p ∨ q)"
+       ],
+       "bilgi": "~(p → q) ≡ p ∧ ~q: “Erken yatarsan dinç uyanırsın.” önermesinin değili “Erken yatarsın ama dinç uyanmazsın.” olur.",
+       "sayfa": 244,
+       "yil": "2025-AYT"
+      },
+      {
+       "id": "4.15-03",
+       "tur": "secmeli",
+       "soru": "p doğru, q yanlış olduğunda aşağıdaki bileşik önermelerden hangisi doğru değerini alır?",
+       "secenekler": [
+        "p ∧ q",
+        "p ∨ q",
+        "p → q",
+        "p ↔ q"
+       ],
+       "dogru": 1,
+       "bilgi": "∨ bileşenlerden en az biri doğruysa, ∧ ikisi de doğruysa doğrudur; p → q yalnızca p doğru q yanlışken yanlış, ↔ ise iki bileşen aynı değerdeyken doğrudur.",
+       "sayfa": 244,
+       "yil": "2026-AYT"
+      }
+     ]
+    },
+    {
+     "no": "4.16",
+     "ad": "Tutarlılık, Geçerlilik, Eşdeğerlik Denetlemesi",
+     "soruSayisi": 3,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "4.16-01",
+       "tur": "bosluk",
+       "cumle": "Koşullu önerme “p → q”, “___” önermesine eşdeğerdir.",
+       "cevap": "~p ∨ q",
+       "celdiriciler": [
+        "p ∨ ~q",
+        "~p ∧ q",
+        "q → p"
+       ],
+       "bilgi": "p → q ≡ ~p ∨ q; buna göre (p ∨ ~q) → r önermesi ~(p ∨ ~q) ∨ r, yani De Morgan kuralıyla (~p ∧ q) ∨ r biçimine eşdeğerdir.",
+       "sayfa": 245,
+       "yil": "2018-AYT"
+      },
+      {
+       "id": "4.16-02",
+       "tur": "eslestir",
+       "yonerge": "Önerme türlerini tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Totoloji (geçerli önerme)",
+         "Bütün yorumlarda doğru değerini alan önerme"
+        ],
+        [
+         "Çelişik (tutarsız) önerme",
+         "Bütün yorumlarda yanlış değerini alan önerme"
+        ],
+        [
+         "Olumsal önerme",
+         "Bazı yorumlarda doğru, bazılarında yanlış olan önerme"
+        ]
+       ],
+       "bilgi": "~p ∨ p totolojidir, ~p ∧ p çelişiktir; p → ~p gibi önermeler ise olumsaldır.",
+       "sayfa": 245,
+       "yil": "2019-AYT"
+      },
+      {
+       "id": "4.16-03",
+       "tur": "dy",
+       "ifade": "Birden fazla önerme, her birini ayrı ayrı doğru kılan birer yorum bulunduğunda kendiliğinden tutarlı sayılır.",
+       "dogru": false,
+       "bilgi": "Önermelerin tutarlı olması için hepsini aynı anda doğru kılan ortak bir doğrulayıcı yorum bulunmalıdır.",
+       "sayfa": 245,
+       "yil": "2021-AYT"
+      }
+     ]
+    },
+    {
+     "no": "4.17",
+     "ad": "Çok Değerli Mantık",
+     "soruSayisi": 1,
+     "eslesen": [],
+     "kartlar": [
+      {
+       "id": "4.17-01",
+       "tur": "bosluk",
+       "cumle": "Önermelerin yalnızca doğru ve yanlış değil, “belirsiz” gibi başka değerler ya da olasılık dereceleri de alabileceğini kabul eden mantığa ___ mantık denir.",
+       "cevap": "çok değerli",
+       "celdiriciler": [
+        "klasik",
+        "iki değerli",
+        "niceleme"
+       ],
+       "bilgi": "Łukasiewicz'in öncülük ettiği çok değerli mantık, iki değerli klasik mantıktan farklı olarak üçüncü bir değere (belirsiz) ve olasılık derecelerine yer verir.",
+       "sayfa": 245,
+       "yil": "2022-AYT"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
