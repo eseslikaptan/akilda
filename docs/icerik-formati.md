@@ -86,6 +86,17 @@ Yanlış ifadelerde `bilgi` doğrusunu söyler.
 ```
 3–5 çift. Sol ve sağ taraf kendi içinde benzersiz olmalı.
 
+## Çıkmış soru kaynakları (`tip: "cikmis"`)
+
+`content/cikmis-<tyt|ayt>-<ders>.json` dosyaları MEB'in YKS çıkmış soru derlemelerinden yazılır (`data/cikmis.json`).
+Ders kitabı dosyalarından farkları:
+
+- Kökte `tip: "cikmis"`, `sinav: "TYT" | "AYT"`, `testUrl` (MEB'in çevrim içi testi); `sinif` yoktur.
+- Her konuda `soruSayisi` (2018–2026 arasında o başlıktan sorulan soru sayısı) ve `eslesen` (karşılık gelen ders
+  kitabı konuları, ör. `["tarih-10/2.1"]`).
+- Her kartta `yil` ("2023-TYT"); `sayfa` asıl sorunun MEB PDF'indeki sayfasıdır.
+- ÖSYM'nin soru kökü, seçenekleri ve sorulardaki metinler kullanılmaz; kart, sorunun ölçtüğü bilgiyi özgün biçimde sorar.
+
 ## Doğrulama
 
 ```bash
