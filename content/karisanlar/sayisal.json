@@ -1,0 +1,369 @@
+{
+  "setler": [
+    {
+      "id": "biyoloji-mitoz-mayoz",
+      "ders": "biyoloji",
+      "ad": "Mitoz ve mayoz",
+      "fark": "Mitozda bir hücreden ana hücreyle aynı kromozom sayısına sahip iki hücre oluşur; mayozda krossing over ve homologların rastgele dağılımıyla çeşitlilik sağlanır, dört hücre oluşur ve kromozom sayısı yarıya iner.",
+      "kartlar": [
+        "cikmis-tyt-biyoloji/1.6-03",
+        "cikmis-tyt-biyoloji/1.6-05",
+        "cikmis-ayt-biyoloji/1.18-03",
+        "cikmis-tyt-biyoloji/1.7-03",
+        "cikmis-tyt-biyoloji/1.7-01",
+        "cikmis-tyt-biyoloji/1.7-02",
+        "cikmis-ayt-biyoloji/1.7-02",
+        "cikmis-ayt-biyoloji/1.7-03",
+        "cikmis-ayt-biyoloji/1.18-01"
+      ]
+    },
+    {
+      "id": "biyoloji-dna-rna",
+      "ders": "biyoloji",
+      "ad": "DNA ve RNA",
+      "fark": "DNA'da deoksiriboz şekeri ve timin bazı bulunur, ikili sarmal yapıdadır ve replikasyonla eşlenir; RNA'da riboz şekeri ve urasil bazı bulunur, transkripsiyonla RNA polimeraz tarafından sentezlenir ve ribozomun yapısına katılır.",
+      "kartlar": [
+        "cikmis-tyt-biyoloji/1.2-01",
+        "cikmis-ayt-biyoloji/1.10-06",
+        "biyoloji-9/1.6-03",
+        "cikmis-ayt-biyoloji/1.10-09",
+        "biyoloji-9/1.6-10",
+        "cikmis-ayt-biyoloji/1.10-05",
+        "cikmis-ayt-biyoloji/1.10-01",
+        "cikmis-ayt-biyoloji/1.11-10"
+      ]
+    },
+    {
+      "id": "biyoloji-difuzyon-ozmoz-aktif-tasima",
+      "ders": "biyoloji",
+      "ad": "Difüzyon, ozmoz ve aktif taşıma",
+      "fark": "Difüzyonda maddeler yüksek derişimden düşüğe, ozmozda su seçici geçirgen zardan çözünen derişimi düşük ortamdan yüksek ortama ATP harcanmadan geçer; aktif taşımada ise ATP ve pompa proteinleriyle düşük derişimden yüksek derişime taşınır.",
+      "kartlar": [
+        "cikmis-tyt-biyoloji/1.3-10",
+        "biyoloji-9/2.3-06",
+        "biyoloji-9/2.2-01",
+        "biyoloji-9/2.2-02",
+        "biyoloji-9/2.3-05",
+        "biyoloji-9/2.3-08",
+        "biyoloji-9/2.2-06",
+        "biyoloji-9/2.2-03",
+        "biyoloji-9/2.2-07",
+        "cikmis-tyt-biyoloji/1.3-02"
+      ]
+    },
+    {
+      "id": "biyoloji-fotosentez-kemosentez",
+      "ders": "biyoloji",
+      "ad": "Fotosentez ve kemosentez",
+      "fark": "İkisinde de CO₂'den organik madde üretilir; fotosentezde pigmentlerin soğurduğu ışık enerjisi kullanılır, kemosentezde ise ışık ve klorofil olmadan inorganik maddelerin (NH₃, H₂S, nitrit) oksidasyonundan elde edilen kimyasal enerji kullanılır.",
+      "kartlar": [
+        "biyoloji-10/1.4-01",
+        "biyoloji-10/1.4-02",
+        "biyoloji-10/1.4-03",
+        "cikmis-ayt-biyoloji/1.14-01",
+        "biyoloji-10/1.4-05",
+        "biyoloji-10/1.3-03",
+        "cikmis-ayt-biyoloji/1.13-03",
+        "cikmis-ayt-biyoloji/1.13-04",
+        "cikmis-ayt-biyoloji/1.13-05"
+      ]
+    },
+    {
+      "id": "biyoloji-solunum-fermantasyon",
+      "ders": "biyoloji",
+      "ad": "Oksijenli solunum, oksijensiz solunum ve fermantasyon",
+      "fark": "Oksijenli solunumda ETS'nin son elektron alıcısı oksijendir ve en çok ATP üretilir; oksijensiz solunumda ETS çalışır ama son alıcı nitrat, sülfat gibi inorganik maddelerdir; fermantasyonda oksijen ve ETS kullanılmaz, ATP yalnızca glikolizde üretilir.",
+      "kartlar": [
+        "biyoloji-10/1.7-02",
+        "cikmis-ayt-biyoloji/1.15-03",
+        "cikmis-ayt-biyoloji/1.15-09",
+        "biyoloji-10/1.7-09",
+        "biyoloji-10/1.7-10",
+        "biyoloji-10/1.9-01",
+        "biyoloji-10/1.9-09",
+        "cikmis-ayt-biyoloji/1.15-02",
+        "cikmis-ayt-biyoloji/1.15-06"
+      ]
+    },
+    {
+      "id": "biyoloji-bitkisel-hormonlar",
+      "ders": "biyoloji",
+      "ad": "Oksin, sitokinin, giberellin, absisik asit ve etilen",
+      "fark": "Oksin hücre uzamasını ve ışığa yönelmeyi sağlar, yan tomurcukları baskılar; sitokinin hücre bölünmesini ve dallanmayı uyarır; giberellin gövde uzamasını ve çimlenmeyi, etilen meyve olgunlaşmasını sağlar; absisik asit stomaları kapatır ve büyümeyi engeller.",
+      "kartlar": [
+        "biyoloji-11/1.2-01",
+        "biyoloji-11/1.2-02",
+        "biyoloji-11/1.4-08",
+        "biyoloji-11/1.2-04",
+        "biyoloji-11/1.2-05",
+        "biyoloji-11/1.2-06",
+        "biyoloji-11/1.2-07",
+        "biyoloji-11/1.2-08",
+        "biyoloji-11/1.2-09",
+        "cikmis-ayt-biyoloji/1.16-02",
+        "biyoloji-11/1.2-10"
+      ]
+    },
+    {
+      "id": "biyoloji-tropizma-nasti",
+      "ders": "biyoloji",
+      "ad": "Tropizma ve nasti",
+      "fark": "Tropizmada (yönelim) hareketin yönü uyaranın geliş yönüne bağlıdır, pozitif ya da negatif olabilir ve hormon kontrolünde gerçekleşir; nastide (ırganım) hareket uyaranın yönünden bağımsızdır ve ani turgor değişimi ya da hızlı büyüme asimetrisiyle olur.",
+      "kartlar": [
+        "biyoloji-11/1.3-01",
+        "biyoloji-11/1.3-02",
+        "biyoloji-11/1.3-04",
+        "biyoloji-11/1.3-05",
+        "biyoloji-11/1.3-06",
+        "biyoloji-11/1.3-07",
+        "biyoloji-11/1.3-08",
+        "cikmis-ayt-biyoloji/1.16-04"
+      ]
+    },
+    {
+      "id": "kimya-iyonik-kovalent-metalik-bag",
+      "ders": "kimya",
+      "ad": "İyonik, kovalent ve metalik bağ",
+      "fark": "İyonik bağ metal ile ametal arasında elektron alışverişiyle oluşan zıt yüklü iyonların çekimidir; kovalent bağ ametallerin elektronları ortaklaşa kullanmasıyla, metalik bağ ise metal katyonları ile serbest valans elektronları (elektron denizi) arasında oluşur.",
+      "kartlar": [
+        "kimya-9/2.1.2-01",
+        "kimya-9/2.1.2-02",
+        "cikmis-tyt-kimya/1.7-02",
+        "kimya-9/2.1.3-01",
+        "kimya-9/2.1.3-03",
+        "cikmis-tyt-kimya/1.7-04",
+        "kimya-9/2.1.1-03",
+        "kimya-9/2.1.1-04",
+        "cikmis-tyt-kimya/1.7-03"
+      ]
+    },
+    {
+      "id": "kimya-polar-apolar",
+      "ders": "kimya",
+      "ad": "Polar ve apolar bağ ve molekül",
+      "fark": "Apolar kovalent bağ aynı elektronegatiflikteki atomlar arasında, polar kovalent bağ elektronegatiflik farkı olan atomlar arasında oluşur; molekülün polarlığı ise yük dağılımına bağlıdır: dipol momenti sıfırsa apolar, sıfırdan farklıysa polardır.",
+      "kartlar": [
+        "kimya-9/2.1.3-04",
+        "kimya-9/2.1.3-05",
+        "kimya-9/2.1.3-06",
+        "kimya-9/2.1.3-09",
+        "cikmis-tyt-kimya/1.7-01",
+        "kimya-9/2.1.5-02",
+        "kimya-9/2.1.5-04",
+        "kimya-9/2.1.5-05",
+        "kimya-9/2.1.5-07"
+      ]
+    },
+    {
+      "id": "kimya-london-dipol-hidrojen-bagi",
+      "ders": "kimya",
+      "ad": "London kuvveti, dipol-dipol ve hidrojen bağı",
+      "fark": "London kuvvetleri geçici (indüklenmiş) dipollerle tüm moleküller arasında oluşur ve apolar moleküllerde tek etkileşimdir; dipol-dipol etkileşimi kalıcı dipollü polar moleküller arasında, daha güçlü olan hidrojen bağı ise F, O veya N'ye bağlı H ile oluşur.",
+      "kartlar": [
+        "kimya-9/2.2.1-02",
+        "kimya-9/2.2.1-04",
+        "kimya-9/2.2.1-06",
+        "cikmis-tyt-kimya/1.8-01",
+        "cikmis-tyt-kimya/1.8-02",
+        "kimya-9/2.2.1-05",
+        "kimya-9/2.2.1-08",
+        "kimya-9/2.2.1-09",
+        "cikmis-tyt-kimya/1.8-03",
+        "kimya-9/2.2.3.1-08"
+      ]
+    },
+    {
+      "id": "kimya-fiziksel-kimyasal-degisim",
+      "ders": "kimya",
+      "ad": "Fiziksel ve kimyasal değişim",
+      "fark": "Fiziksel değişimde (hâl değişimi, kâğıdın yırtılması, AlCl₃'ün suda iyonlarına ayrışması) maddenin iç yapısı ve kimliği değişmez; kimyasal değişimde bağlar yeniden düzenlenir ve gaz çıkışı, renk değişimi gibi göstergelerle yeni maddeler oluşur.",
+      "kartlar": [
+        "kimya-10/1.1.1-03",
+        "kimya-10/1.1.1-04",
+        "kimya-10/1.1.1-05",
+        "cikmis-tyt-kimya/1.9-01",
+        "kimya-10/2.1.3-01",
+        "kimya-10/2.1.3-03",
+        "kimya-10/2.1.3-07",
+        "kimya-10/2.1.3-08"
+      ]
+    },
+    {
+      "id": "kimya-endotermik-ekzotermik",
+      "ders": "kimya",
+      "ad": "Endotermik ve ekzotermik",
+      "fark": "Ekzotermik olayda sistem çevreye ısı verir, ürünler daha düşük enerjili ve kararlıdır, ΔH < 0'dır; endotermik olayda sistem çevreden ısı alır, ürünlerin enerjisi yüksektir, ΔH > 0'dır ve kırılan bağların enerjisi oluşanlarınkinden büyüktür.",
+      "kartlar": [
+        "kimya-11/1.1.1-03",
+        "kimya-11/1.1.1-04",
+        "kimya-11/1.1.1-05",
+        "kimya-11/1.1.1-06",
+        "kimya-10/2.1.1-04",
+        "kimya-11/1.1.3-06",
+        "kimya-11/1.1.3-07",
+        "cikmis-ayt-kimya/1.12-02",
+        "cikmis-ayt-kimya/1.14-01",
+        "kimya-11/1.2.1-08"
+      ]
+    },
+    {
+      "id": "kimya-arrhenius-bronsted-lowry",
+      "ders": "kimya",
+      "ad": "Arrhenius ve Brønsted-Lowry asit-baz tanımları",
+      "fark": "Arrhenius'a göre asit suya H⁺, baz OH⁻ verir ve tanım yalnızca sulu çözeltilerde geçerlidir; Brønsted-Lowry'ye göre asit proton veren, baz proton alan türdür, susuz ortamda da geçerlidir ve eşlenik asit-baz çiftleri oluşur.",
+      "kartlar": [
+        "kimya-10/1.1.2-08",
+        "kimya-11/2.2.2-01",
+        "kimya-11/2.2.2-02",
+        "kimya-11/2.2.2-03",
+        "kimya-11/2.2.2-04",
+        "kimya-11/2.2.2-05",
+        "kimya-11/2.2.2-09",
+        "kimya-11/2.2.2-10"
+      ]
+    },
+    {
+      "id": "kimya-adezyon-kohezyon",
+      "ders": "kimya",
+      "ad": "Adezyon ve kohezyon",
+      "fark": "Kohezyon aynı tür moleküllerin birbirini çekmesi, adezyon farklı maddelerin tanecikleri arasındaki çekimdir; adezyon kohezyondan büyükse sıvı yüzeyi ıslatır ve içbükey olur, kohezyon büyükse damlacık hâlinde kalır ve yüzeyi dışbükey olur.",
+      "kartlar": [
+        "kimya-9/2.2.3.3-01",
+        "kimya-9/2.2.3.3-02",
+        "kimya-9/2.2.3.3-03",
+        "kimya-9/2.2.3.3-04",
+        "kimya-9/2.2.3.3-05",
+        "kimya-9/2.2.3.3-10"
+      ]
+    },
+    {
+      "id": "fizik-skaler-vektorel",
+      "ders": "fizik",
+      "ad": "Skaler ve vektörel nicelikler",
+      "fark": "Skaler nicelikler (kütle, zaman, sıcaklık, hacim, enerji) yalnızca sayı ve birimle ifade edilir; vektörel nicelikler (kuvvet, hız) için büyüklüğün yanında yön de belirtilmeli ve işlemlerde yönler dikkate alınmalıdır.",
+      "kartlar": [
+        "fizik-9/2.2-01",
+        "fizik-9/2.2-02",
+        "fizik-9/2.2-03",
+        "fizik-9/2.2-04",
+        "fizik-9/2.2-05",
+        "fizik-9/2.2-06",
+        "fizik-9/2.2-07",
+        "fizik-9/2.2-08",
+        "fizik-9/2.2-09"
+      ]
+    },
+    {
+      "id": "fizik-surat-hiz-yol-yer-degistirme",
+      "ders": "fizik",
+      "ad": "Sürat ve hız, alınan yol ve yer değiştirme",
+      "fark": "Alınan yol yörüngenin uzunluğu olan skaler bir nicelik, yer değiştirme ilk konumdan son konuma çizilen vektördür; sürat birim zamanda alınan yol, hız birim zamandaki yer değiştirmedir, bu yüzden başladığı yere dönenin ortalama hızı sıfırdır.",
+      "kartlar": [
+        "fizik-9/2.5-02",
+        "fizik-9/2.5-04",
+        "fizik-9/2.5-05",
+        "fizik-9/2.5-08",
+        "cikmis-tyt-fizik/1.5-01",
+        "cikmis-tyt-fizik/1.5-02",
+        "cikmis-tyt-fizik/1.5-03",
+        "cikmis-tyt-fizik/1.5-04",
+        "fizik-10/1.1-02",
+        "fizik-10/1.1-08",
+        "fizik-11/1.6-02",
+        "cikmis-ayt-fizik/1.1-01"
+      ]
+    },
+    {
+      "id": "fizik-isi-sicaklik-ic-enerji",
+      "ders": "fizik",
+      "ad": "Isı, sıcaklık ve iç enerji",
+      "fark": "Sıcaklık taneciklerin ortalama kinetik enerjisinin göstergesidir ve termometreyle ölçülür; ısı sıcaklık farkı nedeniyle aktarılan enerjidir, bu yüzden maddeler ısıya değil iç enerjiye, yani taneciklerinin toplam enerjisine sahiptir.",
+      "kartlar": [
+        "fizik-9/4.1-01",
+        "fizik-9/4.1-02",
+        "fizik-9/4.1-03",
+        "fizik-9/4.1-05",
+        "fizik-9/4.1-06",
+        "fizik-9/4.1-07",
+        "fizik-9/4.1-09",
+        "fizik-9/4.1-10",
+        "cikmis-tyt-fizik/1.11-01",
+        "cikmis-tyt-fizik/1.12-03"
+      ]
+    },
+    {
+      "id": "fizik-oz-isi-isi-sigasi",
+      "ders": "fizik",
+      "ad": "Öz ısı ve ısı sığası",
+      "fark": "Öz ısı birim kütlenin sıcaklığını 1 °C değiştiren ısıdır, kütleye bağlı değildir ve maddeyi ayırt eder; ısı sığası kütle ile öz ısının çarpımıdır, kütleyle arttığı için ayırt edici değildir.",
+      "kartlar": [
+        "fizik-9/4.2-07",
+        "fizik-9/4.2-08",
+        "fizik-9/4.2-09",
+        "cikmis-tyt-fizik/1.10-01",
+        "cikmis-tyt-fizik/1.10-02",
+        "fizik-9/4.4-06"
+      ]
+    },
+    {
+      "id": "fizik-seri-paralel-baglama",
+      "ders": "fizik",
+      "ad": "Seri ve paralel bağlama",
+      "fark": "Seri bağlı dirençlerden aynı akım geçer, eşdeğer direnç artar ve düz seri bağlı üreteçlerin potansiyel farkları toplanır; paralel bağlı elemanların uçları arasındaki potansiyel fark eşittir, eşdeğer direnç azalır ve paralel üreteçler daha geç tükenir.",
+      "kartlar": [
+        "fizik-10/3.4-02",
+        "fizik-10/3.4-08",
+        "fizik-10/3.4-03",
+        "fizik-10/3.4-04",
+        "fizik-10/3.4-09",
+        "cikmis-tyt-fizik/1.15-03",
+        "fizik-10/3.4-05",
+        "fizik-10/3.5-02",
+        "fizik-10/3.5-07",
+        "fizik-10/3.5-04",
+        "fizik-10/3.5-05",
+        "fizik-10/3.5-06"
+      ]
+    },
+    {
+      "id": "fizik-ayna-mercek",
+      "ders": "fizik",
+      "ad": "Çukur-tümsek ayna ve yakınsak-ıraksak mercek",
+      "fark": "Çukur ayna ve yakınsak (ince kenarlı) mercek paralel ışınları toplar, tümsek ayna ve ıraksak (kalın kenarlı) mercek dağıtır; aynalar ışığı yansıtır ve odakları ışığın rengine bağlı değildir, mercekler ışığı kırar ve odakları renge bağlıdır.",
+      "kartlar": [
+        "fizik-11/3.3-01",
+        "fizik-11/3.3-04",
+        "fizik-11/3.3-09",
+        "fizik-11/3.3-10",
+        "fizik-11/3.3-11",
+        "fizik-11/3.3-06",
+        "cikmis-tyt-fizik/1.23-02",
+        "fizik-11/3.3-03",
+        "fizik-11/3.8-02",
+        "fizik-11/3.8-03",
+        "fizik-11/3.8-05",
+        "fizik-11/3.8-09",
+        "fizik-11/3.8-10",
+        "cikmis-tyt-fizik/1.25-01"
+      ]
+    },
+    {
+      "id": "fizik-dalga-turleri",
+      "ders": "fizik",
+      "ad": "Enine-boyuna ve mekanik-elektromanyetik dalga",
+      "fark": "Mekanik dalgalar (ses, su, yay, deprem) maddesel ortam ister, elektromanyetik dalgalar boşlukta da yayılır; enine dalgada titreşim yayılma doğrultusuna dik, boyuna dalgada paraleldir: ses boyuna, elektromanyetik dalgalar enine dalgadır.",
+      "kartlar": [
+        "fizik-10/4.3-01",
+        "fizik-10/4.3-02",
+        "fizik-10/4.3-08",
+        "cikmis-ayt-fizik/1.24-01",
+        "cikmis-ayt-fizik/1.31-04",
+        "fizik-10/4.3-03",
+        "cikmis-tyt-fizik/1.19-01",
+        "fizik-10/4.3-04",
+        "fizik-10/4.3-10",
+        "cikmis-ayt-fizik/1.23-03"
+      ]
+    }
+  ]
+}
