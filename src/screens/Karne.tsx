@@ -73,8 +73,8 @@ function ciz(c: HTMLCanvasElement, o: Ozet, ad: string) {
   c.width = W;
   c.height = H;
   const g = c.getContext("2d")!;
-  const serif = '"Fraunces Variable", Georgia, serif';
-  const sans = '"Plus Jakarta Sans Variable", system-ui, sans-serif';
+  const serif = '"Fredoka Variable", system-ui, sans-serif';
+  const sans = '"Nunito Variable", system-ui, sans-serif';
 
   const zemin = g.createLinearGradient(0, 0, W, H);
   zemin.addColorStop(0, "#1f1b2d");
