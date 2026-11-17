@@ -16,6 +16,7 @@ import { Deneme, DenemeSecim } from "./screens/Deneme";
 import { Defter } from "./screens/Defter";
 import { Karne } from "./screens/Karne";
 import { Karisanlar } from "./screens/Karisanlar";
+import { CikmisYil, CikmisYillar } from "./screens/Cikmis";
 
 export function App() {
   const [dizin, setDizin] = useState<Dizin | null>(null);
@@ -87,6 +88,8 @@ function Sayfa({ dizin }: { dizin: Dizin }) {
               ? { tip: "sonTur" }
               : s.get("karisan")
                 ? { tip: "karisan", setId: s.get("karisan")! }
+                : s.get("yil")
+                  ? { tip: "yil", yil: s.get("yil")!, kurs }
                 : { tip: "karisik", kurs };
     // Aynı rotada yeni oturum açılınca bileşen sıfırdan kurulsun
     return <Oturum key={window.location.hash} dizin={dizin} tip={tip} />;
@@ -126,6 +129,12 @@ function Sayfa({ dizin }: { dizin: Dizin }) {
     icerik = <DenemeSecim dizin={dizin} />;
   } else if (bolum === "defter") {
     icerik = <Defter dizin={dizin} />;
+  } else if (bolum === "cikmis" && arg) {
+    icerik = <CikmisYil key={arg} dizin={dizin} yil={arg} />;
+    sekme = "dersler";
+  } else if (bolum === "cikmis") {
+    icerik = <CikmisYillar dizin={dizin} />;
+    sekme = "dersler";
   } else if (bolum === "karisanlar") {
     icerik = <Karisanlar dizin={dizin} />;
   } else if (bolum === "karne") {

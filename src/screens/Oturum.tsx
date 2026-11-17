@@ -353,6 +353,11 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
         </button>
       </div>
 
+      {tip.tip === "yil" && (
+        <p className="meydan-serit">
+          <strong>{tip.yil.replace("-", " ")}</strong> sınavında ÖSYM'nin sorduğu bilgiler
+        </p>
+      )}
       {tip.tip === "karisan" && (
         <p className="meydan-serit karisan-serit">
           <strong>Ayırt et:</strong> {dizin.karisanlar.find((x) => x.id === tip.setId)?.ad}

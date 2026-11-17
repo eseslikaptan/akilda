@@ -9,6 +9,8 @@ import { DERSLER } from "../subjects";
 import { alanBilgi, type Sinav } from "../kurslar";
 import { SORU_SAYISI } from "../yks";
 import { KarisanListe, dersSetleri } from "./Karisanlar";
+import { YilSatiri } from "./Cikmis";
+import { yilOzetleri } from "../oturum";
 import { geri, git } from "../router";
 import { DersRozeti, HafizaCubugu, Ikon, IKON, UstBar, yuzde } from "../ui";
 
@@ -119,7 +121,7 @@ export function KursDetay({ dizin, kursId }: { dizin: Dizin; kursId: string }) {
         </div>
       )}
 
-      {sekme === "osym" ? <OsymBolumu kurs={kurs} /> : <>
+      {sekme === "osym" ? <OsymBolumu dizin={dizin} kurs={kurs} /> : <>
       <button className="karisik-satir" onClick={() => git(`/oturum?karisik=1&kurs=${kurs.id}`)}>
         <Ikon d={IKON.karisik} boyut={18} />
         <span>
@@ -188,8 +190,9 @@ export function KursDetay({ dizin, kursId }: { dizin: Dizin; kursId: string }) {
 }
 
 /** Dersin ÖSYM çıkmış sorularından çıkarılmış bilgileri: en çok soru çıkan başlıklar önce */
-function OsymBolumu({ kurs }: { kurs: Kurs }) {
+function OsymBolumu({ dizin, kurs }: { dizin: Dizin; kurs: Kurs }) {
   const p = useIlerleme();
+  const [gorunum, setGorunum] = useState<"konu" | "yil">("konu");
   const kitap = kurs.cikmisKitap!;
   const enCok = Math.max(1, ...kurs.cikmis.map((k) => k.soruSayisi ?? 0));
   const sirali = [...kurs.cikmis].sort((a, b) => (b.soruSayisi ?? 0) - (a.soruSayisi ?? 0));
@@ -224,12 +227,30 @@ function OsymBolumu({ kurs }: { kurs: Kurs }) {
           </a>
         )}
       </div>
-      <h2 className="bolum-baslik">En çok soru çıkan konular</h2>
-      <ul className="osym-liste">
-        {sirali.map((konu) => (
-          <OsymSatir key={konu.id} konu={konu} enCok={enCok} hafiza={konuOzet(konu, p).hafiza} />
-        ))}
-      </ul>
+      <div className="sekmeler kucuk" role="tablist">
+        <button role="tab" aria-selected={gorunum === "konu"} className={gorunum === "konu" ? "aktif" : ""} onClick={() => setGorunum("konu")}>
+          Konulara göre
+        </button>
+        <button role="tab" aria-selected={gorunum === "yil"} className={gorunum === "yil" ? "aktif" : ""} onClick={() => setGorunum("yil")}>
+          Yıllara göre
+        </button>
+      </div>
+      {gorunum === "konu" ? (
+        <>
+          <h2 className="bolum-baslik">En çok soru çıkan konular</h2>
+          <ul className="osym-liste">
+            {sirali.map((konu) => (
+              <OsymSatir key={konu.id} konu={konu} enCok={enCok} hafiza={konuOzet(konu, p).hafiza} />
+            ))}
+          </ul>
+        </>
+      ) : (
+        <ul className="yil-liste">
+          {yilOzetleri(dizin, p, kurs.id).map((o) => (
+            <YilSatiri key={o.yil} o={o} kursId={kurs.id} />
+          ))}
+        </ul>
+      )}
     </>
   );
 }

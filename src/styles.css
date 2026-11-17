@@ -2740,6 +2740,106 @@ h3 {
   }
 }
 
+/* Çıkmış sorular: yıl yıl */
+.yil-liste {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.yil-kart {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 14px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-m);
+  box-shadow: var(--press);
+  text-align: left;
+  color: var(--ink-3);
+}
+.yil-kart.bitti {
+  border-color: color-mix(in srgb, var(--good) 45%, var(--line));
+}
+.yil-sol {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  min-width: 64px;
+}
+.yil-sayi {
+  font: 700 26px/1 var(--font-serif);
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+}
+.yil-sag {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  color: var(--ink);
+}
+.yil-ust {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.yil-dersler {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+.yil-ders {
+  font-size: 11.5px;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 6px;
+  background: var(--ders-soft);
+  color: var(--ders-ink);
+}
+.yil-kapak {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+.yil-kapak h1 {
+  font: 600 22px/1.2 var(--font-serif);
+}
+.yil-kapak p {
+  margin: 4px 0 0;
+}
+.yil-ders-satir {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  text-align: left;
+  padding: 12px 14px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--ders);
+  border-radius: var(--r-m);
+  box-shadow: var(--press);
+}
+.yil-kapak .osym-sayi strong {
+  font-size: 22px;
+}
+.sekmeler.kucuk button {
+  padding: 7px 10px;
+  font-size: 13px;
+}
+.cikmis-ozet {
+  gap: 8px;
+}
+
 /* ============ Animasyonlar ============ */
 @keyframes belir {
   from {

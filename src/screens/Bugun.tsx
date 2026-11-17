@@ -255,14 +255,14 @@ export function Bugun({ dizin }: { dizin: Dizin }) {
       </div>
 
       {cikmisSoru > 0 && (
-        <button className="osym-kisayol" onClick={() => git("/oturum?cikmis=1")}>
+        <button className="osym-kisayol" onClick={() => git("/cikmis")}>
           <span className="osym-sayi kucuk">
             <strong>{cikmisSoru}</strong>
             <span>soru</span>
           </span>
           <span className="tekrar-metin">
             <strong>ÖSYM'de çıkan bilgiler</strong>
-            <span className="soluk-metin">2018–2026 YKS'de sorulan bilgilerden 12 soruluk tur</span>
+            <span className="soluk-metin">2018'den 2026'ya yıl yıl: o sınavda sorulan bilgilerle kendini dene</span>
           </span>
           <Ikon d={IKON.ileri} />
         </button>

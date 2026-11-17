@@ -11,6 +11,7 @@ export type OturumTipi =
   | { tip: "defter" }
   | { tip: "sonTur" }
   | { tip: "karisan"; setId: string }
+  | { tip: "yil"; yil: string; kurs?: string; ders?: string }
   | { tip: "liste"; uids: string[] };
 
 const KONU_KART = 10;
@@ -68,6 +69,15 @@ export function oturumKartlari(d: Dizin, p: Ilerleme, o: OturumTipi): KartRef[] 
 
   if (o.tip === "defter") return karistir(yanlisDefteri(d, p).slice(0, KARISIK_KART));
   if (o.tip === "sonTur") return sonTurKalan(d, p).slice(0, TEKRAR_KART);
+  if (o.tip === "yil") {
+    // Bir yılın sınavında sorulan bilgiler: önce görülmeyenler, sonra zayıflar; ders sırası korunur
+    const kartlar = yilKartlari(d, p, o.yil, o.kurs).filter((r) => !o.ders || r.kitap.ders === o.ders);
+    const yeni = kartlar.filter((r) => !p.kartlar[r.uid]);
+    const eski = kartlar
+      .filter((r) => p.kartlar[r.uid])
+      .sort((a, b) => hatirlama(p.kartlar[a.uid]) - hatirlama(p.kartlar[b.uid]));
+    return [...yeni, ...eski].slice(0, TEKRAR_KART);
+  }
   if (o.tip === "karisan") {
     // Karıştırılan kavramlar art arda: aynı setin kartları karışık sırayla
     const set = d.karisanlar.find((x) => x.id === o.setId);
@@ -179,4 +189,44 @@ export function sonTurDurumu(d: Dizin, p: Ilerleme) {
   const toplam = aktifKurslar(d, p).reduce((t, k) => t + k.kartlar.length, 0);
   const kalan = sonTurKalan(d, p).length;
   return { toplam, tamam: toplam - kalan, kalan };
+}
+
+/** Bir sınav yılında ("2023-TYT") sorulmuş bilgiler, ders sırasıyla */
+export function yilKartlari(d: Dizin, p: Ilerleme, yil: string, kursId?: string): KartRef[] {
+  return aktifKurslar(d, p, kursId)
+    .flatMap((k) => k.cikmis)
+    .flatMap((k) => k.kartlar)
+    .filter((r) => r.kart.yil === yil);
+}
+
+export interface YilOzeti {
+  yil: string; // "2023-TYT"
+  yilSayi: number;
+  sinav: "TYT" | "AYT";
+  kartlar: KartRef[];
+  dersler: { ders: string; kursId: string; adet: number }[];
+}
+
+/** Çıkmış bilgilerin yıllara göre dökümü: en yeni yıl önce, aynı yılda TYT önce */
+export function yilOzetleri(d: Dizin, p: Ilerleme, kursId?: string): YilOzeti[] {
+  const harita = new Map<string, YilOzeti>();
+  for (const kurs of aktifKurslar(d, p, kursId)) {
+    for (const konu of kurs.cikmis) {
+      for (const r of konu.kartlar) {
+        const yil = r.kart.yil;
+        if (!yil) continue;
+        let o = harita.get(yil);
+        if (!o) {
+          const [ys, sinav] = yil.split("-");
+          o = { yil, yilSayi: Number(ys), sinav: sinav as "TYT" | "AYT", kartlar: [], dersler: [] };
+          harita.set(yil, o);
+        }
+        o.kartlar.push(r);
+        const dk = o.dersler.find((x) => x.kursId === kurs.id);
+        if (dk) dk.adet++;
+        else o.dersler.push({ ders: kurs.ders, kursId: kurs.id, adet: 1 });
+      }
+    }
+  }
+  return [...harita.values()].sort((a, b) => b.yilSayi - a.yilSayi || b.sinav.localeCompare(a.sinav));
 }
