@@ -2,7 +2,7 @@ import { useState } from "react";
 import type { Dizin } from "../content";
 import { kurulumuTamamla } from "../store";
 import { ALANLAR, type AlanKey } from "../kurslar";
-import { Ikon, IKON } from "../ui";
+import { Kivilcim } from "../maskot";
 import { AlanSecici, HEDEFLER } from "./Profil";
 
 export function Kurulum({ dizin }: { dizin: Dizin }) {
@@ -23,8 +23,9 @@ export function Kurulum({ dizin }: { dizin: Dizin }) {
 
       {adim === 0 && (
         <section className="kurulum-adim">
-          <div className="logo-buyuk" aria-hidden="true">
-            <Ikon d={IKON.beyin} boyut={56} kalin={1.5} />
+          <div className="kurulum-maskot">
+            <Kivilcim duygu="selam" boyut={110} className="zipla" />
+            <p className="balon">Selam! Ben Kıvılcım. Okuduklarının aklında kalmasına yardım edeceğim.</p>
           </div>
           <h1>
             Okuduğun <em>akılda</em> kalsın.

@@ -16,6 +16,7 @@ const BOS: Ilerleme = {
   dondurma: { hak: 1, gunler: [] },
   denemeler: [],
   cevaplar: {},
+  rozetler: {},
 };
 
 function oku(): Ilerleme {
@@ -167,6 +168,12 @@ export function xpEkle(xp: number, sonKonu?: string) {
 
 export function denemeKaydet(k: DenemeKaydi) {
   yaz({ ...durum, denemeler: [...durum.denemeler, k].slice(-50) });
+}
+
+export function rozetleriKaydet(ids: string[]) {
+  if (!ids.length) return;
+  const simdi = Date.now();
+  yaz({ ...durum, rozetler: { ...durum.rozetler, ...Object.fromEntries(ids.map((i) => [i, simdi])) } });
 }
 
 export function sonTurBaslat(baslat: boolean) {

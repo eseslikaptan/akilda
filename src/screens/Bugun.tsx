@@ -5,6 +5,8 @@ import { kursAdi } from "./Dersler";
 import { gunAnahtari, seri, seriTehlikede, sonTurBaslat, useIlerleme } from "../store";
 import { gunKaldi, gunlukYeniHedef } from "../yks";
 import { anaEkrandaMi, iosMu } from "../araclar";
+import { Kivilcim, type Duygu } from "../maskot";
+import { rutbe, seviyeHesapla } from "../rutbe";
 import { DERSLER } from "../subjects";
 import { git } from "../router";
 import { DersRozeti, HafizaCubugu, Halka, Ikon, IKON, yuzde } from "../ui";
@@ -42,6 +44,20 @@ export function Bugun({ dizin }: { dizin: Dizin }) {
     }
   });
   const iosIpucu = !iosGizle && iosMu() && !anaEkrandaMi();
+  const sv = seviyeHesapla(p.toplamXp);
+  // Kıvılcım'ın bugünkü sözü: durumun en önemlisi
+  const [soz, duygu]: [string, Duygu] =
+    seriTehlikede(p) && new Date().getHours() >= 17
+      ? [`${gunSeri} günlük serin tehlikede! Kısa bir ders yeter.`, "dusunceli"]
+      : bugunXp >= hedef
+        ? ["Helal olsun, bugünkü hedef tamam! İstersen biraz daha.", "coskulu"]
+        : vadeli.length > 0
+          ? [`${vadeli.length} bilgi unutulmak üzere. Hadi kurtaralım!`, "selam"]
+          : gunSeri >= 3
+            ? [`${gunSeri} gündür buradasın, aferin! Bugün de yapalım.`, "mutlu"]
+            : gorulenToplam === 0
+              ? ["Merhaba! Ben Kıvılcım. İlk dersin 3 dakika sürer.", "selam"]
+              : ["Hadi, bugün birkaç bilgi daha akılda kalsın.", "selam"];
   const yedekGerekli = gorulenToplam >= 50 && (!p.sonYedek || Date.now() - p.sonYedek > 14 * 86_400_000) && !iosIpucu;
 
   return (
@@ -49,7 +65,12 @@ export function Bugun({ dizin }: { dizin: Dizin }) {
       <header className="bugun-ust">
         <div>
           <p className="ust-etiket">{selam()}{p.ayarlar.ad ? `, ${p.ayarlar.ad}` : ""}</p>
-          <h1 className="baslik-buyuk">Bugün ne hatırlayalım?</h1>
+          <button className="rutbe-cip" onClick={() => git("/profil")} title={`${sv.sonraki - p.toplamXp} XP sonra seviye ${sv.seviye + 1}`}>
+            <strong>{rutbe(sv.seviye)}</strong> · Sv {sv.seviye}
+            <span className="rutbe-cip-cubuk">
+              <span style={{ width: `${Math.round(sv.oran * 100)}%` }} />
+            </span>
+          </button>
         </div>
         <div className="seri-rozet" title={`Ardışık çalışma günü · ${p.dondurma.hak} seri dondurma hakkı`}>
           <Ikon d={IKON.alev} boyut={18} />
@@ -58,6 +79,11 @@ export function Bugun({ dizin }: { dizin: Dizin }) {
           {p.dondurma.hak > 0 && <span className="dondurma" aria-label={`${p.dondurma.hak} dondurma hakkı`}>❄{p.dondurma.hak}</span>}
         </div>
       </header>
+
+      <div className="maskot-konusma">
+        <Kivilcim duygu={duygu} boyut={64} className="sallan" />
+        <p className="balon">{soz}</p>
+      </div>
 
       {iosIpucu && (
         <div className="uyari-serit">

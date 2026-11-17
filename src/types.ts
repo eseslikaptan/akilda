@@ -183,4 +183,6 @@ export interface Ilerleme {
   cevaplar: Record<string, [number, number]>;
   /** Son tur: başladığı andan sonra en az bir kez sorulan bilgiler "turu tamamlamış" sayılır */
   sonTur?: { baslangic: number };
+  /** rozet kimliği -> kazanıldığı zaman */
+  rozetler: Record<string, number>;
 }

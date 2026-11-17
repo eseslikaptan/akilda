@@ -3,7 +3,12 @@ import type { Dizin } from "../content";
 import { kaynakLinki } from "../content";
 import type { KartDurum, KartRef } from "../types";
 import { karistir, oturumKartlari, siradakiKonu, type OturumTipi } from "../oturum";
-import { ayarlariGuncelle, cevapKaydet, ilerleme, kartDurumYaz, useIlerleme, xpEkle } from "../store";
+import { ayarlariGuncelle, cevapKaydet, gunAnahtari, ilerleme, kartDurumYaz, rozetleriKaydet, seri, useIlerleme, xpEkle } from "../store";
+import { Kivilcim, type Duygu } from "../maskot";
+import { sonucBasligi, tepki, type Tepki } from "../ovgu";
+import { konfeti } from "../konfeti";
+import { rutbe, seviyeHesapla, sinEki, yeniRozetler } from "../rutbe";
+import { bildir } from "../bildirim";
 import { guncelle, sonrakiTekrarGun, sureMetni } from "../srs";
 import { hataBildirLinki, meydanLinki, paylas } from "../araclar";
 import { SoruGovdesi, soruEtiketi, type Cevap } from "../sorular";
@@ -11,7 +16,7 @@ import { sesler } from "../ses";
 import { DERSLER } from "../subjects";
 import { git } from "../router";
 import { kursAdi } from "./Dersler";
-import { Ikon, IKON, yuzde } from "../ui";
+import { Ikon, IKON } from "../ui";
 
 interface Adim {
   ref: KartRef;
@@ -21,7 +26,16 @@ interface Adim {
 
 const ON_TEST_SORU = 5;
 
+interface Kutlama {
+  baslik: string;
+  alt: string;
+  duygu: Duygu;
+}
+
+const SERI_ESIKLERI = [3, 7, 14, 21, 30, 50, 75, 100, 150, 200, 365];
+
 interface Sonuc {
+  kutlamalar: Kutlama[];
   uids: string[];
   xp: number;
   dogru: number;
@@ -57,6 +71,13 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
   const [kombo, setKombo] = useState(0);
   const oncekiDurum = useRef<KartDurum | undefined>(undefined);
   const [tahmin, setTahmin] = useState(false);
+  const [tep, setTep] = useState<Tepki | null>(null);
+  const [ucus, setUcus] = useState<{ id: number; xp: number } | null>(null);
+  // Oturum başındaki durum: bitişte kutlanacak eşikler bununla karşılaştırılır
+  const [oncesi] = useState(() => {
+    const q = ilerleme();
+    return { gunXp: q.gunler[gunAnahtari()] ?? 0, seri: seri(q), seviye: seviyeHesapla(q.toplamXp).seviye };
+  });
   // Ön test: hiç başlanmamış konuda önce ne bildiğine bak (bilinenler ileri tarihe atılır)
   const yeniKonu = tip.tip === "konu" ? dizin.konular.get(tip.konuId) : undefined;
   const [asama, setAsama] = useState<"secim" | "onTest" | "araSonuc" | "ders">(() =>
@@ -89,22 +110,41 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
         if (c.dogru) {
           onTestBilinen.current++;
           xp.current += XP_DOGRU;
+          setUcus({ id: Date.now(), xp: XP_DOGRU });
           setSonDurumS(sonrakiTekrarGun(cevapKaydet(uid, "kolay")));
         } else setSonDurumS(null);
+        setTep(tepki({ dogru: c.dogru, bilmiyorum: c.secim === undefined, kombo: 0, tekrar: false, onTest: true, yakin: false }));
         if (ilerleme().ayarlar.ses) (c.dogru ? sesler.dogru : sesler.yanlis)();
         return;
       }
+      let gecenGun: number | undefined;
+      let kazanilan = 0;
       if (!ilkDeneme.current.has(uid)) {
         ilkDeneme.current.set(uid, c.dogru);
         oncekiDurum.current = ilerleme().kartlar[uid];
         if (!oncekiDurum.current) yeniKartlar.current.add(uid);
+        else gecenGun = (Date.now() - oncekiDurum.current.l) / 86_400_000;
         const yeni = cevapKaydet(uid, c.dogru);
         setSonDurumS(sonrakiTekrarGun(yeni));
-        if (c.dogru) xp.current += XP_DOGRU;
+        if (c.dogru) kazanilan = XP_DOGRU;
       } else {
         setSonDurumS(null);
-        if (c.dogru) xp.current += XP_TEKRAR_DOGRU;
+        if (c.dogru) kazanilan = XP_TEKRAR_DOGRU;
       }
+      xp.current += kazanilan;
+      if (kazanilan) setUcus({ id: Date.now(), xp: kazanilan });
+      setTep(
+        tepki({
+          dogru: c.dogru,
+          bilmiyorum: c.secim === undefined,
+          kombo: c.dogru ? kombo + 1 : 0,
+          tekrar: adim.tekrar,
+          onTest: false,
+          yakin: !!c.yakin,
+          yil: adim.ref.kart.yil,
+          gecenGun,
+        }),
+      );
       if (c.dogru) {
         setKombo((k) => k + 1);
       } else {
@@ -122,7 +162,7 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
       }
       if (ilerleme().ayarlar.ses) (c.dogru ? sesler.dogru : sesler.yanlis)();
     },
-    [adim, cevap, i, kuyruk],
+    [adim, cevap, i, kuyruk, kombo],
   );
 
   const bitir = useCallback(() => {
@@ -132,7 +172,32 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
     const konuId = tip.tip === "konu" ? tip.konuId : undefined;
     if (xp.current > 0 || konuId) xpEkle(xp.current, konuId);
     if (ilerleme().ayarlar.ses) sesler.bitis();
+
+    // Kutlamalar: günlük hedef, seri eşiği, seviye atlama
+    const q = ilerleme();
+    const kutlamalar: Kutlama[] = [];
+    const hedef = q.ayarlar.gunlukHedef;
+    const gunXp = q.gunler[gunAnahtari()] ?? 0;
+    if (oncesi.gunXp < hedef && gunXp >= hedef)
+      kutlamalar.push({ baslik: "Günlük hedef tamam!", alt: `Bugün ${gunXp} XP topladın. Yarın da bekliyorum.`, duygu: "coskulu" });
+    const yeniSeri = seri(q);
+    if (yeniSeri > oncesi.seri && SERI_ESIKLERI.includes(yeniSeri))
+      kutlamalar.push({ baslik: `${yeniSeri} günlük seri!`, alt: "Her gün biraz, sınavda çok. Helal olsun.", duygu: "coskulu" });
+    const sv = seviyeHesapla(q.toplamXp).seviye;
+    if (sv > oncesi.seviye)
+      kutlamalar.push({
+        baslik: `Seviye ${sv}!`,
+        alt: rutbe(sv) !== rutbe(oncesi.seviye) ? `Artık bir ${sinEki(rutbe(sv))}.` : `${rutbe(sv)} rütbesinde yükseliyorsun.`,
+        duygu: "coskulu",
+      });
+    // Rozetler
+    const kusursuz = toplam >= 5 && dogrular === toplam;
+    const rozetler = yeniRozetler(q, dizin, { saat: new Date().getHours(), kusursuz, karisanTam: tip.tip === "karisan" && kusursuz });
+    rozetleriKaydet(rozetler.map((r) => r.id));
+    rozetler.forEach((r, j) => setTimeout(() => bildir({ baslik: `Yeni rozet: ${r.ad}`, alt: r.aciklama, simge: r.simge }), 600 + j * 900));
+
     setSonuc({
+      kutlamalar,
       uids: [...ilkDeneme.current.keys()],
       xp: xp.current,
       dogru: dogrular,
@@ -141,13 +206,14 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
       sureSn: Math.round((Date.now() - baslangic.current) / 1000),
       kacanlar: [...ilkDeneme.current.entries()].filter(([, d]) => !d).map(([uid]) => dizin.kartlar.get(uid)!),
     });
-  }, [dizin, tip]);
+  }, [dizin, tip, oncesi]);
 
   const devam = useCallback(() => {
     if (!cevap) return;
     setCevap(null);
     setSonDurumS(null);
     setTahmin(false);
+    setTep(null);
     if (asama === "onTest" && i + 1 >= kuyruk.length) setAsama("araSonuc");
     else if (i + 1 >= kuyruk.length) bitir();
     else setI(i + 1);
@@ -240,7 +306,7 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
     return (
       <div className="oturum bos-oturum">
         <div className="bos-durum">
-          <Ikon d={IKON.tik} boyut={40} />
+          <Kivilcim duygu={tip.tip === "tekrar" ? "uykulu" : "dusunceli"} boyut={96} />
           <h2>{tip.tip === "tekrar" ? "Tekrar edilecek kart yok" : "Burada soru yok"}</h2>
           <p>
             {tip.tip === "tekrar"
@@ -272,6 +338,11 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
         <span className={`kombo ${kombo >= 3 ? "gorunur" : ""}`} aria-live="polite">
           <Ikon d={IKON.alev} boyut={16} /> {kombo}
         </span>
+        {ucus && (
+          <span className="xp-ucus" key={ucus.id} aria-hidden="true">
+            +{ucus.xp} XP
+          </span>
+        )}
         <button
           className={`yaz-dugme ${p.ayarlar.yazarak ? "acik" : ""}`}
           onClick={() => ayarlariGuncelle({ yazarak: !p.ayarlar.yazarak })}
@@ -315,12 +386,12 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
       ) : (
         <footer className={`geri-bildirim ${cevap.dogru ? "iyi" : "kotu"}`} role="status">
           <div className="gb-ust">
-            <strong>
-              {cevap.dogru ? ovgu() : adim.onTest ? "Birazdan öğreneceksin" : cevap.secim === undefined ? "Şimdi öğren" : "Bir dahakine!"}
-            </strong>
-            {sonDurumS !== null && (
-              <span className="gb-sonraki">Sonraki tekrar: {sureMetni(sonDurumS)}</span>
-            )}
+            <Kivilcim duygu={tep?.duygu ?? (cevap.dogru ? "mutlu" : "uzgun")} boyut={46} className={cevap.dogru ? "zipla" : "salla"} />
+            <div className="gb-baslik">
+              <strong>{tep?.baslik ?? (cevap.dogru ? "Doğru!" : "Bir dahakine!")}</strong>
+              {tep?.alt && <span className="gb-alt">{tep.alt}</span>}
+            </div>
+            {sonDurumS !== null && <span className="gb-sonraki">Sonraki tekrar: {sureMetni(sonDurumS)}</span>}
           </div>
           {cevap.dogru && sonDurumS !== null && !adim.onTest && (
             <button className={`tahmin-dugme ${tahmin ? "secili" : ""}`} onClick={tahminEttim} disabled={tahmin}>
@@ -349,9 +420,40 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
   );
 }
 
-const OVGULER = ["Doğru!", "Harika!", "Aynen öyle!", "Akılda!", "Tam isabet!", "Süper!"];
-function ovgu() {
-  return OVGULER[Math.floor(Math.random() * OVGULER.length)];
+/** 0'dan hedefe sayarak artan sayı */
+function useSayac(hedef: number, sure = 900): number {
+  const [n, setN] = useState(0);
+  useEffect(() => {
+    if (window.matchMedia?.("(prefers-reduced-motion: reduce)").matches) return setN(hedef);
+    const bas = performance.now();
+    let r = 0;
+    const kare = (t: number) => {
+      const o = Math.min(1, (t - bas) / sure);
+      setN(Math.round(hedef * (1 - Math.pow(1 - o, 3))));
+      if (o < 1) r = requestAnimationFrame(kare);
+    };
+    r = requestAnimationFrame(kare);
+    return () => cancelAnimationFrame(r);
+  }, [hedef, sure]);
+  return n;
+}
+
+function KutlamaPerdesi({ k, onKapat }: { k: Kutlama; onKapat: () => void }) {
+  useEffect(() => {
+    konfeti();
+  }, [k]);
+  return (
+    <div className="kutlama-perde" role="dialog" aria-modal="true" onClick={onKapat}>
+      <div className="kutlama-kutu">
+        <Kivilcim duygu={k.duygu} boyut={120} className="zipla" />
+        <h2>{k.baslik}</h2>
+        <p>{k.alt}</p>
+        <button className="dugme birincil genis" onClick={onKapat} autoFocus>
+          Devam
+        </button>
+      </div>
+    </div>
+  );
 }
 
 function SonucEkrani({ sonuc, dizin, tip, meydan }: { sonuc: Sonuc; dizin: Dizin; tip: OturumTipi; meydan?: Meydan }) {
@@ -366,13 +468,22 @@ function SonucEkrani({ sonuc, dizin, tip, meydan }: { sonuc: Sonuc; dizin: Dizin
   const sonraki = tip.tip === "konu" ? siradakiKonu(dizin, p, dizin.konular.get(tip.konuId)?.kursId) : undefined;
   const dk = Math.floor(sonuc.sureSn / 60);
   const sn = sonuc.sureSn % 60;
+  const baslik = sonucBasligi(isabet, sonuc.toplam);
+  const xpSayac = useSayac(sonuc.xp);
+  const isabetSayac = useSayac(Math.round(isabet * 100));
+  const [kutlamaSira, setKutlamaSira] = useState(0);
+  const sv = seviyeHesapla(p.toplamXp);
+  useEffect(() => {
+    if (!sonuc.kutlamalar.length && isabet >= 0.8 && sonuc.toplam >= 3) konfeti(90, 1800);
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   return (
     <div className="oturum sonuc">
+      {kutlamaSira < sonuc.kutlamalar.length && (
+        <KutlamaPerdesi k={sonuc.kutlamalar[kutlamaSira]} onKapat={() => setKutlamaSira((x) => x + 1)} />
+      )}
       <div className="sonuc-ust">
-        <div className="sonuc-madalya">
-          <Ikon d={IKON.yildiz} boyut={44} kalin={1.6} />
-        </div>
+        <Kivilcim duygu={meydan ? (rakip !== undefined && sonuc.dogru >= rakip ? "coskulu" : "dusunceli") : baslik.duygu} boyut={104} className="zipla" />
         <h1>
           {meydan && rakip !== undefined
             ? sonuc.dogru > rakip
@@ -380,12 +491,9 @@ function SonucEkrani({ sonuc, dizin, tip, meydan }: { sonuc: Sonuc; dizin: Dizin
               : sonuc.dogru === rakip
                 ? "Berabere!"
                 : `${meydan.ad} bu sefer önde`
-            : isabet === 1
-              ? "Kusursuz!"
-              : isabet >= 0.7
-                ? "Güzel iş!"
-                : "Tekrar güçlendirir"}
+            : baslik.baslik}
         </h1>
+        {!meydan && baslik.alt && <p className="sonuc-alt">{baslik.alt}</p>}
         {meydan && (
           <p>
             Sen {sonuc.dogru}/{sonuc.toplam} · {meydan.ad} {meydan.skor}
@@ -396,11 +504,11 @@ function SonucEkrani({ sonuc, dizin, tip, meydan }: { sonuc: Sonuc; dizin: Dizin
       <div className="sonuc-kutular">
         <div className="sonuc-kutu xp">
           <span>XP</span>
-          <strong>+{sonuc.xp}</strong>
+          <strong>+{xpSayac}</strong>
         </div>
         <div className="sonuc-kutu isabet">
           <span>İsabet</span>
-          <strong>{yuzde(isabet)}</strong>
+          <strong>%{isabetSayac}</strong>
         </div>
         <div className="sonuc-kutu sure">
           <span>Süre</span>
@@ -408,6 +516,16 @@ function SonucEkrani({ sonuc, dizin, tip, meydan }: { sonuc: Sonuc; dizin: Dizin
             {dk}:{String(sn).padStart(2, "0")}
           </strong>
         </div>
+      </div>
+
+      <div className="seviye-serit">
+        <span className="rutbe-rozet">{rutbe(sv.seviye)}</span>
+        <span className="seviye-cubugu" aria-label={`Seviye ${sv.seviye}`}>
+          <span style={{ width: `${Math.round(sv.oran * 100)}%` }} />
+        </span>
+        <span className="soluk-metin">
+          Sv {sv.seviye} · {sv.sonraki - p.toplamXp} XP kaldı
+        </span>
       </div>
 
       {sonuc.kacanlar.length > 0 && (

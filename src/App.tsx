@@ -4,6 +4,8 @@ import { useIlerleme } from "./store";
 import { vadeliKartlar, type OturumTipi } from "./oturum";
 import { useRota, git } from "./router";
 import { kaliciDepolamaIste } from "./araclar";
+import { Kivilcim } from "./maskot";
+import { useBildirimler } from "./bildirim";
 import { Ikon, IKON } from "./ui";
 import { Bugun } from "./screens/Bugun";
 import { DersListesi, KonuOzeti, KursDetay } from "./screens/Dersler";
@@ -19,7 +21,6 @@ export function App() {
   const [dizin, setDizin] = useState<Dizin | null>(null);
   const [hata, setHata] = useState<string | null>(null);
   const p = useIlerleme();
-  const rota = useRota();
 
   useEffect(() => {
     icerikYukle().then(setDizin, (e) => setHata(String(e)));
@@ -34,12 +35,40 @@ export function App() {
   if (!dizin)
     return (
       <div className="yukleniyor" aria-busy="true">
-        <Ikon d={IKON.beyin} boyut={40} kalin={1.5} />
+        <Kivilcim duygu="selam" boyut={84} className="zipla" />
         <span>Akılda</span>
       </div>
     );
 
   if (!p.kurulum) return <Kurulum dizin={dizin} />;
+  return (
+    <>
+      <Sayfa dizin={dizin} />
+      <BildirimAlani />
+    </>
+  );
+}
+
+function BildirimAlani() {
+  const liste = useBildirimler();
+  return (
+    <div className="bildirim-alani" aria-live="polite">
+      {liste.map((b) => (
+        <div key={b.id} className="bildirim">
+          {b.simge && <span className="bildirim-simge">{b.simge}</span>}
+          <span>
+            <strong>{b.baslik}</strong>
+            {b.alt && <span>{b.alt}</span>}
+          </span>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+function Sayfa({ dizin }: { dizin: Dizin }) {
+  const p = useIlerleme();
+  const rota = useRota();
 
   const [bolum, arg] = rota.yol;
 

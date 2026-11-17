@@ -5,7 +5,11 @@ import type { Dizin } from "../content";
 import { kaynakLinki } from "../content";
 import type { DersKey, KartRef, SecmeliKart } from "../types";
 import { aktifKurslar, karistir } from "../oturum";
-import { cevapKaydet, denemeKaydet, ilerleme, useIlerleme, xpEkle } from "../store";
+import { cevapKaydet, denemeKaydet, ilerleme, rozetleriKaydet, useIlerleme, xpEkle } from "../store";
+import { yeniRozetler } from "../rutbe";
+import { bildir } from "../bildirim";
+import { Kivilcim } from "../maskot";
+import { konfeti } from "../konfeti";
 import { DERSLER } from "../subjects";
 import { SORU_SAYISI, net } from "../yks";
 import type { Sinav } from "../kurslar";
@@ -130,6 +134,9 @@ export function Deneme({ dizin, sinav, olcek }: { dizin: Dizin; sinav: Sinav; ol
     });
     denemeKaydet({ tarih: Date.now(), sinav, sureSn: Math.round((Date.now() - baslangic.current) / 1000), dersler });
     xpEkle(xp);
+    const rozetler = yeniRozetler(ilerleme(), dizin, { saat: new Date().getHours() });
+    rozetleriKaydet(rozetler.map((r) => r.id));
+    rozetler.forEach((r, j) => setTimeout(() => bildir({ baslik: `Yeni rozet: ${r.ad}`, alt: r.aciklama, simge: r.simge }), 800 + j * 900));
   }
 
   if (!sorular.length)
@@ -246,14 +253,22 @@ function DenemeSonuc({ sorular, cevaplar, sinav, dizin }: { sorular: DenemeSoru[
   };
   const toplam = satir();
   const yanlislar = sorular.map((s, j) => ({ s, c: cevaplar[j] })).filter((x) => x.c !== x.s.dogruMetin);
+  const oran = toplam.n / Math.max(1, sorular.length);
+  useEffect(() => {
+    if (oran >= 0.6) konfeti();
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   return (
     <div className="oturum sonuc">
       <div className="sonuc-ust">
+        <Kivilcim duygu={oran >= 0.6 ? "coskulu" : oran >= 0.3 ? "mutlu" : "dusunceli"} boyut={96} className="zipla" />
         <span className={`sinav-rozet ${sinav.toLowerCase()}`}>{sinav} bilgi denemesi</span>
         <h1>{toplam.n} net</h1>
         <p>
           {toplam.d} doğru · {toplam.y} yanlış · {toplam.b} boş
+        </p>
+        <p className="sonuc-alt">
+          {oran >= 0.8 ? "Helal olsun, bu netle rahat edersin!" : oran >= 0.6 ? "Güzel iş, eksikleri yanlış defterine attım." : oran >= 0.3 ? "Fena değil. Yanlışları tekrar edelim." : "Moral bozmak yok, bu bilgiler tekrarla oturacak."}
         </p>
       </div>
       <table className="net-tablo">

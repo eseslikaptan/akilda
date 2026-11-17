@@ -6,6 +6,8 @@ import { kursAdi } from "./Dersler";
 import { ayarlariGuncelle, disaAktar, gunAnahtari, iceAktar, seri, sifirla, sonTurBaslat, useIlerleme, yedekAlindi } from "../store";
 import { dosyaIndir, kaliciDepolamaIste, kaliciMi, takvimDosyasi, uygulamaAdresi } from "../araclar";
 import { net } from "../yks";
+import { ROZETLER, rutbe, seviyeHesapla } from "../rutbe";
+import { Kivilcim } from "../maskot";
 import { seviye } from "../srs";
 import { DERSLER } from "../subjects";
 import { geri, git } from "../router";
@@ -75,6 +77,25 @@ export function Profil({ dizin }: { dizin: Dizin }) {
     <div className="sayfa">
       <h1 className="baslik-buyuk">{p.ayarlar.ad || "Profil"}</h1>
 
+      {(() => {
+        const sv = seviyeHesapla(p.toplamXp);
+        return (
+          <section className="rutbe-kart">
+            <Kivilcim duygu="mutlu" boyut={70} />
+            <div>
+              <span className="ust-etiket">Seviye {sv.seviye}</span>
+              <h2>{rutbe(sv.seviye)}</h2>
+              <span className="seviye-cubugu">
+                <span style={{ width: `${Math.round(sv.oran * 100)}%` }} />
+              </span>
+              <span className="soluk-metin">
+                {p.toplamXp - sv.buSeviye}/{sv.sonraki - sv.buSeviye} XP · Rütbeler: Çırak, Kalfa, Usta, Üstat, Bilge, Allâme
+              </span>
+            </div>
+          </section>
+        );
+      })()}
+
       <section className="istatistikler">
         <div className="istat">
           <Ikon d={IKON.alev} />
@@ -96,6 +117,27 @@ export function Profil({ dizin }: { dizin: Dizin }) {
         ❄ {p.dondurma.hak} seri dondurma hakkın var. Her 7 günlük seride 1 hak kazanırsın (en fazla 2); çalışamadığın gün
         otomatik kullanılır{p.dondurma.gunler.length ? `, şimdiye kadar ${p.dondurma.gunler.length} gün kurtardı` : ""}.
       </p>
+
+      <section className="kutu">
+        <div className="bolum-ust">
+          <h2 className="bolum-baslik">Rozetler</h2>
+          <span className="soluk-metin">
+            {Object.keys(p.rozetler).length}/{ROZETLER.length}
+          </span>
+        </div>
+        <ul className="rozet-izgara">
+          {ROZETLER.map((r) => {
+            const t = p.rozetler[r.id];
+            return (
+              <li key={r.id} className={t ? "kazanildi" : "kilitli"} title={r.aciklama}>
+                <span className="rozet-simge">{r.simge}</span>
+                <strong>{r.ad}</strong>
+                <span>{t ? new Date(t).toLocaleDateString("tr-TR", { day: "numeric", month: "short" }) : r.aciklama}</span>
+              </li>
+            );
+          })}
+        </ul>
+      </section>
 
       <section className="kutu">
         <h2 className="bolum-baslik">Çalışma takvimi</h2>
