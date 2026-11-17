@@ -1,0 +1,3107 @@
+{
+ "kitap": "kimya-11",
+ "ders": "kimya",
+ "sinif": 11,
+ "baslik": "Kimya 11. Sınıf Ders Kitabı",
+ "sayfaUrl": "https://tymm.meb.gov.tr/kitap/416/kimya-11sinif-ders-kitabi",
+ "pdfUrl": "https://tymm.meb.gov.tr/assets/pdf/kimya-11sinif-ders-kitabi_20260930_195607_842.pdf",
+ "uniteler": [
+  {
+   "no": 1,
+   "ad": "Etkileşim",
+   "konular": [
+    {
+     "no": "1.1.1",
+     "ad": "Tepkimelerde Meydana Gelen Enerji Değişimi",
+     "kartlar": [
+      {
+       "id": "1.1.1-01",
+       "tur": "bosluk",
+       "cumle": "Evrenin incelenmek üzere seçilen bölümüne ___ adı verilir.",
+       "cevap": "sistem",
+       "celdiriciler": [
+        "çevre",
+        "faz",
+        "madde"
+       ],
+       "bilgi": "Sistem dışında kalan ve sistemle etkileşen evren parçası çevre (ortam) olarak adlandırılır; ısı alışverişi sistem ile çevre arasında olur.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1.1-02",
+       "tur": "secmeli",
+       "soru": "Enerjinin yok olmayıp yalnızca bir formdan başka bir forma dönüştüğünü ifade eden yasa hangisidir?",
+       "secenekler": [
+        "Kütlenin korunumu yasası",
+        "Termodinamiğin birinci yasası",
+        "Sabit oranlar yasası",
+        "Katlı oranlar yasası"
+       ],
+       "dogru": 1,
+       "bilgi": "Termodinamiğin birinci yasası enerjinin korunumu yasasıdır; buna göre evrenin toplam enerji miktarı sabittir.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1.1-03",
+       "tur": "dy",
+       "ifade": "Ekzotermik bir olayda sistemin enerjisi azalırken çevrenin enerjisi artar.",
+       "dogru": true,
+       "bilgi": "Ekzotermik olayda sistem çevreye ısı verir ve çevre ısınır; endotermik olayda ise sistemin enerjisi artar, çevrede soğuma olur.",
+       "sayfa": 20
+      },
+      {
+       "id": "1.1.1-04",
+       "tur": "secmeli",
+       "soru": "Endotermik tepkimelerde tepken ve ürünlerin enerjileri için hangisi doğrudur?",
+       "secenekler": [
+        "Tepkenlerin enerjisi ürünlerinkinden yüksektir",
+        "Tepken ve ürün enerjileri eşittir",
+        "Ürünlerin enerjisi tepkenlerinkinden yüksektir",
+        "Ürünlerin enerjisi her zaman sıfırdır"
+       ],
+       "dogru": 2,
+       "bilgi": "Endotermik tepkimelerde ürünlerin enerjisi daha yüksektir; bu yüzden ısı, denklemde tepkenler tarafına ya da ok üzerine yazılır.",
+       "sayfa": 19
+      },
+      {
+       "id": "1.1.1-05",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki olaylardan hangisi ekzotermik gerçekleşir?",
+       "secenekler": [
+        "Nötralleşme",
+        "Elektroliz",
+        "Fotosentez",
+        "Süblimleşme"
+       ],
+       "dogru": 0,
+       "bilgi": "Nötralleşme, bağ oluşumu, pil tepkimeleri, solunum, gazların suda çözünmesi, yoğunlaşma, donma ve kırağılaşma ekzotermiktir.",
+       "sayfa": 20
+      },
+      {
+       "id": "1.1.1-06",
+       "tur": "dy",
+       "ifade": "Yanma tepkimelerinin tamamı ekzotermik gerçekleşir.",
+       "dogru": false,
+       "bilgi": "Yanma tepkimeleri genellikle ekzotermiktir; ancak azot (N₂) gazının yanması bu genellemenin dışındadır.",
+       "sayfa": 20
+      },
+      {
+       "id": "1.1.1-07",
+       "tur": "bosluk",
+       "cumle": "Ateş böceklerinin karın bölgesinde enzim yardımıyla gerçekleşen tepkimeyle ışık yaymasına ___ denir.",
+       "cevap": "biyolüminesans",
+       "celdiriciler": [
+        "fotosentez",
+        "fotoelektrik etki",
+        "elektroliz"
+       ],
+       "bilgi": "Ateş böceğinin yaydığı ışık soğuk bir ışıktır; bu olay sırasında çok az ısı açığa çıkar.",
+       "sayfa": 22
+      },
+      {
+       "id": "1.1.1-08",
+       "tur": "eslestir",
+       "yonerge": "Günlük hayattaki uygulamaları dayandıkları olaylarla eşleştir.",
+       "ciftler": [
+        [
+         "Tıbbi soğutma paketi",
+         "Amonyum klorürün suda çözünmesi"
+        ],
+        [
+         "Jel bazlı cep sobası",
+         "Sodyum asetatın kristalleşmesi"
+        ],
+        [
+         "Buzlanma ile mücadele",
+         "Kalsiyum klorürün suda çözünmesi"
+        ],
+        [
+         "Tren raylarının kaynağı",
+         "Termit tepkimesi"
+        ]
+       ],
+       "bilgi": "NH₄Cl suda çözünürken ortam soğur; sodyum asetatın kristalleşmesi, CaCl₂'nin çözünmesi ve termit tepkimesi ise ısı açığa çıkarır.",
+       "sayfa": 21
+      },
+      {
+       "id": "1.1.1-09",
+       "tur": "secmeli",
+       "soru": "Tren raylarının kaynağında kullanılan termit tepkimesi hangi maddeler arasında gerçekleşir?",
+       "secenekler": [
+        "Magnezyum ile su",
+        "Kalsiyum oksit ile fosfor pentaoksit",
+        "Karbon ile oksijen",
+        "Alüminyum ile demir(III) oksit"
+       ],
+       "dogru": 3,
+       "bilgi": "Termit tepkimesinde (2Al + Fe₂O₃ → Al₂O₃ + 2Fe) açığa çıkan ısı ray kaynağında kullanılır.",
+       "sayfa": 22
+      }
+     ]
+    },
+    {
+     "no": "1.1.2",
+     "ad": "Maddelerin Enerji Kaynağı Olma Potansiyeli",
+     "kartlar": [
+      {
+       "id": "1.1.2-01",
+       "tur": "bosluk",
+       "cumle": "Belirli bir miktar maddenin yanması sırasındaki enerji değişimine ___ denir.",
+       "cevap": "yanma ısısı",
+       "celdiriciler": [
+        "bağ enerjisi",
+        "aktivasyon enerjisi",
+        "iyonlaşma enerjisi"
+       ],
+       "bilgi": "Yakıtları kıyaslamanın bir yolu yanma ısılarını karşılaştırmaktır; genel olarak yanma ısısı yüksek olan yakıt daha iyi yakıttır.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.1.2-02",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki yakıtlardan hangisinin 1 gramının yanmasıyla açığa çıkan ısı en fazladır?",
+       "secenekler": [
+        "Doğal gaz",
+        "Taş kömürü",
+        "Hidrojen gazı",
+        "Çam odunu"
+       ],
+       "dogru": 2,
+       "bilgi": "Hidrojen gazının gram başına yanma ısısı (yaklaşık 142,9 kJ/g) doğal gazınkinin yaklaşık üç katıdır.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.1.2-03",
+       "tur": "dy",
+       "ifade": "Petrol, doğal gaz ve kömür gibi fosil yakıtlar yenilenebilir enerji kaynaklarıdır.",
+       "dogru": false,
+       "bilgi": "Fosil yakıtlar yenilenemeyen enerji kaynaklarıdır ve yanmalarıyla açığa çıkan CO₂ sera etkisiyle küresel ısınmaya yol açar.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.1.2-04",
+       "tur": "dy",
+       "ifade": "Hidrojen gazı yandığında yalnızca su oluşur; sera gazı olan karbon dioksit oluşmaz.",
+       "dogru": true,
+       "bilgi": "Doğru yöntemlerle üretilen hidrojen gazı, iklim değişikliğiyle mücadeleye katkı sağlayan temiz bir enerji kaynağıdır.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.1.2-05",
+       "tur": "secmeli",
+       "soru": "Besin ögelerinden hangisinin gram başına fizyolojik enerji değeri en yüksektir?",
+       "secenekler": [
+        "Karbonhidrat",
+        "Yağ",
+        "Protein",
+        "Su"
+       ],
+       "dogru": 1,
+       "bilgi": "Fizyolojik enerji değerleri yaklaşık olarak karbonhidrat 17 kJ/g, protein 17 kJ/g ve yağ 38 kJ/g'dır.",
+       "sayfa": 26
+      },
+      {
+       "id": "1.1.2-06",
+       "tur": "secmeli",
+       "soru": "Fosil yakıtların yanmasıyla açığa çıkan ve atmosferde fazla bulunduğunda sera etkisi oluşturan gaz hangisidir?",
+       "secenekler": [
+        "Azot",
+        "Oksijen",
+        "Hidrojen",
+        "Karbon dioksit"
+       ],
+       "dogru": 3,
+       "bilgi": "Fosil yakıtların yanmasıyla oluşan CO₂'nin atmosferde birikmesi küresel ısınmaya neden olduğundan alternatif temiz enerji kaynakları aranmaktadır.",
+       "sayfa": 25
+      },
+      {
+       "id": "1.1.2-07",
+       "tur": "eslestir",
+       "yonerge": "Yakıt olarak kullanılan maddeleri özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Propan",
+         "LPG'nin bileşenidir"
+        ],
+        [
+         "Metan",
+         "Doğal gazın yaklaşık %90'ını oluşturur"
+        ],
+        [
+         "İzooktan",
+         "Benzinin bir bileşenidir"
+        ],
+        [
+         "Hidrojen",
+         "Yandığında yalnızca su oluşturur"
+        ]
+       ],
+       "bilgi": "LPG'deki propanın yanmasıyla açığa çıkan enerji taşıtlarda hareket enerjisine çevrilerek kullanılır.",
+       "sayfa": 23
+      },
+      {
+       "id": "1.1.2-08",
+       "tur": "secmeli",
+       "soru": "Bir maddenin yakıt olma potansiyeli değerlendirilirken aşağıdakilerden hangisi ölçütlerden biridir?",
+       "secenekler": [
+        "Çevreye etkisi ve oluşturduğu atık",
+        "Rengi ve kokusunun belirgin olması",
+        "Molekülündeki proton sayısı",
+        "Erime noktasının oldukça yüksek olması"
+       ],
+       "dogru": 0,
+       "bilgi": "Yakıt olma potansiyelinde birim miktarın açığa çıkardığı ısı, atık miktarı, çevreye etkileri, depolanması ve temini birlikte değerlendirilir.",
+       "sayfa": 27
+      }
+     ]
+    },
+    {
+     "no": "1.1.3",
+     "ad": "Bağ Enerjileriyle Tepkime Entalpisinin Hesaplanması",
+     "kartlar": [
+      {
+       "id": "1.1.3-01",
+       "tur": "bosluk",
+       "cumle": "Standart koşullarda gaz hâlindeki taneciklerde 1 mol kimyasal bağı kırmak için gereken enerjiye ___ denir.",
+       "cevap": "bağ enerjisi",
+       "celdiriciler": [
+        "aktivasyon enerjisi",
+        "iyonlaşma enerjisi",
+        "yanma ısısı"
+       ],
+       "bilgi": "Bağ enerjisi kJ/mol veya kkal/mol birimleriyle ifade edilir ve molekülün kararlılığının önemli bir göstergesidir.",
+       "sayfa": 28
+      },
+      {
+       "id": "1.1.3-02",
+       "tur": "dy",
+       "ifade": "Kimyasal bağların kırılması, çevreye enerji veren bir olaydır.",
+       "dogru": false,
+       "bilgi": "Bağ kırılması enerji isteyen bir olaydır; bağ oluşumunda ise enerji açığa çıkar ve bu iki enerji aynı bağ için eşittir.",
+       "sayfa": 28
+      },
+      {
+       "id": "1.1.3-03",
+       "tur": "secmeli",
+       "soru": "Bağ enerjilerinin maddenin gaz fazında ölçülmesinin nedeni nedir?",
+       "secenekler": [
+        "Gazların özkütlesinin sıvılardan daha büyük olması",
+        "Tanecikler arası etkileşimin çok zayıf olması",
+        "Gaz fazında bağların hiçbir zaman kırılmaması",
+        "Gazların sıkıştırılamaması"
+       ],
+       "dogru": 1,
+       "bilgi": "Gaz fazında tanecikler arası etkileşimler çok düşük olduğundan ölçülen enerji değişimi yalnızca bağ enerjisini gösterir.",
+       "sayfa": 28
+      },
+      {
+       "id": "1.1.3-04",
+       "tur": "bosluk",
+       "cumle": "Bir sistemin toplam enerjisini ifade eden ve H ile gösterilen kavrama ___ denir.",
+       "cevap": "entalpi",
+       "celdiriciler": [
+        "entropi",
+        "aktivasyon enerjisi",
+        "bağ enerjisi"
+       ],
+       "bilgi": "Maddenin kinetik ve potansiyel enerjilerinin toplamı entalpisini oluşturur; sabit basınçtaki ısı değişimi entalpi değişimiyle ifade edilir.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.1.3-05",
+       "tur": "secmeli",
+       "soru": "Gaz fazındaki bir tepkimenin entalpi değişimi (ΔH) bağ enerjilerinden nasıl bulunur?",
+       "secenekler": [
+        "Σ oluşan bağ enerjisi − Σ kırılan bağ enerjisi",
+        "Σ kırılan bağ enerjisi + Σ oluşan bağ enerjisi",
+        "Σ kırılan bağ enerjisi − Σ oluşan bağ enerjisi",
+        "Σ kırılan bağ enerjisi × Σ oluşan bağ enerjisi"
+       ],
+       "dogru": 2,
+       "bilgi": "ΔH, bağların kırılması sırasında alınan toplam enerji ile bağların oluşumu sırasında verilen toplam enerji arasındaki farka eşittir.",
+       "sayfa": 35
+      },
+      {
+       "id": "1.1.3-06",
+       "tur": "dy",
+       "ifade": "Endotermik tepkimelerde kırılan bağların toplam enerjisi, oluşan bağların toplam enerjisinden büyüktür.",
+       "dogru": true,
+       "bilgi": "Endotermik tepkimelerde tepkenler ürünlerden daha kararlıdır ve potansiyel enerjileri daha düşüktür; ΔH'nin işareti (+) olur.",
+       "sayfa": 36
+      },
+      {
+       "id": "1.1.3-07",
+       "tur": "secmeli",
+       "soru": "Ekzotermik bir tepkime için aşağıdakilerden hangisi doğrudur?",
+       "secenekler": [
+        "ΔH'nin işareti pozitiftir",
+        "Tepkenlerin potansiyel enerjisi ürünlerinkinden düşüktür",
+        "Kırılan bağların enerjisi oluşanlarınkinden büyüktür",
+        "Ürünler tepkenlerden daha kararlıdır"
+       ],
+       "dogru": 3,
+       "bilgi": "Ekzotermik tepkimelerde oluşan bağların enerjisi kırılanlardan büyüktür; düşük potansiyel enerjili kararlı ürünler oluşur ve ΔH < 0 olur.",
+       "sayfa": 36
+      },
+      {
+       "id": "1.1.3-08",
+       "tur": "eslestir",
+       "yonerge": "Enerji kavramlarını açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Bağ enerjisi",
+         "1 mol bağı kırmak için gereken enerji"
+        ],
+        [
+         "Entalpi",
+         "Bir sistemin toplam enerjisi"
+        ],
+        [
+         "Kinetik enerji",
+         "Öteleme, dönme ve titreşim hareketine bağlı enerji"
+        ],
+        [
+         "Potansiyel enerji",
+         "Atom ve moleküller arası elektriksel kuvvetlere bağlı enerji"
+        ]
+       ],
+       "bilgi": "Kinetik ve potansiyel enerjilerin toplamı maddenin entalpisini oluşturur.",
+       "sayfa": 30
+      },
+      {
+       "id": "1.1.3-09",
+       "tur": "secmeli",
+       "soru": "İki karbon atomu arasındaki tekli, ikili ve üçlü bağlar karşılaştırıldığında bağ enerjisi en büyük olan hangisidir?",
+       "secenekler": [
+        "Üçlü bağ",
+        "İkili bağ",
+        "Tekli bağ",
+        "Üçü de eşittir"
+       ],
+       "dogru": 0,
+       "bilgi": "Ortalama bağ enerjileri C−C için 347, C=C için 611, C≡C için 837 kJ/mol'dür; atomlar arasındaki bağ sayısı arttıkça bağ enerjisi artar.",
+       "sayfa": 29
+      }
+     ]
+    },
+    {
+     "no": "1.1.4",
+     "ad": "Standart Oluşum Entalpisi",
+     "kartlar": [
+      {
+       "id": "1.1.4-01",
+       "tur": "bosluk",
+       "cumle": "1 atm ve 25 °C'ta bir maddenin, elementlerinin en kararlı hâllerinden oluşumu sırasındaki entalpi değişimine standart ___ entalpisi denir.",
+       "cevap": "oluşum",
+       "celdiriciler": [
+        "yanma",
+        "bağ",
+        "çözünme"
+       ],
+       "bilgi": "Standart oluşum entalpisi ΔH°f ya da ΔH°ol ile gösterilir; oluşan bileşik 1 mol ise standart molar oluşum entalpisi adını alır.",
+       "sayfa": 42
+      },
+      {
+       "id": "1.1.4-02",
+       "tur": "dy",
+       "ifade": "Bileşiklerin standart oluşum entalpileri her zaman negatif değer alır.",
+       "dogru": false,
+       "bilgi": "Bileşiklerin oluşumu endotermik veya ekzotermik olabilir; örneğin NO₂(g) için ΔH°f = +33,2 kJ/mol, CO₂(g) için −393,5 kJ/mol'dür.",
+       "sayfa": 42
+      },
+      {
+       "id": "1.1.4-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisinin standart oluşum entalpisi sıfır kabul edilir?",
+       "secenekler": [
+        "O₃(g)",
+        "C(elmas)",
+        "O₂(g)",
+        "Br₂(g)"
+       ],
+       "dogru": 2,
+       "bilgi": "25 °C ve 1 atm'de elementlerin en kararlı hâlinin standart oluşum entalpisi sıfır kabul edilir; diğer hâllerininki sıfır değildir.",
+       "sayfa": 42
+      },
+      {
+       "id": "1.1.4-04",
+       "tur": "dy",
+       "ifade": "Standart şartlarda karbonun grafit hâli, elmas hâlinden daha kararlıdır.",
+       "dogru": true,
+       "bilgi": "Standart şartlarda grafit elmastan daha kararlıdır; ΔH°f(grafit) = 0 iken ΔH°f(elmas) = 1,9 kJ/mol'dür.",
+       "sayfa": 42
+      },
+      {
+       "id": "1.1.4-05",
+       "tur": "secmeli",
+       "soru": "Standart koşullarda H₂ ve O₂'den 1 mol sıvı su ve 1 mol su buharı oluşumu karşılaştırılırsa hangisi doğrudur?",
+       "secenekler": [
+        "Su buharı oluşurken daha fazla ısı açığa çıkar",
+        "Açığa çıkan ısılar eşittir",
+        "Sıvı su oluşumu endotermiktir",
+        "Sıvı su oluşurken daha fazla ısı açığa çıkar"
+       ],
+       "dogru": 3,
+       "bilgi": "ΔH°f değerleri H₂O(s) için −285,8, H₂O(g) için −241,8 kJ/mol'dür; ürünün fiziksel hâli tepkime entalpisini etkiler.",
+       "sayfa": 38
+      },
+      {
+       "id": "1.1.4-06",
+       "tur": "secmeli",
+       "soru": "Bir tepkimenin denklemindeki tüm katsayılar iki katına çıkarılırsa tepkime entalpisi (ΔH) nasıl değişir?",
+       "secenekler": [
+        "Değişmez",
+        "İki katına çıkar",
+        "Yarıya iner",
+        "Yalnızca işareti değişir"
+       ],
+       "dogru": 1,
+       "bilgi": "Tepkime entalpisi madde miktarına bağlıdır; örneğin 2H₂ + O₂ → 2H₂O(g) için ΔH, 1 mol su oluşumundakinin iki katıdır.",
+       "sayfa": 45
+      },
+      {
+       "id": "1.1.4-07",
+       "tur": "secmeli",
+       "soru": "Standart oluşum entalpileri kullanılarak bir tepkimenin standart entalpi değişimi nasıl hesaplanır?",
+       "secenekler": [
+        "ΣnΔH°f(ürünler) − ΣnΔH°f(tepkenler)",
+        "ΣnΔH°f(tepkenler) − ΣnΔH°f(ürünler)",
+        "ΣnΔH°f(ürünler) + ΣnΔH°f(tepkenler)",
+        "Yalnızca ürünlerin ΔH°f değerleri toplanarak"
+       ],
+       "dogru": 0,
+       "bilgi": "Matematiksel modelde n, tepkimedeki her bir maddenin katsayısıdır; elementlerin en kararlı hâllerinin ΔH°f değeri sıfır alınır.",
+       "sayfa": 43
+      },
+      {
+       "id": "1.1.4-08",
+       "tur": "eslestir",
+       "yonerge": "Termokimyada kullanılan gösterimleri anlamlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "ΔH°f",
+         "Standart oluşum entalpisi"
+        ],
+        [
+         "ΔH°tepkime",
+         "Standart tepkime entalpisi"
+        ],
+        [
+         "° işareti",
+         "Değerin standart koşullara ait olduğu"
+        ],
+        [
+         "Σ (sigma)",
+         "Toplama işlemi"
+        ]
+       ],
+       "bilgi": "Standart tepkime entalpisi 25 °C ve 1 atm'de tepkime sırasında meydana gelen enerji değişimidir.",
+       "sayfa": 43
+      },
+      {
+       "id": "1.1.4-09",
+       "tur": "bosluk",
+       "cumle": "Oluşumu sırasında çok fazla enerji açığa çıktığından kararlılığı yüksek olan ve kolayca tepkimeye girmeyen ___, Dünya'da bol miktarda bulunur.",
+       "cevap": "su",
+       "celdiriciler": [
+        "amonyak",
+        "metan",
+        "ozon"
+       ],
+       "bilgi": "Suyun kararlılığı ve Dünya'da bol bulunması, standart oluşum entalpisinin çok düşük olmasıyla ilgilidir.",
+       "sayfa": 38
+      }
+     ]
+    },
+    {
+     "no": "1.2.1",
+     "ad": "Kimyasal Tepkimelerin Gerçekleşmesi İçin Gerekli Şartlar",
+     "kartlar": [
+      {
+       "id": "1.2.1-01",
+       "tur": "secmeli",
+       "soru": "Çarpışma teorisine göre bir çarpışmanın etkin olması için tanecikler hangi iki şartı sağlamalıdır?",
+       "secenekler": [
+        "Eşit kütlede olmalı ve aynı hızla hareket etmeli",
+        "Uygun geometride ve yeterli kinetik enerjiyle çarpışmalı",
+        "Zıt yüklü olmalı ve aynı hacmi kaplamalı",
+        "Katalizörlü ortamda ve çok yüksek basınç altında bulunmalı"
+       ],
+       "dogru": 1,
+       "bilgi": "Her çarpışma ürün oluşturmaz; ürün için taneciklerin uygun geometride ve yeterli kinetik enerjiyle etkin çarpışma yapması gerekir.",
+       "sayfa": 54
+      },
+      {
+       "id": "1.2.1-02",
+       "tur": "bosluk",
+       "cumle": "Bir tepkimenin gerçekleşmesi için çarpışan taneciklerin sahip olması gereken minimum toplam kinetik enerjiye ___ denir.",
+       "cevap": "eşik değeri",
+       "celdiriciler": [
+        "bağ enerjisi",
+        "entalpi",
+        "iyonlaşma enerjisi"
+       ],
+       "bilgi": "Kinetik enerjisi eşik değerine (eşik enerjisi) eşit ya da ondan büyük olan tanecikler etkin çarpışma yapabilir.",
+       "sayfa": 54
+      },
+      {
+       "id": "1.2.1-03",
+       "tur": "bosluk",
+       "cumle": "Tepkimenin gerçekleşebilmesi için gerekli olan minimum potansiyel enerjiye ___ enerjisi denir.",
+       "cevap": "aktivasyon",
+       "celdiriciler": [
+        "bağ",
+        "iyonlaşma",
+        "kinetik"
+       ],
+       "bilgi": "Aktivasyon (aktifleşme) enerjisi tepkenlerin kinetik enerjilerinden sağlanır; endotermik ve ekzotermik tüm tepkimelerin başlaması için gereklidir.",
+       "sayfa": 55
+      },
+      {
+       "id": "1.2.1-04",
+       "tur": "dy",
+       "ifade": "Tepkimeye giren taneciklerin her çarpışması ürün oluşumuyla sonuçlanır.",
+       "dogru": false,
+       "bilgi": "Her çarpışma ürün oluşturmaz; örneğin NO ile O₃ uygun olmayan geometride çarpışırsa NO₂ ve O₂ oluşmaz.",
+       "sayfa": 54
+      },
+      {
+       "id": "1.2.1-05",
+       "tur": "bosluk",
+       "cumle": "Aktivasyon enerjisi büyük olan tepkimeler genellikle ___ gerçekleşir.",
+       "cevap": "yavaş",
+       "celdiriciler": [
+        "hızlı",
+        "kendiliğinden",
+        "anında"
+       ],
+       "bilgi": "Aktivasyon enerjisi, tepkenlerin ürünlere dönüşebilmesi için aşmaları gereken enerji engelidir; engel büyüdükçe tepkime genellikle yavaşlar.",
+       "sayfa": 55
+      },
+      {
+       "id": "1.2.1-06",
+       "tur": "secmeli",
+       "soru": "Tepkime entalpisi (ΔH), ileri (Eai) ve geri (Eag) aktivasyon enerjileri kullanılarak nasıl bulunur?",
+       "secenekler": [
+        "ΔH = Eag − Eai",
+        "ΔH = Eai + Eag",
+        "ΔH = Eai − Eag",
+        "ΔH = Eai × Eag"
+       ],
+       "dogru": 2,
+       "bilgi": "Tepkime entalpisi, ileri aktivasyon enerjisinden geri aktivasyon enerjisi çıkarılarak hesaplanır.",
+       "sayfa": 55
+      },
+      {
+       "id": "1.2.1-07",
+       "tur": "secmeli",
+       "soru": "Ekzotermik bir tepkimenin potansiyel enerji grafiği için aşağıdakilerden hangisi doğrudur?",
+       "secenekler": [
+        "İleri aktivasyon enerjisi geri aktivasyondan küçüktür",
+        "Tepkenler ürünlerden daha kararlı ve daha düşük enerjilidir",
+        "Tepkimenin sürmesi için sisteme sürekli enerji verilmelidir",
+        "Toplam entalpi artar ve çevreden enerji alınır"
+       ],
+       "dogru": 0,
+       "bilgi": "Ekzotermik tepkimelerde Eai < Eag olduğundan ΔH < 0'dır; ürünler daha kararlıdır ve tepkime başladıktan sonra kendiliğinden devam eder.",
+       "sayfa": 56
+      },
+      {
+       "id": "1.2.1-08",
+       "tur": "dy",
+       "ifade": "Endotermik bir tepkimenin devam edebilmesi için sisteme sürekli enerji verilmesi gerekir.",
+       "dogru": true,
+       "bilgi": "Endotermik tepkimelerde Eai > Eag'dır; çevreden enerji alınır, toplam entalpi artar ve tepkenler ürünlerden daha kararlıdır.",
+       "sayfa": 55
+      },
+      {
+       "id": "1.2.1-09",
+       "tur": "eslestir",
+       "yonerge": "Tepkime kavramlarını açıklamalarıyla eşleştir.",
+       "ciftler": [
+        [
+         "İleri tepkime",
+         "Tepkenlerin ürünlere dönüşmesi"
+        ],
+        [
+         "Geri tepkime",
+         "Ürünlerin tepkenlere dönüşmesi"
+        ],
+        [
+         "İleri aktivasyon enerjisi",
+         "Tepkenlerin ürüne dönüşmesi için gereken en düşük enerji"
+        ],
+        [
+         "Geri aktivasyon enerjisi",
+         "Ürünlerin tepkenlere dönmesi için gereken en düşük enerji"
+        ]
+       ],
+       "bilgi": "Potansiyel enerji-tepkime koordinatı grafiği, tepken ve ürünlerin enerji düzeylerini ve aşılması gereken enerji engelini gösterir.",
+       "sayfa": 55
+      }
+     ]
+    },
+    {
+     "no": "1.2.2",
+     "ad": "Tepken ve Ürün Derişimleriyle Ortalama Tepkime Hızlarının Hesaplanması",
+     "kartlar": [
+      {
+       "id": "1.2.2-01",
+       "tur": "bosluk",
+       "cumle": "Birim zamanda tepkenler ya da ürünler üzerinden madde miktarındaki değişime ___ denir.",
+       "cevap": "tepkime hızı",
+       "celdiriciler": [
+        "hız sabiti",
+        "tepkime derecesi",
+        "aktivasyon enerjisi"
+       ],
+       "bilgi": "Tepkime hızı “r” ile gösterilir; madde miktarı mol, derişim, kütle veya gaz hacmi üzerinden izlenebilir.",
+       "sayfa": 63
+      },
+      {
+       "id": "1.2.2-02",
+       "tur": "secmeli",
+       "soru": "SI birim sisteminde tepkime hızının birimi hangisidir?",
+       "secenekler": [
+        "kJ/mol",
+        "M·s",
+        "s/M",
+        "M/s"
+       ],
+       "dogru": 3,
+       "bilgi": "SI'da tepkime hızının birimi M/s'dir; kullanılan madde miktarı ve zaman birimine göre g/dk., mol/sa. veya L/gün gibi birimler de kullanılabilir.",
+       "sayfa": 63
+      },
+      {
+       "id": "1.2.2-03",
+       "tur": "dy",
+       "ifade": "Tepkime hızı tepken derişimindeki değişim üzerinden yazılırken Δ[tepken] teriminin önüne eksi işareti konur.",
+       "dogru": true,
+       "bilgi": "Tepkenler harcandığı için Δ[tepken] negatiftir; hız pozitif bir nicelik olduğundan önüne eksi konur, Δ[ürün] için gerekmez.",
+       "sayfa": 63
+      },
+      {
+       "id": "1.2.2-04",
+       "tur": "secmeli",
+       "soru": "N₂ + 3H₂ → 2NH₃ tepkimesinde aynı zaman aralığındaki hızlar için hangisi doğrudur?",
+       "secenekler": [
+        "NH₃'ün oluşma hızı N₂'nin harcanma hızına eşittir",
+        "N₂'nin harcanma hızı H₂'ninkinin 3 katıdır",
+        "H₂'nin harcanma hızı N₂'ninkinin 3 katıdır",
+        "Tüm maddelerin hızları birbirine eşittir"
+       ],
+       "dogru": 2,
+       "bilgi": "Harcanma ve oluşma hızları denklem katsayılarına göre değişir: r = rN₂ = 1/3 rH₂ = 1/2 rNH₃.",
+       "sayfa": 63
+      },
+      {
+       "id": "1.2.2-05",
+       "tur": "bosluk",
+       "cumle": "Belli bir zaman aralığında madde miktarındaki değişime ___ hız denir.",
+       "cevap": "ortalama",
+       "celdiriciler": [
+        "anlık",
+        "bağıl",
+        "başlangıç"
+       ],
+       "bilgi": "Tepkenlerin ortalama harcanma ve ürünlerin ortalama oluşma hızı, derişim-zaman verilerinden belirli zaman aralıkları için hesaplanır.",
+       "sayfa": 64
+      },
+      {
+       "id": "1.2.2-06",
+       "tur": "dy",
+       "ifade": "Gaz fazında gerçekleşen bir tepkimenin hızı zamanla artar.",
+       "dogru": false,
+       "bilgi": "Gaz ya da çözelti fazındaki tepkimelerde hız, çarpışma olasılığının en fazla olduğu başlangıçta en yüksektir ve tepken derişimi azaldıkça düşer.",
+       "sayfa": 68
+      },
+      {
+       "id": "1.2.2-07",
+       "tur": "secmeli",
+       "soru": "Tepkenleri katı veya saf sıvı hâlde olan bir tepkimenin hızı, temas yüzeyi değişmediği sürece zamanla nasıl değişir?",
+       "secenekler": [
+        "Sürekli artar",
+        "Başlangıçta sıfırdır, sonra artar",
+        "Tepken derişimi azaldığı için zamanla düşer",
+        "Belli bir hızla başlar ve aynı hızla sürer"
+       ],
+       "dogru": 3,
+       "bilgi": "Katı ve saf sıvıların derişimi tepkime boyunca değişmediğinden bu tepkimeler temas yüzeyi değişmedikçe aynı hızla devam eder.",
+       "sayfa": 68
+      },
+      {
+       "id": "1.2.2-08",
+       "tur": "eslestir",
+       "yonerge": "Tepkime hızı ifadelerinde kullanılan gösterimleri anlamlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "[ ]",
+         "Derişim"
+        ],
+        [
+         "Δ",
+         "Son değerden ilk değerin çıkarılmasıyla bulunan fark"
+        ],
+        [
+         "r",
+         "Tepkime hızı"
+        ],
+        [
+         "M/s",
+         "SI'da tepkime hızının birimi"
+        ]
+       ],
+       "bilgi": "Tepkime hızı = −Δ[tepken]/Δt = +Δ[ürün]/Δt şeklinde ifade edilir.",
+       "sayfa": 63
+      }
+     ]
+    },
+    {
+     "no": "1.2.3",
+     "ad": "Tepkime Hızına Etki Eden Faktörler",
+     "kartlar": [
+      {
+       "id": "1.2.3-01",
+       "tur": "secmeli",
+       "soru": "Araç egzozlarındaki katalitik konvertörlerde zararlı gazların dönüşümünü hızlandıran metaller hangileridir?",
+       "secenekler": [
+        "Demir, bakır ve çinko",
+        "Sodyum, potasyum ve lityum",
+        "Platin, paladyum ve rodyum",
+        "Kurşun, cıva ve kalay"
+       ],
+       "dogru": 2,
+       "bilgi": "Katalitik konvertörler CO, hidrokarbonlar ve azot oksitler gibi zararlı gazları CO₂, H₂O, N₂ ve O₂ gibi daha az zararlı maddelere dönüştürür.",
+       "sayfa": 70
+      },
+      {
+       "id": "1.2.3-02",
+       "tur": "secmeli",
+       "soru": "Aynı koşullarda metan (CH₄) ve propanın (C₃H₈) yanma hızları için hangisi doğrudur?",
+       "secenekler": [
+        "Daha fazla bağ kırılması gerektiğinden propan daha yavaş yanar",
+        "Propan daha fazla atom içerdiğinden daha hızlı yanar",
+        "İki gazın yanma hızı her koşulda eşittir",
+        "Daha fazla bağ kırılması gerektiğinden metan daha yavaş yanar"
+       ],
+       "dogru": 0,
+       "bilgi": "Bir tepkimede kırılan bağ sayısı arttıkça tepkimenin yavaş gerçekleşme ihtimali artar; tepken cinsi tepkime hızını belirler.",
+       "sayfa": 73
+      },
+      {
+       "id": "1.2.3-03",
+       "tur": "dy",
+       "ifade": "Genel olarak gaz fazındaki tepkimeler, sıvı ve katı fazdaki tepkimelerden daha yavaş gerçekleşir.",
+       "dogru": false,
+       "bilgi": "Gaz molekülleri daha hareketli olduğundan çarpışma olasılığı yüksektir; örneğin kalsiyum su buharıyla, aynı sıcaklıktaki sudan daha hızlı tepkimeye girer.",
+       "sayfa": 75
+      },
+      {
+       "id": "1.2.3-04",
+       "tur": "secmeli",
+       "soru": "Tepken derişiminin artırılması tepkimeyi nasıl etkiler?",
+       "secenekler": [
+        "Aktivasyon enerjisini düşürerek tepkimeyi hızlandırır",
+        "Tepkime entalpisini ve aktivasyon enerjisini birlikte düşürür",
+        "Etkin çarpışmayı artırır, aktivasyon enerjisini değiştirmez",
+        "Aktivasyon enerjisini artırarak tepkimeyi yavaşlatır"
+       ],
+       "dogru": 2,
+       "bilgi": "Yüksek derişim etkin çarpışma sayısını artırarak hızı yükseltir; gaz tepkimelerinde hacmin azaltılması da derişimi artırarak hızlandırır.",
+       "sayfa": 77
+      },
+      {
+       "id": "1.2.3-05",
+       "tur": "secmeli",
+       "soru": "Sıcaklık artışı tepkime hızını hangi yolla artırır?",
+       "secenekler": [
+        "Tepkimenin izlediği yolu değiştirerek",
+        "Aktivasyon enerjisini düşürerek",
+        "Toplam tanecik sayısını artırarak",
+        "Etkin çarpışma sayısını artırarak"
+       ],
+       "dogru": 3,
+       "bilgi": "Sıcaklık artınca eşik değerini aşabilen tanecik sayısı artar; sıcaklık aktivasyon enerjisini ve tepkimenin izlediği yolu değiştirmez.",
+       "sayfa": 80
+      },
+      {
+       "id": "1.2.3-06",
+       "tur": "bosluk",
+       "cumle": "Tepkime hızını yavaşlatan katalizörlere negatif katalizör ya da ___ denir.",
+       "cevap": "inhibitör",
+       "celdiriciler": [
+        "enzim",
+        "aktivatör",
+        "tampon"
+       ],
+       "bilgi": "Hazır gıdaların bozulmasını yavaşlatmak için sodyum benzoat, sodyum klorür, askorbik asit, salisilik asit ve sodyum sitrat gibi inhibitörler kullanılır.",
+       "sayfa": 84
+      },
+      {
+       "id": "1.2.3-07",
+       "tur": "secmeli",
+       "soru": "Katalizörlerin tepkimeye etkisiyle ilgili hangisi doğrudur?",
+       "secenekler": [
+        "İleri ve geri aktivasyon enerjisini eşit düşürür",
+        "Tepkime entalpisini azaltarak hızı artırır",
+        "Tepkimedeki ürün miktarını ve verimi artırır",
+        "Tepkimenin başlayabilmesi için mutlaka gereklidir"
+       ],
+       "dogru": 0,
+       "bilgi": "Katalizör tepkimenin izlediği yolu değiştirir; ΔH'yi, tepken ve ürün enerjilerini, verimi ve tepkimenin yönünü değiştirmez.",
+       "sayfa": 84
+      },
+      {
+       "id": "1.2.3-08",
+       "tur": "bosluk",
+       "cumle": "Bir kimyasal tepkimede tepkenlerle aynı fazda bulunan katalizörlere ___ katalizör denir.",
+       "cevap": "homojen",
+       "celdiriciler": [
+        "heterojen",
+        "negatif",
+        "biyolojik"
+       ],
+       "bilgi": "Tepkenlerden farklı fazdaki katalizörler heterojendir; heterojen katalizörler genelde katı, tepkenler sıvı ya da gaz fazındadır.",
+       "sayfa": 84
+      },
+      {
+       "id": "1.2.3-09",
+       "tur": "dy",
+       "ifade": "Aynı miktar çinkonun toz hâli, parça hâline göre HCl çözeltisiyle daha hızlı tepkimeye girer; ancak oluşan ürün miktarı aynıdır.",
+       "dogru": true,
+       "bilgi": "Katının yüzey alanı arttıkça aynı anda tepkimeye girebilen tanecik sayısı artar; bu yüzden katıların toz hâline getirilmesi hızı artırır.",
+       "sayfa": 86
+      },
+      {
+       "id": "1.2.3-10",
+       "tur": "eslestir",
+       "yonerge": "Tepkime hızına etki eden faktörleri etki biçimleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Derişim",
+         "Birim hacimdeki tanecik sayısını artırır"
+        ],
+        [
+         "Sıcaklık",
+         "Taneciklerin kinetik enerjisini artırır"
+        ],
+        [
+         "Katalizör",
+         "Aktivasyon enerjisini düşürür"
+        ],
+        [
+         "Temas yüzeyi",
+         "Katı ile sıvı ya da gaz arasındaki etkileşimi artırır"
+        ]
+       ],
+       "bilgi": "Tepken cinsi, fiziksel hâl, derişim, sıcaklık, katalizör ve temas yüzeyi tepkime hızını etkileyen faktörlerdir.",
+       "sayfa": 88
+      }
+     ]
+    },
+    {
+     "no": "1.2.4",
+     "ad": "Kimyasal Tepkimelerin Hız Denklemi",
+     "kartlar": [
+      {
+       "id": "1.2.4-01",
+       "tur": "bosluk",
+       "cumle": "Tepkime hızı ile tepkimeye giren maddelerin derişimleri arasındaki ilişkiyi gösteren bağıntıya ___ denir.",
+       "cevap": "hız denklemi",
+       "celdiriciler": [
+        "denge sabiti",
+        "tepkime entalpisi",
+        "tepkime oranı"
+       ],
+       "bilgi": "Hız denklemindeki orantı sabiti k (hız sabiti), hız ile derişimler arasındaki orantıyı eşitliğe dönüştürür.",
+       "sayfa": 93
+      },
+      {
+       "id": "1.2.4-02",
+       "tur": "secmeli",
+       "soru": "Hız sabiti k'nin değerini artıran etkenler hangi seçenekte birlikte verilmiştir?",
+       "secenekler": [
+        "Tepken derişimi ve kabın hacmi",
+        "Sıcaklık, temas yüzeyi ve katalizör",
+        "Ürün derişimi ve ortamın basıncı",
+        "Tepkime süresi ve tepkime kabının şekli"
+       ],
+       "dogru": 1,
+       "bilgi": "k'nin değeri tepkimenin niteliğine, sıcaklığa, temas yüzeyine ve katalizöre bağlıdır; sıcaklık, temas yüzeyi ve katalizörle artar.",
+       "sayfa": 93
+      },
+      {
+       "id": "1.2.4-03",
+       "tur": "bosluk",
+       "cumle": "Hız denklemindeki üslerin toplamına ___ denir.",
+       "cevap": "tepkime derecesi",
+       "celdiriciler": [
+        "hız sabiti",
+        "tepkime oranı",
+        "denge sabiti"
+       ],
+       "bilgi": "r = k[A]ᵃ[B]ᵇ ise tepkime A'ya göre a., B'ye göre b. derecedendir ve tepkime derecesi a + b'dir.",
+       "sayfa": 94
+      },
+      {
+       "id": "1.2.4-04",
+       "tur": "dy",
+       "ifade": "Hız denklemine katı ve sıvı hâldeki saf maddelerin derişimleri yazılmaz.",
+       "dogru": true,
+       "bilgi": "Saf katı ve sıvıların derişimi tepkime boyunca değişmediğinden tepkime hızı üzerinde etkili olmazlar.",
+       "sayfa": 94
+      },
+      {
+       "id": "1.2.4-05",
+       "tur": "secmeli",
+       "soru": "Tek basamaklı bir tepkimenin hız denklemi yazılırken tepkenlerin stokiyometrik katsayıları nasıl kullanılır?",
+       "secenekler": [
+        "Hız sabitiyle toplanarak denkleme eklenir",
+        "Derişimlerin üzerine üs olarak yazılır",
+        "Derişimlere bölünür",
+        "Hız denkleminde hiçbir şekilde kullanılmaz"
+       ],
+       "dogru": 1,
+       "bilgi": "Örneğin tek basamaklı N₂ + 3H₂ → 2NH₃ tepkimesinin hız denklemi r = k[N₂][H₂]³ olup tepkime derecesi 4'tür.",
+       "sayfa": 94
+      },
+      {
+       "id": "1.2.4-06",
+       "tur": "dy",
+       "ifade": "Çok basamaklı tepkimelerde tepkimenin hızını en hızlı gerçekleşen basamak belirler.",
+       "dogru": false,
+       "bilgi": "Çok basamaklı tepkimelerde hızı yavaş basamak belirler; yavaş basamak aktivasyon enerjisi en büyük olan basamaktır.",
+       "sayfa": 96
+      },
+      {
+       "id": "1.2.4-07",
+       "tur": "secmeli",
+       "soru": "Çok basamaklı bir tepkimenin hız denklemi neye göre yazılır?",
+       "secenekler": [
+        "Net tepkime denklemine göre",
+        "En hızlı basamağa göre",
+        "Ürün derişimlerine göre",
+        "Yavaş basamağa göre"
+       ],
+       "dogru": 3,
+       "bilgi": "2H₂O₂ → 2H₂O + O₂ tepkimesinin deneysel hız denklemi r = k[H₂O₂][I⁻] olup yavaş olan birinci basamağa uyar.",
+       "sayfa": 96
+      },
+      {
+       "id": "1.2.4-08",
+       "tur": "eslestir",
+       "yonerge": "Tek basamaklı tepkimelerin hız denklemlerini tepkime derecesi ve k birimiyle eşleştir.",
+       "ciftler": [
+        [
+         "r = k",
+         "Sıfırıncı derece, k birimi M/s"
+        ],
+        [
+         "r = k[O₂]",
+         "Birinci derece, k birimi 1/s"
+        ],
+        [
+         "r = k[HCl]²",
+         "İkinci derece, k birimi 1/sM"
+        ]
+       ],
+       "bilgi": "Hız sabitinin birimi 1/(s·Mⁿ⁻¹) olan tepkimenin derecesi n'dir.",
+       "sayfa": 95
+      },
+      {
+       "id": "1.2.4-09",
+       "tur": "bosluk",
+       "cumle": "Normal yağmur suyunun hafif asidik olmasının nedeni, havadaki su buharı ile CO₂'nin tepkimesiyle ___ asit oluşmasıdır.",
+       "cevap": "karbonik",
+       "celdiriciler": [
+        "sülfürik",
+        "nitrik",
+        "hidroklorik"
+       ],
+       "bilgi": "Azot ve kükürt oksitlerin su buharıyla oluşturduğu nitrik ve sülfürik asit, yağmurun asitliğini artırarak asit yağmurlarına neden olur.",
+       "sayfa": 89
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "ad": "Çeşitlilik",
+   "konular": [
+    {
+     "no": "2.1.1",
+     "ad": "Tersinir Tepkimelerin Özellikleri",
+     "kartlar": [
+      {
+       "id": "2.1.1-01",
+       "tur": "bosluk",
+       "cumle": "Yalnızca bir yönde gerçekleşen ve ürünleri tekrar tepkenlere dönüşemeyen tepkimelere ___ tepkimeler denir.",
+       "cevap": "tersinmez",
+       "celdiriciler": [
+        "tersinir",
+        "homojen",
+        "dengeli"
+       ],
+       "bilgi": "Tersinmez tepkimelerde tek yönlü ok (→), her iki yöne gidebilen tersinir tepkimelerde çift yönlü ok (⇌) kullanılır.",
+       "sayfa": 128
+      },
+      {
+       "id": "2.1.1-02",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi tersinmez bir tepkimedir?",
+       "secenekler": [
+        "Suyun iyonlaşması",
+        "Karbonik asidin CO₂ ve suya dönüşümü",
+        "Metanın oksijenle yanması",
+        "NO₂ ile N₂O₄ arasındaki dönüşüm"
+       ],
+       "dogru": 2,
+       "bilgi": "Metanın yanmasıyla oluşan CO₂ ve su geri yönde tepkime vererek metan ve oksijeni oluşturamaz.",
+       "sayfa": 128
+      },
+      {
+       "id": "2.1.1-03",
+       "tur": "dy",
+       "ifade": "Lityum-iyon pillerdeki tepkimeler yalnızca tek yönde ilerlediği için bu piller yeniden şarj edilemez.",
+       "dogru": false,
+       "bilgi": "Lityum-iyon pil tepkimeleri tersinirdir: tepkime ürünlere giderken pil şarj olur, geri yönde giderken deşarj olarak elektrik üretir.",
+       "sayfa": 121
+      },
+      {
+       "id": "2.1.1-04",
+       "tur": "secmeli",
+       "soru": "2NO₂(g) ⇌ N₂O₄(g) tepkimesinin tersinir olduğu en kolay hangi nitelikle gözlenir?",
+       "secenekler": [
+        "İletkenlik değişimi",
+        "Renk değişimi",
+        "Katı kütlesindeki değişim",
+        "Koku değişimi"
+       ],
+       "dogru": 1,
+       "bilgi": "NO₂ kahverengi, N₂O₄ renksiz bir gaz olduğundan bu dengenin iki yönde ilerlemesi renk değişimiyle izlenebilir.",
+       "sayfa": 128
+      },
+      {
+       "id": "2.1.1-05",
+       "tur": "eslestir",
+       "yonerge": "Tersinirliği gösteren nitelikleri gözlenebildikleri tepkime türüyle eşleştir.",
+       "ciftler": [
+        [
+         "Renk değişimi",
+         "Tepken ve ürünleri farklı renkte olan tepkimeler"
+        ],
+        [
+         "Basınç-hacim değişimi",
+         "Gaz katsayıları farklı olan tepkimeler"
+        ],
+        [
+         "İletkenlik değişimi",
+         "İyon derişiminin değiştiği tepkimeler"
+        ],
+        [
+         "Kütle değişimi",
+         "Katı kütlesinin değiştiği tepkimeler"
+        ]
+       ],
+       "bilgi": "Tersinir tepkime kanıtları, tepkime şartları değiştirilerek iki yönde de gerçekleşmesi sağlandığında gözlenebilir.",
+       "sayfa": 128
+      },
+      {
+       "id": "2.1.1-06",
+       "tur": "secmeli",
+       "soru": "Mavi renkli bakır(II) sülfat pentahidrat ısıtılarak suyunu kaybettiğinde oluşan bakır(II) sülfat hangi renktedir?",
+       "secenekler": [
+        "Turuncu",
+        "Kahverengi",
+        "Sarı",
+        "Beyaz"
+       ],
+       "dogru": 3,
+       "bilgi": "CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O tepkimesi tersinirdir; beyaz CuSO₄'e su damlatılınca yeniden mavi renk oluşur.",
+       "sayfa": 124
+      },
+      {
+       "id": "2.1.1-07",
+       "tur": "bosluk",
+       "cumle": "2CrO₄²⁻ + 2H⁺ ⇌ Cr₂O₇²⁻ + H₂O tepkimesinde kromat iyonu sarı, dikromat iyonu ise ___ renklidir.",
+       "cevap": "turuncu",
+       "celdiriciler": [
+        "mavi",
+        "renksiz",
+        "yeşil"
+       ],
+       "bilgi": "Potasyum kromat çözeltisine asit eklenince renk turuncuya, ardından baz eklenince yeniden sarıya döner.",
+       "sayfa": 125
+      },
+      {
+       "id": "2.1.1-08",
+       "tur": "dy",
+       "ifade": "Karbonik asit uygun koşullarda yeniden karbon dioksit ve suya dönüşebilir.",
+       "dogru": true,
+       "bilgi": "CO₂ + H₂O ⇌ H₂CO₃ dengesi tersinirdir; sıcak ortamda gazlı içeceklerde kabarcık oluşur, soğutulunca kabarcıklar kaybolur.",
+       "sayfa": 128
+      }
+     ]
+    },
+    {
+     "no": "2.1.2",
+     "ad": "Fiziksel ve Kimyasal Değişimlerde Denge",
+     "kartlar": [
+      {
+       "id": "2.1.2-01",
+       "tur": "bosluk",
+       "cumle": "Maddelerin iç yapıları değişmeden yalnızca fiziksel hâlleri arasında kurulan dengeye ___ denge denir.",
+       "cevap": "fiziksel",
+       "celdiriciler": [
+        "kimyasal",
+        "homojen",
+        "heterojen"
+       ],
+       "bilgi": "Hâl değişimlerindeki dengeler ile çözünürlük dengeleri fiziksel dengelerdir; su-buz dengesi buna bir örnektir.",
+       "sayfa": 135
+      },
+      {
+       "id": "2.1.2-02",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi fiziksel denge örneğidir?",
+       "secenekler": [
+        "2SO₂(g) + O₂(g) ⇌ 2SO₃(g)",
+        "Belirli bir sıcaklıktaki su-buz dengesi",
+        "N₂(g) + 3H₂(g) ⇌ 2NH₃(g)",
+        "N₂O₄(g) ⇌ 2NO₂(g)"
+       ],
+       "dogru": 1,
+       "bilgi": "Dibinde katısı olan doymuş çözeltideki çözünme-çökelme dengesi de fiziksel dengedir.",
+       "sayfa": 135
+      },
+      {
+       "id": "2.1.2-03",
+       "tur": "secmeli",
+       "soru": "Fiziksel ve kimyasal olaylarda denge hangi tür sistemlerde kurulabilir?",
+       "secenekler": [
+        "Yalnızca açık sistemlerde",
+        "Hem açık hem kapalı sistemlerde",
+        "Kapalı sistemlerde",
+        "Yalnızca vakum ortamında"
+       ],
+       "dogru": 2,
+       "bilgi": "Açık sistemlerde sistem ile çevre arasında madde-enerji alışverişi sürdüğü için denge kurulamaz.",
+       "sayfa": 134
+      },
+      {
+       "id": "2.1.2-04",
+       "tur": "secmeli",
+       "soru": "Haber-Bosch süreci hangi maddenin endüstriyel üretiminde kullanılır?",
+       "secenekler": [
+        "Amonyak",
+        "Sülfürik asit",
+        "Metanol",
+        "Nitrik asit"
+       ],
+       "dogru": 0,
+       "bilgi": "Haber-Bosch sürecinde N₂ + 3H₂ ⇌ 2NH₃ dengesi kurulur; üretilen amonyağın büyük bölümü sentetik gübre yapımında kullanılır.",
+       "sayfa": 134
+      },
+      {
+       "id": "2.1.2-05",
+       "tur": "dy",
+       "ifade": "Denge hâli dinamiktir; makro düzeyde değişim gözlenmese de ileri ve geri tepkimeler eşit hızla sürer.",
+       "dogru": true,
+       "bilgi": "Dengede derişim, basınç ve sıcaklık sabittir; gözlenebilen makro olaylar durur gibi görünse de alt mikro olaylar devam eder.",
+       "sayfa": 135
+      },
+      {
+       "id": "2.1.2-06",
+       "tur": "secmeli",
+       "soru": "Yalnızca tepkenlerle başlatılan gaz fazındaki tersinir bir tepkimede denge kurulana kadar hızlar nasıl değişir?",
+       "secenekler": [
+        "İleri hız artar, geri hız azalır",
+        "İki hız da sürekli artar",
+        "İleri hız azalır, geri hız artar",
+        "İki hız da başlangıçtan itibaren sabittir"
+       ],
+       "dogru": 2,
+       "bilgi": "Başlangıçta ileri tepkime hızı en yüksek, geri tepkime hızı sıfırdır; hızlar eşitlendiğinde denge kurulur.",
+       "sayfa": 135
+      },
+      {
+       "id": "2.1.2-07",
+       "tur": "bosluk",
+       "cumle": "Tepken ve ürünlerinin tamamı aynı fazda bulunan denge tepkimelerine ___ denge tepkimeleri denir.",
+       "cevap": "homojen",
+       "celdiriciler": [
+        "heterojen",
+        "fiziksel",
+        "tersinmez"
+       ],
+       "bilgi": "N₂O₄(g) ⇌ 2NO₂(g) homojen, maddelerden en az biri farklı fazda olan 2S(k) + 2O₂(g) ⇌ 2SO₂(g) ise heterojen dengedir.",
+       "sayfa": 135
+      },
+      {
+       "id": "2.1.2-08",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki denge tepkimelerinden hangisi heterojen dengedir?",
+       "secenekler": [
+        "N₂O₄(g) ⇌ 2NO₂(g)",
+        "N₂(g) + 3H₂(g) ⇌ 2NH₃(g)",
+        "2SO₂(g) + O₂(g) ⇌ 2SO₃(g)",
+        "2S(k) + 2O₂(g) ⇌ 2SO₂(g)"
+       ],
+       "dogru": 3,
+       "bilgi": "Tepken ya da ürünlerden en az birinin farklı fazda olduğu denge tepkimeleri heterojen denge tepkimeleridir.",
+       "sayfa": 135
+      },
+      {
+       "id": "2.1.2-09",
+       "tur": "eslestir",
+       "yonerge": "Denge sistemlerini dengede hızları eşitlenen süreçlerle eşleştir.",
+       "ciftler": [
+        [
+         "Kapalı kaptaki su-buhar dengesi",
+         "Buharlaşma ve yoğunlaşma"
+        ],
+        [
+         "Dibinde katısı olan doymuş çözelti",
+         "Çözünme ve çökelme"
+        ],
+        [
+         "N₂ + 3H₂ ⇌ 2NH₃ dengesi",
+         "İleri ve geri tepkime"
+        ]
+       ],
+       "bilgi": "Dengede karşıt yöndeki iki süreç eşit hızla devam ettiğinden makro düzeyde madde miktarlarında değişim gözlenmez.",
+       "sayfa": 134
+      }
+     ]
+    },
+    {
+     "no": "2.1.3",
+     "ad": "Denge Sabiti İfadesinin Yazılması",
+     "kartlar": [
+      {
+       "id": "2.1.3-01",
+       "tur": "secmeli",
+       "soru": "Derişimler türünden denge sabiti (Kc) ile ileri (ki) ve geri (kg) tepkime hız sabitleri arasındaki ilişki hangisidir?",
+       "secenekler": [
+        "Kc = kg / ki",
+        "Kc = ki · kg",
+        "Kc = ki − kg",
+        "Kc = ki / kg"
+       ],
+       "dogru": 3,
+       "bilgi": "Dengede ileri ve geri tepkime hızları eşit olduğundan hız denklemleri eşitlenerek Kc = ki / kg bağıntısı türetilir.",
+       "sayfa": 146
+      },
+      {
+       "id": "2.1.3-02",
+       "tur": "dy",
+       "ifade": "Bir tepkimenin denge sabitinin sayısal değeri yalnızca sıcaklıkla değişir.",
+       "dogru": true,
+       "bilgi": "Derişim, hacim, basınç değişimleri ve katalizör Kc'yi değiştirmez; Kc yalnızca sıcaklığa bağlıdır.",
+       "sayfa": 146
+      },
+      {
+       "id": "2.1.3-03",
+       "tur": "dy",
+       "ifade": "Derişimler türünden denge sabiti ifadesinde saf katı ve sıvıların derişimleri de yer alır.",
+       "dogru": false,
+       "bilgi": "Denge sabiti ifadesine yalnızca gazlar ve çözeltideki maddeler yazılır; saf katı ve sıvılar yazılmaz.",
+       "sayfa": 146
+      },
+      {
+       "id": "2.1.3-04",
+       "tur": "secmeli",
+       "soru": "C(k) + CO₂(g) ⇌ 2CO(g) tepkimesinin derişimler türünden denge sabiti ifadesi hangisidir?",
+       "secenekler": [
+        "[CO]² / [CO₂]",
+        "[CO]² / ([C][CO₂])",
+        "[CO₂] / [CO]²",
+        "2[CO] / [CO₂]"
+       ],
+       "dogru": 0,
+       "bilgi": "Katı karbon ifadeye yazılmaz; ürün derişimi katsayısı kadar üs alınarak paya, tepken derişimi paydaya yazılır.",
+       "sayfa": 143
+      },
+      {
+       "id": "2.1.3-05",
+       "tur": "bosluk",
+       "cumle": "Denge sabiti ifadesi yazılırken tepkimedeki katsayılar, derişimlerin üzerine ___ olarak yazılır.",
+       "cevap": "üs",
+       "celdiriciler": [
+        "çarpan",
+        "bölen",
+        "toplanan"
+       ],
+       "bilgi": "Kc, ürünlerin denge derişimleri çarpımının tepkenlerin denge derişimleri çarpımına oranıdır.",
+       "sayfa": 146
+      },
+      {
+       "id": "2.1.3-06",
+       "tur": "secmeli",
+       "soru": "Stratosferde UV ışınlarının yeryüzüne ulaşmasını engelleyen denge hangisidir?",
+       "secenekler": [
+        "N₂O₄(g) ⇌ 2NO₂(g)",
+        "2O₃(g) ⇌ 3O₂(g)",
+        "2SO₂(g) + O₂(g) ⇌ 2SO₃(g)",
+        "N₂(g) + 3H₂(g) ⇌ 2NH₃(g)"
+       ],
+       "dogru": 1,
+       "bilgi": "Ozon ve oksijen arasındaki denge sabit bir oranla kurulur; bu oranın izlenmesi ozon tabakasını korumak için önlem almayı sağlar.",
+       "sayfa": 139
+      },
+      {
+       "id": "2.1.3-07",
+       "tur": "eslestir",
+       "yonerge": "Denge tepkimelerinde kullanılan sembolleri anlamlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "ri",
+         "İleri tepkimenin hızı"
+        ],
+        [
+         "rg",
+         "Geri tepkimenin hızı"
+        ],
+        [
+         "ki",
+         "İleri tepkimenin hız sabiti"
+        ],
+        [
+         "kg",
+         "Geri tepkimenin hız sabiti"
+        ]
+       ],
+       "bilgi": "aA + bB ⇌ cC + dD için ri = ki[A]ᵃ[B]ᵇ ve rg = kg[C]ᶜ[D]ᵈ yazılır; dengede ri = rg'dir.",
+       "sayfa": 146
+      },
+      {
+       "id": "2.1.3-08",
+       "tur": "secmeli",
+       "soru": "Kömürün su buharıyla C(k) + H₂O(g) ⇌ CO(g) + H₂(g) tepkimesinden elde edilen ve geçmişte aydınlatmada kullanılan gaz karışımı hangisidir?",
+       "secenekler": [
+        "Doğal gaz",
+        "LPG",
+        "Hava gazı",
+        "Biyogaz"
+       ],
+       "dogru": 2,
+       "bilgi": "Şehir gazı da denilen hava gazı, CO ve H₂ karışımıdır; 19. yüzyıldan 20. yüzyılın ortalarına kadar yaygın kullanılmıştır.",
+       "sayfa": 144
+      }
+     ]
+    },
+    {
+     "no": "2.1.4",
+     "ad": "Tepkime Oranı",
+     "kartlar": [
+      {
+       "id": "2.1.4-01",
+       "tur": "bosluk",
+       "cumle": "Bir tepkimede herhangi bir andaki ürün ve tepken derişimlerinin oranına ___ denir.",
+       "cevap": "tepkime oranı",
+       "celdiriciler": [
+        "denge sabiti",
+        "hız sabiti",
+        "tepkime derecesi"
+       ],
+       "bilgi": "Tepkime oranı Qc ile gösterilir ve denge sabiti bağıntısında olduğu gibi ürün ve tepken derişimlerinden hesaplanır.",
+       "sayfa": 151
+      },
+      {
+       "id": "2.1.4-02",
+       "tur": "dy",
+       "ifade": "Tepkime oranı (Qc) yalnızca denge anındaki derişimler kullanılarak hesaplanır.",
+       "dogru": false,
+       "bilgi": "Qc tepkimenin herhangi bir anı için kullanılırken Kc yalnızca denge anındaki oranı ifade eder.",
+       "sayfa": 151
+      },
+      {
+       "id": "2.1.4-03",
+       "tur": "secmeli",
+       "soru": "Zeytinyağında yağ (trigliserit) + su ⇌ yağ asidi + gliserol dengesinde ortamdaki suyun artması neye yol açar?",
+       "secenekler": [
+        "Denge tepkenler yönüne kayar, asitlik azalır",
+        "Denge ürünler yönüne kayar, asitlik artar",
+        "Denge sabiti büyür",
+        "Dengede hiçbir değişiklik olmaz"
+       ],
+       "dogru": 1,
+       "bilgi": "Asitlik zeytinyağının kalitesini belirler; su fazlalığı yağ asidi oluşumunu artırırken yağ asidi artışı dengeyi tepkenlere kaydırır.",
+       "sayfa": 149
+      },
+      {
+       "id": "2.1.4-04",
+       "tur": "secmeli",
+       "soru": "Qc > Kc olan bir tepkime için aşağıdakilerden hangisi doğrudur?",
+       "secenekler": [
+        "Tepkime ürünler yönüne ilerleyerek dengeye ulaşır",
+        "İleri ve geri tepkime hızları eşittir",
+        "Tepkime dengededir",
+        "Geri tepkime hızı ileri tepkime hızından büyüktür"
+       ],
+       "dogru": 3,
+       "bilgi": "Qc > Kc ise ürün derişiminin azalması ve tepken derişiminin artması gerektiğinden tepkime tepkenler yönüne ilerler.",
+       "sayfa": 154
+      },
+      {
+       "id": "2.1.4-05",
+       "tur": "dy",
+       "ifade": "Tepkime oranı denge sabitine eşit olduğunda ileri tepkime hızı geri tepkime hızına eşittir.",
+       "dogru": true,
+       "bilgi": "Qc = Kc ise sistem dengededir ve ileri ile geri tepkime hızları değişmeden eşit kalır.",
+       "sayfa": 154
+      },
+      {
+       "id": "2.1.4-06",
+       "tur": "eslestir",
+       "yonerge": "Qc-Kc ilişkilerini tepkimenin durumuyla eşleştir.",
+       "ciftler": [
+        [
+         "Qc < Kc",
+         "Tepkime ürünler yönüne ilerler"
+        ],
+        [
+         "Qc = Kc",
+         "Tepkime dengededir"
+        ],
+        [
+         "Qc > Kc",
+         "Tepkime tepkenler yönüne ilerler"
+        ]
+       ],
+       "bilgi": "Qc ile Kc karşılaştırılarak tepkimenin dengede olup olmadığı ve dengeye ulaşmak için hangi yöne ilerleyeceği belirlenir.",
+       "sayfa": 154
+      },
+      {
+       "id": "2.1.4-07",
+       "tur": "bosluk",
+       "cumle": "Qc > Kc olan bir tepkimenin dengeye ulaşması için Qc değerinin ___ gerekir.",
+       "cevap": "küçülmesi",
+       "celdiriciler": [
+        "büyümesi",
+        "sıfırlanması",
+        "sabit kalması"
+       ],
+       "bilgi": "Qc'nin küçülmesi için ürün derişimi azalmalı, tepken derişimi artmalıdır; bu nedenle tepkime tepkenler yönüne ilerler.",
+       "sayfa": 154
+      },
+      {
+       "id": "2.1.4-08",
+       "tur": "secmeli",
+       "soru": "Qc < Kc olan bir tepkime dengeye ulaşırken ileri (ri) ve geri (rg) tepkime hızları nasıl değişir?",
+       "secenekler": [
+        "ri azalır, rg artar",
+        "ri artar, rg azalır",
+        "İkisi de değişmez",
+        "İkisi de azalır"
+       ],
+       "dogru": 0,
+       "bilgi": "Qc < Kc iken başlangıçta ri > rg'dir; tepkime ürünlere ilerledikçe ri azalır, rg artar ve hızlar eşitlenir.",
+       "sayfa": 154
+      }
+     ]
+    },
+    {
+     "no": "2.1.5",
+     "ad": "Dengeyi Etkileyen Faktörler",
+     "kartlar": [
+      {
+       "id": "2.1.5-01",
+       "tur": "bosluk",
+       "cumle": "Dengedeki bir sisteme dışarıdan etki uygulandığında sistemin bu etkiyi azaltacak şekilde kendini düzenlediğini ifade eden ilke ___ ilkesidir.",
+       "cevap": "Le Chatelier",
+       "celdiriciler": [
+        "Pauli",
+        "Avogadro",
+        "Aufbau"
+       ],
+       "bilgi": "Fransız kimyager Henri Le Chatelier'in (1850-1936) geliştirdiği bu ilke kimyasal ve fiziksel dengeler için geçerlidir.",
+       "sayfa": 161
+      },
+      {
+       "id": "2.1.5-02",
+       "tur": "secmeli",
+       "soru": "Yüksek irtifada oksijen oranının düşük olması Hb(suda) + 4O₂(g) ⇌ Hb(O₂)₄(suda) dengesini nasıl etkiler?",
+       "secenekler": [
+        "İleri tepkime hızlanır, kandaki oksijen artar",
+        "Geri tepkime hızlanır, kandaki oksijen azalır",
+        "Denge sabiti büyür",
+        "Dengede hiçbir değişiklik olmaz"
+       ],
+       "dogru": 1,
+       "bilgi": "Yüksek irtifada vücut, hücrelere giden oksijeni artırmak için kandaki hemoglobin derişimini artırarak tepki verir.",
+       "sayfa": 157
+      },
+      {
+       "id": "2.1.5-03",
+       "tur": "dy",
+       "ifade": "Sabit sıcaklıkta dengedeki bir sisteme tepkenlerden biri eklendiğinde denge sabiti (Kc) değişir.",
+       "dogru": false,
+       "bilgi": "Derişim değişimi ileri ve geri hız sabitlerini etkilemediği için Kc'yi değiştirmez; sistem eklenen maddenin derişimini azaltacak yöne ilerler.",
+       "sayfa": 164
+      },
+      {
+       "id": "2.1.5-04",
+       "tur": "bosluk",
+       "cumle": "Dengedeki bir sistemden bir madde çıkarıldığında sistem, çıkarılan maddenin derişimini ___ yönde hareket eder.",
+       "cevap": "artıracak",
+       "celdiriciler": [
+        "azaltacak",
+        "sıfırlayacak"
+       ],
+       "bilgi": "Örneğin N₂ + 3H₂ ⇌ 2NH₃ dengesinden H₂ çıkarılırsa tepkime tepkenler yönüne ilerler, Kc değişmez.",
+       "sayfa": 164
+      },
+      {
+       "id": "2.1.5-05",
+       "tur": "secmeli",
+       "soru": "Sabit sıcaklıkta N₂(g) + 3H₂(g) ⇌ 2NH₃(g) dengesindeki kabın hacmi azaltılırsa sistem ne yapar?",
+       "secenekler": [
+        "Katsayısı fazla olan tepkenler yönüne ilerler",
+        "Hiçbir yöne ilerlemez",
+        "Kc değerini artırır",
+        "Katsayısı az olan ürünler yönüne ilerler"
+       ],
+       "dogru": 3,
+       "bilgi": "Hacim azaltılınca gazların derişimi ve basınç artar; sistem bu artışı telafi etmek için gaz katsayısı az olan tarafa ilerler.",
+       "sayfa": 169
+      },
+      {
+       "id": "2.1.5-06",
+       "tur": "dy",
+       "ifade": "Gaz fazındaki tepken ve ürün katsayıları toplamı eşit olan tepkimelerde hacim değişimi denge durumunu bozmaz.",
+       "dogru": true,
+       "bilgi": "H₂(g) + Cl₂(g) ⇌ 2HCl(g) gibi tepkimelerde hacim değişince derişimler değişir ama denge herhangi bir yöne kaymaz.",
+       "sayfa": 170
+      },
+      {
+       "id": "2.1.5-07",
+       "tur": "secmeli",
+       "soru": "Endotermik bir denge tepkimesinde sabit hacimde sıcaklık artırılırsa ne olur?",
+       "secenekler": [
+        "Denge ürünler yönüne kayar ve Kc artar",
+        "Denge tepkenler yönüne kayar ve Kc azalır",
+        "Denge ürünler yönüne kayar, Kc değişmez",
+        "Denge etkilenmez, Kc azalır"
+       ],
+       "dogru": 0,
+       "bilgi": "Endotermik dengelerde sıcaklık ile Kc doğru orantılı değişir; sıcaklık azaltılırsa denge tepkenlere kayar ve Kc azalır.",
+       "sayfa": 174
+      },
+      {
+       "id": "2.1.5-08",
+       "tur": "dy",
+       "ifade": "Ekzotermik denge tepkimelerinde sıcaklık artırıldığında denge sabitinin değeri artar.",
+       "dogru": false,
+       "bilgi": "Ekzotermik dengelerde sıcaklık artınca sistem tepkenler yönüne ilerler ve Kc azalır; sıcaklık ile Kc ters orantılıdır.",
+       "sayfa": 174
+      },
+      {
+       "id": "2.1.5-09",
+       "tur": "secmeli",
+       "soru": "Dengedeki bir sisteme katalizör eklenmesinin etkisi hangisidir?",
+       "secenekler": [
+        "Dengeyi ürünler yönüne kaydırarak verimi artırır",
+        "Kc değerini artırarak denge derişimlerini değiştirir",
+        "Dengeye ulaşma süresini kısaltır, Kc'yi değiştirmez",
+        "Yalnızca ileri tepkimeyi hızlandırır"
+       ],
+       "dogru": 2,
+       "bilgi": "Katalizör ileri ve geri tepkimelerin hızını aynı oranda artırır; denge derişimlerini ve Kc değerini değiştirmez.",
+       "sayfa": 177
+      },
+      {
+       "id": "2.1.5-10",
+       "tur": "eslestir",
+       "yonerge": "Dengedeki gaz sistemine yapılan etkileri sistemin tepkisiyle eşleştir.",
+       "ciftler": [
+        [
+         "Bir maddenin derişimini artırmak",
+         "O maddenin derişimini azaltacak yöne ilerler"
+        ],
+        [
+         "Hacmi küçülterek basıncı artırmak",
+         "Gaz katsayısı az olan tarafa ilerler"
+        ],
+        [
+         "Hacmi büyüterek basıncı azaltmak",
+         "Gaz katsayısı fazla olan tarafa ilerler"
+        ],
+        [
+         "Katalizör eklemek",
+         "Denge konumu değişmez, dengeye daha çabuk ulaşılır"
+        ]
+       ],
+       "bilgi": "Le Chatelier ilkesine göre sistem, dengeyi bozan etkiyi azaltacak yönde hareket ederek yeniden dengeye ulaşır.",
+       "sayfa": 171
+      }
+     ]
+    },
+    {
+     "no": "2.2.1",
+     "ad": "Saf Suyun Otoiyonizasyonu",
+     "kartlar": [
+      {
+       "id": "2.2.1-01",
+       "tur": "bosluk",
+       "cumle": "Saf suyun kendi kendine iyonlaşarak H₃O⁺ ve OH⁻ iyonları oluşturmasına saf suyun ___ denir.",
+       "cevap": "otoiyonizasyonu",
+       "celdiriciler": [
+        "hidrolizi",
+        "nötralleşmesi",
+        "elektrolizi"
+       ],
+       "bilgi": "Saf suyun iyonlaşması 2H₂O(s) + ısı ⇌ H₃O⁺(suda) + OH⁻(suda) şeklinde gösterilir ve pH kavramının temelini oluşturur.",
+       "sayfa": 179
+      },
+      {
+       "id": "2.2.1-02",
+       "tur": "secmeli",
+       "soru": "Saf suyun otoiyonizasyonunda başka bir su molekülünden proton alan su molekülü hangi iyona dönüşür?",
+       "secenekler": [
+        "Hidroksit (OH⁻)",
+        "Hidrür (H⁻)",
+        "Hidronyum (H₃O⁺)",
+        "Oksit (O²⁻)"
+       ],
+       "dogru": 2,
+       "bilgi": "Otoiyonizasyonda proton alan su molekülü hidronyum, proton veren su molekülü hidroksit iyonuna dönüşür.",
+       "sayfa": 181
+      },
+      {
+       "id": "2.2.1-03",
+       "tur": "dy",
+       "ifade": "Saf suyun otoiyonizasyonu ekzotermik bir olaydır.",
+       "dogru": false,
+       "bilgi": "Saf suyun otoiyonizasyonu endotermik ve tersinir bir olaydır; Ksu da Kc gibi sıcaklıkla değişir ve Le Chatelier ilkesine uyar.",
+       "sayfa": 182
+      },
+      {
+       "id": "2.2.1-04",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi saf suyun çok az da olsa iyonlaştığının kanıtıdır?",
+       "secenekler": [
+        "Renksiz ve kokusuz olması",
+        "Elektriği çok az da olsa iletmesi",
+        "Deniz seviyesinde 100 °C'ta kaynaması",
+        "Donarken hacminin artması"
+       ],
+       "dogru": 1,
+       "bilgi": "Saf suyun çok düşük iletkenliği, ölçülebilen pH değeri ve deneysel olarak belirlenen Ksu değeri iyonlaştığını gösterir.",
+       "sayfa": 180
+      },
+      {
+       "id": "2.2.1-05",
+       "tur": "bosluk",
+       "cumle": "25 °C'ta saf suyun iyonlaşma sabiti (Ksu) yaklaşık ___ değerindedir.",
+       "cevap": "1·10⁻¹⁴",
+       "celdiriciler": [
+        "1·10⁻⁷",
+        "1·10⁻¹⁰",
+        "7"
+       ],
+       "bilgi": "25 °C'ta saf suda [H₃O⁺] = [OH⁻] = 1·10⁻⁷ M olduğundan Ksu = [H₃O⁺][OH⁻] = 1·10⁻¹⁴ bulunur.",
+       "sayfa": 182
+      },
+      {
+       "id": "2.2.1-06",
+       "tur": "dy",
+       "ifade": "Saf suda H₃O⁺ iyonlarının derişimi her zaman OH⁻ iyonlarının derişimine eşittir.",
+       "dogru": true,
+       "bilgi": "Otoiyonizasyonda her H₃O⁺ iyonuna karşılık bir OH⁻ iyonu oluştuğu için saf su nötrdür.",
+       "sayfa": 182
+      },
+      {
+       "id": "2.2.1-07",
+       "tur": "dy",
+       "ifade": "Ksu sıcaklıktan bağımsız olduğu için saf suyun pH değeri her sıcaklıkta 7'dir.",
+       "dogru": false,
+       "bilgi": "Ksu sıcaklığa bağlıdır; 25 °C'ta nötr pH 7 iken farklı sıcaklıklarda pH ölçeği aralığı ve nötr pH değeri değişir.",
+       "sayfa": 182
+      },
+      {
+       "id": "2.2.1-08",
+       "tur": "eslestir",
+       "yonerge": "Kavramları tanımlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "pH",
+         "Hidronyum iyonu derişiminin negatif logaritması"
+        ],
+        [
+         "pOH",
+         "Hidroksit iyonu derişiminin negatif logaritması"
+        ],
+        [
+         "Ksu",
+         "Saf suyun iyonlaşma denge sabiti"
+        ],
+        [
+         "H₃O⁺",
+         "Hidronyum iyonu"
+        ]
+       ],
+       "bilgi": "pH, “hidrojenin gücü” (power of hydrogen) anlamına gelir; pH = −log[H₃O⁺] bağıntısıyla hesaplanır.",
+       "sayfa": 182
+      }
+     ]
+    },
+    {
+     "no": "2.2.2",
+     "ad": "Asit-Baz Teorilerinin Karşılaştırılması",
+     "kartlar": [
+      {
+       "id": "2.2.2-01",
+       "tur": "secmeli",
+       "soru": "Arrhenius asit-baz teorisine göre asit nedir?",
+       "secenekler": [
+        "Proton alan madde",
+        "Suda çözündüğünde suya OH⁻ iyonu veren madde",
+        "Elektron çifti alan madde",
+        "Suda çözündüğünde suya H⁺ iyonu veren madde"
+       ],
+       "dogru": 3,
+       "bilgi": "İsveçli kimyacı Arrhenius'un 1884'te yaptığı tanıma göre suya OH⁻ veren maddeler bazdır; teori yalnızca sulu çözeltiler için geçerlidir.",
+       "sayfa": 190
+      },
+      {
+       "id": "2.2.2-02",
+       "tur": "dy",
+       "ifade": "Arrhenius asit-baz teorisi, NH₃'ün bazlığını ve CO₂'nin asitliğini açıklayabilir.",
+       "dogru": false,
+       "bilgi": "Arrhenius teorisi yapısında hidrojen içermeyen SO₂, CO₂'nin asitliğini ve hidroksit içermeyen NH₃'ün bazlığını açıklamada yetersizdir.",
+       "sayfa": 190
+      },
+      {
+       "id": "2.2.2-03",
+       "tur": "bosluk",
+       "cumle": "Proton (H⁺) veren maddeyi asit, proton alan maddeyi baz olarak tanımlayan ve susuz ortamlarda da geçerli olan teori ___ asit-baz teorisidir.",
+       "cevap": "Brønsted-Lowry",
+       "celdiriciler": [
+        "Arrhenius",
+        "Lewis",
+        "Dalton"
+       ],
+       "bilgi": "Danimarkalı J. N. Brønsted ve İngiliz T. M. Lowry'nin birbirinden bağımsız geliştirdiği teori 1923'te kabul görmüştür.",
+       "sayfa": 190
+      },
+      {
+       "id": "2.2.2-04",
+       "tur": "bosluk",
+       "cumle": "Aralarında bir proton (H⁺) farkı bulunan asit-baz çiftlerine ___ asit-baz çifti denir.",
+       "cevap": "eşlenik",
+       "celdiriciler": [
+        "polifonksiyonel",
+        "nötr",
+        "kuvvetli"
+       ],
+       "bilgi": "Eşlenik (konjuge) asit-baz çiftleri aralarında proton alışverişi yapar; örneğin HF-F⁻ ve H₃O⁺-H₂O eşlenik çiftlerdir.",
+       "sayfa": 191
+      },
+      {
+       "id": "2.2.2-05",
+       "tur": "secmeli",
+       "soru": "HF + H₂O ⇌ F⁻ + H₃O⁺ tepkimesinde HF'nin eşlenik bazı hangisidir?",
+       "secenekler": [
+        "F⁻",
+        "H₃O⁺",
+        "H₂O",
+        "OH⁻"
+       ],
+       "dogru": 0,
+       "bilgi": "Bir asit protonunu verince geriye kalan tür o asidin eşlenik bazıdır; H₂O'nun eşlenik asidi ise H₃O⁺'dır.",
+       "sayfa": 191
+      },
+      {
+       "id": "2.2.2-06",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki asitlerden hangisi polifonksiyonel bir asittir?",
+       "secenekler": [
+        "HCl",
+        "HNO₃",
+        "H₂SO₄",
+        "CH₃COOH"
+       ],
+       "dogru": 2,
+       "bilgi": "Birden fazla proton verebilen H₂SO₄ ve H₃PO₄ polifonksiyonel; HCl, HNO₃ ve CH₃COOH monofonksiyonel asitlerdir.",
+       "sayfa": 192
+      },
+      {
+       "id": "2.2.2-07",
+       "tur": "dy",
+       "ifade": "CO, NO ve N₂O gibi oksijence fakir ametal oksitler nötr oksit özelliği gösterir.",
+       "dogru": true,
+       "bilgi": "Oksijence zengin SO₂, N₂O₅ ve CO₂ gibi ametal oksitler suyla tepkimeye girerek asit oluşturur ve asidik özellik gösterir.",
+       "sayfa": 192
+      },
+      {
+       "id": "2.2.2-08",
+       "tur": "secmeli",
+       "soru": "Okyanus suyunun pH değerinin düşmesi kabuklu canlılara nasıl zarar verir?",
+       "secenekler": [
+        "Kabuklarında silisyum birikmesine yol açar",
+        "Dış iskeletlerindeki kalsiyum karbonatı çözer",
+        "Kabuklarının aşırı kalınlaşarak ağırlaşmasına yol açar",
+        "Sudaki tuz oranını sıfırlar"
+       ],
+       "dogru": 1,
+       "bilgi": "Atmosferdeki CO₂ arttıkça okyanusta çözünen CO₂ artar; asitleşme midye ve istiridye gibi canlıların CaCO₃ iskeletlerini çözer.",
+       "sayfa": 184
+      },
+      {
+       "id": "2.2.2-09",
+       "tur": "dy",
+       "ifade": "Brønsted-Lowry teorisine göre bir asit ile baz arasındaki tepkimede tuz ve su oluşması gerekmez.",
+       "dogru": true,
+       "bilgi": "Brønsted-Lowry tepkimeleri proton transferiyle gerçekleşir; Arrhenius tanımına göre nötralleşme sonunda ise tuz ve su oluşur.",
+       "sayfa": 191
+      },
+      {
+       "id": "2.2.2-10",
+       "tur": "eslestir",
+       "yonerge": "Bilim insanlarını kimyaya katkılarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Arrhenius",
+         "1884'te ilk kabul gören asit-baz tanımını yaptı"
+        ],
+        [
+         "Brønsted ve Lowry",
+         "Proton aktarımına dayalı asit-baz teorisini geliştirdi"
+        ],
+        [
+         "Ebu Bekir Razi",
+         "Sülfürik asit, kostik soda ve gliserini ilk kez elde etti"
+        ]
+       ],
+       "bilgi": "Ebu Bekir Razi kimyasal maddeleri metalik, bitkisel ve hayvansal olarak sınıflandırmış, çiçek ve kızamığa ilk tedaviyi geliştirmiştir.",
+       "sayfa": 192
+      }
+     ]
+    },
+    {
+     "no": "2.2.3",
+     "ad": "Asitlerin ve Bazların Kuvveti",
+     "kartlar": [
+      {
+       "id": "2.2.3-01",
+       "tur": "secmeli",
+       "soru": "Bir asit ya da bazın kuvvetli olarak sınıflandırılmasında temel ölçüt hangisidir?",
+       "secenekler": [
+        "Molekülündeki hidrojen atomu sayısı",
+        "Suda yaklaşık %100 iyonlaşması",
+        "Çözeltisinin renkli olması",
+        "Kaynama noktasının yüksek olması"
+       ],
+       "dogru": 1,
+       "bilgi": "İyonlaşma yüzdesi arttıkça asit ve bazların kuvveti artar; suda kısmen iyonlaşanlar zayıf asit ya da zayıf bazdır.",
+       "sayfa": 200
+      },
+      {
+       "id": "2.2.3-02",
+       "tur": "bosluk",
+       "cumle": "Kuvvetli asitlere HCl, HNO₃, H₂SO₄ ve ___ örnek verilebilir.",
+       "cevap": "HClO₄",
+       "celdiriciler": [
+        "HF",
+        "HCN",
+        "HCOOH"
+       ],
+       "bilgi": "Kuvvetli asitlerin suda çözünmesi tek yönlüdür; HF, HNO₂, HCN ve HCOOH ise suda kısmen iyonlaşan zayıf asitlerdir.",
+       "sayfa": 201
+      },
+      {
+       "id": "2.2.3-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi kuvvetli bir bazdır?",
+       "secenekler": [
+        "NH₃",
+        "CH₃NH₂",
+        "C₂H₅NH₂",
+        "KOH"
+       ],
+       "dogru": 3,
+       "bilgi": "LiOH, NaOH, KOH ve Ba(OH)₂ kuvvetli; NH₃, CH₃NH₂ ve C₂H₅NH₂ ise kısmen iyonlaşan zayıf bazlardır.",
+       "sayfa": 203
+      },
+      {
+       "id": "2.2.3-04",
+       "tur": "dy",
+       "ifade": "Eşit derişimli zayıf asit çözeltisinin elektriksel iletkenliği kuvvetli asit çözeltisininkinden düşük, pH değeri ise daha büyüktür.",
+       "dogru": true,
+       "bilgi": "Zayıf asit çözeltilerinde iyon derişimi, eşit derişimli kuvvetli asit çözeltilerindekinden azdır.",
+       "sayfa": 203
+      },
+      {
+       "id": "2.2.3-05",
+       "tur": "dy",
+       "ifade": "Kuvvetli asitlerin suda iyonlaşması çift yönlü okla gösterilen bir denge tepkimesidir.",
+       "dogru": false,
+       "bilgi": "Kuvvetli asitler suda tamamen iyonlaştığından iyonlaşma tek yönlü okla gösterilir; zayıf asitlerin iyonlaşması ise dengededir.",
+       "sayfa": 201
+      },
+      {
+       "id": "2.2.3-06",
+       "tur": "bosluk",
+       "cumle": "Bir asidin suda oluşturduğu H₃O⁺ derişiminin asidin başlangıç derişimine oranının 100 ile çarpılmasıyla asidin ___ bulunur.",
+       "cevap": "iyonlaşma yüzdesi",
+       "celdiriciler": [
+        "asitlik sabiti",
+        "pH değeri",
+        "molar kütlesi"
+       ],
+       "bilgi": "Bazlarda iyonlaşma yüzdesi, bazdan gelen OH⁻ derişiminin bazın başlangıç derişimine oranının 100 ile çarpımıdır.",
+       "sayfa": 201
+      },
+      {
+       "id": "2.2.3-07",
+       "tur": "eslestir",
+       "yonerge": "Günlük hayattaki ürünleri içerdikleri asit ya da baz türüyle eşleştir.",
+       "ciftler": [
+        [
+         "Sirke",
+         "Zayıf asit"
+        ],
+        [
+         "Kireç çözücü (tuz ruhu)",
+         "Kuvvetli asit"
+        ],
+        [
+         "Sabun",
+         "Zayıf baz"
+        ],
+        [
+         "Lavabo açıcı (NaOH)",
+         "Kuvvetli baz"
+        ]
+       ],
+       "bilgi": "Kuvvetli asit ve bazlar tahriş edici ve aşındırıcıdır; zayıf asit ve bazların bu etkileri çok daha düşüktür.",
+       "sayfa": 195
+      },
+      {
+       "id": "2.2.3-08",
+       "tur": "secmeli",
+       "soru": "İlk laboratuvarı kurduğu, imbikle damıtma yaparak zaç yağı, kezzap ve tuz ruhunu bulduğu bilinen bilgin kimdir?",
+       "secenekler": [
+        "Ebu Bekir Razi",
+        "Cabir bin Hayyan",
+        "İbn-i Sina",
+        "Biruni"
+       ],
+       "dogru": 1,
+       "bilgi": "Damıtma, kristallendirme, süblimleştirme ve süzme yöntemlerini kullanan Cabir bin Hayyan “Kimyanın Babası” unvanını almıştır.",
+       "sayfa": 196
+      },
+      {
+       "id": "2.2.3-09",
+       "tur": "secmeli",
+       "soru": "Eşit derişimli NaOH ve NH₃ çözeltileri karşılaştırıldığında hangisi doğrudur?",
+       "secenekler": [
+        "NH₃ çözeltisinin pH değeri daha yüksektir",
+        "İki çözeltinin OH⁻ derişimi eşittir",
+        "NaOH çözeltisinin pH'si ve iletkenliği daha yüksektir",
+        "NH₃ çözeltisi elektriği daha iyi iletir ve pH'si daha yüksektir"
+       ],
+       "dogru": 2,
+       "bilgi": "Zayıf baz çözeltilerinin elektriksel iletkenlikleri ve pH değerleri eşit derişimli kuvvetli baz çözeltilerine göre düşüktür.",
+       "sayfa": 204
+      }
+     ]
+    },
+    {
+     "no": "2.2.4",
+     "ad": "Kuvvetli Asit-Zayıf Asit ve Kuvvetli Baz-Zayıf Baz Sulu Çözeltilerindeki pH Hesaplamaları",
+     "kartlar": [
+      {
+       "id": "2.2.4-01",
+       "tur": "bosluk",
+       "cumle": "Zayıf asitlerin iyonlaşma dengesine ait denge sabitine asitlik sabiti denir ve ___ ile gösterilir.",
+       "cevap": "Ka",
+       "celdiriciler": [
+        "Kb",
+        "Ksu",
+        "Kçç"
+       ],
+       "bilgi": "Zayıf bazların iyonlaşma dengesine ait denge sabitine bazlık sabiti denir ve Kb ile gösterilir.",
+       "sayfa": 214
+      },
+      {
+       "id": "2.2.4-02",
+       "tur": "bosluk",
+       "cumle": "25 °C'ta bir sulu çözeltide pH ile pOH değerlerinin toplamı ___ değerine eşittir.",
+       "cevap": "14",
+       "celdiriciler": [
+        "7",
+        "1",
+        "10"
+       ],
+       "bilgi": "Örneğin 0,1 M NaOH çözeltisinde pOH = 1 olduğundan pH = 13 bulunur.",
+       "sayfa": 214
+      },
+      {
+       "id": "2.2.4-03",
+       "tur": "secmeli",
+       "soru": "pH metre çözeltinin pH değerini nasıl belirler?",
+       "secenekler": [
+        "Elektrotlar arası potansiyel farkını ölçerek",
+        "Çözeltinin renk değişimini gözle algılayarak",
+        "Çözeltinin yoğunluğunu ölçerek",
+        "Çözeltinin sıcaklık değişimini ölçerek"
+       ],
+       "dogru": 0,
+       "bilgi": "pH metrenin ölçüm elektrotu H₃O⁺ iyonlarına duyarlı camdan yapılmıştır; referans elektrotun potansiyeli sabittir.",
+       "sayfa": 207
+      },
+      {
+       "id": "2.2.4-04",
+       "tur": "dy",
+       "ifade": "Kuvvetli asitlerin pH değeri hesaplanırken asitlik sabiti (Ka) kullanılarak denge bağıntısı yazılır.",
+       "dogru": false,
+       "bilgi": "Kuvvetli asit ve bazlar suda %100 iyonlaştığı ve tepkime tek yönlü olduğu için denge bağıntısı yazılmaz.",
+       "sayfa": 214
+      },
+      {
+       "id": "2.2.4-05",
+       "tur": "secmeli",
+       "soru": "Monofonksiyonel kuvvetli bir asidin sulu çözeltisindeki H₃O⁺ derişimi için hangisi doğrudur?",
+       "secenekler": [
+        "Her zaman 1·10⁻⁷ M'dır",
+        "Asit derişiminden çok küçüktür",
+        "Asitlik sabitine eşittir",
+        "Asidin derişimine eşittir"
+       ],
+       "dogru": 3,
+       "bilgi": "Örneğin 0,1 M HCl çözeltisinde [H₃O⁺] = 0,1 M ve pH = 1'dir; zayıf asitlerde ise [H₃O⁺] asit derişiminden çok küçüktür.",
+       "sayfa": 214
+      },
+      {
+       "id": "2.2.4-06",
+       "tur": "eslestir",
+       "yonerge": "Temizlik ürünlerindeki maddeleri özellikleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Kireç çözücüdeki HCl",
+         "Kireci hızlı temizler ama aşındırıcıdır"
+        ],
+        [
+         "Sirkedeki CH₃COOH",
+         "Kireci yavaş ama daha zararsız temizler"
+        ],
+        [
+         "Lavabo açıcıdaki NaOH",
+         "Hızlı açar, fazlası tesisata zarar verebilir"
+        ],
+        [
+         "Na₂CO₃",
+         "Tesisata zarar vermez, daha yavaş etki eder"
+        ]
+       ],
+       "bilgi": "Na₂CO₃ suda CO₃²⁻ iyonu verir; CO₃²⁻ su ile tepkimeye girerek OH⁻ oluşturan zayıf bir bazdır.",
+       "sayfa": 217
+      }
+     ]
+    },
+    {
+     "no": "2.2.5",
+     "ad": "Kuvvetli Asit ve Kuvvetli Bazların Nötralleşme Tepkimeleri",
+     "kartlar": [
+      {
+       "id": "2.2.5-01",
+       "tur": "bosluk",
+       "cumle": "Asit ve bazın tepkimeye girerek tuz ve su oluşturduğu kimyasal olaya ___ denir.",
+       "cevap": "nötralleşme",
+       "celdiriciler": [
+        "hidroliz",
+        "otoiyonizasyon",
+        "elektroliz"
+       ],
+       "bilgi": "Nötralleşmede asit ve baz birbirinin özelliğini etkisiz hâle getirir; genel gösterim Asit + Baz → Tuz + Su + Isı şeklindedir.",
+       "sayfa": 227
+      },
+      {
+       "id": "2.2.5-02",
+       "tur": "dy",
+       "ifade": "Nötralleşme tepkimeleri genellikle endotermik gerçekleşir.",
+       "dogru": false,
+       "bilgi": "Nötralleşme tepkimeleri genellikle ekzotermiktir; kuvvetli asit ile kuvvetli baz arasındaki nötralleşme hızlı ve tek yönlüdür.",
+       "sayfa": 227
+      },
+      {
+       "id": "2.2.5-03",
+       "tur": "secmeli",
+       "soru": "Kuvvetli asit ile kuvvetli baz arasındaki nötralleşme tepkimelerinin net iyon denklemi hangisidir?",
+       "secenekler": [
+        "Na⁺ + Cl⁻ → NaCl",
+        "H⁺ + OH⁻ → H₂O",
+        "2H₂O → H₃O⁺ + OH⁻",
+        "H₂ + ½O₂ → H₂O"
+       ],
+       "dogru": 1,
+       "bilgi": "Asidin H⁺ iyonu ile bazın OH⁻ iyonu birleşerek suyu, geriye kalan iyonlar da tuzu oluşturur.",
+       "sayfa": 227
+      },
+      {
+       "id": "2.2.5-04",
+       "tur": "bosluk",
+       "cumle": "Asitten gelen H⁺ ile bazdan gelen OH⁻ iyonlarının mol sayıları eşit olduğunda gerçekleşen olaya ___ nötralleşme denir.",
+       "cevap": "tam",
+       "celdiriciler": [
+        "kısmi",
+        "ters",
+        "yarı"
+       ],
+       "bilgi": "Tam nötralleşmede 25 °C'ta pH 7 olur; mol sayıları eşit değilse kısmi nötralleşme olur ve fazla olan iyon çözeltinin özelliğini belirler.",
+       "sayfa": 227
+      },
+      {
+       "id": "2.2.5-05",
+       "tur": "eslestir",
+       "yonerge": "İndikatörleri düşük ve yüksek pH'deki renkleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Fenolftalein",
+         "Renksizden pembeye"
+        ],
+        [
+         "Bromtimol mavisi",
+         "Sarıdan maviye"
+        ],
+        [
+         "Metil oranj",
+         "Turuncudan sarıya"
+        ],
+        [
+         "Kongo kırmızısı",
+         "Maviden kırmızıya"
+        ]
+       ],
+       "bilgi": "İndikatör, ortamın pH aralığına göre renk değiştiren maddedir; kuvvetli asit-kuvvetli baz nötralleşmesinde fenolftalein, bromtimol mavisi ve metil kırmızısı tercih edilir.",
+       "sayfa": 229
+      },
+      {
+       "id": "2.2.5-06",
+       "tur": "secmeli",
+       "soru": "Apollo Ay Modülü'nde astronotların solunumuyla oluşan CO₂, hangi katı içeren kartuşlardan geçirilerek temizlenmiştir?",
+       "secenekler": [
+        "NaCl",
+        "CaCO₃",
+        "NH₄Cl",
+        "LiOH"
+       ],
+       "dogru": 3,
+       "bilgi": "Modüldeki hava 2LiOH(k) + CO₂(g) → Li₂CO₃(k) + H₂O(g) tepkimesiyle temizlenmiştir.",
+       "sayfa": 227
+      },
+      {
+       "id": "2.2.5-07",
+       "tur": "dy",
+       "ifade": "Mor lahana suyu ve çay gibi doğal indikatörlerin renk değiştirdiği pH aralığı her zaman sabittir.",
+       "dogru": false,
+       "bilgi": "Doğal indikatörlerin içerikleri standart olmadığından renk değiştirdikleri pH aralığı değişebilir; bu yüzden bilimsel çalışmalarda yapay indikatörler kullanılır.",
+       "sayfa": 229
+      },
+      {
+       "id": "2.2.5-08",
+       "tur": "secmeli",
+       "soru": "HCl çözeltisine NaOH çözeltisi eklenmeye devam edilirken çözeltinin elektriksel iletkenliği nasıl değişir?",
+       "secenekler": [
+        "Önce azalır, sonra artar",
+        "Sürekli artar",
+        "Hiç değişmeden sabit kalır",
+        "Önce artar, sonra azalır"
+       ],
+       "dogru": 0,
+       "bilgi": "H⁺ iyonları tükenene kadar iletkenlik azalır ve en düşük değere ulaşır; nötralleşme bitince eklenen OH⁻ iyonları iletkenliği artırır.",
+       "sayfa": 230
+      },
+      {
+       "id": "2.2.5-09",
+       "tur": "secmeli",
+       "soru": "Bitkiler yüksek pH değerine sahip bazik topraklardan hangi elementi yeterli miktarda alamaz?",
+       "secenekler": [
+        "Potasyum",
+        "Fosfor",
+        "Magnezyum"
+       ],
+       "dogru": 1,
+       "bilgi": "Düşük pH'li topraklarda ise potasyum ve magnezyum yeterince alınamaz; örneğin ayçiçeği için toprak pH'si 6,0-7,2 aralığına getirilir.",
+       "sayfa": 219
+      },
+      {
+       "id": "2.2.5-10",
+       "tur": "secmeli",
+       "soru": "Nötralleşme tepkimelerini gözlemlemek için kullanılan yöntemler hangi seçenekte birlikte verilmiştir?",
+       "secenekler": [
+        "Damıtma, süzme ve kristallendirme",
+        "İndikatör, pH ölçümü ve iletkenlik ölçümü",
+        "Elektroliz, piroliz ve buhar reformasyonu",
+        "Kütle ölçümü ve renk karşılaştırması"
+       ],
+       "dogru": 1,
+       "bilgi": "Nötralleşmede pH değerinin 7 olduğu nokta tam nötralleşme anını gösterir; iletkenlik ise iyonların toplam derişimine bağlıdır.",
+       "sayfa": 229
+      }
+     ]
+    },
+    {
+     "no": "2.2.6",
+     "ad": "Kuvvetli Asit-Kuvvetli Baz Titrasyonları",
+     "kartlar": [
+      {
+       "id": "2.2.6-01",
+       "tur": "bosluk",
+       "cumle": "Derişimi bilinen bir çözelti yardımıyla derişimi bilinmeyen bir çözeltinin derişiminin belirlendiği analiz yöntemine ___ denir.",
+       "cevap": "titrasyon",
+       "celdiriciler": [
+        "damıtma",
+        "kristallendirme",
+        "elektroliz"
+       ],
+       "bilgi": "Titrasyon hacim ölçümüne dayanır; kolay uygulanması ve hassas sonuç vermesi nedeniyle tercih edilir.",
+       "sayfa": 235
+      },
+      {
+       "id": "2.2.6-02",
+       "tur": "secmeli",
+       "soru": "Titrasyonlar gerçekleşen kimyasal tepkimeye göre nasıl sınıflandırılır?",
+       "secenekler": [
+        "Homojen ve heterojen titrasyonlar",
+        "Çöktürme, redoks ve asit-baz titrasyonları",
+        "Ekzotermik, endotermik ve izotermik titrasyonlar",
+        "Fiziksel ve kimyasal titrasyonlar"
+       ],
+       "dogru": 1,
+       "bilgi": "Kuvvetli asit ya da kuvvetli baz çözeltilerinin derişimini belirlemek için yapılan titrasyona kuvvetli asit-kuvvetli baz titrasyonu denir.",
+       "sayfa": 235
+      },
+      {
+       "id": "2.2.6-03",
+       "tur": "eslestir",
+       "yonerge": "Titrasyonda kullanılan malzeme ve kavramları görevleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Büret",
+         "Derişimi bilinen çözelti konur, harcanan hacim ölçülür"
+        ],
+        [
+         "Erlenmayer",
+         "Derişimi bilinmeyen çözelti konur"
+        ],
+        [
+         "İndikatör",
+         "Renk değişimiyle dönüm noktasını gösterir"
+        ],
+        [
+         "Titrasyon eğrisi",
+         "Eklenen hacme karşı pH değişimini gösterir"
+        ]
+       ],
+       "bilgi": "Tam nötralleşme anını kaçırmamak için büretteki çözelti erlenmayere damla damla eklenir.",
+       "sayfa": 235
+      },
+      {
+       "id": "2.2.6-04",
+       "tur": "bosluk",
+       "cumle": "Kuvvetli asit-kuvvetli baz titrasyonunda nötralleşmenin tamamlandığı, H⁺ ve OH⁻ mol sayılarının eşit olduğu noktaya ___ noktası denir.",
+       "cevap": "eş değerlik",
+       "celdiriciler": [
+        "dönüm",
+        "kritik",
+        "üçlü"
+       ],
+       "bilgi": "Eş değerlik noktası teorik bir kavramdır; kuvvetli asit-kuvvetli baz titrasyonunda 25 °C'ta bu noktada pH 7'dir.",
+       "sayfa": 235
+      },
+      {
+       "id": "2.2.6-05",
+       "tur": "dy",
+       "ifade": "Titrasyonda eş değerlik noktası doğrudan gözlemlenebilir.",
+       "dogru": false,
+       "bilgi": "Eş değerlik noktası doğrudan gözlenemediği için hesaplamalarda indikatörün renk değiştirdiği dönüm noktası verileri kullanılır.",
+       "sayfa": 236
+      },
+      {
+       "id": "2.2.6-06",
+       "tur": "secmeli",
+       "soru": "Asit-baz titrasyonunda dönüm noktası neyi ifade eder?",
+       "secenekler": [
+        "Büretteki çözeltinin tamamen bittiği anı",
+        "Titrasyonun başladığı anı",
+        "İndikatörün renk değiştirdiği noktayı",
+        "pH değerinin sıfır olduğu noktayı"
+       ],
+       "dogru": 2,
+       "bilgi": "Eş değerlik noktası ile dönüm noktası arasındaki fark bir damladan çok küçük olduğundan derişim hesabında dönüm noktası kullanılır.",
+       "sayfa": 236
+      },
+      {
+       "id": "2.2.6-07",
+       "tur": "secmeli",
+       "soru": "Kuvvetli asidin kuvvetli bazla titrasyon eğrisinde pH değişimi için hangisi doğrudur?",
+       "secenekler": [
+        "Eş değerlik noktası yakınında pH çok hızlı değişir",
+        "pH titrasyonun başından sonuna kadar sabit hızla artar",
+        "pH eş değerlik noktasında aniden sıfırlanır",
+        "pH hiç değişmez"
+       ],
+       "dogru": 0,
+       "bilgi": "Eş değerlik noktasına yaklaşıncaya kadar pH önemli oranda değişmez, bu noktanın yakınında ise çok hızlı artar.",
+       "sayfa": 236
+      },
+      {
+       "id": "2.2.6-08",
+       "tur": "secmeli",
+       "soru": "Kuvvetli asit-kuvvetli baz titrasyonunda eş değerlik noktası için hangisi doğrudur?",
+       "secenekler": [
+        "Çözeltide hiç iyon kalmaz",
+        "İndikatörün renk değiştirdiği noktadır",
+        "Asidin mol sayısı her zaman bazın mol sayısının iki katıdır",
+        "Tepkimeye giren H⁺ ve OH⁻ mol sayıları eşittir"
+       ],
+       "dogru": 3,
+       "bilgi": "Eş değerlik noktasında tam nötralleşme gerçekleşir ve 25 °C'ta pH 7 olur; indikatörün renk değiştirdiği nokta ise dönüm noktasıdır.",
+       "sayfa": 235
+      }
+     ]
+    },
+    {
+     "no": "2.2.7",
+     "ad": "Asidik ve Bazik Ürünlerin Seçiminde Dikkat Edilmesi Gerekenler",
+     "kartlar": [
+      {
+       "id": "2.2.7-01",
+       "tur": "bosluk",
+       "cumle": "Bir canlıda iç ortamın fiziksel ve kimyasal koşullarını sağlıklı yaşam için en uygun durumda sabit tutma çabasına ___ denir.",
+       "cevap": "homeostazi",
+       "celdiriciler": [
+        "metabolizma",
+        "otoiyonizasyon",
+        "osmoz"
+       ],
+       "bilgi": "Vücut sıcaklığı, kan şekeri, sıvı seviyesi ve vücut sıvılarının pH değeri belli aralıklarda tutulmalıdır.",
+       "sayfa": 239
+      },
+      {
+       "id": "2.2.7-02",
+       "tur": "eslestir",
+       "yonerge": "Vücut bölgelerini ve ürünleri genel pH aralıklarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Mide sıvısı",
+         "pH 1,5-3,5"
+        ],
+        [
+         "Sağlıklı cilt",
+         "pH 4,5-5,5"
+        ],
+        [
+         "Diş macunu",
+         "pH 8-9"
+        ]
+       ],
+       "bilgi": "Mide sıvısı HCl içerdiği için oldukça asidiktir; cilt hafif asidik, etkili bir diş macunu ise hafif baziktir.",
+       "sayfa": 242
+      },
+      {
+       "id": "2.2.7-03",
+       "tur": "secmeli",
+       "soru": "Mide koruyuculardan antiasit tabletleri mide asitliğini nasıl azaltır?",
+       "secenekler": [
+        "Mide hücrelerinin HCl salgılamasını engelleyerek",
+        "Bazik maddeler içerip mide asidini nötralize ederek",
+        "Mideye ek pepsinojen sağlayarak proteinleri sindirerek",
+        "Mide kaslarını gevşeterek"
+       ],
+       "dogru": 1,
+       "bilgi": "Aşırı mide asidi yanma hissi, reflü ve ülsere yol açabilir; mide ilaçlarının seçimi doktor kontrolünde yapılmalıdır.",
+       "sayfa": 242
+      },
+      {
+       "id": "2.2.7-04",
+       "tur": "bosluk",
+       "cumle": "Mide yüzeyindeki hücrelerin HCl salgılamasını engelleyen mide ilaçlarına ___ denir.",
+       "cevap": "proton inhibitörleri",
+       "celdiriciler": [
+        "antiasitler",
+        "antibiyotikler",
+        "antiseptikler"
+       ],
+       "bilgi": "Midedeki asidik ortam proteinlerin kimyasal sindirimini sağlar ve besinlerle alınan mikroorganizmaları yok eder.",
+       "sayfa": 242
+      },
+      {
+       "id": "2.2.7-05",
+       "tur": "secmeli",
+       "soru": "Sağlıklı bir cildin hafif asidik yapısının görevi nedir?",
+       "secenekler": [
+        "Mikroorganizmalara karşı bariyer oluşturmak",
+        "Cildin su kaybını artırarak serinletmek",
+        "Ter üretimini tamamen durdurmak",
+        "Cildin nemini ve yağını tamamen uzaklaştırmak"
+       ],
+       "dogru": 0,
+       "bilgi": "Cildin pH değeri genel olarak 4,5-5,5 arasındadır; genetik özellikler, yaş, cinsiyet ve kozmetik ürünlere göre değişebilir.",
+       "sayfa": 243
+      },
+      {
+       "id": "2.2.7-06",
+       "tur": "dy",
+       "ifade": "pH değeri çok yüksek sabunlar cildin pH dengesini korur ve cilt kuruluğunu önler.",
+       "dogru": false,
+       "bilgi": "pH değeri çok yüksek sabunlar başta cilt kuruluğu olmak üzere çeşitli sorunlara yol açabilir; kişi cildinin pH'sine uygun ürün seçmelidir.",
+       "sayfa": 243
+      },
+      {
+       "id": "2.2.7-07",
+       "tur": "secmeli",
+       "soru": "Diş çürüğünün başlamasında hangi süreç rol oynar?",
+       "secenekler": [
+        "Tükürüğün ağız içi pH değerini yükseltmesi",
+        "Florürün diş minesine bağlanarak mineyi güçlendirmesi",
+        "Bakterilerin şeker ve nişastayı aside dönüştürmesi",
+        "Diş macununun ağız içi pH değerini artırması"
+       ],
+       "dogru": 2,
+       "bilgi": "Bakterilerin ürettiği asit diş minesinin mineral kaybetmesine yol açar; erken aşamada florürlü minerallerle mine onarılabilir.",
+       "sayfa": 242
+      },
+      {
+       "id": "2.2.7-08",
+       "tur": "secmeli",
+       "soru": "Günümüz diş macunlarında diş çürüğünü önlemek amacıyla kullanılan bileşen hangisidir?",
+       "secenekler": [
+        "Florür tuzları",
+        "Potasyum nitrat",
+        "Silika",
+        "Peroksitler"
+       ],
+       "dogru": 0,
+       "bilgi": "Silika ve kalsiyum karbonat beyazlatıcı aşındırıcı, peroksitler ağartıcı, potasyum nitrat ise diş hassasiyetini giderici olarak kullanılır.",
+       "sayfa": 243
+      }
+     ]
+    },
+    {
+     "no": "2.3.1",
+     "ad": "Suda Az Çözünen Tuzların Molar Çözünürlükleri",
+     "kartlar": [
+      {
+       "id": "2.3.1-01",
+       "tur": "bosluk",
+       "cumle": "Doymuş bir çözeltide çözünme hızının çökelme hızına eşit olduğu duruma ___ dengesi denir.",
+       "cevap": "çözünürlük",
+       "celdiriciler": [
+        "iyonlaşma",
+        "buhar",
+        "asit-baz"
+       ],
+       "bilgi": "Doymuş AgCl çözeltisinde birim zamanda çözünen ve çöken AgCl miktarları eşit olduğundan iyon derişimleri sabit kalır.",
+       "sayfa": 250
+      },
+      {
+       "id": "2.3.1-02",
+       "tur": "bosluk",
+       "cumle": "1 litre doymuş çözeltide çözünen maddenin mol sayısına ___ denir.",
+       "cevap": "molar çözünürlük",
+       "celdiriciler": [
+        "çözünürlük çarpımı",
+        "kütlece yüzde",
+        "iyonlaşma yüzdesi"
+       ],
+       "bilgi": "Molar çözünürlüğün birimi mol/L'dir ve hesaplamalarda “s” harfiyle gösterilir.",
+       "sayfa": 251
+      },
+      {
+       "id": "2.3.1-03",
+       "tur": "secmeli",
+       "soru": "AgCl(k) ⇌ Ag⁺(suda) + Cl⁻(suda) dengesinin çözünürlük çarpımı ifadesi hangisidir?",
+       "secenekler": [
+        "Kçç = [Ag⁺][Cl⁻] / [AgCl]",
+        "Kçç = [AgCl]",
+        "Kçç = [Ag⁺][Cl⁻]",
+        "Kçç = [Ag⁺] + [Cl⁻]"
+       ],
+       "dogru": 2,
+       "bilgi": "Saf AgCl katısının derişimi sabit olduğu için çözünürlük denge bağıntısında yer almaz.",
+       "sayfa": 250
+      },
+      {
+       "id": "2.3.1-04",
+       "tur": "dy",
+       "ifade": "Bir tuzun çözünürlük çarpımı (Kçç) değeri yalnızca sıcaklıkla değişir.",
+       "dogru": true,
+       "bilgi": "Kçç, suda az çözünen tuzlar için kullanılır; doygun çözeltideki iyon derişimlerinin, katsayıları üs olarak yazılmış çarpımıdır.",
+       "sayfa": 250
+      },
+      {
+       "id": "2.3.1-05",
+       "tur": "dy",
+       "ifade": "Glikoz gibi suda moleküler hâlde çözünen katılar için de çözünürlük çarpımı ifadesi yazılır.",
+       "dogru": false,
+       "bilgi": "Kçç ifadesinin yazılabilmesi için katının suda iyonlarına ayrışarak az çözünmesi gerekir; moleküler çözünenler için Kçç yazılmaz.",
+       "sayfa": 250
+      },
+      {
+       "id": "2.3.1-06",
+       "tur": "secmeli",
+       "soru": "XY₂ türündeki suda az çözünen bir tuzun molar çözünürlüğü s ise çözünürlük çarpımı hangisine eşittir?",
+       "secenekler": [
+        "s²",
+        "4s³",
+        "27s⁴",
+        "108s⁵"
+       ],
+       "dogru": 1,
+       "bilgi": "XY tipi tuzlarda Kçç = s², XY₂'de 4s³, XY₃'te 27s⁴, X₂Y₃'te 108s⁵ olur.",
+       "sayfa": 251
+      },
+      {
+       "id": "2.3.1-07",
+       "tur": "secmeli",
+       "soru": "Su ısıtıcılarında oluşan kireçlenmenin nedeni nedir?",
+       "secenekler": [
+        "Buharlaşan suda çözünmüş minerallerin çökmesi",
+        "Suyun ısıtıcının metal yüzeyiyle tepkimeye girmesi",
+        "Havadaki CO₂'nin ısıtıcı yüzeyinde birikmesi",
+        "Suyun donarak hacminin artması"
+       ],
+       "dogru": 0,
+       "bilgi": "Sert su fazla mineral içerdiğinden daha fazla tortu bırakır; tortu ısı transferini zorlaştırarak enerji tüketimini artırır.",
+       "sayfa": 246
+      },
+      {
+       "id": "2.3.1-08",
+       "tur": "eslestir",
+       "yonerge": "Suda az çözünen tuzları kullanım alanları ya da oluşumlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "CaSO₄·2H₂O",
+         "Jips (alçı taşı)"
+        ],
+        [
+         "Ag₂SO₄",
+         "Süs eşyalarının gümüşle kaplanması"
+        ],
+        [
+         "CaCO₃",
+         "Mağaralardaki sarkıt ve dikitler"
+        ],
+        [
+         "AgCl",
+         "Işığa duyarlı olduğu için fotoğrafçılık"
+        ]
+       ],
+       "bilgi": "Sarkıt ve dikitler kireç taşının çözünme-çökelme tepkimeleri sonucunda oluşur.",
+       "sayfa": 248
+      }
+     ]
+    },
+    {
+     "no": "2.3.2",
+     "ad": "Suda Az Çözünen Tuzların Çözünürlüğüne Etki Eden Faktörler",
+     "kartlar": [
+      {
+       "id": "2.3.2-01",
+       "tur": "bosluk",
+       "cumle": "Suda az çözünen tuzların çözünürlüğünü etkileyen iki önemli faktör sıcaklık ve ___ etkisidir.",
+       "cevap": "ortak iyon",
+       "celdiriciler": [
+        "katalizör",
+        "basınç",
+        "temas yüzeyi"
+       ],
+       "bilgi": "Bu faktörlerin çözünürlüğe etkisi Le Chatelier ilkesiyle açıklanır.",
+       "sayfa": 256
+      },
+      {
+       "id": "2.3.2-02",
+       "tur": "dy",
+       "ifade": "Çözünmesi endotermik olan BaSO₄ tuzunun çözünürlüğü sıcaklık arttıkça azalır.",
+       "dogru": false,
+       "bilgi": "Endotermik çözünmede sıcaklık artınca denge çözünme yönüne kayar; BaSO₄'ün çözünürlüğü ve Kçç değeri artar.",
+       "sayfa": 256
+      },
+      {
+       "id": "2.3.2-03",
+       "tur": "secmeli",
+       "soru": "Çözünmesi ekzotermik olan Li₂CO₃ tuzunun doygun çözeltisinde sıcaklık artırılırsa ne olur?",
+       "secenekler": [
+        "Çözünürlük ve Kçç artar",
+        "Çözünürlük azalır, Kçç değişmez",
+        "Çözünürlük ve Kçç azalır",
+        "Çözünürlük artar, Kçç azalır"
+       ],
+       "dogru": 2,
+       "bilgi": "Ekzotermik çözünmede sıcaklık artınca denge çökelme yönüne ilerler ve iyon derişimleri azalır.",
+       "sayfa": 257
+      },
+      {
+       "id": "2.3.2-04",
+       "tur": "dy",
+       "ifade": "Suda az çözünen bir tuzun doygun çözeltisine ortak iyon eklenirse tuzun çözünürlüğü azalır ancak Kçç değeri değişmez.",
+       "dogru": true,
+       "bilgi": "Sistem derişimi artan iyonu azaltmak için çökelme yönüne ilerler; sıcaklık değişmediği için Kçç sabit kalır.",
+       "sayfa": 257
+      },
+      {
+       "id": "2.3.2-05",
+       "tur": "secmeli",
+       "soru": "Doygun AgCl çözeltisine NaCl katısı eklenirse yeni denge kurulduğunda hangisi gerçekleşir?",
+       "secenekler": [
+        "[Ag⁺] azalır ve AgCl katısı artar",
+        "[Ag⁺] artar ve AgCl katısı azalır",
+        "Kçç değeri büyür",
+        "Hiçbir değişiklik olmaz"
+       ],
+       "dogru": 0,
+       "bilgi": "Cl⁻ derişimi artınca Cl⁻ iyonlarının bir kısmı Ag⁺ ile birleşerek AgCl katısını oluşturur; ilk dengeye göre [Cl⁻] artar.",
+       "sayfa": 257
+      },
+      {
+       "id": "2.3.2-06",
+       "tur": "secmeli",
+       "soru": "Böbrek taşları genellikle hangi tuzun çökmesiyle oluşur?",
+       "secenekler": [
+        "Sodyum klorür",
+        "Baryum sülfat",
+        "Gümüş klorür",
+        "Kalsiyum oksalat"
+       ],
+       "dogru": 3,
+       "bilgi": "İdrarda Ca²⁺ ve C₂O₄²⁻ derişimleri artınca ortak iyon etkisiyle CaC₂O₄ çöker; oksalatlı besinleri azaltmak ve bol su içmek riski düşürür.",
+       "sayfa": 257
+      },
+      {
+       "id": "2.3.2-07",
+       "tur": "secmeli",
+       "soru": "Peynir üretiminde süt proteinlerini (kazein) birbirine bağlayarak pıhtılaşmasını sağlayan iyon hangisidir?",
+       "secenekler": [
+        "Na⁺",
+        "Ca²⁺",
+        "K⁺",
+        "Cl⁻"
+       ],
+       "dogru": 1,
+       "bilgi": "Süte kalsiyum iyonu içeren tuz eklenirse proteinlerin çökelme hızı artar ve daha kısa sürede daha sert peynir elde edilir.",
+       "sayfa": 253
+      },
+      {
+       "id": "2.3.2-08",
+       "tur": "eslestir",
+       "yonerge": "Çözünmesi endotermik olan bir tuzun doygun çözeltisine yapılan etkileri sonuçlarıyla eşleştir.",
+       "ciftler": [
+        [
+         "Sıcaklığı artırmak",
+         "Çözünürlük ve Kçç artar"
+        ],
+        [
+         "Sıcaklığı azaltmak",
+         "Çözünürlük ve Kçç azalır"
+        ],
+        [
+         "Ortak iyon eklemek",
+         "Çözünürlük azalır, Kçç değişmez"
+        ]
+       ],
+       "bilgi": "Le Chatelier ilkesine göre çözünürlük dengesi, yapılan etkiyi azaltacak yönde kayar.",
+       "sayfa": 256
+      },
+      {
+       "id": "2.3.2-09",
+       "tur": "dy",
+       "ifade": "Tuzların büyük bir kısmının sudaki çözünürlüğü sıcaklık arttıkça artar.",
+       "dogru": true,
+       "bilgi": "Bazı tuzların çözünürlüğü ise sıcaklıkla azalır; bu durum tuzun çözünmesinin endotermik ya da ekzotermik olmasına bağlıdır.",
+       "sayfa": 256
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "ad": "Sürdürülebilirlik",
+   "konular": [
+    {
+     "no": "3.1.1",
+     "ad": "Yeşil Hidrojen Enerjisi",
+     "kartlar": [
+      {
+       "id": "3.1.1-01",
+       "tur": "bosluk",
+       "cumle": "Güneş, rüzgâr ve evsel atık gibi yenilenebilir kaynaklar kullanılarak üretilen hidrojen enerjisine ___ hidrojen enerjisi denir.",
+       "cevap": "yeşil",
+       "celdiriciler": [
+        "gri",
+        "mavi",
+        "kahverengi"
+       ],
+       "bilgi": "Hidrojen gazı yandığında yüksek miktarda enerji açığa çıkar ve ürün olarak yalnızca su buharı oluşur.",
+       "sayfa": 285
+      },
+      {
+       "id": "3.1.1-02",
+       "tur": "eslestir",
+       "yonerge": "Hidrojen gazının renk kodlarını üretim yöntemleriyle eşleştir.",
+       "ciftler": [
+        [
+         "Gri hidrojen",
+         "Doğal gazdan buhar reformasyonu, CO₂ doğaya salınır"
+        ],
+        [
+         "Mavi hidrojen",
+         "Buhar reformasyonu, CO₂'nin çoğu yakalanıp yer altında depolanır"
+        ],
+        [
+         "Turkuaz hidrojen",
+         "Doğal gazdan piroliz, CO₂ katı karbona dönüştürülür"
+        ],
+        [
+         "Kahverengi hidrojen",
+         "Kömürden gazlaştırma yöntemiyle üretim"
+        ],
+        [
+         "Pembe hidrojen",
+         "Nükleer enerjiyle suyun elektrolizi"
+        ]
+       ],
+       "bilgi": "Yenilenebilir kaynaklarla üretilen yeşil hidrojenin hem üretimi hem kullanımı diğer yöntemlere göre çevreye çok daha az zarar verir.",
+       "sayfa": 290
+      },
+      {
+       "id": "3.1.1-03",
+       "tur": "secmeli",
+       "soru": "Şehir enerji şebekesinden sağlanan elektrikle suyun elektroliz edilmesiyle elde edilen hidrojen hangi renk koduyla anılır?",
+       "secenekler": [
+        "Yeşil",
+        "Sarı",
+        "Gri",
+        "Turkuaz"
+       ],
+       "dogru": 1,
+       "bilgi": "Sarı hidrojen üretiminde şebekenin enerji üretim yöntemine bağlı olarak CO₂ ve diğer sera gazları salınabilir.",
+       "sayfa": 290
+      },
+      {
+       "id": "3.1.1-04",
+       "tur": "secmeli",
+       "soru": "Işık gerektirmediği ve sürekli üretime elverişli olduğu için atıklardan hidrojen üretiminde en sık kullanılan biyolojik yöntem hangisidir?",
+       "secenekler": [
+        "Biyofotoliz",
+        "Fotofermantasyon",
+        "Karanlık fermantasyon",
+        "Doğal gazın buhar reformasyonu"
+       ],
+       "dogru": 2,
+       "bilgi": "Karanlık fermantasyonda anaerobik bakteriler karanlık, oksijensiz ve sulu ortamda organik bileşikleri ayrıştırarak hidrojen üretir.",
+       "sayfa": 291
+      },
+      {
+       "id": "3.1.1-05",
+       "tur": "secmeli",
+       "soru": "Biyofotoliz yönteminde güneş ışığını kullanarak suyu hidrojen ve oksijene ayrıştıran canlılar hangileridir?",
+       "secenekler": [
+        "Siyanobakteriler ve mikroalgler",
+        "Anaerobik bakteriler",
+        "Mayalar ve küfler",
+        "Fotosentetik olmayan protistler"
+       ],
+       "dogru": 0,
+       "bilgi": "Fotofermantasyonda ise fotosentetik bakteriler organik bileşikleri oksijensiz ortamda ve ışık yardımıyla H₂ ve CO₂'ye ayrıştırır.",
+       "sayfa": 291
+      },
+      {
+       "id": "3.1.1-06",
+       "tur": "dy",
+       "ifade": "Biyofotoliz ve fotofermantasyon yöntemleri ışık gerektirmediği için geceleri de yüksek verimle hidrojen üretir.",
+       "dogru": false,
+       "bilgi": "Biyofotoliz ve fotofermantasyon ışık gerektirir; geceleri ve bulutlu günlerde verimleri çok azaldığından pek tercih edilmez.",
+       "sayfa": 291
+      },
+      {
+       "id": "3.1.1-07",
+       "tur": "secmeli",
+       "soru": "Fermantasyonla hidrojen üretiminde en yüksek verim hangi içerikteki atıklardan elde edilmiştir?",
+       "secenekler": [
+        "Yağ içerikli atıklar",
+        "Protein içerikli atıklar",
+        "Karbonhidrat içerikli atıklar"
+       ],
+       "dogru": 2,
+       "bilgi": "Nişasta, selüloz, glikoz, sükroz ve maltoz içeren atıklarla yapılan çalışmalarda en yüksek verim sükroz içeren atıklardan alınmıştır.",
+       "sayfa": 291
+      },
+      {
+       "id": "3.1.1-08",
+       "tur": "dy",
+       "ifade": "Fermantasyon ortamında hidrojen gazının kısmi basıncı arttıkça hidrojen üretim verimi azalır.",
+       "dogru": true,
+       "bilgi": "Hidrojen tüketen mikroorganizmalar etkinleştiği için üretilen H₂ ortamdan uzaklaştırılmalı ya da ortama azot, argon gibi gazlar eklenmelidir.",
+       "sayfa": 293
+      },
+      {
+       "id": "3.1.1-09",
+       "tur": "bosluk",
+       "cumle": "Hidrojen üreten mikroorganizmaların büyümesi için ___ ve fosfor elementleri önemli besin maddeleridir.",
+       "cevap": "azot",
+       "celdiriciler": [
+        "kükürt",
+        "kurşun",
+        "klor"
+       ],
+       "bilgi": "Az miktarda Na, Mg, Zn, Fe iyonları üretimi artırırken Cu, Ni, Pb gibi ağır metaller hidrojen üreten mikroorganizmaları öldürür.",
+       "sayfa": 293
+      },
+      {
+       "id": "3.1.1-10",
+       "tur": "dy",
+       "ifade": "Atıklardan biyogaz üretimi, kullanım sırasında karbon salınımına yol açtığı için tam anlamıyla çevre dostu kabul edilmez.",
+       "dogru": true,
+       "bilgi": "Kullanım sırasında yalnızca su buharı oluşturan hidrojen enerjisi bu nedenle giderek önem kazanmaktadır.",
+       "sayfa": 289
+      }
+     ]
+    },
+    {
+     "no": "3.1.2",
+     "ad": "Nanoteknolojik Ürünlerin Potansiyel Faydaları ve Olası Zararları",
+     "kartlar": [
+      {
+       "id": "3.1.2-01",
+       "tur": "bosluk",
+       "cumle": "Atomların, moleküllerin ve nano boyuttaki atom ya da molekül topluluklarının düzenlenerek ham madde olarak kullanılmasına ___ denir.",
+       "cevap": "nanoteknoloji",
+       "celdiriciler": [
+        "biyoteknoloji",
+        "metalurji",
+        "polimerleşme"
+       ],
+       "bilgi": "Nanoteknoloji dayanıklılık, hafiflik ve esneklik gibi üstün özelliklere sahip ürünlerin üretilmesine imkân sağlar.",
+       "sayfa": 301
+      },
+      {
+       "id": "3.1.2-02",
+       "tur": "secmeli",
+       "soru": "Grafitten elde edilen, çelikten 200 kat güçlü, esnek ve şeffaf iki boyutlu nanoteknolojik malzeme hangisidir?",
+       "secenekler": [
+        "Asbest",
+        "Silika",
+        "Grafen",
+        "Elmas"
+       ],
+       "dogru": 2,
+       "bilgi": "Grafen birçok sıvıyı, gazı ve zararlı kimyasalı geçirmediği için araç kaplamalarında boyayı ve metalleri korumak amacıyla kullanılır.",
+       "sayfa": 296
+      },
+      {
+       "id": "3.1.2-03",
+       "tur": "bosluk",
+       "cumle": "Nano boyuttaki olayları algılayıp algıladığı bilgiyi sinyale dönüştüren cihazlara ___ denir.",
+       "cevap": "nanosensör",
+       "celdiriciler": [
+        "nanokamera",
+        "elektrolizör",
+        "kondüktometre"
+       ],
+       "bilgi": "Nanosensörler gıdalardaki patojenlerin ve türlerinin hızla tespit edilmesinde ve gıda kaynaklı hastalıkların teşhisinde kullanılır.",
+       "sayfa": 297
+      },
+      {
+       "id": "3.1.2-04",
+       "tur": "secmeli",
+       "soru": "Sağlık alanındaki akıllı ilaç çalışmalarının temel amacı nedir?",
+       "secenekler": [
+        "İlacın etkisini tüm vücuda eşit olarak yaymak",
+        "İlacın vücutta belirlenen hedefe ulaşmasını sağlamak",
+        "İlacın vücuttan atılmasını mümkün olduğunca geciktirmek",
+        "İlacın üretim maliyetini artırmak"
+       ],
+       "dogru": 1,
+       "bilgi": "Hedefe yönelik akıllı ilaçlarla daha etkili tedavi uygulanabilir ve ilacın yan etkileri azaltılabilir.",
+       "sayfa": 301
+      },
+      {
+       "id": "3.1.2-05",
+       "tur": "dy",
+       "ifade": "Nanoteknolojik ürünlerin insan sağlığına ve çevreye olası zararları bugün tamamen bilinmektedir.",
+       "dogru": false,
+       "bilgi": "Nanoparçacıkların çevre ve sağlık üzerindeki etkileri tam olarak bilinmemektedir; anlaşılması için yıllar sürecek çalışmalar gerekir.",
+       "sayfa": 301
+      },
+      {
+       "id": "3.1.2-06",
+       "tur": "eslestir",
+       "yonerge": "Nanoteknolojinin kullanıldığı alanları örnek uygulamalarla eşleştir.",
+       "ciftler": [
+        [
+         "Gıda",
+         "Oksijen ve nem geçişini engelleyen ambalajlar"
+        ],
+        [
+         "Tarım",
+         "Az miktarda kullanılıp güçlü etki gösteren gübreler"
+        ],
+        [
+         "Sağlık",
+         "MRI ve CT görüntü kalitesinin artırılması"
+        ],
+        [
+         "Teknoloji",
+         "Pil ve bataryaların depolama kapasitesinin artırılması"
+        ]
+       ],
+       "bilgi": "Nanomalzemeler güneş panellerinde verimliliği artırırken, suyun toprakta daha uzun kalmasını sağlayarak su tasarrufuna da katkı sunar.",
+       "sayfa": 301
+      },
+      {
+       "id": "3.1.2-07",
+       "tur": "secmeli",
+       "soru": "Isıya ve kimyasallara dayanıklı lifli yapısı nedeniyle uzun yıllar kullanılan ancak solunduğunda mezotelyomaya yol açtığı anlaşılan mineral hangisidir?",
+       "secenekler": [
+        "Grafen",
+        "Jips",
+        "Kuvars",
+        "Asbest"
+       ],
+       "dogru": 3,
+       "bilgi": "Asbest lifleri asbestöz, mezotelyoma ve akciğer kanserine yol açtığı için Türkiye dâhil birçok ülkede yasaklanmıştır.",
+       "sayfa": 302
+      },
+      {
+       "id": "3.1.2-08",
+       "tur": "dy",
+       "ifade": "Sulara karışan nanoparçacıklar su canlılarının vücudunda birikerek besin zinciri yoluyla insanlara ulaşabilir.",
+       "dogru": true,
+       "bilgi": "Nanoparçacıklar su canlılarında sinir sistemi ve üreme bozukluklarına yol açar, solungaçlara takılarak solunumu olumsuz etkiler.",
+       "sayfa": 302
+      }
+     ]
+    },
+    {
+     "no": "3.1.3",
+     "ad": "Mikroplastik ve Nanoplastikler",
+     "kartlar": [
+      {
+       "id": "3.1.3-01",
+       "tur": "secmeli",
+       "soru": "Mikroplastikler hangi boyut aralığındaki plastik parçacıkları olarak tanımlanır?",
+       "secenekler": [
+        "100 nanometreden küçük",
+        "1 mikrometreden büyük, 5 milimetreden küçük",
+        "1 nanometreden büyük, 100 nanometreden küçük",
+        "5 milimetreden büyük, 1 metreden küçük"
+       ],
+       "dogru": 1,
+       "bilgi": "Nanoplastikler ise genellikle 100 nanometreden küçük plastik parçacıklarıdır (1 mikrometre = 10⁻⁶ m, 1 nanometre = 10⁻⁹ m).",
+       "sayfa": 306
+      },
+      {
+       "id": "3.1.3-02",
+       "tur": "bosluk",
+       "cumle": "Esas olarak mikroplastiklerin zamanla parçalanmasıyla oluşan, genellikle 100 nanometreden küçük plastik parçacıklarına ___ denir.",
+       "cevap": "nanoplastik",
+       "celdiriciler": [
+        "mikrofiber",
+        "mikro boncuk",
+        "nanosensör"
+       ],
+       "bilgi": "Plastik parçacıkları dalgalar, güneş ışığı, sıcaklık değişiklikleri ve kimyasal tepkimelerle küçülerek nanometre boyutuna ulaşır.",
+       "sayfa": 307
+      },
+      {
+       "id": "3.1.3-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi ikincil mikroplastik kaynağına örnektir?",
+       "secenekler": [
+        "Kozmetiklerdeki mikro boncuklar",
+        "Sentetik kumaşlardan çıkan mikrofiberler",
+        "Endüstriyel polimer parçacıkları",
+        "Plastik şişe ve poşetlerin parçalanması"
+       ],
+       "dogru": 3,
+       "bilgi": "Doğrudan küçük boyutta üretilen plastikler birincil, büyük plastik atıkların parçalanmasıyla oluşanlar ikincil mikroplastiklerdir.",
+       "sayfa": 307
+      },
+      {
+       "id": "3.1.3-04",
+       "tur": "dy",
+       "ifade": "Mikroplastikler suda çözünebilen sentetik parçacıklardır.",
+       "dogru": false,
+       "bilgi": "Mikroplastikler suda çözünmeyen sentetik katı parçacıklar ve polimer maddelerdir; denizlerde, göllerde ve toprakta yaygın bulunur.",
+       "sayfa": 307
+      },
+      {
+       "id": "3.1.3-05",
+       "tur": "bosluk",
+       "cumle": "Doğaya karışan plastiklerin UV ışınları, sıcaklık, asidite ve mikrobiyal bozulma gibi etmenlerle küçük parçalara ayrılmasına ___ kirliliği denir.",
+       "cevap": "mikroplastik",
+       "celdiriciler": [
+        "termal",
+        "radyoaktif",
+        "organik"
+       ],
+       "bilgi": "Mikroplastik kirliliğini önlemek için geri dönüşüm teşvik edilmeli, çevresel temizlik yapılmalı ve atık sular arıtılmalıdır.",
+       "sayfa": 307
+      },
+      {
+       "id": "3.1.3-06",
+       "tur": "dy",
+       "ifade": "Nanoplastikler biyolojik sistemlere mikroplastiklerden daha kolay nüfuz edebilir.",
+       "dogru": true,
+       "bilgi": "Bu nedenle nanoplastikler özellikle su canlıları üzerinde olumsuz etkilere neden olabilir.",
+       "sayfa": 307
+      },
+      {
+       "id": "3.1.3-07",
+       "tur": "secmeli",
+       "soru": "Bazı nanoplastiklerin sağlık alanındaki faydası hangisidir?",
+       "secenekler": [
+        "Bağışıklık sistemini kalıcı olarak güçlendirmeleri",
+        "Vücuttaki toksinleri kendiliğinden temizlemeleri",
+        "İlacı doğrudan hastalıklı hücrelere taşımaları",
+        "Kan şekerini düzenlemeleri"
+       ],
+       "dogru": 2,
+       "bilgi": "Hastalıklı hücreleri tanıyan moleküllerle kaplanan nanoplastikler ilacı yalnızca hedef hücrelerde salarak yan etkileri azaltır.",
+       "sayfa": 307
+      },
+      {
+       "id": "3.1.3-08",
+       "tur": "eslestir",
+       "yonerge": "Mikroplastik ve nanoplastiklerin kullanıldığı alanları örneklerle eşleştir.",
+       "ciftler": [
+        [
+         "Kozmetik",
+         "Cilt temizleme ürünlerinde mikro boncuklar"
+        ],
+        [
+         "Enerji",
+         "Rüzgâr türbini ve güneş paneli üretimi"
+        ],
+        [
+         "Gıda",
+         "Raf ömrünü uzatan plastik ambalajlar"
+        ],
+        [
+         "Malzeme bilimi",
+         "Leke tutmayan kumaş ve şarj edilebilir piller"
+        ]
+       ],
+       "bilgi": "Kozmetiklerdeki mikroplastikler çevreye salınmanın yanında cilt gözeneklerini tıkayabilir ve tahrişe yol açabilir.",
+       "sayfa": 309
+      },
+      {
+       "id": "3.1.3-09",
+       "tur": "dy",
+       "ifade": "Mikroplastik ve nanoplastiklerin canlı vücudunda birikme potansiyeli yoktur.",
+       "dogru": false,
+       "bilgi": "Bu parçacıklar vücutta birikebilir; solunum ve sindirim sistemini tıkayabilir, doku hasarına ve bağışıklığın zayıflamasına yol açabilir.",
+       "sayfa": 308
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
