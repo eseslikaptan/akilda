@@ -16,6 +16,8 @@ interface KartOrtak {
   id: string;
   bilgi: string;
   sayfa: number;
+  /** Yalnızca çıkmış soru kartlarında: bilginin sorulduğu sınav, ör. "2023-TYT" */
+  yil?: string;
 }
 
 export interface SecmeliKart extends KartOrtak {
@@ -50,6 +52,10 @@ export interface KonuJson {
   no: string;
   ad: string;
   kartlar: Kart[];
+  /** Çıkmış soru kaynaklarında: 2018-2026 arasında bu konudan sorulan soru sayısı */
+  soruSayisi?: number;
+  /** Çıkmış soru kaynaklarında: bu konuya karşılık gelen ders kitabı konuları ("tarih-9/1.2") */
+  eslesen?: string[];
 }
 
 export interface UniteJson {
@@ -60,8 +66,13 @@ export interface UniteJson {
 
 export interface KitapJson {
   kitap: string;
+  /** "cikmis": ÖSYM çıkmış sorularından (MEB derlemesi) çıkarılmış bilgiler */
+  tip?: "cikmis";
   ders: DersKey;
-  sinif: number;
+  /** Ders kitaplarında sınıf; çıkmış soru kaynaklarında yok */
+  sinif?: number;
+  sinav?: "TYT" | "AYT";
+  testUrl?: string;
   baslik: string;
   sayfaUrl: string;
   pdfUrl: string;
@@ -88,6 +99,13 @@ export interface Konu {
   kursId: string; // "tyt-tarih"
   uniteSira: number; // YKS dersi içinde kesintisiz ünite numarası
   konuSira: number; // ünite içindeki sıra (1'den)
+  /** Çıkmış soru konusu mu (MEB'in YKS çıkmış soru kitabındaki bir başlık) */
+  cikmis?: boolean;
+  /** Çıkmış konu: 2018-2026 arasında bu başlıktan sorulan soru sayısı */
+  soruSayisi?: number;
+  /** Ders kitabı konusu: eşleşen çıkmış başlıklardaki toplam soru sayısı ve o başlıkların kimlikleri */
+  osymSoru?: number;
+  osymKonular?: string[];
 }
 
 export interface KursUnite {
@@ -105,6 +123,10 @@ export interface Kurs {
   uniteler: KursUnite[];
   konular: Konu[];
   kartlar: KartRef[];
+  /** ÖSYM çıkmış sorularından çıkarılmış bilgiler (MEB derlemesi, 2018-2026) */
+  cikmis: Konu[];
+  cikmisKitap?: KitapJson;
+  cikmisSoru: number;
 }
 
 // ---- İlerleme (localStorage) ----

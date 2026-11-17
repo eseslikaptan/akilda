@@ -6,7 +6,8 @@ import { alanBilgi, alandaMi } from "./kurslar";
 export type OturumTipi =
   | { tip: "konu"; konuId: string }
   | { tip: "tekrar"; kurs?: string }
-  | { tip: "karisik"; kurs?: string };
+  | { tip: "karisik"; kurs?: string }
+  | { tip: "cikmis"; kurs?: string };
 
 const KONU_KART = 10;
 const TEKRAR_KART = 15;
@@ -60,6 +61,17 @@ export function oturumKartlari(d: Dizin, p: Ilerleme, o: OturumTipi): KartRef[] 
     return araya(secilen, tekrar);
   }
   if (o.tip === "tekrar") return karistir(vadeliKartlar(d, p, o.kurs).slice(0, TEKRAR_KART));
+
+  if (o.tip === "cikmis") {
+    // ÖSYM'de çıkan bilgiler: önce hiç görülmeyenler ya da zayıflar, en çok soru çıkan başlıklardan
+    const havuz = aktifKurslar(d, p, o.kurs)
+      .flatMap((k) => k.cikmis)
+      .sort((a, b) => (b.soruSayisi ?? 0) - (a.soruSayisi ?? 0))
+      .flatMap((k) => k.kartlar);
+    const yeni = havuz.filter((k) => !p.kartlar[k.uid]);
+    const zayif = havuz.filter((k) => p.kartlar[k.uid]).sort((a, b) => hatirlama(p.kartlar[a.uid]) - hatirlama(p.kartlar[b.uid]));
+    return karistir([...karistir(yeni.slice(0, 40)).slice(0, 8), ...zayif.slice(0, 4)]).slice(0, KARISIK_KART);
+  }
 
   const havuz = aktifKurslar(d, p, o.kurs).flatMap((k) => k.kartlar);
   const gorulen = havuz.filter((k) => p.kartlar[k.uid]);

@@ -23,6 +23,7 @@ export function Bugun({ dizin }: { dizin: Dizin }) {
   const vadeli = vadeliKartlar(dizin, p);
   const sonraki = siradakiKonu(dizin, p);
   const kurslar = aktifKurslar(dizin, p);
+  const cikmisSoru = kurslar.reduce((t, k) => t + (k.cikmis.some((c) => c.kartlar.length) ? k.cikmisSoru : 0), 0);
   const gorulenToplam = Object.keys(p.kartlar).length;
 
   return (
@@ -88,6 +89,20 @@ export function Bugun({ dizin }: { dizin: Dizin }) {
             <span className="dugme birincil kucuk">Başla</span>
           </button>
         </section>
+      )}
+
+      {cikmisSoru > 0 && (
+        <button className="osym-kisayol" onClick={() => git("/oturum?cikmis=1")}>
+          <span className="osym-sayi kucuk">
+            <strong>{cikmisSoru}</strong>
+            <span>soru</span>
+          </span>
+          <span className="tekrar-metin">
+            <strong>ÖSYM'de çıkan bilgiler</strong>
+            <span className="soluk-metin">2018–2026 YKS'de sorulan bilgilerden 12 soruluk tur</span>
+          </span>
+          <Ikon d={IKON.ileri} />
+        </button>
       )}
 
       <section>

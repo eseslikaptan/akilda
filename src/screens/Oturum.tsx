@@ -178,6 +178,7 @@ export function Oturum({ dizin, tip }: { dizin: Dizin; tip: OturumTipi }) {
           <span className="soru-etiket">{soruEtiketi(kart)}</span>
           {adim.tekrar && <span className="rozet uyari">Tekrar</span>}
           {!adim.tekrar && !p.kartlar[adim.ref.uid] && !cevap && <span className="rozet yeni">Yeni bilgi</span>}
+          {kart.yil && <span className="yil-rozet">{kart.yil.replace("-", " ")}</span>}
         </div>
         <SoruGovdesi kart={kart} cevap={cevap} onCevap={cevapla} />
         <p className="soru-kaynak">
@@ -201,7 +202,9 @@ export function Oturum({ dizin, tip }: { dizin: Dizin; tip: OturumTipi }) {
           </div>
           <p className="gb-bilgi">{kart.bilgi}</p>
           <a className="gb-kaynak" href={kaynakLinki(adim.ref.kitap, kart.sayfa)} target="_blank" rel="noreferrer" title={adim.ref.kitap.baslik}>
-            Kaynak: MEB {ders.ad} ders kitabı · s. {kart.sayfa}
+            {kart.yil
+              ? `Bu bilgi ${kart.yil.replace("-", " ")}'de soruldu · asıl soruyu gör (MEB, s. ${kart.sayfa})`
+              : `Kaynak: MEB ${ders.ad} ders kitabı · s. ${kart.sayfa}`}
             <Ikon d={IKON.dis} boyut={14} />
           </a>
           <button className="dugme birincil genis" onClick={devam} ref={(b) => b?.focus({ preventScroll: true })}>

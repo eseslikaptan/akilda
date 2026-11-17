@@ -36,7 +36,11 @@ for (const file of files) {
 
   if (data.kitap !== basename(file, ".json")) err("kitap", `dosya adıyla aynı olmalı (${basename(file, ".json")})`);
   if (!DERSLER.includes(data.ders)) err("ders", `geçersiz: ${data.ders}`);
-  if (![9, 10, 11, 12].includes(data.sinif)) err("sinif", `geçersiz: ${data.sinif}`);
+  const cikmis = data.tip === "cikmis";
+  if (cikmis) {
+    if (!["TYT", "AYT"].includes(data.sinav)) err("sinav", `TYT ya da AYT olmalı: ${data.sinav}`);
+    if (!isStr(data.testUrl) || !data.testUrl.startsWith("https://")) err("testUrl", "eksik");
+  } else if (![9, 10, 11, 12].includes(data.sinif)) err("sinif", `geçersiz: ${data.sinif}`);
   if (!isStr(data.baslik)) err("baslik", "eksik");
   if (!isStr(data.pdfUrl) || !data.pdfUrl.startsWith("https://")) err("pdfUrl", "eksik");
   if (!Array.isArray(data.uniteler) || data.uniteler.length === 0) err("uniteler", "boş");
@@ -55,7 +59,12 @@ for (const file of files) {
       const kw = `konu ${k.no}`;
       if (!isStr(k.no, 12)) err(kw, "no eksik");
       if (!isStr(k.ad, 140)) err(kw, "ad eksik");
-      if (!Array.isArray(k.kartlar) || k.kartlar.length < 3) err(kw, "en az 3 kart olmalı");
+      if (!Array.isArray(k.kartlar) || k.kartlar.length < (cikmis ? 1 : 3)) err(kw, `en az ${cikmis ? 1 : 3} kart olmalı`);
+      if (cikmis) {
+        if (!Number.isInteger(k.soruSayisi) || k.soruSayisi < 0) err(kw, "soruSayisi (bu konudaki çıkmış soru sayısı) tam sayı olmalı");
+        if (!Array.isArray(k.eslesen) || k.eslesen.some((x) => typeof x !== "string" || !/^[a-z]+-\d+\/[\d.]+$/.test(x)))
+          err(kw, "eslesen: ['tarih-9/1.2', ...] biçiminde konu kimlikleri listesi olmalı (boş olabilir)");
+      }
       for (const c of k.kartlar || []) {
         totalCards++;
         const cw = `kart ${c.id ?? "?"}`;
@@ -69,6 +78,7 @@ for (const file of files) {
         counts[c.tur]++;
         if (!isStr(c.bilgi, 260)) err(cw, "bilgi eksik veya çok uzun (≤ 260)");
         if (!Number.isInteger(c.sayfa) || c.sayfa < 1) err(cw, "sayfa pozitif tam sayı olmalı");
+        if (cikmis && !/^20\d\d-(TYT|AYT)$/.test(c.yil ?? "")) err(cw, 'yil "2023-TYT" biçiminde olmalı');
 
         let key = "";
         if (c.tur === "secmeli") {

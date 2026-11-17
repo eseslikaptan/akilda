@@ -42,8 +42,9 @@ export function alanBilgi(key: AlanKey | undefined): AlanBilgi {
  * Diğer derslerde ortak temel konular TYT'de, ileri konular AYT'de yer alır.
  */
 export function kitabinSinavi(kitap: KitapJson): Sinav {
+  if (kitap.sinav) return kitap.sinav; // çıkmış soru kaynakları sınavını kendisi söyler
   if (kitap.ders === "edebiyat") return "AYT";
-  return kitap.sinif <= 10 ? "TYT" : "AYT";
+  return (kitap.sinif ?? 9) <= 10 ? "TYT" : "AYT";
 }
 
 export function kursId(sinav: Sinav, ders: DersKey): string {

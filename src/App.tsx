@@ -40,7 +40,9 @@ export function App() {
       ? { tip: "konu", konuId: s.get("konu")! }
       : s.get("tekrar")
         ? { tip: "tekrar", kurs }
-        : { tip: "karisik", kurs };
+        : s.get("cikmis")
+          ? { tip: "cikmis", kurs }
+          : { tip: "karisik", kurs };
     // Aynı rotada yeni oturum açılınca bileşen sıfırdan kurulsun
     return <Oturum key={window.location.hash} dizin={dizin} tip={tip} />;
   }
