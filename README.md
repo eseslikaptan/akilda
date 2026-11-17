@@ -15,14 +15,18 @@ Konu anlatmaz, test kitabı da değildir. Okuduğun bilgiyi unutmak üzere oldu�
 - **ÖSYM'de çıkanlar:** 2018–2026 YKS'de sorulan bilgiler, MEB'in konu bazlı çıkmış soru kitaplarından çıkarılmış
   özgün kartlar. Her kartta yıl etiketi ve asıl sorunun MEB PDF'indeki sayfasına bağlantı; her konuda o konudan kaç
   soru çıktığı. ÖSYM'nin soru metinleri depoda yer almaz.
-- **Aralıklı tekrar:** Her bilginin hatırlanma olasılığı ayrı izlenir; %90'ın altına düşünce "Tekrar"a girer.
-  "Aslında tahmin ettim" ile şansla bilinen kart daha erken tekrar gelir.
+- **Aralıklı tekrar (FSRS):** Her bilginin kararlılığı ve zorluğu ayrı izlenir; hatırlama olasılığı %90'ın altına
+  düşünce "Tekrar"a girer. "Aslında tahmin ettim" ile şansla bilinen kart daha erken tekrar gelir.
+- **Ön test:** Yeni konuya isteğe bağlı 5 soruyla başlanır; bilinenler ileri tarihe atılır.
+- **Yazarak cevap:** Boşlukları yazarak doldurma (küçük yazım hatalarına toleranslı), çoktan seçmelide şıkları önce gizleme.
+- **Karıştırılanlar:** Birbirine benzeyen kavramlar (Mondros/Sevr, mitoz/mayoz…) art arda sorulur.
+- **Son tur:** Sınavdan önce her bilgiyi en az bir kez görmek için, en zayıf hatırlananlardan başlayan tur.
 - **YKS bilgi denemesi:** ÖSYM'nin ders dağılımında, süreli, boş bırakmalı; net = doğru − yanlış ÷ 4; ders ders net
   tablosu ve deneme geçmişi.
 - **Geri sayım ve tempo:** 2027 YKS'ye kalan gün ve her şeyi sınavdan 3 hafta önce bitirmek için günlük yeni bilgi hedefi.
 - **Yanlış defteri:** En çok zorlanılan bilgiler tek listede ve bunlardan oturum.
 - **Seri ve hedef:** Günlük XP hedefi, gün serisi, seri dondurma hakkı, 16 haftalık çalışma takvimi.
-- **Paylaşım:** Arkadaşa aynı sorularla meydan okuma bağlantısı; kartta hata bildirme.
+- **Paylaşım:** Arkadaşa aynı sorularla meydan okuma bağlantısı, paylaşılabilir haftalık karne görseli, kartta hata bildirme.
 - **Çevrimdışı çalışır (PWA):** Telefona kurulabilir. İlerleme yalnızca cihazda tutulur; yedek alınıp yüklenebilir,
   takvime günlük hatırlatma eklenebilir.
 
