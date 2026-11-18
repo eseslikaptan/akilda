@@ -1,7 +1,7 @@
 # Akılda
 
-**Okuduğun akılda kalsın.** YKS'ye hazırlanan öğrenciler için, MEB ders kitaplarındaki bilgileri kısa sorularla
-hatırlatan bir tekrar uygulaması.
+**Okuduğun akılda kalsın.** YKS'ye hazırlanan öğrenciler için, MEB ders kitaplarındaki bilgileri YKS tarzı
+sorularla hatırlatan bir tekrar uygulaması.
 
 Konu anlatmaz, test kitabı da değildir. Okuduğun bilgiyi unutmak üzere olduğun anda yeniden sorar
 (aralıklı tekrar), böylece bilgi kısa süreli hafızadan kalıcı hafızaya geçer.
@@ -11,14 +11,15 @@ Konu anlatmaz, test kitabı da değildir. Okuduğun bilgiyi unutmak üzere oldu�
 - **YKS düzeni:** Dersler TYT ve AYT olarak; her ders tek, kesintisiz bir konu yolu. Alan seçimi (SAY, EA, SÖZ,
   sadece TYT) hangi AYT derslerinin geleceğini belirler.
 - **Ders kitabına dayalı sorular:** Her soru MEB'in güncel ders kitaplarından hazırlanır ve bilginin geçtiği kitap
-  sayfasına bağlantı verir. Dört tür: çoktan seçmeli (A-E), doğru/yanlış, boşluk doldurma, eşleştirme.
+  sayfasına bağlantı verir. Tamamı YKS biçiminde, 5 şıklı: öncüllü (I, II, III), parça/durum yorumu, olumsuz kök,
+  sıralama ve eşleştirme, fizik/kimya/coğrafyada tablo ve grafikli sorular. Yazım kuralları: `docs/yks-soru-yazimi.md`.
 - **ÖSYM'de çıkanlar:** 2018–2026 YKS'de sorulan bilgiler, MEB'in konu bazlı çıkmış soru kitaplarından çıkarılmış
   özgün kartlar. Her kartta yıl etiketi ve asıl sorunun MEB PDF'indeki sayfasına bağlantı; her konuda o konudan kaç
   soru çıktığı. ÖSYM'nin soru metinleri depoda yer almaz.
 - **Aralıklı tekrar (FSRS):** Her bilginin kararlılığı ve zorluğu ayrı izlenir; hatırlama olasılığı %90'ın altına
   düşünce "Tekrar"a girer. "Aslında tahmin ettim" ile şansla bilinen kart daha erken tekrar gelir.
 - **Ön test:** Yeni konuya isteğe bağlı 5 soruyla başlanır; bilinenler ileri tarihe atılır.
-- **Yazarak cevap:** Boşlukları yazarak doldurma (küçük yazım hatalarına toleranslı), çoktan seçmelide şıkları önce gizleme.
+- **Şıkları gizle:** Klasik sorularda şıklar önce gizlenir; cevabı aklından bulup sonra seçersin.
 - **Karıştırılanlar:** Birbirine benzeyen kavramlar (Mondros/Sevr, mitoz/mayoz…) art arda sorulur.
 - **Son tur:** Sınavdan önce her bilgiyi en az bir kez görmek için, en zayıf hatırlananlardan başlayan tur.
 - **YKS bilgi denemesi:** ÖSYM'nin ders dağılımında, süreli, boş bırakmalı; net = doğru − yanlış ÷ 4; ders ders net

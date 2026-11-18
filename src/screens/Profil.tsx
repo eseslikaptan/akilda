@@ -239,8 +239,8 @@ export function Profil({ dizin }: { dizin: Dizin }) {
         </label>
         <label className="alan satir">
           <span>
-            Yazarak cevapla
-            <small className="soluk-metin ayar-aciklama">Boşlukları yaz; çoktan seçmelide önce aklından cevapla, sonra şıkları gör.</small>
+            Şıkları önce gizle
+            <small className="soluk-metin ayar-aciklama">Klasik sorularda önce cevabı aklından bul, sonra şıkları gör.</small>
           </span>
           <input type="checkbox" checked={p.ayarlar.yazarak} onChange={(e) => ayarlariGuncelle({ yazarak: e.target.checked })} />
         </label>

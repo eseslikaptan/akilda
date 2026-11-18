@@ -14,11 +14,11 @@ import { DERSLER } from "../subjects";
 import { SORU_SAYISI, net, netYaz } from "../yks";
 import type { Sinav } from "../kurslar";
 import { git } from "../router";
-import { HARFLER } from "../sorular";
+import { HARFLER, SoruMetni, sikSirasi } from "../sorular";
 import { Ikon, IKON } from "../ui";
 import { kursAdi } from "./Dersler";
 
-const SN_SORU = 75; // TYT: 165 dk / 120 soru ≈ 82 sn; bilgi soruları biraz daha kısa
+const SN_SORU = 82; // TYT: 165 dk / 120 soru ≈ 82 sn; sorular YKS biçiminde
 
 interface DenemeSoru {
   ref: KartRef;
@@ -36,7 +36,7 @@ export function denemeSorulari(d: Dizin, sinav: Sinav, olcek: number): DenemeSor
     const havuz = karistir(k.kartlar.filter((r) => r.kart.tur === "secmeli"));
     for (const ref of havuz.slice(0, adet)) {
       const kart = ref.kart as SecmeliKart;
-      sorular.push({ ref, ders: k.ders, secenekler: karistir(kart.secenekler), dogruMetin: kart.secenekler[kart.dogru] });
+      sorular.push({ ref, ders: k.ders, secenekler: sikSirasi(kart), dogruMetin: kart.secenekler[kart.dogru] });
     }
   }
   return sorular; // ders sırasıyla, gerçek kitapçıktaki gibi
@@ -183,7 +183,7 @@ export function Deneme({ dizin, sinav, olcek }: { dizin: Dizin; sinav: Sinav; ol
           </span>
           {kart.yil && <span className="yil-rozet">{kart.yil.replace("-", " ")}</span>}
         </div>
-        <p className="soru-metni">{kart.soru}</p>
+        <SoruMetni kart={kart} />
         <div className="secenekler">
           {s.secenekler.map((m, j) => (
             <button key={m} className={`secenek ${cevaplar[i] === m ? "isaretli" : ""}`} onClick={() => sec(cevaplar[i] === m ? null : m)}>
@@ -304,9 +304,7 @@ function DenemeSonuc({ sorular, cevaplar, sinav, dizin }: { sorular: DenemeSoru[
           <ul>
             {yanlislar.map(({ s, c }) => (
               <li key={s.ref.uid}>
-                <p>
-                  <strong>{(s.ref.kart as SecmeliKart).soru}</strong>
-                </p>
+                <SoruMetni kart={s.ref.kart as SecmeliKart} />
                 <p>
                   {c ? <span className="yanlis-metin">Senin cevabın: {c}</span> : <span className="soluk-metin">Boş bıraktın</span>}
                   <br />

@@ -23,56 +23,69 @@
      "kartlar": [
       {
        "id": "1.1-01",
-       "tur": "dy",
-       "ifade": "Engebeli alanlarda sıcaklık, yağış ve nem kısa mesafelerde değiştiğinden biyoçeşitlilik, düz alanlara göre genellikle daha zengindir.",
-       "dogru": true,
-       "bilgi": "Yükselti ve bakı farkları kısa mesafede farklı iklim koşulları ve yaşam ortamları oluşturduğu için engebeli alanlarda tür çeşitliliği artar.",
+       "tur": "secmeli",
+       "soru": "Türkiye'de yaklaşık 12 bin bitki türü bulunmakta ve bunların yaklaşık üçte birini endemik türler oluşturmaktadır. Türkiye bu yönüyle Avrupa ülkelerinin çoğundan daha zengin bir biyoçeşitliliğe sahiptir.\nTürkiye'nin biyoçeşitlilik bakımından zengin olmasında,",
+       "oncul": [
+        "farklı iklim tiplerinin görülmesi,",
+        "yükselti ve bakının kısa mesafelerde değişmesi,",
+        "Avrupa-Sibirya, Akdeniz ve İran-Turan flora bölgelerinin kesişiminde bulunması,",
+        "buzul çağlarında topraklarının tamamen buzullarla kaplanması"
+       ],
+       "kok": "durumlarından hangileri etkili olmuştur?",
+       "secenekler": [
+        "I ve II",
+        "I ve III",
+        "II ve IV",
+        "III ve IV",
+        "I, II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Farklı iklimler, engebeli arazide kısa mesafede değişen yükselti ve bakı ile üç flora bölgesinin kesişimi tür çeşitliliğini artırır. Buzul çağlarında Anadolu'nun büyük bölümü buzulla örtülmemiş, birçok türe sığınak olmuştur.",
        "sayfa": 111,
        "yil": "2020-AYT"
       },
       {
        "id": "1.1-02",
        "tur": "secmeli",
-       "soru": "Yıl boyunca sıcak ve nemli koşulların sürdüğü, kara ekosistemleri içinde tür çeşitliliğinin en fazla olduğu alan hangisidir?",
-       "secenekler": [
-        "Tundra",
-        "Tayga ormanları",
-        "Tropikal yağmur ormanları",
-        "Orta kuşak bozkırları"
+       "soru": "Tabloda K, L, M ve N alanlarının yıllık ortalama sıcaklık ve yağış değerleri verilmiştir.\nBu alanlardan biyoçeşitliliğin en fazla olduğu alandaki doğal bitki örtüsü ile en az olduğu alanda biyoçeşitliliği sınırlayan temel etken sırasıyla aşağıdakilerin hangisinde verilmiştir?",
+       "tablo": [
+        [
+         "Alan",
+         "Yıllık ort. sıcaklık (°C)",
+         "Yıllık yağış (mm)"
+        ],
+        [
+         "K",
+         "26",
+         "2.600"
+        ],
+        [
+         "L",
+         "24",
+         "60"
+        ],
+        [
+         "M",
+         "11",
+         "780"
+        ],
+        [
+         "N",
+         "17",
+         "620"
+        ]
        ],
-       "dogru": 2,
-       "bilgi": "Biyoçeşitlilik, sıcak ve nemli iklimin hâkim olduğu Ekvator çevresindeki tropikal yağmur ormanlarında en yüksektir.",
+       "secenekler": [
+        "Tropikal yağmur ormanı – Su yetersizliği",
+        "Tropikal yağmur ormanı – Kısa vejetasyon süresi",
+        "Savan – Su yetersizliği",
+        "Tayga – Düşük sıcaklık",
+        "Maki – Toprak yetersizliği"
+       ],
+       "dogru": 0,
+       "bilgi": "Biyoçeşitlilik, sıcaklık ve nemin yıl boyunca yüksek olduğu tropikal yağmur ormanlarında (K) en fazladır. Yağışın çok az olduğu L gibi çöllerde ise su yetersizliği bitki ve hayvan yaşamını sınırladığından tür çeşitliliği düşüktür.",
        "sayfa": 111,
        "yil": "2023-AYT"
-      },
-      {
-       "id": "1.1-03",
-       "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi biyoçeşitliliği etkileyen paleocoğrafik (jeolojik geçmişe ait) bir olaydır?",
-       "secenekler": [
-        "Göçmen kuşların tohumları uzak alanlara taşıması",
-        "Levha hareketleriyle kıtaların konumunun değişmesi",
-        "Bir bölgede yıllık yağış miktarının fazla olması",
-        "Arazinin engebeli olması nedeniyle mikroklimaların oluşması"
-       ],
-       "dogru": 1,
-       "bilgi": "Levha hareketleri ve buzul çağlarında deniz seviyesinin alçalmasıyla karaların genişlemesi, canlıların yayılışını değiştiren paleocoğrafik olaylardır.",
-       "sayfa": 111,
-       "yil": "2025-AYT"
-      },
-      {
-       "id": "1.1-04",
-       "tur": "bosluk",
-       "cumle": "Yıllık yağışın çok düşük olduğu ___ ekosistemlerinde su yetersizliği nedeniyle biyoçeşitlilik azdır.",
-       "cevap": "çöl",
-       "celdiriciler": [
-        "tropikal orman",
-        "mangrov",
-        "sulak alan"
-       ],
-       "bilgi": "Su ve nem biyoçeşitliliği belirleyen temel etkenlerdendir; yağışın çok az olduğu çöllerde tür sayısı düşüktür.",
-       "sayfa": 111,
-       "yil": "2026-AYT"
       }
      ]
     },
@@ -88,53 +101,58 @@
      "kartlar": [
       {
        "id": "1.2-01",
-       "tur": "dy",
-       "ifade": "Çöl ikliminin hâkim olduğu bir alanda yağışın uzun süre az olması ekstrem bir doğa olayı sayılır.",
-       "dogru": false,
-       "bilgi": "Bir olayın ekstrem sayılması o yerin olağan koşullarından sapmasına bağlıdır; kurak iklimli alanlarda yağış azlığı olağan bir durumdur.",
+       "tur": "secmeli",
+       "soru": "Bir doğa olayının ekstrem sayılıp sayılmayacağı, o yerin olağan (mevsim normali) koşullarından ne ölçüde saptığına göre değerlendirilir.\nBuna göre aşağıdaki durumlardan",
+       "oncul": [
+        "Sahra Çölü'nde yaz aylarında sıcaklığın 40 °C'yi aşması",
+        "Antalya kıyılarında ocak ayında yağan karın günlerce yerde kalması",
+        "Rize'de bir gün içinde 200 mm'den fazla yağış düşmesi",
+        "Doğu Sibirya'da ocak ayında sıcaklığın −30 °C'ye inmesi"
+       ],
+       "kok": "hangileri ekstrem doğa olayına örnektir?",
+       "secenekler": [
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+       ],
+       "dogru": 2,
+       "bilgi": "Çölde yaz sıcaklığının 40 °C'yi aşması ve Doğu Sibirya'da kışın −30 °C ölçülmesi bu yerlerin olağan koşullarıdır. Kışları ılık geçen Antalya kıyılarında kalıcı kar ve Rize'de bir günde 200 mm'yi aşan yağış ise ekstrem durumlardır.",
        "sayfa": 112,
        "yil": "2018-AYT"
       },
       {
        "id": "1.2-02",
-       "tur": "bosluk",
-       "cumle": "Depremlerin ve volkanik etkinliklerin en sık görüldüğü, Büyük Okyanus'u çevreleyen kuşağa ___ denir.",
-       "cevap": "Pasifik Ateş Çemberi",
-       "celdiriciler": [
-        "Alp-Himalaya Kuşağı",
-        "Orta Atlantik Sırtı",
-        "Doğu Afrika Yarığı"
+       "tur": "secmeli",
+       "soru": "Tropikal siklonlar, yüzey suyu sıcaklığının yaklaşık 26 °C'yi aştığı okyanuslar üzerinde oluşur ve kıyılara ulaştığında şiddetli rüzgâr, sağanak ve deniz kabarmalarına yol açar.\nTropikal siklonların aşağıdaki kıyıların hangisinde görülmesi beklenmez?",
+       "secenekler": [
+        "Karayip Denizi ve Meksika Körfezi kıyıları",
+        "Filipinler kıyıları",
+        "Bengal Körfezi kıyıları",
+        "Güney Çin kıyıları",
+        "Peru ve Şili kıyıları"
        ],
-       "bilgi": "Levha sınırları boyunca uzanan Pasifik Ateş Çemberi, dünyadaki deprem ve volkanların büyük bölümünün görüldüğü kuşaktır.",
-       "sayfa": 112,
-       "yil": "2019-AYT"
+       "dogru": 4,
+       "bilgi": "Tropikal siklonlar sıcak tropikal okyanuslar üzerinde oluşur. Peru ve Şili kıyıları soğuk Humboldt (Peru) akıntısının etkisinde olduğundan deniz suyu soğuktur ve bu kıyılarda tropikal siklon görülmez.",
+       "sayfa": 113,
+       "yil": "2023-AYT"
       },
       {
        "id": "1.2-03",
-       "tur": "dy",
-       "ifade": "Erozyon, volkanik faaliyetlerin doğrudan ortaya çıkardığı olaylardan biridir.",
-       "dogru": false,
-       "bilgi": "Volkanik faaliyetler doğrudan deprem, tsunami, heyelan ve göçe yol açabilir; erozyon ise volkanizmanın doğrudan sonucu sayılmaz.",
+       "tur": "secmeli",
+       "soru": "Levha sınırında yer alan Endonezya'daki Tambora Yanardağı 1815'te patlayarak atmosfere çok büyük miktarda kül ve gaz yaymıştır. Ertesi yıl Avrupa ve Kuzey Amerika'da yaz sıcaklıkları mevsim normallerinin çok altında seyretmiş, ürünler zarar görmüş ve 1816 yazsız yıl olarak anılmıştır.\nBu bilgilere göre aşağıdakilerden hangisine ulaşılabilir?",
+       "secenekler": [
+        "Volkanik patlamalar uzak alanlardaki iklim koşullarını da etkileyebilir.",
+        "Volkanik patlamalar yalnızca levhaların birbirinden uzaklaştığı yerlerde görülür.",
+        "Volkanik küller Güneş ışınlarının yeryüzüne ulaşmasını artırır.",
+        "1816'da Güney Yarım Küre'de yazlar mevsim normallerinden sıcak geçmiştir.",
+        "Ekstrem doğa olaylarının etkisi meydana geldiği ülkeyle sınırlı kalır."
+       ],
+       "dogru": 0,
+       "bilgi": "Endonezya, deprem ve volkanizmanın sık görüldüğü Pasifik Ateş Çemberi üzerindedir. Atmosfere yayılan kül ve gazlar Güneş ışınlarını engelleyerek binlerce kilometre uzakta sıcaklığı düşürmüş; volkanizmanın etkisi küresel ölçeğe ulaşmıştır.",
        "sayfa": 112,
        "yil": "2021-AYT"
-      },
-      {
-       "id": "1.2-04",
-       "tur": "dy",
-       "ifade": "Büyük bir gök taşının yer kabuğuna çarpması; krater oluşumu, dev tsunamiler, iklim değişikliği ve kitlesel yok oluşlara neden olabilir.",
-       "dogru": true,
-       "bilgi": "Gök taşı ve asteroit çarpmaları astronomik kökenli ekstrem olaylardır; Güneş'teki patlamalar ise bu çarpmaların sonucu değildir.",
-       "sayfa": 112,
-       "yil": "2022-AYT"
-      },
-      {
-       "id": "1.2-05",
-       "tur": "dy",
-       "ifade": "Tropikal siklonlar, yüzey suları soğuk olan yüksek enlem denizlerinde oluşur.",
-       "dogru": false,
-       "bilgi": "Tropikal siklonlar sıcak tropikal okyanus suları üzerinde oluşur; soğuk akıntıların etkisindeki kıyılarda ve kutup denizlerinde görülmez.",
-       "sayfa": 113,
-       "yil": "2023-AYT"
       }
      ]
     },
@@ -150,10 +168,49 @@
      "kartlar": [
       {
        "id": "1.3-01",
-       "tur": "dy",
-       "ifade": "Nüfus artış hızını azaltmaya yönelik politikaları başarıyla uygulayan bir ülkede zamanla genç nüfusun oranı yükselir.",
-       "dogru": false,
-       "bilgi": "Artış hızını azaltan politikalar doğum oranını düşürür ve zamanla genç nüfusun payını azaltır; artırıcı politikalarda ise genç nüfus oranı yükselir.",
+       "tur": "secmeli",
+       "soru": "Bir ülkede 1980'den itibaren nüfus artış hızını azaltmaya yönelik politikalar uygulanmıştır. Tabloda bu ülkeye ait bazı nüfus verileri verilmiştir.\nTabloya göre,",
+       "tablo": [
+        [
+         "Yıl",
+         "Doğum oranı (‰)",
+         "0-14 yaş (%)",
+         "65 ve üstü yaş (%)"
+        ],
+        [
+         "1980",
+         "32",
+         "38",
+         "4"
+        ],
+        [
+         "2000",
+         "21",
+         "30",
+         "6"
+        ],
+        [
+         "2020",
+         "13",
+         "19",
+         "11"
+        ]
+       ],
+       "oncul": [
+        "Doğum oranı 2000-2020 döneminde, 1980-2000 dönemindekinden daha fazla azalmıştır.",
+        "Genç nüfusun toplam nüfus içindeki oranı azalmıştır.",
+        "Bağımlı nüfus oranı her dönemde bir önceki döneme göre artmıştır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Doğum oranı ilk dönemde 11, ikinci dönemde 8 binde puan azalmıştır. Artış hızını azaltan politikalar genç nüfusun payını düşürür. Bağımlı nüfus (0-14 ve 65+) oranı %42'den %36'ya ve %30'a inmiştir.",
        "sayfa": 113,
        "yil": "2020-AYT"
       }
@@ -172,78 +229,55 @@
      "kartlar": [
       {
        "id": "1.4-01",
-       "tur": "bosluk",
-       "cumle": "New York, Londra ve Tokyo gibi sermayenin, bilginin ve hizmetlerin dünya ölçeğinde yönetildiği şehirlere ___ şehir denir.",
-       "cevap": "küresel",
-       "celdiriciler": [
-        "bölgesel",
-        "uydu",
-        "yerel"
+       "tur": "secmeli",
+       "soru": "Mezopotamya, Nil ve İndus boylarında sulama kanalları sayesinde verimli alüvyal topraklardan ihtiyaçtan fazla ürün elde edilmiş; bu ürün fazlası çevredeki topluluklarla değiş tokuş edilmeye başlanmıştır. Zamanla bu yerleşmelerin nüfusu artmış ve ilk şehirler ortaya çıkmıştır.\nBu bilgiler ilk şehirlerle ilgili aşağıdakilerden hangisini desteklemektedir?",
+       "secenekler": [
+        "Ürün fazlasının ticarete konu olması şehirleşmeyi hızlandırmıştır.",
+        "İlk şehirler maden yataklarının çevresinde kurulmuştur.",
+        "Şehirleşmede sanayi fonksiyonu tarımdan önce gelişmiştir.",
+        "İlk şehirler kurak ve su kaynaklarından uzak alanlarda kurulmuştur.",
+        "Şehirlerin nüfusu yalnızca doğal artışla yükselmiştir."
        ],
-       "bilgi": "Küresel şehirler sermaye dolaşımını yönlendirir; mal, hizmet, bilgi ve kültür alanında dünya ölçeğinde üretim ve dağıtım merkezidir.",
-       "sayfa": 113,
-       "yil": "2020-AYT"
-      },
-      {
-       "id": "1.4-02",
-       "tur": "bosluk",
-       "cumle": "Mezopotamya ve Mısır'daki ilk şehirlerde tarımsal üretim fazlasının el değiştirmesi, tarımdan sonra en çok ___ faaliyetlerinin gelişmesini sağlamıştır.",
-       "cevap": "ticaret",
-       "celdiriciler": [
-        "hayvancılık",
-        "ormancılık",
-        "denizcilik"
-       ],
-       "bilgi": "Verimli toprak, su ve ılıman iklim sayesinde tarımla doğan ilk şehirlerde üretim fazlasının değiş tokuşu ticareti geliştirmiş, şehir nüfusunu artırmıştır.",
+       "dogru": 0,
+       "bilgi": "İlk şehirler verimli toprak ve su kaynaklarının bulunduğu akarsu boylarında doğmuştur. Tarımsal üretim fazlasının el değiştirmesi ticareti geliştirmiş, ticaret de bu yerleşmelerin nüfusunu artırarak şehirleşmeyi hızlandırmıştır.",
        "sayfa": 114,
        "yil": "2021-AYT"
       },
       {
-       "id": "1.4-03",
-       "tur": "bosluk",
-       "cumle": "Türkiye'de idari yönden en küçük yerleşme birimi ___ kabul edilir.",
-       "cevap": "köy",
-       "celdiriciler": [
-        "mezra",
-        "oba",
-        "kom"
+       "id": "1.4-02",
+       "tur": "secmeli",
+       "soru": "Türkiye'deki kır yerleşmeleriyle ilgili,",
+       "oncul": [
+        "Yayla ve oba gibi yerleşmeler yıl boyunca kullanılan daimî yerleşmelerdir.",
+        "İdari bakımdan en küçük yerleşme birimi köydür.",
+        "Bazı yaylalar zamanla turizm amaçlı kullanılmaya başlanarak fonksiyon değiştirmiştir."
        ],
-       "bilgi": "Ekonomisi çoğunlukla tarım ve hayvancılığa dayanan, sosyal ilişkilerin güçlü olduğu köy, Türkiye'deki en küçük idari yerleşme birimidir.",
-       "sayfa": 114,
-       "yil": "2022-AYT"
-      },
-      {
-       "id": "1.4-04",
-       "tur": "dy",
-       "ifade": "Türkiye'deki kır yerleşmelerinin tamamı yıl boyunca kullanılan daimî yerleşmelerdir.",
-       "dogru": false,
-       "bilgi": "Yayla, oba ve ağıl gibi kır yerleşmeleri dönemlik kullanılır; kır yerleşmelerinin fonksiyonu zamanla değişebilir ve bazı köyler birden fazla birimden oluşur.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Türkiye'de en küçük idari yerleşme birimi köydür. Yayla, oba ve ağıl gibi köy altı yerleşmeler yılın belirli dönemlerinde kullanılır; Ayder ve Uzungöl gibi bazı yaylalar turizmle fonksiyon değiştirmiştir.",
        "sayfa": 114,
        "yil": "2023-AYT"
       },
       {
-       "id": "1.4-05",
-       "tur": "eslestir",
-       "yonerge": "Şehirleri, dinî açıdan öne çıkan özellikleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Mekke",
-         "Kâbe'nin bulunduğu, İslam'ın en kutsal şehri"
-        ],
-        [
-         "Lhasa",
-         "Tibet Budizminin merkezi"
-        ],
-        [
-         "Roma",
-         "Katolik dünyasının merkezi Vatikan'ı barındıran şehir"
-        ],
-        [
-         "Kudüs",
-         "Üç semavi din için kutsal sayılan şehir"
-        ]
+       "id": "1.4-03",
+       "tur": "secmeli",
+       "soru": "Bazı şehirler her yıl milyonlarca insanın inancı gereği ziyaret ettiği yerler olduğundan konaklama, ulaşım ve ticaret hizmetleri bu ziyaretlere bağlı olarak gelişmiştir.\nAşağıdaki şehirlerden hangisi bu duruma örnek olarak gösterilemez?",
+       "secenekler": [
+        "Mekke",
+        "Kudüs",
+        "Lhasa",
+        "Varanasi",
+        "Oslo"
        ],
-       "bilgi": "Mekke, Kudüs, Roma ve Lhasa milyonlarca insanın inancı gereği ziyaret ettiği dinî merkezlerdir; Kahire ise bu niteliğiyle öne çıkmaz.",
+       "dogru": 4,
+       "bilgi": "Mekke (İslam), Kudüs (üç semavi din), Lhasa (Tibet Budizmi) ve Ganj kıyısındaki Varanasi (Hinduizm) din fonksiyonuyla öne çıkan şehirlerdir. Oslo ise yönetim, ticaret ve sanayi fonksiyonlarıyla gelişmiş bir başkenttir.",
        "sayfa": 114,
        "yil": "2025-AYT"
       }
@@ -262,15 +296,48 @@
       {
        "id": "1.5-01",
        "tur": "secmeli",
-       "soru": "Doğal gaz rezervi ve üretimi yüksek olduğu için bu kaynağın dünya pazarında en etkili ülkelerinden biri hangisidir?",
-       "secenekler": [
-        "Almanya",
-        "Güney Kore",
-        "Hindistan",
-        "Rusya"
+       "soru": "Tabloda bazı ülkelerin 2021 yılındaki yaklaşık doğal gaz üretim ve tüketim miktarları verilmiştir.\nBuna göre dış satıma ayırabileceği doğal gaz fazlası en çok olan ülke aşağıdakilerden hangisidir?",
+       "tablo": [
+        [
+         "Ülke",
+         "Üretim (milyar m³)",
+         "Tüketim (milyar m³)"
+        ],
+        [
+         "ABD",
+         "934",
+         "827"
+        ],
+        [
+         "Rusya",
+         "702",
+         "475"
+        ],
+        [
+         "Katar",
+         "177",
+         "40"
+        ],
+        [
+         "Almanya",
+         "5",
+         "91"
+        ],
+        [
+         "Japonya",
+         "2",
+         "104"
+        ]
        ],
-       "dogru": 3,
-       "bilgi": "Rusya dünyanın en büyük doğal gaz rezervlerine ve üretimine sahip ülkelerdendir; bu nedenle küresel enerji piyasasında etkisi büyüktür.",
+       "secenekler": [
+        "ABD",
+        "Rusya",
+        "Katar",
+        "Almanya",
+        "Japonya"
+       ],
+       "dogru": 1,
+       "bilgi": "Üretimden tüketim çıkarıldığında fazla Rusya'da 227, Katar'da 137, ABD'de 107 milyar m³'tür. Rusya, rezervleri ve üretimiyle doğal gaz pazarının en etkili ülkelerindendir; en büyük üretici ABD'nin ise tüketimi de çok yüksektir.",
        "sayfa": 115,
        "yil": "2019-AYT"
       }
@@ -289,57 +356,72 @@
      "kartlar": [
       {
        "id": "1.6-01",
-       "tur": "dy",
-       "ifade": "Doğu Karadeniz'de arazinin dağlık ve eğimli olması, tarla tarımını kısıtlayan başlıca etkendir.",
-       "dogru": true,
-       "bilgi": "Dağlık ve engebeli araziler makineli tarımı ve tarla tarımını sınırlar; Doğu Karadeniz bunun Türkiye'deki belirgin örneklerindendir.",
-       "sayfa": 115,
-       "yil": "2018-AYT"
-      },
-      {
-       "id": "1.6-02",
-       "tur": "dy",
-       "ifade": "Türkiye'de 1950'den sonra tarım alanlarının genişletilmesiyle çayır ve mera arazilerinin payı azalmıştır.",
-       "dogru": true,
-       "bilgi": "1950'den sonra tarımda makineleşme ve katma değer artmış; buna karşılık çayır ve meraların bir kısmı tarlaya dönüştürüldüğü için payları azalmıştır.",
+       "tur": "secmeli",
+       "soru": "Tabloda Türkiye'deki tarım alanları ile çayır ve mera alanlarının 1950 ve 2000 yıllarındaki yaklaşık büyüklükleri verilmiştir.\nTabloya ve bilgilerinize göre,",
+       "tablo": [
+        [
+         "Yıl",
+         "Tarım alanı (milyon ha)",
+         "Çayır ve mera (milyon ha)"
+        ],
+        [
+         "1950",
+         "14,5",
+         "37,8"
+        ],
+        [
+         "2000",
+         "26,4",
+         "14,6"
+        ]
+       ],
+       "oncul": [
+        "Çayır ve mera alanlarının bir kısmı tarım alanına dönüştürülmüştür.",
+        "Bu dönemde tarımda makineleşmenin artması tarım alanlarının genişlemesini kolaylaştırmıştır.",
+        "Tarım alanları ile çayır ve mera alanlarının toplamı artmıştır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "1950'den sonra traktör kullanımının yaygınlaşmasıyla çayır ve meraların bir kısmı sürülerek tarlaya dönüştürülmüştür. İki alanın toplamı 52,3 milyon hektardan 41 milyon hektara indiğinden toplam artmamış, azalmıştır.",
        "sayfa": 115,
        "yil": "2019-AYT"
       },
       {
-       "id": "1.6-03",
+       "id": "1.6-02",
        "tur": "secmeli",
-       "soru": "Türkiye'de rüzgâr enerjisi potansiyeli en yüksek kesimler hangisidir?",
+       "soru": "Rüzgâr santrallerinin kurulacağı yerlerde rüzgârın yıl boyunca güçlü ve düzenli esmesi, arazinin açık ve engelsiz olması önemlidir.\nBuna göre aşağıdaki illerin hangisinde rüzgâr enerjisi potansiyelinin en yüksek olması beklenir?",
        "secenekler": [
-        "Ege ve Marmara kıyıları",
-        "Güneydoğu Anadolu'nun iç kesimleri",
-        "Doğu Karadeniz'in vadi içleri",
-        "Doğu Anadolu'nun çukur ovaları"
+        "İzmir",
+        "Artvin",
+        "Bingöl",
+        "Hakkâri",
+        "Gümüşhane"
        ],
        "dogru": 0,
-       "bilgi": "Türkiye'de rüzgâr enerjisi potansiyeli en çok Çanakkale, Balıkesir ve İzmir gibi Ege ve Marmara kıyılarında yüksektir.",
+       "bilgi": "Türkiye'de rüzgâr enerjisi potansiyeli Ege ve Marmara kıyılarında (İzmir, Balıkesir, Çanakkale) en yüksektir. Derin vadilerle yarılmış Doğu Karadeniz ve Doğu Anadolu'daki engebeli iller rüzgâr santralleri için daha az elverişlidir.",
        "sayfa": 115,
        "yil": "2023-AYT"
       },
       {
-       "id": "1.6-04",
-       "tur": "dy",
-       "ifade": "Geniş delta ovalarının varlığı ve ılıman kuşakta yer alması, Türkiye'de tarımsal faaliyetlerin gelişmesini kolaylaştırır.",
-       "dogru": true,
-       "bilgi": "Verimli alüvyal delta ovaları ile Kuzey Yarım Küre'de ılıman kuşakta bulunma, Türkiye'de tarımı geliştiren başlıca doğal etkenlerdir.",
-       "sayfa": 116,
-       "yil": "2025-AYT"
-      },
-      {
-       "id": "1.6-05",
-       "tur": "bosluk",
-       "cumle": "Cam ve seramik sanayisinin yanı sıra kaynak elektrotu, boya ve plastik üretiminde de kullanılan endüstriyel ham madde ___ olarak bilinir.",
-       "cevap": "feldspat",
-       "celdiriciler": [
-        "boksit",
-        "krom",
-        "manyezit"
+       "id": "1.6-03",
+       "tur": "secmeli",
+       "soru": "Cam, seramik ve porselen sanayisinin temel ham maddelerinden olan feldspat; kaynak elektrotu, boya ve plastik üretiminde de kullanılmaktadır.\nTürkiye'de feldspat yataklarının yoğunlaştığı yerler aşağıdakilerin hangisinde birlikte verilmiştir?",
+       "secenekler": [
+        "Aydın (Çine) – Muğla (Milas)",
+        "Zonguldak – Bartın (Amasra)",
+        "Elazığ (Maden) – Artvin (Murgul)",
+        "Balıkesir (Bigadiç) – Eskişehir (Kırka)",
+        "Batman – Adıyaman"
        ],
-       "bilgi": "Feldspatın başlıca rezerv alanları Batı Anadolu'dadır (Aydın-Çine, Muğla-Milas, Manisa, Kütahya); Güneydoğu'da (ör. Mardin) önemli rezervi yoktur.",
+       "dogru": 0,
+       "bilgi": "Feldspatın başlıca yatakları Batı Anadolu'dadır (Çine, Milas, Manisa, Kütahya). Zonguldak-Amasra taş kömürü, Maden ve Murgul bakır, Bigadiç ve Kırka bor, Batman ve Adıyaman petrol sahalarıdır.",
        "sayfa": 116,
        "yil": "2026-AYT"
       }
@@ -357,33 +439,47 @@
      "kartlar": [
       {
        "id": "1.7-01",
-       "tur": "dy",
-       "ifade": "Sanayi şehirlerine hızla göç edenlerin karşılaştığı yaşamsal sorunların başında barınma ve sağlık hizmetlerinin yetersizliği gelir.",
-       "dogru": true,
-       "bilgi": "Hızlı göç alan sanayi şehirlerinde konut ve sağlık hizmetleri yetersiz kalır; kültürel faaliyet eksikliği ise yaşamsal bir sorun sayılmaz.",
-       "sayfa": 116,
-       "yil": "2018-AYT"
-      },
-      {
-       "id": "1.7-02",
-       "tur": "bosluk",
-       "cumle": "Sanayi Devrimi'nden sonra fabrikaların iş gücü ihtiyacı kırsaldan şehirlere ___ hızlandırarak şehirlerin sayısını ve nüfusunu artırmıştır.",
-       "cevap": "göçleri",
-       "celdiriciler": [
-        "doğumları",
-        "ihracatı",
-        "tarımsal üretimi"
+       "tur": "secmeli",
+       "soru": "Tabloda İngiltere ve Galler'de şehirlerde yaşayan nüfusun toplam nüfusa oranı verilmiştir.\nBu değişimde aşağıdakilerden hangisinin etkisi en fazladır?",
+       "tablo": [
+        [
+         "Yıl",
+         "1801",
+         "1851",
+         "1901"
+        ],
+        [
+         "Şehirli nüfus oranı (%)",
+         "34",
+         "54",
+         "78"
+        ]
        ],
-       "bilgi": "Sanayi Devrimi'yle tarım dışı fonksiyonlar çeşitlenmiş; kırdan kente göçler şehirlerin büyümesinde ve yeni şehirlerin kurulmasında en etkili unsur olmuştur.",
+       "secenekler": [
+        "Fabrikaların iş gücü ihtiyacının kırdan kente göçü hızlandırması",
+        "Kırsal alanlarda doğum oranlarının şehirlere göre hızla düşmesi",
+        "Sanayi tesislerinin şehirlerden kırsal alanlara taşınması",
+        "Tarımda makineleşmenin azalarak kırsalda iş gücü ihtiyacının artması",
+        "Şehirlerdeki salgın hastalıkların kırsal alanlara yayılması"
+       ],
+       "dogru": 0,
+       "bilgi": "Sanayi Devrimi'yle tarım dışı fonksiyonlar çeşitlenmiş, fabrikaların iş gücü ihtiyacı kırdan kente göçü hızlandırmıştır. Göçler XIX. yüzyılda şehirlerin sayısını ve nüfusunu artıran en etkili unsur olmuştur.",
        "sayfa": 116,
        "yil": "2019-AYT"
       },
       {
-       "id": "1.7-03",
-       "tur": "dy",
-       "ifade": "Kırdan kente hızlı göç, şehirlerde plansız yapılaşmaya, altyapının yetersiz kalmasına ve hava kirliliğinin artmasına yol açabilir.",
-       "dogru": true,
-       "bilgi": "Hızlı göçün olumsuz sonuçları arasında düzensiz yerleşme, yetersiz altyapı, kirlilik ve tarım-orman arazilerinin yerleşime açılması sayılabilir.",
+       "id": "1.7-02",
+       "tur": "secmeli",
+       "soru": "Kırdan kente hızlı ve plansız göçün yaşandığı bir şehirde aşağıdakilerden hangisinin görülmesi beklenmez?",
+       "secenekler": [
+        "Gecekondulaşma ve düzensiz yapılaşma",
+        "Altyapı hizmetlerinin yetersiz kalması",
+        "Konut ve sağlık hizmetlerine olan talebin artması",
+        "Çevredeki tarım arazilerinin yerleşime açılması",
+        "Şehirdeki iş gücü arzının azalması"
+       ],
+       "dogru": 4,
+       "bilgi": "Hızlı göç şehirde iş gücü arzını artırır. Buna karşılık barınma, sağlık ve altyapı hizmetleri yetersiz kalır; düzensiz yapılaşma, kirlilik ve tarım-orman arazilerinin yerleşime açılması gibi sorunlar ortaya çıkar.",
        "sayfa": 117,
        "yil": "2024-AYT"
       }
@@ -402,29 +498,38 @@
       {
        "id": "1.8-01",
        "tur": "secmeli",
-       "soru": "Doğu Karadeniz Projesi'nin (DOKAP) bölgede yol açması beklenen gelişmelerden biri hangisidir?",
+       "soru": "Doğu Karadeniz Projesi (DOKAP) kapsamındaki yatırımlarla bölgede aşağıdaki gelişmelerden",
+       "oncul": [
+        "Yaylaları birbirine bağlayan Yeşil Yol ile yayla turizminin canlanması",
+        "Geniş düzlüklerde pamuk ekim alanlarının genişlemesi",
+        "Sürdürülebilir balıkçılığın ve su ürünleri yetiştiriciliğinin gelişmesi"
+       ],
+       "kok": "hangilerinin yaşanması beklenir?",
        "secenekler": [
-        "Pamuk ekim alanlarının genişlemesi",
-        "Çöl alanlarının sulanarak tarıma açılması",
-        "Bölgenin petrol çıkarım merkezine dönüşmesi",
-        "Yayla turizminin canlanması"
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
        ],
        "dogru": 3,
-       "bilgi": "DOKAP; yayla turizmi, ulaşım, sürdürülebilir balıkçılık ve orman varlığının verimli kullanımı gibi alanlarda gelişme hedefler.",
+       "bilgi": "DOKAP; Yeşil Yol ile yayla turizmini, ulaşımı, sürdürülebilir balıkçılığı ve orman varlığının verimli kullanımını hedefler. Dağlık ve eğimli Doğu Karadeniz'de geniş düzlükler yoktur; pamuk da bölgenin nemli ikliminde yetiştirilmez.",
        "sayfa": 117,
        "yil": "2020-AYT"
       },
       {
        "id": "1.8-02",
-       "tur": "bosluk",
-       "cumle": "Doğu Karadeniz'deki yaylaları birbirine bağlayan Yeşil Yol projesi ___ kapsamında yürütülmektedir.",
-       "cevap": "DOKAP",
-       "celdiriciler": [
-        "KOP",
-        "GAP",
-        "DAP"
+       "tur": "secmeli",
+       "soru": "Konya Ovası Projesi (KOP), Türkiye'nin en kurak yörelerinden birinde su kaynaklarının verimli kullanılmasını ve bölgenin ekonomik potansiyelinin harekete geçirilmesini amaçlamaktadır.\nKOP kapsamındaki yatırımlarla bölgede aşağıdakilerden hangisinin gelişmesi beklenir?",
+       "secenekler": [
+        "Güneş enerjisinden elektrik üretimi",
+        "Yaylaları birbirine bağlayan yollarla yayla turizmi",
+        "Çay tarımı",
+        "Kıyı balıkçılığı",
+        "Taş kömürü madenciliği"
        ],
-       "bilgi": "Yeşil Yol, Doğu Karadeniz Projesi'ne aittir; Konya Ovası Projesi ise sulama, sanayi ve AR-GE, kültürel turizm ve yenilenebilir enerjiyi destekler.",
+       "dogru": 0,
+       "bilgi": "KOP sulama, sanayi ve AR-GE, kültürel turizm ve yenilenebilir enerjiyi destekler; güneşlenme süresi uzun olan Konya-Karapınar'da büyük güneş santralleri kurulmuştur. Yeşil Yol ve yayla turizmi ise DOKAP'ın konusudur.",
        "sayfa": 117,
        "yil": "2026-AYT"
       }
@@ -441,10 +546,24 @@
      "kartlar": [
       {
        "id": "1.9-01",
-       "tur": "dy",
-       "ifade": "Antalya, Türkiye'nin demir yolu ağına bağlı il merkezlerinden biridir.",
-       "dogru": false,
-       "bilgi": "Antalya'nın demir yolu bağlantısı olmadığından İstanbul'dan yalnızca trenle ulaşılamaz; Ankara, Erzurum, Adana ve Malatya ise demir yolu ağı üzerindedir.",
+       "tur": "secmeli",
+       "soru": "Türkiye'de demir yolu ağı, Cumhuriyet'in ilk yıllarından itibaren ham madde ve tarım alanlarını limanlara ve iç pazarlara bağlayacak biçimde genişletilmiştir. Ancak engebeli arazi yapısı nedeniyle bazı kıyı kentleri bu ağa bağlanamamıştır.\nAşağıdaki il merkezlerinden",
+       "oncul": [
+        "Antalya",
+        "Samsun",
+        "Trabzon",
+        "Mersin"
+       ],
+       "kok": "hangileri demir yolu ağına bağlı değildir?",
+       "secenekler": [
+        "I ve III",
+        "I ve IV",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+       ],
+       "dogru": 0,
+       "bilgi": "Toroslar ve Doğu Karadeniz Dağları kıyıya paralel uzandığından Antalya ve Trabzon demir yolu ağına bağlı değildir; bu illere İstanbul'dan yalnızca trenle ulaşılamaz. Samsun ve Mersin ise limanlarıyla demir yolu ağına bağlıdır.",
        "sayfa": 117,
        "yil": "2022-AYT"
       }
@@ -462,15 +581,50 @@
      "kartlar": [
       {
        "id": "1.10-01",
-       "tur": "bosluk",
-       "cumle": "Bir ülkenin dış alımının (ithalat) dış satımından (ihracat) fazla olması durumuna ___ denir.",
-       "cevap": "dış ticaret açığı",
-       "celdiriciler": [
-        "dış ticaret fazlası",
-        "gümrük birliği",
-        "ödemeler dengesi"
+       "tur": "secmeli",
+       "soru": "Tabloda Türkiye'nin bazı yıllardaki dış satım (ihracat) ve dış alım (ithalat) değerleri verilmiştir.\nTabloya göre,",
+       "tablo": [
+        [
+         "Yıl",
+         "Dış satım (milyar $)",
+         "Dış alım (milyar $)"
+        ],
+        [
+         "2019",
+         "180,8",
+         "210,3"
+        ],
+        [
+         "2020",
+         "169,6",
+         "219,5"
+        ],
+        [
+         "2021",
+         "225,2",
+         "271,4"
+        ],
+        [
+         "2022",
+         "254,2",
+         "363,7"
+        ]
        ],
-       "bilgi": "Dış alımın dış satımı aştığı durum dış ticaret açığı, dış satımın dış alımı aştığı durum ise dış ticaret fazlası olarak adlandırılır.",
+       "oncul": [
+        "Tablodaki yılların tamamında dış ticaret açığı verilmiştir.",
+        "Dış ticaret açığı her yıl bir önceki yıla göre artmıştır.",
+        "Dış satımın dış alımı karşılama oranı en düşük 2022'dedir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Her yıl dış alım dış satımdan fazla olduğundan dış ticaret açığı verilmiştir. Açık 2020'de 49,9, 2021'de 46,2 milyar $ olduğundan her yıl artmamıştır. Karşılama oranı 2022'de yaklaşık %70 ile en düşüktür.",
        "sayfa": 118,
        "yil": "2018-AYT"
       }
@@ -489,55 +643,32 @@
       {
        "id": "1.11-01",
        "tur": "secmeli",
-       "soru": "Aşağıdaki uygulamalardan hangisi doğrudan kültür turizmini geliştirmeye yöneliktir?",
+       "soru": "Bir turizm şirketi; antik kentlerde rehberli geziler, tarihî ibadethanelere ziyaretler ve geleneksel köy yaşamını tanıtan konaklamalar içeren bir tur programı hazırlamıştır.\nBu tur programının öncelikle yöneldiği turizm türü ve bu türe örnek bir yer aşağıdakilerin hangisinde birlikte verilmiştir?",
        "secenekler": [
-        "Kıyılarda yeni yat limanlarının açılması",
-        "Dağlık alanlarda kayak pistleri yapılması",
-        "Antik kentlerde kazı ve restorasyon çalışmalarının desteklenmesi",
-        "Sıcak su kaynaklarına kaplıca tesisleri kurulması"
+        "Kültür turizmi – Efes",
+        "Kış turizmi – Erciyes",
+        "Yayla turizmi – Uzungöl",
+        "Termal turizm – Afyonkarahisar",
+        "Kültür turizmi – Palandöken"
        ],
-       "dogru": 2,
-       "bilgi": "Kültür turizmini tarihî ibadethaneler, arkeolojik alanlar, müzeler ve kırsal yaşam değerleri geliştirir; kayak merkezleri ise kış turizmine yöneliktir.",
+       "dogru": 0,
+       "bilgi": "Arkeolojik alanlar, tarihî ibadethaneler, müzeler ve kırsal yaşam değerleri kültür turizmini geliştirir; Efes bu türün önemli merkezlerindendir. Palandöken ve Erciyes kış, Uzungöl ve Ayder yayla, Afyonkarahisar termal turizm merkezidir.",
        "sayfa": 118,
        "yil": "2018-AYT"
       },
       {
        "id": "1.11-02",
-       "tur": "bosluk",
-       "cumle": "Rize'deki Ayder, Trabzon'daki Uzungöl ve Giresun'daki Kümbet, Türkiye'de ___ turizminin önemli merkezlerindendir.",
-       "cevap": "yayla",
-       "celdiriciler": [
-        "termal",
-        "kış",
-        "inanç"
+       "tur": "secmeli",
+       "soru": "Kars, Erzurum ve Ağrı illerini kapsayan bir kültür turu düzenleyen bir şirketin programında aşağıdaki yerlerden hangisinin bulunması beklenmez?",
+       "secenekler": [
+        "Ani Ören Yeri",
+        "Çifte Minareli Medrese",
+        "İshak Paşa Sarayı",
+        "Yakutiye Medresesi",
+        "Sümela Manastırı"
        ],
-       "bilgi": "Yayla turizmi; doğa yürüyüşü, atlı gezi, kampçılık ve fotosafari gibi etkinliklerle özellikle Karadeniz yaylalarında gelişmiştir.",
-       "sayfa": 118,
-       "yil": "2021-AYT"
-      },
-      {
-       "id": "1.11-03",
-       "tur": "eslestir",
-       "yonerge": "Kültürel ve tarihî varlıkları bulundukları illerle eşleştir.",
-       "ciftler": [
-        [
-         "Ani Ören Yeri",
-         "Kars"
-        ],
-        [
-         "Sümela Manastırı",
-         "Trabzon"
-        ],
-        [
-         "Yakutiye Medresesi",
-         "Erzurum"
-        ],
-        [
-         "İshak Paşa Sarayı",
-         "Ağrı"
-        ]
-       ],
-       "bilgi": "Sümela Manastırı Trabzon'dadır; Ani (Kars), Çifte Minareli Medrese ve Palandöken (Erzurum) ise Kuzeydoğu Anadolu'nun turistik değerleridir.",
+       "dogru": 4,
+       "bilgi": "Ani Ören Yeri Kars'ta, Çifte Minareli ve Yakutiye medreseleri Erzurum'da, İshak Paşa Sarayı Ağrı-Doğubayazıt'tadır. Sümela Manastırı ise Doğu Karadeniz'de, Trabzon'un Maçka ilçesinde yer alır.",
        "sayfa": 118,
        "yil": "2025-AYT"
       }
@@ -556,15 +687,16 @@
       {
        "id": "1.12-01",
        "tur": "secmeli",
-       "soru": "And Dağları'nın yüksek kesimlerinde Machu Picchu gibi şehirler kuran ve geçimini patates ile mısır tarımına dayandıran medeniyet hangisidir?",
+       "soru": "Bir uygarlık; 2.000 metreyi aşan dağ yamaçlarında taraçalar oluşturarak patates ve mısır yetiştirmiş, Machu Picchu gibi dağ şehirleri kurmuştur.\nBu uygarlıkla ilgili aşağıdakilerden hangisi söylenebilir?",
        "secenekler": [
-        "Maya",
-        "İnka",
-        "Aztek",
-        "Olmek"
+        "Güney Amerika'da, And Dağları'nda gelişen İnka uygarlığıdır.",
+        "Orta Amerika'da, Yukatan Yarımadası'nda gelişen Maya uygarlığıdır.",
+        "Meksika Platosu'nda gelişen Aztek uygarlığıdır.",
+        "Ekonomisi büyük nehirlerin taşkın ovalarındaki tarıma dayanır.",
+        "Tarım yaparken engebeli arazinin yer şekillerini değiştirmemiştir."
        ],
-       "dogru": 1,
-       "bilgi": "İnkalar And Dağları'nın yüksek kesimlerinde şehirler kurmuş, temel geçim kaynakları patates ve mısır tarımı olmuştur.",
+       "dogru": 0,
+       "bilgi": "Machu Picchu'yu kuran İnkalar, And Dağları'nın yüksek kesimlerinde yamaçları taraçalayarak patates ve mısır tarımı yapmıştır. Mayalar Yukatan Yarımadası'nda, Aztekler Meksika Platosu'nda gelişmiştir.",
        "sayfa": 119,
        "yil": "2025-AYT"
       }
@@ -582,10 +714,131 @@
      "kartlar": [
       {
        "id": "1.13-01",
-       "tur": "dy",
-       "ifade": "Gelişmiş ülkelerde tarımsal üretim büyük ölçüde doğa koşullarına bağlı olduğundan yıldan yıla belirgin dalgalanmalar gösterir.",
-       "dogru": false,
-       "bilgi": "Geçimlik tarım yapan az gelişmiş ülkelerde üretim doğaya bağlıdır ve dalgalanır; modern teknik kullanan gelişmiş ülkelerde verim yüksek, üretim istikrarlıdır.",
+       "tur": "secmeli",
+       "soru": "Grafikte K ve L ülkelerinde on yıllık bir dönemde buğday veriminin yıllara göre değişimi gösterilmiştir.\nBu grafiğe göre aşağıdakilerden hangisi söylenebilir?",
+       "grafik": {
+        "x": "Yıl",
+        "y": "Verim (ton/ha)",
+        "seriler": [
+         {
+          "ad": "K",
+          "n": [
+           [
+            1,
+            1.2
+           ],
+           [
+            2,
+            0.8
+           ],
+           [
+            3,
+            1.5
+           ],
+           [
+            4,
+            0.9
+           ],
+           [
+            5,
+            1.4
+           ],
+           [
+            6,
+            0.7
+           ],
+           [
+            7,
+            1.3
+           ],
+           [
+            8,
+            1.1
+           ],
+           [
+            9,
+            0.8
+           ],
+           [
+            10,
+            1.4
+           ]
+          ]
+         },
+         {
+          "ad": "L",
+          "n": [
+           [
+            1,
+            7.4
+           ],
+           [
+            2,
+            7.6
+           ],
+           [
+            3,
+            7.5
+           ],
+           [
+            4,
+            7.8
+           ],
+           [
+            5,
+            7.7
+           ],
+           [
+            6,
+            7.9
+           ],
+           [
+            7,
+            7.8
+           ],
+           [
+            8,
+            8
+           ],
+           [
+            9,
+            8.1
+           ],
+           [
+            10,
+            8
+           ]
+          ]
+         }
+        ],
+        "yIsaret": [
+         [
+          2,
+          "2"
+         ],
+         [
+          4,
+          "4"
+         ],
+         [
+          6,
+          "6"
+         ],
+         [
+          8,
+          "8"
+         ]
+        ]
+       },
+       "secenekler": [
+        "K'de tarımsal üretim büyük ölçüde doğal koşullara bağlıdır.",
+        "L'de tarımda modern teknik kullanımı K'dekinden azdır.",
+        "K'de birim alandan alınan ürün L'dekinden fazladır.",
+        "L'de verim, yağış değişimlerinden K'ye göre daha çok etkilenir.",
+        "K'de buğday üretiminin büyük bölümü dış satıma ayrılır."
+       ],
+       "dogru": 0,
+       "bilgi": "K'de verimin düşük olması ve yıldan yıla dalgalanması, üretimin geleneksel yöntemlerle yapıldığını ve yağış gibi doğal koşullara bağlı olduğunu gösterir. Modern teknik kullanan gelişmiş L'de ise verim yüksek ve istikrarlıdır.",
        "sayfa": 120,
        "yil": "2021-AYT"
       }
@@ -602,38 +855,33 @@
      "kartlar": [
       {
        "id": "1.14-01",
-       "tur": "bosluk",
-       "cumle": "Üye ülkelerde ekonomik büyümeyi ve istihdamı desteklemeyi, gelişmekte olan ülkelerin kalkınmasına ve dünya ticaretine katkı sağlamayı amaçlayan örgüt ___'dir.",
-       "cevap": "OECD",
-       "celdiriciler": [
-        "NATO",
-        "OPEC",
-        "UNICEF"
+       "tur": "secmeli",
+       "soru": "Aşağıdaki uluslararası örgüt – kuruluş amacı eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "OECD – Üye ülkelerde ekonomik büyümeyi ve istihdamı desteklemek",
+        "KEİ – Karadeniz çevresindeki ülkeler arasında ekonomik iş birliğini geliştirmek",
+        "OPEC – Petrol ihraç eden ülkelerin politikalarını uyumlaştırmak",
+        "NATO – Üye ülkelerin ortak savunmasını sağlamak",
+        "UNICEF – Dünya ticaretinde gümrük vergilerini azaltmak"
        ],
-       "bilgi": "Ekonomik İşbirliği ve Kalkınma Örgütü (OECD); ekonomik gelişme ve istihdamı, kalkınmaya desteği ve uluslararası ticaretin gelişmesini amaçlar.",
+       "dogru": 4,
+       "bilgi": "UNICEF, BM'nin çocukların sağlık, eğitim ve haklarıyla ilgilenen fonudur. OECD ekonomik büyüme ve istihdamı, 1992'de İstanbul'da kurulan KEİ ise Karadeniz ülkeleri arasında ekonomik iş birliğini amaçlar.",
        "sayfa": 120,
        "yil": "2019-AYT"
       },
       {
        "id": "1.14-02",
-       "tur": "bosluk",
-       "cumle": "Karadeniz çevresindeki ülkeler arasında ekonomik, bilimsel ve teknolojik iş birliğini geliştirmek amacıyla 1992'de İstanbul'da kurulan örgüt ___'dir.",
-       "cevap": "KEİ",
-       "celdiriciler": [
-        "ECO",
-        "D-8",
-        "TDT"
+       "tur": "secmeli",
+       "soru": "Birleşmiş Milletler (BM), ana organları ile bu organlara bağlı çalışan uzman kuruluşlar ve programlardan oluşan geniş bir yapıya sahiptir.\nAşağıdakilerden hangisi BM'nin ana organlarından biridir?",
+       "secenekler": [
+        "Dünya Sağlık Örgütü (DSÖ)",
+        "UNESCO",
+        "Güvenlik Konseyi",
+        "Gıda ve Tarım Örgütü (FAO)",
+        "UNICEF"
        ],
-       "bilgi": "Karadeniz Ekonomik İşbirliği Teşkilatı (KEİ), üye ülkelerin ticari çıkarlarını korumak ve iş birliği yapmak için 1992'de İstanbul'da kurulmuştur.",
-       "sayfa": 120,
-       "yil": "2020-AYT"
-      },
-      {
-       "id": "1.14-03",
-       "tur": "dy",
-       "ifade": "Dünya Sağlık Örgütü (DSÖ), Birleşmiş Milletler'in ana organlarından biridir.",
-       "dogru": false,
-       "bilgi": "BM'nin ana organları Genel Kurul, Güvenlik Konseyi, Ekonomik ve Sosyal Konsey, Uluslararası Adalet Divanı, Sekretarya ve Vesayet Konseyi'dir; DSÖ bir uzman kuruluştur.",
+       "dogru": 2,
+       "bilgi": "BM'nin ana organları Genel Kurul, Güvenlik Konseyi, Ekonomik ve Sosyal Konsey, Uluslararası Adalet Divanı, Sekretarya ve Vesayet Konseyi'dir. DSÖ, UNESCO ve FAO uzman kuruluş, UNICEF ise bir fondur.",
        "sayfa": 121,
        "yil": "2023-AYT"
       }
@@ -651,35 +899,35 @@
      "kartlar": [
       {
        "id": "1.15-01",
-       "tur": "bosluk",
-       "cumle": "Basra Körfezi'nden çıkan petrol tankerlerinin açık denize ulaşmak için geçtiği stratejik su yolu ___ Boğazı'dır.",
-       "cevap": "Hürmüz",
-       "celdiriciler": [
-        "Malakka",
-        "Cebelitarık",
-        "Bering"
+       "tur": "secmeli",
+       "soru": "Basra Körfezi kıyısındaki bir limandan yüklenen ham petrol, deniz yoluyla Japonya'ya taşınacaktır.\nEn kısa güzergâhı izleyen tankerin sırasıyla geçmesi gereken su yolları aşağıdakilerin hangisinde verilmiştir?",
+       "secenekler": [
+        "Hürmüz Boğazı – Malakka Boğazı",
+        "Bab-ül Mendep Boğazı – Süveyş Kanalı",
+        "Hürmüz Boğazı – Cebelitarık Boğazı",
+        "Malakka Boğazı – Hürmüz Boğazı",
+        "Süveyş Kanalı – Malakka Boğazı"
        ],
-       "bilgi": "Hürmüz, Malakka ve Bab-ül Mendep boğazları ile Süveyş Kanalı, dünya petrol taşımacılığının en kritik geçiş noktalarıdır.",
+       "dogru": 0,
+       "bilgi": "Basra Körfezi'nden çıkan tankerler Hürmüz Boğazı'ndan Umman Denizi'ne, oradan Hint Okyanusu'nu geçip Malakka Boğazı'ndan Pasifik'e ulaşır. Hürmüz, Malakka, Bab-ül Mendep ve Süveyş petrol taşımacılığının kritik geçitleridir.",
        "sayfa": 121,
        "yil": "2021-AYT"
       },
       {
        "id": "1.15-02",
-       "tur": "dy",
-       "ifade": "Coğrafi Keşiflerle önemini yitiren Akdeniz, 1869'da Süveyş Kanalı'nın açılmasıyla yeniden önem kazanmıştır.",
-       "dogru": true,
-       "bilgi": "Süveyş Kanalı Akdeniz'i Kızıldeniz üzerinden Hint Okyanusu'na bağlayarak Akdeniz ticaretini yeniden canlandırmıştır.",
+       "tur": "secmeli",
+       "soru": "Coğrafi Keşiflerden sonra ticaret yollarının Atlas Okyanusu'na kaymasıyla önemini yitiren Akdeniz'de 1869'da Süveyş Kanalı açılmıştır.\nSüveyş Kanalı'nın açılmasının sonuçları arasında aşağıdakilerden hangisi gösterilebilir?",
+       "secenekler": [
+        "Akdeniz'in dünya ticaretindeki öneminin yeniden artması",
+        "Atlas Okyanusu ile Büyük Okyanus'un doğrudan birbirine bağlanması",
+        "Ümit Burnu güzergâhının öneminin artması",
+        "Avrupa ile Asya arasındaki deniz yolunun uzaması",
+        "Kızıldeniz'in ticari öneminin azalması"
+       ],
+       "dogru": 0,
+       "bilgi": "Süveyş Kanalı Akdeniz'i Kızıldeniz üzerinden Hint Okyanusu'na bağlayarak Avrupa-Asya deniz yolunu kısaltmış, Akdeniz ve Kızıldeniz'in önemini artırmıştır. Atlas ve Büyük Okyanus'u ise Panama Kanalı birleştirir.",
        "sayfa": 122,
        "yil": "2025-AYT"
-      },
-      {
-       "id": "1.15-03",
-       "tur": "dy",
-       "ifade": "Gelişmiş ülkelerde birincil faaliyetlerde çalışan nüfusun oranı, az gelişmiş ülkelere göre daha yüksektir.",
-       "dogru": false,
-       "bilgi": "Gelişmiş ülkelerde kişi başına enerji tüketimi ve doğuşta beklenen yaşam süresi yüksek, birincil sektörde çalışanların oranı ise düşüktür.",
-       "sayfa": 122,
-       "yil": "2026-AYT"
       }
      ]
     },
@@ -696,88 +944,156 @@
      "kartlar": [
       {
        "id": "1.16-01",
-       "tur": "dy",
-       "ifade": "Fabrika bacalarına filtre takılması ve konutlarda kömür yerine doğal gaz kullanılması, öncelikle hava kirliliğini azaltmaya yöneliktir.",
-       "dogru": true,
-       "bilgi": "Fosil yakıt kullanımına bağlı hava kirliliği; baca filtreleri, doğal gaz ve alternatif enerji kaynaklarının kullanımıyla azaltılır.",
+       "tur": "secmeli",
+       "soru": "Grafikte bir kentte kış aylarında ölçülen ortalama kükürt dioksit (SO₂) miktarının yıllara göre değişimi gösterilmiştir.\nBu değişimin nedenleri arasında aşağıdakilerden hangisi gösterilemez?",
+       "grafik": {
+        "x": "Yıl",
+        "y": "SO₂ (µg/m³)",
+        "seriler": [
+         {
+          "n": [
+           [
+            1,
+            230
+           ],
+           [
+            2,
+            180
+           ],
+           [
+            3,
+            110
+           ],
+           [
+            4,
+            60
+           ],
+           [
+            5,
+            35
+           ],
+           [
+            6,
+            25
+           ]
+          ]
+         }
+        ],
+        "xIsaret": [
+         [
+          1,
+          "1986"
+         ],
+         [
+          2,
+          "1990"
+         ],
+         [
+          3,
+          "1994"
+         ],
+         [
+          4,
+          "1998"
+         ],
+         [
+          5,
+          "2002"
+         ],
+         [
+          6,
+          "2006"
+         ]
+        ]
+       },
+       "secenekler": [
+        "Konutlarda kömür yerine doğal gaz kullanılması",
+        "Fabrika bacalarına filtre takılması",
+        "Kükürt oranı düşük yakıtların tercih edilmesi",
+        "Toplu taşımada elektrikli araçların yaygınlaşması",
+        "Akarsulara arıtma tesisleri kurulması"
+       ],
+       "dogru": 4,
+       "bilgi": "Kükürt dioksit büyük ölçüde kömür ve kükürtlü yakıtların yanmasıyla oluşur; doğal gaza geçiş, baca filtreleri ve temiz yakıtlar hava kirliliğini azaltır. Akarsulara arıtma tesisi kurulması ise su kirliliğine yönelik bir önlemdir.",
        "sayfa": 122,
        "yil": "2018-AYT"
       },
       {
        "id": "1.16-02",
-       "tur": "dy",
-       "ifade": "Geri dönüşüm, atıklardan yeni doğal kaynak üretilmesini sağlar.",
-       "dogru": false,
-       "bilgi": "Geri dönüşüm atıklara ikincil ham madde özelliği kazandırır; doğal kaynakları korur, enerji tasarrufu ve ekonomik katkı sağlar ama yeni doğal kaynak üretmez.",
+       "tur": "secmeli",
+       "soru": "Geri dönüşümün yaygınlaşmasıyla ilgili,",
+       "oncul": [
+        "Atık depolama alanlarına duyulan ihtiyaç azalır.",
+        "Atıklardan yeni doğal kaynaklar oluşturulur.",
+        "Üretimde enerji tasarrufu sağlanır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Geri dönüşüm atıklara ikincil ham madde özelliği kazandırarak doğal kaynakların daha yavaş tükenmesini, enerji tasarrufunu ve depolama alanı ihtiyacının azalmasını sağlar; ancak yeni doğal kaynak üretmez.",
        "sayfa": 122,
        "yil": "2019-AYT"
       },
       {
        "id": "1.16-03",
-       "tur": "bosluk",
-       "cumle": "Geri dönüşüm yaygınlaştıkça atık depolama alanlarına duyulan ihtiyaç ___.",
-       "cevap": "azalır",
-       "celdiriciler": [
-        "artar",
-        "değişmez"
+       "tur": "secmeli",
+       "soru": "Kükürt dioksit ve azot oksitlerin atmosferdeki su buharıyla birleşmesi sonucunda asit yağmurları oluşur.\nAsit yağmurlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+       "secenekler": [
+        "Göl ve akarsuların pH değerini düşürerek canlılara zarar verir.",
+        "Akarsu ve göllerdeki su miktarını önemli ölçüde azaltır.",
+        "Yalnızca kirleticilerin salındığı sanayi tesisinin çevresini etkiler.",
+        "Topraktaki besin maddelerini artırarak verimi yükseltir.",
+        "Mermerden yapılmış tarihî yapılarda aşınmayı yavaşlatır."
        ],
-       "bilgi": "Geri dönüşüm çevreye verilen zararı ve doğal kaynak kullanımını azaltır, enerji tasarrufu sağlar; atık depolama alanı ihtiyacını da düşürür.",
-       "sayfa": 123,
-       "yil": "2020-AYT"
-      },
-      {
-       "id": "1.16-04",
-       "tur": "dy",
-       "ifade": "Asit yağmurları, akarsu ve göllerdeki su miktarını önemli ölçüde azaltır.",
-       "dogru": false,
-       "bilgi": "Asit yağışları topraktaki verimi düşürür ve suların pH değerini değiştirerek su ekosistemlerine zarar verir; su rezervlerini ise azaltmaz.",
+       "dogru": 0,
+       "bilgi": "Asit yağmurları suların pH değerini düşürerek su canlılarına, toprak verimine, ormanlara ve mermer-kireç taşı yapılara zarar verir. Rüzgârlarla taşındığından kaynağından uzak alanları da etkiler; su miktarını ise azaltmaz.",
        "sayfa": 123,
        "yil": "2021-AYT"
       },
       {
-       "id": "1.16-05",
-       "tur": "dy",
-       "ifade": "Sanayi tesislerinin kırsal alanlara taşınması, küresel iklim değişikliğini yavaşlatmada etkili bir önlemdir.",
-       "dogru": false,
-       "bilgi": "İklim değişikliğiyle mücadelede sera gazı salımı azaltılmalıdır; kömür ve petrol kullanımını kısıtlamak ile rüzgâr ve güneş enerjisini artırmak etkilidir.",
-       "sayfa": 123,
-       "yil": "2022-AYT"
-      },
-      {
-       "id": "1.16-06",
-       "tur": "bosluk",
-       "cumle": "Sera etkisine bağlı küresel ısınmayla buzulların erimesi, deniz seviyesinin ___ yol açar.",
-       "cevap": "yükselmesine",
-       "celdiriciler": [
-        "alçalmasına",
-        "sabit kalmasına"
+       "id": "1.16-04",
+       "tur": "secmeli",
+       "soru": "1952'de Londra'da soğuk ve durgun havada konut ve fabrikalardan çıkan kömür dumanı sisle birleşerek günlerce süren yoğun bir kirliliğe yol açmıştır. Los Angeles'ta ise sıcak ve güneşli günlerde taşıt egzozlarından çıkan gazların güneş ışığıyla tepkimeye girmesiyle kahverengimsi bir kirlilik oluşur.\nBu iki kirlilikle ilgili aşağıdakilerden hangisi söylenebilir?",
+       "secenekler": [
+        "Her ikisi de smog olarak adlandırılan hava kirliliği türleridir.",
+        "Her ikisi de yalnızca kış mevsiminde görülür.",
+        "Los Angeles'taki kirliliğin temel kaynağı konutlarda kömür kullanılmasıdır.",
+        "Her ikisinin oluşumunda rüzgârlı ve yağışlı hava etkilidir.",
+        "Londra'daki kirlilik güneş ışığının etkisiyle oluşmuştur."
        ],
-       "bilgi": "Küresel ısınma buzulların erimesine, deniz seviyesinin yükselmesine, tatlı su kaynaklarının azalmasına ve atmosfer kökenli afetlerin artmasına yol açar.",
-       "sayfa": 123,
-       "yil": "2023-AYT"
-      },
-      {
-       "id": "1.16-07",
-       "tur": "bosluk",
-       "cumle": "Sanayileşmiş büyük kentlerde görülen ve \"Londra tipi\" ile \"Los Angeles tipi\" olarak sınıflandırılan hava kirliliğine ___ denir.",
-       "cevap": "smog",
-       "celdiriciler": [
-        "asit yağmuru",
-        "ozon incelmesi",
-        "sera etkisi"
-       ],
-       "bilgi": "Londra tipi kömür dumanı ile sisin, Los Angeles tipi ise taşıt egzozlarının güneş ışığıyla tepkimesinden oluşan hava kirliliği (smog) türleridir.",
+       "dogru": 0,
+       "bilgi": "Londra tipi smog kömür dumanı ile sisin, Los Angeles tipi (fotokimyasal) smog ise taşıt egzozlarının güneş ışığıyla tepkimesinden oluşur. Her ikisi de durgun havada ve sıcaklık terselmesinin görüldüğü koşullarda ağırlaşır.",
        "sayfa": 124,
        "yil": "2024-AYT"
       },
       {
-       "id": "1.16-08",
-       "tur": "dy",
-       "ifade": "Nükleer enerji, yenilenebilir enerji kaynakları arasında yer alır.",
-       "dogru": false,
-       "bilgi": "Nükleer enerji uranyum gibi tükenebilir yakıtlara dayanır; hidrolik, rüzgâr, dalga ve hidrojen enerjisi ise yenilenebilir kaynaklar arasında sayılır.",
-       "sayfa": 124,
-       "yil": "2026-AYT"
+       "id": "1.16-05",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki uygulamalardan",
+       "oncul": [
+        "Elektrik üretiminde kömür yerine rüzgâr ve güneş enerjisinin kullanılması",
+        "Sanayi tesislerinin şehir merkezlerinden kırsal alanlara taşınması",
+        "Ormanların korunması ve ağaçlandırma yapılması",
+        "Toplu taşımanın ve elektrikli araçların yaygınlaştırılması"
+       ],
+       "kok": "hangileri küresel iklim değişikliğini yavaşlatmaya yöneliktir?",
+       "secenekler": [
+        "I ve III",
+        "I, II ve IV",
+        "I, III ve IV",
+        "II, III ve IV",
+        "I, II, III ve IV"
+       ],
+       "dogru": 2,
+       "bilgi": "İklim değişikliğini yavaşlatmak için sera gazı salımı azaltılmalı, karbon yutakları korunmalıdır; yenilenebilir enerji, ağaçlandırma ve toplu taşıma bunu sağlar. Sanayiyi kırsala taşımak ise salımı azaltmaz, yalnızca yerini değiştirir.",
+       "sayfa": 123,
+       "yil": "2022-AYT"
       }
      ]
     },
@@ -793,10 +1109,24 @@
      "kartlar": [
       {
        "id": "1.17-01",
-       "tur": "dy",
-       "ifade": "Tıbbi atıkların bertaraf edilmesi, bireylerden çok yetkili kurumların sorumluluğundadır.",
-       "dogru": true,
-       "bilgi": "Su ve enerji tasarrufu, çevre dostu araç kullanımı, atıkları ayırma ve çevreci politika talep etme bireysel sorumluluktur; tıbbi atık bertarafı kurumların işidir.",
+       "tur": "secmeli",
+       "soru": "Çevre sorunlarının çözümüne yönelik aşağıdaki sorumluluklardan",
+       "oncul": [
+        "Evde su ve enerji tasarrufu yapmak",
+        "Hastanelerden çıkan tıbbi atıkları bertaraf etmek",
+        "Atıkları türlerine göre ayırarak geri dönüşüme vermek",
+        "Sanayi tesisleri için emisyon sınırlarını belirlemek"
+       ],
+       "kok": "hangileri bireylerin doğrudan yerine getirebileceği sorumluluklardandır?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve III",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+       ],
+       "dogru": 1,
+       "bilgi": "Su ve enerji tasarrufu, atıkları ayırma, çevre dostu ulaşım ve çevreci politikaları talep etmek bireysel sorumluluktur. Tıbbi atıkların bertarafı ve emisyon sınırlarının belirlenmesi yetkili kurumların görevidir.",
        "sayfa": 124,
        "yil": "2024-AYT"
       }
@@ -820,92 +1150,202 @@
      "kartlar": [
       {
        "id": "2.1-01",
-       "tur": "dy",
-       "ifade": "Tropikal yağmur ormanlarının tür bakımından zengin olmasında sürekli yağış, bol su ve yıllık sıcaklık farkının az olması etkilidir.",
-       "dogru": true,
-       "bilgi": "Ekvator çevresindeki konumları, sürekli yağış, bol su ve düşük yıllık sıcaklık farkı bu ormanları en zengin ekosistem yapar; tarım bunun nedeni değildir.",
-       "sayfa": 152,
-       "yil": "2019-AYT"
-      },
-      {
-       "id": "2.1-02",
-       "tur": "dy",
-       "ifade": "Akarsuların denize döküldüğü ağız kesimlerinde besin maddesi az olduğundan biyoçeşitlilik düşüktür.",
-       "dogru": false,
-       "bilgi": "Kıyılarda ve akarsu ağızlarında karalardan taşınan besin maddeleri bol olduğundan canlı çeşitliliği açık denizlere göre fazladır.",
-       "sayfa": 152,
-       "yil": "2020-AYT"
-      },
-      {
-       "id": "2.1-03",
        "tur": "secmeli",
-       "soru": "Yıllık ortalama yağışın 200 mm'nin altında kaldığı ve bitki yaşamının çok sınırlı olduğu alanlara örnek hangisidir?",
-       "secenekler": [
-        "Amazon Havzası",
-        "Sahra Çölü",
-        "Kongo Havzası",
-        "Batı Avrupa ovaları"
+       "soru": "Karbon döngüsüyle ilgili aşağıdaki süreçlerden",
+       "oncul": [
+        "Bitkilerin fotosentez yapması",
+        "Fosil yakıtların yakılması",
+        "Ormanların yakılarak tarım alanına dönüştürülmesi",
+        "Okyanus sularının atmosferdeki karbondioksiti çözmesi"
        ],
-       "dogru": 1,
-       "bilgi": "Yıllık yağışın 200 mm'nin altına düştüğü çöllerde bitkilerin çoğu yaşayamaz; Sahra bu alanların en geniş örneğidir.",
-       "sayfa": 152,
-       "yil": "2021-AYT"
-      },
-      {
-       "id": "2.1-04",
-       "tur": "dy",
-       "ifade": "Bitkiler fotosentez sırasında atmosfere karbon salarak karbon döngüsüne katkıda bulunur.",
-       "dogru": false,
-       "bilgi": "Fotosentezde bitkiler atmosferdeki karbondioksiti bağlar; fosil yakıtların yanması ve kireç taşının ayrışması ise karbonu açığa çıkarır.",
+       "kok": "hangileri atmosferdeki karbondioksit miktarını artırır?",
+       "secenekler": [
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I ve IV",
+        "II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Fotosentezde bitkiler, okyanuslarda ise sular atmosferdeki karbondioksiti bağlayarak karbon yutağı işlevi görür. Fosil yakıtların ve ormanların yakılması ise depolanmış karbonu karbondioksit olarak atmosfere geri verir.",
        "sayfa": 153,
        "yil": "2022-AYT"
       },
       {
-       "id": "2.1-05",
-       "tur": "dy",
-       "ifade": "Okyanusların ışık almayan derin kesimlerinde canlı yaşamı bulunmaz.",
-       "dogru": false,
-       "bilgi": "Işığın ulaşmadığı derinliklerde de canlılar yaşar; denizel ekosistemlerde kıyıya yakın kesimler zengindir ve akıntılar türlerin dağılışını etkiler.",
+       "id": "2.1-02",
+       "tur": "secmeli",
+       "soru": "Denizel ekosistemlerle ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Kıyıya yakın kesimlerde karadan taşınan besin maddeleri nedeniyle canlı çeşitliliği fazladır.",
+        "Akarsu ağızları, açık denizlere göre besin maddesi bakımından zengindir.",
+        "Işığın ulaşmadığı derinliklerde canlı yaşamı bulunmaz.",
+        "Canlı çeşitliliği yaklaşık 200 metre derinliğe kadar olan kesimde fazladır.",
+        "Okyanus akıntıları canlı türlerinin dağılışını etkiler."
+       ],
+       "dogru": 2,
+       "bilgi": "Işığın ulaşmadığı derinliklerde de canlılar yaşar. Ancak su basıncının düşük, ışık geçirgenliğinin yüksek olduğu ve karadan besin taşınan ilk 200 metrelik kesimde, özellikle kıyılarda ve akarsu ağızlarında çeşitlilik daha fazladır.",
        "sayfa": 153,
        "yil": "2023-AYT"
       },
       {
-       "id": "2.1-06",
-       "tur": "dy",
-       "ifade": "Sulak alanların kurutulması; tür kaybı, erozyon, çoraklaşma ve taban suyu seviyesinin düşmesi gibi sorunlara yol açabilir.",
-       "dogru": true,
-       "bilgi": "Sulak alanların kurutulması biyoçeşitliliği azaltır, erozyon ve çoraklaşmayı artırır, taban suyunu düşürür; tektonik depremlerle ise ilgisi yoktur.",
+       "id": "2.1-03",
+       "tur": "secmeli",
+       "soru": "Bir göl ekosisteminde güneş ışığı, su sıcaklığı, suda çözünmüş oksijen, fitoplanktonlar, balıklar ve ölü organizmaları ayrıştıran bakteriler bulunmaktadır.\nBu ekosistemin cansız (abiyotik) bileşenleri aşağıdakilerin hangisinde birlikte verilmiştir?",
+       "secenekler": [
+        "Fitoplanktonlar – Su sıcaklığı",
+        "Güneş ışığı – Çözünmüş oksijen",
+        "Ayrıştırıcı bakteriler – Güneş ışığı",
+        "Balıklar – Çözünmüş oksijen",
+        "Fitoplanktonlar – Ayrıştırıcı bakteriler"
+       ],
+       "dogru": 1,
+       "bilgi": "Işık, sıcaklık, su, oksijen ve toprak ekosistemin cansız bileşenleridir. Üretici fitoplanktonlar, tüketici balıklar ve ayrıştırıcı bakteriler ise canlı (biyotik) bileşenleri oluşturur.",
+       "sayfa": 154,
+       "yil": "2026-AYT"
+      },
+      {
+       "id": "2.1-04",
+       "tur": "secmeli",
+       "soru": "Tarım alanı kazanmak amacıyla bir ovadaki geniş bir sulak alan kurutulmuştur.\nBu uygulamanın sonucunda aşağıdakilerden hangisinin gerçekleşmesi beklenir?",
+       "secenekler": [
+        "Ovadaki biyoçeşitliliğin artması",
+        "Göçmen kuşların konaklama alanlarının genişlemesi",
+        "Çevredeki taban suyu seviyesinin düşmesi",
+        "Ovanın nem oranının artması",
+        "Rüzgâr erozyonu riskinin azalması"
+       ],
+       "dogru": 2,
+       "bilgi": "Sulak alanların kurutulması taban suyunu düşürür; tür kaybına, kuşların yaşam alanlarını yitirmesine, rüzgâr erozyonu ve çoraklaşmaya yol açar. Bu alanlar suyu depolayarak çevrenin nemini ve su dengesini korur.",
        "sayfa": 153,
        "yil": "2024-AYT"
       },
       {
-       "id": "2.1-07",
-       "tur": "bosluk",
-       "cumle": "Denizlerde canlı çeşitliliği, ışığın ve besin maddelerinin bol olduğu yaklaşık ___ metre derinliğe kadar olan kesimde daha fazladır.",
-       "cevap": "200",
-       "celdiriciler": [
-        "50",
-        "1000",
-        "4000"
-       ],
-       "bilgi": "İlk 200 metrede su basıncı düşük, ışık geçirgenliği yüksek, plankton ve karadan gelen besin bol olduğundan canlı çeşitliliği fazladır.",
-       "sayfa": 153,
-       "yil": "2025-AYT"
-      },
-      {
-       "id": "2.1-08",
+       "id": "2.1-05",
        "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi bir ekosistemin cansız (abiyotik) bileşenlerinden biridir?",
+       "soru": "Grafikte K ve L istasyonlarının aylık yağış miktarları gösterilmiştir. Her iki istasyonda da aylık ortalama sıcaklık yıl boyunca 24 °C'nin üzerindedir.\nBuna göre aşağıdakilerden hangisi söylenebilir?",
+       "grafik": {
+        "x": "Aylar (1 = Ocak)",
+        "y": "Yağış (mm)",
+        "seriler": [
+         {
+          "ad": "K",
+          "n": [
+           [
+            1,
+            250
+           ],
+           [
+            2,
+            280
+           ],
+           [
+            3,
+            300
+           ],
+           [
+            4,
+            290
+           ],
+           [
+            5,
+            240
+           ],
+           [
+            6,
+            170
+           ],
+           [
+            7,
+            130
+           ],
+           [
+            8,
+            110
+           ],
+           [
+            9,
+            130
+           ],
+           [
+            10,
+            170
+           ],
+           [
+            11,
+            200
+           ],
+           [
+            12,
+            230
+           ]
+          ]
+         },
+         {
+          "ad": "L",
+          "n": [
+           [
+            1,
+            2
+           ],
+           [
+            2,
+            1
+           ],
+           [
+            3,
+            1
+           ],
+           [
+            4,
+            1
+           ],
+           [
+            5,
+            0
+           ],
+           [
+            6,
+            0
+           ],
+           [
+            7,
+            0
+           ],
+           [
+            8,
+            1
+           ],
+           [
+            9,
+            0
+           ],
+           [
+            10,
+            1
+           ],
+           [
+            11,
+            2
+           ],
+           [
+            12,
+            2
+           ]
+          ]
+         }
+        ]
+       },
        "secenekler": [
-        "Mantarlar",
-        "Planktonlar",
-        "Otçul hayvanlar",
-        "Oksijen"
+        "L'de yıl boyunca yeşil kalan gür ormanlar görülür.",
+        "K'de yağış yıl içinde yalnızca birkaç aya toplanmıştır.",
+        "L'de biyoçeşitliliği sınırlayan temel etken düşük sıcaklıktır.",
+        "K'de tür çeşitliliği L'dekinden fazladır.",
+        "K'nin yıllık yağışı 200 mm'nin altındadır."
        ],
        "dogru": 3,
-       "bilgi": "Su, ışık, sıcaklık, oksijen ve toprak ekosistemin cansız unsurlarıdır; bitkiler, hayvanlar ve ayrıştırıcılar canlı unsurlardır.",
-       "sayfa": 154,
-       "yil": "2026-AYT"
+       "bilgi": "Her ay bol yağış alan, sıcaklık farkı az K tropikal yağmur ormanı gibi tür bakımından zengin bir ortamdır (yıllık yağış yaklaşık 2.500 mm). Yıllık yağışı 200 mm'nin çok altında kalan L'de ise su yetersizliği bitki yaşamını sınırlar.",
+       "sayfa": 152,
+       "yil": "2019-AYT"
       }
      ]
     },
@@ -921,56 +1361,117 @@
      "kartlar": [
       {
        "id": "2.2-01",
-       "tur": "dy",
-       "ifade": "Sıcak hava dalgaları tarımda verimi düşürebilir, orman yangınlarını artırabilir ve barajlardaki su seviyesini azaltabilir.",
-       "dogru": true,
-       "bilgi": "Mevsim normallerinin üzerindeki sıcaklıklar tarımsal verimi, su kaynaklarını ve orman yangını riskini olumsuz etkiler, evsel enerji tüketimini artırır.",
-       "sayfa": 154,
-       "yil": "2020-AYT"
-      },
-      {
-       "id": "2.2-02",
-       "tur": "eslestir",
-       "yonerge": "Ekstrem doğa olaylarını kökenleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Deprem",
-         "Jeolojik (tektonik)"
-        ],
-        [
-         "Heyelan",
-         "Jeomorfolojik (kütle hareketi)"
-        ],
-        [
-         "Buz fırtınası",
-         "Atmosferik"
-        ],
-        [
-         "Gök taşı çarpması",
-         "Astronomik"
-        ]
+       "tur": "secmeli",
+       "soru": "Aşağıdaki ekstrem doğa olayı – köken eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "Deprem – Jeolojik (tektonik)",
+        "Heyelan – Jeomorfolojik (kütle hareketi)",
+        "Buz fırtınası – Atmosferik",
+        "Gök taşı çarpması – Astronomik",
+        "Tropikal siklon – Jeolojik"
        ],
-       "bilgi": "Deprem, tsunami ve volkanizma jeolojik; kütle hareketleri jeomorfolojik; buz fırtınası atmosfer kökenli; gök taşı çarpması astronomik kökenlidir.",
+       "dogru": 4,
+       "bilgi": "Deprem, tsunami ve volkanizma jeolojik; heyelan gibi kütle hareketleri jeomorfolojik; tropikal siklon ve buz fırtınası atmosferik; krater, dev tsunami ve iklim değişikliğine yol açabilen gök taşı çarpmaları astronomik kökenlidir.",
        "sayfa": 154,
        "yil": "2021-AYT"
       },
       {
-       "id": "2.2-03",
-       "tur": "dy",
-       "ifade": "Kısa süreli soğuk hava dalgalarının en belirgin sonucu, bir bölgedeki bitki türlerinin yok olmasıdır.",
-       "dogru": false,
-       "bilgi": "Soğuk hava dalgaları enerji tüketimini artırır ve üretim faaliyetlerini aksatır; bitki türlerinin yok olması bu olayın beklenen etkileri arasında yer almaz.",
+       "id": "2.2-02",
+       "tur": "secmeli",
+       "soru": "Grafikte bir kentte on günlük bir dönemde ölçülen günlük en yüksek sıcaklıklar ile bu dönemin mevsim normali gösterilmiştir.\nBu dönemde kentte ve çevresinde aşağıdakilerden hangisinin görülmesi beklenir?",
+       "grafik": {
+        "x": "Gün",
+        "y": "Sıcaklık (°C)",
+        "seriler": [
+         {
+          "ad": "Ölçülen",
+          "n": [
+           [
+            1,
+            34
+           ],
+           [
+            2,
+            36
+           ],
+           [
+            3,
+            39
+           ],
+           [
+            4,
+            42
+           ],
+           [
+            5,
+            43
+           ],
+           [
+            6,
+            43
+           ],
+           [
+            7,
+            41
+           ],
+           [
+            8,
+            38
+           ],
+           [
+            9,
+            35
+           ],
+           [
+            10,
+            33
+           ]
+          ]
+         },
+         {
+          "ad": "Mevsim normali",
+          "n": [
+           [
+            1,
+            32
+           ],
+           [
+            10,
+            32
+           ]
+          ]
+         }
+        ],
+        "yIsaret": [
+         [
+          10,
+          "10"
+         ],
+         [
+          20,
+          "20"
+         ],
+         [
+          30,
+          "30"
+         ],
+         [
+          40,
+          "40"
+         ]
+        ]
+       },
+       "secenekler": [
+        "Isınma amaçlı doğal gaz tüketiminin artması",
+        "Orman yangını riskinin artması",
+        "Don olayları nedeniyle meyve ağaçlarının zarar görmesi",
+        "Barajlardaki su seviyesinin yükselmesi",
+        "Tarım ürünlerinde verimin artması"
+       ],
+       "dogru": 1,
+       "bilgi": "Mevsim normallerinin belirgin biçimde üzerine çıkan sıcaklıklar sıcak hava dalgasıdır; orman yangını riskini ve klima kaynaklı elektrik tüketimini artırır, tarımsal verimi ve barajlardaki su seviyesini düşürür. Doğal gaz tüketimini soğuk hava dalgaları artırır.",
        "sayfa": 154,
-       "yil": "2023-AYT"
-      },
-      {
-       "id": "2.2-04",
-       "tur": "dy",
-       "ifade": "Ocak ayında sıcaklığın 0 °C'nin altına düşmesi, kışları ılık geçen yerlerde ekstrem bir durum sayılırken kışları sert geçen yerlerde olağandır.",
-       "dogru": true,
-       "bilgi": "Bir hava olayının ekstrem olup olmadığı o yerin mevsim normallerine göre değerlendirilir; kışları ılık geçen bölgelerde don olayı olağan dışıdır.",
-       "sayfa": 155,
-       "yil": "2024-AYT"
+       "yil": "2020-AYT"
       }
      ]
     },
@@ -986,59 +1487,65 @@
      "kartlar": [
       {
        "id": "2.3-01",
-       "tur": "dy",
-       "ifade": "Orman alanlarının hızla yok edilmesi, gelecekte doğal sistemlerde olumsuz değişimlere yol açacak insan kaynaklı etkenlerdendir.",
-       "dogru": true,
-       "bilgi": "Küresel ısınmaya bağlı buzul erimesi ve ormanların yok edilmesi, gelecekte doğal sistemlerde birçok olumsuz duruma neden olacaktır.",
-       "sayfa": 155,
-       "yil": "2018-AYT"
-      },
-      {
-       "id": "2.3-02",
-       "tur": "bosluk",
-       "cumle": "Enerji üretiminde ___ kaynakların kullanımı teşvik edildikçe sera gazı salımı artar ve doğal sistemlerdeki bozulma derinleşir.",
-       "cevap": "fosil",
-       "celdiriciler": [
-        "yenilenebilir",
-        "hidrolik",
-        "güneş"
+       "tur": "secmeli",
+       "soru": "Aşağıdaki uygulamalardan",
+       "oncul": [
+        "Enerji üretiminde fosil yakıtların teşvik edilmesi",
+        "Tropikal ormanların tarım alanı açmak için kesilmesi",
+        "Binalarda enerji verimliliğinin artırılması",
+        "Kentsel atıkların geri dönüştürülmesi"
        ],
-       "bilgi": "Fosil yakıt kullanımının teşviki doğal sistemlerde geri dönülmez sorunları artırır; tasarruf, enerji verimliliği, ağaçlandırma ve geri dönüşüm ise azaltır.",
+       "kok": "hangileri gelecekte doğal sistemlerde görülecek bozulmayı derinleştirir?",
+       "secenekler": [
+        "I ve II",
+        "I ve III",
+        "II ve IV",
+        "III ve IV",
+        "I, II ve IV"
+       ],
+       "dogru": 0,
+       "bilgi": "Fosil yakıtların teşviki sera gazı salımını, ormanların yok edilmesi ise karbon yutaklarının kaybını artırarak iklim değişikliğini hızlandırır. Enerji verimliliği, tasarruf, ağaçlandırma ve geri dönüşüm bu bozulmayı azaltır.",
        "sayfa": 155,
        "yil": "2019-AYT"
       },
       {
-       "id": "2.3-03",
-       "tur": "dy",
-       "ifade": "Küresel iklim değişikliğinin olumsuz etkileri en çok ulaşım sistemleri ve sanayi kuruluşları üzerinde görülür.",
-       "dogru": false,
-       "bilgi": "Küresel iklim değişikliğinin olumsuz etkileri en çok temiz su kaynakları ve tarım toprakları üzerinde görülür.",
-       "sayfa": 155,
-       "yil": "2020-AYT"
-      },
-      {
-       "id": "2.3-04",
-       "tur": "dy",
-       "ifade": "Kurak ve yarı kurak alanlarda sazlık ve bataklıkların kurutulması, çölleşmeye karşı alınan önlemlerdendir.",
-       "dogru": false,
-       "bilgi": "Çölleşmeye karşı çayır-mera ıslahı, yer altı suyu kullanımının denetimi, eğitim ve iklime uygun ürün seçimi önemlidir; sulak alanları kurutmak riski artırır.",
-       "sayfa": 156,
-       "yil": "2022-AYT"
-      },
-      {
-       "id": "2.3-05",
+       "id": "2.3-02",
        "tur": "secmeli",
-       "soru": "Türkiye'de küresel iklim değişikliğine bağlı çölleşme riskinin en düşük olduğu yöre hangisidir?",
+       "soru": "Çölleşme; kurak ve yarı kurak alanlarda iklim değişikliği, aşırı otlatma ve bilinçsiz sulama gibi etkenlerle toprakların verimini yitirmesidir.\nTürkiye'de küresel iklim değişikliğine bağlı çölleşme riskinin en düşük olması beklenen yöre aşağıdakilerden hangisidir?",
        "secenekler": [
         "Konya Kapalı Havzası",
-        "Doğu Karadeniz kıyıları",
         "Harran Ovası",
-        "Iğdır Ovası"
+        "Iğdır Ovası",
+        "Rize çevresi",
+        "Tuz Gölü çevresi"
        ],
-       "dogru": 1,
-       "bilgi": "Türkiye'de çölleşme riski İç Anadolu, Güneydoğu Anadolu ve Iğdır gibi kurak yörelerde yüksek, bol yağış alan Karadeniz kıyılarında düşüktür.",
+       "dogru": 3,
+       "bilgi": "Türkiye'de çölleşme riski İç Anadolu, Güneydoğu Anadolu ve Iğdır gibi yağışı az, buharlaşması fazla yörelerde yüksektir. Her mevsim bol yağış alan Doğu Karadeniz kıyılarında ise risk en düşüktür.",
        "sayfa": 156,
        "yil": "2023-AYT"
+      },
+      {
+       "id": "2.3-03",
+       "tur": "secmeli",
+       "soru": "Çölleşmeyle mücadele kapsamında aşağıdaki uygulamalardan",
+       "oncul": [
+        "Çayır ve meraların ıslah edilmesi",
+        "Yer altı suyu kullanımının denetlenmesi",
+        "Sazlık ve bataklıkların kurutularak tarıma açılması",
+        "İklime uygun, az su isteyen ürünlerin yetiştirilmesi"
+       ],
+       "kok": "hangilerinin yapılması önerilir?",
+       "secenekler": [
+        "I ve IV",
+        "I, II ve IV",
+        "I, III ve IV",
+        "II, III ve IV",
+        "I, II, III ve IV"
+       ],
+       "dogru": 1,
+       "bilgi": "Çölleşmeyle mücadelede mera ıslahı, yer altı suyunun denetimi, eğitim ve iklime uygun ürün seçimi önemlidir; sulak alanları kurutmak ise riski artırır. İklim değişikliği en çok temiz su kaynaklarını ve tarım topraklarını etkiler.",
+       "sayfa": 156,
+       "yil": "2022-AYT"
       }
      ]
     },
@@ -1054,40 +1561,72 @@
       {
        "id": "2.4-01",
        "tur": "secmeli",
-       "soru": "Türkiye'de 1923-1963 döneminde nüfus artışını teşvik eden politikaların temel gerekçesi hangisidir?",
-       "secenekler": [
-        "Savaşlarla azalan nüfusun ülkenin doğal kaynaklarını işlemeye yetmemesi",
-        "Yaşlı nüfus oranının hızla artması",
-        "Doğurganlık hızının çok yüksek olması",
-        "Kentlerde konut sıkıntısının artması"
+       "soru": "Türkiye'de uygulanan nüfus politikalarıyla ilgili aşağıdaki gelişmeler,",
+       "oncul": [
+        "Nüfus artış hızını azaltmak amacıyla Nüfus Planlaması Kanunu'nun çıkarılması",
+        "Savaşlarla azalan nüfusu artırmak için çok çocuklu ailelerin ödüllendirilmesi",
+        "Genç ve dinamik nüfus yapısını korumak için doğumların yeniden teşvik edilmesi"
        ],
-       "dogru": 0,
-       "bilgi": "Cumhuriyet'in ilk yıllarında savaşlar nedeniyle nüfus az olduğundan doğal kaynakları işleyecek ve üretim yapacak nüfusu artırmak amaçlanmıştır.",
-       "sayfa": 157,
-       "yil": "2020-AYT"
+       "kok": "kronolojik sıraya göre dizildiğinde hangi sıralama doğru olur?",
+       "secenekler": [
+        "I - II - III",
+        "I - III - II",
+        "III - I - II",
+        "II - I - III",
+        "III - II - I"
+       ],
+       "dogru": 3,
+       "bilgi": "Cumhuriyet'in ilk yıllarından 1960'lara kadar nüfus artışı teşvik edilmiş, 1965'te çıkarılan Nüfus Planlaması Kanunu ile artış hızını azaltma dönemi başlamıştır. 2014'ten sonra ise genç ve dinamik nüfusu korumak için doğumlar yeniden desteklenmiştir.",
+       "sayfa": 158,
+       "yil": "2025-AYT"
       },
       {
        "id": "2.4-02",
-       "tur": "bosluk",
-       "cumle": "Türkiye'de 2014'ten sonra uygulanan, nüfus artış hızını yükseltmeye yönelik politikaların temel amacı ___ nüfus yapısını korumaktır.",
-       "cevap": "genç ve dinamik",
-       "celdiriciler": [
-        "yaşlı",
-        "kırsal",
-        "kentli"
+       "tur": "secmeli",
+       "soru": "Cumhuriyet'in ilk yıllarında savaşlarla azalan nüfus ülkenin kaynaklarını işlemeye yetmediğinden nüfus artışı teşvik edilmiştir. Tabloda Türkiye'de bazı dönemlerdeki yıllık nüfus artış hızları verilmiştir.\nTabloya ve bilgilerinize göre,",
+       "tablo": [
+        [
+         "Dönem",
+         "Yıllık nüfus artış hızı (‰)"
+        ],
+        [
+         "1927-1935",
+         "21,1"
+        ],
+        [
+         "1945-1950",
+         "21,7"
+        ],
+        [
+         "1950-1955",
+         "27,8"
+        ],
+        [
+         "1955-1960",
+         "28,5"
+        ],
+        [
+         "1960-1965",
+         "24,6"
+        ]
        ],
-       "bilgi": "İlk yıllarda artırıcı, 1960'lardan sonra azaltıcı politikalar izlenmiş; 2014'ten sonra dinamik genç nüfusu korumak için artış teşvik edilmiştir.",
+       "oncul": [
+        "Nüfus artış hızının en yüksek olduğu dönem 1955-1960'tır.",
+        "1960-1965 döneminde Türkiye'nin nüfusu azalmıştır.",
+        "Yüksek artış hızları, nüfus artışını azaltmaya yönelik politikaya geçilmesinde etkili olmuştur."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "En yüksek artış hızı ‰28,5 ile 1955-1960 dönemindedir. 1960-1965'te hız düşse de pozitif kaldığından nüfus artmaya devam etmiştir. Hızlı artış, 1965'te Nüfus Planlaması Kanunu ile azaltıcı politikaya geçilmesine yol açmıştır.",
        "sayfa": 157,
-       "yil": "2023-AYT"
-      },
-      {
-       "id": "2.4-03",
-       "tur": "dy",
-       "ifade": "Nüfus Planlaması Kanunu, Cumhuriyet'in ilk yıllarında nüfus artışını teşvik etmek amacıyla çıkarılmıştır.",
-       "dogru": false,
-       "bilgi": "1965'e kadar çok çocuklu aileler ödüllendirilerek nüfus artışı teşvik edilmiş; 1965'te çıkarılan Nüfus Planlaması Kanunu ise artış hızını azaltmayı amaçlamıştır.",
-       "sayfa": 158,
-       "yil": "2025-AYT"
+       "yil": "2020-AYT"
       }
      ]
     },
@@ -1104,74 +1643,73 @@
      "kartlar": [
       {
        "id": "2.5-01",
-       "tur": "eslestir",
-       "yonerge": "Şehirleri, gelişmelerinde öne çıkan fonksiyonla eşleştir.",
-       "ciftler": [
-        [
-         "Tokyo",
-         "Sanayi"
-        ],
-        [
-         "Johannesburg",
-         "Madencilik"
-        ],
-        [
-         "Mekke",
-         "Din"
-        ],
-        [
-         "Venedik",
-         "Turizm"
-        ]
+       "tur": "secmeli",
+       "soru": "Aşağıdaki şehir – gelişmesinde öne çıkan fonksiyon eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "Tokyo – Sanayi",
+        "Johannesburg – Madencilik",
+        "Mekke – Din",
+        "Venedik – Turizm",
+        "Brasilia – Madencilik"
        ],
-       "bilgi": "Şehirlerin nüfuslanmasında farklı fonksiyonlar belirleyici olur; Tokyo'nun büyümesinde sanayi fonksiyonu öne çıkar.",
+       "dogru": 4,
+       "bilgi": "Brasilia, ülkenin iç kesimlerini kalkındırmak amacıyla planlanarak kurulmuş bir başkenttir; gelişmesinde yönetim fonksiyonu öne çıkar. Johannesburg altın madenciliği, Tokyo sanayi, Mekke din, Venedik turizm fonksiyonuyla öne çıkar.",
        "sayfa": 158,
        "yil": "2018-AYT"
       },
       {
        "id": "2.5-02",
-       "tur": "dy",
-       "ifade": "Şehirlerin etki alanlarının genişliği, yüz ölçümlerinden çok sahip oldukları fonksiyonlara bağlıdır.",
-       "dogru": true,
-       "bilgi": "New York'un küresel etki alanının Kiev'den geniş olmasının temel nedeni, sahip olduğu ekonomik, kültürel ve siyasi fonksiyonların çeşitliliğidir.",
+       "tur": "secmeli",
+       "soru": "New York; dünyanın en büyük borsalarından birini, çok sayıda uluslararası şirketin merkezini ve BM gibi kuruluşları barındıran küresel bir şehirdir. Yüz ölçümü New York'tan büyük olan bazı şehirlerin etki alanı ise ülke sınırlarını aşmaz.\nBuna göre bir şehrin etki alanıyla ilgili,",
+       "oncul": [
+        "Şehrin sahip olduğu ekonomik, kültürel ve siyasi fonksiyonların çeşitliliğine bağlıdır.",
+        "Şehrin yüz ölçümü arttıkça kesinlikle genişler.",
+        "Banka, sigorta ve uluslararası ulaşım hizmetleri tarafından genişletilir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Şehirlerin etki alanını yüz ölçümü değil sahip oldukları fonksiyonlar belirler. Küresel şehirlerin etkisi; uluslararası ulaşım ağı, banka ve sigorta hizmetleri, eğitim-kültür faaliyetleri ve bilim-teknolojideki uzmanlaşmadan kaynaklanır.",
        "sayfa": 158,
        "yil": "2019-AYT"
       },
       {
        "id": "2.5-03",
        "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi ilk şehir yerleşmelerinin ortaya çıktığı alanlardan biridir?",
+       "soru": "Tabloda Türkiye'deki üç kır yerleşmesi tipinin özellikleri verilmiştir.\nK, L ve M yerleşmeleri sırasıyla aşağıdakilerin hangisinde doğru verilmiştir?",
+       "tablo": [
+        [
+         "Yerleşme",
+         "Özelliği"
+        ],
+        [
+         "K",
+         "Yazın hayvanlarla çıkılan yüksek otlak"
+        ],
+        [
+         "L",
+         "Konar-göçerlerin çadırlı geçici yeri"
+        ],
+        [
+         "M",
+         "Köye bağlı, tarlaya yakın birkaç ev"
+        ]
+       ],
        "secenekler": [
-        "Sibirya tundraları",
-        "Amazon Havzası",
-        "Dicle ile Fırat arasındaki Mezopotamya",
-        "İskandinav kıyıları"
+        "Oba – Yayla – Mezra",
+        "Yayla – Oba – Mezra",
+        "Mezra – Oba – Yayla",
+        "Yayla – Mezra – Oba",
+        "Oba – Mezra – Yayla"
        ],
-       "dogru": 2,
-       "bilgi": "İlk şehirler su kaynakları, verimli toprak, tarım alanları ve ılıman iklimin bulunduğu Mezopotamya, Nil, İndus ve Çin'deki akarsu boylarında doğmuştur.",
-       "sayfa": 158,
-       "yil": "2024-AYT"
-      },
-      {
-       "id": "2.5-04",
-       "tur": "dy",
-       "ifade": "Küresel şehirlerin dünya genelinde etki alanına sahip olmasının temel nedeni zengin yer altı kaynaklarıdır.",
-       "dogru": false,
-       "bilgi": "Küresel şehirlerin etkisi; uluslararası ulaşım ağı, banka ve sigorta hizmetleri, eğitim-kültür faaliyetleri ve bilim-teknolojideki uzmanlaşmadan kaynaklanır.",
-       "sayfa": 159,
-       "yil": "2024-AYT"
-      },
-      {
-       "id": "2.5-05",
-       "tur": "bosluk",
-       "cumle": "Hayvancılığın ön planda olduğu, konar-göçerlerce kullanılan dönemlik kır yerleşmesine ___ denir.",
-       "cevap": "oba",
-       "celdiriciler": [
-        "mezra",
-        "çiftlik",
-        "divan"
-       ],
-       "bilgi": "Obalar hayvancılığa dayalı dönemlik kır yerleşmeleridir; Türkiye'de en çok Toroslarda görülür, Ergene ve Konya ovalarında yaygın değildir.",
+       "dogru": 1,
+       "bilgi": "Yayla, yazın hayvanlarla çıkılan yüksek otlak yerleşmesidir. Oba, hayvancılıkla geçinen konar-göçerlerin dönemlik yerleşmesidir ve en çok Toroslarda görülür. Mezra ise köye bağlı, tarım alanlarına yakın küçük yerleşmedir.",
        "sayfa": 159,
        "yil": "2026-AYT"
       }
@@ -1190,47 +1728,106 @@
      "kartlar": [
       {
        "id": "2.6-01",
-       "tur": "bosluk",
-       "cumle": "Taş kömürü, sanayide enerji kaynağı olarak ilk kez ___ kullanılmıştır.",
-       "cevap": "İngiltere'de",
-       "celdiriciler": [
-        "Almanya'da",
-        "Fransa'da",
-        "ABD'de"
+       "tur": "secmeli",
+       "soru": "Tabloda bir ülkenin elektrik üretiminde kullandığı kaynakların payları verilmiştir.\nBuna göre bu ülkenin elektrik üretiminde yenilenebilir kaynakların payı yüzde kaçtır?",
+       "tablo": [
+        [
+         "Kaynak",
+         "Pay (%)"
+        ],
+        [
+         "Doğal gaz",
+         "30"
+        ],
+        [
+         "Kömür",
+         "25"
+        ],
+        [
+         "Hidrolik",
+         "20"
+        ],
+        [
+         "Rüzgâr",
+         "10"
+        ],
+        [
+         "Nükleer",
+         "8"
+        ],
+        [
+         "Jeotermal",
+         "4"
+        ],
+        [
+         "Güneş",
+         "3"
+        ]
        ],
-       "bilgi": "Sanayi Devrimi İngiltere'de başlamış; buhar makinelerinde taş kömürü ilk kez burada sanayi enerjisi olarak kullanılmıştır.",
-       "sayfa": 159,
+       "secenekler": [
+        "33",
+        "37",
+        "41",
+        "45",
+        "55"
+       ],
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "Hidrolik, rüzgâr, jeotermal ve güneş yenilenebilir kaynaklardır: 20 + 10 + 4 + 3 = 37. Nükleer enerji ise tükenebilir uranyuma dayandığından doğal gaz ve kömür gibi yenilenemez kaynaklar arasında yer alır.",
+       "sayfa": 160,
        "yil": "2020-AYT"
       },
       {
        "id": "2.6-02",
-       "tur": "dy",
-       "ifade": "Ham madde bakımından zengin bazı az gelişmiş ülkelerin işlenmiş ürünleri dışarıdan almasının temel nedeni teknoloji ve nitelikli iş gücü eksikliğidir.",
-       "dogru": true,
-       "bilgi": "Teknolojisi ve nitelikli insan gücü yetersiz ülkeler ham maddelerini işleyemez; ham madde satıp mamul ürün satın alırlar.",
+       "tur": "secmeli",
+       "soru": "Zengin petrol, bakır ve kakao kaynaklarına sahip K ülkesinin dış ticaretinde ilk sırada yer alan ürünler tabloda verilmiştir.\nK ülkesinin bu dış ticaret yapısının temel nedeni aşağıdakilerden hangisidir?",
+       "tablo": [
+        [
+         "Sıra",
+         "Dış satım",
+         "Dış alım"
+        ],
+        [
+         "1",
+         "Ham petrol",
+         "Rafine petrol ürünleri"
+        ],
+        [
+         "2",
+         "Bakır cevheri",
+         "Makine ve elektronik"
+        ],
+        [
+         "3",
+         "Kakao çekirdeği",
+         "Çikolata ve işlenmiş gıda"
+        ]
+       ],
+       "secenekler": [
+        "Ham madde rezervlerinin kısa süre içinde tükenecek olması",
+        "Nüfusunun büyük bölümünün sanayi sektöründe çalışması",
+        "Teknolojisinin ve nitelikli iş gücünün yetersiz olması",
+        "İşlenmiş ürünlerin taşıma maliyetinin ham maddeden düşük olması",
+        "Ham madde üretiminin dünya pazarına göre çok az olması"
+       ],
+       "dogru": 2,
+       "bilgi": "Teknolojisi ve nitelikli insan gücü yetersiz ülkeler ham maddelerini işleyemez; ham maddeyi düşük fiyatla satıp işlenmiş ürünleri yüksek fiyatla satın alır. Bu durum dış ticaret açığına ve dışa bağımlılığa yol açar.",
        "sayfa": 159,
        "yil": "2020-AYT"
       },
       {
        "id": "2.6-03",
-       "tur": "bosluk",
-       "cumle": "Petrol, doğal gaz, taş kömürü ve linyitin aksine ___ enerji tükenmeyen (yenilenebilir) bir kaynaktır.",
-       "cevap": "jeotermal",
-       "celdiriciler": [
-        "nükleer",
-        "termik",
-        "fosil"
+       "tur": "secmeli",
+       "soru": "Soğutmalı taşıt ve depoların, vakumlu paketleme sistemlerinin gelişmesi tarım ürünlerinin ticaretini önemli ölçüde değiştirmiştir.\nBu gelişmenin sonuçlarından biri aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Tarım ürünlerinin yetiştirildiği alanların iklim koşullarının değişmesi",
+        "Çabuk bozulan ürünlerde pazara yakın olma zorunluluğunun azalması",
+        "Yaş meyve ve sebze ticaretinin hacminin azalması",
+        "Tarım ürünlerinin yalnızca üretildiği ülkede tüketilmesi",
+        "Seracılığın tamamen ortadan kalkması"
        ],
-       "bilgi": "Petrol, doğal gaz, taş kömürü ve linyit belirli rezervi olan ve zamanla tükenecek kaynaklardır; jeotermal enerji ise yenilenebilir.",
-       "sayfa": 160,
-       "yil": "2020-AYT"
-      },
-      {
-       "id": "2.6-04",
-       "tur": "dy",
-       "ifade": "Soğutmalı taşıtların ve paketleme sistemlerinin gelişmesi, çabuk bozulan tarım ürünlerinin uzak pazarlara ulaştırılmasını sağlamıştır.",
-       "dogru": true,
-       "bilgi": "Soğutmalı ulaşım araçları ve gelişmiş paketleme, çabuk bozulan ürünlerde pazara yakın olma zorunluluğunu büyük ölçüde ortadan kaldırmıştır.",
+       "dogru": 1,
+       "bilgi": "Soğutmalı ulaşım ve gelişmiş paketleme, çabuk bozulan ürünlerin uzak pazarlara ulaştırılmasını sağlamış; pazara yakın olma zorunluluğunu azaltmış ve tarım ürünleri ticaretini artırmıştır.",
        "sayfa": 160,
        "yil": "2022-AYT"
       }
@@ -1250,93 +1847,120 @@
       {
        "id": "2.7-01",
        "tur": "secmeli",
-       "soru": "Türkiye'de taş kömürü üretiminin büyük bölümü hangi havzadan karşılanır?",
+       "soru": "Aşağıdaki maden – Türkiye'de başlıca çıkarıldığı yer eşleştirmelerinden hangisi yanlıştır?",
        "secenekler": [
-        "Afşin-Elbistan",
-        "Soma",
-        "Zonguldak",
-        "Tunçbilek"
+        "Taş kömürü – Zonguldak",
+        "Bor – Kırka (Eskişehir)",
+        "Linyit – Afşin-Elbistan (Kahramanmaraş)",
+        "Bakır – Murgul (Artvin)",
+        "Krom – Bigadiç (Balıkesir)"
        ],
-       "dogru": 2,
-       "bilgi": "Türkiye'nin taş kömürü üretiminin büyük bölümü Zonguldak havzasından sağlanır; Afşin-Elbistan, Soma ve Tunçbilek ise linyit sahalarıdır.",
+       "dogru": 4,
+       "bilgi": "Bigadiç; Kırka, Emet ve Kestelek gibi eski göl tabanlarındaki bor sahalarındandır ve dünya bor rezervlerinin %70'ten fazlası Türkiye'dedir. Krom ise başta Elazığ (Guleman) ve Muğla (Fethiye) çevresinden çıkarılır. Taş kömürünün çoğu Zonguldak havzasından sağlanır.",
        "sayfa": 161,
        "yil": "2018-AYT"
       },
       {
        "id": "2.7-02",
-       "tur": "dy",
-       "ifade": "İç Anadolu'daki geniş düzlükler, Türkiye'nin önemli tahıl üretim alanlarını oluşturur.",
-       "dogru": true,
-       "bilgi": "Yer şekilleri bitkisel üretimi etkiler: dağlık ve eğimli alanların fazlalığı tarımı kısıtlarken iç kesimlerdeki geniş düzlükler tahıl tarımına elverişlidir.",
+       "tur": "secmeli",
+       "soru": "Konya Ovası'ndaki geniş düzlüklerde biçerdöverlerle tahıl hasadı yapılırken Doğu Karadeniz'de çay, dik yamaçlarda oluşturulan bahçelerde elle toplanmaktadır.\nİki yöre arasındaki tarım yöntemi farkının temel nedeni aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Yıllık yağış miktarlarının farklı olması",
+        "Toprakların farklı ana kayalardan oluşması",
+        "Yer şekillerinin farklı olması",
+        "Nüfus yoğunluklarının farklı olması",
+        "Tüketim pazarlarına uzaklıklarının farklı olması"
+       ],
+       "dogru": 2,
+       "bilgi": "Geniş düzlükler makineli tarıma elverişliyken dağlık ve eğimli arazi makine kullanımını ve tarla tarımını kısıtlar. Türkiye'de ılıman kuşakta yer alma ve verimli delta ovaları da tarımı kolaylaştıran doğal etkenlerdendir.",
        "sayfa": 161,
        "yil": "2020-AYT"
       },
       {
        "id": "2.7-03",
-       "tur": "bosluk",
-       "cumle": "Şeker ve konserve fabrikaları gibi tarım ürünlerini işleyen tesislerin ürünlerin yetiştiği alanlara yakın kurulması, sanayide ___ faktörünün etkisini gösterir.",
-       "cevap": "ham madde",
-       "celdiriciler": [
-        "pazar",
-        "sermaye",
-        "enerji"
+       "tur": "secmeli",
+       "soru": "Bazı sanayi tesisleri, taşıma maliyetini azaltmak ve ham maddenin bozulmadan işlenmesini sağlamak için ham madde kaynaklarının yakınına kurulur.\nAşağıdaki sanayi tesislerinden hangisinin kuruluş yerinin seçiminde bu etkenin önemi en azdır?",
+       "secenekler": [
+        "Şeker fabrikası",
+        "Çay işleme fabrikası",
+        "Salça fabrikası",
+        "Süt ürünleri fabrikası",
+        "Otomobil fabrikası"
        ],
-       "bilgi": "Tarım ürünlerini işleyen ve çabuk bozulan ham maddeye bağlı tesisler, taşıma maliyetini azaltmak için ham madde alanlarına yakın kurulur.",
+       "dogru": 4,
+       "bilgi": "Şeker pancarı, yaş çay, domates ve süt çabuk bozulduğu ya da ağırlık kaybettiği için bunları işleyen tesisler üretim alanlarına yakın kurulur. Otomobil fabrikalarında ise pazar, ulaşım, iş gücü ve yan sanayi daha belirleyicidir.",
        "sayfa": 161,
        "yil": "2021-AYT"
       },
       {
        "id": "2.7-04",
-       "tur": "bosluk",
-       "cumle": "Dünya rezervlerinin %70'ten fazlası Türkiye'de bulunan metalik olmayan maden ___, başta Balıkesir, Kütahya, Eskişehir ve Bursa'dan çıkarılır.",
-       "cevap": "bor",
-       "celdiriciler": [
-        "krom",
-        "mermer",
-        "barit"
+       "tur": "secmeli",
+       "soru": "Tabloda Türkiye'de 2023 yılında elektrik üretiminde kullanılan kaynakların yaklaşık payları verilmiştir.\nTabloya ve bilgilerinize göre,",
+       "tablo": [
+        [
+         "Kaynak",
+         "Pay (%)"
+        ],
+        [
+         "Kömür",
+         "36"
+        ],
+        [
+         "Doğal gaz",
+         "21"
+        ],
+        [
+         "Hidrolik",
+         "20"
+        ],
+        [
+         "Rüzgâr",
+         "10"
+        ],
+        [
+         "Güneş",
+         "7"
+        ],
+        [
+         "Jeotermal",
+         "3"
+        ],
+        [
+         "Diğer",
+         "3"
+        ]
        ],
-       "bilgi": "Eski göl tabanlarındaki tortul depolarda oluşan bor; Bigadiç (Balıkesir), Emet (Kütahya), Kırka (Eskişehir) ve Kestelek (Bursa) sahalarından çıkarılır.",
-       "sayfa": 161,
-       "yil": "2021-AYT"
+       "oncul": [
+        "Elektrik üretiminde kullanılan doğal gazın tamamı yurt içinden karşılanmaktadır.",
+        "Fosil kaynakların payı yenilenebilir kaynakların payından fazladır.",
+        "Yenilenebilir kaynaklar içinde en büyük pay hidrolik enerjiye aittir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Kömür ve doğal gazın payı (%57) yenilenebilir kaynakların payından (%40) fazladır; yenilenebilirler içinde ilk sırada hidrolik enerji gelir. Türkiye doğal gaz ihtiyacının büyük bölümünü ithalatla karşılar.",
+       "sayfa": 162,
+       "yil": "2023-AYT"
       },
       {
        "id": "2.7-05",
-       "tur": "dy",
-       "ifade": "Organik tarımın temel amacı, kimyasal girdiler kullanarak birim alandan alınan verimi artırmaktır.",
-       "dogru": false,
-       "bilgi": "Organik tarım kimyasal girdi kullanmadan, kontrollü ve sertifikalı üretim yapar; toprağı ve yer altı sularını korumayı, güvenilir gıdaya erişimi amaçlar.",
-       "sayfa": 162,
-       "yil": "2023-AYT"
-      },
-      {
-       "id": "2.7-06",
-       "tur": "bosluk",
-       "cumle": "Türkiye'de yenilenebilir kaynaklardan elde edilen elektrik üretiminde ilk sırada ___ enerji yer alır.",
-       "cevap": "hidrolik",
-       "celdiriciler": [
-        "rüzgâr",
-        "güneş",
-        "jeotermal"
+       "tur": "secmeli",
+       "soru": "Çeltik, yetişme döneminde yüksek sıcaklık ve tarlaların su altında tutulmasını gerektirecek kadar bol su isteyen bir bitkidir.\nTürkiye'de çeltik tarımının aşağıdaki alanların hangisinde yaygın olması beklenmez?",
+       "secenekler": [
+        "Meriç-Ergene boyları",
+        "Kızılırmak'ın aşağı çığırı (Bafra)",
+        "Gönen Ovası (Balıkesir)",
+        "Osmancık (Çorum)",
+        "Erzurum Ovası"
        ],
-       "bilgi": "Türkiye'de yenilenebilir kaynakların elektrik üretimindeki payı giderek artmaktadır; bu kaynaklar içinde en büyük pay hidrolik enerjiye aittir.",
-       "sayfa": 162,
-       "yil": "2023-AYT"
-      },
-      {
-       "id": "2.7-07",
-       "tur": "dy",
-       "ifade": "Türkiye'de enerji üretiminde en yüksek pay yenilenebilir enerji kaynaklarına aittir.",
-       "dogru": false,
-       "bilgi": "Türkiye'de enerji üretiminde fosil kaynakların payı hâlâ yenilenebilir kaynaklardan fazladır; enerji ihtiyacının bir kısmı da ithalatla karşılanır.",
-       "sayfa": 162,
-       "yil": "2024-AYT"
-      },
-      {
-       "id": "2.7-08",
-       "tur": "dy",
-       "ifade": "Yüksek sıcaklık ve bol su isteyen çeltik, Türkiye'de en çok Meriç-Ergene ile Kızılırmak boylarında yetiştirilir.",
-       "dogru": true,
-       "bilgi": "Çeltik akarsu boylarında ve vadi tabanlarında yetişir; Edirne (Meriç-Ergene), Samsun ve Çorum (Kızılırmak) ile Balıkesir başlıca üretim alanlarıdır.",
+       "dogru": 4,
+       "bilgi": "Çeltik akarsu boylarında ve vadi tabanlarında yetişir; Edirne (Meriç-Ergene), Samsun-Bafra, Çorum-Osmancık ve Balıkesir başlıca üretim alanlarıdır. Yüksek ve kışları uzun Erzurum Ovası'nda yaz sıcaklığı ve yetişme süresi yetersizdir.",
        "sayfa": 162,
        "yil": "2026-AYT"
       }
@@ -1355,77 +1979,79 @@
      "kartlar": [
       {
        "id": "2.8-01",
-       "tur": "dy",
-       "ifade": "Bilgi toplumunda nitelikli insan gücünü ve refahı artırmanın en etkili yolu nüfus artışını hızlandırmaktır.",
-       "dogru": false,
-       "bilgi": "Bilginin, nitelikli insan gücünün ve refahın artırılmasında bilgi ve teknolojinin geliştirilmesi ile kaynak verimliliğinin artırılması daha etkilidir.",
-       "sayfa": 163,
-       "yil": "2018-AYT"
-      },
-      {
-       "id": "2.8-02",
-       "tur": "dy",
-       "ifade": "Sanayileşmeyle büyüyen şehirlerde göç hızlanır ve ulaşım hizmetlerine olan talep artar.",
-       "dogru": true,
-       "bilgi": "Sanayi şehirlerinin ortak özellikleri arasında hızlanan göç ve artan ulaşım talebi vardır; tarımsal üretimin artması bu şehirlerin ortak özelliği değildir.",
-       "sayfa": 163,
-       "yil": "2020-AYT"
-      },
-      {
-       "id": "2.8-03",
-       "tur": "bosluk",
-       "cumle": "Kentlilerin boş zamanlarında dinlenmek, eğlenmek ve kendini geliştirmek için katıldığı sanatsal, sportif ve kültürel etkinliklere ___ faaliyetleri denir.",
-       "cevap": "rekreasyon",
-       "celdiriciler": [
-        "istihdam",
-        "üretim",
-        "ticaret"
-       ],
-       "bilgi": "Boş zamanda yapılan sanat, spor ve hobi etkinlikleri rekreasyon faaliyetleridir; daha fazla gelir için yapılan ek işler bu kapsamda değildir.",
-       "sayfa": 163,
-       "yil": "2021-AYT"
-      },
-      {
-       "id": "2.8-04",
        "tur": "secmeli",
-       "soru": "Petrol çıkarımı ve rafineri yatırımlarıyla küçük bir köyken hızla büyüyerek şehre dönüşen yerleşme hangisidir?",
+       "soru": "1940'larda yakınında petrol bulunan ve 1955'te rafineri kurulan küçük bir köy hızla büyüyerek şehre dönüşmüş, 1990'da il merkezi olmuştur.\nBu yerleşmeyle ilgili,",
+       "oncul": [
+        "Gelişmesinde madencilik ve sanayi fonksiyonları etkili olmuştur.",
+        "Hızla büyümesinde çevresinden aldığı göçlerin payı vardır.",
+        "Şehre dönüşmesinde tarımsal üretimin artması belirleyici olmuştur."
+       ],
+       "kok": "yargılarından hangilerine ulaşılabilir?",
        "secenekler": [
-        "Kayseri",
-        "Batman",
-        "Sivas",
-        "Trabzon"
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
        ],
        "dogru": 1,
-       "bilgi": "Cumhuriyet döneminde sanayi yatırımlarıyla kırsal bir yerleşmeden şehre dönüşen yerleşmelere Batman (petrol ve rafineri) örnek verilebilir.",
+       "bilgi": "Betimlenen yerleşme Batman'dır: Raman'da petrol bulunması ve rafinerinin kurulmasıyla iş olanakları artmış, göç alarak büyüyen köy 1990'da il olmuştur. Sanayi şehirlerinde göç hızlanır ve ulaşım hizmetlerine talep artar.",
        "sayfa": 164,
        "yil": "2023-AYT"
       },
       {
-       "id": "2.8-05",
-       "tur": "dy",
-       "ifade": "Küreselleşen geleceğin ekonomisinde birincil sektörde çalışanların oranının artması beklenir.",
-       "dogru": false,
-       "bilgi": "Geleceğin ekonomisinde AR-GE, küresel rekabet, sürekli eğitim ve dijitalleşme öne çıkacak; birincil sektördeki istihdam oranı ise azalacaktır.",
+       "id": "2.8-02",
+       "tur": "secmeli",
+       "soru": "Bilgi ve teknolojinin hızla geliştiği, küreselleşen geleceğin ekonomisinde aşağıdakilerden hangisinin gerçekleşmesi beklenmez?",
+       "secenekler": [
+        "AR-GE faaliyetlerinin öneminin artması",
+        "Yeni iş kollarının ve mesleklerin ortaya çıkması",
+        "Sürekli eğitimin önem kazanması",
+        "Ticaret ve hizmetlerde dijitalleşmenin yaygınlaşması",
+        "Birincil sektörde çalışanların payının artması"
+       ],
+       "dogru": 4,
+       "bilgi": "Geleceğin ekonomisinde AR-GE, küresel rekabet, sürekli eğitim ve dijitalleşme öne çıkacak, yeni meslekler doğacaktır. Tarımda verim artarken birincil sektördeki istihdam payı azalacaktır; refahı artırmanın yolu nitelikli insan gücüdür.",
        "sayfa": 164,
        "yil": "2024-AYT"
       },
       {
-       "id": "2.8-06",
-       "tur": "dy",
-       "ifade": "Şehirleşmeyle birlikte imece gibi geleneksel yardımlaşma biçimleri yaygınlaşır.",
-       "dogru": false,
-       "bilgi": "Şehirleşme eğitim ve sağlık hizmetlerine erişimi artırır, geniş aileyi çekirdek aileye dönüştürür; imece gibi yardımlaşma biçimleri ise zayıflar.",
+       "id": "2.8-03",
+       "tur": "secmeli",
+       "soru": "Şehirleşmenin toplumsal yapıya etkileriyle ilgili,",
+       "oncul": [
+        "Geniş aile yerini büyük ölçüde çekirdek aileye bırakır.",
+        "İmece gibi geleneksel yardımlaşma biçimleri güçlenir.",
+        "Kırsal kesime özgü gelenek ve görenekler değişmeden sürdürülür."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Şehirleşmeyle geniş aile çekirdek aileye dönüşür, eğitim ve sağlık hizmetlerine erişim kolaylaşır. Kırsal toplumlara özgü imece gibi yardımlaşma biçimleri ve gelenekler ise şehirlerde zayıflar ve değişir.",
        "sayfa": 164,
        "yil": "2026-AYT"
       },
       {
-       "id": "2.8-07",
-       "tur": "dy",
-       "ifade": "Teknolojik gelişmelere bağlı olarak gelecekte yeni iş kollarının ve mesleklerin ortaya çıkması beklenir.",
-       "dogru": true,
-       "bilgi": "Gelecekte tarımda verim artışı, yeni meslekler, geri dönüşümün yaygınlaşması ve küresel pazar beklenir; birincil faaliyetlerde istihdam oranının yükselmesi beklenmez.",
-       "sayfa": 164,
-       "yil": "2026-AYT"
+       "id": "2.8-04",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi rekreasyon faaliyetine örnektir?",
+       "secenekler": [
+        "Ek gelir için hafta sonları bir markette çalışmak",
+        "Boş zamanında bir koroda şarkı söylemek",
+        "İşe gidip gelmek için toplu taşımayı kullanmak",
+        "Fazla mesai yaparak bir projeyi tamamlamak",
+        "Evin aylık alışverişini yapmak"
+       ],
+       "dogru": 1,
+       "bilgi": "Rekreasyon; kişinin boş zamanında dinlenmek, eğlenmek ve kendini geliştirmek için katıldığı sanat, spor ve doğa etkinlikleridir. Ek gelir için yapılan işler, fazla mesai ve günlük zorunlu işler bu kapsamda değildir.",
+       "sayfa": 163,
+       "yil": "2021-AYT"
       }
      ]
     },
@@ -1442,83 +2068,95 @@
       {
        "id": "2.9-01",
        "tur": "secmeli",
-       "soru": "Güneydoğu Anadolu Projesi'nde Fırat ve Dicle üzerine kurulan barajların öncelikli hedefi hangisidir?",
+       "soru": "Güneydoğu Anadolu Projesi (GAP) kapsamında Fırat ve Dicle üzerine kurulan barajlar ve sulama kanallarıyla bölgede yaşanan gelişmelerle ilgili,",
+       "oncul": [
+        "Sulamaya açılan alanlarda ürün çeşitliliği ve verim artmıştır.",
+        "Organize sanayi bölgelerinin sayısı artmıştır.",
+        "Bölge, Türkiye'nin başlıca kış turizmi merkezine dönüşmüştür.",
+        "Barajlarda hidroelektrik enerji üretilmektedir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Sulama ve hidroelektrik üretimi",
-        "Kış turizminin geliştirilmesi",
-        "İç su yolu taşımacılığı",
-        "Orman ürünleri sanayisinin kurulması"
+        "I ve II",
+        "I ve IV",
+        "I, II ve IV",
+        "I, III ve IV",
+        "II, III ve IV"
        ],
-       "dogru": 0,
-       "bilgi": "GAP barajlarıyla tarım alanlarının sulanması ve hidroelektrik üretimi hedeflenmiş; proje tarım, enerji ve sanayiyi turizme göre daha çok etkilemiştir.",
-       "sayfa": 165,
-       "yil": "2018-AYT"
-      },
-      {
-       "id": "2.9-02",
-       "tur": "eslestir",
-       "yonerge": "Bölgesel kalkınma projelerini kapsadıkları alanlarla eşleştir.",
-       "ciftler": [
-        [
-         "GAP",
-         "Fırat-Dicle havzasındaki Güneydoğu Anadolu illeri"
-        ],
-        [
-         "DOKAP",
-         "Doğu Karadeniz illeri"
-        ],
-        [
-         "KOP",
-         "Konya Ovası ve çevresi"
-        ],
-        [
-         "DAP",
-         "Doğu Anadolu illeri"
-        ]
-       ],
-       "bilgi": "GAP, DAP, DOKAP, KOP ve Yeşilırmak Havzası Gelişim Projesi bölgesel kalkınma projeleridir; Kalkınmada Öncelikli İller ise bölgesel bir proje değildir.",
-       "sayfa": 165,
-       "yil": "2019-AYT"
-      },
-      {
-       "id": "2.9-03",
-       "tur": "dy",
-       "ifade": "Doğu Anadolu Projesi'nin temel amacı bölgede ağır sanayiye dayalı bir ekonomiye geçmektir.",
-       "dogru": false,
-       "bilgi": "DAP; tarım ve hayvancılıkta verim ve geliri artırmayı, bölge dışına göçü azaltmayı, refahı yükseltmeyi ve bölgeler arası dengesizliği gidermeyi amaçlar.",
-       "sayfa": 165,
-       "yil": "2021-AYT"
-      },
-      {
-       "id": "2.9-04",
-       "tur": "dy",
-       "ifade": "GAP ile sulamaya açılan alanlarda tarımsal ürün çeşitliliği ve verim artmış, organize sanayi bölgelerinin sayısı çoğalmıştır.",
-       "dogru": true,
-       "bilgi": "GAP bölgede tarımsal çeşitlilik ve verimi artırmış, organize sanayi bölgelerinin çoğalmasını sağlamıştır; kış turizmi üzerinde belirgin bir etkisi yoktur.",
+       "dogru": 2,
+       "bilgi": "GAP barajlarıyla öncelikle sulama ve hidroelektrik üretimi hedeflenmiş; sulanan alanlarda ürün çeşitliliği ve verim artmış, organize sanayi bölgeleri çoğalmıştır. Proje turizmi tarım, enerji ve sanayiye göre çok daha az etkilemiştir.",
        "sayfa": 165,
        "yil": "2022-AYT"
       },
       {
-       "id": "2.9-05",
-       "tur": "dy",
-       "ifade": "Çankırı, Doğu Karadeniz Projesi (DOKAP) kapsamındaki illerden biridir.",
-       "dogru": false,
-       "bilgi": "DOKAP kapsamında Trabzon, Rize, Ordu, Bayburt, Tokat ve Amasya gibi iller bulunur; Çankırı bu projenin kapsamında değildir.",
+       "id": "2.9-02",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki bölgesel kalkınma projesi – amaç eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "GAP – Fırat ve Dicle'nin su potansiyeliyle sulama ve enerji üretimi",
+        "DOKAP – Yayla turizmi ve sürdürülebilir balıkçılığın geliştirilmesi",
+        "KOP – Sulama, AR-GE ve yenilenebilir enerji yatırımlarının artırılması",
+        "DAP – Bölgenin ağır sanayiye dayalı bir ekonomiye dönüştürülmesi",
+        "Yeşilırmak Havzası Gelişim Projesi – Havza kaynaklarının sürdürülebilir kullanımı"
+       ],
+       "dogru": 3,
+       "bilgi": "DAP; tarım ve hayvancılıkta verimi ve geliri artırmayı, bölge dışına göçü azaltmayı, refahı yükseltip bölgeler arası dengesizliği gidermeyi amaçlar. GAP, DAP, DOKAP, KOP ve Yeşilırmak projeleri bölgesel kalkınma projeleridir.",
+       "sayfa": 165,
+       "yil": "2021-AYT"
+      },
+      {
+       "id": "2.9-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki illerden hangisi Doğu Karadeniz Projesi'nin (DOKAP) kapsadığı iller arasında yer almaz?",
+       "secenekler": [
+        "Trabzon",
+        "Rize",
+        "Gümüşhane",
+        "Bayburt",
+        "Kastamonu"
+       ],
+       "dogru": 4,
+       "bilgi": "DOKAP; Trabzon, Rize, Artvin, Giresun, Ordu, Samsun, Gümüşhane, Bayburt ve Tokat illerini kapsar. Batı Karadeniz'deki Kastamonu ise bu projenin kapsamında değildir.",
        "sayfa": 166,
        "yil": "2024-AYT"
       },
       {
-       "id": "2.9-06",
+       "id": "2.9-04",
        "tur": "secmeli",
-       "soru": "Türkiye'nin tamamını üç düzeyde kapsayan ve Düzey 3'ü il düzeyindeki 81 bölgeden oluşan bölge sistemi hangisidir?",
-       "secenekler": [
-        "Devlet Su İşleri hizmet bölgeleri",
-        "Karayolları bölge müdürlükleri",
-        "1941'de belirlenen yedi coğrafi bölge",
-        "TÜİK'in istatistiki bölge birimleri (İBBS)"
+       "soru": "Türkiye'de İstatistiki Bölge Birimleri Sınıflandırması (İBBS) üç düzeyden oluşmaktadır. Tabloda her düzeydeki bölge sayısı verilmiştir.\nTabloya ve bilgilerinize göre İBBS ile ilgili,",
+       "tablo": [
+        [
+         "Düzey",
+         "Bölge sayısı"
+        ],
+        [
+         "Düzey 1",
+         "12"
+        ],
+        [
+         "Düzey 2",
+         "26"
+        ],
+        [
+         "Düzey 3",
+         "81"
+        ]
        ],
-       "dogru": 3,
-       "bilgi": "İstatistiki Bölge Birimleri Sınıflandırması Düzey 1'de 12, Düzey 2'de 26, Düzey 3'te 81 bölgeden oluşur; Düzey 1, Düzey 2'nin gruplandırılmasıyla oluşur.",
+       "oncul": [
+        "Düzey 3'teki her bölge bir ile karşılık gelir.",
+        "Düzey 2'deki her bölge tek bir ilden oluşur.",
+        "Düzey 1 bölgeleri, Düzey 2 bölgelerinin gruplandırılmasıyla oluşturulmuştur."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "İBBS'de Düzey 3 il düzeyindeki 81 bölgedir. Komşu iller birleştirilerek 26 Düzey 2 bölgesi, bunlar gruplandırılarak 12 Düzey 1 bölgesi oluşturulmuştur. Sistem bölgesel istatistik toplamak ve bölgesel politikalar geliştirmek için kurulmuştur.",
        "sayfa": 166,
        "yil": "2025-AYT"
       }
@@ -1535,10 +2173,24 @@
      "kartlar": [
       {
        "id": "2.10-01",
-       "tur": "dy",
-       "ifade": "Teknolojik gelişmelerle yolculuk sürelerinin kısalması, doğal faktörlerin ulaşım üzerindeki etkisine örnektir.",
-       "dogru": false,
-       "bilgi": "Engebeli alanlarda tünel yapılması ile sis, kar ve çığ nedeniyle ulaşımın kesilmesi doğal faktörlerin etkisidir; teknolojinin süreyi kısaltması beşerî bir etkendir.",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki durumlardan",
+       "oncul": [
+        "Doğu Karadeniz'de dağlık arazi nedeniyle kara yollarının vadiler boyunca uzanması",
+        "Kış aylarında yoğun kar ve çığ nedeniyle bazı dağ geçitlerinin ulaşıma kapanması",
+        "Hızlı tren hatlarının açılmasıyla iki kent arasındaki yolculuk süresinin kısalması",
+        "Yoğun sis nedeniyle bir havalimanında uçuşların iptal edilmesi"
+       ],
+       "kok": "hangileri doğal faktörlerin ulaşım üzerindeki etkisine örnektir?",
+       "secenekler": [
+        "I ve II",
+        "II ve IV",
+        "I, II ve III",
+        "I, II ve IV",
+        "II, III ve IV"
+       ],
+       "dogru": 3,
+       "bilgi": "Yer şekilleri, kar, çığ ve sis gibi doğal faktörler ulaşım yollarının güzergâhını ve sürekliliğini etkiler. Hızlı tren gibi teknolojik gelişmelerle yolculuk süresinin kısalması ise beşerî faktörlerin etkisidir.",
        "sayfa": 166,
        "yil": "2022-AYT"
       }
@@ -1557,49 +2209,168 @@
       {
        "id": "2.11-01",
        "tur": "secmeli",
-       "soru": "Uludağ, Palandöken, Erciyes ve Sarıkamış hangi turizm türünün önemli merkezleridir?",
+       "soru": "Grafikte Türkiye'deki K ve L turizm merkezlerine gelen ziyaretçi sayılarının aylara göre dağılımı gösterilmiştir.\nK ve L merkezleri sırasıyla aşağıdakilerden hangileri olabilir?",
+       "grafik": {
+        "x": "Aylar (1 = Ocak)",
+        "y": "Ziyaretçi (bin)",
+        "seriler": [
+         {
+          "ad": "K",
+          "n": [
+           [
+            1,
+            5
+           ],
+           [
+            2,
+            5
+           ],
+           [
+            3,
+            8
+           ],
+           [
+            4,
+            15
+           ],
+           [
+            5,
+            40
+           ],
+           [
+            6,
+            80
+           ],
+           [
+            7,
+            120
+           ],
+           [
+            8,
+            125
+           ],
+           [
+            9,
+            70
+           ],
+           [
+            10,
+            25
+           ],
+           [
+            11,
+            8
+           ],
+           [
+            12,
+            5
+           ]
+          ]
+         },
+         {
+          "ad": "L",
+          "n": [
+           [
+            1,
+            90
+           ],
+           [
+            2,
+            95
+           ],
+           [
+            3,
+            60
+           ],
+           [
+            4,
+            10
+           ],
+           [
+            5,
+            3
+           ],
+           [
+            6,
+            2
+           ],
+           [
+            7,
+            3
+           ],
+           [
+            8,
+            3
+           ],
+           [
+            9,
+            2
+           ],
+           [
+            10,
+            5
+           ],
+           [
+            11,
+            20
+           ],
+           [
+            12,
+            85
+           ]
+          ]
+         }
+        ]
+       },
        "secenekler": [
-        "Termal turizm",
-        "Yayla turizmi",
-        "Kış turizmi",
-        "Kıyı turizmi"
+        "Uludağ – Kuşadası",
+        "Alanya – Uzungöl",
+        "Bodrum – Palandöken",
+        "Sarıkamış – Marmaris",
+        "Side – Ayder"
        ],
        "dogru": 2,
-       "bilgi": "Uludağ, Palandöken, Erciyes, Kartalkaya ve Sarıkamış Türkiye'nin başlıca kış turizmi merkezleridir.",
+       "bilgi": "Ziyaretçilerin yazın yoğunlaştığı K kıyı turizmi merkezi Bodrum, aralık-mart döneminde toplandığı L ise kış turizmi merkezi Palandöken olabilir. Uludağ, Erciyes, Kartalkaya ve Sarıkamış da başlıca kış turizmi merkezlerindendir.",
        "sayfa": 166,
        "yil": "2018-AYT"
       },
       {
        "id": "2.11-02",
-       "tur": "bosluk",
-       "cumle": "UNESCO Dünya Mirası Listesi'nde Türk kültürüne ait unsurların en baskın olduğu yerlerden biri, geleneksel ahşap konaklarıyla tanınan ___ şehridir.",
-       "cevap": "Safranbolu",
-       "celdiriciler": [
-        "Bergama",
-        "Afrodisias",
-        "Hattuşa"
+       "tur": "secmeli",
+       "soru": "UNESCO Dünya Mirası Listesi'nde yer alan Türkiye'deki alanlarla ilgili,",
+       "oncul": [
+        "Safranbolu, geleneksel Türk evleriyle Türk kültürünün baskın olduğu bir miras alanıdır.",
+        "Edirne'deki Selimiye Camii ve Külliyesi listede yer alır.",
+        "Kayseri'deki Erciyes Dağı, doğal miras olarak listede yer alır."
        ],
-       "bilgi": "Karabük'teki Safranbolu, geleneksel Türk evleriyle Türk kültürünün baskın olduğu bir Dünya Mirası alanıdır; Efes, Troya ve Hierapolis ise antik kentlerdir.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Safranbolu, Selimiye, Nemrut, Göbeklitepe ve Çatalhöyük UNESCO Dünya Mirası Listesi'ndedir; Safranbolu Türk kültürünün en baskın olduğu alanlardandır. Erciyes Dağı ise listede yer almaz.",
        "sayfa": 167,
        "yil": "2019-AYT"
       },
       {
        "id": "2.11-03",
-       "tur": "dy",
-       "ifade": "Turizm sektörü; konaklama, ulaşım, seyahat ve eğlence sektörlerinin gelişmesine doğrudan katkı sağlar.",
-       "dogru": true,
-       "bilgi": "Turizm doğrudan gelir ve istihdam sağlamanın yanında seyahat şirketleri, konaklama, ulaşım ve eğlence sektörlerini canlandırır; hastanelerin dağılışına etkisi azdır.",
+       "tur": "secmeli",
+       "soru": "Uluslararası turizmin geliştiği bir kıyı kasabasında turizm gelirleri doğrudan ya da dolaylı olarak birçok sektörü canlandırmaktadır.\nTurizmin gelişmesinin aşağıdaki sektörlerden hangisi üzerindeki doğrudan etkisinin en az olması beklenir?",
+       "secenekler": [
+        "Konaklama",
+        "Ulaşım",
+        "Seyahat acenteleri",
+        "Yeme-içme ve eğlence",
+        "Demir-çelik üretimi"
+       ],
+       "dogru": 4,
+       "bilgi": "Turizm doğrudan gelir ve istihdam sağlamanın yanında konaklama, ulaşım, seyahat ve eğlence sektörlerini canlandırır. Ağır sanayi kolu olan demir-çelik üretimi ise turizmden doğrudan etkilenmez.",
        "sayfa": 167,
        "yil": "2023-AYT"
-      },
-      {
-       "id": "2.11-04",
-       "tur": "dy",
-       "ifade": "Kayseri'deki Erciyes Dağı, UNESCO Dünya Mirası Listesi'nde yer alır.",
-       "dogru": false,
-       "bilgi": "Edirne'de Selimiye, Adıyaman'da Nemrut, Şanlıurfa'da Göbeklitepe ve Konya'da Çatalhöyük UNESCO Dünya Mirası Listesi'ndedir; Erciyes Dağı listede yoktur.",
-       "sayfa": 167,
-       "yil": "2025-AYT"
       }
      ]
     },
@@ -1615,50 +2386,39 @@
      "kartlar": [
       {
        "id": "2.12-01",
-       "tur": "dy",
-       "ifade": "Avrupa kültür bölgesinin Amerika, Avustralya ve Yeni Zelanda'yı içine alacak şekilde genişlemesinde ulaşımdaki gelişmeler etkili olmuştur.",
-       "dogru": true,
-       "bilgi": "Ulaşımdaki gelişmeler göç ve yayılmayı kolaylaştırmış, Avrupa kültür bölgesi diğer kıtalara taşınarak genişlemiştir.",
-       "sayfa": 167,
-       "yil": "2021-AYT"
-      },
-      {
-       "id": "2.12-02",
-       "tur": "bosluk",
-       "cumle": "Orta Asya'nın karasal iklimi ve geniş ___ alanları, Türk kültüründe göçebe yaşamın ve hayvancılığın ön plana çıkmasına yol açmıştır.",
-       "cevap": "bozkır",
-       "celdiriciler": [
-        "tayga",
-        "tundra",
-        "yağmur ormanı"
+       "tur": "secmeli",
+       "soru": "Türk kültürünün ilk şekillendiği Orta Asya'da ilk Türk toplulukları göçebe bir yaşam sürmüş, ekonomileri büyük ölçüde hayvancılığa dayanmıştır.\nBu durumun ortaya çıkmasında aşağıdakilerden hangisinin etkisi en fazladır?",
+       "secenekler": [
+        "Deniz ticaret yollarına yakın olunması",
+        "Karasal iklim ve geniş bozkırların bulunması",
+        "Sık ormanların tarım alanlarını büyük ölçüde daraltması",
+        "Muson yağışlarının taşkınlara yol açması",
+        "Verimli delta ovalarının yaygın olması"
        ],
-       "bilgi": "Türk kültürünün ilk şekillendiği Orta Asya'da göçebe yaşam ve hayvancılığın öne çıkmasında en etkili unsur bölgenin coğrafi özellikleridir.",
+       "dogru": 1,
+       "bilgi": "Orta Asya'nın karasal iklimi ve geniş bozkırları tarıma dayalı yerleşik yaşamı zorlaştırmış, hayvancılığı ve göçebe yaşamı öne çıkarmıştır; at, otağ ve kımız gibi kültür unsurları bu yaşamın ürünüdür.",
        "sayfa": 168,
        "yil": "2022-AYT"
       },
       {
-       "id": "2.12-03",
-       "tur": "eslestir",
-       "yonerge": "İlk kültür merkezlerini geliştikleri akarsularla eşleştir.",
-       "ciftler": [
-        [
-         "Mezopotamya",
-         "Dicle ve Fırat"
-        ],
-        [
-         "Mısır",
-         "Nil"
-        ],
-        [
-         "Hint",
-         "İndus"
-        ],
-        [
-         "Çin",
-         "Sarı Irmak (Huang He)"
-        ]
+       "id": "2.12-02",
+       "tur": "secmeli",
+       "soru": "Kültür bölgelerinin oluşumu ve yayılışıyla ilgili,",
+       "oncul": [
+        "İlk kültür merkezleri Dicle-Fırat, Nil, İndus ve Sarı Irmak gibi akarsuların boylarında ortaya çıkmıştır.",
+        "Ulaşımdaki gelişmeler ve göçler, Avrupa kültür bölgesinin Amerika ve Avustralya'ya yayılmasını sağlamıştır.",
+        "Kültür bölgelerinin sınırları göç, ticaret ve iletişimle zaman içinde değişebilir."
        ],
-       "bilgi": "İlk kültür merkezleri verimli toprak ve su kaynaklarının bulunduğu Dicle-Fırat, Nil, İndus ve Sarı Irmak boylarında ortaya çıkmıştır.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "İlk kültür merkezleri verimli toprak ve su kaynaklarının bulunduğu akarsu boylarında doğmuştur. Kültürler göç, ticaret ve ulaşımla yayılır; Avrupa kültür bölgesinin başka kıtalara taşınması gibi kültür bölgelerinin sınırları da zamanla değişir.",
        "sayfa": 168,
        "yil": "2026-AYT"
       }
@@ -1677,84 +2437,116 @@
      "kartlar": [
       {
        "id": "2.13-01",
-       "tur": "dy",
-       "ifade": "Az gelişmiş ülkelerde tarımsal üretim öncelikle dış satıma yöneliktir.",
-       "dogru": false,
-       "bilgi": "Az gelişmiş ülkelerde tarımsal üretim öncelikle temel ihtiyaçlara yöneliktir; modern tarıma yatırım ve tarım geliri düşük, üretim iklime bağımlıdır.",
+       "tur": "secmeli",
+       "soru": "Uluslararası turizmin geliştiği bir ülkede ortaya çıkan aşağıdaki sonuçlardan",
+       "oncul": [
+        "Döviz girdisinin artması",
+        "Kıyılarda yoğun ve plansız yapılaşma",
+        "Yeni istihdam olanaklarının oluşması",
+        "Yerel dil ve geleneklerin aşınması"
+       ],
+       "kok": "hangileri olumsuz sonuçlar arasında gösterilebilir?",
+       "secenekler": [
+        "Yalnız II",
+        "Yalnız IV",
+        "I ve III",
+        "II ve III",
+        "II ve IV"
+       ],
+       "dogru": 4,
+       "bilgi": "Turizm döviz girdisi, istihdam, kültürel etkileşim ve ticaretin canlanması gibi olumlu sonuçlar doğurur. Yoğun yapılaşma, doğal dengenin bozulması, geleneksel yaşamın ve yerel dilin aşınması ise olumsuz sonuçlarıdır.",
        "sayfa": 169,
-       "yil": "2018-AYT"
+       "yil": "2019-AYT"
       },
       {
        "id": "2.13-02",
-       "tur": "dy",
-       "ifade": "Uluslararası turizm, ülkeye döviz girdisi sağlar ve istihdam olanaklarını artırır.",
-       "dogru": true,
-       "bilgi": "Uluslararası turizm döviz girdisi, istihdam, kültürel etkileşim ve ticaretin canlanması gibi olumlu sonuçlar doğurur; yoğun yapılaşma olumlu sonuç sayılmaz.",
+       "tur": "secmeli",
+       "soru": "XIX. yüzyılda sanayileşme sürecine giren Almanya, İngiltere'den getirilen makineleri örnek alarak üretim yapmış, yerli sanayiyi gümrük vergileriyle korumuş, kendi kömür ve demir yataklarını demir yollarıyla birbirine bağlamış ve teknik okullar açmıştır.\nBu bilgilere göre Almanya'nın sanayileşmesiyle ilgili aşağıdakilerden hangisi söylenemez?",
+       "secenekler": [
+        "Teknoloji transferinden yararlanılmıştır.",
+        "Korumacı ekonomi politikaları uygulanmıştır.",
+        "Ulaşım altyapısı sanayileşmeyi desteklemiştir.",
+        "Nitelikli iş gücü yetiştirilmesine önem verilmiştir.",
+        "Ham madde ihtiyacı sömürgelerden karşılanmıştır."
+       ],
+       "dogru": 4,
+       "bilgi": "Makinelerin örnek alınması teknoloji transferini, gümrük vergileri korumacılığı, demir yolları ulaşımın, teknik okullar eğitimin rolünü gösterir. Metne göre Almanya kendi kömür ve demirini kullanmıştır. Taş kömürü sanayide ilk kez İngiltere'de kullanılmıştır.",
        "sayfa": 169,
        "yil": "2019-AYT"
       },
       {
        "id": "2.13-03",
-       "tur": "dy",
-       "ifade": "Almanya'da sanayileşme sürecinde yatırımları yalnızca devlet yapmış, özel sektörün yatırımına izin verilmemiştir.",
-       "dogru": false,
-       "bilgi": "Almanya'da sanayileşme ithal makinelerin taklidi, gümrük vergileriyle yerli üretimin korunması, kömür-demir-çelik, demir yolları ve teknik eğitimle gelişmiştir.",
-       "sayfa": 169,
-       "yil": "2019-AYT"
-      },
-      {
-       "id": "2.13-04",
-       "tur": "dy",
-       "ifade": "Uluslararası turizm, geleneksel yaşam biçimlerinin değişmesi ve doğal dengenin bozulması gibi olumsuz sonuçlar da doğurabilir.",
-       "dogru": true,
-       "bilgi": "Turizmin olumsuz sonuçları arasında geleneksel yaşamın ve yerel dilin bozulması, konukseverliğin yerini çıkara bırakması ve doğal tahribat sayılabilir.",
-       "sayfa": 169,
-       "yil": "2020-AYT"
-      },
-      {
-       "id": "2.13-05",
-       "tur": "dy",
-       "ifade": "Dünyadaki tarımsal ham madde üretiminin tamamı gelişmekte olan ülkelerce karşılanır.",
-       "dogru": false,
-       "bilgi": "Gelişmiş ülkeler de tarımsal ham madde üretir ve sanayi ürünlerinde hem üretim hem pazar alanıdır; kömür, petrol ve doğal gaz sahaları enerji üretim bölgeleridir.",
-       "sayfa": 170,
-       "yil": "2022-AYT"
-      },
-      {
-       "id": "2.13-06",
        "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi az gelişmiş ülkelerdeki tarımın özelliklerinden biridir?",
-       "secenekler": [
-        "Tarıma dayalı sanayinin çok gelişmiş olması",
-        "Hasat miktarının yağış ve sıcaklık koşullarına göre yıldan yıla değişmesi",
-        "İlaçlama ve gübrelemede modern tekniklerin yaygın kullanılması",
-        "Üretimin büyük kısmının ihracata ayrılması"
+       "soru": "Tabloda K ve L ülkelerinin tarımla ilgili bazı göstergeleri verilmiştir.\nBuna göre,",
+       "tablo": [
+        [
+         "Gösterge",
+         "K",
+         "L"
+        ],
+        [
+         "Tarımda çalışanların oranı (%)",
+         "62",
+         "2"
+        ],
+        [
+         "Buğday verimi (ton/ha)",
+         "1,3",
+         "7,6"
+        ],
+        [
+         "Hektar başına gübre kullanımı (kg)",
+         "8",
+         "180"
+        ]
        ],
-       "dogru": 1,
-       "bilgi": "Az gelişmiş ülkelerde tarım geleneksel yöntemlerle ve temel ihtiyaçlar için yapılır; üretim büyük ölçüde doğal koşullara bağlıdır.",
+       "oncul": [
+        "K'de tarımda modern teknik kullanımı L'dekinden azdır.",
+        "L'de tarımsal üretimin doğal koşullara bağımlılığı K'dekinden fazladır.",
+        "K'de tarım ürünlerinin büyük bölümünün dış satıma ayrılması beklenir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Düşük verim ve az gübre kullanımı K'de geleneksel tarımı gösterir. Az gelişmiş ülkelerde üretim doğal koşullara bağlıdır ve öncelikle temel ihtiyaçlara yöneliktir; modern tarım yapan L'de ise üretim doğaya daha az bağımlıdır.",
        "sayfa": 170,
        "yil": "2023-AYT"
       },
       {
-       "id": "2.13-07",
-       "tur": "dy",
-       "ifade": "Dünya ticaretinin en yoğun olduğu alanlar, Kuzey Amerika ve Batı Avrupa gibi geniş pazar bölgeleridir.",
-       "dogru": true,
-       "bilgi": "Ham madde ve üretim ilişkisinin sürmesinde tüketim bölgesi olan pazarlar önemlidir; ticaret en çok Kuzey Amerika, Batı Avrupa ve Doğu Asya gibi pazarlar arasında yoğunlaşır.",
+       "id": "2.13-04",
+       "tur": "secmeli",
+       "soru": "Dünya ticaretiyle ilgili aşağıdakilerden hangisi doğrudur?",
+       "secenekler": [
+        "Tarımsal ham maddelerin tamamı gelişmekte olan ülkelerde üretilir.",
+        "Ticaret en çok Kuzey Amerika, Batı Avrupa ve Doğu Asya arasında yoğunlaşır.",
+        "Gelişmiş ülkeler sanayi ürünlerinin yalnızca üreticisi olup pazarı değildir.",
+        "Enerji kaynaklarının ticareti yalnızca komşu ülkeler arasında yapılır.",
+        "Ulaşımdaki gelişmeler dünya ticaret hacmini azaltmıştır."
+       ],
+       "dogru": 1,
+       "bilgi": "Dünya ticareti büyük tüketim pazarları olan Kuzey Amerika, Batı Avrupa ve Doğu Asya arasında yoğunlaşır. Gelişmiş ülkeler sanayi ürünlerinin hem üreticisi hem pazarıdır; tarımsal ham madde de üretirler.",
        "sayfa": 170,
        "yil": "2024-AYT"
       },
       {
-       "id": "2.13-08",
-       "tur": "bosluk",
-       "cumle": "Kereste ve kâğıt sanayisi için önemli ham madde sağlayan iğne yapraklı ___ ormanları Kanada, İskandinavya ve Rusya'da geniş alan kaplar.",
-       "cevap": "tayga",
-       "celdiriciler": [
-        "maki",
-        "mangrov",
-        "muson"
+       "id": "2.13-05",
+       "tur": "secmeli",
+       "soru": "Kanada, İsveç, Finlandiya ve Rusya kereste, kâğıt hamuru ve kâğıt dış satımında dünyada öne çıkan ülkelerdir.\nBu ülkelerin ortak özelliği olarak aşağıdakilerden hangisi gösterilebilir?",
+       "secenekler": [
+        "Topraklarının büyük bölümünü tropikal yağmur ormanlarının kaplaması",
+        "Maki ve garig formasyonunun yaygın olması",
+        "Geniş tayga ormanlarına sahip olmaları",
+        "Nüfuslarının büyük bölümünün ormanlarda yaşaması",
+        "Orman ürünlerini yalnızca kendi iç pazarlarında tüketmeleri"
        ],
-       "bilgi": "Orman varlığı bazı bölgelerde önemli bir ham madde ve ticaret kaynağıdır; tayga ormanlarının yaygın olduğu Kanada, İskandinavya ve Rusya bunun örnekleridir.",
+       "dogru": 2,
+       "bilgi": "Kuzey Yarım Küre'nin soğuk kuşağındaki tayga ormanları az sayıda türden oluşup geniş alanlar kapladığından kesim ve işlemeye elverişlidir; Kanada, İskandinavya ve Rusya bu nedenle orman ürünleri ticaretinde öne çıkar.",
        "sayfa": 170,
        "yil": "2025-AYT"
       }
@@ -1771,36 +2563,24 @@
      "kartlar": [
       {
        "id": "2.14-01",
-       "tur": "dy",
-       "ifade": "Greenpeace, devletlerin üye olduğu hükûmetler arası bir örgüttür.",
-       "dogru": false,
-       "bilgi": "Greenpeace hükûmet dışı bir çevre örgütüdür; BM, NATO, AB ve OPEC ise savaşlar ve ekonomik-siyasi gelişmeler sonucunda devletlerin kurduğu örgütlerdir.",
-       "sayfa": 171,
-       "yil": "2018-AYT"
-      },
-      {
-       "id": "2.14-02",
-       "tur": "eslestir",
-       "yonerge": "Uluslararası örgütleri temel amaçlarıyla eşleştir.",
-       "ciftler": [
-        [
-         "NATO",
-         "Üye ülkelerin askerî savunma iş birliği"
-        ],
-        [
-         "OPEC",
-         "Petrol ihraç eden ülkelerin ekonomik çıkarlarını korumak"
-        ],
-        [
-         "BDT",
-         "Eski Sovyet ülkeleri arasında ekonomik ve siyasi iş birliği"
-        ],
-        [
-         "UNESCO",
-         "Eğitim, bilim ve kültür alanında iş birliği"
-        ]
+       "tur": "secmeli",
+       "soru": "Aşağıdaki örgütlerden",
+       "oncul": [
+        "NATO",
+        "OPEC",
+        "Bağımsız Devletler Topluluğu (BDT)",
+        "Greenpeace"
        ],
-       "bilgi": "OPEC ve Bağımsız Devletler Topluluğu (BDT) üyelerinin ekonomik iş birliğini ve çıkarlarını gözetir; NATO ise askerî amaçlı bir örgüttür.",
+       "kok": "hangileri üye devletlerin ekonomik iş birliğini ve çıkarlarını gözetmek amacıyla kurulmuştur?",
+       "secenekler": [
+        "II ve III",
+        "II ve IV",
+        "III ve IV",
+        "I, II ve III",
+        "II, III ve IV"
+       ],
+       "dogru": 0,
+       "bilgi": "OPEC petrol ihraç eden ülkelerin, BDT eski Sovyet ülkelerinin ekonomik iş birliğini gözetir. NATO askerî savunma örgütüdür. Greenpeace ise devletlerin değil gönüllülerin oluşturduğu hükûmet dışı bir çevre örgütüdür.",
        "sayfa": 171,
        "yil": "2021-AYT"
       }
@@ -1818,76 +2598,145 @@
      "kartlar": [
       {
        "id": "2.15-01",
-       "tur": "dy",
-       "ifade": "Bir ülkenin zengin yer altı kaynaklarına sahip olması, tek başına bir gelişmişlik ölçütü kabul edilir.",
-       "dogru": false,
-       "bilgi": "Gelişmişlik; mal ve hizmet üretiminin ve ihracatın değeri, sağlık-eğitim hizmetleri, temel hak ve özgürlükler gibi ölçütlerle belirlenir; kaynak rezervi ölçüt değildir.",
-       "sayfa": 171,
-       "yil": "2019-AYT"
+       "tur": "secmeli",
+       "soru": "Tabloda K, L ve M ülkelerine ait bazı göstergeler verilmiştir.\nBu ülkelerin gelişmişlik düzeyine göre yüksekten düşüğe doğru sıralaması aşağıdakilerin hangisinde doğru verilmiştir?",
+       "tablo": [
+        [
+         "Ülke",
+         "Bebek ölüm hızı (‰)",
+         "Şehirli nüfus (%)",
+         "Tarımda çalışan (%)",
+         "Nüfus yoğunluğu (kişi/km²)",
+         "Yer altı kaynakları"
+        ],
+        [
+         "K",
+         "3",
+         "82",
+         "2",
+         "36",
+         "Orta"
+        ],
+        [
+         "L",
+         "45",
+         "30",
+         "58",
+         "95",
+         "Zengin"
+        ],
+        [
+         "M",
+         "12",
+         "70",
+         "15",
+         "380",
+         "Fakir"
+        ]
+       ],
+       "secenekler": [
+        "M – K – L",
+        "K – M – L",
+        "K – L – M",
+        "L – K – M",
+        "M – L – K"
+       ],
+       "dogru": 1,
+       "bilgi": "Bebek ölüm hızının düşük, şehirli nüfus oranının yüksek ve tarımda çalışanların az olması gelişmişliği gösterir: K, M, L. Nüfus yoğunluğu ve yer altı kaynaklarının zenginliği tek başına gelişmişlik ölçütü değildir.",
+       "sayfa": 172,
+       "yil": "2025-AYT"
       },
       {
        "id": "2.15-02",
-       "tur": "dy",
-       "ifade": "Bir ülkede tarımın ekonomideki payının azalması, tarımsal üretim miktarının da azaldığını gösterir.",
-       "dogru": false,
-       "bilgi": "Tarımın payının azalması sanayi ve hizmetlerin büyüdüğünü gösterir; bu ülkede enerji tüketimi, kentleşme ve eğitimli nüfus artarken tarımsal üretim azalmayabilir.",
+       "tur": "secmeli",
+       "soru": "Tabloda bir ülkenin bazı yıllardaki tarımla ilgili göstergeleri verilmiştir.\nTabloya göre,",
+       "tablo": [
+        [
+         "Yıl",
+         "Tarımın GSYH'deki payı (%)",
+         "Tarımda çalışanların oranı (%)",
+         "Tarımsal üretim endeksi"
+        ],
+        [
+         "1980",
+         "25",
+         "50",
+         "100"
+        ],
+        [
+         "2000",
+         "14",
+         "35",
+         "140"
+        ],
+        [
+         "2020",
+         "7",
+         "18",
+         "180"
+        ]
+       ],
+       "oncul": [
+        "Tarımsal üretim miktarı azalmıştır.",
+        "Sanayi ve hizmet sektörlerinin ekonomideki toplam payı artmıştır.",
+        "Çalışan nüfus içinde tarım dışı sektörlerin payı artmıştır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Tarımın GSYH'deki payı azalırken üretim endeksi 100'den 180'e çıktığından tarımsal üretim artmıştır; yalnızca diğer sektörler daha hızlı büyümüştür. Tarımda çalışanların oranı %50'den %18'e indiğinden tarım dışı sektörlerin payı artmıştır.",
        "sayfa": 171,
        "yil": "2021-AYT"
       },
       {
        "id": "2.15-03",
-       "tur": "bosluk",
-       "cumle": "Panama Kanalı'nın açılmasıyla Güney Amerika'nın güney ucunu dolaşan ___ Boğazı güzergâhının önemi azalmıştır.",
-       "cevap": "Macellan",
-       "celdiriciler": [
-        "Cebelitarık",
-        "Malakka",
-        "Bering"
+       "tur": "secmeli",
+       "soru": "Kanallar ve boğazlarla ilgili,",
+       "oncul": [
+        "Panama Kanalı'nın açılması, Güney Amerika'nın güney ucunu dolaşan Macellan Boğazı yolunun önemini azaltmıştır.",
+        "Kiel ve Korint kanalları, Süveyş ve Panama kanallarına göre daha yerel bir etkiye sahiptir.",
+        "Süveyş Kanalı, Atlas Okyanusu ile Büyük Okyanus'u birbirine bağlar."
        ],
-       "bilgi": "Panama Kanalı Atlas ve Büyük Okyanus'u birbirine bağlayınca Güney Amerika'yı dolanan Macellan Boğazı yolu önemini yitirmiştir.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Panama Kanalı Atlas ve Büyük Okyanus'u bağlayarak Macellan yolunun önemini azaltmıştır. Süveyş ise Akdeniz'i Kızıldeniz'e bağlar. Kiel (Kuzey Denizi-Baltık) ve Korint (Yunanistan) kanalları daha yerel öneme sahiptir.",
        "sayfa": 172,
        "yil": "2022-AYT"
       },
       {
        "id": "2.15-04",
-       "tur": "dy",
-       "ifade": "Kiel ve Korint kanalları, Süveyş ve Panama kanallarına göre daha yerel bir etkiye sahiptir.",
-       "dogru": true,
-       "bilgi": "Süveyş ve Panama kanalları okyanuslar arası küresel ticareti etkilerken Kiel (Kuzey Denizi-Baltık) ve Korint (Yunanistan) kanalları daha yerel öneme sahiptir.",
-       "sayfa": 172,
-       "yil": "2024-AYT"
-      },
-      {
-       "id": "2.15-05",
        "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi gelişmiş bir ülkenin özelliğidir?",
+       "soru": "Akdeniz'in dünya ticaretindeki önemini etkileyen aşağıdaki gelişmeler,",
+       "oncul": [
+        "Süveyş Kanalı'nın açılması",
+        "Ümit Burnu dolaşılarak Hindistan'a deniz yolunun bulunması",
+        "Panama Kanalı'nın açılması",
+        "Amerika kıtasının keşfedilmesi"
+       ],
+       "kok": "kronolojik sıraya göre dizildiğinde hangi sıralama doğru olur?",
        "secenekler": [
-        "Kırsal nüfusun şehirli nüfustan fazla olması",
-        "Çalışan nüfusun çoğunun tarımda olması",
-        "Doğum oranının çok yüksek olması",
-        "Bebek ölüm oranının düşük olması"
+        "II - IV - I - III",
+        "IV - I - II - III",
+        "II - I - IV - III",
+        "IV - II - I - III",
+        "IV - II - III - I"
        ],
        "dogru": 3,
-       "bilgi": "Gelişmiş ülkelerde çalışan nüfusun çoğu sanayi ve hizmet sektöründedir; bebek ölüm oranı düşük, şehirli nüfus oranı yüksektir.",
+       "bilgi": "Amerika'nın keşfi (1492) ve Ümit Burnu yolunun bulunması (1498) ticaret yollarını Atlas Okyanusu'na kaydırarak Akdeniz'in önemini azaltmıştır. Süveyş (1869) Akdeniz'i yeniden canlandırmış, Panama (1914) ise iki okyanusu birleştirmiştir.",
        "sayfa": 172,
-       "yil": "2025-AYT"
-      },
-      {
-       "id": "2.15-06",
-       "tur": "dy",
-       "ifade": "Amerika'nın keşfiyle ticaret yollarının Atlas Okyanusu'na kayması, Akdeniz'in önemini azaltmıştır.",
-       "dogru": true,
-       "bilgi": "Yeni kıtaların ve ticaret yollarının keşfiyle Atlas Okyanusu'nun önemi artmış, Akdeniz ve Kızıldeniz gibi eski yolların önemi azalmıştır.",
-       "sayfa": 172,
-       "yil": "2026-AYT"
-      },
-      {
-       "id": "2.15-07",
-       "tur": "dy",
-       "ifade": "Nüfus yoğunluğu, ülkelerin gelişmişlik düzeyini belirlemede kullanılan nüfus göstergelerinden biridir.",
-       "dogru": false,
-       "bilgi": "Gelişmişlik göstergesi olarak nüfus artış hızı, şehirli nüfus oranı, eğitim düzeyi ve ortanca yaş kullanılır; nüfus yoğunluğu bu göstergeler arasında yer almaz.",
-       "sayfa": 173,
        "yil": "2026-AYT"
       }
      ]
@@ -1905,99 +2754,97 @@
      "kartlar": [
       {
        "id": "2.16-01",
-       "tur": "dy",
-       "ifade": "Göl alanlarının küçülmesi, bitkilerin erken çiçek açması ve göçmen kuşların göç zamanlarının değişmesi, sera etkisinin artmasıyla ilişkilidir.",
-       "dogru": true,
-       "bilgi": "Atmosferdeki sera etkisinin artması iklimi değiştirerek göllerin küçülmesine, mevsimlerin kaymasına ve canlıların yaşam döngülerinin değişmesine yol açar.",
+       "tur": "secmeli",
+       "soru": "Bir bölgede son 50 yılda gözlenen aşağıdaki değişimlerden",
+       "oncul": [
+        "Göl alanlarının küçülmesi",
+        "Bitkilerin önceki yıllara göre daha erken çiçek açması",
+        "Göçmen kuşların göç zamanlarının değişmesi",
+        "Bölgede deprem sayısının artması"
+       ],
+       "kok": "hangileri sera etkisinin artmasına bağlı iklim değişikliğiyle açıklanabilir?",
+       "secenekler": [
+        "I, II ve III",
+        "I, II ve IV",
+        "I, III ve IV",
+        "II, III ve IV",
+        "I, II, III ve IV"
+       ],
+       "dogru": 0,
+       "bilgi": "Sera etkisinin artmasıyla yükselen sıcaklıklar buharlaşmayı artırıp gölleri küçültür, mevsimleri kaydırarak bitkilerin çiçeklenme ve kuşların göç zamanlarını değiştirir. Depremler ise iç kuvvetlerle oluşur, iklimle ilgisi yoktur.",
        "sayfa": 173,
        "yil": "2018-AYT"
       },
       {
        "id": "2.16-02",
-       "tur": "bosluk",
-       "cumle": "Günümüzde tropikal ormanların en hızlı tahrip edildiği alanların başında ___ Havzası gelir.",
-       "cevap": "Amazon",
-       "celdiriciler": [
-        "Mississippi",
-        "Volga",
-        "Tuna"
+       "tur": "secmeli",
+       "soru": "Küresel ısınmaya bağlı olarak buzulların erimesi ve ısınan deniz suyunun genleşmesiyle deniz seviyesi yükselmektedir.\nDeniz seviyesinin yükselmesinin aşağıdaki sonuçlarından hangisinin görülmesi beklenmez?",
+       "secenekler": [
+        "Alçak ada ve kıyıların su altında kalması",
+        "Kıyı erozyonunun artması",
+        "Kıyıdaki tatlı yer altı sularının tuzlanması",
+        "Delta ovalarındaki tarım alanlarının zarar görmesi",
+        "Kutuplarda buzul alanlarının genişlemesi"
        ],
-       "bilgi": "Orman alanlarının aşırı tahribatı en çok tropikal kuşakta, özellikle Amazon Havzası ile Güneydoğu Asya ormanlarında görülür.",
-       "sayfa": 173,
-       "yil": "2020-AYT"
-      },
-      {
-       "id": "2.16-03",
-       "tur": "dy",
-       "ifade": "Meralarda planlamaya dayalı dönüşümlü otlatma yapılması, yanlış arazi kullanımına örnektir.",
-       "dogru": false,
-       "bilgi": "Tarım arazilerinin yerleşime açılması ve sulak alanların kurutulup tarıma açılması yanlış arazi kullanımıdır; planlı dönüşümlü otlatma ise arazi potansiyeline uygundur.",
-       "sayfa": 174,
-       "yil": "2021-AYT"
-      },
-      {
-       "id": "2.16-04",
-       "tur": "dy",
-       "ifade": "Deniz seviyesinin yükselmesi, kıyılardaki tatlı yer altı sularının tuzlanmasına yol açabilir.",
-       "dogru": true,
-       "bilgi": "Buzulların erimesine bağlı deniz seviyesi yükselmesi alçak ada ve kıyıları su altında bırakma, kıyı erozyonu ve yer altı sularının tuzlanması riskini artırır.",
+       "dogru": 4,
+       "bilgi": "Deniz seviyesinin yükselmesi alçak ada ve kıyıları su altında bırakma, kıyı erozyonu, delta ovalarının zarar görmesi ve yer altı sularının tuzlanması riskini artırır. Buzul alanları ise küresel ısınmayla daralmaktadır.",
        "sayfa": 174,
        "yil": "2022-AYT"
       },
       {
-       "id": "2.16-05",
-       "tur": "dy",
-       "ifade": "Binalarda ısı kaybını azaltmak için yalıtım yapılması, doğal kaynak kullanımında sürdürülebilirlik yaklaşımına örnektir.",
-       "dogru": true,
-       "bilgi": "Yenilenebilir enerjinin payını artırmak, yalıtım, enerji verimliliği bilinci ve atıkları kaynağında ayırmak sürdürülebilirliğe örnektir; fosil yakıtları yaygınlaştırmak değildir.",
-       "sayfa": 174,
-       "yil": "2023-AYT"
-      },
-      {
-       "id": "2.16-06",
-       "tur": "bosluk",
-       "cumle": "Kaynakları planlı kullanıp gelecek nesillerin ihtiyaçlarını tehlikeye atmadan bugünün ihtiyaçlarını karşılamayı amaçlayan kalkınma anlayışına ___ kalkınma denir.",
-       "cevap": "sürdürülebilir",
-       "celdiriciler": [
-        "bölgesel",
-        "hızlı",
-        "dışa bağımlı"
+       "id": "2.16-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki uygulamalardan",
+       "oncul": [
+        "Tropikal ormanların palm yağı üretimi için tarlaya dönüştürülmesi",
+        "Meralarda planlı ve dönüşümlü otlatma yapılması",
+        "Verimli tarım arazilerinin konut alanına açılması",
+        "Biyoçeşitliliği yüksek alanların millî park ilan edilmesi"
        ],
-       "bilgi": "Sürdürülebilir kalkınma; kaynak planlaması, geri dönüşüm, çevrenin korunması ve gelecek nesillerin ihtiyaçlarını gözetir; fosil yakıt tüketimini artırmak buna aykırıdır.",
-       "sayfa": 174,
-       "yil": "2024-AYT"
+       "kok": "hangileri yanlış arazi kullanımına örnektir?",
+       "secenekler": [
+        "I ve II",
+        "I ve III",
+        "II ve IV",
+        "III ve IV",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Ormanları palm yağı tarlasına, verimli tarım arazilerini ya da sulak alanları yerleşime veya tarlaya dönüştürmek yanlış arazi kullanımıdır. Tropikal orman tahribatı en çok Amazon Havzası ve Güneydoğu Asya'da görülür.",
+       "sayfa": 175,
+       "yil": "2026-AYT"
       },
       {
-       "id": "2.16-07",
-       "tur": "dy",
-       "ifade": "Termik santrallerin en belirgin çevresel etkisi, sel ve taşkın olaylarını artırmasıdır.",
-       "dogru": false,
-       "bilgi": "Termik santraller hava kirliliğini artırır; tarım alanlarında verim kaybına, yer altı sularının kirlenmesine ve bitki gelişiminin yavaşlamasına yol açabilir.",
+       "id": "2.16-04",
+       "tur": "secmeli",
+       "soru": "Kömürle çalışan bir termik santralin çevresinde aşağıdaki sorunlardan hangisinin görülmesi beklenmez?",
+       "secenekler": [
+        "Hava kirliliğinin artması",
+        "Asit yağışlarına bağlı toprak kirliliği",
+        "Tarım alanlarında verim kaybı",
+        "Kül atıklarının yer altı sularını kirletmesi",
+        "Sel ve taşkın sıklığının artması"
+       ],
+       "dogru": 4,
+       "bilgi": "Termik santraller hava kirliliğini ve asit yağışlarını artırır; tarım alanlarında verim kaybına, bitki gelişiminin yavaşlamasına ve kül atıklarıyla yer altı sularının kirlenmesine yol açabilir. Sel ve taşkın ise atmosfer kökenli afetlerdir.",
        "sayfa": 175,
        "yil": "2025-AYT"
       },
       {
-       "id": "2.16-08",
-       "tur": "dy",
-       "ifade": "Tropikal ormanların palm yağı üretimi için tarım alanına dönüştürülmesi, arazinin yanlış kullanımına örnektir.",
-       "dogru": true,
-       "bilgi": "Ormanları palm yağı tarlasına, delta sulak alanlarını tarım alanına dönüştürmek yanlış arazi kullanımıdır; biyoçeşitliliği yüksek alanları millî park yapmak ise doğrudur.",
-       "sayfa": 175,
-       "yil": "2026-AYT"
-      },
-      {
-       "id": "2.16-09",
-       "tur": "bosluk",
-       "cumle": "Atıkların kaynağında türlerine göre ayrı toplanması, ___ sürecinin ilk ve en önemli adımıdır.",
-       "cevap": "geri dönüşüm",
-       "celdiriciler": [
-        "düzenli depolama",
-        "atık yakma",
-        "ağaçlandırma"
+       "id": "2.16-05",
+       "tur": "secmeli",
+       "soru": "Bir belediye; atıkların kaynağında ayrı toplanması, binalarda ısı yalıtımının desteklenmesi, organik tarım yapan üreticilere pazar alanı sağlanması ve toplu taşımada elektrikli otobüslerin kullanılması gibi uygulamalar başlatmıştır.\nBu uygulamaların ortak amacı aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Kentin sanayi üretimini artırarak istihdamı yükseltmek",
+        "Doğal kaynakları sürdürülebilir biçimde kullanmak",
+        "Kırsal alanlardan kente göçü hızlandırmak",
+        "Kentsel yayılmayı çevredeki tarım alanlarına yöneltmek",
+        "Kentteki doğal nüfus artış hızını yükseltmek"
        ],
-       "bilgi": "Ayrı toplanan atıkların geri dönüştürülmesi doğal kaynak tüketimini, toprak ve su kirliliğini azaltır; enerji tasarrufu ve ekonomik katkı sağlar.",
-       "sayfa": 175,
-       "yil": "2026-AYT"
+       "dogru": 1,
+       "bilgi": "Atıkları kaynağında ayırmak, yalıtımla enerji tasarrufu sağlamak, organik tarımı desteklemek ve toplu taşımayı temiz enerjiyle yapmak sürdürülebilir kalkınmaya örnektir; bu anlayış gelecek nesillerin ihtiyaçlarını da gözetir.",
+       "sayfa": 174,
+       "yil": "2024-AYT"
       }
      ]
     },
@@ -2013,53 +2860,64 @@
      "kartlar": [
       {
        "id": "2.17-01",
-       "tur": "dy",
-       "ifade": "Greenpeace gibi çevre örgütlerinin şiddet içermeyen eylemlerinin temel amacı, çevreye zarar veren faaliyetleri engellemektir.",
-       "dogru": true,
-       "bilgi": "Bazı ülkeler ortak çevre kararlarını uygulamadığında çevre örgütleri, zarar veren faaliyetleri engellemek için şiddet içermeyen eylemler yapar.",
-       "sayfa": 175,
-       "yil": "2018-AYT"
-      },
-      {
-       "id": "2.17-02",
-       "tur": "dy",
-       "ifade": "Tarihî ve doğal miras alanlarının millî park ilan edilmesi, bu alanları tehdit eden uygulamalardandır.",
-       "dogru": false,
-       "bilgi": "Madencilik, afetler, endemik türlerin toplanıp satılması ve savaşlar doğal ve kültürel mirası tehdit eder; millî park ilanı ise koruma amaçlıdır.",
-       "sayfa": 176,
-       "yil": "2019-AYT"
-      },
-      {
-       "id": "2.17-03",
-       "tur": "dy",
-       "ifade": "Et ağırlıklı beslenmeyi tercih etmek, bireyin karbon ayak izini küçültür.",
-       "dogru": false,
-       "bilgi": "Karbon ayak izi bireyin faaliyetleriyle oluşan sera gazı miktarıdır; bisiklet, tasarruflu ampul ve geri dönüşüm izi küçültürken et ağırlıklı beslenme büyütür.",
+       "tur": "secmeli",
+       "soru": "Bireyin günlük faaliyetleriyle atmosfere saldığı sera gazı miktarına karbon ayak izi denir.\nAşağıdaki davranışlardan",
+       "oncul": [
+        "Kısa mesafelerde otomobil yerine bisiklet kullanmak",
+        "Et ağırlıklı beslenmeyi tercih etmek",
+        "Evde tasarruflu (LED) ampul kullanmak",
+        "Kullanılmış ambalajları geri dönüşüme vermek"
+       ],
+       "kok": "hangileri bireyin karbon ayak izini küçültür?",
+       "secenekler": [
+        "I ve III",
+        "I, II ve IV",
+        "I, III ve IV",
+        "II, III ve IV",
+        "I, II, III ve IV"
+       ],
+       "dogru": 2,
+       "bilgi": "Bisiklet kullanmak, enerji tasarrufu ve geri dönüşüm karbon ayak izini küçültür. Hayvancılık yüksek miktarda sera gazı (metan) saldığından et ağırlıklı beslenme ise karbon ayak izini büyütür.",
        "sayfa": 176,
        "yil": "2025-AYT"
       },
       {
-       "id": "2.17-04",
-       "tur": "bosluk",
-       "cumle": "Çevreye zarar verenlerin bu zararın bedelini karşılamasını öngören ilkeye ___ ilkesi denir.",
-       "cevap": "kirleten öder",
-       "celdiriciler": [
-        "ihtiyatlılık",
-        "ortak miras",
-        "egemen eşitlik"
+       "id": "2.17-02",
+       "tur": "secmeli",
+       "soru": "Çevreye duyarlı politikalar izleyen bir ülkede aşağıdaki uygulamalardan hangisinin görülmesi beklenmez?",
+       "secenekler": [
+        "Çevreye zarar verenlerden bu zararın bedelinin alınması",
+        "Yenilenebilir enerji yatırımlarına vergi indirimi yapılması",
+        "Düşük salımlı araçların teşvik edilmesi",
+        "Koruma alanlarındaki maden yataklarının işletmeye açılması",
+        "Tarımda su ve tarım ilacı tasarrufunun desteklenmesi"
        ],
-       "bilgi": "Gelişmiş ülkeler kirleten öder ilkesi, katılımcı çevre politikaları ve sürdürülebilir kaynak düzenlemeleri uygular; koruma alanlarındaki madenleri işletmez.",
+       "dogru": 3,
+       "bilgi": "Çevreye duyarlı ülkeler kirleten öder ilkesini, katılımcı çevre politikalarını ve yenilenebilir enerji, düşük salımlı araç, su ve ilaç tasarrufu teşviklerini uygular; koruma alanlarındaki madenleri işletmeye açmaz.",
        "sayfa": 176,
        "yil": "2021-AYT"
       },
       {
-       "id": "2.17-05",
-       "tur": "dy",
-       "ifade": "Çevreye duyarlı politikalar izleyen ülkeler, kamusal alanlarda kullan-at ürünlerin kullanımını yaygınlaştırır.",
-       "dogru": false,
-       "bilgi": "Çevreye duyarlı ülkeler yenilenebilir enerjiye vergi indirimi, düşük salımlı araçlara destek, su ve pestisit tasarrufu ve atık geri dönüşümü uygular.",
+       "id": "2.17-03",
+       "tur": "secmeli",
+       "soru": "Doğal ve kültürel miras alanlarıyla ilgili aşağıdaki durumlardan",
+       "oncul": [
+        "Alan yakınında madencilik faaliyetlerinin yürütülmesi",
+        "Endemik bitkilerin toplanıp satılması",
+        "Alanın millî park ilan edilmesi"
+       ],
+       "kok": "hangileri bu alanları tehdit eder?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Madencilik, afetler, endemik türlerin toplanıp satılması ve savaşlar doğal ve kültürel mirası tehdit eder; millî park ilanı ise koruma amaçlıdır. Çevre örgütleri de zarar veren faaliyetleri engellemek için şiddet içermeyen eylemler yapar.",
        "sayfa": 176,
-       "yil": "2025-AYT"
+       "yil": "2019-AYT"
       }
      ]
     }

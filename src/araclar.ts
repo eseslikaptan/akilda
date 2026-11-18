@@ -139,7 +139,9 @@ export function hataBildirLinki(r: KartRef): string {
   if (yerelMi) return `${WEB_ADRES}destek.html?kart=${encodeURIComponent(r.uid)}`;
   const k = r.kart;
   const metin =
-    k.tur === "secmeli" ? k.soru : k.tur === "dy" ? k.ifade : k.tur === "bosluk" ? k.cumle : k.yonerge;
+    k.tur === "secmeli"
+      ? [k.soru, ...(k.oncul ?? []).map((o, i) => `${["I", "II", "III", "IV", "V"][i]}. ${o}`), k.kok ?? ""].filter(Boolean).join("\n")
+      : k.tur === "dy" ? k.ifade : k.tur === "bosluk" ? k.cumle : k.yonerge;
   const govde = [
     `**Kart:** \`${r.uid}\``,
     `**Kaynak:** ${r.kitap.baslik}, s. ${k.sayfa}`,

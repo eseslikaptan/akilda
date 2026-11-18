@@ -88,17 +88,186 @@ function useRakamTuslari(aktif: boolean, adet: number, sec: (i: number) => void,
   }, [aktif, adet, sec, harfli]);
 }
 
+/** Öncüllü ve sayısal sorularda şıklar sabit sırada kalır (Yalnız I, I ve II…); diğerlerinde karıştırılır */
+export function sikSirasi(k: SecmeliKart): string[] {
+  return k.oncul?.length || k.sirali ? k.secenekler : karistir(k.secenekler);
+}
+
+const ROMA = ["I", "II", "III", "IV", "V"];
+
+// ÖSYM'deki gibi olumsuz soru köklerinin altı çizilir
+const OLUMSUZ = new Set(
+  "değildir değil yanlıştır yanlış söylenemez söylenemeyeceği ulaşılamaz ulaşılamayacağı çıkarılamaz yoktur olamaz gösterilemez verilemez getirilemez bulunmaz bulunmamaktadır beklenmez sayılamaz sayılmaz yapılamaz oluşmaz gerçekleşmez görülmez görülemez kullanılmamıştır değinilmemiştir yararlanılmamıştır verilmemiştir".split(" "),
+);
+function kokYaz(s: string) {
+  return s.split(/(\s+)/).map((w, i) => {
+    const sade = w.replace(/[.,;:?!"'’()]/g, "").toLocaleLowerCase("tr");
+    return OLUMSUZ.has(sade) ? <u key={i}>{w}</u> : w;
+  });
+}
+
+/** Soru metni: parça/durum paragrafları, tablo, grafik, öncüller ve kalın soru kökü */
+export function SoruMetni({ kart }: { kart: SecmeliKart }) {
+  const paragraflar = kart.soru.split("\n").map((s) => s.trim()).filter(Boolean);
+  const oncullu = !!kart.oncul?.length;
+  const kok = oncullu ? kart.kok ?? "" : paragraflar.pop() ?? "";
+  const zengin = paragraflar.length > 0 || oncullu || !!kart.tablo || !!kart.grafik;
+  if (!zengin) return <p className={`soru-metni ${kok.length > 150 ? "uzun" : ""}`}>{kokYaz(kok)}</p>;
+  // Öncüllü tablolu/grafikli soruda "Buna göre," gibi son giriş paragrafı, ÖSYM'deki gibi görselin altına gelir
+  const gorselli = !!kart.tablo || !!kart.grafik;
+  const oncGiris = oncullu && gorselli && paragraflar.length >= 2 ? paragraflar.pop() : undefined;
+  return (
+    <div className="soru-govde">
+      {paragraflar.map((p, i) => (
+        <p key={i} className="soru-parca">
+          {p}
+        </p>
+      ))}
+      {kart.tablo && <SoruTablo satirlar={kart.tablo} />}
+      {kart.grafik && <SoruGrafik g={kart.grafik} />}
+      {oncGiris && <p className="soru-parca">{oncGiris}</p>}
+      {oncullu && (
+        <ol className="onculler">
+          {kart.oncul!.map((o, i) => (
+            <li key={i}>
+              <span className="oncul-no">{ROMA[i]}.</span>
+              <span>{o}</span>
+            </li>
+          ))}
+        </ol>
+      )}
+      {kok && <p className="soru-kok">{kokYaz(kok)}</p>}
+    </div>
+  );
+}
+
+function SoruTablo({ satirlar }: { satirlar: string[][] }) {
+  const [bas, ...govde] = satirlar;
+  return (
+    <div className="soru-tablo-kap">
+      <table className="soru-tablo">
+        <thead>
+          <tr>
+            {bas.map((h, i) => (
+              <th key={i}>{h}</th>
+            ))}
+          </tr>
+        </thead>
+        <tbody>
+          {govde.map((r, i) => (
+            <tr key={i}>
+              {r.map((h, j) => (j === 0 ? <th key={j}>{h}</th> : <td key={j}>{h}</td>))}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  );
+}
+
+const SERI_RENK = ["var(--ders)", "var(--ink)", "var(--lila)", "var(--gok)"];
+const SERI_CIZGI = ["", "6 4", "2 3", "8 3 2 3"];
+
+/** Basit çizgi grafiği: eksenler, kesikli kılavuz çizgileri ve seriler */
+function SoruGrafik({ g }: { g: NonNullable<SecmeliKart["grafik"]> }) {
+  const W = 320,
+    H = 222,
+    sol = 44,
+    sag = 22,
+    ust = 22,
+    alt = 42;
+  const xs = g.seriler.flatMap((s) => s.n.map((p) => p[0]));
+  const ys = g.seriler.flatMap((s) => s.n.map((p) => p[1]));
+  const x0 = Math.min(0, ...xs),
+    x1 = Math.max(...xs, ...(g.xIsaret ?? []).map((t) => t[0]));
+  const y0 = Math.min(0, ...ys),
+    y1 = Math.max(...ys, ...(g.yIsaret ?? []).map((t) => t[0]));
+  const px = (x: number) => sol + ((x - x0) / (x1 - x0 || 1)) * (W - sol - sag);
+  const py = (y: number) => H - alt - ((y - y0) / (y1 - y0 || 1)) * (H - ust - alt);
+  const benzersiz = (a: number[]) => [...new Set(a)].filter((v) => v !== 0).sort((a, b) => a - b);
+  const xT: [number, string][] = g.xIsaret ?? benzersiz(xs).map((v) => [v, String(v)]);
+  const yT: [number, string][] = g.yIsaret ?? benzersiz(ys).map((v) => [v, String(v)]);
+  const etiketler: number[][] = [];
+  return (
+    <svg className="soru-grafik" viewBox={`0 0 ${W} ${H}`} role="img" aria-label={`${g.y} – ${g.x} grafiği`}>
+      {xT.map(([v]) => (
+        <line key={`gx${v}`} x1={px(v)} x2={px(v)} y1={py(y0)} y2={py(y1)} className="kilavuz" />
+      ))}
+      {yT.map(([v]) => (
+        <line key={`gy${v}`} x1={px(x0)} x2={px(x1)} y1={py(v)} y2={py(v)} className="kilavuz" />
+      ))}
+      <line x1={px(x0)} x2={px(x1) + 12} y1={py(0)} y2={py(0)} className="eksen" />
+      <line x1={px(0)} x2={px(0)} y1={py(y0)} y2={py(y1) - 12} className="eksen" />
+      {g.seriler.map((s, i) => {
+        // Seri adı çizginin üzerinde, diğer adlarla çakışmayan bir noktaya yazılır
+        const yer = (f: number) => {
+          const t = f * (s.n.length - 1);
+          const a = s.n[Math.floor(t)],
+            b = s.n[Math.min(s.n.length - 1, Math.floor(t) + 1)],
+            k = t - Math.floor(t);
+          // çizgiye dik, yukarı bakan yönde 13 px öteye
+          let nx = py(b[1]) - py(a[1]),
+            ny = -(px(b[0]) - px(a[0]));
+          const u = Math.hypot(nx, ny) || 1;
+          if (ny > 0) (nx = -nx), (ny = -ny);
+          return [px(a[0] + (b[0] - a[0]) * k) + (nx / u) * 13, py(a[1] + (b[1] - a[1]) * k) + (ny / u) * 13 + 4];
+        };
+        let ad = yer(0.55);
+        for (const f of [0.3, 0.8, 0.15, 0.95]) {
+          if (!etiketler.some(([x, y]) => Math.hypot(x - ad[0], y - ad[1]) < 18)) break;
+          ad = yer(f);
+        }
+        etiketler.push(ad);
+        return (
+          <g key={i}>
+            <polyline
+              points={s.n.map(([x, y]) => `${px(x)},${py(y)}`).join(" ")}
+              fill="none"
+              stroke={SERI_RENK[i % 4]}
+              strokeWidth={2.6}
+              strokeDasharray={SERI_CIZGI[i % 4]}
+              strokeLinejoin="round"
+            />
+            {s.ad && (
+              <text x={ad[0]} y={ad[1]} className="seri-ad" fill={SERI_RENK[i % 4]} textAnchor="middle">
+                {s.ad}
+              </text>
+            )}
+          </g>
+        );
+      })}
+      <text x={W - 6} y={H - 6} className="eksen-ad" textAnchor="end">
+        {g.x}
+      </text>
+      <text x={px(0) + 8} y={py(y1) - 6} className="eksen-ad">
+        {g.y}
+      </text>
+      {xT.map(([v, t]) => (
+        <text key={`tx${v}`} x={px(v)} y={py(0) + 16} textAnchor="middle" className="isaret">
+          {t}
+        </text>
+      ))}
+      {yT.map(([v, t]) => (
+        <text key={`ty${v}`} x={px(0) - 6} y={py(v) + 4} textAnchor="end" className="isaret">
+          {t}
+        </text>
+      ))}
+    </svg>
+  );
+}
+
 function Secmeli({ kart, cevap, onCevap, yazarak }: Props<SecmeliKart>) {
   const dogruMetin = kart.secenekler[kart.dogru];
-  const secenekler = useMemo(() => karistir(kart.secenekler), [kart]);
-  const [goster, setGoster] = useState(!yazarak);
+  const secenekler = useMemo(() => sikSirasi(kart), [kart]);
+  // Öncüllü ya da tablolu/grafikli sorularda şıkları gizlemek anlamsız
+  const [goster, setGoster] = useState(!yazarak || !!kart.oncul?.length || !!kart.tablo || !!kart.grafik);
   const sec = (i: number) => onCevap({ dogru: secenekler[i] === dogruMetin, secim: secenekler[i] });
   useRakamTuslari(!cevap && goster, secenekler.length, sec, true);
 
   if (!goster && !cevap)
     return (
       <>
-        <p className="soru-metni">{kart.soru}</p>
+        <SoruMetni kart={kart} />
         <div className="sik-gizli">
           <p>Önce cevabı aklından söyle, sonra şıklardan seç.</p>
           <button className="dugme ikincil" onClick={() => setGoster(true)} autoFocus>
@@ -110,7 +279,7 @@ function Secmeli({ kart, cevap, onCevap, yazarak }: Props<SecmeliKart>) {
 
   return (
     <>
-      <p className="soru-metni">{kart.soru}</p>
+      <SoruMetni kart={kart} />
       <div className="secenekler">
         {secenekler.map((s, i) => {
           let durum = "";

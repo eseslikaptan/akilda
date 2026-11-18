@@ -17,143 +17,109 @@
       {
        "id": "1.1.1-01",
        "tur": "secmeli",
-       "soru": "Donmuş topraklar, buzullar ve sürekli karla kaplı alanlardan oluşan doğal ortam bileşeni hangisidir?",
+       "soru": "Okyanus yüzeyinden buharlaşan su, rüzgârlarla taşınarak bir dağ yamacı boyunca yükselmiştir. Soğuyan hava kütlesindeki su buharı yoğuşarak zirvelere kar olarak düşmüş, yıllar içinde biriken kar buzul kütlesine dönüşmüştür.\nBu süreçte aşağıdaki doğal ortam bileşenlerinden hangisinin rolünden söz edilemez?",
        "secenekler": [
         "Hava küre (atmosfer)",
-        "Buz küre (kriyosfer)",
         "Su küre (hidrosfer)",
-        "Taş küre (litosfer)"
+        "Buz küre (kriyosfer)",
+        "Taş küre (litosfer)",
+        "Yaşam küre (biyosfer)"
        ],
-       "dogru": 1,
-       "bilgi": "Doğal ortam; taş küre, hava küre, su küre, buz küre ve yaşam küre olmak üzere etkileşim hâlindeki beş temel ortamdan oluşur.",
+       "dogru": 4,
+       "bilgi": "Okyanus su küreyi, rüzgâr ve yoğuşma hava küreyi, dağ yamacı taş küreyi, buzul buz küreyi temsil eder. Süreçte canlılara ait bir unsur bulunmadığından yaşam kürenin rolünden söz edilemez.",
        "sayfa": 16
       },
       {
        "id": "1.1.1-02",
-       "tur": "bosluk",
-       "cumle": "Doğal ortamı oluşturan unsurlarda meydana gelen değişimlere ___ denir.",
-       "cevap": "doğa olayı",
-       "celdiriciler": [
-        "beşerî faaliyet",
-        "mekânsal süreç",
-        "coğrafi olgu"
+       "tur": "secmeli",
+       "soru": "Aşağıdaki değişimlerden",
+       "oncul": [
+        "Bir heyelanın vadinin önünü kapatmasıyla set gölü oluşması",
+        "Bir akarsu üzerine yapılan barajın önünde göl oluşması",
+        "Dalgaların aşındırmasıyla kıyıda dik yarların (falez) oluşması"
        ],
-       "bilgi": "Doğal ortamın unsurlarında meydana gelen değişimler doğa olayı olarak adlandırılır.",
+       "kok": "hangileri doğa olayına örnektir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Doğal ortamın unsurlarında kendiliğinden meydana gelen değişimler doğa olayıdır; heyelan set gölü ve falez oluşumu bu türdendir. Baraj gölü ise insan faaliyetiyle oluşur.",
        "sayfa": 16
       },
       {
        "id": "1.1.1-03",
        "tur": "secmeli",
-       "soru": "Doğal ortam ile beşerî ortamın birlikteliğinden oluşan en geniş yaşam alanına ne ad verilir?",
+       "soru": "Aşağıdaki araştırma konusu – coğrafya dalı eşleştirmelerinden hangisi yanlıştır?",
        "secenekler": [
-        "Yaşam küre",
-        "Beşerî ortam",
-        "Ekosistem",
-        "Coğrafi ortam"
+        "Akarsuların rejimindeki mevsimlik değişim – Hidrografya",
+        "Karstik arazide obruk ve mağara oluşumu – Jeomorfoloji",
+        "Kırsal yerleşmelerdeki konut tiplerinin dağılışı – Yerleşme coğrafyası",
+        "Bir ülkedeki dil ve inanç gruplarının dağılışı – Kültürel coğrafya",
+        "Toprakların oluşumu ve özelliklerinin dağılışı – Biyocoğrafya"
        ],
-       "dogru": 3,
-       "bilgi": "Doğal ve beşerî ortamın birlikteliğinden oluşan en geniş yaşam alanı coğrafi ortamdır.",
-       "sayfa": 16
+       "dogru": 4,
+       "bilgi": "Toprakların oluşumunu, özelliklerini ve dağılışını toprak coğrafyası inceler; biyocoğrafya bitki ve hayvanların dağılışını ele alır. Diğer eşleştirmeler doğrudur.",
+       "sayfa": 18
       },
       {
        "id": "1.1.1-04",
-       "tur": "eslestir",
-       "yonerge": "Fiziki coğrafyanın alt dallarını Türkçe karşılıklarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Jeomorfoloji",
-         "Yer şekilleri bilimi"
-        ],
-        [
-         "Klimatoloji",
-         "İklim bilimi"
-        ],
-        [
-         "Hidrografya",
-         "Sular coğrafyası"
-        ],
-        [
-         "Biyocoğrafya",
-         "Canlılar coğrafyası"
-        ]
+       "tur": "secmeli",
+       "soru": "Coğrafyanın dalları, inceledikleri konularla ilgili başka bilimlerle etkileşim içindedir.\nAşağıdaki coğrafya dalı – etkileşimde olduğu bilim eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "Klimatoloji – Meteoroloji",
+        "Toprak coğrafyası – Pedoloji",
+        "Yerleşme coğrafyası – Arkeoloji",
+        "Kültürel coğrafya – Antropoloji",
+        "Jeomorfoloji – Filoloji"
        ],
-       "bilgi": "Fiziki coğrafya; jeomorfoloji, klimatoloji, hidrografya, biyocoğrafya ve toprak coğrafyası gibi alt dallara ayrılır.",
+       "dogru": 4,
+       "bilgi": "Yer şekillerini inceleyen jeomorfoloji jeolojiyle etkileşim içindedir. Filoloji (dil bilimi); sosyoloji, ilahiyat ve antropolojiyle birlikte kültürel coğrafyanın yararlandığı bilimlerdendir.",
        "sayfa": 18
       },
       {
        "id": "1.1.1-05",
        "tur": "secmeli",
-       "soru": "Atmosferi, hava olaylarını ve iklim tiplerinin dağılışını inceleyen klimatoloji hangi bilimle etkileşim içindedir?",
-       "secenekler": [
-        "Pedoloji",
-        "Limnoloji",
-        "Meteoroloji",
-        "Petrografi"
+       "soru": "Bir araştırmacı, uydu görüntülerini karşılaştırarak bir gölün son 30 yılda küçüldüğünü belirlemiştir. Ardından göl çevresindeki köylerde anket yaparak çiftçilerin sulama alışkanlıklarını tespit etmiş, tüm verileri Coğrafi Bilgi Sistemleri (CBS) ortamında katmanlar hâlinde haritalamıştır.\nBu araştırmayla ilgili,",
+       "oncul": [
+        "Uzaktan algılama yönteminden yararlanılmıştır.",
+        "Yalnızca fiziki coğrafyanın konusu olan bir sorun incelenmiştir.",
+        "Mekânsal veriler sözel verilerle birlikte değerlendirilmiştir."
        ],
-       "dogru": 2,
-       "bilgi": "İklim bilimi (klimatoloji), meteoroloji ile etkileşim içindedir.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Uydu görüntüleri uzaktan algılamayla elde edilir; anket bilgileri CBS'de mekânsal verilerle birlikte kullanılabilir. Gölün küçülmesinde sulama gibi insan faaliyetleri de incelendiğinden araştırma beşerî coğrafyayı da ilgilendirir.",
        "sayfa": 18
       },
       {
        "id": "1.1.1-06",
-       "tur": "bosluk",
-       "cumle": "Toprakların oluşum süreçlerini, özelliklerini ve dağılışını inceleyen toprak coğrafyası, ___ ile etkileşim içindedir.",
-       "cevap": "pedoloji",
-       "celdiriciler": [
-        "potamoloji",
-        "limnoloji",
-        "oseonografya"
-       ],
-       "bilgi": "Toprak coğrafyası, pedoloji ve mineraloji ile etkileşim içinde olan fiziki coğrafya dalıdır.",
-       "sayfa": 18
-      },
-      {
-       "id": "1.1.1-07",
-       "tur": "dy",
-       "ifade": "Coğrafi Bilgi Sistemleri (CBS), yalnızca beşerî coğrafya araştırmalarında kullanılan bir tekniktir.",
-       "dogru": false,
-       "bilgi": "Haritalama, uzaktan algılama, niceleme (istatistik) yöntemleri ve CBS hem fiziki hem beşerî coğrafya araştırmalarında kullanılır.",
-       "sayfa": 18
-      },
-      {
-       "id": "1.1.1-08",
        "tur": "secmeli",
-       "soru": "Yerleşmelerin gelişimini, tiplerini, dağılışını ve mesken tiplerini inceleyen beşerî coğrafya dalı hangisidir?",
-       "secenekler": [
-        "Sosyal coğrafya",
-        "Kültürel coğrafya",
-        "Siyasi coğrafya",
-        "Yerleşme coğrafyası"
+       "soru": "Konya Ovası'nda sayısı giderek artan obruklarla ilgili bir araştırmada aşağıdaki konular incelenmiştir:",
+       "oncul": [
+        "Obrukların oluştuğu kireç taşlı arazinin özellikleri",
+        "Yer altı su seviyesinin yıllara göre değişimi",
+        "Tarımsal sulama için açılan kuyuların sayısındaki artış"
        ],
-       "dogru": 3,
-       "bilgi": "Yerleşme coğrafyası; yerleşmelerin gelişimini, tiplerini, dağılışını ve mesken tiplerini inceler, arkeoloji ve tarihle etkileşim içindedir.",
-       "sayfa": 19
-      },
-      {
-       "id": "1.1.1-09",
-       "tur": "secmeli",
-       "soru": "Toplumların dil, din, giyim, yemek, müzik ve mimari özelliklerini coğrafyayla ilişkilendirerek inceleyen dal hangisidir?",
+       "kok": "Bu konulardan hangileri beşerî coğrafyanın inceleme alanına girer?",
        "secenekler": [
-        "Kültürel coğrafya",
-        "Ekonomik coğrafya",
-        "Nüfus coğrafyası",
-        "Sosyal coğrafya"
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
        ],
        "dogru": 0,
-       "bilgi": "Kültürel coğrafya; sosyoloji, filoloji, ilahiyat ve antropoloji ile etkileşim içindedir.",
-       "sayfa": 19
-      },
-      {
-       "id": "1.1.1-10",
-       "tur": "bosluk",
-       "cumle": "Coğrafya bilimi, fiziki coğrafya ve ___ coğrafya olmak üzere iki bölüme ayrılır.",
-       "cevap": "beşerî",
-       "celdiriciler": [
-        "bölgesel",
-        "matematik",
-        "tarihî"
-       ],
-       "bilgi": "Fiziki coğrafya doğal olay ve süreçleri, beşerî coğrafya insan faaliyetlerinin mekândaki dağılımını inceler.",
+       "bilgi": "Kireç taşlı arazinin özellikleri jeomorfolojinin, yer altı suyu hidrografyanın konusudur; ikisi de fiziki coğrafyaya girer. Sulama kuyularının artışı bir insan faaliyeti olduğundan beşerî (ekonomik) coğrafyanın konusudur.",
        "sayfa": 18
       }
      ]
@@ -165,72 +131,74 @@
       {
        "id": "1.1.2-01",
        "tur": "secmeli",
-       "soru": "Günümüzde doğal kaynakların yıllık tüketimi ile Dünya ekosisteminin bir yılda ürettiği kaynaklar arasındaki ilişki nasıldır?",
+       "soru": "2021 yazında Batı Karadeniz'de etkili olan şiddetli yağışlardan sonra Kastamonu'nun Bozkurt ilçesinde Ezine Çayı taşmıştır. İlçe merkezinin kıyıdan yaklaşık 2 km içeride vadi tabanında kurulmuş olması, dere yatağının yapılaşma nedeniyle daraltılması ve suyun sürüklediği tomrukların alçak köprülerin gözlerini tıkaması yıkımı büyütmüştür.\nBu bilgilere göre aşağıdakilerden hangisine ulaşılamaz?",
        "secenekler": [
-        "Tüketim, üretimden fazladır",
-        "Tüketim, üretimin yarısı kadardır",
-        "Tüketim ile üretim eşittir",
-        "Tüketim, yalnızca kutuplarda üretimi aşar"
+        "Doğa olayının afete dönüşmesinde beşerî etkenler rol oynamıştır.",
+        "Yerleşme yeri seçilirken taşkın riski yeterince dikkate alınmamıştır.",
+        "Akarsu yatağına yapılan müdahaleler suyun taşmasını kolaylaştırmıştır.",
+        "Köprülerin tasarımı, taşınan malzemenin akışını engellemiştir.",
+        "Taşkını başlatan asıl etken bir deprem olmuştur."
        ],
-       "dogru": 0,
-       "bilgi": "Doğal kaynakların yıllık tüketimi, Dünya ekosisteminin bir yılda ürettiğinden fazladır; bu durum insanlığın geleceği için tehdittir.",
-       "sayfa": 21
+       "dogru": 4,
+       "bilgi": "Taşkını şiddetli yağışlar başlatmış; vadi tabanına yerleşme, yatağın daraltılması ve köprülerin tıkanması gibi beşerî etkenler yıkımı büyütmüştür. Metinde depremle ilgili bir bilgi yoktur.",
+       "sayfa": 23
       },
       {
        "id": "1.1.2-02",
-       "tur": "dy",
-       "ifade": "İnsanlar, deniz kıyılarından yaklaşık 6 bin metre yükseltiye kadar uzanan geniş bir alanda yaşamaktadır.",
-       "dogru": true,
-       "bilgi": "İnsanlar çok soğuk yerlerden çok sıcak yerlere, deniz kıyılarından 6 bin metre yükseltiye kadar geniş bölgelerde yaşar.",
+       "tur": "secmeli",
+       "soru": "Coğrafi bakış açısına sahip bir bireyle ilgili,",
+       "oncul": [
+        "Olay ve olguları yalnızca yaşadığı yerle sınırlı olarak değerlendirir.",
+        "Bir olayın nerede ve neden orada gerçekleştiğini sorgulayarak mekânla ilişki kurar.",
+        "Yerel bir sorunun bölgesel ve küresel boyutlarını da göz önünde bulundurur."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Coğrafi bakış açısı, olay ve olguları mekânla ilişkilendirip neden-sonuç bağı kurmayı ve onları yerel, bölgesel ve küresel ölçekte kavramayı sağlar. Yalnızca yerel ölçekte değerlendirme bu bakış açısıyla bağdaşmaz.",
        "sayfa": 21
       },
       {
        "id": "1.1.2-03",
-       "tur": "bosluk",
-       "cumle": "Coğrafya bilgisi, doğal kaynakların iyi yönetilmesinin yanında ___ bilincinin oluşmasında da önemli rol oynar.",
-       "cevap": "vatanseverlik",
-       "celdiriciler": [
-        "tüketim",
-        "rekabet",
-        "bireysellik"
+       "tur": "secmeli",
+       "soru": "Bir belediye meclisinde alınan aşağıdaki kararlardan",
+       "oncul": [
+        "Yeni konut alanının vadi tabanı yerine taşkın riski taşımayan yüksek bir düzlüğe planlanması",
+        "Çöp depolama tesisinin yeri belirlenirken hâkim rüzgâr yönünün dikkate alınması",
+        "Kent parklarına bölgenin iklimine uygun ağaç türlerinin dikilmesi"
        ],
-       "bilgi": "Coğrafya bilgisine sahip toplumlar kaynakları daha iyi yönetmiş, güçlü devletler kurmuştur; bu bilgi vatanseverlik bilincini de destekler.",
+       "kok": "hangilerinde coğrafi bilgiden yararlanıldığı söylenebilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Taşkın riski (hidrografya), hâkim rüzgâr yönü (klimatoloji) ve iklime uygun bitki seçimi (biyocoğrafya) coğrafi bilgiye dayanır. Coğrafya bilgisi kaynakların ve mekânın doğru yönetilmesini sağlar.",
        "sayfa": 21
       },
       {
        "id": "1.1.2-04",
-       "tur": "dy",
-       "ifade": "Coğrafi bakış açısına sahip bir kişi, olay ve olguları yalnızca yerel ölçekte değerlendirebilir.",
-       "dogru": false,
-       "bilgi": "Coğrafi bakış açısına sahip kişi olay ve olguları mekânla ilişkilendirip yerel, bölgesel ve küresel ölçekte kavrayabilir.",
-       "sayfa": 21
-      },
-      {
-       "id": "1.1.2-05",
        "tur": "secmeli",
-       "soru": "2021 Batı Karadeniz selinde Bozkurt'ta (Kastamonu) yıkımı artıran beşerî etkenlerden biri hangisidir?",
+       "soru": "İnsanlar kutup çevresindeki çok soğuk alanlardan sıcak çöllere, deniz kıyılarından yaklaşık 6.000 metre yükseltiye kadar uzanan farklı ortamlarda yaşamaktadır. Bununla birlikte günümüzde doğal kaynakların yıllık tüketimi, Dünya ekosisteminin bir yılda üretebildiği miktarı aşmıştır.\nBu bilgilerden hareketle aşağıdakilerden hangisine ulaşılabilir?",
        "secenekler": [
-        "Ezine Çayı'na baraj yapılması",
-        "Kıyıya dalgakıran inşa edilmesi",
-        "Ormanların tarım alanına dönüştürülmesi",
-        "Ezine Çayı yatağının daraltılması"
+        "İnsanların doğal ortama uyum sağlaması kaynak sorununu ortadan kaldırmıştır.",
+        "Doğal kaynakların sürdürülebilir kullanımı bir zorunluluk hâline gelmiştir.",
+        "İnsanlar yalnızca orta kuşaktaki ılıman alanlarda yerleşebilmektedir.",
+        "Yüksek dağlık alanlar, dünyada nüfusun en yoğun olduğu yerlerdir.",
+        "Kaynak tüketimindeki artış yalnızca kutup bölgelerini etkilemektedir."
        ],
-       "dogru": 3,
-       "bilgi": "Bozkurt selinde dere yatağının daraltılması, yerleşimlerin vadi tabanına kurulması, tomrukların kanalları tıkaması ve alçak köprüler yıkımı artırmıştır.",
-       "sayfa": 23
-      },
-      {
-       "id": "1.1.2-06",
-       "tur": "bosluk",
-       "cumle": "2021 selinde Bozkurt ilçe merkezi, kıyıdan 2 km içeride ___ Çayı Vadisi'nde kurulu olduğu için ağır hasar görmüştür.",
-       "cevap": "Ezine",
-       "celdiriciler": [
-        "Filyos",
-        "Bartın",
-        "Kızılırmak"
-       ],
-       "bilgi": "Yerleşim alanlarının Ezine Çayı vadi tabanına kurulması, suyun vadiden taşıp etrafa yayılmasına yol açmıştır.",
-       "sayfa": 23
+       "dogru": 1,
+       "bilgi": "İnsan çok farklı ortamlara uyum sağlasa da tüketimin ekosistemin yenileme kapasitesini aşması kaynakların tükenmesi tehlikesini doğurur; bu da kaynakların sürdürülebilir biçimde yönetilmesini zorunlu kılar.",
+       "sayfa": 21
       }
      ]
     },
@@ -240,132 +208,91 @@
      "kartlar": [
       {
        "id": "1.1.3-01",
-       "tur": "bosluk",
-       "cumle": "Coğrafya kavramı, Eski Yunanca \"geo\" (yer) ve \"___\" (tasvir etmek) kelimelerinin birleşmesiyle oluşmuştur.",
-       "cevap": "graphein",
-       "celdiriciler": [
-        "logos",
-        "nomos",
-        "metron"
+       "tur": "secmeli",
+       "soru": "Orta Çağ'da İslam dünyasında namaz vakitlerinin belirlenmesi, oruç sürelerinin hesaplanması ve hac yollarının tespit edilmesi gibi ihtiyaçlar coğrafyaya olan ilgiyi artırmıştır.\nBu durum, Orta Çağ'da coğrafyanın gelişmesinde aşağıdakilerden hangisinin etkili olduğunu gösterir?",
+       "secenekler": [
+        "Dinî ihtiyaçların",
+        "Sanayi Devrimi'nin",
+        "Sömürgecilik faaliyetlerinin",
+        "Yazının icadının",
+        "Bilimsel keşif gezilerinin"
        ],
-       "bilgi": "Coğrafya, \"geo\" (yer) ve \"graphein\" (tasvir etmek) kelimelerinden türemiştir.",
+       "dogru": 0,
+       "bilgi": "Namaz vakitleri, oruç süresi ve hac yollarının belirlenmesi dinî ihtiyaçlardır; Harizmi, Biruni, İdrisi gibi Müslüman bilginler bu dönemde coğrafyaya katkı sağlamıştır. Sanayi Devrimi ve bilimsel keşif gezileri Yakın Çağ'a aittir.",
        "sayfa": 24
       },
       {
        "id": "1.1.3-02",
        "tur": "secmeli",
-       "soru": "\"Coğrafya\" kavramını Eski Çağ'da ilk kez kullanan bilim insanı kimdir?",
-       "secenekler": [
-        "Strabon",
-        "Batlamyus",
-        "Eratosthenes",
-        "Heredot"
+       "soru": "Coğrafya biliminin gelişimiyle ilgili aşağıdaki gelişmeler,",
+       "oncul": [
+        "Kâtip Çelebi'nin coğrafya alanında eserler vermesi",
+        "Eratosthenes'in coğrafya kavramını ilk kez kullanması",
+        "Humboldt ve Ritter'in öncülüğünde coğrafyanın yöntemlerinin oluşturulması",
+        "Biruni ve İdrisi'nin coğrafyaya katkı sağlaması"
        ],
-       "dogru": 2,
-       "bilgi": "Coğrafya kavramı ilk defa Eski Çağ'da Eratosthenes tarafından kullanılmıştır.",
+       "kok": "kronolojik sıraya göre dizildiğinde hangi sıralama doğru olur?",
+       "secenekler": [
+        "II - I - IV - III",
+        "II - IV - I - III",
+        "II - IV - III - I",
+        "IV - II - I - III",
+        "IV - II - III - I"
+       ],
+       "dogru": 1,
+       "bilgi": "Eratosthenes Eski Çağ'da, Biruni ve İdrisi Orta Çağ'da (XI-XII. yüzyıl), Kâtip Çelebi Yeni Çağ'da (XVII. yüzyıl) yaşamıştır. Humboldt ve Ritter ise Yakın Çağ'da (XIX. yüzyıl) coğrafyanın modern yöntemlerinin oluşmasına öncülük etmiştir.",
        "sayfa": 24
       },
       {
        "id": "1.1.3-03",
-       "tur": "eslestir",
-       "yonerge": "Tarihî çağları, coğrafyanın gelişmesinde rol oynayan etkenlerle eşleştir.",
-       "ciftler": [
-        [
-         "Eski Çağ",
-         "Yazının icadı ve ilk kentlerin kurulması"
-        ],
-        [
-         "Orta Çağ",
-         "İpek Yolu ve Baharat Yolu ticareti"
-        ],
-        [
-         "Yeni Çağ",
-         "Rönesans, reform ve sömürgecilik hareketleri"
-        ],
-        [
-         "Yakın Çağ",
-         "Fransız İhtilali ve Sanayi Devrimi"
-        ]
+       "tur": "secmeli",
+       "soru": "Coğrafya biliminin anlayışı ve yöntemleri her çağda dönemin gelişmelerine bağlı olarak değişmiştir.\nAşağıdaki çağ – coğrafyanın gelişmesinde etkili olan gelişme eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "Eski Çağ – Yazının icadı ve ilk kentlerin kurulması",
+        "Orta Çağ – İpek Yolu ve Baharat Yolu üzerindeki ticaret",
+        "Yeni Çağ – Rönesans, reform ve sömürgecilik hareketleri",
+        "Yeni Çağ – Fransız İhtilali",
+        "Yakın Çağ – Bilimsel amaçlı keşif gezileri"
        ],
-       "bilgi": "Coğrafya biliminin anlayışı ve yöntemleri her çağda o dönemin gelişmelerine bağlı olarak değişmiştir.",
+       "dogru": 3,
+       "bilgi": "Fransız İhtilali (1789) Yakın Çağ'ı başlatan olaydır; bu çağda Sanayi Devrimi ve bilimsel keşif gezileriyle coğrafyanın yöntemleri oluşmuş, konu ve bölümleri bugünkü şeklini almıştır.",
        "sayfa": 24
       },
       {
        "id": "1.1.3-04",
-       "tur": "dy",
-       "ifade": "Orta Çağ'da namaz vakitleri, oruç süresi ve hac yollarının belirlenmesi gibi ihtiyaçlar coğrafyaya ilgiyi artırmıştır.",
-       "dogru": true,
-       "bilgi": "Orta Çağ'da coğrafyanın gelişmesinde Müslüman bilginlerin çalışmalarının rolü büyüktür.",
-       "sayfa": 24
+       "tur": "secmeli",
+       "soru": "Yakın Çağ'da coğrafya bilimiyle ilgili,",
+       "oncul": [
+        "Coğrafya kavramı ilk kez bu çağda kullanılmaya başlanmıştır.",
+        "Humboldt, Ritter ve Ratzel gibi Alman bilim insanları coğrafyanın gelişmesine öncülük etmiştir.",
+        "Coğrafi bilginin artmasında İpek Yolu ve Baharat Yolu ticareti belirleyici olmuştur."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Yakın Çağ'da Alman bilim insanlarının öncülüğünde coğrafyanın yöntemleri oluşmuş, konu ve bölümleri bugünkü şeklini almıştır. Coğrafya kavramını Eski Çağ'da Eratosthenes kullanmıştır; İpek Yolu ve Baharat Yolu ticareti Orta Çağ'da etkilidir.",
+       "sayfa": 25
       },
       {
        "id": "1.1.3-05",
        "tur": "secmeli",
-       "soru": "Orta Çağ'da coğrafya bilimine katkı veren eserler yazmış seyyahlardan biri hangisidir?",
+       "soru": "Aşağıdaki bilim insanı ya da gezgin – yaşadığı çağ eşleştirmelerinden hangisi yanlıştır?",
        "secenekler": [
-        "Biruni",
-        "Harizmi",
-        "İbni Battuta",
-        "Batlamyus"
+        "Eratosthenes – Eski Çağ",
+        "İbni Battuta – Orta Çağ",
+        "Evliya Çelebi – Yeni Çağ",
+        "Friedrich Ratzel – Yakın Çağ",
+        "Kâtip Çelebi – Orta Çağ"
        ],
-       "dogru": 2,
-       "bilgi": "Orta Çağ'da Harizmi, Biruni, İbni Haldun ve İdrisi gibi bilginler ile İbni Battuta ve Mesudi gibi seyyahlar coğrafyaya katkı vermiştir.",
+       "dogru": 4,
+       "bilgi": "Kâtip Çelebi ve Evliya Çelebi XVII. yüzyılda, yani Yeni Çağ'da yaşamıştır. İbni Battuta ve Mesudi gibi seyyahlar Orta Çağ'da, Ratzel ise Yakın Çağ'da coğrafyaya katkı sağlamıştır.",
        "sayfa": 24
-      },
-      {
-       "id": "1.1.3-06",
-       "tur": "secmeli",
-       "soru": "Yeni Çağ'da \"Seyahatname\" adlı eseriyle coğrafyaya katkı veren Osmanlı yazarı kimdir?",
-       "secenekler": [
-        "Kâtip Çelebi",
-        "Evliya Çelebi",
-        "Piri Reis",
-        "Mesudi"
-       ],
-       "dogru": 1,
-       "bilgi": "Yeni Çağ'da Ortelius ve Kâtip Çelebi harita ve eserleriyle, Evliya Çelebi de Seyahatname ile coğrafyaya katkı vermiştir.",
-       "sayfa": 24
-      },
-      {
-       "id": "1.1.3-07",
-       "tur": "secmeli",
-       "soru": "Coğrafyanın yöntemlerinin oluşturulduğu, konu ve bölümlerinin bugünkü şeklini aldığı çağ hangisidir?",
-       "secenekler": [
-        "Eski Çağ",
-        "Orta Çağ",
-        "Yeni Çağ",
-        "Yakın Çağ"
-       ],
-       "dogru": 3,
-       "bilgi": "Yakın Çağ'da Fransız İhtilali, Sanayi Devrimi ve bilimsel keşif gezileri coğrafyanın gelişmesinde etkili olmuştur.",
-       "sayfa": 24
-      },
-      {
-       "id": "1.1.3-08",
-       "tur": "secmeli",
-       "soru": "Yakın Çağ'da coğrafyanın gelişmesinde öncü olan Alman bilim insanları hangi seçenekte verilmiştir?",
-       "secenekler": [
-        "Ortelius, Kolomb, Magellan",
-        "Biruni, İdrisi, Mesudi",
-        "Besim Darkot, Sırrı Erinç, Reşat İzbırak",
-        "Von Humboldt, Carl Ritter, Friedrich Ratzel"
-       ],
-       "dogru": 3,
-       "bilgi": "Von Humboldt, Carl Ritter ve Friedrich Ratzel, Yakın Çağ'da coğrafyaya öncülük eden Alman bilim insanlarıdır.",
-       "sayfa": 25
-      },
-      {
-       "id": "1.1.3-09",
-       "tur": "bosluk",
-       "cumle": "Cumhuriyet Dönemi'nde Besim Darkot, Faik Sabri Duran, Reşat İzbırak ve ___ coğrafya bilimine önemli katkılar sağlamıştır.",
-       "cevap": "Sırrı Erinç",
-       "celdiriciler": [
-        "Carl Ritter",
-        "Friedrich Ratzel",
-        "Muhammed İdrisi"
-       ],
-       "bilgi": "Besim Darkot, Faik Sabri Duran, Reşat İzbırak ve Sırrı Erinç, Cumhuriyet Dönemi'nin önemli coğrafyacılarıdır.",
-       "sayfa": 25
       }
      ]
     }
@@ -382,171 +309,138 @@
       {
        "id": "2.1.1-01",
        "tur": "secmeli",
-       "soru": "Ölçek kullanılmadan yapılan ve üzerinde uzunluk ile alan hesaplanamayan kabataslak çizimlere ne ad verilir?",
-       "secenekler": [
-        "Profil",
-        "Kartogram",
-        "Kabartma harita",
-        "Kroki"
+       "soru": "Gerçekte aralarında 60 km uzaklık bulunan iki kent arasındaki mesafe, aynı boyutlardaki kâğıtlara çizilmiş K haritasında 12 cm, L haritasında 3 cm olarak gösterilmiştir.\nBuna göre,",
+       "oncul": [
+        "K haritasının ölçeği 1/500.000'dir.",
+        "L haritası, K haritasına göre daha geniş bir alanı gösterir.",
+        "L haritasında küçültme oranı K haritasındakinden azdır."
        ],
-       "dogru": 3,
-       "bilgi": "Ölçeksiz kabataslak çizimlere kroki denir; ölçeği olmadığından kroki üzerinde uzunluk ve alan hesaplanamaz.",
-       "sayfa": 35
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "60 km = 6.000.000 cm; K'nin ölçeği 6.000.000/12 = 1/500.000, L'ninki 6.000.000/3 = 1/2.000.000'dir. L küçük ölçekli olduğundan küçültme oranı fazla, gösterdiği alan geniş, ayrıntısı azdır.",
+       "sayfa": 43
       },
       {
        "id": "2.1.1-02",
-       "tur": "bosluk",
-       "cumle": "Haritada kullanılan renk ve sembollerin anlamlarını gösteren listeye ___ denir.",
-       "cevap": "lejant",
-       "celdiriciler": [
-        "ölçek",
-        "başlık",
-        "çerçeve"
+       "tur": "secmeli",
+       "soru": "1/400.000 ölçekli bir haritada bir göl 5 cm² alan kaplamaktadır.\nBu gölün gerçek alanı kaç km²'dir?",
+       "secenekler": [
+        "20",
+        "40",
+        "80",
+        "160",
+        "320"
        ],
-       "bilgi": "Haritanın başlıca elemanları başlık, çerçeve, coğrafi koordinatlar, harita işaretleri (lejant), yön oku ve ölçektir.",
-       "sayfa": 36
+       "sirali": true,
+       "dogru": 2,
+       "bilgi": "Haritada 1 cm, 400.000 cm yani 4 km'ye karşılık gelir. Buna göre 1 cm² = 4 × 4 = 16 km² ve gölün gerçek alanı 5 × 16 = 80 km²'dir. Alan hesabında ölçekteki uzunluk değerinin karesi alınır.",
+       "sayfa": 43
       },
       {
        "id": "2.1.1-03",
-       "tur": "bosluk",
-       "cumle": "Dünya üzerindeki bir noktanın başlangıç meridyenine uzaklığının yerin merkeziyle yaptığı açı değerine ___ denir.",
-       "cevap": "boylam",
-       "celdiriciler": [
-        "enlem",
-        "yükselti",
-        "paralel"
+       "tur": "secmeli",
+       "soru": "Coğrafi koordinatları K (40° K, 27° D) ve L (38° K, 43° D) olarak verilen iki yerleşmede aynı anda yerel saatlere bakılmıştır.\nK'de yerel saat 10.00 iken L'de yerel saat kaçtır?",
+       "secenekler": [
+        "08.56",
+        "09.04",
+        "10.16",
+        "11.04",
+        "11.16"
        ],
-       "bilgi": "Enlem Ekvator'a, boylam başlangıç meridyenine uzaklığın yerin merkeziyle yaptığı açıdır; derece, dakika ve saniye ile ifade edilir.",
-       "sayfa": 37
+       "sirali": true,
+       "dogru": 3,
+       "bilgi": "Yerel saat farkını yalnızca boylam farkı belirler. 43 − 27 = 16°; her boylam 4 dakikalık fark yaratır: 16 × 4 = 64 dk. L doğuda olduğundan saati ileridir: 10.00 + 1 sa 4 dk = 11.04.",
+       "sayfa": 39
       },
       {
        "id": "2.1.1-04",
-       "tur": "bosluk",
-       "cumle": "Güneş'in ufuk düzleminde en yüksek noktaya ulaştığı öğle vaktine (12.00) göre ayarlanan saate ___ denir.",
-       "cevap": "yerel saat",
-       "celdiriciler": [
-        "ulusal saat",
-        "saat dilimi",
-        "atomik saat"
+       "tur": "secmeli",
+       "soru": "Büyük Okyanus'ta seyreden bir gemi, pazartesi günü saat 20.00'de 180° meridyenini batıdan doğuya doğru geçmiştir.\nBu geçişten hemen sonra gemideki takvim hangi güne göre düzeltilmelidir?",
+       "secenekler": [
+        "Pazar",
+        "Pazartesi",
+        "Salı",
+        "Çarşamba",
+        "Perşembe"
        ],
-       "bilgi": "Yerel saat, öğle vaktine göre ayarlanır ve namaz, iftar ve sahur vakitlerinin belirlenmesinde kullanılır.",
+       "sirali": true,
+       "dogru": 0,
+       "bilgi": "180° meridyeni tarih değiştirme çizgisidir; çizginin batısında (doğu yarım küre) tarih bir gün ileridir. Batıdan doğuya geçen gemi bir gün geri tarihli alana girdiğinden takvimini bir gün geri alır: pazartesi yerine pazar.",
        "sayfa": 39
       },
       {
        "id": "2.1.1-05",
        "tur": "secmeli",
-       "soru": "Türkiye ulusal (ortak) saat olarak hangi meridyenin yerel saatini kullanır?",
+       "soru": "Aşağıdaki harita türü – gösterdiği bilgi eşleştirmelerinden hangisi yanlıştır?",
        "secenekler": [
-        "26° doğu meridyeni",
-        "36° doğu meridyeni",
-        "30° doğu meridyeni",
-        "45° doğu meridyeni"
+        "İzobar haritası – Eş basınç değerleri",
+        "İzoterm haritası – Eş sıcaklık değerleri",
+        "İzobat haritası – Eş derinlik değerleri",
+        "Koroplet harita – İllerin nüfus yoğunluğunun dereceli renklerle gösterimi",
+        "İzoseist haritası – Eş yükselti değerleri"
        ],
-       "dogru": 3,
-       "bilgi": "Türkiye 45° doğu meridyeninin yerel saatini ortak saat olarak kullandığı için +3. saat dilimindedir.",
-       "sayfa": 39
-      },
-      {
-       "id": "2.1.1-06",
-       "tur": "dy",
-       "ifade": "Tarih değiştirme çizgisinin batısında, yani doğu yarım kürede tarih bir gün geridir.",
-       "dogru": false,
-       "bilgi": "180° meridyeni olan tarih değiştirme çizgisinin batısında (doğu yarım küre) tarih bir gün ileri, doğusunda bir gün geridir.",
-       "sayfa": 39
-      },
-      {
-       "id": "2.1.1-07",
-       "tur": "eslestir",
-       "yonerge": "Projeksiyon yöntemlerini özellikleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Silindirik projeksiyon",
-         "Ekvator çevresinde bozulma azdır"
-        ],
-        [
-         "Konik projeksiyon",
-         "Orta kuşakta bozulma azdır"
-        ],
-        [
-         "Düzlem projeksiyon",
-         "Daha çok kutup çevresi haritalarında kullanılır"
-        ]
-       ],
-       "bilgi": "Projeksiyon yöntemleri, koordinatları haritaya aktarırken bozulmaları en aza indirmek için kullanılır ve yüzeye göre üçe ayrılır.",
-       "sayfa": 41
-      },
-      {
-       "id": "2.1.1-08",
-       "tur": "dy",
-       "ifade": "Büyük ölçekli haritalarda küçültme oranı fazla, coğrafi unsurlara ait ayrıntı azdır.",
-       "dogru": false,
-       "bilgi": "Büyük ölçekli haritalarda küçültme oranı az, ayrıntı fazladır ve dar alan gösterilir; küçük ölçekli haritalarda ise tersi geçerlidir.",
-       "sayfa": 43
-      },
-      {
-       "id": "2.1.1-09",
-       "tur": "secmeli",
-       "soru": "İl, ülke gibi sınırların nüfus yoğunluğu gibi sayısal değerlere göre dereceli renk tonlarıyla gösterildiği haritalar hangisidir?",
-       "secenekler": [
-        "Kartogram",
-        "Akış",
-        "Korokromatik",
-        "Koroplet"
-       ],
-       "dogru": 3,
-       "bilgi": "Koroplet haritalarda miktar veya yoğunluk verisine bağlı olarak dereceli renklendirme yapılır.",
-       "sayfa": 47
-      },
-      {
-       "id": "2.1.1-10",
-       "tur": "eslestir",
-       "yonerge": "İzometrik hatları gösterdikleri değerlerle eşleştir.",
-       "ciftler": [
-        [
-         "İzohips",
-         "Eş yükselti"
-        ],
-        [
-         "İzobat",
-         "Eş derinlik"
-        ],
-        [
-         "İzoterm",
-         "Eş sıcaklık"
-        ],
-        [
-         "İzobar",
-         "Eş basınç"
-        ],
-        [
-         "İzoseist",
-         "Eş sismik"
-        ]
-       ],
-       "bilgi": "İzometrik haritalarda bir noktada aletle ölçülen yükselti, sıcaklık, yağış gibi değerler kullanılarak hatlar çizilir.",
+       "dogru": 4,
+       "bilgi": "İzoseist hatları depremin eş şiddet (sismik) değerlerini birleştirir; eş yükselti eğrilerine izohips denir. Koroplet haritalarda idari birimler sayısal değerlere göre dereceli renk tonlarıyla gösterilir.",
        "sayfa": 48
       },
       {
-       "id": "2.1.1-11",
-       "tur": "dy",
-       "ifade": "Bir topoğrafya haritasında ardışık izohipsler arasındaki yükselti farkı haritanın tamamında aynıdır.",
-       "dogru": true,
-       "bilgi": "İzohipsler birbirini kesmez; birbirine yakın olduğu yerde eğim fazla, uzak olduğu yerde eğim azdır.",
+       "id": "2.1.1-06",
+       "tur": "secmeli",
+       "soru": "Haritalarda bozulmayı en aza indirmek için çizilecek alanın konumuna uygun projeksiyon yöntemi seçilir.\nGrönland'ın kuzeyi (yaklaşık 80° K), Türkiye (36°-42° K) ve Endonezya (Ekvator çevresi) haritaları en az bozulmayla çizilmek istendiğinde kullanılması uygun olan projeksiyonlar sırasıyla aşağıdakilerin hangisinde verilmiştir?",
+       "secenekler": [
+        "Düzlem – Konik – Silindirik",
+        "Silindirik – Konik – Düzlem",
+        "Konik – Düzlem – Silindirik",
+        "Düzlem – Silindirik – Konik",
+        "Konik – Silindirik – Düzlem"
+       ],
+       "dogru": 0,
+       "bilgi": "Düzlem projeksiyon kutup çevresinde, konik projeksiyon orta enlemlerde, silindirik projeksiyon Ekvator çevresinde en az bozulmayla harita çizmeyi sağlar.",
+       "sayfa": 41
+      },
+      {
+       "id": "2.1.1-07",
+       "tur": "secmeli",
+       "soru": "Eş yükselti aralığı 100 m olan bir topoğrafya haritasında K noktası 300 m, L noktası 700 m izohipsi üzerindedir. K'den L'ye doğru gidildikçe izohipsler birbirine yaklaşmaktadır.\nBuna göre,",
+       "oncul": [
+        "K ile L arasındaki yükselti farkı 400 m'dir.",
+        "K ile L arasından, bu noktaların üzerindeki eğriler hariç 4 izohips geçer.",
+        "L'ye yaklaştıkça arazinin eğimi artar."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "700 − 300 = 400 m fark vardır; aradan 400, 500 ve 600 m izohipsleri, yani 3 eğri geçer. İzohipslerin sıklaştığı yerlerde eğim artar; üst üste çizildikleri yerler ise falez gibi dik yamaçlardır.",
        "sayfa": 53
       },
       {
-       "id": "2.1.1-12",
+       "id": "2.1.1-08",
        "tur": "secmeli",
-       "soru": "Dalga aşındırması sonucu oluşan dik kıyılara ne ad verilir?",
+       "soru": "Türkiye'de ulusal (ortak) saat, 45° doğu meridyeninin yerel saatine göre ayarlanmaktadır.\nUlusal saat 12.00'yi gösterdiğinde, 26° doğu meridyeni üzerindeki bir yerleşmede Güneş'in en yüksek konumuna ulaşmasına (yerel saat 12.00) ne kadar süre vardır?",
        "secenekler": [
-        "Delta",
-        "Falez (yalı yar)",
-        "Boyun",
-        "Sırt"
+        "44 dakika",
+        "1 saat 4 dakika",
+        "1 saat 16 dakika",
+        "1 saat 36 dakika",
+        "2 saat 16 dakika"
        ],
-       "dogru": 1,
-       "bilgi": "Falez (yalı yar), dalga aşındırmasıyla oluşan dik kıyıdır; topoğrafya haritalarında izohipsler burada üst üste çizilebilir.",
-       "sayfa": 54
+       "sirali": true,
+       "dogru": 2,
+       "bilgi": "45 − 26 = 19° boylam farkı 19 × 4 = 76 dakikalık yerel saat farkı demektir. Ulusal saat 12.00 iken batıdaki bu yerleşmede yerel saat 10.44'tür; öğle vaktine 1 saat 16 dakika vardır.",
+       "sayfa": 39
       }
      ]
     },
@@ -557,128 +451,110 @@
       {
        "id": "2.1.2-01",
        "tur": "secmeli",
-       "soru": "Türkiye Ekvator'a göre hangi paraleller arasında yer alır?",
-       "secenekler": [
-        "26°-45° kuzey paralelleri",
-        "42°-48° kuzey paralelleri",
-        "36°-42° kuzey paralelleri",
-        "30°-36° kuzey paralelleri"
+       "soru": "Türkiye'nin coğrafi özellikleriyle ilgili aşağıdaki durumlardan",
+       "oncul": [
+        "Doğusu ile batısı arasında 76 dakikalık yerel saat farkı bulunması",
+        "Asya, Avrupa ve Afrika arasındaki kara ve deniz yollarının kavşağında yer alması",
+        "Güneş ışınlarının yıl boyunca hiçbir yere dik açıyla gelmemesi"
        ],
-       "dogru": 2,
-       "bilgi": "Türkiye 36°-42° kuzey paralelleri ile 26°-45° doğu meridyenleri arasında yer alır.",
+       "kok": "hangileri mutlak konumunun sonucudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Yerel saat farkı boylamın, ışınların hiçbir zaman dik gelmemesi ise Yengeç Dönencesi'nin kuzeyinde (36°-42° K) bulunmanın sonucudur; ikisi de mutlak konumla ilgilidir. Kıtalar arası yolların kavşağında olmak göreceli konumdur.",
        "sayfa": 59
       },
       {
        "id": "2.1.2-02",
-       "tur": "bosluk",
-       "cumle": "Türkiye'nin doğusu ile batısı arasında yaklaşık ___ dakikalık yerel saat farkı vardır.",
-       "cevap": "76",
-       "celdiriciler": [
-        "60",
-        "45",
-        "19"
+       "tur": "secmeli",
+       "soru": "Türkiye'nin 36°-42° kuzey paralelleri arasında yer almasının sonuçlarından biri aşağıdakilerden hangisi değildir?",
+       "secenekler": [
+        "Dört mevsimin belirgin biçimde yaşanması",
+        "Kuzeye gidildikçe öğle vakti gölge boylarının uzaması",
+        "Dağların güneye bakan yamaçlarının kuzeye bakanlardan daha fazla ısınması",
+        "Genel olarak güneyden kuzeye gidildikçe ortalama sıcaklığın azalması",
+        "Doğudaki yerlerde yerel saatin batıdakilerden ileri olması"
        ],
-       "bilgi": "Türkiye'nin doğu ile batısı arasındaki yaklaşık 76 dakikalık yerel saat farkı, mutlak konumunun bir sonucudur.",
+       "dogru": 4,
+       "bilgi": "Mevsimlerin belirginliği, gölge boyu, bakı etkisi ve sıcaklığın kuzeye doğru azalması enlemle ilgilidir. Doğu ile batı arasındaki yerel saat farkı ise boylam farkının (26°-45° D) sonucudur.",
        "sayfa": 59
       },
       {
        "id": "2.1.2-03",
        "tur": "secmeli",
-       "soru": "Türkiye'nin orta enlemlerde yer almasının doğrudan sonucu hangisidir?",
-       "secenekler": [
-        "Dört mevsimin belirgin yaşanması",
-        "Doğusu ile batısı arasında yerel saat farkı olması",
-        "Üç tarafının denizlerle çevrili olması",
-        "Enerji koridoru üzerinde bulunması"
+       "soru": "Türkiye'de bulunan K (41° K, 29° D), L (37° K, 29° D) ve M (39° K, 44° D) noktalarıyla ilgili,",
+       "oncul": [
+        "K ile L'de yerel saat aynıdır.",
+        "M'de yerel saat K'dekinden 1 saat ileridir.",
+        "Öğle vakti cisimlerin gölge boyu L'de K'dekinden daha uzundur."
        ],
-       "dogru": 0,
-       "bilgi": "Türkiye'nin mutlak konumuna bağlı olarak orta enlemlerde bulunması dört mevsimin belirgin yaşanmasına yol açar.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Aynı meridyen üzerindeki K ile L'nin yerel saati aynıdır. M, K'nin 15° doğusunda olduğundan saati 15 × 4 = 60 dk ileridir. L daha güneyde olduğundan Güneş ışınlarını daha büyük açıyla alır ve öğle gölgesi daha kısadır.",
        "sayfa": 59
       },
       {
        "id": "2.1.2-04",
-       "tur": "dy",
-       "ifade": "Göreceli konum, bir yerin Ekvator'a ve başlangıç meridyenine göre konumunu ifade eder.",
-       "dogru": false,
-       "bilgi": "Ekvator'a ve başlangıç meridyenine göre konum mutlak konumdur; göreceli konum bir yerin diğer yerlerle ilişkisini tanımlar.",
-       "sayfa": 59
+       "tur": "secmeli",
+       "soru": "Türkiye'nin egemenlik alanlarını ifade eden Mavi Vatan ve Gök Vatan kavramlarıyla ilgili,",
+       "oncul": [
+        "Mavi Vatan, Türkiye'nin uluslararası hukuka uygun olarak ilan ettiği deniz yetki alanlarını kapsar.",
+        "Gök Vatan, Türkiye'nin kara sınırları ve deniz yetki alanları üzerindeki hava sahasıdır.",
+        "Mavi Vatan, denizlerdeki enerji kaynakları ile deniz güvenliğini de ilgilendiren bir kavramdır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Mavi Vatan, Türkiye'nin denizlerdeki yetki alanlarını; Gök Vatan (Ulusal Hava Sahası) ise kara ve deniz yetki alanlarının üzerindeki hava sahasını ifade eder. Mavi Vatan deniz güvenliğini ve enerji kaynaklarını da kapsar.",
+       "sayfa": 62
       },
       {
        "id": "2.1.2-05",
        "tur": "secmeli",
-       "soru": "Aşağıdaki ülkelerden hangisi Türkiye'nin Akdeniz'deki deniz sınırı komşularındandır?",
+       "soru": "1869'da açılan Süveyş Kanalı, Kızıldeniz ile Akdeniz'i birbirine bağlamış ve Avrupa ile Asya arasında yol alan gemilerin Afrika'nın güneyini dolaşma zorunluluğunu ortadan kaldırmıştır. Kanalın Akdeniz'deki girişine yakın konumda bulunan, yaklaşık 9.250 km² yüz ölçümlü Kıbrıs ise Doğu Akdeniz'in en büyük adasıdır.\nBu bilgilere göre aşağıdakilerden hangisine ulaşılabilir?",
        "secenekler": [
-        "Romanya",
-        "Ukrayna",
-        "Gürcistan",
-        "Libya"
+        "Kıbrıs'ın stratejik önemi Süveyş Kanalı'nın açılmasıyla artmıştır.",
+        "Kıbrıs, Akdeniz'deki adaların yüz ölçümü en büyük olanıdır.",
+        "Süveyş Kanalı, Akdeniz'i Karadeniz'e bağlayan bir su yoludur.",
+        "Kanalın açılması, Akdeniz limanlarının önemini azaltmıştır.",
+        "Avrupa–Asya deniz ticareti kanaldan sonra Afrika'nın güneyine kaymıştır."
        ],
-       "dogru": 3,
-       "bilgi": "Türkiye'nin Akdeniz'deki deniz komşuları KKTC, Libya, Mısır, Filistin, İsrail, Lübnan ve Suriye'dir.",
-       "sayfa": 60
+       "dogru": 0,
+       "bilgi": "Süveyş Kanalı Avrupa-Asya ticaretinde Akdeniz'in önemini artırmış, kanal girişine yakın Kıbrıs'ın stratejik değerini yükseltmiştir. Kıbrıs, Sicilya ve Sardunya'dan sonra Akdeniz'in üçüncü büyük adasıdır.",
+       "sayfa": 64
       },
       {
        "id": "2.1.2-06",
        "tur": "secmeli",
-       "soru": "Türkiye'nin sınırları içinde kalan ve iç deniz niteliği taşıyan deniz hangisidir?",
+       "soru": "Türkiye'nin çevresindeki denizler ve bu denizlerdeki komşularıyla ilgili aşağıdakilerden hangisi yanlıştır?",
        "secenekler": [
-        "Marmara Denizi",
-        "Ege Denizi",
-        "Karadeniz",
-        "Akdeniz"
+        "Marmara Denizi, Türkiye topraklarıyla çevrili bir iç denizdir.",
+        "Akdeniz'de Libya ve Mısır, Türkiye'nin deniz komşularındandır.",
+        "Ege Denizi'nde Türkiye'nin deniz komşusu Yunanistan'dır.",
+        "Karadeniz, İstanbul Boğazı aracılığıyla Marmara Denizi'ne bağlanır.",
+        "KKTC ile Ege Denizi'nde deniz sınırı komşusudur."
        ],
-       "dogru": 0,
-       "bilgi": "Türkiye'nin kuzeyinde Karadeniz, güneyinde Akdeniz, batısında Ege Denizi bulunur; Marmara Denizi bir iç denizdir.",
-       "sayfa": 62
-      },
-      {
-       "id": "2.1.2-07",
-       "tur": "secmeli",
-       "soru": "Türkiye'nin egemenliğindeki kara sınırları ve deniz yetki alanlarının üzerindeki hava sahasına ne ad verilir?",
-       "secenekler": [
-        "Mavi Vatan",
-        "Gök Vatan",
-        "Kıta sahanlığı",
-        "Karasuları"
-       ],
-       "dogru": 1,
-       "bilgi": "Gök Vatan (Ulusal Hava Sahası), Türkiye'nin gökyüzündeki hâkimiyet alanıdır ve uçuş bilgi bölgesi (FIR) sorumluluğuna karşılık gelir.",
-       "sayfa": 63
-      },
-      {
-       "id": "2.1.2-08",
-       "tur": "dy",
-       "ifade": "Mavi Vatan, Türkiye'nin uluslararası hukuka uygun olarak egemenliğini ilan ettiği deniz yetki alanlarını ifade eder.",
-       "dogru": true,
-       "bilgi": "Mavi Vatan; Misakımillî sınırları içinde vatanın denizlerdeki parçasıdır ve deniz güvenliği ile enerji kaynaklarını da kapsar.",
-       "sayfa": 62
-      },
-      {
-       "id": "2.1.2-09",
-       "tur": "bosluk",
-       "cumle": "Kızıldeniz ile Akdeniz'i birbirine bağlayan Süveyş Kanalı ___ yılında açılmıştır.",
-       "cevap": "1869",
-       "celdiriciler": [
-        "1854",
-        "1914",
-        "1923"
-       ],
-       "bilgi": "1869'da açılan Süveyş Kanalı, Avrupa-Asya ticaretinde Akdeniz'in stratejik önemini artırmıştır.",
-       "sayfa": 64
-      },
-      {
-       "id": "2.1.2-10",
-       "tur": "secmeli",
-       "soru": "Kıbrıs Adası, yüz ölçümüne göre Akdeniz'in kaçıncı büyük adasıdır?",
-       "secenekler": [
-        "Birinci",
-        "İkinci",
-        "Üçüncü",
-        "Dördüncü"
-       ],
-       "dogru": 2,
-       "bilgi": "9.251 km² yüz ölçümlü Kıbrıs, Sicilya ve Sardunya'dan sonra Akdeniz'in üçüncü, Doğu Akdeniz'in en büyük adasıdır.",
-       "sayfa": 64
+       "dogru": 4,
+       "bilgi": "KKTC, Türkiye'nin Akdeniz'deki deniz komşusudur; bu denizdeki diğer komşular Libya, Mısır, Filistin, İsrail, Lübnan ve Suriye'dir. Marmara Denizi tamamen Türkiye topraklarıyla çevrili bir iç denizdir.",
+       "sayfa": 60
       }
      ]
     },
@@ -689,130 +565,83 @@
       {
        "id": "2.1.3-01",
        "tur": "secmeli",
-       "soru": "Mekânsal bilgileri toplayıp depolayan, analiz eden ve harita, tablo veya grafiklerle görüntüleyen bilgisayar tabanlı sistem hangisidir?",
+       "soru": "Bir belediye, yeni bir katı atık depolama alanı için yer ararken yerleşim alanlarına uzaklık, yer altı suyu derinliği, arazinin eğimi ve hâkim rüzgâr yönü verilerini ayrı katmanlar hâlinde bilgisayar ortamına aktarmış, bu katmanları çakıştırarak en uygun alanları haritalamıştır.\nBu çalışmada kullanılan sistemle ilgili aşağıdakilerden hangisi söylenemez?",
        "secenekler": [
-        "Coğrafi Bilgi Sistemleri (CBS)",
-        "Uzaktan algılama",
-        "Küresel Konumlandırma Sistemi (GPS)",
-        "Radar sistemi"
+        "Coğrafi veriler katmanlar hâlinde işlenmiştir.",
+        "Mekânsal analiz ve sorgulama yapılmıştır.",
+        "Sonuçlar harita biçiminde görüntülenmiştir.",
+        "Veriler dijital ortamda depolanmıştır.",
+        "Sistemde sözel veriler kullanılamaz."
        ],
-       "dogru": 0,
-       "bilgi": "CBS ile farklı coğrafi unsurlar ayrı katmanlar hâlinde haritalanabilir, coğrafi sorgulama ve mekânsal analiz yapılabilir.",
+       "dogru": 4,
+       "bilgi": "Verilerin katmanlar hâlinde depolanması, çakıştırılarak analiz edilmesi ve harita olarak sunulması Coğrafi Bilgi Sistemlerinin (CBS) özelliğidir. CBS'de mekânsal veriler sözel ve niteliksel bilgilerle birlikte kullanılabilir.",
        "sayfa": 66
       },
       {
        "id": "2.1.3-02",
-       "tur": "bosluk",
-       "cumle": "CBS'nin çalışabilmesi için kullanıcı, veri, donanım, yazılım ve ___ bileşenlerinin bir arada olması gerekir.",
-       "cevap": "yöntem",
-       "celdiriciler": [
-        "uydu",
-        "harita",
-        "ölçek"
+       "tur": "secmeli",
+       "soru": "Coğrafi Bilgi Sistemlerinin bileşenleri ve bunlara ait örnekler eşleştirilmiştir.\nBu eşleştirmelerden hangisi yanlıştır?",
+       "secenekler": [
+        "Kullanıcı – Sistemi yöneten ve projeyi planlayan uzman",
+        "Veri – Uydu görüntüleri, hava fotoğrafları ve anket sonuçları",
+        "Donanım – Bilgisayar, tarayıcı ve yazıcı",
+        "Yazılım – Verileri işleyerek harita üreten bilgisayar programı",
+        "Yöntem – Arazide konum belirlemeye yarayan GPS alıcısı"
        ],
-       "bilgi": "CBS'nin beş ana bileşeni kullanıcı, veri, donanım, yazılım ve yöntemdir.",
-       "sayfa": 66
-      },
-      {
-       "id": "2.1.3-03",
-       "tur": "eslestir",
-       "yonerge": "CBS bileşenlerini açıklamalarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Kullanıcı",
-         "Diğer bileşenleri organize edip sistemi yönetir"
-        ],
-        [
-         "Veri",
-         "Uydu görüntüsü, hava fotoğrafı ve anketlerden elde edilir"
-        ],
-        [
-         "Donanım",
-         "Bilgisayar, tablet, tarayıcı, yazıcı gibi araçlar"
-        ],
-        [
-         "Yazılım",
-         "Verileri işleyip harita üreten programlar"
-        ]
-       ],
-       "bilgi": "CBS bileşenleri, bir CBS uygulamasının başarısını etkileyen temel faktörlerdir.",
+       "dogru": 4,
+       "bilgi": "GPS alıcısı, tablet ve bilgisayar gibi araçlar donanım bileşenidir. Yöntem ise verilerin toplanması, işlenmesi ve analizinde izlenen teknik ve kurallardır. CBS'nin beş bileşeni kullanıcı, veri, donanım, yazılım ve yöntemdir.",
        "sayfa": 67
       },
       {
+       "id": "2.1.3-03",
+       "tur": "secmeli",
+       "soru": "Sisli bir havada yolunu kaybeden bir dağcı, elindeki GPS alıcısıyla bulunduğu yerin koordinatlarını belirleyerek kurtarma ekibine iletmiştir.\nBu durumla ilgili,",
+       "oncul": [
+        "GPS alıcısı, uydulardan gelen radyo sinyallerini kullanmıştır.",
+        "Konumun belirlenebilmesi için alıcının yer kontrol istasyonuna bağlanması gerekmiştir.",
+        "Dağcının bulunduğu yerin yükseltisi de belirlenebilir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "GPS alıcıları uydu ağından gelen radyo sinyalleriyle enlem, boylam, yükselti ve zaman bilgisini hesaplar; sistem her hava koşulunda çalışır. Yer kontrol ağı uyduları izleyip yönlendirir; kullanıcının ona bağlanması gerekmez.",
+       "sayfa": 69
+      },
+      {
        "id": "2.1.3-04",
-       "tur": "dy",
-       "ifade": "CBS'de mekânsal bilgiler ile sözel, niteliksel bilgiler bir arada kullanılamaz.",
-       "dogru": false,
-       "bilgi": "CBS'nin avantajlarından biri, mekânsal bilgilerle mekânsal olmayan (sözel, niteliksel) bilgilerin uyum içinde kullanılabilmesidir.",
-       "sayfa": 66
+       "tur": "secmeli",
+       "soru": "Coğrafi Bilgi Sistemlerinde mekânsal veriler haritada nokta, çizgi ya da alan olarak gösterilir.\nBir ilin haritası için yapılan aşağıdaki coğrafi unsur – gösterim biçimi eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "Okulların konumu – Nokta",
+        "Karayolu güzergâhı – Çizgi",
+        "Akarsu yatağı – Çizgi",
+        "Baraj gölünün kapladığı saha – Alan",
+        "Orman yangınında yanan saha – Çizgi"
+       ],
+       "dogru": 4,
+       "bilgi": "Yangında yanan saha bir yüz ölçümü ifade ettiği için alan olarak gösterilir. Okul gibi tek konumlu unsurlar nokta, yol ve akarsu gibi uzanım gösteren unsurlar çizgi, göl gibi saha kaplayan unsurlar alan verisidir.",
+       "sayfa": 67
       },
       {
        "id": "2.1.3-05",
        "tur": "secmeli",
-       "soru": "Küresel Konumlandırma Sistemi'nin (GPS) üç bileşeni hangi seçenekte doğru verilmiştir?",
+       "soru": "I. Uydu görüntüleriyle bir gölün yıllar içindeki alan değişiminin belirlenmesi\nII. Bir kargo aracının anlık konumunun izlenmesi\nIII. Farklı veri katmanları çakıştırılarak deprem risk haritası üretilmesi\nYukarıdaki çalışmalarda öncelikli olarak kullanılan teknolojiler sırasıyla aşağıdakilerin hangisinde verilmiştir?",
        "secenekler": [
-        "Kullanıcı, veri, yazılım",
-        "Uydular, radarlar, haritalar",
-        "Uydu ağı, yer kontrol ağı, GPS alıcıları",
-        "Uydu ağı, radar istasyonları, sensör sistemleri"
-       ],
-       "dogru": 2,
-       "bilgi": "GPS; uydu ağı, yer kontrol ağı ve GPS alıcıları arasında iletilen radyo sinyalleriyle çalışır.",
-       "sayfa": 69
-      },
-      {
-       "id": "2.1.3-06",
-       "tur": "secmeli",
-       "soru": "GPS'de uyduların konum ve hareketlerini takip ederek sistemin hatasız çalışmasını sağlayan bileşen hangisidir?",
-       "secenekler": [
-        "Uydu ağı",
-        "GPS alıcıları",
-        "Atomik saatler",
-        "Yer kontrol ağı"
-       ],
-       "dogru": 3,
-       "bilgi": "Yer kontrol ağındaki izleme ve kontrol istasyonları uyduların sinyallerini yakalar ve gerekli yönlendirmeleri yapar.",
-       "sayfa": 69
-      },
-      {
-       "id": "2.1.3-07",
-       "tur": "bosluk",
-       "cumle": "GPS uydularında bulunan ___ saatler sayesinde anlık hız ve zaman hesabı yapılabilir.",
-       "cevap": "atomik",
-       "celdiriciler": [
-        "mekanik",
-        "kuvars",
-        "güneş"
-       ],
-       "bilgi": "GPS ile bir noktanın enlem, boylam ve yükseltisinin yanında yerel saat bilgisi de elde edilir.",
-       "sayfa": 70
-      },
-      {
-       "id": "2.1.3-08",
-       "tur": "secmeli",
-       "soru": "Küresel Konumlandırma Sistemi'nin (GPS) yaygın biçimde kullanılmasında etkili olan özelliği hangisidir?",
-       "secenekler": [
-        "Halka açık, ücretsiz ve güvenilir olması",
-        "Yalnızca askerî amaçla kullanılabilmesi",
-        "Sadece açık havada çalışabilmesi",
-        "Uydu gerektirmeden çalışması"
+        "Uzaktan algılama – GPS – CBS",
+        "GPS – Uzaktan algılama – CBS",
+        "CBS – GPS – Uzaktan algılama",
+        "Uzaktan algılama – CBS – GPS",
+        "GPS – CBS – Uzaktan algılama"
        ],
        "dogru": 0,
-       "bilgi": "GPS her türlü hava koşulunda ve dünyanın her yerinde 24 saat çalışarak verileri kesintisiz iletir.",
-       "sayfa": 69
-      },
-      {
-       "id": "2.1.3-09",
-       "tur": "bosluk",
-       "cumle": "Haritası oluşturulabilen, konumsal özelliğe sahip her türlü coğrafi veriye ___ veri denir.",
-       "cevap": "mekânsal",
-       "celdiriciler": [
-        "niteliksel",
-        "sözel",
-        "istatistiksel"
-       ],
-       "bilgi": "Mekânsal veriler haritada nokta, çizgi veya alan olarak gösterilir.",
-       "sayfa": 67
+       "bilgi": "Uydu görüntüleri uzaktan algılama ile elde edilir; anlık konum takibi GPS'in, katmanların çakıştırılarak analiz edilip haritalanması ise Coğrafi Bilgi Sistemlerinin (CBS) işlevidir.",
+       "sayfa": 66
       }
      ]
     }
@@ -829,152 +658,156 @@
       {
        "id": "3.1.1-01",
        "tur": "secmeli",
-       "soru": "Hava olaylarını, bunları oluşturan dinamik süreçleri ve atmosfer ile yeryüzü arasındaki etkileşimi inceleyen bilim hangisidir?",
-       "secenekler": [
-        "Klimatoloji",
-        "Meteoroloji",
-        "Hidrografya",
-        "Jeomorfoloji"
+       "soru": "Aşağıdaki ifadelerden",
+       "oncul": [
+        "Bu hafta sonu Erzurum'da gece sıcaklığının −20 °C'a düşmesi beklenmektedir.",
+        "Karadeniz kıyılarında her mevsim yağışlı geçer.",
+        "Bugün öğleden sonra İzmir'de rüzgârın hızı saatte 70 km'ye ulaştı."
        ],
-       "dogru": 1,
-       "bilgi": "Meteoroloji hava olaylarını ve süreçlerini inceler; klimatoloji ise iklim sisteminin bileşen ve değişkenlerini inceler.",
+       "kok": "hangileri hava durumuyla ilgilidir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Kısa süreli ve belirli bir andaki atmosfer koşulları hava durumudur ve meteorolojinin konusudur. 'Her mevsim yağışlı' ifadesi uzun yılların ortalamasına dayanan bir iklim özelliğidir; iklimi klimatoloji inceler.",
        "sayfa": 77
       },
       {
        "id": "3.1.1-02",
-       "tur": "bosluk",
-       "cumle": "Standart hava basıncı; 45° enleminde, deniz seviyesinde ve 15 °C sıcaklıkta ___ milibar olarak kabul edilmiştir.",
-       "cevap": "1013",
-       "celdiriciler": [
-        "1000",
-        "760",
-        "1030"
+       "tur": "secmeli",
+       "soru": "Tabloda farklı sıcaklıklardaki havanın taşıyabileceği en fazla nem miktarı verilmiştir. Sıcaklığı 25 °C ve mutlak nemi 13 g/m³ olan bir hava kütlesi, bir dağ yamacı boyunca yükselerek soğumaktadır.\nBuna göre,",
+       "tablo": [
+        [
+         "Sıcaklık (°C)",
+         "5",
+         "10",
+         "15",
+         "20",
+         "25"
+        ],
+        [
+         "En fazla nem (g/m³)",
+         "7",
+         "9",
+         "13",
+         "17",
+         "23"
+        ]
        ],
-       "bilgi": "Hava basıncı barometreyle ölçülür; birimi milibar (mb) veya hektopaskaldır (hPa).",
-       "sayfa": 79
+       "oncul": [
+        "Hava kütlesi 15 °C'a soğuduğunda doyma (çiy) noktasına ulaşır.",
+        "Başlangıçta hava kütlesinin bağıl nemi %50'nin üzerindedir.",
+        "Hava kütlesi yükselmek yerine ısınsaydı bağıl nemi artardı."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Bağıl nem = mutlak nem / maksimum nem: 13/23 ≈ %57. Hava 15 °C'a soğuduğunda taşıyabileceği nem 13 g/m³'e iner ve doyar; yoğuşma başlar. Isınan havanın nem taşıma kapasitesi arttığından bağıl nemi azalır.",
+       "sayfa": 80
       },
       {
        "id": "3.1.1-03",
-       "tur": "eslestir",
-       "yonerge": "Meteorolojik ölçüm aletlerini ölçtükleri değerlerle eşleştir.",
-       "ciftler": [
-        [
-         "Barometre",
-         "Hava basıncı"
-        ],
-        [
-         "Anemometre",
-         "Rüzgâr hızı"
-        ],
-        [
-         "Higrometre",
-         "Nem"
-        ],
-        [
-         "Plüviyometre",
-         "Yağış miktarı"
-        ]
+       "tur": "secmeli",
+       "soru": "Bir havzada art arda iki yıl boyunca yağışlar ortalamanın belirgin biçimde altında kalmıştır. İlk yıl toprak nemi bitkilerin ihtiyacını karşılayamadığından buğday verimi düşmüş; ikinci yıl göl ve baraj seviyeleri ile kuyulardaki su seviyesi belirgin biçimde azalmıştır.\nBu havzada sırasıyla hangi kuraklık türlerinin yaşandığı söylenebilir?",
+       "secenekler": [
+        "Tarımsal – Hidrolojik",
+        "Hidrolojik – Tarımsal",
+        "Fizyolojik – Hidrolojik",
+        "Tarımsal – Fizyolojik",
+        "Mevsimsel – Tarımsal"
        ],
-       "bilgi": "Anemometreye yelölçer, higrometreye nemölçer, plüviyometreye yağışölçer de denir.",
-       "sayfa": 79
+       "dogru": 0,
+       "bilgi": "Toprak neminin bitki ihtiyacını karşılayamaması tarımsal kuraklık; göl, akarsu ve yer altı su seviyelerinin düşmesi hidrolojik kuraklıktır. Hidrolojik kuraklık, yağış eksikliği uzun sürdüğünde daha geç ortaya çıkar.",
+       "sayfa": 83
       },
       {
        "id": "3.1.1-04",
-       "tur": "dy",
-       "ifade": "Rüzgâr, alçak basınç merkezlerinden yüksek basınç merkezlerine doğru gerçekleşen yatay hava hareketidir.",
-       "dogru": false,
-       "bilgi": "Hava kütlesi yüksek basınç merkezlerinden alçak basınç merkezlerine doğru hareket eder; bu yatay hava hareketine rüzgâr denir.",
-       "sayfa": 79
+       "tur": "secmeli",
+       "soru": "Dünya Meteoroloji Örgütü (WMO), 24 saatte 50 mm'yi aşan yağışı şiddetli yağış, saatteki hızı 62-117 km arasında olan rüzgârı fırtına olarak kabul eder. Üç meteoroloji istasyonunda bir hafta içinde ölçülen en yüksek değerler tabloda verilmiştir.\nBuna göre,",
+       "tablo": [
+        [
+         "İstasyon",
+         "24 saatlik en fazla yağış (mm)",
+         "En yüksek rüzgâr hızı (km/sa)"
+        ],
+        [
+         "K",
+         "72",
+         "45"
+        ],
+        [
+         "L",
+         "38",
+         "88"
+        ],
+        [
+         "M",
+         "55",
+         "104"
+        ]
+       ],
+       "oncul": [
+        "K'de şiddetli yağış görülmüştür.",
+        "Fırtına yalnızca L'de görülmüştür.",
+        "M'de hem şiddetli yağış hem de fırtına görülmüştür."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Yağış K'de (72 mm) ve M'de (55 mm) 50 mm'yi aşmıştır. Rüzgâr hızı L'de (88) ve M'de (104) 62-117 km/sa aralığındadır; fırtına iki istasyonda görülmüştür. Yağış plüviyometreyle, rüzgâr hızı anemometreyle ölçülür.",
+       "sayfa": 82
       },
       {
        "id": "3.1.1-05",
-       "tur": "bosluk",
-       "cumle": "Bir hava kütlesinin neme doyması için soğuması gereken sıcaklık değerine ___ (çiy) noktası denir.",
-       "cevap": "doyma",
-       "celdiriciler": [
-        "kaynama",
-        "erime",
-        "donma"
+       "tur": "secmeli",
+       "soru": "Deniz seviyesindeki üç istasyonda eş zamanlı yapılan ölçümlerde hava basıncı K'de 1025 mb, L'de 1008 mb, M'de 1013 mb olarak belirlenmiştir.\nBuna göre,",
+       "oncul": [
+        "K'deki basınç, standart hava basıncının altındadır.",
+        "Diğer koşullar aynıysa hava, K'den L'ye doğru hareket eder.",
+        "Ölçümler, rüzgâr hızını ölçen anemometreyle yapılmıştır."
        ],
-       "bilgi": "Hava kütlesi doyma (çiy) noktasına ulaştığında su buharı yoğuşarak sis, bulut ve yağışı oluşturur.",
-       "sayfa": 80
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Standart basınç deniz seviyesinde, 45° enleminde ve 15 °C'ta 1013 mb'dır; K bunun üzerindedir. Hava yüksek basınçtan alçak basınca doğru hareket eder (rüzgâr). Basınç barometreyle, rüzgâr hızı anemometreyle ölçülür.",
+       "sayfa": 79
       },
       {
        "id": "3.1.1-06",
        "tur": "secmeli",
-       "soru": "Havadaki su buharının sıvı hâle geçmeden doğrudan buza dönüşmesine ne ad verilir?",
+       "soru": "Açık ve rüzgârsız bir kış gecesinde yeryüzü hızla soğumuş, sıcaklık 0 °C'ın altına düşmüştür. Sabah bitkilerin yaprakları ve araçların camları üzerinde ince buz kristallerinden oluşan bir tabaka görülmüştür.\nBu tabakanın oluşumuyla ilgili aşağıdakilerden hangisi doğrudur?",
        "secenekler": [
-        "Yoğuşma",
-        "Kırağılaşma",
-        "Süblimleşme",
-        "Buharlaşma"
-       ],
-       "dogru": 1,
-       "bilgi": "Su buharı sıvıya dönüşürse yoğuşma, doğrudan buza dönüşürse kırağılaşma gerçekleşir.",
-       "sayfa": 80
-      },
-      {
-       "id": "3.1.1-07",
-       "tur": "secmeli",
-       "soru": "Dünya Meteoroloji Örgütüne (WMO) göre sıcak hava dalgası nasıl tanımlanır?",
-       "secenekler": [
-        "Sıcaklığın tek bir günde 40 °C'ı aşması",
-        "Gece sıcaklığının 20 °C'ın altına inmemesi",
-        "Ortalama maksimumdan 3-5 °C fazla sıcaklığın en az 5 gün sürmesi",
-        "Sıcaklığın ortalamanın 1 °C üzerinde 2 gün seyretmesi"
-       ],
-       "dogru": 2,
-       "bilgi": "Sıcak hava dalgası insan sağlığı, tarım, su kaynakları, bitki örtüsü ve enerji tüketimini etkiler.",
-       "sayfa": 82
-      },
-      {
-       "id": "3.1.1-08",
-       "tur": "bosluk",
-       "cumle": "Fırtınalarda rüzgâr hızı saatte ___ km arasında değişir.",
-       "cevap": "62-117",
-       "celdiriciler": [
-        "20-40",
-        "40-60",
-        "118-200"
-       ],
-       "bilgi": "Fırtınalar aşırı yağış, buz fırtınası, yıldırım, gök gürültüsü ve bazen dolu getirebilir.",
-       "sayfa": 82
-      },
-      {
-       "id": "3.1.1-09",
-       "tur": "dy",
-       "ifade": "WMO'ya göre çoğu bölgede 24 saat içinde 50 mm'yi aşan yağış şiddetli yağış olarak kabul edilir.",
-       "dogru": true,
-       "bilgi": "Şiddetli yağış, kısa sürede normalin çok üzerinde yağış düşmesidir ve sel ile taşkınlara yol açabilir.",
-       "sayfa": 83
-      },
-      {
-       "id": "3.1.1-10",
-       "tur": "secmeli",
-       "soru": "Göl, nehir ve yer altı su seviyelerinde belirgin düşüşlerle tanımlanan kuraklık türü hangisidir?",
-       "secenekler": [
-        "Tarımsal kuraklık",
-        "Fizyolojik kuraklık",
-        "Mevsimsel kuraklık",
-        "Hidrolojik kuraklık"
-       ],
-       "dogru": 3,
-       "bilgi": "Tarımsal kuraklıkta toprak nemi bitkilerin ihtiyacını karşılayamaz; hidrolojik kuraklıkta ise su kaynaklarının seviyesi düşer.",
-       "sayfa": 83
-      },
-      {
-       "id": "3.1.1-11",
-       "tur": "secmeli",
-       "soru": "Teknolojinin yetersiz olduğu dönemlerde hava olaylarını halkın coğrafi ve kültürel bilgisiyle tahmin etmeye dayanan yaklaşıma ne ad verilir?",
-       "secenekler": [
-        "Halk meteorolojisi",
-        "Klimatoloji",
-        "Jeomorfoloji",
-        "Mikroklima"
+        "Su buharının doğrudan buza dönüşmesiyle kırağı oluşmuştur.",
+        "Su buharının yoğuşmasıyla yüzeylerde çiy oluşmuştur.",
+        "Havadaki su damlacıklarının donmasıyla dolu oluşmuştur.",
+        "Sıvı su damlacıklarının buharlaşmasıyla sis oluşmuştur.",
+        "Bulutlardaki buz kristallerinin düşmesiyle kar oluşmuştur."
        ],
        "dogru": 0,
-       "bilgi": "İnsanlar rüzgâr, bulut, bitki, hayvan ve gök cisimlerini gözlemleyerek yerel bilgilerini içeren halk takvimleri oluşturmuştur.",
-       "sayfa": 88
+       "bilgi": "Sıcaklık 0 °C'ın altındayken su buharı sıvı evreye geçmeden yüzeylerde buz kristallerine dönüşür; buna kırağılaşma, oluşan tabakaya kırağı denir. Sıcaklık 0 °C'ın üzerinde olsaydı yoğuşmayla çiy oluşurdu.",
+       "sayfa": 80
       }
      ]
     },
@@ -985,181 +818,226 @@
       {
        "id": "3.1.2-01",
        "tur": "secmeli",
-       "soru": "İklim sisteminin bileşenlerinden hangisi Güneş'ten aldığı enerjiyi diğerlerine göre daha fazla depolayabilir?",
-       "secenekler": [
-        "Atmosfer",
-        "Litosfer",
-        "Biyosfer",
-        "Hidrosfer"
+       "soru": "Kar ve buzla kaplı yüzeyler Güneş'ten gelen ışınımın büyük bölümünü yansıtırken okyanuslar aldıkları enerjiyi depolayarak atmosfere yavaş yavaş verir.\nBu bilgilerden hareketle,",
+       "oncul": [
+        "Kutuplarda buzullar eridikçe yeryüzünün yansıttığı enerji oranı azalır.",
+        "Buzulların erimesi, bölgedeki ısınmayı hızlandıran bir etki yaratır.",
+        "Okyanus kıyısındaki yerlerde günlük sıcaklık farkı, aynı enlemdeki iç kesimlerden fazladır."
        ],
-       "dogru": 3,
-       "bilgi": "Okyanuslar depoladığı enerjiyi atmosfere yavaş yavaş verdiğinden sıcaklığın hızla yükselip düşmesini engeller.",
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Buz örtüsü azalınca yüzeyin yansıtma oranı (albedo) düşer, yüzey daha çok enerji emer ve ısınma hızlanır. Su enerjiyi depolayıp yavaş verdiği için kıyılarda günlük ve yıllık sıcaklık farkı iç kesimlerden azdır.",
        "sayfa": 90
       },
       {
        "id": "3.1.2-02",
-       "tur": "bosluk",
-       "cumle": "Kar ve buz yüzeyleri yüksek ___ değerine sahip olduğu için Güneş ışınımının büyük kısmını uzaya geri yansıtır.",
-       "cevap": "albedo",
-       "celdiriciler": [
-        "özgül ısı",
-        "basınç",
-        "nem"
+       "tur": "secmeli",
+       "soru": "Uzun mesafeli yolcu uçaklarının (jetlerin) genellikle stratosferin alt kesimlerinde yol almasının nedenleri arasında,",
+       "oncul": [
+        "bu katmanda dikey hava hareketlerinin görülmemesi",
+        "bulut ve yağış gibi hava olaylarının yaşanmaması",
+        "atmosferdeki su buharının büyük bölümünün bu katmanda bulunması"
        ],
-       "bilgi": "Albedo, yeryüzünün Güneş'ten gelen ışınımı atmosfere geri yansıtma yüzdesidir; yüzeylere göre farklılık gösterir.",
-       "sayfa": 91
+       "kok": "hangileri gösterilebilir?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Stratosferde dikey hava hareketleri ve hava olayları görülmediğinden uçuş daha güvenli ve sarsıntısızdır. Su buharının neredeyse tamamı ve hava olayları troposferdedir. Ozon tabakası ise stratosferde bulunur.",
+       "sayfa": 92
       },
       {
        "id": "3.1.2-03",
        "tur": "secmeli",
-       "soru": "Ozon tabakasının bulunduğu, dikey hava hareketlerinin görülmediği ve jet uçaklarının yol aldığı atmosfer katmanı hangisidir?",
-       "secenekler": [
-        "Troposfer",
-        "Stratosfer",
-        "Ekzosfer",
-        "Mezosfer"
+       "soru": "21 Haziran'dan 23 Eylül'e kadar geçen sürede kuzey yarım kürede,",
+       "oncul": [
+        "gündüzlerin giderek uzaması",
+        "öğle vakti cisimlerin gölge boyunun uzaması",
+        "Güneş ışınlarının dik geldiği yerin Ekvator'a yaklaşması"
        ],
-       "dogru": 1,
-       "bilgi": "Hava olaylarının yaşandığı ve gazların yaklaşık %80'ini içeren katman troposfer, ozon tabakasını içeren katman stratosferdir.",
-       "sayfa": 92
+       "kok": "durumlarından hangileri gerçekleşir?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "21 Haziran'da ışınlar Yengeç Dönencesi'ne dik gelir; 23 Eylül'de dik geliş noktası Ekvator'a ulaşır. Bu dönemde kuzey yarım kürede ışınların geliş açısı küçülür, gölgeler uzar ve gündüzler kısalır.",
+       "sayfa": 96
       },
       {
        "id": "3.1.2-04",
-       "tur": "bosluk",
-       "cumle": "Nemli hava kütlesinin bir dağ yamacı boyunca yükselip soğuması ve yoğuşmasıyla oluşan yağışlara ___ yağışları denir.",
-       "cevap": "yamaç (orografik)",
-       "celdiriciler": [
-        "yükselim (konveksiyonel)",
-        "cephe (frontal)"
+       "tur": "secmeli",
+       "soru": "Türkiye'deki dağların güneye bakan yamaçlarında kalıcı kar sınırının, tarım alanlarının ve yerleşmelerin üst sınırının kuzeye bakan yamaçlara göre genellikle daha yüksekte olduğu görülür.\nBu durumun temel nedeni aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Güney yamaçların Güneş ışınlarını daha büyük açıyla alması",
+        "Kuzey yamaçların denizden gelen nemli hava kütlelerine kapalı olması",
+        "Güney yamaçlarda hava basıncının daha yüksek olması",
+        "Kuzey yamaçlarda fön rüzgârlarının daha sık görülmesi",
+        "Güney yamaçların yer çekiminden daha az etkilenmesi"
        ],
-       "bilgi": "Türkiye'de Kuzey Anadolu Dağları ve Toros Dağlarının denize bakan yamaçlarında yamaç yağışları görülür.",
-       "sayfa": 115
+       "dogru": 0,
+       "bilgi": "Kuzey yarım kürenin orta kuşağında Güneş ışınları öğle vakti güneyden geldiği için güneye bakan yamaçlar daha fazla enerji alır ve daha sıcaktır. Yer şekillerinin Güneş'e karşı konumuna bakı denir.",
+       "sayfa": 97
       },
       {
        "id": "3.1.2-05",
-       "tur": "eslestir",
-       "yonerge": "Tarihleri kuzey yarım kürede yaşanan durumlarla eşleştir.",
-       "ciftler": [
-        [
-         "21 Haziran",
-         "En uzun gündüz yaşanır"
-        ],
-        [
-         "21 Aralık",
-         "En uzun gece yaşanır"
-        ],
-        [
-         "21 Mart",
-         "İlkbahar başlar"
-        ],
-        [
-         "23 Eylül",
-         "Sonbahar başlar"
+       "tur": "secmeli",
+       "soru": "Grafikte, bir kentin bir ucundan diğer ucuna uzanan hat boyunca aynı gece saatinde ölçülen sıcaklıkların kent dışındaki kırsal alana göre farkı gösterilmiştir. Kent merkezi hattın 15. kilometresindedir.\nGrafikteki dağılışın açıklanmasında aşağıdakilerden hangisi kullanılamaz?",
+       "grafik": {
+        "x": "Uzaklık (km)",
+        "y": "Sıcaklık farkı (°C)",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            5,
+            1
+           ],
+           [
+            10,
+            3
+           ],
+           [
+            15,
+            5
+           ],
+           [
+            20,
+            3
+           ],
+           [
+            25,
+            1
+           ],
+           [
+            30,
+            0
+           ]
+          ]
+         }
         ]
+       },
+       "secenekler": [
+        "Asfalt ve beton yüzeylerin gündüz depoladığı ısıyı geceleyin yayması",
+        "Trafik, sanayi ve konutlardan kaynaklanan atık ısının fazla olması",
+        "Kent merkezinde yeşil alanların ve su yüzeylerinin az olması",
+        "Sık yapılaşmanın rüzgârın serinletici etkisini azaltması",
+        "Kent merkezinin çevresindeki alanlardan daha yüksekte bulunması"
        ],
-       "bilgi": "21 Haziran'da Yengeç, 21 Aralık'ta Oğlak Dönencesi'ne; 21 Mart ve 23 Eylül'de Ekvator'a Güneş ışınları dik gelir.",
-       "sayfa": 96
+       "dogru": 4,
+       "bilgi": "Grafik, kent merkezinin çevresinden daha sıcak olduğu kentsel ısı adasını gösterir. Asfalt, beton ve tuğlanın ısıyı depolaması, atık ısı ve yeşil alan azlığı bunu açıklar. Yükseltinin artması ise sıcaklığı düşüreceğinden bu durumu açıklayamaz.",
+       "sayfa": 99
       },
       {
        "id": "3.1.2-06",
        "tur": "secmeli",
-       "soru": "Kuzey yarım kürenin orta kuşağındaki Türkiye'de bakı etkisiyle dağların hangi yamaçları daha fazla ısınır?",
+       "soru": "Türkiye'de kış aylarında Doğu Anadolu'da açık, durgun ve çok soğuk günler yaşanırken yaz aylarında Güneydoğu Anadolu'da sıcak ve bunaltıcı hava etkili olmaktadır.\nBu durumların oluşmasında etkili olan basınç merkezleri sırasıyla aşağıdakilerin hangisinde verilmiştir?",
        "secenekler": [
-        "Güney yamaçları",
-        "Kuzey yamaçları",
-        "Doğu yamaçları",
-        "Batı yamaçları"
+        "Sibirya termik yüksek basıncı – Basra termik alçak basıncı",
+        "İzlanda dinamik alçak basıncı – Asor dinamik yüksek basıncı",
+        "Asor dinamik yüksek basıncı – Basra termik alçak basıncı",
+        "Sibirya termik yüksek basıncı – İzlanda dinamik alçak basıncı",
+        "Basra termik alçak basıncı – Sibirya termik yüksek basıncı"
        ],
        "dogru": 0,
-       "bilgi": "Yer şekillerinin Güneş'e karşı konumuna bakı denir; Türkiye'de dağların güney yamaçlarında bakı etkisi görülür.",
-       "sayfa": 97
+       "bilgi": "Kışın Sibirya termik yüksek basıncı soğuk ve kuru hava, yazın Basra termik alçak basıncı sıcak ve bunaltıcı hava getirir. İzlanda alçak basıncı kışın yağış getirir; Asor yüksek basıncı yazların kurak geçmesinde etkilidir.",
+       "sayfa": 109
       },
       {
        "id": "3.1.2-07",
        "tur": "secmeli",
-       "soru": "Büyük kentlerin beton ve asfaltla kaplı olması nedeniyle çevrelerine göre daha sıcak olması durumuna ne ad verilir?",
+       "soru": "Sürekli rüzgârlarla ilgili,",
+       "oncul": [
+        "Alizeler, Ekvator'daki alçak basınç alanından 30° enlemlerine doğru eser.",
+        "Orta kuşakta kıtaların batı kıyılarının bol yağış almasında batı rüzgârları etkilidir.",
+        "Alizeler, tropikal kuşakta kıtaların batı kıyılarına bol yağış bırakır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Sera etkisi",
-        "Fön etkisi",
-        "Kentsel ısı adası",
-        "Termik basınç"
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
        ],
-       "dogru": 2,
-       "bilgi": "Kentsel ısı adasında asfalt, tuğla ve beton ısıyı tutar; kentler gece de kırsal alanlardan daha sıcaktır.",
-       "sayfa": 99
-      },
-      {
-       "id": "3.1.2-08",
-       "tur": "dy",
-       "ifade": "Yer çekimi Ekvator'dan kutuplara doğru arttığı için hava basıncı da Ekvator'dan kutuplara doğru artar.",
-       "dogru": true,
-       "bilgi": "Dünya'nın geoit şekli nedeniyle yer çekimi kutuplara doğru artar; ayrıca yükselti arttıkça hava basıncı azalır.",
-       "sayfa": 106
-      },
-      {
-       "id": "3.1.2-09",
-       "tur": "eslestir",
-       "yonerge": "Türkiye'nin iklimini etkileyen basınç merkezlerini etkileriyle eşleştir.",
-       "ciftler": [
-        [
-         "İzlanda dinamik alçak basıncı",
-         "Batı ve kuzeybatıdan yağış getirir"
-        ],
-        [
-         "Sibirya termik yüksek basıncı",
-         "Kışın soğuk ve yağışsız günler yaşatır"
-        ],
-        [
-         "Asor dinamik yüksek basıncı",
-         "Yazların sıcak ve kurak geçmesinde etkilidir"
-        ],
-        [
-         "Basra termik alçak basıncı",
-         "Yazın sıcak ve bunaltıcı günler yaşatır"
-        ]
-       ],
-       "bilgi": "Türkiye'nin iklimi İzlanda, Sibirya, Asor ve Basra basınç merkezlerinden etkilenir.",
-       "sayfa": 109
-      },
-      {
-       "id": "3.1.2-10",
-       "tur": "secmeli",
-       "soru": "30° enlemlerindeki dinamik yüksek basınç alanlarından Ekvator'daki termik alçak basınç alanlarına doğru esen sürekli rüzgârlar hangisidir?",
-       "secenekler": [
-        "Batı rüzgârları",
-        "Kutup rüzgârları",
-        "Muson rüzgârları",
-        "Alize rüzgârları"
-       ],
-       "dogru": 3,
-       "bilgi": "Alizeler kıtaların doğu kıyılarına, batı rüzgârları ise orta kuşakta kıtaların batı kıyılarına bol yağış bırakır.",
+       "dogru": 0,
+       "bilgi": "Alizeler 30° enlemlerindeki dinamik yüksek basınçtan Ekvator'daki termik alçak basınca eser ve kıtaların doğu kıyılarına yağış bırakır. Orta kuşakta batı rüzgârları okyanuslardan nem taşıyarak batı kıyılarını yağışlı yapar.",
        "sayfa": 111
       },
       {
-       "id": "3.1.2-11",
+       "id": "3.1.2-08",
        "tur": "secmeli",
-       "soru": "Dağ yamacından alçalırken ısınan havanın oluşturduğu sıcak ve kurutucu rüzgâr hangisidir?",
+       "soru": "Kış mevsiminde Doğu Karadeniz kıyılarında, güneyden esen rüzgârların etkisiyle sıcaklığın birkaç saat içinde mevsim normallerinin çok üzerine çıktığı görülmektedir.\nBu durumla ilgili aşağıdakilerden hangisi söylenemez?",
        "secenekler": [
-        "Fön",
-        "Poyraz",
-        "Meltem",
-        "Alize"
+        "Rüzgâr, dağların kıyıya bakan yamaçlarından alçalırken ısınmıştır.",
+        "Alçalan hava kütlesinin bağıl nemi azalmıştır.",
+        "Yüksek kesimlerde karların hızla erimesine yol açabilir.",
+        "Bu rüzgâr, fön rüzgârına örnektir.",
+        "Kıyıda bağıl nemin artmasına ve sağanaklara neden olmuştur."
        ],
-       "dogru": 0,
-       "bilgi": "Fön; Türkiye'de Doğu Karadeniz Dağları ile Torosların denize bakan yamaçlarında, karların hızla erimesine ve yangınlara zemin hazırlar.",
+       "dogru": 4,
+       "bilgi": "Dağı aşıp kıyıya doğru alçalan hava sıkışarak ısınır, bağıl nemi düşer; bu sıcak ve kuru rüzgâra fön denir. Fön karların hızla erimesine ve orman yangınlarına zemin hazırlar, yağış getirmez.",
        "sayfa": 114
       },
       {
-       "id": "3.1.2-12",
-       "tur": "bosluk",
-       "cumle": "Türkiye'de en fazla yağış alan yer ___ iken en az yağış alan yerler Iğdır ile Tuz Gölü çevresidir.",
-       "cevap": "Rize",
-       "celdiriciler": [
-        "Muğla",
-        "Antalya",
-        "Zonguldak"
+       "id": "3.1.2-09",
+       "tur": "secmeli",
+       "soru": "Tabloda Türkiye'deki bazı merkezlerin yıllık ortalama yağış miktarları verilmiştir.\nBu merkezlerle ilgili,",
+       "tablo": [
+        [
+         "Merkez",
+         "Yıllık yağış (mm)"
+        ],
+        [
+         "Rize",
+         "2.300"
+        ],
+        [
+         "Antalya",
+         "1.100"
+        ],
+        [
+         "Konya",
+         "320"
+        ],
+        [
+         "Iğdır",
+         "260"
+        ]
        ],
-       "bilgi": "Türkiye'de en çok yağışı Karadeniz kıyılarında kuzeye, Akdeniz'de güneye bakan dağlık kesimler alır.",
+       "oncul": [
+        "Rize'nin bol yağış almasında nemli hava kütlelerinin dağların kuzey yamaçları boyunca yükselmesi etkilidir.",
+        "Iğdır'ın az yağış almasında çevresi yüksek dağlarla çevrili çukur bir alanda bulunması etkilidir.",
+        "Antalya'da yağışların büyük bölümü yaz mevsiminde düşer."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Rize'de denizden gelen nemli hava Doğu Karadeniz Dağları'nın kuzey yamaçlarında yükselerek bol yamaç (orografik) yağışı bırakır. Iğdır çanak konumda olduğundan az yağış alır. Akdeniz ikliminde yağışlar kışın düşer, yazlar kuraktır.",
        "sayfa": 116
       }
      ]
@@ -1171,93 +1049,197 @@
       {
        "id": "3.1.3-01",
        "tur": "secmeli",
-       "soru": "Orta kuşakta (30°-60° enlemleri) görülen ılıman iklimler hangi seçenekte doğru verilmiştir?",
-       "secenekler": [
-        "Ekvatoral, çöl, savan, muson",
-        "Akdeniz, okyanusal, ılıman karasal (step), sert karasal",
-        "Tundra, kutup, yüksek dağ, step",
-        "Muson, Akdeniz, tundra, okyanusal"
+       "soru": "Tabloda Türkiye'deki K, L ve M istasyonlarına ait bazı iklim verileri verilmiştir.\nBu istasyonlarda görülen iklim türleri sırasıyla aşağıdakilerin hangisinde verilmiştir?",
+       "tablo": [
+        [
+         "İstasyon",
+         "Ocak (°C)",
+         "Temmuz (°C)",
+         "Kış yağışı (mm)",
+         "Yaz yağışı (mm)",
+         "Yıllık yağış (mm)"
+        ],
+        [
+         "K",
+         "10",
+         "28",
+         "640",
+         "15",
+         "1.090"
+        ],
+        [
+         "L",
+         "7",
+         "23",
+         "660",
+         "480",
+         "2.300"
+        ],
+        [
+         "M",
+         "−3",
+         "21",
+         "120",
+         "55",
+         "430"
+        ]
        ],
-       "dogru": 1,
-       "bilgi": "Sıcak iklimler ekvatoral, çöl, savan ve muson; soğuk iklimler tundra, kutup ve yüksek dağ iklimleridir.",
-       "sayfa": 118
+       "secenekler": [
+        "Akdeniz – Karadeniz – Karasal",
+        "Karadeniz – Akdeniz – Karasal",
+        "Akdeniz – Karasal – Karadeniz",
+        "Karasal – Karadeniz – Akdeniz",
+        "Karadeniz – Karasal – Akdeniz"
+       ],
+       "dogru": 0,
+       "bilgi": "K'de kışlar ılık ve yağışlı, yazlar sıcak ve kuraktır (Akdeniz). L her mevsim yağış alır ve yağış çok fazladır (Karadeniz). M'de kışlar soğuk, yıllık sıcaklık farkı büyük, yağış azdır (karasal).",
+       "sayfa": 119
       },
       {
        "id": "3.1.3-02",
-       "tur": "eslestir",
-       "yonerge": "İklim türlerini ait oldukları iklim gruplarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Muson iklimi",
-         "Sıcak iklimler"
+       "tur": "secmeli",
+       "soru": "Grafikte bir istasyonun aylık ortalama sıcaklıkları gösterilmiştir. Bu istasyonda yıllık yağışın büyük bölümü haziran-ağustos döneminde düşmekte, aralık-şubat döneminde ise çok az yağış görülmektedir.\nBu istasyonla ilgili aşağıdakilerden hangisi söylenebilir?",
+       "grafik": {
+        "x": "Aylar (1 = Ocak)",
+        "y": "Sıcaklık (°C)",
+        "seriler": [
+         {
+          "n": [
+           [
+            1,
+            24
+           ],
+           [
+            2,
+            24
+           ],
+           [
+            3,
+            23
+           ],
+           [
+            4,
+            20
+           ],
+           [
+            5,
+            17
+           ],
+           [
+            6,
+            15
+           ],
+           [
+            7,
+            13
+           ],
+           [
+            8,
+            14
+           ],
+           [
+            9,
+            15
+           ],
+           [
+            10,
+            17
+           ],
+           [
+            11,
+            20
+           ],
+           [
+            12,
+            22
+           ]
+          ]
+         }
         ],
-        [
-         "Ilıman karasal (step) iklim",
-         "Ilıman iklimler"
-        ],
-        [
-         "Yüksek dağ iklimi",
-         "Soğuk iklimler"
+        "yIsaret": [
+         [
+          5,
+          "5"
+         ],
+         [
+          10,
+          "10"
+         ],
+         [
+          15,
+          "15"
+         ],
+         [
+          20,
+          "20"
+         ],
+         [
+          25,
+          "25"
+         ]
         ]
+       },
+       "secenekler": [
+        "Güney yarım kürede, Akdeniz ikliminin görüldüğü bir yerdedir.",
+        "Kuzey yarım kürede, Akdeniz ikliminin görüldüğü bir yerdedir.",
+        "Güney yarım kürede, savan ikliminin görüldüğü bir yerdedir.",
+        "Kuzey yarım kürede, muson ikliminin görüldüğü bir yerdedir.",
+        "Ekvator çevresinde, ekvatoral iklimin görüldüğü bir yerdedir."
        ],
-       "bilgi": "Yeryüzündeki iklimler özellikle sıcaklığa göre sıcak, ılıman ve soğuk iklimler olarak üçe ayrılır.",
+       "dogru": 0,
+       "bilgi": "En sıcak ayın ocak, en soğuk ayın temmuz olması istasyonun güney yarım kürede olduğunu gösterir. Yağışın kış mevsimine (haziran-ağustos) düşmesi, yazın kurak geçmesi ve sıcaklıkların ılıman olması Akdeniz iklimine işaret eder.",
        "sayfa": 118
       },
       {
        "id": "3.1.3-03",
-       "tur": "bosluk",
-       "cumle": "Arazi şekli, toprak özellikleri ve insan faaliyetleri nedeniyle bölgenin genel ikliminden sapma gösteren küçük alandaki özel iklime ___ denir.",
-       "cevap": "mikroklima",
-       "celdiriciler": [
-        "makroklima",
-        "iklim kuşağı",
-        "hava durumu"
+       "tur": "secmeli",
+       "soru": "Türkiye'nin iklimiyle ilgili,",
+       "oncul": [
+        "Mutlak konumu bakımından Akdeniz iklim kuşağında yer alır.",
+        "Dağların kıyıya paralel uzanması, deniz etkisinin iç kesimlere kolayca ulaşmasını sağlar.",
+        "İklim bölgeleri arasındaki sınırlar keskin çizgilerle belirlenebilir."
        ],
-       "bilgi": "İklim değişkenlerinin uzun süreli ortalamalarının benzer olduğu geniş alanlar aynı iklim bölgesi (makroklima) kabul edilir.",
-       "sayfa": 118
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Türkiye mutlak konumu itibarıyla Akdeniz iklim kuşağındadır. Kıyıya paralel dağlar deniz etkisinin iç kesimlere girmesini engelleyerek karasallığı artırır. İklimler arası geçiş derecelidir; Uşak, Afyonkarahisar ve Kütahya çevresinde iki iklimin özellikleri birlikte görülür.",
+       "sayfa": 119
       },
       {
        "id": "3.1.3-04",
-       "tur": "bosluk",
-       "cumle": "Tropikal kuşaktaki sıcak iklimlerde mevsimler, genel olarak kurak ve ___ dönemler şeklinde belirginleşir.",
-       "cevap": "yağışlı",
-       "celdiriciler": [
-        "soğuk",
-        "karlı",
-        "rüzgârlı"
+       "tur": "secmeli",
+       "soru": "Kışların uzun ve sert geçtiği Doğu Anadolu'da, Aras Nehri vadisindeki Iğdır Ovası'nda sıcak ve kurak bir yaz mevsimi isteyen pamuk yetiştirilebilmektedir.\nBu durum aşağıdakilerden hangisiyle açıklanabilir?",
+       "secenekler": [
+        "Ovanın, çevresinden farklı bir mikroklima alanı oluşturması",
+        "Ovanın Akdeniz ikliminin etkili olduğu kıyı kuşağında yer alması",
+        "Ovanın Türkiye'nin en güneyindeki alanlar arasında bulunması",
+        "Doğu Anadolu'nun tamamında yazların serin ve yağışlı geçmesi",
+        "Ovaya kışın Sibirya yüksek basıncının bol yağış getirmesi"
        ],
-       "bilgi": "Sıcak iklimlerde ortalama sıcaklıklar yıl boyunca pek değişmez.",
+       "dogru": 0,
+       "bilgi": "Iğdır Ovası çevresine göre alçakta kalması ve dağlarla çevrili olması nedeniyle yazları sıcak ve kurak geçer. Bölgenin genel ikliminden sapma gösteren bu küçük alan bir mikroklima örneğidir.",
        "sayfa": 118
       },
       {
        "id": "3.1.3-05",
-       "tur": "dy",
-       "ifade": "Türkiye, mutlak konumu itibarıyla Akdeniz iklim kuşağı içinde yer alır.",
-       "dogru": true,
-       "bilgi": "Yükseltinin kısa mesafede değişmesi, karasallık ve dağların uzanışı nedeniyle Türkiye'de çeşitli iklim türleri görülür.",
-       "sayfa": 119
-      },
-      {
-       "id": "3.1.3-06",
        "tur": "secmeli",
-       "soru": "Türkiye'de etkili olan üç büyük iklim türü hangi seçenekte doğru verilmiştir?",
+       "soru": "Yeryüzündeki iklimler, sıcaklık özelliklerine göre sıcak, ılıman ve soğuk iklimler olarak üç gruba ayrılır.\nAşağıdaki iklim türü – iklim grubu eşleştirmelerinden hangisi yanlıştır?",
        "secenekler": [
-        "Akdeniz, okyanusal, step",
-        "Karadeniz, muson, karasal",
-        "Akdeniz, tundra, karasal",
-        "Akdeniz, Karadeniz, karasal"
+        "Muson iklimi – Sıcak iklimler",
+        "Savan iklimi – Sıcak iklimler",
+        "Okyanusal iklim – Ilıman iklimler",
+        "Tundra iklimi – Soğuk iklimler",
+        "Step iklimi – Soğuk iklimler"
        ],
-       "dogru": 3,
-       "bilgi": "Akdeniz, Karadeniz ve karasal iklim Türkiye'deki üç büyük iklim türüdür; aralarında geçiş alanları bulunur.",
-       "sayfa": 119
-      },
-      {
-       "id": "3.1.3-07",
-       "tur": "dy",
-       "ifade": "Türkiye'de iklimler arasında kesin sınırlar çizmek mümkün değildir; iklimler arası geçiş dereceli gerçekleşir.",
-       "dogru": true,
-       "bilgi": "Örneğin Uşak, Afyon ve Kütahya çevresinde hem Akdeniz hem karasal iklim özellikleri görülür.",
-       "sayfa": 119
+       "dogru": 4,
+       "bilgi": "Ilıman karasal (step) iklim; Akdeniz, okyanusal ve sert karasal iklimle birlikte orta kuşaktaki ılıman iklimlerdendir. Ekvatoral, çöl, savan ve muson sıcak; tundra, kutup ve yüksek dağ iklimi soğuk iklimlerdir.",
+       "sayfa": 118
       }
      ]
     },
@@ -1267,123 +1249,123 @@
      "kartlar": [
       {
        "id": "3.1.4-01",
-       "tur": "dy",
-       "ifade": "Tektonik hareketler, iklim değişikliğine neden olan insan kaynaklı faktörler arasında yer alır.",
-       "dogru": false,
-       "bilgi": "Işınımsal etkenler, sera gazlarındaki değişim ve tektonik hareketler doğal faktörlerdir; sanayi, ulaşım ve bitki örtüsünün tahribi insan kaynaklıdır.",
+       "tur": "secmeli",
+       "soru": "İklim sisteminde yaşanan değişikliklere yol açan aşağıdaki etkenlerden",
+       "oncul": [
+        "Fosil yakıt kullanımının artması",
+        "Dünya'nın eksen eğikliğinin uzun dönemde değişmesi",
+        "Ormanların tarım ve yerleşim alanlarına dönüştürülmesi"
+       ],
+       "kok": "hangileri insan kaynaklıdır?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Sanayi, ulaşım ve bitki örtüsünün tahribi insan kaynaklı etkenlerdir; insan karaların yaklaşık üçte birini tarım alanına çevirmiş, ormanların beşte birini yok etmiştir. Eksen eğikliğinin değişmesi ise ışınımsal (doğal) bir etkendir.",
        "sayfa": 121
       },
       {
        "id": "3.1.4-02",
-       "tur": "bosluk",
-       "cumle": "Bugün yaklaşık 23° 27' olan eksen eğikliğinin ortalama ___ bin yıllık süreçte 22,1° ile 24,5° arasında değiştiği tespit edilmiştir.",
-       "cevap": "42",
-       "celdiriciler": [
-        "10",
-        "21",
-        "100"
+       "tur": "secmeli",
+       "soru": "Tabloda atmosferdeki karbondioksit miktarının bazı yıllara göre değişimi verilmiştir. XX. yüzyılda dünyanın ortalama sıcaklığı da yaklaşık 0,74 °C artmıştır.\nBu bilgilere göre aşağıdakilerden hangisi söylenemez?",
+       "tablo": [
+        [
+         "Yıl",
+         "1800",
+         "1900",
+         "1950",
+         "2000",
+         "2020"
+        ],
+        [
+         "Karbondioksit (ppm)",
+         "283",
+         "296",
+         "311",
+         "369",
+         "413"
+        ]
        ],
-       "bilgi": "Eksen eğikliğindeki bu değişim Güneş'ten alınan enerjide yaklaşık %1'lik değişime yol açar ve buzul çağlarında rol oynar.",
-       "sayfa": 121
+       "secenekler": [
+        "Tablodaki her dönemde karbondioksit miktarı bir önceki döneme göre artmıştır.",
+        "Karbondioksit artışı 1950'den sonra öncesine göre hızlanmıştır.",
+        "Sıcaklık artışında sera etkisinin güçlenmesi rol oynamıştır.",
+        "Değişim, insan etkisinin belirleyici olduğu Antroposen döneminde yaşanmaktadır.",
+        "Karbondioksit artışı yalnızca doğal süreçlerden kaynaklanmıştır."
+       ],
+       "dogru": 4,
+       "bilgi": "Karbondioksit 1800-1950 arasında 28 ppm, 1950-2020 arasında 102 ppm artmıştır. Fosil yakıt kullanımı ve ormansızlaşma bu artışın başlıca nedenidir; güçlenen sera etkisi küresel ısınmaya yol açmaktadır.",
+       "sayfa": 126
       },
       {
        "id": "3.1.4-03",
        "tur": "secmeli",
-       "soru": "Bilim insanlarına göre sera etkisi olmasaydı Dünya'nın ortalama sıcaklığı kaç °C olurdu?",
-       "secenekler": [
-        "15 °C",
-        "0 °C",
-        "-18 °C",
-        "-40 °C"
+       "soru": "Bilim insanlarına göre atmosferde sera gazları bulunmasaydı Dünya'nın ortalama sıcaklığı yaklaşık −18 °C olurdu; günümüzde ise bu değer yaklaşık 15 °C'tur.\nBu bilgilerden hareketle,",
+       "oncul": [
+        "Sera etkisi, yeryüzünde yaşamın sürmesi için gerekli bir doğal süreçtir.",
+        "Sera etkisi, Dünya'nın ortalama sıcaklığını yaklaşık 33 °C yükseltmektedir.",
+        "Sera gazlarının miktarı arttıkça Dünya'nın ortalama sıcaklığı düşer."
        ],
-       "dogru": 2,
-       "bilgi": "Su buharı, karbondioksit ve metan gibi sera gazları sayesinde Dünya'nın ortalama sıcaklığı 15 °C'tur.",
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Su buharı, karbondioksit ve metan gibi gazlar yeryüzünden yayılan ısının bir kısmını tutarak ortalama sıcaklığı −18 °C yerine 15 °C'ta tutar; fark 15 − (−18) = 33 °C'tur. Sera gazlarının artması ise sıcaklığı yükseltir.",
        "sayfa": 122
       },
       {
        "id": "3.1.4-04",
-       "tur": "dy",
-       "ifade": "Yaklaşık 200 milyon yıl önce Güney Kutbu'na yakın olan Hindistan levhası, kuzeye kayıp Asya ile birleşmiş ve üzerindeki buzullar erimiştir.",
-       "dogru": true,
-       "bilgi": "Tektonik hareketler kıtaların konumunu değiştirerek iklim koşullarında büyük değişimlere yol açmıştır.",
-       "sayfa": 122
+       "tur": "secmeli",
+       "soru": "Yaklaşık 21 bin yıl önce en yoğun dönemine ulaşan son buzul çağında okyanuslardan buharlaşan suyun bir kısmı karalarda buzul olarak biriktiğinden deniz seviyesi bugünkünden çok daha düşüktü. Aynı dönemde iç kesimlerdeki göllerin seviyesi yükselmiş, Hazar Denizi ile Karadeniz birleşmişti.\nBu bilgilere göre son buzul çağıyla ilgili aşağıdakilerden hangisine ulaşılamaz?",
+       "secenekler": [
+        "Kıyı çizgilerinin konumu bugünkünden farklıydı.",
+        "Su küre ile buz küre arasındaki su dağılımı değişmişti.",
+        "İklim koşulları göllerin kapladığı alanları etkilemişti.",
+        "Bazı su kütleleri arasındaki bağlantılar bugünkünden farklıydı.",
+        "Deniz seviyesinin düşmesine buzulların erimesi yol açmıştı."
+       ],
+       "dogru": 4,
+       "bilgi": "Buzul çağında suyun bir kısmı karalarda buz olarak biriktiği için deniz seviyesi düşmüş, kıyı çizgileri değişmiştir. Buzulların erimesi ise deniz seviyesini yükseltir; son buzul çağı yaklaşık 10 bin yıl önce sona ermiştir.",
+       "sayfa": 125
       },
       {
        "id": "3.1.4-05",
        "tur": "secmeli",
-       "soru": "Artan insan faaliyetlerinin atmosferde sera gazı birikimini artırdığı günümüz dönemine ne ad verilir?",
+       "soru": "İklim projeksiyonlarına göre 2080 yılına kadar Türkiye'nin Ege ve Akdeniz kıyılarında yağışların azalacağı, Karadeniz kıyılarında ise artacağı öngörülmektedir.\nBu öngörülerin gerçekleşmesi hâlinde aşağıdakilerden hangisinin yaşanması beklenmez?",
        "secenekler": [
-        "Antroposen",
-        "Neolitik",
-        "Mezolitik",
-        "Paleolitik"
+        "Akdeniz kıyılarında tarımsal sulama ihtiyacının artması",
+        "Ege kıyılarında kuraklık ve orman yangını riskinin yükselmesi",
+        "Karadeniz kıyılarında sel ve heyelan riskinin artması",
+        "Akdeniz kıyılarında yer altı su kaynaklarının zenginleşmesi",
+        "Ege kıyılarında baraj göllerindeki su miktarının azalması"
        ],
-       "dogru": 0,
-       "bilgi": "Antroposen (İnsan Çağı) döneminde güçlenen sera etkisi, küresel sıcaklığın olağandan hızlı artmasına neden olmuştur.",
-       "sayfa": 124
+       "dogru": 3,
+       "bilgi": "Yağışın azalacağı Ege ve Akdeniz kıyılarında su kaynakları azalır; sulama ihtiyacı, kuraklık ve yangın riski artar. Yağışın artacağı Karadeniz kıyılarında ise sel ve heyelan riski yükselir.",
+       "sayfa": 127
       },
       {
        "id": "3.1.4-06",
        "tur": "secmeli",
-       "soru": "Sanayi Devrimi öncesine göre yerküredeki orman alanlarının ne kadarı yok edilmiştir?",
+       "soru": "Yaklaşık 200 milyon yıl önce Güney Kutbu'na yakın konumda bulunan Hindistan levhası, milyonlarca yıl içinde kuzeye kayarak Asya ile birleşmiş; bu süreçte üzerindeki buzullar erimiştir.\nBu örnek, iklim koşullarının değişmesinde aşağıdakilerden hangisinin etkili olduğunu gösterir?",
        "secenekler": [
-        "Üçte biri",
-        "Beşte biri",
-        "Yarısı",
-        "Onda biri"
-       ],
-       "dogru": 1,
-       "bilgi": "İnsan karaların yaklaşık üçte birini tarım alanına çevirmiş, ormanların beşte birini yok etmiştir.",
-       "sayfa": 124
-      },
-      {
-       "id": "3.1.4-07",
-       "tur": "secmeli",
-       "soru": "Yaklaşık 2,5 milyon yıl önce başlayıp 10 bin yıl önce sona eren dönemde kaç kez buzul çağı yaşanmıştır?",
-       "secenekler": [
-        "21",
-        "4",
-        "12",
-        "42"
+        "Tektonik hareketlerin",
+        "Eksen eğikliğinin değişmesinin",
+        "Güneş etkinliğindeki dalgalanmaların",
+        "Sera gazı birikiminin",
+        "İnsan faaliyetlerinin"
        ],
        "dogru": 0,
-       "bilgi": "Son buzul çağı 21 bin yıl önce en üst seviyesine ulaşmış ve yaklaşık 10 bin yıl önce sona ermiştir.",
-       "sayfa": 124
-      },
-      {
-       "id": "3.1.4-08",
-       "tur": "bosluk",
-       "cumle": "Son buzul çağında deniz seviyeleri düşerken iç kesimlerdeki göllerin seviyesi yükselmiş ve Hazar Denizi ile ___ birleşmiştir.",
-       "cevap": "Karadeniz",
-       "celdiriciler": [
-        "Akdeniz",
-        "Kızıldeniz",
-        "Aral Gölü"
-       ],
-       "bilgi": "İklim değişikliği deniz seviyelerini, kıyıları, buzul, çöl ve göl alanlarını değiştirmiştir.",
-       "sayfa": 125
-      },
-      {
-       "id": "3.1.4-09",
-       "tur": "secmeli",
-       "soru": "XX. yüzyılda atmosferdeki sera gazlarının artmasıyla dünya genelinde ortalama sıcaklık ne kadar yükselmiştir?",
-       "secenekler": [
-        "0,74 °C",
-        "2 °C",
-        "0,1 °C",
-        "4-5 °C"
-       ],
-       "dogru": 0,
-       "bilgi": "Bu artış buzulların erimesine, şiddetli yağışlara ve kar örtüsüyle kaplı sürenin kısalmasına yol açmıştır.",
-       "sayfa": 126
-      },
-      {
-       "id": "3.1.4-10",
-       "tur": "dy",
-       "ifade": "Öngörülere göre 2080 yılına kadar Türkiye'nin Karadeniz kıyılarında yağış azalacak, Ege ve Akdeniz kıyılarında artacaktır.",
-       "dogru": false,
-       "bilgi": "2080'e kadar Ege ve Akdeniz kıyılarında yağışın azalacağı, Karadeniz kıyılarında artacağı öngörülmektedir.",
-       "sayfa": 127
+       "bilgi": "Levha hareketleri kıtaların enlem konumunu değiştirerek aldıkları Güneş enerjisini ve dolayısıyla iklimlerini değiştirir. Işınımsal etkenler ve sera gazlarındaki değişimle birlikte tektonik hareketler iklim değişikliğinin doğal nedenlerindendir.",
+       "sayfa": 122
       }
      ]
     }
@@ -1399,107 +1381,127 @@
      "kartlar": [
       {
        "id": "4.1.1-01",
-       "tur": "eslestir",
-       "yonerge": "Dünya nüfusundaki sıçrama dönemlerini nedenleriyle eşleştir.",
-       "ciftler": [
+       "tur": "secmeli",
+       "soru": "Tabloda dünya nüfusunun her bir milyarlık eşiğe ulaştığı yıllar verilmiştir.\nTabloya ve bilgilerinize göre,",
+       "tablo": [
         [
-         "Birinci sıçrama",
-         "İnsanların çeşitli aletleri icat etmesi"
+         "Dünya nüfusu",
+         "Ulaşıldığı yıl"
         ],
         [
-         "İkinci sıçrama",
-         "Tarıma başlanması ve yerleşik hayata geçilmesi"
+         "1 milyar",
+         "1804"
         ],
         [
-         "Üçüncü sıçrama",
-         "Sanayi Devrimi ve tıptaki ilerlemeler"
+         "2 milyar",
+         "1927"
+        ],
+        [
+         "3 milyar",
+         "1960"
+        ],
+        [
+         "4 milyar",
+         "1974"
+        ],
+        [
+         "5 milyar",
+         "1987"
+        ],
+        [
+         "6 milyar",
+         "1999"
+        ],
+        [
+         "7 milyar",
+         "2011"
+        ],
+        [
+         "8 milyar",
+         "2022"
         ]
        ],
-       "bilgi": "İnsanlık tarihinde yaklaşık 1 milyon, 10 bin yıl önce ve Sanayi Devrimi'yle olmak üzere üç büyük nüfus sıçraması yaşanmıştır.",
-       "sayfa": 141
+       "oncul": [
+        "Nüfusun 1 milyardan 2 milyara çıkması 100 yıldan uzun sürmüştür.",
+        "1960'tan sonra her bir milyarlık artış için gereken süre giderek uzamıştır.",
+        "1950 sonrasındaki hızlı artış daha çok gelişmekte olan ülkelerde yaşanmıştır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "1804-1927 arası 123 yıldır. 1960 sonrasında her milyarlık artış 11-14 yılda gerçekleşmiş, süre kısalmıştır. 1950 sonrasında ölüm oranları düşen, doğum oranları yüksek kalan gelişmekte olan ülkeler artışı sürüklemiştir.",
+       "sayfa": 142
       },
       {
        "id": "4.1.1-02",
-       "tur": "bosluk",
-       "cumle": "Konya'nın Çumra ilçesindeki ___, Neolitik Dönem'de yaklaşık 9.400 yıl önce kurulan, dünyanın bilinen en eski yerleşmelerindendir.",
-       "cevap": "Çatalhöyük",
-       "celdiriciler": [
-        "Göbeklitepe",
-        "Hattuşa",
-        "Truva"
+       "tur": "secmeli",
+       "soru": "Dünya nüfusunda ani artışlara (sıçramalara) yol açan aşağıdaki gelişmeler,",
+       "oncul": [
+        "İnsanların çeşitli aletleri icat etmesi",
+        "Sanayi Devrimi ve tıptaki ilerlemeler",
+        "Tarıma geçilmesi ve yerleşik hayata başlanması"
        ],
-       "bilgi": "Çatalhöyük'te tarım ve göçle artan nüfus, en kalabalık döneminde yaklaşık 8.000 kişiye ulaşmıştır.",
+       "kok": "kronolojik sıraya göre dizildiğinde hangi sıralama doğru olur?",
+       "secenekler": [
+        "I - III - II",
+        "II - I - III",
+        "II - III - I",
+        "III - I - II",
+        "III - II - I"
+       ],
+       "dogru": 0,
+       "bilgi": "Birinci sıçrama yaklaşık 1 milyon yıl önce alet yapımıyla, ikincisi yaklaşık 10 bin yıl önce tarım ve yerleşik hayatla, üçüncüsü Sanayi Devrimi ve tıptaki gelişmelerle yaşanmıştır.",
        "sayfa": 141
       },
       {
        "id": "4.1.1-03",
        "tur": "secmeli",
-       "soru": "Çatalhöyük'te nüfusun önemli ölçüde azalıp başka yerleşmelere dağılmasında hangi etkenler rol oynamıştır?",
+       "soru": "Konya'nın Çumra ilçesinde yaklaşık 9.400 yıl önce kurulan Çatalhöyük'ün nüfusu tarım ve göçle artarak en kalabalık döneminde 8.000 kişiye ulaşmıştır. Daha sonra artan gıda talebinin çevredeki kaynaklarla karşılanamaması ve kuraklığın artması üzerine halk çevredeki yerleşmelere dağılmıştır.\nBu bilgilerden hareketle aşağıdakilerden hangisine ulaşılabilir?",
        "secenekler": [
-        "Deniz seviyesinin yükselmesi",
-        "Kaynakların yetersiz kalması ve kuraklığın artması",
-        "Volkanik patlamalar",
-        "Salgın hastalıkların ve depremlerin art arda yaşanması"
+        "Nüfusla kaynaklar arasındaki dengenin bozulması göçe yol açabilir.",
+        "Tarıma geçilmesi, yerleşmelerin nüfusunu azaltan bir etken olmuştur.",
+        "Çatalhöyük'ün nüfusu yalnızca doğal nüfus artışıyla büyümüştür.",
+        "Neolitik Dönem'de iklim koşulları nüfusun dağılışını etkilememiştir.",
+        "Çatalhöyük halkı kuraklık nedeniyle yerleşik hayatı tamamen bırakmıştır."
        ],
-       "dogru": 1,
-       "bilgi": "Artan nüfusun gıda talebi, kaynakların yetersizliği ve artan kuraklık Çatalhöyük'ten göçe yol açmıştır.",
+       "dogru": 0,
+       "bilgi": "Tarım ve göçle büyüyen Çatalhöyük'te kaynakların yetersiz kalması ve kuraklık nüfusun dağılmasına neden olmuştur. Halk yerleşik hayatı bırakmamış, çevredeki yerleşmelere göç etmiştir.",
        "sayfa": 141
       },
       {
        "id": "4.1.1-04",
-       "tur": "dy",
-       "ifade": "Neolitik Dönem'de dünya nüfusunun yaklaşık 1 milyar olduğu tahmin edilmektedir.",
-       "dogru": false,
-       "bilgi": "Tarım Devrimi'nin yaşandığı Neolitik Dönem'de dünya nüfusunun 150-300 milyon civarında olduğu tahmin edilir.",
-       "sayfa": 141
+       "tur": "secmeli",
+       "soru": "Birleşmiş Milletler Nüfus Fonu (UNFPA), 2100 yılında dünya nüfusunun 9 ile 13 milyar arasında olacağını tahmin etmektedir.\nBu nüfus projeksiyonunda tahmin aralığının geniş tutulmasının temel nedeni aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Nüfusun doğum, ölüm ve göç gibi çok sayıda değişkene bağlı olması",
+        "Günümüzdeki dünya nüfusunun sayımlarla kesin olarak belirlenememesi",
+        "Nüfus artışının yalnızca gelişmiş ülkelerde sürmesinin beklenmesi",
+        "Ülkelerin nüfus politikalarının gelecekte hiç değişmeyecek olması",
+        "Dünya nüfusunun 1950'den bu yana sabit kalması"
+       ],
+       "dogru": 0,
+       "bilgi": "Nüfus projeksiyonu, nüfusun miktarı ve yapısına göre yapılan tahmindir. Doğum ve ölüm oranları, göçler, nüfus politikaları ve ekonomik koşullar değişebildiğinden uzun dönemli tahminler geniş bir aralıkta verilir.",
+       "sayfa": 142
       },
       {
        "id": "4.1.1-05",
        "tur": "secmeli",
-       "soru": "Dünya nüfusu ilk kez 2 milyara hangi yılda ulaşmıştır?",
+       "soru": "1950'den sonra dünya nüfusundaki hızlı artışın büyük bölümü gelişmekte olan ülkelerde gerçekleşmiştir.\nBu durumun temel nedeni aşağıdakilerden hangisidir?",
        "secenekler": [
-        "1800",
-        "1950",
-        "1927",
-        "1960"
+        "Ölümler azalırken doğum oranlarının yüksek kalması",
+        "Doğum oranları düşerken ölüm oranlarının hızla artması",
+        "Bu ülkelerin gelişmiş ülkelerden yoğun biçimde göç alması",
+        "Ortalama yaşam süresinin önemli ölçüde kısalması",
+        "Kentleşmeyle birlikte doğum oranlarının hızla azalması"
        ],
-       "dogru": 2,
-       "bilgi": "Ölüm oranlarının düşmesiyle dünya nüfusu 1800'lerin başında 1 milyara, 1927'de 2 milyara ulaşmıştır.",
-       "sayfa": 142
-      },
-      {
-       "id": "4.1.1-06",
-       "tur": "dy",
-       "ifade": "1950 sonrasında başlayan hızlı nüfuslanma daha çok gelişmekte olan ülkelerde yaşanmıştır.",
-       "dogru": true,
-       "bilgi": "Gelişmekte olan ülkeler sağlık ve teknoloji olanaklarıyla ölüm oranlarını düşürmüş, doğum oranları ise yüksek kalmıştır.",
-       "sayfa": 142
-      },
-      {
-       "id": "4.1.1-07",
-       "tur": "bosluk",
-       "cumle": "Dünyanın veya bir ülkenin nüfus miktarı ve yapısal özelliklerine göre yapılan tahminlere nüfus ___ denir.",
-       "cevap": "projeksiyonu",
-       "celdiriciler": [
-        "piramidi",
-        "yoğunluğu",
-        "politikası"
-       ],
-       "bilgi": "Nüfus değişimleri pek çok değişkene bağlı olduğundan nüfusun geleceğine yönelik tahmin yapmak güçtür.",
-       "sayfa": 142
-      },
-      {
-       "id": "4.1.1-08",
-       "tur": "secmeli",
-       "soru": "Birleşmiş Milletler Dünya Nüfus Fonu (UNFPA), 2100 yılında dünya nüfusunun kaç milyar arasında olacağını tahmin etmektedir?",
-       "secenekler": [
-        "5-7 milyar",
-        "15-18 milyar",
-        "20-25 milyar",
-        "9-13 milyar"
-       ],
-       "dogru": 3,
-       "bilgi": "UNFPA'nın tahminine göre 2100'de dünya nüfusu 9-13 milyar arasında olacaktır.",
+       "dogru": 0,
+       "bilgi": "Gelişmekte olan ülkeler, gelişmiş ülkelerin sağlık ve teknoloji olanaklarından yararlanarak ölüm oranlarını hızla düşürmüş; doğum oranları ise uzun süre yüksek kalmıştır. Bu fark doğal nüfus artışını hızlandırmıştır.",
        "sayfa": 142
       }
      ]
@@ -1511,117 +1513,89 @@
       {
        "id": "4.1.2-01",
        "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi nüfusun dağılışını etkileyen beşerî ve ekonomik faktörlerdendir?",
+       "soru": "Aşağıdakilerden hangisi nüfusun dağılışını etkileyen beşerî faktörlere örnek değildir?",
        "secenekler": [
-        "Yer şekilleri",
-        "Toprak özellikleri",
-        "Siyasi nedenler ve nüfus politikaları",
-        "Bitki örtüsü"
+        "Mekke'nin dinî merkez olması nedeniyle kalabalık bir kent olması",
+        "Bir ülkenin seyrek nüfuslu bölgelere yerleşmeyi teşvik etmesi",
+        "Savaş nedeniyle bir bölgenin nüfusunun hızla azalması",
+        "Bir liman kentinin ticaretle gelişerek nüfus çekmesi",
+        "Kanada'nın kuzeyinde sert kışlar nedeniyle nüfusun seyrek olması"
        ],
-       "dogru": 2,
-       "bilgi": "Tarihî ve dinî nedenler, siyasi nedenler, nüfus politikaları ve beşerî afetler nüfusun dağılışını etkileyen beşerî faktörlerdir.",
+       "dogru": 4,
+       "bilgi": "İklim, yer şekilleri, su kaynakları ve toprak doğal faktörlerdir; Kanada'nın kuzeyindeki seyreklik iklimle ilgilidir. Dinî ve tarihî nedenler, nüfus politikaları, savaşlar ve ekonomik faaliyetler ise beşerî faktörlerdir.",
        "sayfa": 146
       },
       {
        "id": "4.1.2-02",
-       "tur": "bosluk",
-       "cumle": "Lozan Barış Antlaşması'yla Türkiye ile ___ arasında nüfus mübadelesi protokolü imzalanmıştır.",
-       "cevap": "Yunanistan",
-       "celdiriciler": [
-        "Bulgaristan",
-        "Romanya",
-        "İtalya"
+       "tur": "secmeli",
+       "soru": "Kırsal bir yerleşmede miras yoluyla bölünen tarım arazileri küçülmüş, iş olanakları azalmıştır. Bir aile, akrabalarının da yaşadığı ve sanayi kuruluşlarının yoğun olduğu bir kente taşınmayı planlamaktadır; ancak taşınma masrafları ve kentteki yüksek kira bedelleri aileyi tereddüde düşürmektedir.\nBu göç süreciyle ilgili,",
+       "oncul": [
+        "Tarım arazilerinin küçülmesi göç için çekici bir faktördür.",
+        "Akrabaların ve sanayi kuruluşlarının kentte bulunması çekici faktördür.",
+        "Taşınma masrafları ve kira bedelleri göçün önündeki engellerdendir."
        ],
-       "bilgi": "Mübadele göçleri ülkeler arası anlaşmalarla yapılan zorunlu göçlerdir; Yunanistan'daki Türkler ile Türkiye'deki Rumlar yer değiştirmiştir.",
-       "sayfa": 149
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Arazilerin küçülmesi ve iş olanaklarının azlığı, insanları yaşadığı yeri terk etmeye zorlayan itici faktörlerdir. Kentteki iş olanakları ve akrabalar çekici faktör, mesafe ve maliyetler ise göçün önündeki engellerdir.",
+       "sayfa": 150
       },
       {
        "id": "4.1.2-03",
        "tur": "secmeli",
-       "soru": "Türklerin ana yurdu Türkistan'dan yaptığı göçler hangi dönemde gerçekleşmiştir?",
+       "soru": "Aşağıdaki göç örneği – göç türü eşleştirmelerinden hangisi yanlıştır?",
        "secenekler": [
-        "MÖ 3000-MÖ 1000",
-        "MÖ 1500-MS 800",
-        "MS 1000-MS 1500",
-        "MÖ 500-MS 1500"
+        "Lozan'dan sonra Türk ve Rum nüfusun yer değiştirmesi – Mübadele göçü",
+        "Fındık hasadı için birkaç haftalığına Ordu'ya gelen işçiler – Geçici göç",
+        "Doktorasını yurt dışında yapıp orada çalışmayı sürdüren bilim insanı – Beyin göçü",
+        "Sivas'tan İstanbul'a iş bulmak için taşınan bir aile – Dış göç",
+        "Almanya'ya çalışmak için giden Türk vatandaşları – Dış göç"
        ],
-       "dogru": 1,
-       "bilgi": "Türkler MÖ 1500'lerde başlayıp MS 800'lere kadar süren göçlerle farklı bölgelere yayılmıştır.",
-       "sayfa": 149
+       "dogru": 3,
+       "bilgi": "Ülke sınırları içinde yapılan Sivas-İstanbul göçü iç göçtür. Ülkeler arası anlaşmalarla yapılan zorunlu yer değiştirme mübadele, mevsimlik işçilik geçici göç, nitelikli kişilerin yurt dışına gitmesi beyin göçüdür.",
+       "sayfa": 151
       },
       {
        "id": "4.1.2-04",
-       "tur": "eslestir",
-       "yonerge": "Göçü etkileyen unsurları açıklamalarıyla eşleştir.",
-       "ciftler": [
-        [
-         "İtici faktörler",
-         "İnsanların yaşadığı yeri terk etmesine neden olan koşullar"
-        ],
-        [
-         "Çekici faktörler",
-         "Göç edilen yerdeki cezbedici koşullar"
-        ],
-        [
-         "Engeller",
-         "Mesafe, ulaşım olanakları, politikalar, hukuki durumlar"
-        ],
-        [
-         "Kişisel özellikler",
-         "Göçmenin dil, din, meslek ve eğitim durumu"
-        ]
+       "tur": "secmeli",
+       "soru": "Nitelikli ve iyi eğitim almış bireylerin daha iyi çalışma koşulları için başka ülkelere göç etmesi beyin göçü olarak adlandırılır.\nBeyin göçünün göç alan ülke açısından sonuçları arasında,",
+       "oncul": [
+        "eğitime yapılan yatırımın karşılığının alınamaması",
+        "bilimsel ve teknolojik üretimin yavaşlaması",
+        "nitelikli iş gücü sayısının artması"
        ],
-       "bilgi": "Göç; doğal, ekonomik, sosyal, siyasal ve kültürel nedenlerle insanların başka bir yere hareket etmesidir.",
-       "sayfa": 150
+       "kok": "hangileri gösterilebilir?",
+       "secenekler": [
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Göç alan ülke, eğitim maliyetine katlanmadan nitelikli iş gücü kazanır. Eğitim yatırımının karşılığının alınamaması ve bilimsel üretimin yavaşlaması ise göç veren ülkenin yaşadığı olumsuzluklardır.",
+       "sayfa": 152
       },
       {
        "id": "4.1.2-05",
        "tur": "secmeli",
-       "soru": "Belli bir süreyle sınırlı olan ve bir yere kalıcı olarak yerleşilmeyen göç türü hangisidir?",
+       "soru": "Türkler, MÖ 1500'lerden MS 800'lere kadar süren göçlerle ana yurtları Türkistan'dan farklı bölgelere yayılmıştır.\nAşağıdakilerden hangisi bu göçlerin nedenleri arasında gösterilemez?",
        "secenekler": [
-        "Geçici göç",
-        "Mübadele göçü",
-        "Beyin göçü",
-        "Dış göç"
+        "İklimin kuraklaşması ve otlakların yetersiz kalması",
+        "Nüfusun artmasıyla kaynakların yetmemesi",
+        "Siyasi baskılar ve boylar arası mücadeleler",
+        "Daha verimli topraklar ve yeni yurt arayışı",
+        "Sanayi kentlerinde ortaya çıkan iş gücü ihtiyacı"
        ],
-       "dogru": 0,
-       "bilgi": "Geçici göç, mevsimlik göç olarak da adlandırılır.",
-       "sayfa": 151
-      },
-      {
-       "id": "4.1.2-06",
-       "tur": "secmeli",
-       "soru": "İyi eğitim almış, nitelikli insanların daha iyi çalışma olanağı ve kazanç için başka ülkelere göç etmesine ne ad verilir?",
-       "secenekler": [
-        "Mübadele göçü",
-        "Beyin göçü",
-        "Mevsimlik göç",
-        "İç göç"
-       ],
-       "dogru": 1,
-       "bilgi": "Beyin göçü; göç eden kişi, ailesi, ayrıldığı ve gittiği ülke açısından olumlu ve olumsuz sonuçlar doğurur.",
-       "sayfa": 152
-      },
-      {
-       "id": "4.1.2-07",
-       "tur": "bosluk",
-       "cumle": "Mardin'in Savur ilçesinde doğan ve 2015'te Nobel Kimya Ödülü'nü alan ___, beyin göçüne örnek olarak gösterilir.",
-       "cevap": "Aziz Sancar",
-       "celdiriciler": [
-        "Cahit Arf",
-        "Oktay Sinanoğlu",
-        "Gazi Yaşargil"
-       ],
-       "bilgi": "Aziz Sancar TÜBİTAK bursuyla ABD'ye gitmiş; DNA onarımı, kanser tedavisi ve biyolojik saat üzerine çalışmıştır.",
-       "sayfa": 152
-      },
-      {
-       "id": "4.1.2-08",
-       "tur": "dy",
-       "ifade": "Sınır ölçütüne göre bir ülke içinde yaşanan göçe dış göç denir.",
-       "dogru": false,
-       "bilgi": "Sınır ölçütüne göre ülke içinde yaşanan göç iç göç, ülke dışına yapılan göç dış göçtür.",
-       "sayfa": 153
+       "dogru": 4,
+       "bilgi": "Türk göçlerinde kuraklık, otlak yetersizliği, nüfus artışı, siyasi baskılar ve yeni yurt arayışı etkili olmuştur. Sanayi kentlerinin iş gücü ihtiyacı ise Sanayi Devrimi'nden sonra ortaya çıkan bir göç nedenidir.",
+       "sayfa": 149
       }
      ]
     },
@@ -1632,120 +1606,184 @@
       {
        "id": "4.1.3-01",
        "tur": "secmeli",
-       "soru": "Nüfus piramitlerinde 15-64 yaş grubu hangi nüfusu gösterir?",
-       "secenekler": [
-        "Aktif (çalışma çağındaki) nüfusu",
-        "Çocuk nüfusu",
-        "Yaşlı nüfusu",
-        "Bağımlı nüfusu"
+       "soru": "Tabloda K, L ve M ülkelerinin nüfusunun yaş gruplarına göre dağılımı verilmiştir.\nBuna göre,",
+       "tablo": [
+        [
+         "Ülke",
+         "0-14 yaş (%)",
+         "15-64 yaş (%)",
+         "65 ve üstü (%)"
+        ],
+        [
+         "K",
+         "42",
+         "55",
+         "3"
+        ],
+        [
+         "L",
+         "23",
+         "67",
+         "10"
+        ],
+        [
+         "M",
+         "13",
+         "58",
+         "29"
+        ]
        ],
-       "dogru": 0,
-       "bilgi": "Nüfus piramitlerinde 0-14 yaş çocuk, 15-64 yaş aktif, 65 yaş ve üstü yaşlı nüfusu gösterir.",
+       "oncul": [
+        "Nüfus piramidinin tabanı en geniş olan ülke K'dir.",
+        "Ortanca yaşın en düşük olduğu ülke M'dir.",
+        "Bağımlı nüfus oranı M'de L'dekinden fazladır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Çocuk nüfus oranı en yüksek olan K'de piramit tabanı en geniş, ortanca yaş en düşüktür. Yaşlı oranı yüksek olan M'de ortanca yaş en yüksektir. Bağımlı (0-14 ve 65+) nüfus M'de %42, L'de %33'tür.",
        "sayfa": 154
       },
       {
        "id": "4.1.3-02",
        "tur": "secmeli",
-       "soru": "Bir ülkenin nüfus piramidinin tabanının geniş olması genellikle neyi gösterir?",
+       "soru": "Grafikte bir ülkenin demografik dönüşüm sürecindeki doğum ve ölüm oranlarının aşamalara göre değişimi gösterilmiştir.\nBuna göre doğal nüfus artış hızının en yüksek olduğu aşama ile nüfusun azalmaya başladığı aşama sırasıyla hangileridir?",
+       "grafik": {
+        "x": "Aşama",
+        "y": "Oran (‰)",
+        "seriler": [
+         {
+          "ad": "Doğum",
+          "n": [
+           [
+            1,
+            40
+           ],
+           [
+            2,
+            40
+           ],
+           [
+            3,
+            25
+           ],
+           [
+            4,
+            12
+           ],
+           [
+            5,
+            9
+           ]
+          ]
+         },
+         {
+          "ad": "Ölüm",
+          "n": [
+           [
+            1,
+            38
+           ],
+           [
+            2,
+            20
+           ],
+           [
+            3,
+            12
+           ],
+           [
+            4,
+            10
+           ],
+           [
+            5,
+            11
+           ]
+          ]
+         }
+        ],
+        "yIsaret": [
+         [
+          10,
+          "10"
+         ],
+         [
+          20,
+          "20"
+         ],
+         [
+          30,
+          "30"
+         ],
+         [
+          40,
+          "40"
+         ]
+        ]
+       },
        "secenekler": [
-        "Yaşlı nüfus oranının fazla olduğunu",
-        "Ortalama yaşam süresinin uzun olduğunu",
-        "Genç nüfus oranının fazla olduğunu",
-        "Nüfus artış hızının az olduğunu"
+        "2. ve 5.",
+        "1. ve 4.",
+        "3. ve 5.",
+        "2. ve 4.",
+        "3. ve 4."
        ],
-       "dogru": 2,
-       "bilgi": "Gelişmekte olan ülkelerde piramit tabanı geniştir; nüfus artış hızının az olduğu ülkelerde ise taban dardır.",
-       "sayfa": 154
+       "dogru": 0,
+       "bilgi": "Doğal artış hızı doğum ile ölüm oranı arasındaki farktır: 2. aşamada fark en fazladır (‰20). 5. aşamada doğum oranı ölüm oranının altına indiği için nüfus azalmaya başlar.",
+       "sayfa": 155
       },
       {
        "id": "4.1.3-03",
-       "tur": "bosluk",
-       "cumle": "Demografik dönüşüm modeli, bir ülkenin doğum ve ölüm oranlarına göre ___ gelişim aşamasından hangisinde olduğunu belirlemeye dayanır.",
-       "cevap": "beş",
-       "celdiriciler": [
-        "üç",
-        "dört",
-        "altı"
+       "tur": "secmeli",
+       "soru": "Demografik dönüşüm modeliyle ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Batı Avrupa ülkelerinin nüfuslanma süreci esas alınarak oluşturulmuştur.",
+        "Göçün nüfus üzerindeki etkisini dikkate almaz.",
+        "Günümüzde birinci aşamada bulunan bir ülke yoktur.",
+        "Gelişmekte olan ülkelerde genellikle 2. ya da 3. aşamanın özellikleri görülür.",
+        "Doğum oranlarının düşmesi kentleşmenin azalmasıyla açıklanır."
        ],
-       "bilgi": "Sanayileşme, kentleşme ve sağlık hizmetlerinin iyileşmesiyle ülkeler modelde bir aşamadan diğerine geçer.",
+       "dogru": 4,
+       "bilgi": "Model İngiltere, Fransa, Almanya gibi ülkelerin sürecine dayanır ve göçü dikkate almaz. Doğum oranlarının düşmesinde kentleşmenin ve eğitim düzeyinin artması ile kadınların çalışma hayatına katılması etkilidir.",
        "sayfa": 155
       },
       {
        "id": "4.1.3-04",
-       "tur": "eslestir",
-       "yonerge": "Demografik dönüşüm modelinin aşamalarını özellikleriyle eşleştir.",
-       "ciftler": [
-        [
-         "1. aşama",
-         "Doğum ve ölüm oranları yüksek, sanayi öncesi toplum"
-        ],
-        [
-         "2. aşama",
-         "Ölüm oranları düşmeye başlar, artış hızı yüksektir"
-        ],
-        [
-         "3. aşama",
-         "Doğum oranları düşmeye, artış hızı yavaşlamaya başlar"
-        ],
-        [
-         "4. aşama",
-         "Sanayi sonrası toplum, artış hızı çok düşüktür"
-        ],
-        [
-         "5. aşama",
-         "Doğum oranı çok düşüktür, nüfusta azalma görülür"
-        ]
+       "tur": "secmeli",
+       "soru": "Bir ülkenin nüfus piramidinde tabanın dar, orta yaş gruplarının geniş, üst kısmın ise diğer ülkelere göre geniş olduğu görülmektedir.\nBu ülkeyle ilgili aşağıdakilerden hangisi söylenemez?",
+       "secenekler": [
+        "Nüfus artış hızı düşüktür.",
+        "Ortalama yaşam süresi uzundur.",
+        "Gelecekte yaşlı nüfus oranının artması beklenir.",
+        "Ortanca yaş yüksektir.",
+        "Doğum oranı yüksektir."
        ],
-       "bilgi": "Doğum oranlarının azalmasında kentleşme, eğitim ve kadınların çalışma hayatına girmesi etkilidir.",
-       "sayfa": 155
+       "dogru": 4,
+       "bilgi": "Dar taban düşük doğum oranını ve düşük nüfus artış hızını, geniş üst kısım uzun yaşam süresini gösterir. Bu yapıdaki ülkelerde ortanca yaş yüksektir ve nüfus giderek yaşlanır.",
+       "sayfa": 154
       },
       {
        "id": "4.1.3-05",
-       "tur": "dy",
-       "ifade": "Günümüzde gelişmekte olan ülkelerde demografik dönüşüm modelinin 2. veya 3. aşamasının özellikleri görülür.",
-       "dogru": true,
-       "bilgi": "Günümüzde 1. aşamada ülke yoktur; gelişmekte olan ülkeler gelişmiş ülkelerin teknoloji ve sağlık olanaklarından yararlanmıştır.",
-       "sayfa": 155
-      },
-      {
-       "id": "4.1.3-06",
        "tur": "secmeli",
-       "soru": "Demografik dönüşüm modeli, aşamaları gözlenen hangi ülkelerin nüfuslanma sürecini yansıtır?",
+       "soru": "Nüfusu 50 milyon olan bir ülkede bir yıl içinde doğum oranı ‰18, ölüm oranı ‰6 olarak gerçekleşmiştir. Aynı yıl ülkeye 100 bin kişi göç etmiş, ülkeden 300 bin kişi göç etmiştir.\nBuna göre ülke nüfusu bu yıl içinde kaç kişi artmıştır?",
        "secenekler": [
-        "Çin, Hindistan, Japonya",
-        "ABD, Kanada, Avustralya",
-        "Brezilya, Meksika, Arjantin",
-        "İngiltere, Fransa, Almanya"
+        "200 bin",
+        "400 bin",
+        "600 bin",
+        "800 bin",
+        "900 bin"
        ],
-       "dogru": 3,
-       "bilgi": "Modelde göçün etkisi göz ardı edilir, doğal nüfus artışındaki değişimlere odaklanılır.",
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "Doğal artış = (18 − 6) × 50.000.000 / 1000 = 600 bin kişidir. Göç dengesi 100 bin − 300 bin = −200 bin olduğundan nüfus 600 − 200 = 400 bin kişi artmıştır. Demografik dönüşüm modeli yalnızca doğal artışı dikkate alır.",
        "sayfa": 155
-      },
-      {
-       "id": "4.1.3-07",
-       "tur": "bosluk",
-       "cumle": "Belirli bir yerde ve dönemde doğum ve ölüm oranları arasındaki farka bağlı olarak nüfusta meydana gelen değişime ___ nüfus artışı denir.",
-       "cevap": "doğal",
-       "celdiriciler": [
-        "gerçek",
-        "mekanik",
-        "göçe bağlı"
-       ],
-       "bilgi": "Demografik dönüşüm modeli, ekonomik ve sosyal gelişmelere göre doğal nüfus artış hızının değişimini açıklar.",
-       "sayfa": 155
-      },
-      {
-       "id": "4.1.3-08",
-       "tur": "bosluk",
-       "cumle": "Nüfusu oluşturan bireylerin yaşları küçükten büyüğe sıralandığında ortada kalan bireyin yaşına ___ denir.",
-       "cevap": "ortanca yaş",
-       "celdiriciler": [
-        "ortalama ömür",
-        "bağımlı nüfus",
-        "aktif nüfus"
-       ],
-       "bilgi": "Ortanca yaş, nüfusun yaş yapısını tek bir değerle özetleyen bir göstergedir.",
-       "sayfa": 228
       }
      ]
     },
@@ -1755,105 +1793,89 @@
      "kartlar": [
       {
        "id": "4.1.4-01",
-       "tur": "bosluk",
-       "cumle": "Ülkelerin nüfusun yapısı, dağılışı, nitelik ve niceliğine yönelik aldığı karar ve uygulamalara nüfus ___ denir.",
-       "cevap": "politikası",
-       "celdiriciler": [
-        "projeksiyonu",
-        "piramidi",
-        "dinamiği"
+       "tur": "secmeli",
+       "soru": "Bir ülkede kadın başına düşen ortalama çocuk sayısı 1,3'e düşmüş, 65 yaş ve üstü nüfusun oranı %28'e çıkmıştır. Hükûmet; çocuk yardımı, doğum izni sürelerinin uzatılması ve kreş desteği gibi uygulamalar başlatmıştır.\nBu ülkenin uyguladığı nüfus politikasına benzer bir politika aşağıdaki ülkelerden hangisinde uygulanmaktadır?",
+       "secenekler": [
+        "Japonya",
+        "Pakistan",
+        "Afganistan",
+        "Endonezya",
+        "Hindistan"
        ],
-       "bilgi": "Nüfus politikası; ülkenin nüfus özellikleri, fırsat ve sorunları analiz edilerek oluşturulur.",
-       "sayfa": 158
+       "dogru": 0,
+       "bilgi": "Doğurganlığı düşük ve nüfusu yaşlanan ülkeler nüfus artış hızını artırma politikası uygular; Japonya, Almanya ve İsveç bunlara örnektir. Pakistan, Afganistan ve Hindistan'da doğum oranları yüksektir; Endonezya nüfusun dağılışını düzenler.",
+       "sayfa": 160
       },
       {
        "id": "4.1.4-02",
-       "tur": "bosluk",
-       "cumle": "Bir ülkede çalışma çağındaki nüfus oranının bağımlı nüfus (çocuk ve yaşlı) oranından yüksek olduğu döneme demografik ___ denir.",
-       "cevap": "fırsat",
-       "celdiriciler": [
-        "dönüşüm",
-        "kriz",
-        "geçiş"
+       "tur": "secmeli",
+       "soru": "Bir ülkede çalışma çağındaki nüfus oranının bağımlı (çocuk ve yaşlı) nüfus oranından yüksek olduğu dönem demografik fırsat penceresi olarak adlandırılır.\nBu dönemden en iyi şekilde yararlanmak isteyen bir ülkenin,",
+       "oncul": [
+        "genç nüfusun eğitim ve mesleki niteliğini artırması",
+        "istihdam olanaklarını genişletmesi",
+        "ileride artacak yaşlı nüfus için sosyal güvenlik sistemini güçlendirmesi"
        ],
-       "bilgi": "Demografik fırsat döneminde çalışma çağındaki nüfus, bağımlı nüfusa göre daha fazladır.",
+       "kok": "uygulamalarından hangilerini yapması beklenir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Fırsat penceresi döneminde kalabalık genç nüfus nitelikli iş gücüne dönüştürülüp istihdam edilirse ekonomi büyür. Bu dönemin ardından yaşlı nüfus artacağından sosyal güvenlik sisteminin önceden güçlendirilmesi gerekir.",
        "sayfa": 158
       },
       {
        "id": "4.1.4-03",
        "tur": "secmeli",
-       "soru": "Aşağıdaki ülkelerden hangisi nüfus artış hızını artırmaya yönelik politika uygulayan gelişmiş ülkelere örnektir?",
+       "soru": "Aşağıdaki ülke – uyguladığı nüfus politikası eşleştirmelerinden hangisi yanlıştır?",
        "secenekler": [
-        "Pakistan",
-        "Afganistan",
-        "Japonya",
-        "Hindistan"
+        "Japonya – Nüfus artış hızını artırma",
+        "Katar – Göç alma",
+        "Endonezya – Nüfusun ülke içindeki dağılışını düzenleme",
+        "Kanada – Göç alma",
+        "İsveç – Nüfus artış hızını azaltma"
        ],
-       "dogru": 2,
-       "bilgi": "Almanya, Japonya ve İsveç gibi ülkeler yaşlanan nüfus ve iş gücü açığı nedeniyle nüfus artış hızını artırmaya çalışır.",
+       "dogru": 4,
+       "bilgi": "İsveç, Almanya ve Japonya gibi nüfusu yaşlanan ülkeler artış hızını artırmaya çalışır. Katar, Kanada, ABD ve Avustralya göç alma; Endonezya, Norveç ve Kanada nüfusun dağılışını düzenleme politikası uygular.",
        "sayfa": 160
       },
       {
        "id": "4.1.4-04",
-       "tur": "dy",
-       "ifade": "Nüfus artış hızını azaltma politikası; konut açığı, işsizlik ve çarpık kentleşme gibi sorunların önüne geçmeyi amaçlar.",
-       "dogru": true,
-       "bilgi": "Afganistan, Pakistan ve Hindistan gibi doğum oranı yüksek ülkelerin nüfus artış hızını azaltmaya yönelik planlama yapması beklenir.",
-       "sayfa": 160
+       "tur": "secmeli",
+       "soru": "Brezilya'da hızlı nüfus artışı ve kırdan kente göç sonucunda büyük kentlerin çevresinde favela adı verilen gecekondu alanları oluşmuştur.\nNüfus artış hızı yüksek olan ülkelerde etkili bir nüfus planlaması yapılmaması hâlinde,",
+       "oncul": [
+        "konut açığı ve çarpık kentleşme",
+        "işsizlik oranının artması",
+        "çalışma çağındaki nüfusun yetersiz kalması"
+       ],
+       "kok": "sorunlarından hangilerinin ortaya çıkması beklenir?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Hızlı nüfus artışı konut açığı, çarpık kentleşme, işsizlik ve eğitim-sağlık hizmetlerinde yetersizlik doğurur; favelalar bunun örneğidir. Çalışma çağındaki nüfusun yetersizliği ise doğum oranı düşük, yaşlanan ülkelerin sorunudur.",
+       "sayfa": 161
       },
       {
        "id": "4.1.4-05",
        "tur": "secmeli",
-       "soru": "Endonezya ve Norveç'te uygulanan nüfus politikası hangisidir?",
+       "soru": "Bir ülke; okuryazarlık oranını yükseltmek, sağlık hizmetlerini yaygınlaştırmak ve mesleki eğitimi güçlendirerek istihdamı artırmak amacıyla yatırımlar yapmaktadır.\nBu ülkenin uyguladığı nüfus politikası aşağıdakilerden hangisidir?",
        "secenekler": [
-        "Nüfusun ülke içindeki dağılışını düzenleme",
-        "Nüfus artış hızını azaltma",
+        "Demografik yapıyı iyileştirme",
         "Nüfus artış hızını artırma",
-        "Göç alma"
+        "Nüfus artış hızını azaltma",
+        "Göç alma",
+        "Nüfusun ülke içindeki dağılışını düzenleme"
        ],
        "dogru": 0,
-       "bilgi": "Kanada, Endonezya, Avustralya, Norveç, Çin ve Hindistan nüfusun ülke içindeki dağılışını düzenleyen politikalar uygular.",
-       "sayfa": 160
-      },
-      {
-       "id": "4.1.4-06",
-       "tur": "secmeli",
-       "soru": "Çalışma çağındaki nüfusu yetersiz, iş gücü ihtiyacı fazla olan ve göç alma politikası uygulayan ülkelere hangisi örnektir?",
-       "secenekler": [
-        "Almanya ve Katar",
-        "Afganistan ve Pakistan",
-        "Etiyopya ve Somali",
-        "Bangladeş ve Uganda"
-       ],
-       "dogru": 0,
-       "bilgi": "Almanya, Katar, ABD, Kanada ve Avustralya göç alma politikası uygulayan ülkelerdir.",
-       "sayfa": 161
-      },
-      {
-       "id": "4.1.4-07",
-       "tur": "bosluk",
-       "cumle": "Brezilya'da hızlı nüfus artışı ve kırdan kente göç sonucu oluşan gecekondu yerleşmelerine ___ denir.",
-       "cevap": "favela",
-       "celdiriciler": [
-        "medina",
-        "banliyö",
-        "kasaba"
-       ],
-       "bilgi": "Favelalar, hızlı nüfus artışı ve kırdan kente göçün Brezilya'daki sonucudur.",
-       "sayfa": 161
-      },
-      {
-       "id": "4.1.4-08",
-       "tur": "secmeli",
-       "soru": "Demografik yapıyı iyileştirme politikasıyla geliştirilmek istenen özellikler arasında hangisi yer alır?",
-       "secenekler": [
-        "Askerî harcamalar ve savunma sanayisi yatırımları",
-        "Okuma yazma oranı ve eğitim seviyesi",
-        "Tarım arazisi miktarı",
-        "Doğal kaynak rezervleri"
-       ],
-       "dogru": 1,
-       "bilgi": "Bu politikayla sağlık hizmetleri, okuryazarlık, eğitim seviyesi ve istihdam durumu iyileştirilmeye çalışılır.",
+       "bilgi": "Nüfusun niteliğini yükseltmeye yönelik bu politika demografik yapıyı iyileştirme politikasıdır; sağlık, okuryazarlık, eğitim düzeyi ve istihdam iyileştirilmeye çalışılır. Nüfusun miktarını değiştirmek hedeflenmez.",
        "sayfa": 161
       }
      ]
@@ -1870,112 +1892,89 @@
      "kartlar": [
       {
        "id": "5.1.1-01",
-       "tur": "eslestir",
-       "yonerge": "Ekonomik faaliyet süreçlerini tanımlarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Üretim",
-         "Mal ve hizmetlerin işlenerek kullanıma hazırlanması"
-        ],
-        [
-         "Dağıtım",
-         "Mal ve hizmetlerin bir yerden başka yere aktarılması"
-        ],
-        [
-         "Tüketim",
-         "Mal ve hizmetlerin tüketiciler tarafından kullanılması"
-        ]
+       "tur": "secmeli",
+       "soru": "Türkiye'de Karabük ve Ereğli'deki demir-çelik fabrikaları, Zonguldak taş kömürü havzasına yakın yerlerde kurulmuştur.\nBu durum, sanayi tesislerinin yer seçiminde aşağıdakilerden hangisinin etkili olduğunu gösterir?",
+       "secenekler": [
+        "Enerji kaynağına yakınlık",
+        "Tüketim pazarına yakınlık",
+        "Elverişli iklim koşulları",
+        "Orman kaynaklarına yakınlık",
+        "Ucuz iş gücü varlığı"
        ],
-       "bilgi": "Ekonomik faaliyetler üretim, dağıtım ve tüketim süreçlerini kapsar.",
-       "sayfa": 174
+       "dogru": 0,
+       "bilgi": "Demir-çelik üretiminde yüksek ısı için büyük miktarda taş kömürü kullanılır; bu nedenle tesisler taş kömürü havzalarına yakın kurulur. Bu durum, enerji kaynaklarının ekonomik faaliyetlerin yer seçimindeki etkisini gösterir.",
+       "sayfa": 175
       },
       {
        "id": "5.1.1-02",
-       "tur": "bosluk",
-       "cumle": "İnsanların hayatlarını sürdürmek, gelir elde etmek ve refah seviyelerini yükseltmek için yaptıkları çalışmalara ___ denir.",
-       "cevap": "ekonomik faaliyet",
-       "celdiriciler": [
-        "beşerî ortam",
-        "sermaye",
-        "lojistik"
+       "tur": "secmeli",
+       "soru": "İklimin ekonomik faaliyetler üzerindeki etkisiyle ilgili aşağıdaki örneklerden",
+       "oncul": [
+        "Antalya'da kışların ılık geçmesi nedeniyle seracılığın gelişmesi",
+        "Akdeniz kıyılarında uzun ve güneşli yazlar nedeniyle deniz turizminin yaygınlaşması",
+        "Çukurova'da pamuk tarımının yaygınlığı nedeniyle Adana'da dokuma fabrikalarının kurulması"
        ],
-       "bilgi": "Ekonomik faaliyet; kaynak girdisi, üretim süreci ve ürün çıktısı (mal veya hizmet) ile karakterize edilir.",
+       "kok": "hangilerinde iklimin etkisi dolaylıdır?",
+       "secenekler": [
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "İklim, tarım ürünlerinin çeşitlenmesini ve turizmi doğrudan etkiler. Sanayi tesisleri ise iklime bağlı olarak yetişen ham maddelere yakın kurulduğundan iklimin sanayi üzerindeki etkisi dolaylıdır.",
        "sayfa": 174
       },
       {
        "id": "5.1.1-03",
        "tur": "secmeli",
-       "soru": "Bir yerde görülen fiziki ve beşerî çevre özelliklerinin ortaya çıkmasında ana etken hangisidir?",
+       "soru": "Aşağıdaki ekonomik faaliyet – faaliyeti doğrudan etkileyen doğal faktör eşleştirmelerinden hangisi yanlıştır?",
        "secenekler": [
-        "Coğrafi konum",
-        "Nüfus miktarı",
-        "Sermaye birikimi",
-        "Teknoloji düzeyi"
+        "Kapadokya'da peribacalarına dayalı turizm – Yer şekilleri",
+        "Pamukkale'de travertenlere dayalı turizm – Yer şekilleri",
+        "Kil yataklarına dayalı kiremit ve tuğla üretimi – Toprak",
+        "Batı Karadeniz'de orman ürünlerine dayalı mobilya üretimi – Bitki örtüsü",
+        "Kars yöresinde çayırlara dayalı hayvancılık – Yer altı kaynakları"
        ],
-       "dogru": 0,
-       "bilgi": "Büyük ticaret yollarının kavşağında bulunan Türkiye gibi ülkeler uluslararası ticarette avantajlıdır.",
-       "sayfa": 174
+       "dogru": 4,
+       "bilgi": "Kars ve Erzurum yöresindeki büyükbaş hayvancılık, yaz yağışlarıyla gelişen çayırlara yani bitki örtüsüne bağlıdır. Peribacası ve traverten turizmi yer şekillerine, kiremit-tuğla üretimi toprağa, mobilya üretimi ormanlara dayanır.",
+       "sayfa": 175
       },
       {
        "id": "5.1.1-04",
        "tur": "secmeli",
-       "soru": "İklimin aşağıdakilerden hangisi üzerindeki etkisi dolaylıdır?",
+       "soru": "Doğu Karadeniz'de dağlar kıyıya paralel ve kıyıya çok yakın uzanır; kıyı ile iç kesimler arasındaki geçitlerin sayısı azdır.\nBu durumun bölgede doğrudan zorlaştırdığı ekonomik faaliyet aşağıdakilerden hangisidir?",
        "secenekler": [
-        "Tarım ürünlerinin çeşitlenmesi",
-        "Turizm faaliyetlerinin çeşitlenmesi",
-        "Bazı sanayi kollarının yer seçimi"
+        "Limanların iç kesimlerle bağlantı kurması",
+        "Dik yamaçlarda çay tarımının yapılması",
+        "Ormanlardan kereste elde edilmesi",
+        "Yaz aylarında yaylalarda hayvancılık yapılması",
+        "Kıyı kuşağında fındık bahçelerinin kurulması"
        ],
-       "dogru": 2,
-       "bilgi": "İklim; tarım ürünleri ve turizmin çeşitlenmesinde doğrudan, bazı sanayi kollarının yer seçiminde dolaylı etkilidir.",
-       "sayfa": 174
+       "dogru": 0,
+       "bilgi": "Kıyıya paralel uzanan yüksek dağlar ve az sayıdaki geçit, kıyı ile iç kesimler arasındaki ulaşımı güçleştirir; bu da limanların gerisindeki etki alanını daraltır. Yer şekilleri ulaşım güzergâhlarını ve liman yerlerini doğrudan etkiler.",
+       "sayfa": 175
       },
       {
        "id": "5.1.1-05",
        "tur": "secmeli",
-       "soru": "Demir-çelik tesislerinin genellikle hangi kaynağın çıkarıldığı alanların yakınına kurulduğu görülür?",
+       "soru": "Bir bölgede yaz yağışlarıyla gelişen geniş çayır ve otlaklar ile kerestelik ağaçlardan oluşan ormanlar yaygındır; düz tarım alanları ise sınırlıdır.\nBu bölgede bitki örtüsüne bağlı olarak,",
+       "oncul": [
+        "büyükbaş hayvancılık",
+        "kâğıt ve mobilya üretimi",
+        "pamuk tarımı"
+       ],
+       "kok": "ekonomik faaliyetlerinden hangilerinin gelişmesi beklenir?",
        "secenekler": [
-        "Bor",
-        "Taş kömürü",
-        "Mermer",
-        "Tuz"
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
        ],
-       "dogru": 1,
-       "bilgi": "Demir-çelik tesislerinin taş kömürü alanlarına yakın kurulması, enerji kaynaklarına yakınlığın önemini gösterir.",
-       "sayfa": 175
-      },
-      {
-       "id": "5.1.1-06",
-       "tur": "dy",
-       "ifade": "Toprak, yalnızca tarım faaliyetlerinde kullanılan bir doğal kaynaktır.",
-       "dogru": false,
-       "bilgi": "Toprak tarımın temelidir; ayrıca porselen, kiremit ve tuğla gibi sanayi ürünlerinde ham madde olarak kullanılır.",
-       "sayfa": 175
-      },
-      {
-       "id": "5.1.1-07",
-       "tur": "bosluk",
-       "cumle": "Peribacası, traverten, şelale ve mağara gibi ilgi çekici yeryüzü şekilleri ___ faaliyetlerinin gelişimine imkân sağlar.",
-       "cevap": "turizm",
-       "celdiriciler": [
-        "madencilik",
-        "ormancılık",
-        "balıkçılık"
-       ],
-       "bilgi": "Topoğrafik özellikler tarım arazileri, ulaşım güzergâhları, liman ve havalimanlarının yerini de etkiler.",
-       "sayfa": 175
-      },
-      {
-       "id": "5.1.1-08",
-       "tur": "secmeli",
-       "soru": "Bir yerin bitki örtüsü doğrudan hangi ekonomik faaliyet üzerinde etkilidir?",
-       "secenekler": [
-        "Bankacılık",
-        "Madencilik",
-        "Deniz ulaşımı",
-        "Hayvancılık"
-       ],
-       "dogru": 3,
-       "bilgi": "Bitki örtüsü hayvancılığı etkiler; bazı bitkiler kereste, kâğıt ve mobilya üretiminde ham madde olur.",
+       "dogru": 2,
+       "bilgi": "Bitki örtüsü hayvancılığı doğrudan etkiler; çayır ve otlaklar büyükbaş hayvancılığa elverişlidir. Bazı bitkiler kereste, kâğıt ve mobilya üretiminde ham madde olur. Pamuk ise sıcak, güneşli ve düz tarım alanlarında yetişir.",
        "sayfa": 175
       }
      ]
@@ -1987,103 +1986,114 @@
       {
        "id": "5.1.2-01",
        "tur": "secmeli",
-       "soru": "Japonya, ABD ve Almanya gibi ülkelerin üretimlerinin bir kısmını Pakistan, Hindistan ve Bangladeş'te yapmasının temel nedeni nedir?",
-       "secenekler": [
-        "Bu ülkelerin ham madde ihracatçısı olması",
-        "İş gücü maliyetlerinin düşük olması",
-        "Teknoloji düzeyinin yüksek olması",
-        "Pazara uzak olmaları"
+       "soru": "Merkezi Japonya'da bulunan bir otomotiv şirketi, araştırma-geliştirme birimlerini kendi ülkesinde tutarken montaj fabrikalarını iş gücünün ucuz olduğu Güney Asya ülkelerinde kurmuştur.\nBu durumla ilgili,",
+       "oncul": [
+        "Şirketin üretimi tek bir ülkede gerçekleştirilmektedir.",
+        "Fabrikaların yer seçiminde iş gücü maliyeti etkili olmuştur.",
+        "Teknoloji ve sermaye bakımından güçlü ülkeler, iş gücü maliyeti düşük ülkelerde üretim yapabilmektedir."
        ],
-       "dogru": 1,
-       "bilgi": "Yoğun makineleşmeye rağmen iş gücünün varlığı ve maliyeti ekonomik faaliyetlerde önemini korumaktadır.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Üretimini birden fazla ülkede yürüten çok uluslu şirketler, maliyetleri düşürmek için emek yoğun aşamaları iş gücünün ucuz olduğu ülkelere taşır. Bu durum sermaye hareketliliğini ve ticareti artırır.",
        "sayfa": 177
       },
       {
        "id": "5.1.2-02",
-       "tur": "bosluk",
-       "cumle": "Bir işin kurulması ve yürütülmesi için gereken anapara veya paraya çevrilebilir malların tamamına ___ denir.",
-       "cevap": "sermaye",
-       "celdiriciler": [
-        "iş gücü",
-        "ham madde",
-        "teknoloji"
+       "tur": "secmeli",
+       "soru": "Sanayi devrimleriyle ortaya çıkan aşağıdaki üretim biçimleri,",
+       "oncul": [
+        "Elektrikle çalışan seri üretim",
+        "Birbirine bağlı dijital teknolojilerle üretim",
+        "Buhar gücüyle çalışan mekanik üretim",
+        "Elektronik tabanlı otomatik üretim"
        ],
-       "bilgi": "Sermaye tesislerin kuruluşu, devamlılığı ve gelişmesinde etkindir; yeterli sermayeli ülkelerde ekonomik faaliyetler yoğunlaşır.",
-       "sayfa": 229
+       "kok": "ortaya çıkış sırasına göre dizildiğinde hangi sıralama doğru olur?",
+       "secenekler": [
+        "I - III - IV - II",
+        "III - I - II - IV",
+        "III - I - IV - II",
+        "III - IV - I - II",
+        "IV - III - I - II"
+       ],
+       "dogru": 2,
+       "bilgi": "Birinci Sanayi Devrimi (1700'lerin sonu) buhar gücüyle mekanik üretimi, ikincisi elektrikle seri üretimi, üçüncüsü elektronik ve bilgisayarla otomasyonu, dördüncüsü birbirine bağlı dijital teknolojilerle üretimi getirmiştir.",
+       "sayfa": 178
       },
       {
        "id": "5.1.2-03",
-       "tur": "dy",
-       "ifade": "Gelişmekte olan ülkelere yabancı sermaye girişi, o ülkedeki siyasi ve hukuki istikrardan bağımsız olarak gerçekleşir.",
-       "dogru": false,
-       "bilgi": "Yabancı sermaye girişi, ekonomik, hukuki ve siyasal istikrar sağlandığı ölçüde gerçekleşebilir.",
-       "sayfa": 177
+       "tur": "secmeli",
+       "soru": "Japonya, sanayi ham maddeleri bakımından fakir olmasına rağmen dünyanın en gelişmiş sanayi ülkelerinden biridir.\nAşağıdakilerden hangisi bu durumu açıklayan etkenlerden biri değildir?",
+       "secenekler": [
+        "İleri teknolojinin üretimde etkin kullanılması",
+        "Nitelikli iş gücüne sahip olunması",
+        "Yeterli sermaye birikiminin bulunması",
+        "Deniz ulaşımına elverişli limanlara sahip olunması",
+        "Sanayi ham maddelerinin ülke içinden sağlanması"
+       ],
+       "dogru": 4,
+       "bilgi": "Japonya ham maddesini büyük ölçüde ithal eder. Sanayisinin gelişmesinde teknoloji, nitelikli iş gücü, sermaye ve ham madde ithalatı ile ürün ihracatını kolaylaştıran büyük limanlar etkilidir.",
+       "sayfa": 178
       },
       {
        "id": "5.1.2-04",
        "tur": "secmeli",
-       "soru": "Sanayi üretiminde yeterli ham maddesi olmamasına rağmen yüksek teknoloji sayesinde sanayisi gelişen ülke hangisidir?",
-       "secenekler": [
-        "Pakistan",
-        "Bangladeş",
-        "Etiyopya",
-        "Japonya"
-       ],
-       "dogru": 3,
-       "bilgi": "Teknolojiyi tarım, sanayi ve hizmet sektörlerinde etkin kullanan ülkeler gelişmişlik düzeylerini yükseltmiştir.",
-       "sayfa": 178
-      },
-      {
-       "id": "5.1.2-05",
-       "tur": "eslestir",
-       "yonerge": "Sanayi devrimlerini üretim biçimleriyle eşleştir.",
-       "ciftler": [
+       "soru": "Emek yoğun bir hazır giyim fabrikası kurmak isteyen yabancı bir şirket, beş ülkeye ait bazı özellikleri karşılaştırmaktadır.\nBu şirketin yatırım için seçmesi en uygun olan ülke hangisidir?",
+       "tablo": [
         [
-         "Birinci Sanayi Devrimi",
-         "Buhar gücüyle çalışan mekanik üretim"
+         "Ülke",
+         "İş gücü maliyeti",
+         "Siyasi ve hukuki istikrar",
+         "Pazara uzaklık"
         ],
         [
-         "İkinci Sanayi Devrimi",
-         "Elektrikle çalışan seri üretim"
+         "K",
+         "Düşük",
+         "Yüksek",
+         "Yakın"
         ],
         [
-         "Üçüncü Sanayi Devrimi",
-         "Elektronik tabanlı otomatik üretim"
+         "L",
+         "Düşük",
+         "Düşük",
+         "Yakın"
         ],
         [
-         "Dördüncü Sanayi Devrimi",
-         "Birbirine bağlı dijital teknolojilerle üretim"
+         "M",
+         "Yüksek",
+         "Yüksek",
+         "Yakın"
+        ],
+        [
+         "N",
+         "Yüksek",
+         "Düşük",
+         "Uzak"
+        ],
+        [
+         "P",
+         "Orta",
+         "Yüksek",
+         "Uzak"
         ]
        ],
-       "bilgi": "Dört sanayi devrimiyle üretim maliyetleri düşmüş, hız ve kalite artmıştır; ilki 1700'lerin sonunda başlamıştır.",
-       "sayfa": 178
-      },
-      {
-       "id": "5.1.2-06",
-       "tur": "bosluk",
-       "cumle": "Çeşitli ulusların katılımıyla oluşturulan ve üretimini birden fazla ülkede yürütebilen şirketlere ___ şirket denir.",
-       "cevap": "çok uluslu",
-       "celdiriciler": [
-        "kamu",
-        "yerel",
-        "aile"
-       ],
-       "bilgi": "Çok uluslu şirketler sayesinde maliyetler düşmekte, sermaye hareketliliği yaşanmakta ve ticaret canlanmaktadır.",
-       "sayfa": 177
-      },
-      {
-       "id": "5.1.2-07",
-       "tur": "secmeli",
-       "soru": "Büyük ve işlek limanlara sahip ülkelerle ilgili hangisi söylenebilir?",
        "secenekler": [
-        "Ekonomileri genellikle tarım ve hayvancılığa dayanır",
-        "Nüfusları seyrektir",
-        "Aynı zamanda büyük sanayi veya ticaret tesislerine sahiptir",
-        "Turizm faaliyetleri gelişmemiştir"
+        "K",
+        "L",
+        "M",
+        "N",
+        "P"
        ],
-       "dogru": 2,
-       "bilgi": "Ulaşım; ham maddenin fabrikalara, ürünlerin pazarlara ulaşmasını sağladığından ekonomik faaliyetleri doğrudan etkiler.",
-       "sayfa": 178
+       "sirali": true,
+       "dogru": 0,
+       "bilgi": "Emek yoğun üretimde iş gücü maliyetinin düşük olması önemlidir. Yabancı sermaye ise ekonomik, hukuki ve siyasi istikrarın sağlandığı ülkelere yönelir. Bu koşulları pazara yakınlıkla birlikte en iyi K karşılar; L'de istikrar düşüktür.",
+       "sayfa": 177
       }
      ]
     }
@@ -2099,103 +2109,68 @@
      "kartlar": [
       {
        "id": "6.1.1-01",
-       "tur": "bosluk",
-       "cumle": "Türkiye nüfusunun yaklaşık yüzde ___ kadarı deprem riskinin yüksek olduğu alanlarda yaşamaktadır.",
-       "cevap": "75",
-       "celdiriciler": [
-        "25",
-        "50",
-        "90"
+       "tur": "secmeli",
+       "soru": "Benzer büyüklükteki iki deprem, K ve L ülkelerinde nüfusun yoğun olduğu alanlarda meydana gelmiştir. Depreme dayanıklı yapıların yaygın olduğu ve erken uyarı sistemlerinin bulunduğu K'de can kaybı az olurken yapı denetiminin yetersiz olduğu L'de binlerce kişi hayatını kaybetmiştir.\nBu durum aşağıdakilerden hangisini en iyi açıklar?",
+       "secenekler": [
+        "Afetin boyutunu toplumun hazırlık ve gelişmişlik düzeyi etkiler.",
+        "Depremlerin büyüklüğü arttıkça can kaybı her durumda aynı oranda artar.",
+        "Nüfus yoğunluğu, depremlerin etkisini belirleyen tek etkendir.",
+        "Deprem tehlikesi yalnızca az gelişmiş ülkelerde bulunur.",
+        "Erken uyarı sistemleri depremlerin oluşmasını engeller."
        ],
-       "bilgi": "Aktif fay hatlarının geçtiği bölgelerde depreme dirençli olmayan yerleşimler afet riskini artırır.",
-       "sayfa": 190
+       "dogru": 0,
+       "bilgi": "Aynı büyüklükteki doğa olayı, dayanıklı yapıların ve erken uyarı sistemlerinin bulunduğu yerde daha az kayba yol açar. Ekstrem doğa olaylarının etkisi, gelişmişlik seviyesine ve nüfus yoğunluğuna göre farklılık gösterir.",
+       "sayfa": 191
       },
       {
        "id": "6.1.1-02",
        "tur": "secmeli",
-       "soru": "Doğanın akışı içinde gerçekleşen bir olayın aşırı veya sıra dışı şekilde meydana gelmesine ne ad verilir?",
-       "secenekler": [
-        "Maruziyet",
-        "Ekstrem doğa olayı",
-        "Risk",
-        "Tehlike analizi"
+       "soru": "Aşırı yağışlarda taşma potansiyeli olan bir akarsuyun vadi tabanında konutlar ve bir okul bulunmaktadır.\nBu durumla ilgili,",
+       "oncul": [
+        "Akarsuyun taşma potansiyeli taşıması bir tehlikedir.",
+        "Vadi tabanındaki yapıların varlığı maruziyeti artırır.",
+        "Taşkın gerçekleşmeden de bu alan için risk söz konusudur."
        ],
-       "dogru": 1,
-       "bilgi": "Ekstrem doğa olaylarının etkisi, bölgenin gelişmişlik seviyesi ve nüfus yoğunluğuna göre farklılık gösterir.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Can ve mala zarar verme potansiyeli taşıyan olay tehlike, insan ve yapıların bu tehlikeye açık olması maruziyettir. Risk, olayın gerçekleşme ihtimali ile doğurabileceği kayıp olasılığıdır; olay yaşanmadan da vardır.",
        "sayfa": 191
       },
       {
        "id": "6.1.1-03",
        "tur": "secmeli",
-       "soru": "Bugüne kadar ölçülebilen en büyük yer sarsıntısı olan 9,5 büyüklüğündeki deprem nerede meydana gelmiştir?",
+       "soru": "Aşırı yağışlarla taşma potansiyeli bulunan bir akarsuyun çevresinde aşağıdaki uygulamalardan hangisi sel ve taşkın riskini azaltmaz?",
        "secenekler": [
-        "Şili",
-        "Japonya",
-        "Endonezya",
-        "Türkiye"
+        "Akarsu yatağının yapılaşma amacıyla daraltılması",
+        "Havzada ağaçlandırma çalışmaları yapılması",
+        "Taşkın alanlarının yerleşime kapatılması",
+        "Köprülerin geniş açıklıklı olarak inşa edilmesi",
+        "Erken uyarı sistemi ve tahliye planı hazırlanması"
        ],
        "dogru": 0,
-       "bilgi": "1960 Şili depremi ekstrem doğa olayına örnek gösterilir.",
+       "bilgi": "Yatağın daraltılması suyun taşma olasılığını artırır. Ağaçlandırma yüzeysel akışı yavaşlatır; taşkın alanlarının yerleşime kapatılması ve tahliye planları maruziyeti, geniş köprü açıklıkları tıkanma riskini azaltır.",
        "sayfa": 191
       },
       {
        "id": "6.1.1-04",
-       "tur": "eslestir",
-       "yonerge": "Afetle ilgili kavramları açıklamalarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Tehlike",
-         "Can, mal ve çevreyi olumsuz etkileme potansiyeli olan olay"
-        ],
-        [
-         "Risk",
-         "Bir olayın gerçekleşme ihtimali ve doğurabileceği kayıp olasılığı"
-        ],
-        [
-         "Afet",
-         "Olağan hayatı bozan ve dış yardım gerektiren olay"
-        ],
-        [
-         "Maruziyet",
-         "İnsan ve yapıların potansiyel kayıp tehdidi altında bulunması"
-        ]
-       ],
-       "bilgi": "Afetler; tehlike, maruziyet ve risk kavramlarıyla doğrudan ilişkilidir.",
-       "sayfa": 191
-      },
-      {
-       "id": "6.1.1-05",
-       "tur": "dy",
-       "ifade": "Ekstrem doğa olaylarının beşerî unsurlar üzerindeki etkileri, bölgenin gelişmişlik seviyesinden ve nüfus yoğunluğundan bağımsızdır.",
-       "dogru": false,
-       "bilgi": "Ekstrem doğa olaylarının etkileri, meydana geldiği yerin gelişmişlik seviyesi ve nüfus yoğunluğuna göre değişir.",
-       "sayfa": 191
-      },
-      {
-       "id": "6.1.1-06",
        "tur": "secmeli",
-       "soru": "Aşırı yağışla taşma potansiyeli taşıyan bir akarsu çevresinde aşağıdakilerden hangisi sel riskini artırır?",
+       "soru": "17 Ağustos 1999'da Kuzey Anadolu Fay Sistemi üzerinde meydana gelen Gölcük merkezli 7,4 büyüklüğündeki deprem, sanayi kuruluşlarının ve nüfusun yoğun olduğu Marmara Bölgesi'nde büyük can ve mal kaybına yol açmıştır.\nKaybın büyük olmasında aşağıdakilerden hangisinin etkisi en fazladır?",
        "secenekler": [
-        "Ağaçlandırma yapılması",
-        "Tahliye planı hazırlanması",
-        "Akarsu yatağının daraltılması",
-        "Yapıların sele dirençli inşa edilmesi"
+        "Tehlikeye maruz kalan nüfus ve yapı sayısının fazla olması",
+        "Depremin bugüne kadar dünyada ölçülen en büyük deprem olması",
+        "Depremin açık okyanus tabanında, kıyıdan uzakta oluşması",
+        "Depremi oluşturan fay hattının bölgeden çok uzakta bulunması",
+        "Deprem bölgesinde nüfusun seyrek ve dağınık yerleşmiş olması"
        ],
-       "dogru": 2,
-       "bilgi": "Vadi tabanının yerleşime açılması, yatağın daraltılması ve tahliye planı olmaması sel riskini artırır.",
-       "sayfa": 191
-      },
-      {
-       "id": "6.1.1-07",
-       "tur": "bosluk",
-       "cumle": "17 Ağustos 1999 Gölcük merkezli 7,4 büyüklüğündeki deprem, ___ Fay Sistemi'nde meydana gelmiştir.",
-       "cevap": "Kuzey Anadolu",
-       "celdiriciler": [
-        "Doğu Anadolu",
-        "Batı Anadolu",
-        "Ölü Deniz"
-       ],
-       "bilgi": "Gölcük depremi, sanayi ve nüfusun yoğun olduğu bir bölgede yaşandığı için can ve mal kaybı büyük olmuştur.",
+       "dogru": 0,
+       "bilgi": "Sanayi ve nüfusun yoğun olduğu bölgede maruziyet yüksek olduğundan kayıplar büyük olmuştur. Bilinen en büyük deprem ise 1960'ta Şili'de meydana gelen 9,5 büyüklüğündeki depremdir.",
        "sayfa": 192
       }
      ]
@@ -2206,137 +2181,110 @@
      "kartlar": [
       {
        "id": "6.1.2-01",
-       "tur": "bosluk",
-       "cumle": "Afetler sınıflandırılırken başta ___ olmak üzere oluşum hızı ve etki alanı dikkate alınır.",
-       "cevap": "oluşum nedeni",
-       "celdiriciler": [
-        "can kaybı",
-        "mevsim",
-        "nüfus yoğunluğu"
+       "tur": "secmeli",
+       "soru": "Aşağıdaki afet – afet türü eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "Deprem – Jeolojik afet",
+        "Kuraklık – Klimatik-hidrolojik afet",
+        "Salgın hastalık – Biyolojik afet",
+        "Savaş – Sosyal afet",
+        "Terör saldırısı – Teknolojik afet"
        ],
-       "bilgi": "Afetler oluşum nedenlerine göre doğa kaynaklı ve insan kaynaklı olarak ikiye ayrılır.",
-       "sayfa": 194
+       "dogru": 4,
+       "bilgi": "Savaş, terör saldırıları ve göçler sosyal afetlerdir. Teknolojik afetler; maden, nükleer santral ve ulaşım kazaları gibi teknolojinin amaç dışı kullanımından kaynaklanır. Jeolojik, klimatik-hidrolojik ve biyolojik afetler doğa kaynaklıdır.",
+       "sayfa": 196
       },
       {
        "id": "6.1.2-02",
-       "tur": "eslestir",
-       "yonerge": "Afet türlerini örnekleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Jeolojik afet",
-         "Deprem"
-        ],
-        [
-         "Klimatik-hidrolojik afet",
-         "Kuraklık"
-        ],
-        [
-         "Biyolojik afet",
-         "Salgın"
-        ],
-        [
-         "Sosyal afet",
-         "Savaş"
-        ],
-        [
-         "Teknolojik afet",
-         "Maden kazası"
-        ]
+       "tur": "secmeli",
+       "soru": "Aşağıdaki olaylardan",
+       "oncul": [
+        "Bir maden ocağında meydana gelen grizu patlaması",
+        "Savaş nedeniyle yaşanan zorunlu göç",
+        "Sağanak yağışların ardından yaşanan taşkın"
        ],
-       "bilgi": "Jeolojik, klimatik-hidrolojik ve biyolojik afetler doğa kaynaklı; sosyal ve teknolojik afetler insan kaynaklıdır.",
+       "kok": "hangileri doğa kaynaklı afetlere örnektir?",
+       "secenekler": [
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Taşkın klimatik-hidrolojik, dolayısıyla doğa kaynaklı bir afettir. Maden kazaları teknolojik, savaş ve göçler sosyal afetlerdir; ikisi de insan kaynaklıdır.",
        "sayfa": 196
       },
       {
        "id": "6.1.2-03",
-       "tur": "dy",
-       "ifade": "Teknolojik afetler, beşerî faaliyetler ve teknolojik gelişmelerin amaç dışı kullanımından kaynaklanır.",
-       "dogru": true,
-       "bilgi": "Maden kazaları, nükleer santral kazaları ve ulaşım kazaları teknolojik afetlere örnektir.",
-       "sayfa": 196
+       "tur": "secmeli",
+       "soru": "6 Şubat 2023'te Kahramanmaraş'ın Pazarcık (7,7) ve Elbistan (7,6) ilçeleri merkezli iki büyük deprem meydana gelmiş, 11 ilde ağır yıkıma yol açmıştır.\nBu depremlerle ilgili,",
+       "oncul": [
+        "Kuzey Anadolu Fay Zonu üzerinde meydana gelmiştir.",
+        "Jeolojik afetlere örnektir.",
+        "Oluşum hızı bakımından ani gelişen afetlerdendir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Kahramanmaraş depremleri Doğu Anadolu Fay Zonu üzerinde oluşmuştur. Depremler ani gelişen jeolojik afetlerdir. Türkiye'nin Akdeniz-Himalaya deprem kuşağında yer alması büyük depremlerin sık yaşanmasının nedenidir.",
+       "sayfa": 198
       },
       {
        "id": "6.1.2-04",
-       "tur": "dy",
-       "ifade": "Göçler ve terör saldırıları teknolojik afetlere örnek gösterilir.",
-       "dogru": false,
-       "bilgi": "Savaşlar, terör saldırıları ve göçler sosyal afetlere örnektir.",
-       "sayfa": 196
+       "tur": "secmeli",
+       "soru": "Ağustos 2020'de Giresun'un Dereli ilçesinde aşırı yağışlardan sonra yaşanan selde, dere yatağının daraltılarak yerleşime açılması ve dar menfezli köprülerin selin sürüklediği kaya ve ağaçlarla tıkanması kayıpları artırmıştır.\nBu bilgiler ve Türkiye'deki sel ve taşkınlarla ilgili,",
+       "oncul": [
+        "Türkiye'de en sık görülen ve en çok zarara yol açan afetlerin başında gelir.",
+        "Yalnızca Karadeniz kıyılarında görülür.",
+        "Akarsu yataklarına yakın yerleşmelerde daha sık yaşanır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Sel ve taşkınlar dünyada olduğu gibi Türkiye'de de en sık görülen ve en çok zarara yol açan afetlerdendir; ülkenin hemen her yerinde görülebilir. Akarsu yataklarına yakın ve yatağı daraltılmış alanlarda risk daha yüksektir.",
+       "sayfa": 199
       },
       {
        "id": "6.1.2-05",
        "tur": "secmeli",
-       "soru": "6 Şubat 2023 Kahramanmaraş depremleri hangi ilçeler merkezli meydana gelmiştir?",
+       "soru": "Türkiye'de eğimli arazilerin fazla olması, bitki örtüsünün tahrip edilmesi ve yanlış arazi kullanımı nedeniyle erozyon şiddetli biçimde yaşanmakta, taşınan topraklar baraj göllerini doldurmaktadır.\nAşağıdakilerden hangisi erozyonu azaltmaya yönelik bir uygulama değildir?",
        "secenekler": [
-        "Gölcük ve Düzce",
-        "Erciş ve Edremit",
-        "Pazarcık ve Elbistan",
-        "Dinar ve Şirvan"
+        "Eğimli yamaçlarda taraçalama (seki) yapılması",
+        "Meralarda otlatmanın düzenlenmesi",
+        "Çıplak yamaçların ağaçlandırılması",
+        "Tarlaların eğime dik yönde sürülmesi",
+        "Tarlaların eğim yönünde sürülmesi"
        ],
-       "dogru": 2,
-       "bilgi": "İlki 7,7 büyüklüğünde Pazarcık, ikincisi 7,6 büyüklüğünde Elbistan merkezli olan depremler Türkiye tarihinin en yıkıcılarıdır.",
-       "sayfa": 198
-      },
-      {
-       "id": "6.1.2-06",
-       "tur": "bosluk",
-       "cumle": "Türkiye, ___ Deprem Kuşağı'nda yer aldığından ülkenin hemen her bölgesinde çok sayıda fay hattı bulunur.",
-       "cevap": "Akdeniz-Himalaya",
-       "celdiriciler": [
-        "Pasifik",
-        "Atlas Okyanusu",
-        "Doğu Afrika"
-       ],
-       "bilgi": "Türkiye'de geniş çaplı can ve mal kaybına yol açan büyük depremler sık aralıklarla meydana gelmektedir.",
-       "sayfa": 198
-      },
-      {
-       "id": "6.1.2-07",
-       "tur": "secmeli",
-       "soru": "Dünyada olduğu gibi Türkiye'de de en sık görülen ve en çok zarara yol açan afetlerin başında hangisi gelir?",
-       "secenekler": [
-        "Volkanik patlamalar",
-        "Sel ve taşkınlar",
-        "Tsunamiler",
-        "Çığlar"
-       ],
-       "dogru": 1,
-       "bilgi": "Sel ve taşkınlar Türkiye'nin hemen her yerinde görülebilir; akarsu yataklarına yakın yerleşmelerde daha sıktır.",
-       "sayfa": 199
-      },
-      {
-       "id": "6.1.2-08",
-       "tur": "secmeli",
-       "soru": "2020 Giresun Dereli selinde taşkının afete dönüşmesinde asıl belirleyici faktör neydi?",
-       "secenekler": [
-        "Dere yatağının daraltılarak yerleşime açılması",
-        "Yukarı havzadaki bir barajın aniden yıkılması",
-        "Deprem sonrası heyelan oluşması",
-        "Kar örtüsünün ani erimesi"
-       ],
-       "dogru": 0,
-       "bilgi": "Dereli selinde dar menfezli köprülerin selin getirdiği bloklar ve ağaçlarla tıkanması da etkili olmuştur.",
-       "sayfa": 199
-      },
-      {
-       "id": "6.1.2-09",
-       "tur": "secmeli",
-       "soru": "Türkiye'de şiddetli erozyonun yol açtığı sonuçlardan biri hangisidir?",
-       "secenekler": [
-        "Baraj göllerinin derinleşmesi",
-        "Barajların kullanım ömrünün kısalması",
-        "Toprak örtüsünün kalınlaşması",
-        "Yer altı sularının artması"
-       ],
-       "dogru": 1,
-       "bilgi": "Erozyonla taşınan topraklar baraj göllerini doldurur; ülke topraklarının bir bölümü çölleşme riskiyle karşı karşıyadır.",
+       "dogru": 4,
+       "bilgi": "Eğim yönünde yapılan sürüm, yağış sularının toprağı kolayca taşımasına yol açar. Erozyonla baraj gölleri dolar ve barajların ömrü kısalır, toprak verimi düşer, çölleşme riski artar.",
        "sayfa": 200
       },
       {
-       "id": "6.1.2-10",
-       "tur": "dy",
-       "ifade": "Türkiye'nin pek çok ülkenin geçiş güzergâhında bulunması, tarih boyunca salgın hastalık görülme olasılığını azaltmıştır.",
-       "dogru": false,
-       "bilgi": "Geçiş güzergâhında olması insan hareketliliğini artırmış; Türkiye'de çiçek, cüzzam, verem gibi salgınlar görülmüştür.",
+       "id": "6.1.2-06",
+       "tur": "secmeli",
+       "soru": "Türkiye'de tarih boyunca çiçek, cüzzam ve verem gibi salgın hastalıklar görülmüş, bu hastalıklar zaman zaman geniş alanlara yayılmıştır.\nBu durumda aşağıdakilerden hangisinin etkili olduğu söylenebilir?",
+       "secenekler": [
+        "Geçiş güzergâhında olmanın insan hareketliliğini artırması",
+        "Mutlak konumu nedeniyle tropikal iklim özelliklerinin görülmesi",
+        "Dağların kıyıya paralel uzanarak iç kesimleri kapatması",
+        "Akdeniz-Himalaya deprem kuşağı üzerinde bulunması",
+        "Nüfusun tarih boyunca seyrek ve dağınık yerleşmiş olması"
+       ],
+       "dogru": 0,
+       "bilgi": "Türkiye'nin pek çok ülkenin geçiş güzergâhında bulunması ticaret, göç ve savaşlarla insan hareketliliğini artırmış; bu da salgın hastalıkların yayılmasını kolaylaştırmıştır. Salgınlar biyolojik afetlerdendir.",
        "sayfa": 200
       }
      ]
@@ -2348,122 +2296,90 @@
       {
        "id": "6.1.3-01",
        "tur": "secmeli",
-       "soru": "Bütüncül afet yönetiminde afet öncesinde yürütülen risk yönetimi hangi aşamaları kapsar?",
+       "soru": "Bütüncül afet yönetiminde yapılan aşağıdaki çalışmalar,",
+       "oncul": [
+        "Deprem sonrası arama kurtarma yapılması ve çadır kent kurulması",
+        "Acil eylem planının hazırlanması ve tahliye tatbikatı yapılması",
+        "Kalıcı konutların inşa edilerek ekonomik hayatın canlandırılması",
+        "Fay hatlarının haritalanarak imar planlarının buna göre düzenlenmesi"
+       ],
+       "kok": "afet yönetimi döngüsündeki aşamaların sırasına göre dizildiğinde hangi sıralama doğru olur?",
        "secenekler": [
-        "Müdahale ve iyileştirme",
-        "Risk ve zarar azaltma ile hazırlıklı olma",
-        "Hazırlıklı olma ile müdahale ve arama kurtarma",
-        "İyileştirme ve yeniden yapılanma"
+        "II - IV - I - III",
+        "IV - II - I - III",
+        "IV - II - III - I",
+        "IV - III - I - II",
+        "IV - III - II - I"
        ],
        "dogru": 1,
-       "bilgi": "Risk yönetimi afet öncesini (risk azaltma, hazırlık), kriz yönetimi afet esnası ve sonrasını (müdahale, iyileştirme) kapsar.",
+       "bilgi": "Döngü risk ve zarar azaltma (tehlike haritaları, imar düzenlemeleri), hazırlıklı olma (acil eylem planı, tatbikat), müdahale (arama kurtarma, barınma) ve iyileştirme (kalıcı konut, ekonomik hayat) aşamalarından oluşur.",
        "sayfa": 202
       },
       {
        "id": "6.1.3-02",
-       "tur": "eslestir",
-       "yonerge": "Bütüncül afet yönetiminin aşamalarını çalışmalarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Risk ve zarar azaltma",
-         "Tehlike haritaları ve yasal düzenlemelerin hazırlanması"
-        ],
-        [
-         "Hazırlıklı olma",
-         "Acil eylem planı ve toplanma merkezlerinin belirlenmesi"
-        ],
-        [
-         "Müdahale",
-         "Arama kurtarma ve zaruri ihtiyaçların karşılanması"
-        ],
-        [
-         "İyileştirme",
-         "Ulaşım, konut ve ekonomik hayatın normale dönmesi"
-        ]
+       "tur": "secmeli",
+       "soru": "Bütüncül afet yönetimiyle ilgili,",
+       "oncul": [
+        "Risk yönetimi, afet öncesinde yapılan risk azaltma ve hazırlık çalışmalarını kapsar.",
+        "Aşamalar her zaman kesin sınırlarla birbirini izler ve iç içe geçmez.",
+        "İyileştirme, kriz yönetiminin en uzun süren aşamasıdır."
        ],
-       "bilgi": "Bütüncül afet yönetimi; risk azaltma, hazırlık, müdahale ve iyileştirme aşamalarından oluşan bir döngüdür.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Risk yönetimi afet öncesini, kriz yönetimi afet anı ve sonrasını (müdahale, iyileştirme) kapsar. Aşamalar genellikle iç içedir. Yeniden yapılanmayı da içeren iyileştirme, kriz yönetiminin en uzun evresidir.",
        "sayfa": 202
       },
       {
        "id": "6.1.3-03",
-       "tur": "dy",
-       "ifade": "Bütüncül afet yönetiminin aşamaları her zaman birbirini takip etmek zorunda değildir; aşamalar genellikle iç içedir.",
-       "dogru": true,
-       "bilgi": "Bu nedenle risk yönetimi, her aşamada ortaya çıkabilecek yeni riskleri de dikkate almalıdır.",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi bütüncül afet yönetiminin hazırlıklı olma aşamasında yapılan çalışmalardan biri değildir?",
+       "secenekler": [
+        "Erken uyarı sistemlerinin kurulması",
+        "Toplanma alanlarının belirlenmesi",
+        "Acil eylem planlarının hazırlanması",
+        "Tahliye tatbikatlarının yapılması",
+        "Kalıcı afet konutlarının yapılması"
+       ],
+       "dogru": 4,
+       "bilgi": "Kalıcı konutların yapılması afet sonrasındaki iyileştirme (yeniden yapılanma) aşamasına aittir. Erken uyarı sistemleri, toplanma alanları, acil eylem planları ve tatbikatlar hazırlıklı olma aşamasında gerçekleştirilir.",
        "sayfa": 202
       },
       {
        "id": "6.1.3-04",
-       "tur": "bosluk",
-       "cumle": "Erken uyarı sistemlerinin kurulması, işletilmesi ve güncellenmesi bütüncül afet yönetiminin ___ aşamasında yapılır.",
-       "cevap": "hazırlıklı olma",
-       "celdiriciler": [
-        "müdahale",
-        "iyileştirme",
-        "yeniden yapılanma"
+       "tur": "secmeli",
+       "soru": "Afetlerde yaşlılar, çocuklar, kadınlar ve özel gereksinimli bireyler olumsuz etkilere daha fazla maruz kalır. Çocuklar, en çok can kaybı ve psikososyal travma yaşayan gruptur.\nBu bilgilere dayanarak afet planlamasında aşağıdakilerden hangisinin yapılması en uygundur?",
+       "secenekler": [
+        "Tahliye planlarının bu grupların ihtiyaçlarına göre yapılması",
+        "Afet eğitimlerinin yalnızca çalışma çağındaki yetişkinlere verilmesi",
+        "Arama kurtarma ekiplerinin yalnızca kent merkezlerinde konuşlanması",
+        "Afet sonrası psikososyal desteğin gereksiz görülmesi",
+        "Okulların toplanma alanı olarak kullanılmasının yasaklanması"
        ],
-       "bilgi": "Hazırlıklı olma aşamasında tahliye süreci, toplanma merkezi ve acil eylem planı da belirlenir.",
-       "sayfa": 202
+       "dogru": 0,
+       "bilgi": "Savunmasız grupların ihtiyaçları planlamanın her aşamasında dikkate alınmalıdır. Çocukların korunması, Türkiye'nin de taraf olduğu BM Çocuk Hakları Sözleşmesi doğrultusunda hak temelli bir yaklaşımla yürütülmelidir.",
+       "sayfa": 203
       },
       {
        "id": "6.1.3-05",
        "tur": "secmeli",
-       "soru": "Yeniden yapılanma faaliyetini içeren ve kriz yönetiminin en uzun süren evresi olan aşama hangisidir?",
+       "soru": "Bütüncül afet yönetimi, afet öncesindeki risk yönetimi ile afet anı ve sonrasındaki kriz yönetiminden oluşur.\nAşağıdaki çalışmalardan hangisi kriz yönetimi kapsamında yer alır?",
        "secenekler": [
-        "Müdahale",
-        "Hazırlıklı olma",
-        "Risk ve zarar azaltma",
-        "İyileştirme"
+        "Tehlike haritalarının hazırlanması",
+        "Yapı denetimiyle ilgili yasal düzenleme yapılması",
+        "Afetzedelere zaruri ihtiyaçların ulaştırılması",
+        "Erken uyarı sistemlerinin kurulması",
+        "Afet tatbikatlarının düzenli olarak yapılması"
        ],
-       "dogru": 3,
-       "bilgi": "İyileştirme aşamasında haberleşme, ulaşım, elektrik, eğitim, kalıcı konut ve sosyal hayatın normale dönmesi sağlanır.",
+       "dogru": 2,
+       "bilgi": "Zaruri ihtiyaçların karşılanması müdahale aşamasındadır ve kriz yönetimine girer. Tehlike haritaları ve yasal düzenlemeler risk azaltma, erken uyarı ve tatbikatlar hazırlıklı olma aşamasında, yani risk yönetiminde yer alır.",
        "sayfa": 202
-      },
-      {
-       "id": "6.1.3-06",
-       "tur": "dy",
-       "ifade": "Yaşlılar, kadınlar, çocuklar ve özel gereksinimli bireyler gibi savunmasız gruplar afetlerin olumsuz etkilerine daha fazla maruz kalır.",
-       "dogru": true,
-       "bilgi": "Çocuklar afetlerden en fazla etkilenen, en çok can kaybı ve psikososyal travma yaşayan gruptur.",
-       "sayfa": 203
-      },
-      {
-       "id": "6.1.3-07",
-       "tur": "bosluk",
-       "cumle": "Türkiye'nin de taraf olduğu Birleşmiş Milletler ___ Sözleşmesi, tüm çocukların korunmasına yönelik en kapsamlı uluslararası belgedir.",
-       "cevap": "Çocuk Hakları",
-       "celdiriciler": [
-        "İklim Değişikliği",
-        "Mülteci Hakları",
-        "Biyolojik Çeşitlilik"
-       ],
-       "bilgi": "Çocuğun korunmasına yönelik faaliyetler koruyucu çevre anlayışı ve hak temelli yaklaşımla yürütülmelidir.",
-       "sayfa": 203
-      },
-      {
-       "id": "6.1.3-08",
-       "tur": "eslestir",
-       "yonerge": "Kurumları bağlı veya ilişkili oldukları bakanlıklarla eşleştir.",
-       "ciftler": [
-        [
-         "AFAD",
-         "İçişleri Bakanlığı"
-        ],
-        [
-         "Meteoroloji Genel Müdürlüğü",
-         "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı"
-        ],
-        [
-         "Harita Genel Müdürlüğü",
-         "Millî Savunma Bakanlığı"
-        ],
-        [
-         "TÜİK",
-         "Hazine ve Maliye Bakanlığı"
-        ]
-       ],
-       "bilgi": "AFAD, afet ve acil durumlarda hazırlık, müdahale ve iyileştirme çalışmalarının koordinasyonunu sağlar.",
-       "sayfa": 207
       }
      ]
     }
@@ -2479,99 +2395,110 @@
      "kartlar": [
       {
        "id": "7.1.1-01",
-       "tur": "bosluk",
-       "cumle": "Yeryüzünün doğal ve beşerî unsurlar bakımından kendi içinde benzerlik gösteren parçalarına ___ denir.",
-       "cevap": "bölge",
-       "celdiriciler": [
-        "mekân",
-        "coğrafi ortam",
-        "havza"
+       "tur": "secmeli",
+       "soru": "Aşağıdaki bölgelerden",
+       "oncul": [
+        "Rotterdam Limanı'nın taşımacılık hizmeti verdiği alan",
+        "Kızılırmak Nehri'nin havzası",
+        "Günlük bir gazetenin dağıtıldığı alan"
        ],
-       "bilgi": "Bölgeler günümüzde şekilsel ve işlevsel bölge olmak üzere ikiye ayrılır.",
+       "kok": "hangileri işlevsel bölgeye örnektir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "İşlevsel bölgeler bir merkez (liman, kent, gazete) ve onunla etkileşim hâlindeki çevreden oluşur. Kızılırmak Havzası ise belirli bir merkezi olmayan, doğal ölçüte göre belirlenmiş doğal şekilsel bölgedir.",
        "sayfa": 219
       },
       {
        "id": "7.1.1-02",
-       "tur": "dy",
-       "ifade": "Bölge belirleme kriterleri; yer şekilleri, iklim gibi fiziki unsurlar ile nüfus, sanayi, turizm gibi beşerî unsurlardan oluşur.",
-       "dogru": true,
-       "bilgi": "Bölge oluşturmada kullanılan ölçüt ve amaçlara bölge belirleme kriterleri denir.",
-       "sayfa": 217
+       "tur": "secmeli",
+       "soru": "Aşağıdaki bölge – bölge türü eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "Akdeniz iklim bölgesi – Doğal şekilsel bölge",
+        "Türk kültür bölgesi – Beşerî şekilsel bölge",
+        "Türkiye'nin dağınık kırsal yerleşme alanları – Beşerî şekilsel bölge",
+        "Bir hastanenin hizmet verdiği alan – İşlevsel bölge",
+        "Orta Toroslar dağlık bölgesi – İşlevsel bölge"
+       ],
+       "dogru": 4,
+       "bilgi": "Orta Toroslar dağlık bölgesi yer şekli ölçütüne göre belirlenmiş doğal şekilsel bölgedir. Kültür ve yerleşme gibi beşerî ölçütlerle belirlenen bölgeler beşerî şekilsel, bir merkezle çevresinin etkileşimine dayanan bölgeler işlevsel bölgedir.",
+       "sayfa": 219
       },
       {
        "id": "7.1.1-03",
        "tur": "secmeli",
-       "soru": "Belirli bir merkezi olmayan ve seçilen kritere göre içindeki her yerin aynı özelliği gösterdiği bölge türü hangisidir?",
-       "secenekler": [
-        "İşlevsel bölge",
-        "Metropoliten alan",
-        "Şekilsel bölge",
-        "Etki alanı"
+       "soru": "Tabloda bir kentin çevresindeki bazı yerleşmelerden kente her gün çalışmaya ya da okumaya gelen kişilerin, bu yerleşmelerin nüfusuna oranı verilmiştir.\nBu tabloya göre aşağıdakilerden hangisine ulaşılabilir?",
+       "tablo": [
+        [
+         "Yerleşme",
+         "Kente uzaklık (km)",
+         "Kente günlük gelenlerin oranı (%)"
+        ],
+        [
+         "K",
+         "10",
+         "45"
+        ],
+        [
+         "L",
+         "25",
+         "30"
+        ],
+        [
+         "M",
+         "50",
+         "12"
+        ],
+        [
+         "N",
+         "80",
+         "3"
+        ]
        ],
-       "dogru": 2,
-       "bilgi": "Şekilsel bölgeler belirlenen kritere göre türdeşlik gösterir; kriter doğal veya beşerî olabilir.",
+       "secenekler": [
+        "Merkezle etkileşim, merkeze uzaklık arttıkça azalmaktadır.",
+        "Bu alan, her yerinde aynı özelliğin görüldüğü şekilsel bir bölgedir.",
+        "Kentin etki alanının sınırları kesin çizgilerle belirlenmiştir.",
+        "Kente uzak yerleşmelerin nüfusu yakın olanlardan fazladır.",
+        "Yerleşmelerin kentle etkileşimi uzaklıktan bağımsızdır."
+       ],
+       "dogru": 0,
+       "bilgi": "Kent ve çevresinden oluşan bu alan bir işlevsel bölgedir. Tabloda uzaklık arttıkça kente gelenlerin oranı azalmaktadır; işlevsel bölgelerde etkileşimin yoğunluğu odak noktasından uzaklaştıkça azalır.",
        "sayfa": 219
       },
       {
        "id": "7.1.1-04",
        "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi doğal şekilsel bölgeye örnektir?",
+       "soru": "Şekilsel bölgelerle ilgili aşağıdakilerden hangisi yanlıştır?",
        "secenekler": [
-        "Türk kültür bölgesi",
-        "Kızılırmak Nehri Havzası",
-        "Türkiye'nin pamuk üretim bölgeleri",
-        "Türkiye'nin seyrek nüfuslu bölgeleri"
+        "Seçilen ölçüte göre bölgenin her yerinde aynı özellik görülür.",
+        "Belirli bir merkezleri yoktur.",
+        "Belirlenmesinde doğal ya da beşerî ölçütler kullanılabilir.",
+        "Türkiye'nin pamuk üretim alanları bu bölge türüne örnektir.",
+        "İçlerindeki etkileşim merkezden uzaklaştıkça azalır."
        ],
-       "dogru": 1,
-       "bilgi": "Orta Toroslar dağlık bölgesi, Akdeniz iklim bölgesi ve Kızılırmak Havzası doğal şekilsel bölgelerdir.",
+       "dogru": 4,
+       "bilgi": "Etkileşimin merkezden uzaklaştıkça azalması işlevsel bölgelerin özelliğidir. Şekilsel bölgeler merkezsizdir ve seçilen doğal ya da beşerî ölçüte göre kendi içinde türdeşlik gösterir.",
        "sayfa": 219
       },
       {
        "id": "7.1.1-05",
-       "tur": "dy",
-       "ifade": "İşlevsel bölgelerde etkileşimin yoğunluğu, odak noktasından uzaklaştıkça artar.",
-       "dogru": false,
-       "bilgi": "İşlevsel bölgelerde etkileşimin yoğunluğu odak noktasından (şehir, liman vb.) uzaklaştıkça azalır.",
-       "sayfa": 219
-      },
-      {
-       "id": "7.1.1-06",
-       "tur": "bosluk",
-       "cumle": "Bir çekirdek (merkez) ve ona bağlı çevre alandan oluşan, diğer bölgelerle etkileşim gösteren bölgelere ___ bölge denir.",
-       "cevap": "işlevsel",
-       "celdiriciler": [
-        "şekilsel",
-        "doğal",
-        "türdeş"
-       ],
-       "bilgi": "İşlevsel (fonksiyonel) bölgeye Rotterdam Limanı'nın taşımacılık bölgesi örnek gösterilir.",
-       "sayfa": 219
-      },
-      {
-       "id": "7.1.1-07",
-       "tur": "bosluk",
-       "cumle": "Ham madde, sanayi, nüfus, yerleşme ve kültür gibi unsurlar esas alınarak oluşturulan bölgelere ___ şekilsel bölge denir.",
-       "cevap": "beşerî",
-       "celdiriciler": [
-        "doğal",
-        "fiziki",
-        "iklimsel"
-       ],
-       "bilgi": "Türkiye'nin dağınık kırsal yerleşme bölgeleri ve Türk kültür bölgesi beşerî şekilsel bölgelere örnektir.",
-       "sayfa": 219
-      },
-      {
-       "id": "7.1.1-08",
        "tur": "secmeli",
-       "soru": "Günlük bir gazetenin tiraj (satış) alanı, hangi bölge özelliğine örnek gösterilir?",
+       "soru": "Bir metropoliten alanın sınırları belediyenin yetki alanına göre net olarak çizilebilir. Buna karşın günlük bir gazetenin satış alanının sınırları, haberlerin içeriğine ve dağıtım koşullarına bağlı olarak gün içinde bile değişebilir.\nBu bilgilere göre aşağıdakilerden hangisi söylenebilir?",
        "secenekler": [
-        "Sınırı kesin olan doğal şekilsel bölge",
-        "Merkezi olmayan beşerî şekilsel bölge",
-        "Sınırları yüzyıllar boyunca değişmeyen şekilsel bölge",
-        "Sabit ve kesin sınırı olmayan işlevsel bölge"
+        "Bazı işlevsel bölgelerin sınırı sabit ve kesin değildir.",
+        "Bütün işlevsel bölgelerin sınırları kesin olarak çizilebilir.",
+        "Gazete satış alanı doğal şekilsel bölgeye örnektir.",
+        "Metropoliten alanlar merkezi olmayan bölgelerdir.",
+        "Bölge sınırları yalnızca doğal ölçütlere göre değişir."
        ],
-       "dogru": 3,
-       "bilgi": "Metropoliten alan gibi bazı işlevsel bölgelerin sınırı net çizilebilir; gazete satış alanı ise gün içinde bile değişebilir.",
+       "dogru": 0,
+       "bilgi": "Metropoliten alan ve gazete satış alanı, merkezle çevresinin etkileşimine dayanan işlevsel bölgelerdir. İşlevsel bölgelerin bazılarının sınırı net çizilebilirken bazılarının sınırı sürekli değişir.",
        "sayfa": 219
       }
      ]
@@ -2582,67 +2509,75 @@
      "kartlar": [
       {
        "id": "7.1.2-01",
-       "tur": "dy",
-       "ifade": "Bölge sınırı, bölge belirlemede esas alınan kriterlere göre belirlenir.",
-       "dogru": true,
-       "bilgi": "Belirlenen kriterin özelliği, oluşturulacak bölgenin yeryüzündeki dağılış alanını etkiler.",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki bölgelerden",
+       "oncul": [
+        "Bir ilin idari sınırları içindeki alan",
+        "Bozkır (step) bitki örtüsünün yayıldığı alan",
+        "Bir büyükşehir belediyesinin yetki alanı"
+       ],
+       "kok": "hangilerinin sınırları kesin çizgilerle belirlenebilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "İdari ve belediye sınırları yasal düzenlemelerle net olarak çizilir. Bitki örtüsü bölgeleri arasında ise geçiş alanları bulunduğundan sınırlar kesin olarak belirlenemez.",
        "sayfa": 220
       },
       {
        "id": "7.1.2-02",
-       "tur": "dy",
-       "ifade": "Yeryüzünde muson iklim bölgesi, step iklim bölgesinden daha geniş bir alan kaplar.",
-       "dogru": false,
-       "bilgi": "Muson ikliminin etkili olduğu alan step ikliminkinden azdır; bu nedenle muson iklim bölgesi daha az alan kaplar.",
+       "tur": "secmeli",
+       "soru": "Türkiye'de Uşak, Afyonkarahisar ve Kütahya çevresinde hem Akdeniz hem de karasal iklimin özellikleri birlikte görülmektedir.\nBu durum bölge sınırlarıyla ilgili aşağıdakilerden hangisini örneklendirir?",
+       "secenekler": [
+        "Geçiş alanları nedeniyle bazı sınırların net çizilemediğini",
+        "Bölge sınırlarının yalnızca beşerî ölçütlerle belirlendiğini",
+        "İklim bölgelerinin sınırlarının idari sınırlarla örtüştüğünü",
+        "Doğal şekilsel bölgelerin sınırlarının kısa sürede değiştiğini",
+        "İşlevsel bölgelerde etkileşimin merkezden uzaklaştıkça azaldığını"
+       ],
+       "dogru": 0,
+       "bilgi": "İklim gibi doğal ölçütlere göre belirlenen bölgeler arasında özelliklerin dereceli değiştiği geçiş alanları bulunur; bu nedenle sınırlar net çizgilerle ayrılamaz. İdari sınırlar ise kesin olarak belirlenebilir.",
        "sayfa": 220
       },
       {
        "id": "7.1.2-03",
        "tur": "secmeli",
-       "soru": "Geçiş alanları bulunduğu için sınırı net olarak belirlenemeyen bölgeye hangisi örnektir?",
+       "soru": "Bir bölgenin yeryüzünde kapladığı alan, bölgenin belirlenmesinde esas alınan kriterin dağılış alanına bağlıdır.\nBuna göre aşağıdaki bölgelerden hangisinin kapladığı alan diğerlerinden daha küçüktür?",
        "secenekler": [
-        "Bir belediyenin yetki alanı",
-        "Bir ilin idari sınırı",
-        "Doğal bitki örtüsü bölgesi",
-        "Bir ülkenin siyasi sınırı"
+        "Kızılırmak Havzası",
+        "Alp-Himalaya dağlık kuşağı",
+        "Akdeniz iklim bölgesi",
+        "Türk kültür bölgesi",
+        "Muson iklim bölgesi"
        ],
-       "dogru": 2,
-       "bilgi": "Bazı bölge sınırları kriterin özelliğine göre net belirlenebilirken geçiş alanı olan bölgelerde bu netlik yoktur.",
+       "dogru": 0,
+       "bilgi": "Kızılırmak Havzası yalnızca bir akarsuyun beslenme alanını kapsar. Alp-Himalaya kuşağı, Akdeniz ve muson iklim bölgeleri ile Türk kültür bölgesi birden çok ülkeye ya da kıtaya yayılır; muson bölgesi, step bölgesinden küçük olsa da çok geniştir.",
        "sayfa": 220
       },
       {
        "id": "7.1.2-04",
-       "tur": "eslestir",
-       "yonerge": "Bölge örneklerini bölge türleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Alp-Himalaya Dağlık Bölgesi",
-         "Doğal şekilsel bölge"
-        ],
-        [
-         "Türk Kültür Bölgesi",
-         "Beşerî şekilsel bölge"
-        ],
-        [
-         "İstanbul Büyükşehir Belediyesi yetki alanı",
-         "İşlevsel bölge"
-        ]
-       ],
-       "bilgi": "Metropoliten alanlar, belirli bir şehir yönetiminin yetkisindeki araziyi kapsayan işlevsel bölgelerdir.",
-       "sayfa": 222
-      },
-      {
-       "id": "7.1.2-05",
        "tur": "secmeli",
-       "soru": "Siyasi ve askerî iş birliği esas alınarak oluşturulan NATO bölgesi hangi bölge türüne örnektir?",
-       "secenekler": [
-        "Doğal şekilsel bölge",
-        "Beşerî şekilsel bölge",
-        "İklim bölgesi"
+       "soru": "Bir araştırmacı Karadeniz kıyı kuşağını önce iklim özelliklerine, ardından fındık üretim miktarına göre bölgelere ayırmış ve iki haritadaki bölge sınırlarının farklı olduğunu görmüştür.\nBu çalışmayla ilgili,",
+       "oncul": [
+        "Bölge sınırları esas alınan kritere göre değişir.",
+        "Fındık üretimine göre belirlenen bölge beşerî şekilsel bölgedir.",
+        "İklim özelliklerine göre belirlenen bölge işlevsel bölgedir."
        ],
-       "dogru": 1,
-       "bilgi": "Siyasi, askerî ve ekonomik iş birliği gibi beşerî unsurlara dayanan bölgeler beşerî şekilsel bölgelerdir.",
-       "sayfa": 219
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Aynı alan farklı kriterlere göre bölgelendirildiğinde farklı sınırlar ortaya çıkar. Üretim gibi ekonomik bir ölçütle belirlenen bölge beşerî şekilsel, iklim ölçütüyle belirlenen bölge doğal şekilsel bölgedir.",
+       "sayfa": 222
       }
      ]
     },
@@ -2652,86 +2587,113 @@
      "kartlar": [
       {
        "id": "7.1.3-01",
-       "tur": "dy",
-       "ifade": "Doğal şekilsel bölgelerin sınırları, beşerî şekilsel ve işlevsel bölgelere göre daha uzun bir zaman diliminde değişir.",
-       "dogru": true,
-       "bilgi": "Kriterin özelliğindeki değişim bölge sınırını da değiştirir; beşerî ve işlevsel bölgelerde bu değişim daha kısa sürede olur.",
+       "tur": "secmeli",
+       "soru": "Son buzul çağında iklim kuşaklarının sınırları bugünkünden farklı konumdaydı ve binlerce yıl içinde değişti. 1951'de altı ülkeyle başlayan Avrupa bütünleşmesinin sınırları ise yaklaşık 70 yılda pek çok kez değişmiştir.\nBu bilgilerden hareketle,",
+       "oncul": [
+        "Doğal şekilsel bölgelerin sınırları da değişebilir, ancak bu değişim çok uzun sürede gerçekleşir.",
+        "Beşerî ölçütlere dayanan bölgelerin sınırları daha kısa sürede değişebilir.",
+        "Bölge sınırlarının değişmesinde yalnızca doğal etkenler rol oynar."
+       ],
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Kriterin özelliği değiştikçe bölge sınırı da değişir. Doğal şekilsel bölgelerde bu değişim çok uzun zaman alırken beşerî şekilsel ve işlevsel bölgelerde siyasi ve ekonomik gelişmelerle kısa sürede gerçekleşebilir.",
        "sayfa": 223
       },
       {
        "id": "7.1.3-02",
        "tur": "secmeli",
-       "soru": "1951'de Belçika, Almanya, Lüksemburg, Fransa, İtalya ve Hollanda tarafından kurulan örgüt hangisidir?",
-       "secenekler": [
-        "Avrupa Ekonomik Topluluğu",
-        "Avrupa Kömür ve Çelik Topluluğu",
-        "Avrupa Birliği",
-        "Kuzey Atlantik Anlaşması Örgütü"
+       "soru": "Avrupa Birliği'nin oluşum sürecindeki aşağıdaki gelişmeler,",
+       "oncul": [
+        "Hırvatistan'ın birliğe üye olması",
+        "Roma Anlaşması ile Avrupa Ekonomik Topluluğu'nun kurulması",
+        "Avusturya, Finlandiya ve İsveç'in katılımıyla üye sayısının 15'e çıkması",
+        "Altı ülkenin Avrupa Kömür ve Çelik Topluluğu'nu kurması"
        ],
-       "dogru": 1,
-       "bilgi": "Avrupa Kömür ve Çelik Topluluğu (AKÇT), Avrupa'daki ilk örgütlenme adımlarındandır.",
+       "kok": "kronolojik sıraya göre dizildiğinde hangi sıralama doğru olur?",
+       "secenekler": [
+        "II - IV - I - III",
+        "II - IV - III - I",
+        "IV - I - II - III",
+        "IV - II - III - I",
+        "IV - III - II - I"
+       ],
+       "dogru": 3,
+       "bilgi": "Avrupa Kömür ve Çelik Topluluğu 1951'de kuruldu; Roma Anlaşması (1957) ile Avrupa Ekonomik Topluluğu oluşturuldu. 1995'te Avusturya, Finlandiya ve İsveç'in katılımıyla üye sayısı 15'e çıktı; Hırvatistan 2013'te üye oldu.",
        "sayfa": 223
       },
       {
        "id": "7.1.3-03",
-       "tur": "bosluk",
-       "cumle": "Avrupa Ekonomik Topluluğu (AET), 1957'de imzalanan ___ Anlaşması ile kurulmuştur.",
-       "cevap": "Roma",
-       "celdiriciler": [
-        "Maastricht",
-        "Paris",
-        "Lizbon"
+       "tur": "secmeli",
+       "soru": "Tabloda Avrupa bütünleşmesine katılan ülke sayısının bazı yıllara göre değişimi verilmiştir. 2020'de bir ülkenin ayrılmasıyla üye sayısı 27'ye inmiştir.\nTabloya göre aşağıdakilerden hangisi söylenemez?",
+       "tablo": [
+        [
+         "Yıl",
+         "Üye sayısı"
+        ],
+        [
+         "1957",
+         "6"
+        ],
+        [
+         "1973",
+         "9"
+        ],
+        [
+         "1981",
+         "10"
+        ],
+        [
+         "1986",
+         "12"
+        ],
+        [
+         "1995",
+         "15"
+        ],
+        [
+         "2004",
+         "25"
+        ],
+        [
+         "2007",
+         "27"
+        ],
+        [
+         "2013",
+         "28"
+        ]
        ],
-       "bilgi": "AET 1965'ten itibaren Avrupa Toplulukları adıyla anılmıştır.",
-       "sayfa": 223
+       "secenekler": [
+        "Tek seferde en fazla ülkenin katıldığı genişleme 2004'te gerçekleşmiştir.",
+        "1995'teki genişlemeyle üç ülke birliğe katılmıştır.",
+        "1981'deki genişlemeyle birliğe tek bir ülke katılmıştır.",
+        "2007'deki genişlemeyle birliğe üç ülke katılmıştır.",
+        "Üye sayısı 1957-2013 arasında dört katından fazla artmıştır."
+       ],
+       "dogru": 3,
+       "bilgi": "2007'de üye sayısı 25'ten 27'ye çıkmıştır; katılan iki ülke Bulgaristan ve Romanya'dır. En büyük genişleme 10 ülkeyle 2004'te yaşanmıştır. 1957'de 6 olan üye sayısı 2013'te 28'e ulaşmış, 2020'de Birleşik Krallık ayrılmıştır.",
+       "sayfa": 224
       },
       {
        "id": "7.1.3-04",
        "tur": "secmeli",
-       "soru": "Üye ülkeler arasında parasal birlik ve Avrupa vatandaşlığı oluşturulmasına hangi anlaşmayla karar verilmiştir?",
+       "soru": "Avrupa Birliği'nin oluşum süreciyle ilgili aşağıdakilerden hangisi yanlıştır?",
        "secenekler": [
-        "Roma Anlaşması",
-        "Paris Anlaşması",
-        "Maastricht Anlaşması",
-        "Lozan Antlaşması"
+        "Süreç, kömür ve çelik alanında kurulan bir iş birliğiyle başlamıştır.",
+        "Avrupa Ekonomik Topluluğu, 1957'de imzalanan Roma Anlaşması ile kurulmuştur.",
+        "Parasal birlik ve Avrupa vatandaşlığı Maastricht Anlaşması ile kararlaştırılmıştır.",
+        "Birleşik Krallık, 2020'de birlikten ayrılmıştır.",
+        "Türkiye, 2004'teki genişlemeyle birliğe tam üye olmuştur."
        ],
-       "dogru": 2,
-       "bilgi": "1 Kasım 1993'te yürürlüğe giren Maastricht Anlaşması ile 1995'te Avrupa Birliği yapısı oluşturulmuştur.",
-       "sayfa": 224
-      },
-      {
-       "id": "7.1.3-05",
-       "tur": "dy",
-       "ifade": "Birleşik Krallık'ın 2020'de ayrılmasının ardından Avrupa Birliği'nin üye sayısı 30'dur.",
-       "dogru": false,
-       "bilgi": "Birleşik Krallık 2020'de AB'den ayrılmıştır; AB'nin hâlihazırda 27 üyesi vardır.",
-       "sayfa": 224
-      },
-      {
-       "id": "7.1.3-06",
-       "tur": "bosluk",
-       "cumle": "2007'de Bulgaristan ve Romanya'nın ardından 2013 yılında ___ Avrupa Birliği'ne üye olmuştur.",
-       "cevap": "Hırvatistan",
-       "celdiriciler": [
-        "Sırbistan",
-        "Arnavutluk",
-        "Karadağ"
-       ],
-       "bilgi": "Türkiye, Kuzey Makedonya, Karadağ, Sırbistan ve Arnavutluk gibi ülkeler AB üyeliğine aday ülkelerdir.",
-       "sayfa": 224
-      },
-      {
-       "id": "7.1.3-07",
-       "tur": "secmeli",
-       "soru": "1995'te Avrupa Birliği'ne katılarak üye sayısını 15'e yükselten ülkeler hangileridir?",
-       "secenekler": [
-        "Avusturya, Finlandiya, İsveç",
-        "İspanya, Portekiz, Yunanistan",
-        "Birleşik Krallık, Danimarka, İrlanda",
-        "Bulgaristan, Romanya, Hırvatistan"
-       ],
-       "dogru": 0,
-       "bilgi": "Birleşik Krallık, Danimarka ve İrlanda 1973'te; Yunanistan 1981'de; İspanya ve Portekiz 1986'da katılmıştır.",
+       "dogru": 4,
+       "bilgi": "Türkiye AB'ye aday ülkedir, tam üye değildir; Kuzey Makedonya, Karadağ, Sırbistan ve Arnavutluk da adaylar arasındadır. Süreç 1951'de AKÇT ile başlamış, 1957 Roma Anlaşması ile AET kurulmuş, Maastricht ile birlik derinleşmiştir.",
        "sayfa": 224
       }
      ]

@@ -22,10 +22,23 @@
      "kartlar": [
       {
        "id": "1.1-01",
-       "tur": "dy",
-       "ifade": "Tüm canlılar enerji elde etmek için oksijen kullanır.",
-       "dogru": false,
-       "bilgi": "Hücresel yapı, enerji kullanma, uyarılara tepki ve kalıtsal materyal tüm canlılarda ortaktır; oksijensiz solunum ya da fermantasyon yapan canlılar oksijen kullanmaz.",
+       "tur": "secmeli",
+       "soru": "Oksijenin bulunmadığı derin bir göl tabanının çamurunda yaşayan ve çoğalan, tek hücreli yeni bir canlı türü keşfedilmiştir.\nBu canlıyla ilgili,",
+       "oncul": [
+        "ATP üretir ve bu ATP'yi enerji gerektiren olaylarda kullanır.",
+        "Enerji elde etmek için moleküler oksijen kullanır.",
+        "Hücre zarı, sitoplazma, ribozom ve kalıtım materyali bulundurur."
+       ],
+       "kok": "yargılarından hangileri kesinlikle doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Hücresel yapı, ATP üretip kullanma, uyarılara tepki ve kalıtım materyali bütün canlılarda ortaktır. Oksijensiz ortamda yaşayıp çoğalan bu canlı enerjisini oksijensiz solunum ya da fermantasyonla elde eder; oksijen kullanımı ortak özellik değildir.",
        "sayfa": 388,
        "yil": "2025-TYT"
       }
@@ -43,99 +56,132 @@
       {
        "id": "1.2-01",
        "tur": "secmeli",
-       "soru": "Aşağıdaki organik bazlardan hangisi yalnızca RNA'nın yapısında bulunur?",
+       "soru": "Bir hücreden elde edilen tek bir nükleik asit molekülü tamamen hidroliz edildiğinde, ürünler arasında urasil bulunduğu, timin ise bulunmadığı belirlenmiştir.\nBu molekülle ilgili,",
+       "oncul": [
+        "Yapısındaki şeker ribozdur.",
+        "Hidroliz ürünleri arasında fosfat bulunur.",
+        "Yalnızca ökaryot hücrelerde sentezlenir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Adenin",
-        "Sitozin",
-        "Urasil",
-        "Timin"
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
        ],
        "dogru": 2,
-       "bilgi": "DNA ve RNA nükleotitlerden oluşan polimerlerdir; timin yalnızca DNA'da, urasil yalnızca RNA'da bulunur, adenin, guanin ve sitozin ise ikisinde de ortaktır.",
+       "bilgi": "Urasil yalnızca RNA'da, timin yalnızca DNA'da bulunur; molekül RNA'dır ve nükleotitleri riboz şekeri ile fosfat içerir. Adenin, guanin ve sitozin iki nükleik asitte ortaktır. RNA prokaryot hücrelerde de sentezlenir.",
        "sayfa": 388,
        "yil": "2019-TYT"
       },
       {
        "id": "1.2-02",
-       "tur": "dy",
-       "ifade": "Canlıların DNA molekülleri arasındaki farklılık yalnızca nükleotitlerin diziliş sırasından kaynaklanır.",
-       "dogru": false,
-       "bilgi": "DNA molekülleri nükleotitlerin diziliş sırası yanında sayısı ve çeşitlerinin oranı bakımından da farklılık gösterir.",
+       "tur": "secmeli",
+       "soru": "Farklı canlılardan elde edilen çift zincirli K, L, M ve N DNA moleküllerine ait bazı bilgiler tabloda verilmiştir.\nBu tabloya göre aşağıdakilerden hangisi söylenemez?",
+       "tablo": [
+        [
+         "DNA",
+         "Adenin sayısı",
+         "Guanin sayısı",
+         "Toplam nükleotit"
+        ],
+        [
+         "K",
+         "300",
+         "200",
+         "1000"
+        ],
+        [
+         "L",
+         "300",
+         "200",
+         "1000"
+        ],
+        [
+         "M",
+         "200",
+         "300",
+         "1000"
+        ],
+        [
+         "N",
+         "400",
+         "200",
+         "1200"
+        ]
+       ],
+       "secenekler": [
+        "K ve L'nin nükleotit sayıları ve çeşitlerinin oranı aynıdır.",
+        "K ve L'nin taşıdığı kalıtsal bilgi kesinlikle aynıdır.",
+        "K ve M, nükleotit çeşitlerinin oranı bakımından farklıdır.",
+        "N'deki timin sayısı, M'deki timin sayısının iki katıdır.",
+        "M'deki sitozin sayısı, M'deki timin sayısından fazladır."
+       ],
+       "dogru": 1,
+       "bilgi": "Çift zincirli DNA'da A = T ve G = C'dir. DNA'lar nükleotit sayısı, çeşitlerin oranı ve diziliş sırasıyla farklılaşır; K ile L'nin sayı ve oranları aynı olsa da dizilişleri farklı olabileceğinden kalıtsal bilgilerinin aynı olduğu kesin değildir.",
        "sayfa": 388,
        "yil": "2020-TYT"
       },
       {
        "id": "1.2-03",
-       "tur": "bosluk",
-       "cumle": "Bir gliserol ile üç yağ asidinin ester bağlarıyla birleşerek bir trigliserit oluşturması sırasında ___ molekül su açığa çıkar.",
-       "cevap": "üç",
-       "celdiriciler": [
-        "bir",
-        "iki",
-        "dört"
-       ],
-       "bilgi": "Her yağ asidi gliserole bağlanırken bir su molekülü açığa çıkar; bu yüzden bir trigliserit oluşurken üç molekül su ayrılır.",
-       "sayfa": 388,
-       "yil": "2021-TYT"
-      },
-      {
-       "id": "1.2-04",
-       "tur": "dy",
-       "ifade": "İnsan vücudu bazı yağ asitlerini sentezleyemez; bunların besinlerle dışarıdan alınması gerekir.",
-       "dogru": true,
-       "bilgi": "Vücutta üretilemeyen ve besinlerle alınması zorunlu olan yağ asitlerine temel (esansiyel) yağ asitleri denir.",
-       "sayfa": 388,
-       "yil": "2021-TYT"
-      },
-      {
-       "id": "1.2-05",
-       "tur": "bosluk",
-       "cumle": "Bir kromozom çok sayıda gen, bir gen de çok sayıda ___ içerir.",
-       "cevap": "nükleotit",
-       "celdiriciler": [
-        "kromozom",
-        "amino asit",
-        "ribozom"
-       ],
-       "bilgi": "Gen, DNA üzerindeki belirli bir nükleotit dizisidir; bu yüzden bir hücre çekirdeğinde kromozom sayısı gen sayısından, gen sayısı da nükleotit sayısından azdır.",
-       "sayfa": 389,
-       "yil": "2022-TYT"
-      },
-      {
-       "id": "1.2-06",
        "tur": "secmeli",
-       "soru": "Aşağıdaki polisakkaritlerden hangisinin yapısında azot bulunur?",
-       "secenekler": [
-        "Nişasta",
-        "Selüloz",
-        "Glikojen",
-        "Kitin"
+       "soru": "Glikojen, kitin, trigliserit ve protein molekülleriyle ilgili,",
+       "oncul": [
+        "Dördü de yapı birimlerinin dehidrasyon sentezi ile birleşmesiyle oluşur.",
+        "Dördü de birbirini tekrar eden monomerlerden oluşan polimerlerdir.",
+        "Kitin ve proteinlerin yapısında azot bulunur.",
+        "Trigliseritlerdeki yağ asitlerinin tamamı insan vücudunda sentezlenebilir."
        ],
-       "dogru": 3,
-       "bilgi": "Selüloz, kitin ve nişasta dehidrasyon sentezi ile oluşan polimerlerdir; bunlardan yalnızca kitin azot içerir, hayvanlar ise karbohidratı glikojen olarak depolar.",
-       "sayfa": 389,
-       "yil": "2023-TYT"
-      },
-      {
-       "id": "1.2-07",
-       "tur": "dy",
-       "ifade": "Trigliseritler, birbirini tekrar eden monomerlerden oluşan polimer moleküllerdir.",
-       "dogru": false,
-       "bilgi": "Trigliserit bir gliserol ve üç yağ asidinden oluşur, tekrar eden birimler içermediği için polimer değildir; glikojen, kitin, nükleik asitler ve proteinler ise polimerdir.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "I ve II",
+        "I ve III",
+        "II ve IV",
+        "I, III ve IV",
+        "II, III ve IV"
+       ],
+       "dogru": 1,
+       "bilgi": "Trigliserit, bir gliserol ile üç yağ asidinin ester bağlarıyla birleşmesinden oluşur; su açığa çıkar ama tekrar eden monomer içermediğinden polimer değildir. Kitin azot içeren bir polisakkarittir. Temel (esansiyel) yağ asitleri besinlerle alınmalıdır.",
        "sayfa": 389,
        "yil": "2024-TYT"
       },
       {
-       "id": "1.2-08",
-       "tur": "bosluk",
-       "cumle": "Polipeptit sentezinde iki amino asit arasında oluşan bağa ___ bağı denir.",
-       "cevap": "peptit",
-       "celdiriciler": [
-        "glikozit",
-        "ester",
-        "hidrojen"
+       "id": "1.2-04",
+       "tur": "secmeli",
+       "soru": "Sağlıklı bir insanın vücut hücresi çekirdeğinde bulunan,",
+       "oncul": [
+        "kromozom sayısı,",
+        "nükleotit sayısı,",
+        "gen sayısı"
        ],
-       "bilgi": "Bir amino asidin karboksil grubu diğerinin amino grubuyla birleşir ve su açığa çıkar; glikozit bağı karbohidratlarda, ester bağı yağlarda oluşur.",
+       "kok": "niceliklerinin çoktan aza doğru sıralanışı aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "I - II - III",
+        "I - III - II",
+        "II - I - III",
+        "II - III - I",
+        "III - II - I"
+       ],
+       "dogru": 3,
+       "bilgi": "Bir kromozom çok sayıda gen, bir gen de çok sayıda nükleotit içerir. Bu nedenle çekirdekte nükleotit sayısı gen sayısından, gen sayısı da kromozom sayısından (46) fazladır.",
+       "sayfa": 389,
+       "yil": "2022-TYT"
+      },
+      {
+       "id": "1.2-05",
+       "tur": "secmeli",
+       "soru": "Bir hücrede iki trigliserit molekülü ile 20 amino asitten oluşan tek zincirli bir polipeptit sentezlenmiştir.\nBu sentez tepkimelerinde toplam kaç molekül su açığa çıkar?",
+       "secenekler": [
+        "19",
+        "21",
+        "22",
+        "25",
+        "26"
+       ],
+       "sirali": true,
+       "dogru": 3,
+       "bilgi": "Her trigliserit oluşurken üç ester bağı kurulur ve üç su çıkar: 2 × 3 = 6. Yirmi amino asit arasında 19 peptit bağı oluşur ve 19 su çıkar. Toplam 6 + 19 = 25 molekül su açığa çıkar.",
        "sayfa": 389,
        "yil": "2026-TYT"
       }
@@ -154,144 +200,204 @@
      "kartlar": [
       {
        "id": "1.3-01",
-       "tur": "dy",
-       "ifade": "Tek bir kontrollü deneyin sonuçlarıyla bilimsel bir teori oluşturulabilir.",
-       "dogru": false,
-       "bilgi": "Bilimsel araştırmada gözlem, hipotez kurma, kontrollü deney ve çıkarım yer alır; teori ise çok sayıda araştırmayla desteklenmiş kapsamlı bir açıklamadır.",
+       "tur": "secmeli",
+       "soru": "Bir araştırmacı, aynı patatesten kesilmiş eşit kütleli parçaları aynı derişimdeki tuzlu su çözeltilerine koymuş ve çözeltileri 10, 20 ve 30 °C'de bekletmiştir. Bir saat sonra parçaları tartan araştırmacı, deneyi üç kez tekrarlamış ve her seferinde sıcaklık arttıkça parçaların kütle kaybının arttığını gözlemlemiştir.\nBu araştırmayla ilgili aşağıdakilerden hangisi söylenemez?",
+       "secenekler": [
+        "Bağımsız değişken çözeltinin sıcaklığıdır.",
+        "Bağımlı değişken patates parçalarının kütle değişimidir.",
+        "Çözeltinin tuz derişimi sabit tutulan bir değişkendir.",
+        "Deneyin tekrarlanması sonuçların güvenilirliğini artırır.",
+        "Elde edilen sonuçlar bilimsel bir teori oluşturur."
+       ],
+       "dogru": 4,
+       "bilgi": "Araştırmacının değiştirdiği sıcaklık bağımsız, ölçtüğü kütle değişimi bağımlı değişkendir. Teori, çok sayıda araştırmayla desteklenmiş kapsamlı bir açıklamadır; tek bir kontrollü deneyin sonucu teori oluşturmaz.",
        "sayfa": 390,
        "yil": "2018-TYT"
       },
       {
        "id": "1.3-02",
-       "tur": "dy",
-       "ifade": "Kolaylaştırılmış difüzyonda da aktif taşımada da maddelerin geçişinde zar proteinleri görev alır.",
-       "dogru": true,
-       "bilgi": "Kolaylaştırılmış difüzyon derişim farkıyla enerji harcanmadan, aktif taşıma ise ATP harcanarak gerçekleşir; ikisinde de taşıyıcı ya da kanal proteinleri kullanılır.",
+       "tur": "secmeli",
+       "soru": "Bir hücrenin zarından yalnızca belirli bir taşıyıcı protein aracılığıyla geçebilen X maddesinin hücreye giriş hızı, farklı dış ortam derişimlerinde ölçülerek grafik çizilmiştir. Deney, hücrenin ATP üretimini durduran bir zehir eklenerek tekrarlandığında aynı sonuçlar elde edilmiştir.\nBuna göre X maddesinin hücreye girişiyle ilgili aşağıdakilerden hangisi söylenebilir?",
+       "grafik": {
+        "x": "Dış derişim",
+        "y": "Giriş hızı",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            2,
+            5
+           ],
+           [
+            4,
+            8
+           ],
+           [
+            6,
+            9.5
+           ],
+           [
+            8,
+            10
+           ],
+           [
+            10,
+            10
+           ]
+          ]
+         }
+        ]
+       },
+       "secenekler": [
+        "Hücrenin ATP harcamasıyla gerçekleşir.",
+        "Az derişik ortamdan çok derişik ortama doğrudur.",
+        "Giriş hızı, taşıyıcı protein sayısıyla sınırlanır.",
+        "Endositozla zar kesecikleri içinde gerçekleşir.",
+        "Fosfolipit tabakasından doğrudan geçerek gerçekleşir."
+       ],
+       "dogru": 2,
+       "bilgi": "ATP üretimi durduğunda hız değişmediğinden geçiş enerji harcanmadan, derişim farkı yönünde ve taşıyıcı proteinle olur: kolaylaştırılmış difüzyon. Taşıyıcılar dolunca hız sabitlenir. Aktif taşımada da zar proteinleri görev alır ancak ATP harcanır.",
        "sayfa": 390,
        "yil": "2018-TYT"
       },
       {
        "id": "1.3-03",
-       "tur": "bosluk",
-       "cumle": "Bir hücrede ___ bulunması, o hücrenin ökaryot olduğunu gösterir.",
-       "cevap": "zarlı organel",
-       "celdiriciler": [
-        "ribozom",
-        "hücre duvarı",
+       "tur": "secmeli",
+       "soru": "Bir hücrede,",
+       "oncul": [
+        "hücre duvarı,",
+        "ribozom,",
+        "mitokondri,",
         "kamçı"
        ],
-       "bilgi": "Hücre duvarı, kamçı ve ribozom prokaryotlarda da bulunabilir; koful gibi zarlı organeller ise yalnızca ökaryot hücrelerde görülür.",
+       "kok": "yapılarından hangilerinin bulunması, bu hücrenin ökaryot olduğunu kesin olarak gösterir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "III ve IV",
+        "I, III ve IV"
+       ],
+       "dogru": 1,
+       "bilgi": "Hücre duvarı, ribozom ve kamçı prokaryot hücrelerde de bulunabilir. Mitokondri, Golgi ve koful gibi zarlı organeller ise yalnızca ökaryot hücrelerde görülür.",
        "sayfa": 390,
        "yil": "2019-TYT"
       },
       {
        "id": "1.3-04",
-       "tur": "dy",
-       "ifade": "Bitki hücrelerinde hücre duvarı bulunduğu için hücre iskeleti bulunmaz.",
-       "dogru": false,
-       "bilgi": "Hücre iskeleti hem bitki hem hayvan hücrelerinde bulunur; iki hücre tipi hücre duvarı, sitokinezin gerçekleşme şekli, organel çeşitleri ve kofulları bakımından farklıdır.",
+       "tur": "secmeli",
+       "soru": "Bir bitki hücresi ile bir hayvan hücresi karşılaştırıldığında,",
+       "oncul": [
+        "enerji harcayarak madde alma,",
+        "hücre iskeletine sahip olma,",
+        "atık maddeleri büyük bir merkezî kofulda depolama,",
+        "sitokinezi ortada oluşan hücre plağıyla tamamlama"
+       ],
+       "kok": "özelliklerinden hangileri her iki hücrede de ortaktır?",
+       "secenekler": [
+        "I ve II",
+        "I ve III",
+        "II ve IV",
+        "I, II ve III",
+        "II, III ve IV"
+       ],
+       "dogru": 0,
+       "bilgi": "Aktif taşıma, hücre iskeleti, mitokondride oksijenli solunum ve salgılama iki hücrede de görülür. Büyük merkezî koful ve hücre plağıyla sitokinez bitki hücrelerine özgüdür; hayvan hücresi boğumlanarak bölünür.",
        "sayfa": 391,
-       "yil": "2020-TYT"
+       "yil": "2022-TYT"
       },
       {
        "id": "1.3-05",
-       "tur": "bosluk",
-       "cumle": "Hücre zarındaki fosfolipit ve proteinlerin sürekli hareket hâlinde olduğunu açıklayan zar modeline ___ model denir.",
-       "cevap": "akıcı mozaik",
-       "celdiriciler": [
-        "sandviç",
-        "kilit-anahtar",
-        "çift sarmal"
+       "tur": "secmeli",
+       "soru": "Hücre zarının yapısını açıklayan akıcı mozaik zar modeliyle ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Fosfolipit ve proteinler zar içinde yer değiştirebilir.",
+        "Glikoprotein ve glikolipitler hücrenin tanınmasını sağlar.",
+        "Hayvan hücrelerinde kolesterol zara dayanıklılık kazandırır.",
+        "Bazı küçük moleküller zardan taşıyıcı protein olmadan geçer.",
+        "Zar karbohidratlarının dağılımı bütün hücrelerde aynıdır."
        ],
-       "bilgi": "Akıcı mozaik modele göre zar fosfolipitleri hareketlidir; glikoprotein ve glikolipitlerin dağılımı hücreye özgüdür, bazı küçük moleküller taşıyıcı protein olmadan geçer.",
+       "dogru": 4,
+       "bilgi": "Akıcı mozaik modele göre zar fosfolipit ve proteinleri sürekli hareket hâlindedir. Dış yüzeydeki glikoprotein ve glikolipitler hücrenin tanınmasını sağlar; çeşit ve dağılımları hücreye özgü olduğundan her hücrede aynı değildir.",
        "sayfa": 391,
        "yil": "2021-TYT"
       },
       {
        "id": "1.3-06",
-       "tur": "dy",
-       "ifade": "Atık maddelerin büyük bir merkezî kofulda depolanması, bitki hücrelerine özgü bir özelliktir.",
-       "dogru": true,
-       "bilgi": "Enerji harcayarak madde alma, mitokondride oksijenli solunum, salgılama ve granüllü endoplazmik retikulum bitki ve hayvan hücrelerinde ortaktır; büyük merkezî koful ise bitkilere özgüdür.",
-       "sayfa": 391,
-       "yil": "2022-TYT"
-      },
-      {
-       "id": "1.3-07",
-       "tur": "bosluk",
-       "cumle": "Tatlı sularda yaşayan tek hücreli protistlerde osmozla hücreye giren fazla suyu dışarı atan yapıya ___ koful denir.",
-       "cevap": "kontraktil",
-       "celdiriciler": [
-        "besin",
-        "merkezî",
-        "pigment"
+       "tur": "secmeli",
+       "soru": "Tatlı suda yaşayan bir terliksi hayvan (paramesyum), tuz derişimleri farklı ortamlara aktarılmış ve her ortamda kontraktil kofulunun dakikadaki boşalma sayısı ölçülerek grafik çizilmiştir.\nBu deneyin sonuçlarına göre aşağıdakilerden hangisi söylenebilir?",
+       "grafik": {
+        "x": "Ortamın tuzu",
+        "y": "Boşalma sayısı",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            12
+           ],
+           [
+            1,
+            8
+           ],
+           [
+            2,
+            5
+           ],
+           [
+            3,
+            2
+           ]
+          ]
+         }
+        ]
+       },
+       "secenekler": [
+        "Tuz derişimi arttıkça hücreye osmozla giren su azalmıştır.",
+        "Kontraktil koful hücreye giren fazla tuzu dışarı atmaktadır.",
+        "Kontraktil kofulun boşalması için enerji gerekmez.",
+        "Tuz derişimi arttıkça hücrenin ATP tüketimi artmıştır.",
+        "Kontraktil koful, sindirim enzimlerini lizozomdan alır."
        ],
-       "bilgi": "Besin kofulları sindirim enzimlerini kendileri üretmez, lizozomlardan alır; bitkilerdeki merkezî koful ise küçük kofulların kaynaşmasıyla oluşur.",
+       "dogru": 0,
+       "bilgi": "Ortam tuzlandıkça hücreyle ortam arasındaki derişim farkı azalır; osmozla giren su ve kofulun boşalma sıklığı düşer. Kontraktil koful fazla suyu ATP harcayarak atar. Lizozomdan enzim alan ise besin kofuludur.",
        "sayfa": 392,
        "yil": "2023-TYT"
       },
       {
-       "id": "1.3-08",
-       "tur": "dy",
-       "ifade": "İnsandaki tüm olgun vücut hücreleri tek bir çekirdeğe sahiptir.",
-       "dogru": false,
-       "bilgi": "Olgun alyuvarlar çekirdeksiz, çizgili kas hücreleri çok çekirdeklidir; çekirdek iki katlı bir zarla kuşatılmıştır.",
+       "id": "1.3-07",
+       "tur": "secmeli",
+       "soru": "Bir öğrenci mikroskopta, insan kanından hazırlanan preparatta çok sayıda hücrenin çekirdeksiz olduğunu, iskelet kasından hazırlanan preparatta ise tek bir hücrede birden fazla çekirdek bulunduğunu gözlemlemiştir.\nBu gözlemlerle ilgili aşağıdakilerden hangisi doğrudur?",
+       "secenekler": [
+        "Kandaki çekirdeksiz hücreler prokaryot hücrelerdir.",
+        "Çekirdeksiz olgun alyuvarlar bölünerek çoğalamaz.",
+        "Çok çekirdekli kas hücreleri mayozla oluşmuştur.",
+        "Çekirdeksiz hücrelerin DNA'sı sitoplazmada bulunur.",
+        "Çekirdek, bütün hücrelerde tek katlı bir zarla çevrilidir."
+       ],
+       "dogru": 1,
+       "bilgi": "Olgun alyuvarlar ökaryot hücrelerdir ancak gelişirken çekirdeklerini kaybeder; DNA taşımadıklarından bölünemezler. İskelet kası hücreleri çok çekirdeklidir. Çekirdek, iki katlı bir zarla çevrilidir.",
        "sayfa": 392,
        "yil": "2024-TYT"
       },
       {
-       "id": "1.3-09",
-       "tur": "eslestir",
-       "yonerge": "Hücre zarının yapısındaki molekülleri görevleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Glikoprotein",
-         "Hücrenin tanınması ve özgüllük"
-        ],
-        [
-         "Kolesterol",
-         "Hayvan hücre zarına dayanıklılık"
-        ],
-        [
-         "Kanal proteini",
-         "Kolaylaştırılmış difüzyonla madde geçişi"
-        ],
-        [
-         "Fosfolipit",
-         "Zarın çift katlı temel yapısı"
-        ]
-       ],
-       "bilgi": "Zardaki taşıyıcı proteinler aktif taşımada da görev alır; glikoprotein ve glikolipitler hücrenin dış yüzeyinde tanıma ve özgüllük sağlar.",
-       "sayfa": 392,
-       "yil": "2025-TYT"
-      },
-      {
-       "id": "1.3-10",
-       "tur": "bosluk",
-       "cumle": "Maddelerin yarı geçirgen bir zardan, derişimin yüksek olduğu yerden düşük olduğu yere enerji harcanmadan geçmesine ___ denir.",
-       "cevap": "difüzyon",
-       "celdiriciler": [
-        "aktif taşıma",
-        "endositoz",
-        "ekzositoz"
-       ],
-       "bilgi": "Böbrek yetmezliğinde uygulanan diyalizde kandaki zararlı maddeler yarı geçirgen zardan difüzyonla temizleyici sıvıya geçer.",
-       "sayfa": 392,
-       "yil": "2026-TYT"
-      },
-      {
-       "id": "1.3-11",
+       "id": "1.3-08",
        "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi yalnızca ökaryot hücrelerde bulunur?",
+       "soru": "Böbrekleri çalışmayan hastalara uygulanan diyalizde hastanın kanı, yalnızca küçük moleküllerin geçebildiği yarı geçirgen zardan yapılmış ince tüplerden geçirilir. Tüplerin çevresinde glikoz ve tuzları kandakine yakın derişimde içeren, üre içermeyen ve sürekli yenilenen bir sıvı bulunur.\nBu uygulamayla ilgili aşağıdakilerden hangisi söylenebilir?",
        "secenekler": [
-        "Ribozom",
-        "Mitokondri",
-        "Hücre zarı",
-        "Sitoplazma"
+        "Üre, temizleme sıvısından kana doğru geçer.",
+        "Üre, kandan sıvıya difüzyonla geçer.",
+        "Kan proteinleri zardan geçerek sıvıya aktarılır.",
+        "Glikozun büyük kısmı kandan temizleme sıvısına geçer.",
+        "Ürenin kandan çıkışı aktif taşımayla gerçekleşir."
        ],
        "dogru": 1,
-       "bilgi": "Prokaryotlarda halkasal DNA, ribozom, hücre duvarı ve kamçı bulunabilir; mitokondri gibi zarlı organeller ise ökaryotlara özgüdür.",
-       "sayfa": 393,
+       "bilgi": "Üre kanda bulunur, sıvıda bulunmaz; bu yüzden yarı geçirgen zardan enerji harcanmadan difüzyonla sıvıya geçer. Sıvının yenilenmesi derişim farkını korur. Glikoz ve tuzlar iki tarafta yakın derişimde olduğundan kaybolmaz; proteinler büyük olduğundan geçemez.",
+       "sayfa": 392,
        "yil": "2026-TYT"
       }
      ]
@@ -306,32 +412,39 @@
      "kartlar": [
       {
        "id": "1.4-01",
-       "tur": "dy",
-       "ifade": "Günümüzde kullanılan sınıflandırma sisteminde her tür, cins adı ve tür adından oluşan ikili adlandırmayla isimlendirilir.",
-       "dogru": true,
-       "bilgi": "Linnaeus'un temelini attığı sistem hiyerarşiktir ve organların köken benzerliğini esas alır; takımların içerdiği tür sayıları birbirinden farklıdır.",
-       "sayfa": 393,
-       "yil": "2020-TYT"
-      },
-      {
-       "id": "1.4-02",
-       "tur": "dy",
-       "ifade": "Aynı cinste yer alan farklı türlerin kromozom sayıları birbirinden farklı olabilir.",
-       "dogru": true,
-       "bilgi": "Aynı cinsteki türler aynı ailede yer alır ve ortak ataya dayalı benzerlik gösterir; ancak kromozom sayıları ve gen dizileri farklı olabilir, çiftleşirlerse verimli döl oluşmaz.",
+       "tur": "secmeli",
+       "soru": "Dört canlı türünün bilimsel adları Xus alba, Xus nigra, Yus alba ve Zus rubra'dır. Xus ve Yus cinsleri aynı ailede, Zus cinsi ise aynı takımdaki başka bir ailede yer almaktadır.\nBuna göre aşağıdakilerden hangisi söylenemez?",
+       "secenekler": [
+        "Xus alba ile Yus alba farklı türlerdir.",
+        "Dört tür de aynı takımda yer alır.",
+        "Yus alba ile Zus rubra aynı sınıfta yer alır.",
+        "Xus alba ile Xus nigra'nın kromozom sayıları kesinlikle aynıdır.",
+        "Xus alba'nın Xus nigra ile ortak özellikleri Zus rubra ile olandan fazladır."
+       ],
+       "dogru": 3,
+       "bilgi": "İkili adlandırmada ilk sözcük cins, ikincisi tür adıdır; tür adı cins adıyla birlikte anlam taşır. Aynı cinsteki türlerin ortak özellikleri fazladır ancak kromozom sayıları ve gen dizileri farklı olabilir; çiftleşirlerse genellikle verimli döl oluşmaz.",
        "sayfa": 393,
        "yil": "2021-TYT"
       },
       {
-       "id": "1.4-03",
-       "tur": "bosluk",
-       "cumle": "Sınıflandırmada âlemden türe doğru inildikçe aynı taksondaki canlıların ortak özellikleri ___.",
-       "cevap": "artar",
-       "celdiriciler": [
-        "azalır",
-        "değişmez"
+       "id": "1.4-02",
+       "tur": "secmeli",
+       "soru": "Hiyerarşik sınıflandırma sisteminde âlem basamağından tür basamağına doğru inildikçe,",
+       "oncul": [
+        "aynı taksondaki canlıların akrabalık derecesi,",
+        "bir taksondaki canlı çeşitliliği,",
+        "aynı taksondaki canlıların protein benzerliği"
        ],
-       "bilgi": "Alt basamaklara inildikçe ortak özellikler, akrabalık derecesi ve protein benzerliği artar; birey sayısı ve canlı çeşitliliği azalır.",
+       "kok": "niceliklerinden hangileri artar?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Alt basamaklara inildikçe ortak özellik, akrabalık ve protein benzerliği artar; taksondaki birey sayısı ve çeşitlilik azalır. Bugünkü sistem Linnaeus'un ikili adlandırmasına ve organların köken benzerliğine dayanır.",
        "sayfa": 393,
        "yil": "2024-TYT"
       }
@@ -347,59 +460,58 @@
      "kartlar": [
       {
        "id": "1.5-01",
-       "tur": "bosluk",
-       "cumle": "Omurgalılar arasında yalnızca kuşlarda bulunan vücut örtüsü ___.",
-       "cevap": "tüylerdir",
-       "celdiriciler": [
-        "pullardır",
-        "kıllardır",
-        "kemik plaklardır"
+       "tur": "secmeli",
+       "soru": "Bir öğrenci, omurgalı hayvanları gruplandırmak için bir tanımlama anahtarı hazırlamaktadır. Anahtarın ilk basamağına öyle bir özellik yazmak istemektedir ki bu özelliğe \"evet\" yanıtı alan bütün canlılar kuş olsun, \"hayır\" yanıtı alanların hiçbiri kuş olmasın.\nÖğrenci bu basamakta aşağıdaki özelliklerden hangisini kullanmalıdır?",
+       "secenekler": [
+        "Uçarak yer değiştirebilme",
+        "Kabuklu yumurtayla üreme",
+        "Vücut sıcaklığının sabit olması",
+        "Vücudun tüylerle örtülü olması",
+        "Akciğerlerle solunum yapma"
        ],
-       "bilgi": "Uçma yarasalarda, yumurtlama sürüngenlerde, sabit vücut sıcaklığı memelilerde de görülür; tüy ise yalnızca kuşlara özgüdür.",
+       "dogru": 3,
+       "bilgi": "Uçma yarasalarda, kabuklu yumurta sürüngenlerde, sabit vücut sıcaklığı memelilerde, akciğer solunumu birçok omurgalıda da görülür. Tüy ise omurgalılar arasında yalnızca kuşlara özgüdür.",
        "sayfa": 394,
        "yil": "2018-TYT"
       },
       {
        "id": "1.5-02",
-       "tur": "dy",
-       "ifade": "Yoğurt üretimindeki fermantasyonu mantarlar gerçekleştirir.",
-       "dogru": false,
-       "bilgi": "Yoğurt laktik asit bakterileriyle mayalanır; mantarlar ise ilaç üretiminde, madde döngüsünde ayrıştırıcı olarak ve bitkilerin mineral alımına yardım eden ortaklıklarda rol oynar.",
-       "sayfa": 394,
-       "yil": "2019-TYT"
-      },
-      {
-       "id": "1.5-03",
        "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi tek hücreli bir mantardır?",
-       "secenekler": [
-        "Maya mantarı",
-        "Şapkalı mantar",
-        "Kav mantarı",
-        "Ekmek küfü"
+       "soru": "Bakteriler ve protistler karşılaştırıldığında,",
+       "oncul": [
+        "fotosentez yapan türlerin bulunması,",
+        "fagositozla besin alma,",
+        "hastalık yapan türlerin bulunması,",
+        "eşeysiz üreme"
        ],
-       "dogru": 0,
-       "bilgi": "Mantarların hepsi ökaryot, heterotrof ve hücre duvarlıdır; maya gibi tek hücreli türler de bulunduğundan çok hücrelilik tüm mantarlarda ortak değildir.",
-       "sayfa": 394,
-       "yil": "2022-TYT"
-      },
-      {
-       "id": "1.5-04",
-       "tur": "dy",
-       "ifade": "Protistlerin bazıları fagositoz yapabilirken bakterilerde fagositoz görülmez.",
-       "dogru": true,
-       "bilgi": "Bakteriler ve protistlerde tek hücreli, fotosentez yapan, hastalık yapan ve eşeysiz çoğalan türler bulunur; fagositoz ise yalnızca ökaryot olan protistlerde görülür.",
+       "kok": "özelliklerinden hangileri her iki grupta da görülür?",
+       "secenekler": [
+        "I ve II",
+        "I ve III",
+        "II ve IV",
+        "I, II ve III",
+        "I, III ve IV"
+       ],
+       "dogru": 4,
+       "bilgi": "Siyanobakteriler ve öglena gibi fotosentetik türler, hastalık yapan türler ve eşeysiz üreme iki grupta da vardır. Fagositoz zar kesecikleri gerektirdiğinden yalnızca ökaryot protistlerde görülür; bakterilerde endositoz yoktur.",
        "sayfa": 394,
        "yil": "2023-TYT"
       },
       {
-       "id": "1.5-05",
-       "tur": "dy",
-       "ifade": "Bazı bakteriler bağırsakta K vitamini sentezleyerek insana yarar sağlar.",
-       "dogru": true,
-       "bilgi": "Bazı bakteriler K vitamini üretir, bazıları selülozu sindirir, bazıları fotosentez yapar; bakterilerde endositoz ise görülmez.",
-       "sayfa": 395,
-       "yil": "2025-TYT"
+       "id": "1.5-03",
+       "tur": "secmeli",
+       "soru": "Mantarların ve bakterilerin doğadaki ve insan yaşamındaki rolleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Bazı mantarlar antibiyotik gibi ilaçların üretiminde kullanılır.",
+        "Bazı bakteriler insan bağırsağında K vitamini sentezler.",
+        "Maya gibi tek hücreli mantar türleri de bulunur.",
+        "Sütün yoğurda dönüşmesini sağlayan canlılar mantarlardır.",
+        "Bazı mantarlar bitki kökleriyle ortaklık kurup mineral alımını artırır."
+       ],
+       "dogru": 3,
+       "bilgi": "Yoğurt, laktik asit bakterilerinin fermantasyonuyla oluşur. Mantarlar ilaç üretiminde, ayrıştırıcı olarak madde döngüsünde ve köklerle kurdukları ortaklıklarla bitkilerin mineral alımında rol oynar; mayalar tek hücreli mantarlardır.",
+       "sayfa": 394,
+       "yil": "2019-TYT"
       }
      ]
     },
@@ -411,76 +523,92 @@
      "kartlar": [
       {
        "id": "1.6-01",
-       "tur": "dy",
-       "ifade": "Soğan kökü hücrelerinde sitokinez, hücre zarının ortadan boğumlanmasıyla gerçekleşir.",
-       "dogru": false,
-       "bilgi": "Bitki hücrelerinde sitokinez ortada oluşan hücre plağıyla, hayvan hücrelerinde ise boğumlanmayla gerçekleşir.",
+       "tur": "secmeli",
+       "soru": "Soğan kök ucundaki bir hücre ile insan derisindeki bir hücrenin mitoz bölünmesi karşılaştırıldığında,",
+       "oncul": [
+        "DNA'nın bölünmeden önce interfazda eşlenmesi,",
+        "sitokinezin hücre zarının ortadan boğumlanmasıyla gerçekleşmesi,",
+        "iğ ipliklerinin sentriyollerden oluşması,",
+        "kardeş kromatitlerin anafazda zıt kutuplara çekilmesi"
+       ],
+       "kok": "olaylarından hangileri her iki hücrede de görülür?",
+       "secenekler": [
+        "I ve IV",
+        "II ve III",
+        "II ve IV",
+        "I, II ve IV",
+        "I, III ve IV"
+       ],
+       "dogru": 0,
+       "bilgi": "DNA eşlenmesi ve kromatitlerin anafazda ayrılması iki hücrede de görülür. Bitki hücresinde sentriyol yoktur ve sitokinez ortada oluşan hücre plağıyla tamamlanır; hayvan hücresi ise boğumlanarak bölünür.",
        "sayfa": 395,
        "yil": "2018-TYT"
       },
       {
        "id": "1.6-02",
-       "tur": "bosluk",
-       "cumle": "Bal arılarında erkek arıların döllenmemiş yumurtalardan gelişmesine ___ denir.",
-       "cevap": "partenogenez",
-       "celdiriciler": [
-        "rejenerasyon",
-        "tomurcuklanma",
-        "sporla üreme"
+       "tur": "secmeli",
+       "soru": "Bal arılarında (2n = 32) kraliçe arı, erkek arılarla çiftleşerek aldığı spermleri depolar. Kraliçenin bıraktığı döllenmiş yumurtalardan dişi arılar, döllenmemiş yumurtalardan ise erkek arılar gelişir. Dişi larvalardan arı sütüyle beslenenler kraliçe, diğerleri işçi arı olur.\nBu bilgilere göre aşağıdakilerden hangisine ulaşılabilir?",
+       "secenekler": [
+        "Erkek arıların vücut hücreleri 32 kromozomludur.",
+        "Kraliçe ile işçi arı arasındaki fark kalıtsal yapıdan kaynaklanır.",
+        "Erkek arılar, kalıtsal bilgilerinin tamamını anneden alır.",
+        "İşçi arılar döllenmemiş yumurtalardan gelişir.",
+        "Kraliçe arı, eşeysiz üremenin bir ürünüdür."
        ],
-       "bilgi": "Bal arılarında döllenmiş yumurtalardan (2n) dişiler, döllenmemiş yumurtalardan (n) erkekler gelişir; arı sütüyle beslenen dişi larva kraliçe olur.",
+       "dogru": 2,
+       "bilgi": "Erkek arılar döllenmemiş yumurtadan partenogenezle gelişir; n = 16 kromozomludur ve kalıtsal bilgilerinin tamamı annedendir. Kraliçe ve işçiler döllenmiş yumurtadan gelişen dişilerdir; aralarındaki fark beslenmeden kaynaklanır.",
        "sayfa": 395,
        "yil": "2019-TYT"
       },
       {
        "id": "1.6-03",
-       "tur": "dy",
-       "ifade": "Mitoz bölünme sonucunda oluşan iki yavru hücrenin kromozom sayısı ana hücreninkinin yarısı kadardır.",
-       "dogru": false,
-       "bilgi": "Mitozda oluşan iki yavru hücre ana hücreyle aynı sayıda kromozom taşır; diploit bir hücreden diploit hücreler oluşur.",
-       "sayfa": 396,
-       "yil": "2023-TYT"
-      },
-      {
-       "id": "1.6-04",
        "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi eşeyli üremeyle gerçekleşir?",
+       "soru": "Kromozom sayısı 2n = 8 olan bir hayvan hücresinin geçirdiği bir hücre döngüsü boyunca çekirdeğindeki DNA miktarının değişimi grafikte verilmiştir.\nBuna göre aşağıdakilerden hangisi doğrudur?",
+       "grafik": {
+        "x": "Zaman",
+        "y": "DNA miktarı",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            2
+           ],
+           [
+            3,
+            2
+           ],
+           [
+            5,
+            4
+           ],
+           [
+            9,
+            4
+           ],
+           [
+            9,
+            2
+           ],
+           [
+            12,
+            2
+           ]
+          ]
+         }
+        ]
+       },
        "secenekler": [
-        "Hidrada tomurcuklanmayla yeni birey oluşması",
-        "Bal arılarında kraliçe arının oluşması",
-        "Deniz yıldızının kopan kolundan yeni birey oluşması",
-        "Bakterilerin ikiye bölünerek çoğalması"
+        "Kromozomlar, DNA miktarı artarken ekvatoral düzlemde dizilir.",
+        "DNA eşlenmesi, bölünme başlamadan önceki interfazda olur.",
+        "Oluşan yavru hücrelerin her biri 4 kromozom taşır.",
+        "DNA miktarı yarıya inerken homolog kromozomlar ayrılır.",
+        "Metafaz evresinde hücrede toplam 8 kromatit bulunur."
        ],
        "dogru": 1,
-       "bilgi": "Kraliçe arı döllenmiş yumurtadan gelişir; tomurcuklanma, rejenerasyon, bölünme ve sporla üreme eşeysiz üreme örnekleridir.",
+       "bilgi": "DNA interfazda eşlenir; ardından profaz, metafaz (8 kromozom, 16 kromatit), anafaz ve telofaz gelir. Mitozda kardeş kromatitler ayrılır, homologlar ayrılmaz; oluşan iki hücre de ana hücre gibi 2n = 8 kromozomludur.",
        "sayfa": 396,
-       "yil": "2024-TYT"
-      },
-      {
-       "id": "1.6-05",
-       "tur": "eslestir",
-       "yonerge": "Mitoz evrelerini o evrede görülen olaylarla eşleştir.",
-       "ciftler": [
-        [
-         "Profaz",
-         "Kromatin kısalıp kalınlaşır, çekirdek zarı parçalanır"
-        ],
-        [
-         "Metafaz",
-         "Kromozomlar ekvatoral düzlemde dizilir"
-        ],
-        [
-         "Anafaz",
-         "Kardeş kromatitler zıt kutuplara çekilir"
-        ],
-        [
-         "Telofaz",
-         "Çekirdek zarı yeniden oluşur"
-        ]
-       ],
-       "bilgi": "DNA eşlenmesi bölünmeden önce interfazda gerçekleşir; bitki hücrelerinde sentriyol bulunmaz ve sitokinez hücre plağıyla tamamlanır.",
-       "sayfa": 396,
-       "yil": "2025-TYT"
+       "yil": "2023-TYT"
       }
      ]
     },
@@ -492,35 +620,42 @@
      "kartlar": [
       {
        "id": "1.7-01",
-       "tur": "dy",
-       "ifade": "Mayozda krossing over ve homolog kromozomların kutuplara rastgele dağılması, oluşan gametlerin genetik çeşitliliğini artırır.",
-       "dogru": true,
-       "bilgi": "Kardeşler arasındaki kalıtsal farklılıklar krossing over, homologların bağımsız dağılımı ve rastgele döllenmeden kaynaklanır; kuluçka sıcaklığı gibi çevre koşulları kalıtsal çeşitlilik oluşturmaz.",
+       "tur": "secmeli",
+       "soru": "Aynı anne ve babadan doğan kardeşler arasında kalıtsal farklılıklar görülmesinde,",
+       "oncul": [
+        "mayoz I'de homolog kromozomlar arasında krossing over olması,",
+        "homolog kromozomların kutuplara rastgele dağılması,",
+        "gametlerin rastgele döllenmesi,",
+        "embriyonun geliştiği ortamın sıcaklığı"
+       ],
+       "kok": "durumlarından hangileri etkilidir?",
+       "secenekler": [
+        "I ve II",
+        "I ve IV",
+        "II ve III",
+        "I, II ve III",
+        "II, III ve IV"
+       ],
+       "dogru": 3,
+       "bilgi": "Krossing over, homologların bağımsız dağılımı ve rastgele döllenme genetik çeşitlilik oluşturur. Ortam sıcaklığı gibi çevre koşulları fenotipi etkileyebilir ama kalıtsal yapıyı değiştirmediğinden kalıtsal farklılık oluşturmaz.",
        "sayfa": 397,
        "yil": "2020-TYT"
       },
       {
        "id": "1.7-02",
-       "tur": "dy",
-       "ifade": "Mayozda krossing over, profaz II evresinde kardeş kromatitler arasında gerçekleşir.",
-       "dogru": false,
-       "bilgi": "Krossing over profaz I'de homolog kromozomların kardeş olmayan kromatitleri arasında olur; mayoz I sonunda oluşan hücreler n kromozomludur.",
+       "tur": "secmeli",
+       "soru": "Kromozom sayısı 2n = 6 olan bir hücrenin geçirdiği mayoz bölünmeyle ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Bölünme başlamadan önce DNA yalnızca bir kez eşlenir.",
+        "Krossing over, mayoz II'nin profazında görülür.",
+        "Homolog kromozomlar mayoz I'de birbirinden ayrılır.",
+        "Mayoz I sonunda oluşan hücreler 3 kromozomludur.",
+        "Bölünme sonunda 3 kromozomlu dört hücre oluşur."
+       ],
+       "dogru": 1,
+       "bilgi": "Krossing over profaz I'de homolog kromozomların kardeş olmayan kromatitleri arasında olur. DNA bir kez eşlenip art arda iki bölünme gerçekleştiğinden 3 kromozomlu dört hücre oluşur ve hücre başına DNA miktarı yarıya iner.",
        "sayfa": 397,
        "yil": "2021-TYT"
-      },
-      {
-       "id": "1.7-03",
-       "tur": "bosluk",
-       "cumle": "Mayoz bölünme tamamlandığında bir ana hücreden ___ yavru hücre oluşur.",
-       "cevap": "dört",
-       "celdiriciler": [
-        "iki",
-        "sekiz",
-        "bir"
-       ],
-       "bilgi": "Mitozda iki, mayozda dört hücre oluşur; mayozda DNA bir kez eşlenir ve art arda iki bölünme gerçekleştiği için hücre başına DNA miktarı yarıya iner.",
-       "sayfa": 398,
-       "yil": "2026-TYT"
       }
      ]
     },
@@ -532,64 +667,111 @@
      "kartlar": [
       {
        "id": "1.8-01",
-       "tur": "dy",
-       "ifade": "X kromozomuna bağlı çekinik bir özellik, erkeklerde tek bir alelin bulunmasıyla fenotipte ortaya çıkar.",
-       "dogru": true,
-       "bilgi": "Erkekler tek X kromozomu taşıdığı için X'e bağlı çekinik özellikler erkeklerde daha sık görülür ve fenotipin cinsiyetlere dağılımı farklı olabilir.",
+       "tur": "secmeli",
+       "soru": "Renk körlüğü X kromozomuna bağlı çekinik bir alelle kalıtılır. Renk körlüğü alelini taşıyan normal görüşlü bir kadın ile normal görüşlü bir erkeğin çocuklarıyla ilgili,",
+       "oncul": [
+        "Renk körü bir kız çocuklarının olması beklenmez.",
+        "Doğacak bir çocuğun renk körü olma olasılığı 1/4'tür.",
+        "Erkek çocukların tamamı bu alelin taşıyıcısıdır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Kızlar babadan normal alelli X alır, bu yüzden renk körü olmaz. Çocukların 1/4'ü renk körü erkektir. Erkekler tek X taşıdığından ya renk körü ya normaldir, taşıyıcı olmaz; X'e bağlı çekinik özellikler erkeklerde daha sık görülür.",
        "sayfa": 398,
        "yil": "2018-TYT"
       },
       {
        "id": "1.8-02",
-       "tur": "bosluk",
-       "cumle": "Y kromozomuna bağlı bir özellik babadan yalnızca ___ aktarılır.",
-       "cevap": "oğullarına",
-       "celdiriciler": [
-        "kızlarına",
-        "tüm çocuklarına"
+       "tur": "secmeli",
+       "soru": "Bir ailede yalnızca erkek bireylerde görülen bir özelliğin aile bireylerindeki dağılımı tabloda verilmiştir.\nBu özelliğin kalıtımıyla ilgili aşağıdakilerden hangisi kesin olarak söylenebilir?",
+       "tablo": [
+        [
+         "Birey",
+         "Cinsiyet",
+         "Özellik"
+        ],
+        [
+         "Anne",
+         "Kadın",
+         "Yok"
+        ],
+        [
+         "Baba",
+         "Erkek",
+         "Var"
+        ],
+        [
+         "1. çocuk",
+         "Erkek",
+         "Var"
+        ],
+        [
+         "2. çocuk",
+         "Kadın",
+         "Yok"
+        ],
+        [
+         "3. çocuk",
+         "Erkek",
+         "Yok"
+        ]
        ],
-       "bilgi": "Y'ye bağlı özellik babada varsa tüm oğullarında görülür; yalnızca erkeklerde görülen bir hastalık X'e bağlı çekinik alelle de kalıtılıyor olabilir.",
+       "secenekler": [
+        "Özellik Y kromozomuyla kalıtılmamaktadır.",
+        "Özellik X'e bağlı baskın alelle kalıtılmaktadır.",
+        "Özellik X'e bağlı çekinik alelle kalıtılmaktadır.",
+        "Özellik otozomal çekinik alelle kalıtılmaktadır.",
+        "Anne bu özellik bakımından homozigottur."
+       ],
+       "dogru": 0,
+       "bilgi": "Y'ye bağlı bir özellik babada varsa bütün oğullarında görülür; 3. çocukta görülmediğinden özellik Y'ye bağlı değildir. Babanın kızında görülmemesi X'e bağlı baskınlığı da dışlar; X'e bağlı çekinik ya da otozomal kalıtım ise kesinleştirilemez.",
        "sayfa": 399,
        "yil": "2020-TYT"
       },
       {
        "id": "1.8-03",
-       "tur": "dy",
-       "ifade": "Erkek bir çocuktaki X kromozomuna bağlı alel her zaman annesinden kalıtılır.",
-       "dogru": true,
-       "bilgi": "Babalar oğullarına Y, kızlarına X kromozomu aktarır; bu yüzden erkek çocuktaki X'e bağlı alel anneden gelir.",
-       "sayfa": 400,
-       "yil": "2022-TYT"
-      },
-      {
-       "id": "1.8-04",
-       "tur": "dy",
-       "ifade": "Renk körü bir kızın babası kesinlikle renk körüdür.",
-       "dogru": true,
-       "bilgi": "Renk körü kızın iki X kromozomunda da çekinik alel bulunur; babası kesinlikle renk körüdür, annesi ise taşıyıcı ya da renk körü olabilir.",
+       "tur": "secmeli",
+       "soru": "X kromozomuna bağlı çekinik bir alelle kalıtılan hemofili hastalığıyla ilgili,",
+       "oncul": [
+        "Hemofili olan bir erkek, bu aleli kesinlikle annesinden almıştır.",
+        "Hemofili olan bir kızın babası kesinlikle hemofilidir.",
+        "Hemofili olan bir erkeğin oğulları kesinlikle hemofilidir.",
+        "Hemofili olan bir kadının oğullarının tamamı hemofilidir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "I ve II",
+        "II ve IV",
+        "I, II ve IV",
+        "I, III ve IV",
+        "II, III ve IV"
+       ],
+       "dogru": 2,
+       "bilgi": "Babalar oğullarına Y, kızlarına X kromozomu verir. Bu yüzden erkekteki X'e bağlı alel anneden gelir; hasta kızın iki X'i de çekinik alelli olduğundan babası hastadır. Hasta erkeğin oğulları X'i anneden aldığından hasta olmayabilir.",
        "sayfa": 401,
        "yil": "2023-TYT"
       },
       {
-       "id": "1.8-05",
-       "tur": "bosluk",
-       "cumle": "Kanın pıhtılaşmasında bozukluğa yol açan ve X kromozomundaki çekinik bir alelle kalıtılan hastalığa ___ denir.",
-       "cevap": "hemofili",
-       "celdiriciler": [
-        "orak hücre anemisi",
-        "albinizm",
-        "fenilketonüri"
+       "id": "1.8-04",
+       "tur": "secmeli",
+       "soru": "Otozomal çekinik bir alelle kalıtılan albinizm bakımından, albino bir erkek ile annesi albino olan normal pigmentli bir kadın evlenmiştir.\nBu ailede doğacak bir çocuğun normal pigmentli bir kız olma olasılığı kaçtır?",
+       "secenekler": [
+        "1/8",
+        "1/4",
+        "3/8",
+        "1/2",
+        "3/4"
        ],
-       "bilgi": "Hemofili ve renk körlüğü X'e bağlı çekinik kalıtılır; orak hücre anemisi, albinizm ve fenilketonüri ise otozomal çekinik hastalıklardır.",
-       "sayfa": 401,
-       "yil": "2024-TYT"
-      },
-      {
-       "id": "1.8-06",
-       "tur": "dy",
-       "ifade": "Otozomal çekinik bir özelliği fenotipinde gösteren bireyin tüm çocukları bu özelliğin alelini taşır.",
-       "dogru": true,
-       "bilgi": "Özelliği gösteren birey çekinik homozigottur ve her çocuğuna bir çekinik alel aktarır; özelliği göstermeyen çocukları ise taşıyıcı (heterozigot) olur.",
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "Annesi albino olan kadın ondan çekinik alel almıştır (Aa); albino erkek aa'dır. Çocukların 1/2'si Aa (normal), 1/2'si aa olur. Normal pigmentli kız olasılığı 1/2 × 1/2 = 1/4'tür; normal pigmentli çocukların hepsi taşıyıcıdır.",
        "sayfa": 402,
        "yil": "2025-TYT"
       }
@@ -606,33 +788,61 @@
      "kartlar": [
       {
        "id": "1.9-01",
-       "tur": "bosluk",
-       "cumle": "Parçalanamayan zehirli maddelerin besin zincirinde üst basamaklara doğru artan yoğunlukta birikmesine ___ denir.",
-       "cevap": "biyolojik birikim",
-       "celdiriciler": [
-        "ötrofikasyon",
-        "biyolojik mücadele",
-        "süksesyon"
+       "tur": "secmeli",
+       "soru": "Bir göl ekosisteminde fitoplanktonlar zooplanktonlara, zooplanktonlar balık larvalarına ve küçük balıklara, balık larvaları da küçük balıklara besin olmaktadır. Balıkçıllar ise yalnızca küçük balıklarla beslenmektedir.\nBu besin ağıyla ilgili,",
+       "oncul": [
+        "Küçük balıklar, beslendikleri canlıya göre ikincil ya da üçüncül tüketici olabilir.",
+        "Balıkçıl popülasyonuna aktarılan toplam enerji, küçük balık popülasyonuna aktarılandan fazladır.",
+        "Göle karışan ve parçalanamayan bir tarım ilacı en yüksek derişimde balıkçıllarda birikir."
        ],
-       "bilgi": "Biyolojik birikim en çok besin zincirinin en üst basamağındaki canlılarda, örneğin balık kartalı gibi yırtıcı kuşlarda görülür.",
-       "sayfa": 403,
-       "yil": "2019-TYT"
-      },
-      {
-       "id": "1.9-02",
-       "tur": "dy",
-       "ifade": "Bir besin ağında aynı canlı, beslendiği canlıya göre farklı tüketici basamaklarında yer alabilir.",
-       "dogru": true,
-       "bilgi": "Besin ağı birden fazla besin zincirinden oluşur; örneğin zooplanktonla beslenen bir denizanası ikincil, balık larvasıyla beslendiğinde üçüncül tüketici olur.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Küçük balık zooplanktonu yediğinde ikincil, larvayı yediğinde üçüncül tüketicidir. Enerji üst basamaklara aktarılırken azalır. Parçalanamayan maddeler üst basamaklara doğru birikir; en üstteki balıkçıllarda derişim en yüksektir.",
        "sayfa": 403,
        "yil": "2021-TYT"
       },
       {
-       "id": "1.9-03",
-       "tur": "dy",
-       "ifade": "Bir ekosistemde en fazla biyokütle ikincil tüketiciler basamağında bulunur.",
-       "dogru": false,
-       "bilgi": "En fazla biyokütle üreticilerdedir; alt trofik düzeyden üst düzeylere doğru aktarılan enerji ve biyokütle azalır.",
+       "id": "1.9-02",
+       "tur": "secmeli",
+       "soru": "Karasal bir ekosistemde tek bir besin zincirini oluşturan K, L, M ve N canlılarının dokularında, ortama karışan ve parçalanamayan bir böcek ilacının derişimi ölçülmüş ve sonuçlar tabloda verilmiştir.\nBuna göre aşağıdakilerden hangisi söylenebilir?",
+       "tablo": [
+        [
+         "Canlı",
+         "İlaç derişimi (ppm)"
+        ],
+        [
+         "K",
+         "0,04"
+        ],
+        [
+         "L",
+         "25"
+        ],
+        [
+         "M",
+         "0,5"
+        ],
+        [
+         "N",
+         "3"
+        ]
+       ],
+       "secenekler": [
+        "Besin zincirinin ilk halkası L'dir.",
+        "N, M ile beslenen bir tüketicidir.",
+        "Birim alandaki biyokütlesi en fazla olan L'dir.",
+        "M'ye aktarılan enerji, K'deki enerjiden fazladır.",
+        "İlaç derişimi zincirin üst basamaklarına doğru azalmıştır."
+       ],
+       "dogru": 1,
+       "bilgi": "Parçalanamayan maddeler her basamakta birikerek artar; derişimi en düşük K üretici, en yüksek L son tüketicidir: K → M → N → L. Enerji ve biyokütle üst basamaklara doğru azaldığından en fazla biyokütle K'dedir.",
        "sayfa": 404,
        "yil": "2023-TYT"
       }
@@ -651,45 +861,41 @@
      "kartlar": [
       {
        "id": "1.10-01",
-       "tur": "dy",
-       "ifade": "Türkiye'nin üç kıta arasında geçiş noktasında bulunması ve kısa mesafelerde farklı iklim ve yer şekillerine sahip olması biyolojik çeşitliliğini artırır.",
-       "dogru": true,
-       "bilgi": "Canlıların göç yolları üzerinde bulunma, iklim çeşitliliği ve engebeli yer şekilleri Türkiye'yi biyoçeşitlilik ve endemik tür bakımından zengin kılar.",
+       "tur": "secmeli",
+       "soru": "Biyolojik çeşitlilik ve doğal kaynakların sürdürülebilir kullanımıyla ilgili,",
+       "oncul": [
+        "Türkiye'nin üç kıta arasında köprü olması ve kısa mesafelerde değişen iklim ile yer şekilleri endemik tür zenginliğini artırmıştır.",
+        "Sürdürülebilir bir yaşam için kişi başına düşen ekolojik ayak izinin büyümesi gerekir.",
+        "Balıkçılıkta av miktarı, popülasyonların kendini yenileyebileceği sınırlar gözetilerek belirlenmelidir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Göç yolları üzerinde bulunma, iklim ve yer şekli çeşitliliği Türkiye'yi endemik türlerce zengin kılar. Sürdürülebilirlik için ekolojik ayak izi küçültülmeli, kaynaklar popülasyon büyüklükleri gözetilerek kullanılmalıdır.",
        "sayfa": 404,
        "yil": "2020-TYT"
       },
       {
        "id": "1.10-02",
-       "tur": "dy",
-       "ifade": "Sürdürülebilir bir yaşam için kişi başına düşen ekolojik ayak izinin artırılması gerekir.",
-       "dogru": false,
-       "bilgi": "Sürdürülebilirlik için ekolojik ayak izi küçültülmeli, biyoçeşitlilik kayıpları azaltılmalı ve doğal kaynaklar popülasyon büyüklükleri dikkate alınarak kullanılmalıdır.",
-       "sayfa": 405,
-       "yil": "2022-TYT"
-      },
-      {
-       "id": "1.10-03",
        "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi biyolojik çeşitliliğe zarar verir?",
+       "soru": "Bir bölgede tarım arazisi kazanmak için geniş bir sazlık alan kurutulmuş, açılan tarlalarda yıllarca yoğun biçimde tarım ilacı kullanılmıştır. Bu süreçte bölgeye uğrayan göçmen kuşların sayısı ve bölgedeki tür çeşitliliği belirgin biçimde azalmıştır.\nBu durumla ilgili aşağıdakilerden hangisi söylenemez?",
        "secenekler": [
-        "Sulak alanların kurutulması",
-        "Endemik türlerin koruma altına alınması",
-        "Tarım ilacı kullanımının azaltılması",
-        "Kontrolsüz avcılığın yasaklanması"
+        "Sazlığın kurutulması birçok türün yaşam alanını yok etmiştir.",
+        "Tarım ilacı, besin zincirinin üst basamaklarındaki kuşlarda birikmiş olabilir.",
+        "Bölgedeki biyolojik çeşitlilik insan etkinlikleri sonucu azalmıştır.",
+        "Tarım ilacının dokulardaki derişimi üst basamaklara doğru azalmıştır.",
+        "Bu uygulamalar doğal kaynakların sürdürülebilir kullanımına uygun değildir."
        ],
-       "dogru": 0,
-       "bilgi": "Sazlık ve bataklıklar pek çok canlıya yaşam alanı sağlar; bu alanların kurutulması biyolojik çeşitliliği azaltır.",
+       "dogru": 3,
+       "bilgi": "Sazlık ve bataklıklar birçok canlıya yaşam ve üreme alanı sağlar; kurutulmaları biyolojik çeşitliliği azaltır. Parçalanamayan tarım ilaçları üreticilerde en az, üst düzey tüketicilerde en fazla birikir.",
        "sayfa": 405,
        "yil": "2025-TYT"
-      },
-      {
-       "id": "1.10-04",
-       "tur": "dy",
-       "ifade": "Besin zincirinde toksik madde birikimi üreticilerden üst düzey tüketicilere doğru azalır.",
-       "dogru": false,
-       "bilgi": "Toksik maddeler üst trofik düzeylere doğru artarak birikir; algler gibi ototroflarda en az, karnivor balıklarda en fazla birikim beklenir.",
-       "sayfa": 405,
-       "yil": "2026-TYT"
       }
      ]
     }

@@ -55,6 +55,19 @@ Her kartta ortak alanlar:
 ```
 4 seçenek (en az 3, en fazla 5). `dogru` doğru seçeneğin sırası (0'dan başlar). Uygulama seçenekleri karıştırır.
 
+**YKS biçimi** (yeni içerik yalnızca bu biçimde yazılır, bkz. `docs/yks-soru-yazimi.md`): 5 şık ve şu isteğe bağlı alanlar.
+
+| alan | açıklama |
+|------|----------|
+| `soru` | Parça/durum + kök; paragraflar `\n` ile ayrılır, son paragraf kalın kök olur (≤ 900, paragraf ≤ 650) |
+| `oncul` | Öncüllü sorularda 2–5 ifade (I, II, III…). Şıklar `Yalnız I`, `I ve II`, `I, II ve III` ya da `II - I - III` biçiminde; karıştırılmaz |
+| `kok` | Öncüllerden sonraki soru kökü; yalnızca `oncul` ile |
+| `tablo` | `[["başlık", …], ["satır adı", …]]` (2–9 satır, 2–7 sütun, hücre ≤ 40) |
+| `grafik` | `{ "x": "t (s)", "y": "x (m)", "seriler": [{ "ad": "K", "n": [[0, 0], [4, 40]] }], "xIsaret"?: [[1, "t"]], "yIsaret"?: [[10, "v"]] }` |
+| `sirali` | `true`: şıklar verilen sırayla gösterilir (sayısal cevaplar küçükten büyüğe) |
+
+`bilgi` YKS sorularında çözümdür (≤ 360). Denetim: `node scripts/validate-content.mjs --yks content/<kitap>.json`.
+
 ### `dy` — doğru / yanlış
 ```json
 { "id": "1.2-02", "tur": "dy",

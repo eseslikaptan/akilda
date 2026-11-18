@@ -16,142 +16,218 @@
      "kartlar": [
       {
        "id": "1.1-01",
-       "tur": "bosluk",
-       "cumle": "Doğrusal bir yolda eşit zaman aralıklarında eşit yer değiştirmeler yapan bir aracın hareketine ___ hareket denir.",
-       "cevap": "sabit hızlı",
-       "celdiriciler": [
-        "sabit ivmeli",
-        "düzgün yavaşlayan",
-        "titreşim"
+       "tur": "secmeli",
+       "soru": "Doğrusal bir yolda hareket eden K ve L araçlarının konum-zaman grafikleri şekildeki gibidir.\nBuna göre,",
+       "grafik": {
+        "x": "t (s)",
+        "y": "x (m)",
+        "seriler": [
+         {
+          "ad": "K",
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            4,
+            40
+           ]
+          ]
+         },
+         {
+          "ad": "L",
+          "n": [
+           [
+            0,
+            20
+           ],
+           [
+            4,
+            40
+           ]
+          ]
+         }
+        ]
+       },
+       "oncul": [
+        "K'nin hızının büyüklüğü L'ninkinin 2 katıdır.",
+        "t = 4 s anında araçlar yan yanadır.",
+        "0-4 s aralığında L'nin yer değiştirmesi K'ninkinden büyüktür."
        ],
-       "bilgi": "Sabit hızlı hareket eden cismin hızının büyüklüğü ve doğrultusu değişmez, ivmesi sıfırdır.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "x-t grafiğinin eğimi hızı verir: K için 40/4 = 10 m/s, L için 20/4 = 5 m/s. t = 4 s'de ikisi de x = 40 m'dedir. Yer değiştirmeler K: 40 m, L: 20 m.",
        "sayfa": 20
       },
       {
        "id": "1.1-02",
        "tur": "secmeli",
-       "soru": "Sabit sürat ve sabit hız kavramlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+       "soru": "Doğrusal bir yolda hareket eden bir aracın hız-zaman grafiği şekildeki gibidir.\nAracın 0-6 s aralığındaki yer değiştirmesinin büyüklüğü Δx, aldığı yol s olduğuna göre Δx/s oranı kaçtır?",
+       "grafik": {
+        "x": "t (s)",
+        "y": "v (m/s)",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            10
+           ],
+           [
+            4,
+            10
+           ],
+           [
+            4,
+            -5
+           ],
+           [
+            6,
+            -5
+           ]
+          ]
+         }
+        ]
+       },
        "secenekler": [
-        "Sabit sürat skaler, sabit hız vektöreldir.",
-        "Her ikisi de vektörel niceliktir.",
-        "Sabit hız yalnızca büyüklüğü ifade eder.",
-        "Her ikisi de skaler niceliktir."
+        "1/5",
+        "2/5",
+        "3/5",
+        "4/5",
+        "1"
        ],
-       "dogru": 0,
-       "bilgi": "Sabit sürat yalnızca büyüklüğü ifade eden skaler bir niceliktir; sabit hız ise hem büyüklüğü hem yönü olan vektörel bir niceliktir.",
+       "sirali": true,
+       "dogru": 2,
+       "bilgi": "Grafiğin altındaki alan yer değiştirmeyi verir: 0-4 s'de +40 m, 4-6 s'de −10 m. Δx = 30 m, s = 40 + 10 = 50 m; oran 3/5.",
        "sayfa": 20
       },
       {
        "id": "1.1-03",
        "tur": "secmeli",
-       "soru": "Konum-zaman (x-t) grafiğinin eğimi hangi niceliği verir?",
-       "secenekler": [
-        "İvmeyi",
-        "Alınan yolu",
-        "Hızı",
-        "Zamanı"
+       "soru": "Bir araç, virajları da olan bir yarış pistinde bir tur boyunca sabit süratle hareket etmektedir.\nBu araç için,",
+       "oncul": [
+        "Eşit zaman aralıklarında eşit uzunlukta yollar alır.",
+        "Hızı sabittir.",
+        "İvmesi sıfırdır."
        ],
-       "dogru": 2,
-       "bilgi": "x-t grafiğinin eğimi pozitifse hız pozitif, negatifse hız negatiftir.",
+       "kok": "yargılarından hangileri kesinlikle doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Sabit sürat, eşit sürelerde eşit yol alınması demektir. Virajlarda hareket yönü değiştiği için hız (vektörel nicelik) değişir; bu yüzden ivme sıfır değildir.",
        "sayfa": 20
       },
       {
        "id": "1.1-04",
        "tur": "secmeli",
-       "soru": "Hız-zaman grafiği ile zaman ekseni arasında kalan alan hangi niceliği verir?",
-       "secenekler": [
-        "Yer değiştirmeyi",
-        "İvmeyi",
-        "Hız değişimini",
-        "Konumu"
+       "soru": "Doğrusal bir yolda birbirine doğru sabit hızlarla hareket eden K ve L araçlarının bazı anlardaki konumları tabloda verilmiştir.\nAraçlar hareketlerini bu şekilde sürdürürse t = 0 anından kaç saniye sonra yan yana gelir?",
+       "tablo": [
+        [
+         "t (s)",
+         "0",
+         "1",
+         "2"
+        ],
+        [
+         "K'nin konumu (m)",
+         "0",
+         "10",
+         "20"
+        ],
+        [
+         "L'nin konumu (m)",
+         "60",
+         "55",
+         "50"
+        ]
        ],
-       "dogru": 0,
-       "bilgi": "Sabit hızlı harekette yer değiştirme, hız ile geçen sürenin çarpımına eşittir.",
+       "secenekler": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "8"
+       ],
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "K'nin hızı +10 m/s, L'nin hızı −5 m/s. Yan yana gelmeleri için 10t = 60 − 5t olmalı; t = 4 s.",
        "sayfa": 20
       },
       {
        "id": "1.1-05",
-       "tur": "dy",
-       "ifade": "Sabit hızla hareket eden bir aracın hız-zaman grafiğinde grafik çizgisi yataydır.",
-       "dogru": true,
-       "bilgi": "Hız zamanla değişmediği için hız-zaman grafiği zaman eksenine paralel bir doğrudur.",
+       "tur": "secmeli",
+       "soru": "Doğrusal bir yolda hareket eden bir cismin konum-zaman grafiği şekildeki gibidir.\nBuna göre cisimle ilgili,",
+       "grafik": {
+        "x": "t (s)",
+        "y": "x (m)",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            30
+           ],
+           [
+            6,
+            -30
+           ]
+          ]
+         }
+        ],
+        "xIsaret": [
+         [
+          3,
+          "3"
+         ],
+         [
+          6,
+          "6"
+         ]
+        ]
+       },
+       "oncul": [
+        "−x yönünde hareket etmektedir.",
+        "Hızının büyüklüğü 10 m/s'dir.",
+        "t = 3 s anında hareket yönünü değiştirmiştir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Eğim negatif ve sabittir: v = −60/6 = −10 m/s. Cisim sürekli −x yönünde gider; t = 3 s'de yalnızca x = 0 noktasından geçer, yön değiştirmez.",
        "sayfa": 20
       },
       {
        "id": "1.1-06",
-       "tur": "dy",
-       "ifade": "Konum-zaman grafiğinin eğimi negatif olan bir araç +x yönünde hareket eder.",
-       "dogru": false,
-       "bilgi": "x-t grafiğinin eğimi negatif olan aracın hızı negatiftir; araç -x yönünde yer değiştirir.",
-       "sayfa": 20
-      },
-      {
-       "id": "1.1-07",
-       "tur": "eslestir",
-       "yonerge": "Sistemleri hareketleriyle ilgili özellikleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Sürat sabitleyici",
-         "Gaz pedalına basmadan belirlenen süratin sabit kalmasını sağlar."
-        ],
-        [
-         "Taşıyıcı bant (konveyör)",
-         "Ürün veya yükleri sabit süratle taşır."
-        ],
-        [
-         "Platform tipi asansör",
-         "Seçilen kata bir doğru boyunca sabit hızla ilerler."
-        ]
-       ],
-       "bilgi": "Sürat sabitleyici, uzun yolda konforlu sürüş sağlamanın yanı sıra yakıt verimliliğini de artırır.",
-       "sayfa": 16
-      },
-      {
-       "id": "1.1-08",
        "tur": "secmeli",
-       "soru": "Sabit süratle hareket eden bir cisim için aşağıdakilerden hangisi kesinlikle söylenebilir?",
+       "soru": "Doğrusal bir yolda sabit hızla hareket eden bir aracın hareket grafikleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
        "secenekler": [
-        "Hızı hiç değişmez.",
-        "Eşit zaman aralıklarında eşit yer değiştirmeler yapar.",
-        "Doğrusal bir yolda hareket ediyordur.",
-        "Eşit zaman aralıklarında eşit yollar alır."
+        "Hız-zaman grafiği zaman eksenine paralel bir doğrudur.",
+        "Konum-zaman grafiğinin eğimi aracın hızını verir.",
+        "Hız-zaman grafiğinin altındaki alan yer değiştirmeyi verir.",
+        "İvme-zaman grafiği zaman ekseni üzerinde bir doğrudur.",
+        "Konum-zaman grafiği zaman eksenine paralel bir doğrudur."
        ],
-       "dogru": 3,
-       "bilgi": "Sabit süratli cisim eşit sürelerde eşit yol alır; ancak yönü değişebileceğinden hızı değişebilir.",
-       "sayfa": 20
-      },
-      {
-       "id": "1.1-09",
-       "tur": "bosluk",
-       "cumle": "Yarış otomobillerinin aynı sürate günlük otomobillerden daha kısa sürede ulaşması, sürat değişim oranının yani ___ büyük olmasıyla açıklanır.",
-       "cevap": "ivmenin",
-       "celdiriciler": [
-        "konumun",
-        "alınan yolun",
-        "yer değiştirmenin"
-       ],
-       "bilgi": "Günlük otomobiller 100 km/h sürate yaklaşık 10 s'de, en süratli yarış otomobilleri yaklaşık 3 s'de ulaşır.",
-       "sayfa": 14
-      },
-      {
-       "id": "1.1-10",
-       "tur": "dy",
-       "ifade": "Ani hızlanma ve frenlemelerin sık olduğu sürüş tarzı yakıt tüketimini ve zararlı egzoz gazı salınımını azaltır.",
-       "dogru": false,
-       "bilgi": "Sık ani hızlanma ve frenleme yakıt tüketimini ve CO₂ salınımını artırır, fren mesafesini uzatarak sürüş güvenliğini de tehlikeye atar.",
-       "sayfa": 14
-      },
-      {
-       "id": "1.1-11",
-       "tur": "bosluk",
-       "cumle": "Hız-zaman grafiğinde zaman ekseninin altında kalan grafik çizgisi ___ yöndeki hızı gösterir.",
-       "cevap": "negatif",
-       "celdiriciler": [
-        "pozitif",
-        "düşey",
-        "dairesel"
-       ],
-       "bilgi": "Zaman ekseninin üstündeki çizgi pozitif yöndeki, altındaki çizgi negatif yöndeki hızı gösterir.",
+       "dogru": 4,
+       "bilgi": "Sabit hızlı araçta konum düzgün değişir; x-t grafiği eğimli bir doğrudur. Zaman eksenine paralel x-t grafiği duran bir cisme aittir.",
        "sayfa": 20
       }
      ]
@@ -162,161 +238,305 @@
      "kartlar": [
       {
        "id": "1.2-01",
-       "tur": "bosluk",
-       "cumle": "Bir cismin hızında birim zamanda meydana gelen değişime ___ denir.",
-       "cevap": "ivme",
-       "celdiriciler": [
-        "sürat",
-        "yer değiştirme",
-        "konum"
+       "tur": "secmeli",
+       "soru": "Doğrusal bir yolda hareket eden bir aracın hız-zaman grafiği şekildeki gibidir.\nBuna göre araçla ilgili,",
+       "grafik": {
+        "x": "t (s)",
+        "y": "v (m/s)",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            20
+           ],
+           [
+            4,
+            0
+           ],
+           [
+            6,
+            -10
+           ]
+          ]
+         }
+        ]
+       },
+       "oncul": [
+        "t = 4 s anında hareket yönünü değiştirmiştir.",
+        "4-6 s aralığında yavaşlamaktadır.",
+        "0-6 s aralığında ivmesi sabittir."
        ],
-       "bilgi": "Cisme uygulanan net kuvvet cismin hızlanmasına veya yavaşlamasına, yani ivme kazanmasına neden olur.",
-       "sayfa": 36
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Eğim her aralıkta (0 − 20)/4 = (−10 − 0)/2 = −5 m/s²'dir; ivme sabittir. t = 4 s'de hız işaret değiştirir, araç yön değiştirir. 4-6 s'de hız ve ivme aynı (−) yönlü olduğundan araç hızlanır.",
+       "sayfa": 59
       },
       {
        "id": "1.2-02",
        "tur": "secmeli",
-       "soru": "İvmenin büyüklük türü ve SI'daki birimi hangi seçenekte doğru verilmiştir?",
+       "soru": "Doğrusal bir yolda hareket eden bir aracın hız-zaman grafiği şekildeki gibidir.\nAracın 0-8 s aralığındaki ortalama hızının büyüklüğü kaç m/s'dir?",
+       "grafik": {
+        "x": "t (s)",
+        "y": "v (m/s)",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            4
+           ],
+           [
+            4,
+            12
+           ],
+           [
+            8,
+            12
+           ]
+          ]
+         }
+        ]
+       },
        "secenekler": [
-        "Skaler, m/s²",
-        "Vektörel, m/s",
-        "Vektörel, m/s²",
-        "Skaler, m/s"
+        "8",
+        "10",
+        "12",
+        "14",
+        "16"
        ],
-       "dogru": 2,
-       "bilgi": "İvme a sembolüyle gösterilen vektörel bir büyüklüktür ve SI'daki birimi m/s²'dir.",
-       "sayfa": 36
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "Yer değiştirme grafiğin altındaki alandır: 0-4 s'de (4 + 12)/2 · 4 = 32 m, 4-8 s'de 12 · 4 = 48 m. Δx = 80 m, ortalama hız 80/8 = 10 m/s. İlk ve son hızın ortalaması (8 m/s) burada geçerli değildir; ivme sabit değildir.",
+       "sayfa": 51
       },
       {
        "id": "1.2-03",
-       "tur": "dy",
-       "ifade": "Bir cismin ivmesinin yönü her zaman cisme uygulanan kuvvetin yönüyle aynıdır.",
-       "dogru": true,
-       "bilgi": "Hareket yönünde uygulanan kuvvet cismi hızlandırır, hareket yönüne ters uygulanan kuvvet yavaşlatır.",
-       "sayfa": 36
+       "tur": "secmeli",
+       "soru": "t = 0 anında yan yana bulunan K ve L araçları aynı yönde, sabit ivmeyle hareket etmektedir. Araçların bazı anlardaki hızları tabloda verilmiştir.\nAraçlar hareketlerini bu şekilde sürdürürse t = 4 s anında aralarındaki uzaklık kaç m olur?",
+       "tablo": [
+        [
+         "t (s)",
+         "0",
+         "1",
+         "2",
+         "3"
+        ],
+        [
+         "K'nin hızı (m/s)",
+         "2",
+         "5",
+         "8",
+         "11"
+        ],
+        [
+         "L'nin hızı (m/s)",
+         "30",
+         "26",
+         "22",
+         "18"
+        ]
+       ],
+       "secenekler": [
+        "56",
+        "64",
+        "72",
+        "88",
+        "120"
+       ],
+       "sirali": true,
+       "dogru": 0,
+       "bilgi": "K'nin ivmesi +3, L'ninki −4 m/s²'dir; t = 4 s'de ikisinin hızı da 14 m/s olur. Yer değiştirmeler K için (2 + 14)/2 · 4 = 32 m, L için (30 + 14)/2 · 4 = 88 m'dir. Aradaki uzaklık 88 − 32 = 56 m'dir.",
+       "sayfa": 51
       },
       {
        "id": "1.2-04",
        "tur": "secmeli",
-       "soru": "Hız vektörü ile ivme vektörü zıt yönlü olan bir cisim nasıl bir hareket yapar?",
+       "soru": "Doğu yönünün pozitif kabul edildiği doğrusal bir yolda hareket eden araçlar için verilen aşağıdaki hareket–işaret eşleştirmelerinden hangisi yanlıştır?",
        "secenekler": [
-        "Düzgün hızlanan hareket",
-        "Dönme hareketi",
-        "Sabit hızlı hareket",
-        "Düzgün yavaşlayan hareket"
+        "Doğuya sabit hızla giden: v > 0, a = 0",
+        "Doğuya doğru hızlanan: v > 0, a > 0",
+        "Doğuya doğru yavaşlayan: v > 0, a < 0",
+        "Batıya doğru yavaşlayan: v < 0, a > 0",
+        "Batıya doğru hızlanan: v < 0, a > 0"
        ],
-       "dogru": 3,
-       "bilgi": "Hız ve ivme vektörleri aynı yönlüyse cisim düzgün hızlanır, zıt yönlüyse düzgün yavaşlar.",
-       "sayfa": 43
+       "dogru": 4,
+       "bilgi": "Hız ve ivme vektörleri aynı yönlüyse araç hızlanır, zıt yönlüyse yavaşlar. Batıya doğru hızlanan aracın ivmesi de batı yönündedir; hem hızı hem ivmesi negatiftir (v < 0, a < 0).",
+       "sayfa": 59
       },
       {
        "id": "1.2-05",
-       "tur": "bosluk",
-       "cumle": "Bir cismin hızı eşit zaman aralıklarında aynı miktarda artıyor ya da azalıyorsa ivmesinin büyüklüğü ___.",
-       "cevap": "sabittir",
-       "celdiriciler": [
-        "sıfırdır",
-        "sürekli artar",
-        "sürekli azalır"
+       "tur": "secmeli",
+       "soru": "t = 0 anında aynı noktadan aynı yönde harekete başlayan K ve L araçlarının hız-zaman grafikleri şekildeki gibidir.\nBuna göre,",
+       "grafik": {
+        "x": "t (s)",
+        "y": "v (m/s)",
+        "seriler": [
+         {
+          "ad": "K",
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            4,
+            20
+           ]
+          ]
+         },
+         {
+          "ad": "L",
+          "n": [
+           [
+            0,
+            10
+           ],
+           [
+            4,
+            10
+           ]
+          ]
+         }
+        ]
+       },
+       "oncul": [
+        "0-4 s aralığında K'nin ortalama hızı L'ninkinden büyüktür.",
+        "0-4 s aralığında araçlar arasındaki uzaklık en büyük değerine t = 2 s anında ulaşır.",
+        "t = 4 s anında araçlar yan yanadır."
        ],
-       "bilgi": "Sabit ivmeli harekette hız eşit sürelerde eşit miktarda değişir.",
-       "sayfa": 36
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "0-4 s'de K'nin yer değiştirmesi ½ · 4 · 20 = 40 m, L'ninki 10 · 4 = 40 m'dir; ortalama hızlar eşittir ve t = 4 s'de yan yanadırlar. t = 2 s'ye kadar L daha hızlı olduğundan aradaki uzaklık artar, sonra azalır.",
+       "sayfa": 51
       },
       {
        "id": "1.2-06",
        "tur": "secmeli",
-       "soru": "Hız-zaman grafiğinin eğimi hangi niceliği verir?",
+       "soru": "Durgun hâlden sabit ivmeyle harekete başlayan bir cismin konum-zaman grafiği şekildeki gibidir.\nCismin t = 4 s anındaki hızının büyüklüğü kaç m/s'dir?",
+       "grafik": {
+        "x": "t (s)",
+        "y": "x (m)",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            1,
+            2
+           ],
+           [
+            2,
+            8
+           ],
+           [
+            3,
+            18
+           ],
+           [
+            4,
+            32
+           ]
+          ]
+         }
+        ]
+       },
        "secenekler": [
-        "Konumu",
-        "Yer değiştirmeyi",
-        "Alınan yolu",
-        "İvmeyi"
+        "4",
+        "8",
+        "12",
+        "16",
+        "32"
        ],
+       "sirali": true,
        "dogru": 3,
-       "bilgi": "Hız-zaman grafiğinin eğimi ivmeyi, grafik ile zaman ekseni arasındaki alan yer değiştirmeyi verir.",
-       "sayfa": 51
+       "bilgi": "Durgun hâlden düzgün hızlanan cismin v-t grafiği bir üçgendir ve alanı yer değiştirmeyi verir: 32 = ½ · 4 · v, v = 16 m/s (a = 4 m/s²). 32/4 = 8 m/s ise 0-4 s aralığındaki ortalama hızdır.",
+       "sayfa": 52
       },
       {
        "id": "1.2-07",
-       "tur": "eslestir",
-       "yonerge": "Doğu yönü pozitif kabul edildiğinde hareketleri hız ve ivmenin işaretleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Doğu yönünde sabit hızlı",
-         "Hız pozitif, ivme sıfır"
-        ],
-        [
-         "Doğu yönünde düzgün hızlanan",
-         "Hız pozitif, ivme pozitif"
-        ],
-        [
-         "Doğu yönünde düzgün yavaşlayan",
-         "Hız pozitif, ivme negatif"
-        ],
-        [
-         "Batı yönünde düzgün yavaşlayan",
-         "Hız negatif, ivme pozitif"
+       "tur": "secmeli",
+       "soru": "t = 0 anında durgun olan bir cismin ivme-zaman grafiği şekildeki gibidir.\nBuna göre cisimle ilgili,",
+       "grafik": {
+        "x": "t (s)",
+        "y": "a (m/s²)",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            2
+           ],
+           [
+            4,
+            2
+           ],
+           [
+            4,
+            -3
+           ],
+           [
+            8,
+            -3
+           ]
+          ]
+         }
         ]
+       },
+       "oncul": [
+        "t = 4 s anındaki hızının büyüklüğü 8 m/s'dir.",
+        "4-8 s aralığında hareket yönü değişir.",
+        "4-8 s aralığında sürekli yavaşlar."
        ],
-       "bilgi": "Batı yönünde düzgün hızlanan bir cismin hem hızı hem ivmesi negatiftir.",
-       "sayfa": 59
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "a-t grafiğinin altındaki alan hız değişimini verir: t = 4 s'de v = 2 · 4 = 8 m/s. 4-8 s'de Δv = −3 · 4 = −12 m/s olduğundan hız 8'den −4 m/s'ye iner. Cisim önce yavaşlar, durur, sonra ters yönde hızlanır.",
+       "sayfa": 52
       },
       {
        "id": "1.2-08",
-       "tur": "dy",
-       "ifade": "Hız-zaman grafiği yatay eksene yaklaşan bir araç hızlanan hareket yapar.",
-       "dogru": false,
-       "bilgi": "Hız-zaman grafiği yatay eksenden uzaklaşıyorsa araç hızlanır, yatay eksene yaklaşıyorsa yavaşlar.",
-       "sayfa": 59
-      },
-      {
-       "id": "1.2-09",
        "tur": "secmeli",
-       "soru": "Hız-zaman grafiğinin yatay (zaman) eksenini kestiği anda araç için ne söylenebilir?",
+       "soru": "Doğrusal bir yolda +x yönünde hareket eden bir araca t = 0 anından itibaren −x yönünde sabit büyüklükte bir net kuvvet etki etmeye başlıyor.\nAraç duruncaya kadar geçen sürede,",
+       "oncul": [
+        "İvmesi −x yönündedir.",
+        "Eşit zaman aralıklarında eşit uzunlukta yollar alır.",
+        "Hızının büyüklüğü eşit zaman aralıklarında eşit miktarda azalır."
+       ],
+       "kok": "yargılarından hangileri kesinlikle doğrudur?",
        "secenekler": [
-        "Yön değiştirir.",
-        "İvmesi sıfır olur.",
-        "Sabit hızla hareket etmeye başlar.",
-        "Başlangıç konumuna döner."
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
        ],
-       "dogru": 0,
-       "bilgi": "Hızın işaret değiştirdiği bu anda araç durur ve hareket yönü değişir.",
-       "sayfa": 59
-      },
-      {
-       "id": "1.2-10",
-       "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi ivme sensörlerinin kullanım alanlarından biridir?",
-       "secenekler": [
-        "Termometrelerde sıcaklık ölçümü",
-        "Barometrelerde basınç ölçümü",
-        "Cep telefonlarında ekran yöneliminin algılanması",
-        "Pusulalarda yön belirlenmesi"
-       ],
-       "dogru": 2,
-       "bilgi": "İvme sensörleri taşıtlarda savrulmayı önleyici sistemlerde, telefonlarda ve oyun kontrol çubuklarında kullanılır.",
-       "sayfa": 41
-      },
-      {
-       "id": "1.2-11",
-       "tur": "bosluk",
-       "cumle": "Şehir içi ana arterlerde araçların sık hızlanıp yavaşlamasını ve fazla yakıt tüketmesini önlemek için ___ sistemi uygulanır.",
-       "cevap": "yeşil dalga",
-       "celdiriciler": [
-        "sürat sabitleyici",
-        "küresel konumlama",
-        "ivme sensörü"
-       ],
-       "bilgi": "Araçların sabit hız yerine ivmeli hareket etmesi motorun daha fazla enerji harcamasına ve yakıt tüketmesine neden olur.",
-       "sayfa": 43
-      },
-      {
-       "id": "1.2-12",
-       "tur": "dy",
-       "ifade": "Sabit ivmeyle hareket eden bir cismin ivme-zaman grafiği zaman eksenine paralel bir doğrudur.",
-       "dogru": true,
-       "bilgi": "İvme sabit olduğundan ivme-zaman grafiği yatay bir doğru olarak çizilir.",
-       "sayfa": 52
+       "dogru": 3,
+       "bilgi": "İvme net kuvvetle aynı yöndedir (−x); sabit net kuvvet sabit ivme oluşturur ve hız eşit sürelerde eşit miktarda azalır. Hız azaldığı için eşit sürelerde alınan yollar giderek kısalır.",
+       "sayfa": 36
       }
      ]
     }
@@ -333,147 +553,215 @@
       {
        "id": "2.1-01",
        "tur": "secmeli",
-       "soru": "Fizikte işin büyüklük türü ve SI'daki birimi hangi seçenekte doğru verilmiştir?",
+       "soru": "Doğrusal bir yolda hareket eden bir cisme, hareket doğrultusunda etki eden F kuvvetinin konuma bağlı grafiği şekildeki gibidir.\nF kuvvetinin 0-10 m aralığında cisim üzerinde yaptığı iş kaç J'dür?",
+       "grafik": {
+        "x": "x (m)",
+        "y": "F (N)",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            20
+           ],
+           [
+            4,
+            20
+           ],
+           [
+            8,
+            0
+           ],
+           [
+            8,
+            -10
+           ],
+           [
+            10,
+            -10
+           ]
+          ]
+         }
+        ]
+       },
        "secenekler": [
-        "Vektörel, joule",
-        "Skaler, watt",
-        "Skaler, joule",
-        "Vektörel, newton"
+        "80",
+        "100",
+        "120",
+        "140",
+        "160"
        ],
-       "dogru": 2,
-       "bilgi": "İş W ile gösterilen skaler bir büyüklüktür; birimi N·m yani joule'dür (J).",
-       "sayfa": 82
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "F-x grafiğinin altındaki alan işi verir: 0-4 m'de 80 J, 4-8 m'de ½ · 4 · 20 = 40 J, 8-10 m'de eksenin altında kalan −20 J. Net iş 100 J'dür; alanların işaretsiz toplamı (140 J) yapılan işi vermez.",
+       "sayfa": 83
       },
       {
        "id": "2.1-02",
-       "tur": "dy",
-       "ifade": "Cismin yer değiştirme vektörüne dik olarak etki eden kuvvet cisim üzerinde iş yapmaz.",
-       "dogru": true,
-       "bilgi": "İş yapılabilmesi için kuvvetin yer değiştirme doğrultusunda bir bileşeni olmalıdır; işi bu bileşen yapar.",
-       "sayfa": 83
+       "tur": "secmeli",
+       "soru": "Yatay ve sürtünmeli bir zemindeki bir kasa, ipe uygulanan yatay F kuvvetiyle sabit hızla çekilmektedir.\nKasa yer değiştirirken,",
+       "oncul": [
+        "F kuvvetinin kasa üzerinde yaptığı iş pozitiftir.",
+        "Kasanın ağırlığı kasa üzerinde iş yapmaz.",
+        "Kasaya etki eden net kuvvetin yaptığı iş pozitiftir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "F hareket yönünde olduğundan pozitif, sürtünme zıt yönde olduğundan negatif iş yapar. Ağırlık yer değiştirmeye dik olduğundan iş yapmaz. Hız sabit olduğu için net kuvvet, dolayısıyla net iş sıfırdır.",
+       "sayfa": 84
       },
       {
        "id": "2.1-03",
        "tur": "secmeli",
-       "soru": "Hareket eden bir cisme hareket yönüne zıt yönde uygulanan kuvvet için aşağıdakilerden hangisi doğrudur?",
-       "secenekler": [
-        "Negatif iş yapar, cisim yavaşlar.",
-        "Pozitif iş yapar, cisim hızlanır.",
-        "Negatif iş yapar, cisim hızlanır.",
-        "İş yapmaz, cismin hızı değişmez."
+       "soru": "Üç motor, farklı yükleri sabit hızla düşey doğrultuda yukarı kaldırmaktadır. Yüklerin kütleleri, kaldırıldıkları yükseklikler ve kaldırma süreleri tabloda verilmiştir.\nMotorların güçleri P₁, P₂ ve P₃ olduğuna göre bunlar arasındaki ilişki nedir? (g = 10 m/s²)",
+       "tablo": [
+        [
+         "Motor",
+         "Kütle (kg)",
+         "Yükseklik (m)",
+         "Süre (s)"
+        ],
+        [
+         "1",
+         "100",
+         "12",
+         "20"
+        ],
+        [
+         "2",
+         "200",
+         "6",
+         "10"
+        ],
+        [
+         "3",
+         "150",
+         "10",
+         "30"
+        ]
        ],
-       "dogru": 0,
-       "bilgi": "Hareket yönündeki kuvvet pozitif iş yaparak cismi hızlandırır; sürtünme kuvveti genellikle negatif iş yapar.",
-       "sayfa": 84
+       "secenekler": [
+        "P₁ > P₂ > P₃",
+        "P₂ > P₁ > P₃",
+        "P₂ > P₃ > P₁",
+        "P₃ > P₁ > P₂",
+        "P₁ = P₂ > P₃"
+       ],
+       "dogru": 1,
+       "bilgi": "Sabit hızla kaldırmada iş W = mgh'dir: W₁ = W₂ = 12 000 J, W₃ = 15 000 J. Güç P = W/t olduğundan P₁ = 600 W, P₂ = 1200 W, P₃ = 500 W'tır. En çok iş yapan motor en güçlü motor olmak zorunda değildir.",
+       "sayfa": 99
       },
       {
        "id": "2.1-04",
-       "tur": "bosluk",
-       "cumle": "Kuvvet-yer değiştirme (F-x) grafiği ile yatay eksen arasında kalan alan, kuvvetin ___ verir.",
-       "cevap": "yaptığı işi",
-       "celdiriciler": [
-        "gücünü",
-        "ivmesini",
-        "hızını"
+       "tur": "secmeli",
+       "soru": "Gücü 1,5 kW olan bir motor, 300 kg kütleli bir yükü sabit hızla 15 m yükseğe çıkaracaktır.\nMotorun tüm gücünü yükü kaldırmak için kullandığı kabul edilirse bu iş kaç saniyede tamamlanır? (g = 10 m/s²)",
+       "secenekler": [
+        "3",
+        "5",
+        "10",
+        "20",
+        "30"
        ],
-       "bilgi": "F-x grafiğinde yatay eksenin üstünde kalan alan pozitif işi, altında kalan alan negatif işi gösterir.",
-       "sayfa": 83
+       "sirali": true,
+       "dogru": 4,
+       "bilgi": "Yükü sabit hızla kaldırmak için yapılan iş W = mgh = 300 · 10 · 15 = 45 000 J'dür. Güç, birim zamanda yapılan iş olduğundan t = W/P = 45 000 / 1500 = 30 s'dir.",
+       "sayfa": 99
       },
       {
        "id": "2.1-05",
-       "tur": "dy",
-       "ifade": "Bir kuvvetin cisim üzerinde yaptığı iş, cismin izlediği yolun şekline bağlıdır.",
-       "dogru": false,
-       "bilgi": "Kuvvetin yaptığı iş yolun şeklinden bağımsızdır; aynı yer değiştirmede farklı yollar için yapılan iş eşittir.",
-       "sayfa": 84
+       "tur": "secmeli",
+       "soru": "Aşağıdaki durumların hangisinde belirtilen kuvvet, cisim üzerinde fiziksel anlamda iş yapmaz?",
+       "secenekler": [
+        "Rafa kaldırılan kitaba elin uyguladığı kuvvet",
+        "Yatay yolda yürüyen birinin elindeki çantaya uyguladığı düşey kuvvet",
+        "Serbest düşen bir elmaya etki eden yer çekimi kuvveti",
+        "Karda kayan bir kızağı yavaşlatan sürtünme kuvveti",
+        "Eğimli bir rampada yukarı doğru itilen el arabasına uygulanan itme kuvveti"
+       ],
+       "dogru": 1,
+       "bilgi": "İş için kuvvetin yer değiştirme doğrultusunda bileşeni olmalıdır. Yatay yürürken çantaya uygulanan düşey kuvvet yer değiştirmeye diktir, iş yapmaz; yorulmak tek başına iş yapıldığını göstermez. Sürtünme kuvveti negatif iş yapar.",
+       "sayfa": 83
       },
       {
        "id": "2.1-06",
        "tur": "secmeli",
-       "soru": "Fizik biliminde güç aşağıdakilerden hangisiyle tanımlanır?",
+       "soru": "Kütlesi m olan bir kutu, yerdeki K noktasından h kadar yüksekteki L noktasına merdivenle, eğimli bir rampayla ve kıvrımlı bir patikayla olmak üzere üç farklı yoldan taşınıyor.\nKutuya etki eden yer çekimi kuvvetinin K'den L'ye kadar yaptığı iş ile ilgili,",
+       "oncul": [
+        "Rampa yolunda, merdiven yolundakinden küçüktür.",
+        "Üç yolda da eşittir.",
+        "Negatiftir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "İş yapabilme yeteneği",
-        "Kuvvet ile yer değiştirmenin çarpımı",
-        "Birim yüzeye etki eden dik kuvvet",
-        "Birim zamanda yapılan iş veya aktarılan enerji"
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
        ],
        "dogru": 3,
-       "bilgi": "Güç, iş yapma hızıdır; P ile gösterilen skaler bir niceliktir ve birimi watttır (J/s).",
-       "sayfa": 99
+       "bilgi": "Sabit bir kuvvetin yaptığı iş yolun şeklinden bağımsızdır, yalnızca yer değiştirmeye bağlıdır; üç yolda da W = −mgh olur. Kutu yukarı taşındığından ağırlık hareketle zıt yönlü bileşene sahiptir ve iş negatiftir.",
+       "sayfa": 84
       },
       {
        "id": "2.1-07",
-       "tur": "bosluk",
-       "cumle": "Buhar makinelerinin gücünü anlatmak için beygir gücü (BG) birimini kullanan İskoç mucit ve mühendis ___'tır.",
-       "cevap": "James Watt",
-       "celdiriciler": [
-        "Enrico Fermi",
-        "Isaac Newton",
-        "Michael Faraday"
-       ],
-       "bilgi": "Gücün SI birimi olan watt, James Watt'a ithafen adlandırılmıştır.",
-       "sayfa": 99
-      },
-      {
-       "id": "2.1-08",
        "tur": "secmeli",
-       "soru": "1 beygir gücü (BG) yaklaşık kaç watta karşılık gelir?",
-       "secenekler": [
-        "75",
-        "746",
-        "1000",
-        "100"
-       ],
-       "dogru": 1,
-       "bilgi": "James Watt, bir atın 75 kg'lık yükü 1 s'de yaklaşık 1 m taşıdığını hesaplamıştır; buna göre 1 BG ≈ 746 W'tır.",
-       "sayfa": 99
-      },
-      {
-       "id": "2.1-09",
-       "tur": "eslestir",
-       "yonerge": "Nicelikleri kullanılan birimleriyle eşleştir.",
-       "ciftler": [
-        [
-         "İş",
-         "joule (J)"
-        ],
-        [
-         "Güç",
-         "watt (W)"
-        ],
-        [
-         "Elektrik faturasındaki enerji tüketimi",
-         "kilowattsaat (kWh)"
-        ],
-        [
-         "Kuvvet",
-         "newton (N)"
+       "soru": "K ve L motorlarının yaptığı işin zamana bağlı grafikleri şekildeki gibidir.\nBuna göre,",
+       "grafik": {
+        "x": "t (s)",
+        "y": "W (kJ)",
+        "seriler": [
+         {
+          "ad": "K",
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            20,
+            40
+           ]
+          ]
+         },
+         {
+          "ad": "L",
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            10,
+            30
+           ]
+          ]
+         }
         ]
+       },
+       "oncul": [
+        "L'nin gücü K'ninkinin 3/2 katıdır.",
+        "t = 10 s anına kadar iki motorun yaptığı işler eşittir.",
+        "60 kJ'lük işi K, L'den 10 s daha uzun sürede yapar."
        ],
-       "bilgi": "Elektrikli cihazların gücü W veya kW ile, faturalardaki enerji tüketimi kWh ile ifade edilir.",
-       "sayfa": 99
-      },
-      {
-       "id": "2.1-10",
-       "tur": "dy",
-       "ifade": "Uzun süre ayakta bekleyerek yorulan bir kişi, fizik bilimi açısından iş yapmış olur.",
-       "dogru": false,
-       "bilgi": "Fizikte iş için kuvvet doğrultusunda yer değiştirme gerekir; yorulmak tek başına iş yapıldığını göstermez.",
-       "sayfa": 108
-      },
-      {
-       "id": "2.1-11",
-       "tur": "secmeli",
-       "soru": "Vücut sıcaklığından yararlanarak elektrik enerjisi üretebilen giyilebilir teknoloji hangisidir?",
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Termoelektrik giysiler",
-        "Piezoelektrik zemin malzemeleri",
-        "Fotovoltaik paneller",
-        "Hidrojen yakıt hücreleri"
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
        ],
-       "dogru": 0,
-       "bilgi": "Piezoelektrik malzemeler ise hareket enerjisinden elektrik enerjisi üretir.",
-       "sayfa": 74
+       "dogru": 4,
+       "bilgi": "W-t grafiğinin eğimi gücü verir: K'nin gücü 40/20 = 2 kW, L'ninki 30/10 = 3 kW'tır. t = 10 s'de K 20 kJ, L 30 kJ iş yapmıştır. 60 kJ'lük iş K'ye 30 s, L'ye 20 s sürer.",
+       "sayfa": 99
       }
      ]
     },
@@ -484,137 +772,89 @@
       {
        "id": "2.2-01",
        "tur": "secmeli",
-       "soru": "Pil ve akülerde depolanan enerji hangi enerji biçimidir?",
+       "soru": "Aşağıdaki cihaz ya da olayların hangisinde gerçekleşen temel enerji dönüşümü yanlış verilmiştir?",
        "secenekler": [
-        "Nükleer enerji",
-        "Mekanik enerji",
-        "Isı",
-        "Kimyasal enerji"
+        "Saç kurutma makinesi: elektrik → ısı ve hareket",
+        "Fotosentez: ışık → kimyasal",
+        "Pille çalışan el feneri: kimyasal → elektrik → ışık",
+        "Hidroelektrik santral: potansiyel → kinetik → elektrik",
+        "Piezoelektrik mikrofon: elektrik → ses"
        ],
-       "dogru": 3,
-       "bilgi": "Kimyasal enerji moleküllerin bağlarında depolanır; pil ve aküler bu enerjiyi elektrik enerjisine dönüştürür.",
-       "sayfa": 112
+       "dogru": 4,
+       "bilgi": "Mikrofondaki piezoelektrik malzeme ses titreşimlerini elektrik enerjisine dönüştürür (ses → elektrik). Elektrik enerjisini sese dönüştüren cihaz hoparlördür.",
+       "sayfa": 113
       },
       {
        "id": "2.2-02",
-       "tur": "bosluk",
-       "cumle": "Ses, iletimi için maddesel bir ortama ihtiyaç duyduğundan ___ yayılmaz.",
-       "cevap": "boşlukta",
-       "celdiriciler": [
-        "suda",
-        "katılarda",
-        "havada"
+       "tur": "secmeli",
+       "soru": "Nükleer santrallerde ve Güneş'te gerçekleşen enerji üretimi karşılaştırıldığında,",
+       "oncul": [
+        "Her ikisinde de enerji atom çekirdeklerinde gerçekleşen tepkimelerle açığa çıkar.",
+        "Nükleer santrallerde hafif çekirdekler birleştirilerek enerji elde edilir.",
+        "Güneş'te hafif çekirdeklerin birleşmesiyle enerji açığa çıkar."
        ],
-       "bilgi": "Ses moleküllerin titreşmesiyle oluşur; iletimi sırasında enerjinin bir kısmı çoğunlukla ısıya dönüşür.",
-       "sayfa": 113
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Nükleer santrallerde uranyum, plütonyum gibi ağır çekirdekler bölünür. Güneş ve diğer yıldızlarda ise hidrojen gibi hafif çekirdekler birleşir. Her ikisinde de açığa çıkan enerji nükleer enerjidir.",
+       "sayfa": 112
       },
       {
        "id": "2.2-03",
        "tur": "secmeli",
-       "soru": "Nükleer santrallerde nükleer enerji nasıl elde edilir?",
+       "soru": "Elektrik enerjisiyle ilgili,",
+       "oncul": [
+        "Doğadan doğrudan elde edilen birincil bir enerjidir.",
+        "Başka enerji biçimlerine kolayca dönüştürülebilir.",
+        "Yalnızca yenilenebilir kaynaklardan elde edilebilir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Uranyum, plütonyum gibi ağır çekirdeklerin bölünmesiyle",
-        "Hidrojen gibi hafif çekirdeklerin birleşmesiyle",
-        "Moleküllerdeki kimyasal bağların kırılmasıyla",
-        "Fosil yakıtların yakılmasıyla"
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
        ],
        "dogru": 0,
-       "bilgi": "Güneş gibi yıldızlarda ise nükleer enerji hafif çekirdeklerin birleşmesiyle oluşur.",
-       "sayfa": 112
+       "bilgi": "Elektrik enerjisi; termik, nükleer ve yenilenebilir kaynaklardaki enerjinin dönüştürülmesiyle elde edilen ikincil bir enerjidir. Kolayca dönüştürülebildiği için günlük hayatta en çok kullanılan enerji biçimidir.",
+       "sayfa": 114
       },
       {
        "id": "2.2-04",
-       "tur": "dy",
-       "ifade": "Elektrik enerjisi, başka enerji biçimlerine kolayca dönüştürülebildiği için günlük hayatta en çok kullanılan enerji biçimidir.",
-       "dogru": true,
-       "bilgi": "Elektrik enerjisi, iletken telin uçları arasındaki potansiyel fark nedeniyle serbest elektronların ve iyonların hareketiyle açığa çıkar.",
-       "sayfa": 114
+       "tur": "secmeli",
+       "soru": "Enerji biçimleri ve enerji dönüşümleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Tüm enerji biçimlerinin SI'daki birimi joule'dür.",
+        "Dönüşümlerde enerjinin bir kısmı genellikle ısı olarak çevreye yayılır.",
+        "Pil ve akülerde enerji, kimyasal enerji olarak depolanır.",
+        "Ses enerjisi, maddesel ortam olmadan da iletilebilir.",
+        "Elektromanyetik ışınımlar içinde en yüksek enerjili olanı gama ışınlarıdır."
+       ],
+       "dogru": 3,
+       "bilgi": "Ses, moleküllerin titreşmesiyle iletilir; maddesel ortama ihtiyaç duyduğu için boşlukta yayılmaz. Enerji biçimleri birbirine dönüşebilir ve dönüşüm sırasında enerjinin bir kısmı genellikle ısıya dönüşür.",
+       "sayfa": 113
       },
       {
        "id": "2.2-05",
-       "tur": "bosluk",
-       "cumle": "Teorik olarak mümkün olan en düşük sıcaklık olan mutlak sıfır (-273,15 °C), Kelvin ölçeğinde ___ değerine karşılık gelir.",
-       "cevap": "0 K",
-       "celdiriciler": [
-        "273 K",
-        "100 K",
-        "373 K"
-       ],
-       "bilgi": "Mutlak sıfırda moleküllerin termal hareketinin olmadığı kabul edilir; bu sıcaklığa ulaşmak imkânsızdır.",
-       "sayfa": 112
-      },
-      {
-       "id": "2.2-06",
        "tur": "secmeli",
-       "soru": "Elektromanyetik spektrumda en yüksek enerjili ışınım türü hangisidir?",
+       "soru": "Bir elektrik motoru 2000 J elektrik enerjisi harcayarak 20 kg kütleli bir yükü sabit hızla 8 m yükseğe çıkarıyor.\nMotorun verimi yüzde kaçtır? (g = 10 m/s²)",
        "secenekler": [
-        "Radyo dalgaları",
-        "Mikrodalgalar",
-        "Gama ışınları",
-        "Kızılötesi ışınım"
+        "20",
+        "50",
+        "60",
+        "80",
+        "90"
        ],
-       "dogru": 2,
-       "bilgi": "Elektromanyetik spektrum radyo, mikrodalga, kızılötesi, görünür ışık, morötesi, X ve gama ışınları olmak üzere yedi bölgeye ayrılır.",
-       "sayfa": 113
-      },
-      {
-       "id": "2.2-07",
-       "tur": "eslestir",
-       "yonerge": "Cihaz veya olayları gerçekleşen enerji dönüşümüyle eşleştir.",
-       "ciftler": [
-        [
-         "Saç kurutma makinesi",
-         "Elektrik → ısı ve mekanik enerji"
-        ],
-        [
-         "Fotosentez",
-         "Işık → kimyasal enerji"
-        ],
-        [
-         "Mikrofondaki piezoelektrik malzeme",
-         "Ses → elektrik enerjisi"
-        ],
-        [
-         "Pille çalışan el feneri",
-         "Kimyasal → ışık enerjisi"
-        ]
-       ],
-       "bilgi": "Enerji dönüşümlerinde bir enerji biçimi azalırken başka bir enerji biçimi artar.",
-       "sayfa": 113
-      },
-      {
-       "id": "2.2-08",
-       "tur": "dy",
-       "ifade": "Elektrik enerjisi, doğadan doğrudan elde edilen birincil bir enerjidir.",
-       "dogru": false,
-       "bilgi": "Elektrik enerjisi termik, nükleer ve yenilenebilir kaynakların kullanılmasıyla elde edilen ikincil bir enerjidir.",
-       "sayfa": 114
-      },
-      {
-       "id": "2.2-09",
-       "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi tüm enerji biçimlerinin ortak özelliklerinden biridir?",
-       "secenekler": [
-        "Boşlukta yayılabilmeleri",
-        "Dönüşümlerinde hiç kayıp olmaması",
-        "Kolayca depolanabilmeleri",
-        "Birimlerinin joule olması"
-       ],
+       "sirali": true,
        "dogru": 3,
-       "bilgi": "Enerji biçimleri bir kaynağa ihtiyaç duyar, çevreye etki eder, birbirine dönüşebilir ve dönüşümde enerji kaybı ortaya çıkar.",
-       "sayfa": 114
-      },
-      {
-       "id": "2.2-10",
-       "tur": "bosluk",
-       "cumle": "Bursa'da toplanan evsel katı atıkların açığa çıkardığı ___ gazından elektrik elde edilmektedir.",
-       "cevap": "metan",
-       "celdiriciler": [
-        "hidrojen",
-        "azot",
-        "oksijen"
-       ],
-       "bilgi": "Atıklardan elektrik üretimi Türkiye'nin birçok şehrinde uygulanmaktadır.",
+       "bilgi": "Yüke aktarılan yararlı enerji mgh = 20 · 10 · 8 = 1600 J'dür. Verim = 1600 / 2000 = %80'dir. Kalan 400 J, sürtünme ve ısınma nedeniyle çevreye ısı olarak yayılır.",
        "sayfa": 114
       }
      ]
@@ -626,159 +866,207 @@
       {
        "id": "2.3-01",
        "tur": "secmeli",
-       "soru": "\"Su Hilesi\" adlı robotu tasarlayan ve çalışmaları sibernetik ile robotik teknolojilerinin temelini oluşturan bilim insanı kimdir?",
+       "soru": "Sürtünmesiz yatay bir düzlemde durmakta olan 2 kg kütleli bir cisme, hareket doğrultusunda F kuvveti uygulanıyor. F kuvvetinin konuma bağlı grafiği şekildeki gibidir.\nCisim x = 8 m konumundan geçerken hızının büyüklüğü kaç m/s olur?",
+       "grafik": {
+        "x": "x (m)",
+        "y": "F (N)",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            15
+           ],
+           [
+            4,
+            15
+           ],
+           [
+            8,
+            5
+           ]
+          ]
+         }
+        ]
+       },
        "secenekler": [
-        "James Watt",
-        "Cezeri",
-        "Enrico Fermi",
-        "Hazini"
+        "5",
+        "8",
+        "10",
+        "12",
+        "20"
        ],
-       "dogru": 1,
-       "bilgi": "Cezeri; cisimlerin hızından ve konumundan yararlanarak su saatleri, otomatik müzik aletleri ve robotlar tasarlamıştır.",
-       "sayfa": 120
+       "sirali": true,
+       "dogru": 2,
+       "bilgi": "F-x grafiğinin altındaki alan işi verir: 15 · 4 + (15 + 5)/2 · 4 = 100 J. İş-kinetik enerji teoremine göre net iş kinetik enerjideki değişime eşittir: 100 = ½ · 2 · v², v = 10 m/s.",
+       "sayfa": 130
       },
       {
        "id": "2.3-02",
-       "tur": "bosluk",
-       "cumle": "Mekanik enerji, bir cismin ___ enerjisi ile potansiyel enerjisinin toplamıdır.",
-       "cevap": "kinetik",
-       "celdiriciler": [
-        "kimyasal",
-        "nükleer",
-        "iç"
+       "tur": "secmeli",
+       "soru": "Sürtünmesiz bir rayın K noktasından serbest bırakılan bir cisim, ray boyunca sırasıyla L, M ve N noktalarına doğru hareket ediyor. Bu noktaların yerden yükseklikleri tabloda verilmiştir.\nBuna göre cisimle ilgili,",
+       "tablo": [
+        [
+         "Nokta",
+         "K",
+         "L",
+         "M",
+         "N"
+        ],
+        [
+         "Yükseklik (m)",
+         "20",
+         "5",
+         "15",
+         "25"
+        ]
        ],
-       "bilgi": "Bir cisim kinetik ve potansiyel enerjinin ikisine ya da yalnızca birine sahip olabilir.",
-       "sayfa": 124
+       "oncul": [
+        "L'deki kinetik enerjisi, M'dekinin 3 katıdır.",
+        "M noktasından 10 m/s hızla geçer.",
+        "N noktasına ulaşabilir."
+       ],
+       "kok": "yargılarından hangileri doğrudur? (g = 10 m/s²)",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Mekanik enerji korunur: L'de Ek = mg(20 − 5) = 15mg, M'de 5mg'dir; oran 3'tür. M'de ½v² = 10 · 5 olduğundan v = 10 m/s'dir. Cisim başlangıç yüksekliği 20 m'yi aşamayacağından 25 m'deki N'ye ulaşamaz.",
+       "sayfa": 133
       },
       {
        "id": "2.3-03",
        "tur": "secmeli",
-       "soru": "Bir cismin yer çekimi potansiyel enerjisi aşağıdakilerden hangisine bağlı değildir?",
-       "secenekler": [
-        "Cismin kütlesine",
-        "Yer çekimi ivmesine",
-        "Cismin yüksekliğine",
-        "Cismin hızına"
+       "soru": "K ve L yaylarını germek için uygulanan kuvvetin yayların uzama miktarına bağlı grafikleri şekildeki gibidir.\nBuna göre,",
+       "grafik": {
+        "x": "x (m)",
+        "y": "F (N)",
+        "seriler": [
+         {
+          "ad": "K",
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            0.2,
+            40
+           ]
+          ]
+         },
+         {
+          "ad": "L",
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            0.4,
+            40
+           ]
+          ]
+         }
+        ],
+        "xIsaret": [
+         [
+          0.2,
+          "0,2"
+         ],
+         [
+          0.4,
+          "0,4"
+         ]
+        ]
+       },
+       "oncul": [
+        "K'nin yay sabiti L'ninkinin 2 katıdır.",
+        "Yaylar 40 N'luk kuvvetle gerildiğinde L'de depolanan esneklik potansiyel enerjisi K'dekinin yarısıdır.",
+        "Yaylar 0,2 m uzatıldığında depolanan esneklik potansiyel enerjileri eşittir."
        ],
-       "dogru": 3,
-       "bilgi": "Yer çekimi potansiyel enerjisi kütle, yer çekimi ivmesi ve yüksekliğe bağlıdır; hız kinetik enerjiyi belirler.",
-       "sayfa": 124
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Eğim yay sabitini verir: K için 200 N/m, L için 100 N/m. Depolanan enerji grafiğin altındaki alandır: 40 N'da K'de ½ · 0,2 · 40 = 4 J, L'de 8 J; 0,2 m uzamada K'de 4 J, L'de ½ · 0,2 · 20 = 2 J.",
+       "sayfa": 127
       },
       {
        "id": "2.3-04",
-       "tur": "dy",
-       "ifade": "Bir cismin potansiyel enerjisinin değeri, yüksekliğin ölçüldüğü referans noktasının seçimine göre değişebilir.",
-       "dogru": true,
-       "bilgi": "Referans noktasının altındaki bir cismin potansiyel enerjisi negatif, referans noktasındakinin ise sıfır alınır.",
+       "tur": "secmeli",
+       "soru": "Mekanik enerjiyle ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Yer çekimi potansiyel enerjisi kütleye, yer çekimi ivmesine ve yüksekliğe bağlıdır.",
+        "Referans düzeyinin altındaki bir cismin potansiyel enerjisi negatif alınır.",
+        "Gerilmiş bir yaya etki eden geri çağırıcı kuvvet denge noktasına doğrudur.",
+        "Hızı iki katına çıkan bir cismin kinetik enerjisi de iki katına çıkar.",
+        "Sürtünmesiz bir sistemde kinetik ve potansiyel enerjinin toplamı sabit kalır."
+       ],
+       "dogru": 3,
+       "bilgi": "Kinetik enerji ½mv² olduğundan hızın karesiyle orantılıdır; hız iki katına çıkınca kinetik enerji 4 katına çıkar. Potansiyel enerjinin değeri seçilen referans düzeyine göre değişir.",
        "sayfa": 124
       },
       {
        "id": "2.3-05",
-       "tur": "bosluk",
-       "cumle": "Kuvvet uygulandığında şekli değişen ancak kuvvet kalktığında eski hâline dönebilen cisimlere ___ cisim denir.",
-       "cevap": "esnek",
-       "celdiriciler": [
-        "kırılgan",
-        "sert",
-        "yoğun"
+       "tur": "secmeli",
+       "soru": "Kendini itmeden salıncakta sallanan bir çocuğun her salınımda çıkabildiği en büyük yüksekliğin giderek azaldığı gözleniyor.\nBuna göre,",
+       "oncul": [
+        "Salıncak-çocuk sisteminin mekanik enerjisi korunmamaktadır.",
+        "Çocuk en alt noktadan her geçişinde aynı kinetik enerjiye sahiptir.",
+        "Azalan mekanik enerji yok olmuştur."
        ],
-       "bilgi": "Yay, lastik ve trambolin esnek cisimlerdir; esneklik sınırı aşılırsa cisim eski hâline dönemez.",
-       "sayfa": 127
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "En büyük yüksekliğin azalması mekanik enerjinin azaldığını gösterir; bu yüzden en alt noktadaki kinetik enerji de her geçişte azalır. Kaybolan mekanik enerji yok olmaz, sürtünme ve hava direnciyle ısıya dönüşür.",
+       "sayfa": 133
       },
       {
        "id": "2.3-06",
        "tur": "secmeli",
-       "soru": "Yay sabiti (k) için aşağıdakilerden hangisi doğrudur?",
+       "soru": "Kütlesi 2 kg olan bir cisim, yerden 5 m yükseklikteki K noktasından serbest bırakılıyor ve sürtünmeli bir yoldan kayarak yerdeki L noktasından 8 m/s hızla geçiyor.\nCisim K'den L'ye gelirken kaç J'lük mekanik enerji ısıya dönüşmüştür? (g = 10 m/s²)",
        "secenekler": [
-        "Yayın sertliğinin ölçüsüdür.",
-        "Yayın kütlesini gösterir.",
-        "Yayın denge noktasındaki enerjisidir.",
-        "Yayın gerilmemiş hâldeki uzunluğudur."
+        "16",
+        "28",
+        "36",
+        "64",
+        "100"
        ],
-       "dogru": 0,
-       "bilgi": "Yay sabiti birim uzunluk başına düşen kuvveti ifade eder ve esneklik sınırını belirleyen temel büyüklüklerdendir.",
-       "sayfa": 127
-      },
-      {
-       "id": "2.3-07",
-       "tur": "dy",
-       "ifade": "Gerilen veya sıkıştırılan bir yaya etki eden geri çağırıcı kuvvetin yönü daima denge noktasından uzağa doğrudur.",
-       "dogru": false,
-       "bilgi": "Geri çağırıcı kuvvet daima denge noktasına doğrudur; büyüklüğü uzaklaşma miktarı ve yay sabitiyle doğru orantılıdır.",
-       "sayfa": 128
-      },
-      {
-       "id": "2.3-08",
-       "tur": "eslestir",
-       "yonerge": "Örnekleri sahip oldukları enerjiyle eşleştir.",
-       "ciftler": [
-        [
-         "Ağaç dalındaki elma",
-         "Yer çekimi potansiyel enerjisi"
-        ],
-        [
-         "Yerde yuvarlanan misket",
-         "Kinetik enerji"
-        ],
-        [
-         "Gerilmiş okçuluk yayı",
-         "Esneklik potansiyel enerjisi"
-        ],
-        [
-         "Uçan helikopter",
-         "Kinetik ve potansiyel enerji"
-        ]
-       ],
-       "bilgi": "Potansiyel enerji yer çekimi potansiyel enerjisi ve esneklik potansiyel enerjisi olarak ikiye ayrılır.",
-       "sayfa": 124
-      },
-      {
-       "id": "2.3-09",
-       "tur": "secmeli",
-       "soru": "İş-kinetik enerji teoremine göre aşağıdakilerden hangisi doğrudur?",
-       "secenekler": [
-        "Net kuvvetin yaptığı iş potansiyel enerjiye eşittir.",
-        "Kinetik enerji her durumda korunur.",
-        "Net kuvvetin yaptığı iş kinetik enerjideki değişime eşittir.",
-        "Yapılan iş, kuvvetin zamana oranıdır."
-       ],
+       "sirali": true,
        "dogru": 2,
-       "bilgi": "Teoremde cisim üzerinde iş yapan tüm kuvvetler hesaba katılmalıdır.",
+       "bilgi": "K'deki mekanik enerji mgh = 2 · 10 · 5 = 100 J, L'deki ½ · 2 · 8² = 64 J'dür. Aradaki 36 J, sürtünme kuvvetinin yaptığı negatif iş sonucunda ısıya dönüşmüştür.",
        "sayfa": 130
       },
       {
-       "id": "2.3-10",
-       "tur": "dy",
-       "ifade": "Sürtünme gibi enerji kayıplarının olmadığı ideal bir sistemde mekanik enerji korunur.",
-       "dogru": true,
-       "bilgi": "İdeal sistemde kinetik ve potansiyel enerji birbirine dönüşür; Newton sarkacı buna örnektir.",
-       "sayfa": 133
-      },
-      {
-       "id": "2.3-11",
-       "tur": "bosluk",
-       "cumle": "Cezeri, su gücüyle çalışan pompa düzeneğinde dönme hareketini doğrusal harekete çeviren ___ milini ilk kez kullanmıştır.",
-       "cevap": "krank",
-       "celdiriciler": [
-        "eksen",
-        "dişli",
-        "kam"
-       ],
-       "bilgi": "Bu düzenekte akan su çarkı döndürür ve su çıkış borusundan yaklaşık 12 m yükseğe taşınır.",
-       "sayfa": 131
-      },
-      {
-       "id": "2.3-12",
+       "id": "2.3-07",
        "tur": "secmeli",
-       "soru": "Sürtünmesiz ortamda salıncakta sallanan bir kişi en alt noktaya doğru inerken enerjileri nasıl değişir?",
+       "soru": "Hava direncinin önemsenmediği bir ortamda yerden 20 m yükseklikten bir cisim serbest bırakılıyor.\nYer seviyesi referans alındığına göre, cismin kinetik enerjisi potansiyel enerjisinin 3 katına eşit olduğunda cisim yerden kaç m yüksekte olur?",
        "secenekler": [
-        "Kinetik enerjisi artar, potansiyel enerjisi azalır.",
-        "Kinetik enerjisi azalır, potansiyel enerjisi artar.",
-        "Her ikisi de artar.",
-        "Her ikisi de azalır."
+        "5",
+        "8",
+        "10",
+        "15",
+        "20"
        ],
+       "sirali": true,
        "dogru": 0,
-       "bilgi": "Salıncakta yükselirken potansiyel enerji artar, kinetik enerji azalır; mekanik enerji ise korunur.",
+       "bilgi": "Mekanik enerji korunur: Ek + Ep = mg · 20. Ek = 3Ep ise 4Ep = 20mg, Ep = mg · 5 olur; cisim 5 m yüksekliktedir. 15 m ise potansiyel enerjinin kinetik enerjinin 3 katı olduğu yüksekliktir.",
        "sayfa": 133
       }
      ]
@@ -790,159 +1078,143 @@
       {
        "id": "2.4-01",
        "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi yenilenemeyen bir enerji kaynağıdır?",
-       "secenekler": [
-        "Jeotermal enerji",
-        "Doğal gaz",
-        "Biyokütle enerjisi",
-        "Rüzgâr enerjisi"
+       "soru": "Bazı enerji kaynaklarıyla ilgili bilgiler tabloda verilmiştir.\nTabloda hangi kaynağa ait bilgilerden en az biri yanlıştır?",
+       "tablo": [
+        [
+         "Kaynak",
+         "Yenilenebilir mi?",
+         "İşletimde sera gazı salımı"
+        ],
+        [
+         "Kömür",
+         "Hayır",
+         "Var"
+        ],
+        [
+         "Nükleer",
+         "Hayır",
+         "Yok"
+        ],
+        [
+         "Rüzgâr",
+         "Evet",
+         "Yok"
+        ],
+        [
+         "Doğal gaz",
+         "Evet",
+         "Var"
+        ],
+        [
+         "Güneş enerjisi",
+         "Evet",
+         "Yok"
+        ]
        ],
-       "dogru": 1,
-       "bilgi": "Yenilenemeyen kaynaklar, tükenme hızı oluşum hızından çok fazla olan fosil yakıtlar ve nükleer enerjidir.",
-       "sayfa": 138
+       "secenekler": [
+        "Kömür",
+        "Nükleer",
+        "Rüzgâr",
+        "Doğal gaz",
+        "Güneş enerjisi"
+       ],
+       "dogru": 3,
+       "bilgi": "Doğal gaz fosil yakıtların en temizi olsa da tükenme hızı oluşum hızından çok büyük olduğundan yenilenemeyen bir kaynaktır. Nükleer santraller de yenilenemeyen yakıt kullanır ancak işletim sırasında sera gazı salmaz.",
+       "sayfa": 139
       },
       {
        "id": "2.4-02",
-       "tur": "bosluk",
-       "cumle": "Fosil yakıtlar içinde karbon seviyesi en yüksek olan enerji kaynağı ___ olarak bilinir.",
-       "cevap": "kömür",
-       "celdiriciler": [
-        "petrol",
-        "doğal gaz",
-        "uranyum"
+       "tur": "secmeli",
+       "soru": "Nükleer santrallerle ilgili,",
+       "oncul": [
+        "İşletimleri sırasında sera gazı salımı yapmazlar.",
+        "Yenilenebilir bir enerji kaynağı kullanırlar.",
+        "Ürettikleri radyoaktif atıkların denetim altında saklanması gerekir."
        ],
-       "bilgi": "Kömür, kok kömürü hâline getirilerek özellikle demir çelik sanayisinde kullanılır.",
-       "sayfa": 139
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Nükleer santraller işletim sırasında sera gazı salmaz; ancak kullandıkları uranyum yenilenemeyen bir kaynaktır ve radyoaktif atıklar güvenli biçimde saklanmalıdır. Türkiye'de Mersin'de Akkuyu Nükleer Santrali inşa edilmektedir.",
+       "sayfa": 140
       },
       {
        "id": "2.4-03",
-       "tur": "dy",
-       "ifade": "Doğal gaz, fosil yakıtlar arasında en temiz olanıdır.",
-       "dogru": true,
-       "bilgi": "Doğal gaz yanıcı, havadan hafif, renksiz ve kokusuzdur; yine de hızla tükendiği için yenilenemeyen bir kaynaktır.",
-       "sayfa": 139
+       "tur": "secmeli",
+       "soru": "Yenilenebilir enerji kaynakları ve bunların dezavantajlarıyla ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+       "secenekler": [
+        "Rüzgâr: kuş ölümleri ve gürültü kirliliği",
+        "Jeotermal: sıcak suyun boru ve pompaları aşındırması",
+        "Dalga: deniz ekosistemine zarar verme",
+        "Hidrojen: güvenli ve yoğun depolamanın zorluğu",
+        "Güneş: işletim sırasında yoğun sera gazı salımı"
+       ],
+       "dogru": 4,
+       "bilgi": "Güneş panelleri işletim sırasında sera gazı salmaz; üretimleri gün ışığına ve hava koşullarına bağlıdır. Diğer eşleştirmeler, kaynakların ders kitabında belirtilen dezavantajlarıdır.",
+       "sayfa": 142
       },
       {
        "id": "2.4-04",
        "tur": "secmeli",
-       "soru": "Nükleer enerjinin kontrollü biçimde açığa çıkarılmasını 1942'de kurulan reaktörde gerçekleştiren bilim insanı kimdir?",
+       "soru": "Bir odada aynı aydınlatmayı sağlayan 50 W'lık akkor ampul yerine 6 W'lık LED lamba kullanılıyor.\nLamba günde 5 saat yakıldığına göre 30 günde kaç kWh enerji tasarruf edilir?",
        "secenekler": [
-        "James Watt",
-        "Daniel Bernoulli",
-        "Enrico Fermi",
-        "Cezeri"
+        "0,9",
+        "6,6",
+        "7,5",
+        "8,4",
+        "66"
        ],
-       "dogru": 2,
-       "bilgi": "İtalyan fizikçi Enrico Fermi, çalışmalarıyla 1938'de Nobel Fizik Ödülü almıştır.",
-       "sayfa": 139
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "Güç farkı 50 − 6 = 44 W'tır; lamba 30 günde 5 · 30 = 150 saat yanar. Tasarruf 44 · 150 = 6600 Wh = 6,6 kWh'tir. Akkor ampul elektrik enerjisinin çoğunu ısıya dönüştürdüğü için verimsizdir.",
+       "sayfa": 149
       },
       {
        "id": "2.4-05",
-       "tur": "eslestir",
-       "yonerge": "Yenilenebilen enerji kaynaklarını dezavantajlarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Rüzgâr enerjisi",
-         "Kuş ölümleri ve gürültü kirliliği"
-        ],
-        [
-         "Jeotermal enerji",
-         "Termal suyun boru ve pompaları aşındırması"
-        ],
-        [
-         "Dalga enerjisi",
-         "Deniz ekosistemine zarar ve deniz trafiğini engelleme"
-        ],
-        [
-         "Hidrojen enerjisi",
-         "Güvenli ve yoğun depolamanın zor ve maliyetli olması"
-        ]
-       ],
-       "bilgi": "Yenilenebilen kaynaklar çevreye daha az zarar verir ve dışa bağımlılığı azaltır, ancak her birinin dezavantajları vardır.",
-       "sayfa": 142
-      },
-      {
-       "id": "2.4-06",
-       "tur": "bosluk",
-       "cumle": "Mersin ilinde inşasına başlanan ve Türkiye'nin enerji güvenliğini artırması beklenen santral ___ Nükleer Santrali'dir.",
-       "cevap": "Akkuyu",
-       "celdiriciler": [
-        "Sinop",
-        "Yusufeli",
-        "Aliağa"
-       ],
-       "bilgi": "Dünyadaki elektrik arzının yaklaşık %10'u nükleer santrallerden karşılanır.",
-       "sayfa": 140
-      },
-      {
-       "id": "2.4-07",
-       "tur": "dy",
-       "ifade": "Nükleer santraller işletimleri sırasında büyük miktarda sera gazı salımı yapar.",
-       "dogru": false,
-       "bilgi": "Nükleer santraller işletim sırasında sera gazı salımı yapmaz; radyoaktif atıkların denetim altında saklanması ise çok önemlidir.",
-       "sayfa": 140
-      },
-      {
-       "id": "2.4-08",
        "tur": "secmeli",
-       "soru": "1997'de imzalanıp 2005'te yürürlüğe giren Kyoto Protokolü'nün temel hedefi nedir?",
-       "secenekler": [
-        "Nükleer silahları yasaklamak",
-        "Petrol fiyatlarını sabitlemek",
-        "Deniz trafiğini düzenlemek",
-        "Sera gazı emisyonlarını azaltmak"
+       "soru": "Bir çiftlikte hayvan gübresi ve bitkisel atıklar kapalı tanklarda oksijensiz ortamda bekletiliyor; açığa çıkan gaz ısınma ve elektrik üretiminde kullanılıyor.\nBu uygulamayla ilgili,",
+       "oncul": [
+        "Elde edilen gazın önemli bir bileşeni metandır.",
+        "Fosil yakıt tüketiminin azaltılmasına katkı sağlar.",
+        "Yenilenemeyen bir enerji kaynağından yararlanılmaktadır."
        ],
-       "dogru": 3,
-       "bilgi": "Kyoto Protokolü küresel ısınmayı sınırlamayı ve iklim değişikliğiyle mücadeleyi amaçlar.",
-       "sayfa": 140
-      },
-      {
-       "id": "2.4-09",
-       "tur": "bosluk",
-       "cumle": "Bekleme konumunda tutulduğu hâlde sızıntı şeklinde enerji harcamaya devam eden cihazlara ___ cihaz denir.",
-       "cevap": "vampir",
-       "celdiriciler": [
-        "akıllı",
-        "pasif",
-        "hayalet"
-       ],
-       "bilgi": "Kumandadan kapatılan televizyonlar ve şarjı dolduğu hâlde fişte bırakılan cihazlar bu gruptadır.",
-       "sayfa": 148
-      },
-      {
-       "id": "2.4-10",
-       "tur": "secmeli",
-       "soru": "Biyogaz tesislerinde biyogaz nasıl elde edilir?",
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Suyun elektrolizle ayrıştırılmasıyla",
-        "Atıkların oksijensiz ortamda ayrıştırılmasıyla",
-        "Yer altı sularının buharlaştırılmasıyla",
-        "Kömürün kok kömürüne dönüştürülmesiyle"
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
        ],
        "dogru": 1,
-       "bilgi": "Biyogaz, atıkların oksijensiz ortamda karbondioksit ve metan gazına dönüştürülmesiyle elde edilir; mısır, şeker kamışı, kavak gibi bitkiler kullanılır.",
+       "bilgi": "Biyogaz, atıkların oksijensiz ortamda ayrıştırılmasıyla oluşan metan ve karbondioksit karışımıdır. Atıklar sürekli yeniden oluştuğu için biyokütle yenilenebilir bir kaynaktır.",
        "sayfa": 143
       },
       {
-       "id": "2.4-11",
-       "tur": "dy",
-       "ifade": "Akkor ampuller, elektrik akımının çoğunu ısı olarak kaybettikleri için verimsizdir.",
-       "dogru": true,
-       "bilgi": "Aynı parlaklık için 50 W'lık akkor ampul yerine 6 W'lık LED lamba kullanılabilir.",
-       "sayfa": 149
-      },
-      {
-       "id": "2.4-12",
-       "tur": "bosluk",
-       "cumle": "Bir kişinin, ülkenin veya kuruluşun faaliyetleri sonucu atmosfere saldığı sera gazlarının karbondioksit cinsinden karşılığına ___ denir.",
-       "cevap": "karbon ayak izi",
-       "celdiriciler": [
-        "sera etkisi",
-        "küresel ısınma",
-        "emisyon sınırı"
+       "id": "2.4-06",
+       "tur": "secmeli",
+       "soru": "Fosil yakıtlarla ilgili,",
+       "oncul": [
+        "Kömür, fosil yakıtlar içinde karbon oranı en yüksek olanıdır.",
+        "Doğal gaz yenilenebilir bir enerji kaynağıdır.",
+        "Doğal gaz havadan ağır olduğundan sızıntıda yere çöker."
        ],
-       "bilgi": "Toplu taşıma kullanmak, enerji verimli ürünler seçmek ve temiz enerjiye yatırım karbon ayak izini azaltır.",
-       "sayfa": 149
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Kömür, karbon oranı en yüksek fosil yakıttır. Doğal gaz fosil yakıtların en temizidir; ancak tükenme hızı oluşum hızından büyük olduğundan yenilenemez ve havadan hafif olduğu için sızıntıda yükselir.",
+       "sayfa": 139
       }
      ]
     }
@@ -958,133 +1230,144 @@
      "kartlar": [
       {
        "id": "3.1-01",
-       "tur": "eslestir",
-       "yonerge": "Su tesisatındaki elemanları basit elektrik devresindeki karşılıklarıyla eşleştir.",
-       "ciftler": [
+       "tur": "secmeli",
+       "soru": "Aynı maddeden yapılmış 1, 2 ve 3 numaralı tellerin uzunlukları ve kesit alanları tabloda verilmiştir.\nTellerin dirençleri R₁, R₂ ve R₃ arasındaki ilişki aşağıdakilerden hangisidir?",
+       "tablo": [
         [
-         "Pompa",
-         "Üreteç"
+         "Tel",
+         "Uzunluk",
+         "Kesit alanı"
         ],
         [
-         "Vana",
-         "Anahtar"
+         "1",
+         "ℓ",
+         "S"
         ],
         [
-         "Kireçlenmiş dar boru",
-         "Direnç"
+         "2",
+         "2ℓ",
+         "S"
         ],
         [
-         "Borudan akan su",
-         "Elektrik akımı"
+         "3",
+         "2ℓ",
+         "4S"
         ]
        ],
-       "bilgi": "Pompa suyun akmasını sağladığı gibi üreteç de elektrik akımının devre boyunca dolaşmasını sağlar.",
-       "sayfa": 174
+       "secenekler": [
+        "R₁ > R₂ > R₃",
+        "R₂ > R₁ > R₃",
+        "R₂ > R₃ > R₁",
+        "R₃ > R₂ > R₁",
+        "R₁ = R₃ < R₂"
+       ],
+       "dogru": 1,
+       "bilgi": "Bir telin direnci uzunluğuyla doğru, kesit alanıyla ters orantılıdır ve maddenin cinsine bağlıdır. R₁ = R ise R₂ = 2R, R₃ = 2R/4 = R/2 olur.",
+       "sayfa": 170
       },
       {
        "id": "3.1-02",
-       "tur": "bosluk",
-       "cumle": "Birim yükün devreyi dolaşabilmesi için gereken enerjiye ___ denir.",
-       "cevap": "potansiyel fark",
-       "celdiriciler": [
-        "elektrik akımı",
-        "direnç",
-        "güç"
+       "tur": "secmeli",
+       "soru": "Bir öğrenci, bir iletkenin direncinin kesit alanına bağlı olup olmadığını araştırmak istiyor. Elindeki tellerin özellikleri tabloda verilmiştir.\nÖğrenci bu deney için hangi iki teli kullanmalıdır?",
+       "tablo": [
+        [
+         "Tel",
+         "Madde",
+         "Uzunluk",
+         "Kesit alanı"
+        ],
+        [
+         "K",
+         "bakır",
+         "ℓ",
+         "S"
+        ],
+        [
+         "L",
+         "demir",
+         "ℓ",
+         "2S"
+        ],
+        [
+         "M",
+         "bakır",
+         "2ℓ",
+         "S"
+        ],
+        [
+         "N",
+         "bakır",
+         "ℓ",
+         "2S"
+        ],
+        [
+         "P",
+         "demir",
+         "2ℓ",
+         "2S"
+        ]
        ],
-       "bilgi": "Üreteçler potansiyel fark oluşturarak devredeki elektronların hareket etmesini sağlar.",
-       "sayfa": 169
+       "secenekler": [
+        "K ve L",
+        "K ve M",
+        "K ve N",
+        "L ve N",
+        "M ve P"
+       ],
+       "dogru": 2,
+       "bilgi": "Yalnızca kesit alanının etkisini görmek için madde cinsi ve uzunluğu aynı, kesit alanı farklı teller seçilmelidir: K ve N. L ile N maddenin cinsinin, K ile M uzunluğun etkisini gösterir.",
+       "sayfa": 170
       },
       {
        "id": "3.1-03",
        "tur": "secmeli",
-       "soru": "V ile gösterilen potansiyel farkın SI'daki birimi hangisidir?",
-       "secenekler": [
-        "Amper",
-        "Ohm",
-        "Volt",
-        "Watt"
+       "soru": "Basit bir elektrik devresinde anahtar kapatıldığında lamba hemen ışık vermeye başlar.\nBu durumla ilgili,",
+       "oncul": [
+        "Elektronlar iletken tel içinde ışık süratine yakın bir süratle hareket eder.",
+        "Elektronlar iletken içinde potansiyelin düşük olduğu noktadan yüksek olduğu noktaya doğru sürüklenir.",
+        "Enerji, elektronların birbirleriyle etkileşimi sayesinde devre boyunca çok kısa sürede iletilir."
        ],
-       "dogru": 2,
-       "bilgi": "Potansiyel farkın birimi volt (V), akımın birimi amper (A), direncin birimi ohmdur (Ω).",
-       "sayfa": 169
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Elektronların sürüklenme sürati mm/s düzeyindedir. Lambanın hemen yanması, iletkendeki tüm serbest elektronların aynı anda harekete geçmesi ve enerjinin etkileşimle devre boyunca anında iletilmesindendir.",
+       "sayfa": 166
       },
       {
        "id": "3.1-04",
-       "tur": "dy",
-       "ifade": "Devrede anahtar kapatıldığında lambanın hemen yanması, elektronların iletken içinde çok hızlı hareket etmesinden kaynaklanır.",
-       "dogru": false,
-       "bilgi": "Elektronların sürüklenme hızı mm/s düzeyindedir; enerji elektronların etkileşimiyle devre boyunca anında iletilir.",
-       "sayfa": 166
+       "tur": "secmeli",
+       "soru": "Bir su tesisatı ile basit bir elektrik devresi arasında kurulan aşağıdaki benzetmelerden hangisi yanlıştır?",
+       "secenekler": [
+        "Pompa – üreteç",
+        "Vana – anahtar",
+        "Kireçlenmiş dar boru – direnç",
+        "Borudan birim zamanda geçen su miktarı – akım",
+        "Pompanın oluşturduğu basınç farkı – direnç"
+       ],
+       "dogru": 4,
+       "bilgi": "Pompanın oluşturduğu basınç farkı suyu akıttığı gibi üretecin oluşturduğu potansiyel fark da yükleri hareket ettirir; basınç farkının karşılığı potansiyel farktır. Suyun akışını zorlaştıran dar boru dirence karşılık gelir.",
+       "sayfa": 174
       },
       {
        "id": "3.1-05",
        "tur": "secmeli",
-       "soru": "Bir iletken telin direncinin büyüklüğü hangi özelliklerine bağlıdır?",
+       "soru": "Potansiyel farkı 12 V olan bir akü, bağlı olduğu devreye 3 A'lik akım veriyor.\nAkü 10 s içinde devredeki yüklere kaç J enerji aktarır?",
        "secenekler": [
-        "Uzunluğu, kesit alanı ve cinsi",
-        "Rengi, kütlesi ve şekli",
-        "Yalnızca kütlesi",
-        "Yalnızca yalıtkan kılıfının rengi"
+        "4",
+        "36",
+        "360",
+        "720",
+        "1440"
        ],
-       "dogru": 0,
-       "bilgi": "Direnç R ile gösterilir; lambada aydınlatma, ütüde ısıtma görevi üstlenir.",
-       "sayfa": 170
-      },
-      {
-       "id": "3.1-06",
-       "tur": "secmeli",
-       "soru": "1795'te iki farklı metal ve nemli bir sıvıyla elektrik akımı oluşturulabileceğini göstererek modern pil teknolojisinin temelini atan bilim insanı kimdir?",
-       "secenekler": [
-        "Galvani",
-        "Thomas Edison",
-        "Gilbert Newton Lewis",
-        "Volta"
-       ],
-       "dogru": 3,
-       "bilgi": "Galvani'nin 1791'deki deneyleri Volta'ya öncülük etmiş; Volta'nın buluşu Volta pili olarak adlandırılmıştır.",
-       "sayfa": 164
-      },
-      {
-       "id": "3.1-07",
-       "tur": "bosluk",
-       "cumle": "Gilbert Newton Lewis'in icat ettiği, bilgisayar, telefon ve elektrikli araçlarda kullanılan ___ iyon piller günümüz pil teknolojisinin temelini oluşturur.",
-       "cevap": "lityum",
-       "celdiriciler": [
-        "nikel",
-        "demir",
-        "kurşun"
-       ],
-       "bilgi": "Lityum iyon piller 1990'larda ticari olarak uygulanabilir hâle gelmiştir; Edison ise 1902'de demir-nikel pilini geliştirmiştir.",
-       "sayfa": 164
-      },
-      {
-       "id": "3.1-08",
-       "tur": "dy",
-       "ifade": "Elektronlar iletken içinde potansiyelin düşük olduğu noktadan yüksek olduğu noktaya doğru sürüklenir.",
-       "dogru": true,
-       "bilgi": "Pil, akü, jeneratör, güneş paneli ve yakıt hücresi devrelerde üreteç olarak kullanılabilir.",
-       "sayfa": 169
-      },
-      {
-       "id": "3.1-09",
-       "tur": "secmeli",
-       "soru": "Basit bir elektrik devresinde anahtar açık konumdayken ne olur?",
-       "secenekler": [
-        "Devreden akım geçmez ve devre çalışmaz.",
-        "Devreden en büyük akım geçer.",
-        "Direncin değeri sıfır olur.",
-        "Üretecin potansiyel farkı iki katına çıkar."
-       ],
-       "dogru": 0,
-       "bilgi": "Devrenin çalışabilmesi için anahtarın kapalı olması gerekir.",
-       "sayfa": 170
-      },
-      {
-       "id": "3.1-10",
-       "tur": "dy",
-       "ifade": "Kullanım ömrünü tamamlamış küçük bir kalem pil, içindeki ağır metaller nedeniyle yaklaşık 4 m²'lik toprağı kirletebilir.",
-       "dogru": true,
-       "bilgi": "Atık pillerin doğaya zarar vermemesi için atık pil toplama noktalarına bırakılması gerekir.",
+       "sirali": true,
+       "dogru": 2,
+       "bilgi": "Potansiyel fark, birim yükün devreyi dolaşması için aktarılan enerjidir (V = W/q). 10 s'de geçen yük q = I · t = 30 C'dur; aktarılan enerji W = q · V = 30 · 12 = 360 J'dür.",
        "sayfa": 169
       }
      ]
@@ -1095,129 +1378,113 @@
      "kartlar": [
       {
        "id": "3.2-01",
-       "tur": "bosluk",
-       "cumle": "Bir iletkenin dik kesitinden, yüklerin cinsine bakılmaksızın birim zamanda geçen toplam yük miktarına ___ denir.",
-       "cevap": "elektrik akımı",
-       "celdiriciler": [
-        "potansiyel fark",
-        "direnç",
-        "debi"
+       "tur": "secmeli",
+       "soru": "Bir iletkenin dik kesitinden 4 s içinde 5·10¹⁹ tane elektron geçiyor.\nİletkenden geçen akım kaç A'dir? (e = 1,6·10⁻¹⁹ C)",
+       "secenekler": [
+        "2",
+        "4",
+        "5",
+        "8",
+        "20"
        ],
-       "bilgi": "Elektrik akımı I ile gösterilir; iletkenden birim zamanda geçen yük miktarıyla doğru orantılıdır.",
-       "sayfa": 177
+       "sirali": true,
+       "dogru": 0,
+       "bilgi": "Geçen toplam yük q = n · e = 5·10¹⁹ · 1,6·10⁻¹⁹ = 8 C'dur. Akım, birim zamanda geçen yük miktarıdır: I = q/t = 8/4 = 2 A.",
+       "sayfa": 180
       },
       {
        "id": "3.2-02",
        "tur": "secmeli",
-       "soru": "Elektrik akımı ve elektrik yükünün SI'daki birimleri hangi seçenekte sırasıyla verilmiştir?",
+       "soru": "Tuzlu su çözeltisine daldırılmış iki elektrot bir üretece bağlanıyor. 2 s içinde çözeltinin bir kesitinden pozitif iyonlar +x yönünde toplam 3 C, negatif iyonlar −x yönünde toplam 3 C yük taşıyor.\nBuna göre,",
+       "oncul": [
+        "Çözeltideki akımın yönü −x yönündedir.",
+        "Çözeltiden geçen akım 3 A'dir.",
+        "Pozitif iyonlar, üretecin pozitif kutbuna bağlı elektroda doğru hareket eder."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Volt ve amper",
-        "Amper ve coulomb",
-        "Ohm ve coulomb",
-        "Coulomb ve volt"
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
        ],
        "dogru": 1,
-       "bilgi": "Bir elektronun yükü -1,6·10⁻¹⁹ C'dur; protonun yükü aynı büyüklükte ve pozitiftir.",
-       "sayfa": 180
+       "bilgi": "Pozitif iyonların +x, negatif iyonların −x yönündeki hareketi aynı yönde (+x) akım oluşturur; toplam yük 6 C, akım 6/2 = 3 A'dir. Pozitif iyonlar negatif kutba bağlı elektroda (katot) doğru gider.",
+       "sayfa": 178
       },
       {
        "id": "3.2-03",
-       "tur": "dy",
-       "ifade": "Metal bir iletkende elektrik akımının yönü, elektronların hareket yönüyle aynıdır.",
-       "dogru": false,
-       "bilgi": "Elektrik akımının yönü elektronların hareket yönüne zıttır; devrede akım üretecin + kutbundan - kutbuna doğrudur.",
+       "tur": "secmeli",
+       "soru": "Bir iletkenden geçen akımın zamana bağlı grafiği şekildeki gibidir.\n0-6 s aralığında iletkenin kesitinden kaç elektron geçmiştir? (e = 1,6·10⁻¹⁹ C)",
+       "grafik": {
+        "x": "t (s)",
+        "y": "I (A)",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            4,
+            4
+           ],
+           [
+            6,
+            4
+           ]
+          ]
+         }
+        ]
+       },
+       "secenekler": [
+        "10¹⁸",
+        "10¹⁹",
+        "2·10¹⁹",
+        "5·10¹⁹",
+        "10²⁰"
+       ],
+       "sirali": true,
+       "dogru": 4,
+       "bilgi": "I-t grafiğinin altındaki alan geçen yükü verir: ½ · 4 · 4 + 4 · 2 = 16 C. Elektron sayısı n = q/e = 16 / 1,6·10⁻¹⁹ = 10²⁰'dir.",
        "sayfa": 177
       },
       {
        "id": "3.2-04",
        "tur": "secmeli",
-       "soru": "Sıvılarda elektrik akımı nasıl oluşur?",
-       "secenekler": [
-        "Pozitif ve negatif yüklü iyonların hareketiyle",
-        "Yalnızca serbest elektronların hareketiyle",
-        "Yalnızca protonların hareketiyle",
-        "Moleküllerin titreşmesiyle"
+       "soru": "Farklı ortamlarda elektrik akımının oluşumuyla ilgili,",
+       "oncul": [
+        "Metallerde akımı serbest elektronlar taşır.",
+        "Tuzlu suda akımı pozitif ve negatif iyonlar birlikte taşır.",
+        "Düşük basınç ve yüksek sıcaklıktaki gazlar akım iletebilir."
        ],
-       "dogru": 0,
-       "bilgi": "Sıvı iletkenden geçen akımın yönü pozitif iyonların hareket yönüyle aynıdır.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Metallerde serbest elektronlar, çözeltilerde pozitif ve negatif iyonlar, uygun koşullardaki gazlarda ise atomlardan kopan elektronlar ve iyonlar akımı taşır. Neon ve floresan lambalar gazların iletkenliğinden yararlanır.",
        "sayfa": 178
       },
       {
        "id": "3.2-05",
-       "tur": "eslestir",
-       "yonerge": "Ortamları, elektrik akımını taşıyan yüklü parçacıklarla eşleştir.",
-       "ciftler": [
-        [
-         "Katı metaller",
-         "Serbest elektronlar"
-        ],
-        [
-         "Tuzlu su gibi çözeltiler",
-         "Pozitif ve negatif iyonlar"
-        ],
-        [
-         "Düşük basınç ve yüksek sıcaklıktaki gazlar",
-         "Atomlardan kopan elektronlar ve iyonlar"
-        ]
-       ],
-       "bilgi": "Metallerde serbest elektron sayısı fazla olduğundan metaller yüksek elektriksel iletkenlik gösterir.",
-       "sayfa": 180
-      },
-      {
-       "id": "3.2-06",
        "tur": "secmeli",
-       "soru": "Üretece bağlanan tuzlu su çözeltisinde pozitif yüklü sodyum (Na⁺) iyonları hangi elektrota doğru hareket eder?",
+       "soru": "Bir pil, iletken teller ve bir lambadan oluşan devreyle ilgili aşağıdakilerden hangisi yanlıştır?",
        "secenekler": [
-        "Pozitif kutba (anot)",
-        "Hareket etmez",
-        "Negatif kutba (katot)",
-        "Her iki elektrota eşit olarak"
-       ],
-       "dogru": 2,
-       "bilgi": "Pozitif iyonlar (katyonlar) katoda, negatif iyonlar (anyonlar) anoda doğru hareket ederek akımı oluşturur.",
-       "sayfa": 178
-      },
-      {
-       "id": "3.2-07",
-       "tur": "bosluk",
-       "cumle": "Yalıtkan maddeler, iletkenlerin aksine ___ elektrona sahip olmadıklarından elektriği iletmez.",
-       "cevap": "serbest",
-       "celdiriciler": [
-        "pozitif",
-        "çekirdek",
-        "ağır"
-       ],
-       "bilgi": "Bakır atomunun son yörüngesindeki serbest elektron bakıra iletkenlik özelliği kazandırır.",
-       "sayfa": 177
-      },
-      {
-       "id": "3.2-08",
-       "tur": "dy",
-       "ifade": "Gazlar normal koşullarda elektriği iletmez, ancak düşük basınç ve yüksek sıcaklıkta iletken hâle gelebilir.",
-       "dogru": true,
-       "bilgi": "Bu koşullarda gaz atomlarındaki elektronlar koparak serbest kalır ve gaz akımı iletebilir.",
-       "sayfa": 178
-      },
-      {
-       "id": "3.2-09",
-       "tur": "secmeli",
-       "soru": "Gazların uygun koşullarda elektrik akımını iletmesinden yararlanılan araçlar hangi seçenekte verilmiştir?",
-       "secenekler": [
-        "Akkor ampul ve ütü",
-        "Pil ve akü",
-        "Reosta ve sigorta",
-        "Neon ve floresan lambalar"
+        "Dış devrede elektronlar pilin negatif kutbundan pozitif kutbuna doğru hareket eder.",
+        "Akımın yönü, elektronların hareket yönüne zıttır.",
+        "Dış devrede akım, pilin pozitif kutbundan negatif kutbuna doğrudur.",
+        "Metal tellerde akımı pozitif yüklü protonlar taşır.",
+        "Lambaya giren ve lambadan çıkan akımlar birbirine eşittir."
        ],
        "dogru": 3,
-       "bilgi": "Gazların iletkenliği neon ve floresan lambalar ile plazma televizyonlarında gözlemlenir.",
-       "sayfa": 178
-      },
-      {
-       "id": "3.2-10",
-       "tur": "dy",
-       "ifade": "Bir elektrik devresinde elektrik akımı, üretecin pozitif kutbundan negatif kutbuna doğrudur.",
-       "dogru": true,
-       "bilgi": "Elektronlar ise üretecin negatif kutbundan pozitif kutbuna doğru hareket eder.",
+       "bilgi": "Metallerde protonlar çekirdekte sabittir; akımı serbest elektronlar taşır. Akımın yönü elektronların hareket yönüne zıt kabul edilir ve dış devrede pozitif kutuptan negatif kutba doğrudur.",
        "sayfa": 177
       }
      ]
@@ -1229,125 +1496,198 @@
       {
        "id": "3.3-01",
        "tur": "secmeli",
-       "soru": "Elektrik devrelerinde potansiyel fark, akım ve direnç arasındaki ilişkiyi açıklayan Alman fizikçi kimdir?",
-       "secenekler": [
-        "George Simon Ohm",
-        "Alessandro Volta",
-        "Thomas Edison",
-        "James Watt"
+       "soru": "K ve L iletkenlerinin uçları arasındaki potansiyel farkın iletkenlerden geçen akıma bağlı grafikleri şekildeki gibidir.\nBuna göre,",
+       "grafik": {
+        "x": "I (A)",
+        "y": "V (V)",
+        "seriler": [
+         {
+          "ad": "K",
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            2,
+            12
+           ]
+          ]
+         },
+         {
+          "ad": "L",
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            4,
+            12
+           ]
+          ]
+         }
+        ]
+       },
+       "oncul": [
+        "K'nin direnci L'ninkinin 2 katıdır.",
+        "Uçlarına aynı potansiyel fark uygulandığında K'den geçen akım L'dekinin 2 katıdır.",
+        "K'nin uçlarına 18 V uygulanırsa K'den 3 A akım geçer."
        ],
-       "dogru": 0,
-       "bilgi": "1789'da Erlangen'de doğan George Simon Ohm'un adı direncin birimine verilmiştir.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "V-I grafiğinin eğimi direnci verir: K'nin direnci 12/2 = 6 Ω, L'ninki 12/4 = 3 Ω'dur. Aynı potansiyel farkta direnci büyük olan K'den daha küçük akım geçer. 18 V'ta K'den 18/6 = 3 A geçer.",
        "sayfa": 184
       },
       {
        "id": "3.3-02",
-       "tur": "bosluk",
-       "cumle": "Ohm Yasası'na göre sabit sıcaklıkta bir iletkenin uçları arasındaki potansiyel farkın iletkenden geçen akıma oranı, iletkenin ___ eşittir.",
-       "cevap": "direncine",
-       "celdiriciler": [
-        "gücüne",
-        "yüküne",
-        "enerjisine"
+       "tur": "secmeli",
+       "soru": "Bir öğrenci, bir lambanın uçlarına farklı potansiyel farklar uygulayarak lambadan geçen akımı ölçüyor. Ölçümler tabloda verilmiştir.\nBu verilere göre aşağıdakilerden hangisi söylenebilir?",
+       "tablo": [
+        [
+         "V (V)",
+         "2",
+         "4",
+         "6",
+         "8"
+        ],
+        [
+         "I (A)",
+         "0,4",
+         "0,6",
+         "0,75",
+         "0,8"
+        ]
        ],
-       "bilgi": "Bu ilişki R = V / I şeklinde gösterilir; Ω = V/A'dır.",
+       "secenekler": [
+        "Lambanın direnci ölçümler boyunca sabit kalmıştır.",
+        "Lambanın direnci potansiyel fark arttıkça artmıştır.",
+        "Akım potansiyel farkla doğru orantılı olarak artmıştır.",
+        "Potansiyel fark 8 V iken lambanın direnci 5 Ω'dur.",
+        "Lambanın V-I grafiği orijinden geçen bir doğrudur."
+       ],
+       "dogru": 1,
+       "bilgi": "V/I oranı sırasıyla 5, yaklaşık 6,7, 8 ve 10 Ω'dur; direnç artmaktadır. Ohm Yasası sabit sıcaklık için geçerlidir; ısınan lamba telinin direnci arttığından V-I grafiği doğrusal değildir.",
        "sayfa": 184
       },
       {
        "id": "3.3-03",
-       "tur": "dy",
-       "ifade": "Direnci sabit bir iletkenin uçları arasındaki potansiyel fark artırılırsa iletkenden geçen akım azalır.",
-       "dogru": false,
-       "bilgi": "Ohm Yasası'na göre potansiyel fark arttıkça akım da potansiyel farkla doğru orantılı olarak artar.",
-       "sayfa": 184
+       "tur": "secmeli",
+       "soru": "Potansiyel farkı sabit bir üretece bir lamba ve bir reosta seri bağlanmıştır. Reostanın sürgüsü, devreye giren direnci artıracak yönde kaydırılıyor. Lambanın direncinin değişmediği kabul ediliyor.\nBuna göre,",
+       "oncul": [
+        "Lambanın parlaklığı artar.",
+        "Devreden geçen akım azalır.",
+        "Lambanın uçları arasındaki potansiyel fark azalır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Eşdeğer direnç artınca I = V/R'ye göre akım azalır. Lambanın direnci değişmediğinden uçlarındaki potansiyel fark (I · R) azalır ve lamba sönükleşir. Dimmer devreleri bu ilkeyle çalışır.",
+       "sayfa": 187
       },
       {
        "id": "3.3-04",
        "tur": "secmeli",
-       "soru": "Potansiyel fark sabitken devredeki direncin değeri artırılırsa devreden geçen akım nasıl değişir?",
+       "soru": "Bir direncin uçlarına bağlanan voltmetre 24 V, dirençle seri bağlı ampermetre 3 A gösteriyor.\nDirenç değişmeden uçlarındaki potansiyel fark 36 V yapılırsa ampermetre kaç A gösterir?",
        "secenekler": [
-        "Artar.",
-        "Azalır.",
-        "Değişmez.",
-        "Önce artar sonra azalır."
+        "3",
+        "4",
+        "4,5",
+        "6",
+        "12"
        ],
-       "dogru": 1,
-       "bilgi": "Reosta sürgüsü direnci artıracak yönde çekilirse devredeki akım azalır.",
+       "sirali": true,
+       "dogru": 2,
+       "bilgi": "Direnç R = V/I = 24/3 = 8 Ω'dur. Direnç sabit kaldığından akım potansiyel farkla doğru orantılı artar: I = 36/8 = 4,5 A.",
        "sayfa": 184
       },
       {
        "id": "3.3-05",
-       "tur": "eslestir",
-       "yonerge": "Devre elemanlarını ve ölçüm aletlerini işlevleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Voltmetre",
-         "Potansiyel farkı ölçer."
-        ],
-        [
-         "Ampermetre",
-         "Elektrik akımını ölçer."
-        ],
-        [
-         "Reosta",
-         "Devredeki direnci ayarlar."
-        ],
-        [
-         "Anahtar",
-         "Devreyi açıp kapatır."
-        ]
+       "tur": "secmeli",
+       "soru": "Ohm Yasası'nı incelemek için kurulan bir deney düzeneğinde yapılan aşağıdaki işlemlerden hangisi yanlıştır?",
+       "secenekler": [
+        "Ampermetre, dirençle seri bağlanmıştır.",
+        "Voltmetre, direncin uçlarına paralel bağlanmıştır.",
+        "Deney boyunca direncin sıcaklığının değişmemesine dikkat edilmiştir.",
+        "Farklı akım değerleri için reostadan yararlanılmıştır.",
+        "Akımı ölçmek için voltmetre devreye seri bağlanmıştır."
        ],
-       "bilgi": "Voltmetre direncin uçlarına bağlanarak, ampermetre devreye seri bağlanarak ölçüm yapar.",
+       "dogru": 4,
+       "bilgi": "Akım ampermetreyle ölçülür ve ampermetre devreye seri bağlanır. Voltmetrenin iç direnci çok büyüktür; seri bağlanırsa devreden ihmal edilecek kadar küçük akım geçer.",
        "sayfa": 184
       },
       {
        "id": "3.3-06",
-       "tur": "bosluk",
-       "cumle": "Ütü, fırın ve saç kurutma makinesi gibi sıcaklığı ayarlanabilen cihazlarda ayarlanabilir bir direnç olan ___ kullanılır.",
-       "cevap": "reosta",
-       "celdiriciler": [
-        "ampermetre",
-        "voltmetre",
-        "sigorta"
-       ],
-       "bilgi": "Reosta ile direnç değiştirilerek sabit potansiyel fark altındaki devrenin akımı ayarlanabilir.",
-       "sayfa": 184
-      },
-      {
-       "id": "3.3-07",
        "tur": "secmeli",
-       "soru": "Bir iletken için çizilen potansiyel fark-akım (V-I) grafiğinin eğimi hangi niceliği verir?",
+       "soru": "1, 2 ve 3 numaralı iletkenlerden geçen akımın, iletkenlerin uçları arasındaki potansiyel farka bağlı grafikleri şekildeki gibidir.\nİletkenlerin dirençleri R₁, R₂ ve R₃ arasındaki ilişki aşağıdakilerden hangisidir?",
+       "grafik": {
+        "x": "V (V)",
+        "y": "I (A)",
+        "seriler": [
+         {
+          "ad": "1",
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            6,
+            3
+           ]
+          ]
+         },
+         {
+          "ad": "2",
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            6,
+            1
+           ]
+          ]
+         },
+         {
+          "ad": "3",
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            6,
+            2
+           ]
+          ]
+         }
+        ]
+       },
        "secenekler": [
-        "Gücü",
-        "Elektrik yükünü",
-        "Enerjiyi",
-        "Direnci"
-       ],
-       "dogru": 3,
-       "bilgi": "Ohm Yasası'na uyan bir iletkenin V-I grafiği doğrusaldır ve eğimi sabittir.",
-       "sayfa": 184
-      },
-      {
-       "id": "3.3-08",
-       "tur": "dy",
-       "ifade": "Cihazlar uygun potansiyel fark ve direnç değerlerinde çalıştırılmadığında aşırı ısınarak zarar görebilir ve yangına neden olabilir.",
-       "dogru": true,
-       "bilgi": "Akım, potansiyel fark ve direnç arasındaki ilişkinin bilinmesi cihazların güvenli ve verimli çalışmasını sağlar.",
-       "sayfa": 181
-      },
-      {
-       "id": "3.3-09",
-       "tur": "secmeli",
-       "soru": "Bir devredeki lambanın parlaklığını ayarlamaya yarayan kontrol mekanizması hangisidir?",
-       "secenekler": [
-        "Sigorta",
-        "Dimmer",
-        "Voltmetre",
-        "Ampermetre"
+        "R₁ > R₃ > R₂",
+        "R₂ > R₃ > R₁",
+        "R₁ > R₂ > R₃",
+        "R₃ > R₁ > R₂",
+        "R₁ = R₂ = R₃"
        ],
        "dogru": 1,
-       "bilgi": "Dimmer devresinde reosta kullanılarak lambadan geçen akım ve dolayısıyla parlaklık değiştirilir.",
-       "sayfa": 187
+       "bilgi": "I-V grafiğinde eğim I/V = 1/R'dir; eğimi en küçük olan iletkenin direnci en büyüktür. R₁ = 6/3 = 2 Ω, R₂ = 6/1 = 6 Ω, R₃ = 6/2 = 3 Ω'dur.",
+       "sayfa": 184
       }
      ]
     },
@@ -1357,139 +1697,129 @@
      "kartlar": [
       {
        "id": "3.4-01",
-       "tur": "bosluk",
-       "cumle": "Bir devredeki birden fazla direncin yaptığı etkiyi tek başına yapabilen dirence ___ direnç denir.",
-       "cevap": "eşdeğer",
-       "celdiriciler": [
-        "iç",
-        "ana kol",
-        "değişken"
+       "tur": "secmeli",
+       "soru": "Dirençleri 2 Ω, 4 Ω ve 6 Ω olan üç direnç seri bağlanarak potansiyel farkı 24 V olan bir üretece bağlanıyor.\n4 Ω'luk direncin uçları arasındaki potansiyel fark kaç V'tur?",
+       "secenekler": [
+        "4",
+        "8",
+        "12",
+        "16",
+        "24"
        ],
-       "bilgi": "Eşdeğer direnç Reş ile gösterilir; dirençlerin bağlanma şekli eşdeğer direnci ve devreden geçen akımı belirler.",
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "Seri bağlamada eşdeğer direnç 2 + 4 + 6 = 12 Ω, akım 24/12 = 2 A'dir ve her dirençten aynı akım geçer. 4 Ω'luk direncin uçlarındaki potansiyel fark 2 · 4 = 8 V'tur.",
        "sayfa": 195
       },
       {
        "id": "3.4-02",
        "tur": "secmeli",
-       "soru": "Seri bağlı dirençlerle ilgili aşağıdakilerden hangisi doğrudur?",
+       "soru": "3 Ω ve 6 Ω'luk iki direnç birbirine paralel bağlanıyor; bu ikiliye 4 Ω'luk bir direnç seri bağlanarak devre, potansiyel farkı 18 V olan bir üretece bağlanıyor.\n6 Ω'luk dirençten geçen akım kaç A'dir?",
        "secenekler": [
-        "Her bir direnç üzerinden geçen akım ana kol akımına eşittir.",
-        "Her direncin uçları arasındaki potansiyel fark üretecinkine eşittir.",
-        "Eşdeğer direnç en küçük dirençten küçüktür.",
-        "Ana kol akımı dirençlerle ters orantılı paylaşılır."
+        "1",
+        "1,5",
+        "2",
+        "3",
+        "6"
        ],
+       "sirali": true,
        "dogru": 0,
-       "bilgi": "Seri bağlı dirençlerin potansiyel farklarının toplamı üretecin potansiyel farkına eşittir; eşdeğer direnç en büyük dirençten büyüktür.",
-       "sayfa": 195
+       "bilgi": "Paralel kısmın eşdeğeri 3 · 6 / (3 + 6) = 2 Ω, devrenin eşdeğeri 6 Ω'dur; ana kol akımı 18/6 = 3 A. Paralel kısmın uçlarında 3 · 2 = 6 V vardır; 6 Ω'luk dirençten 1 A, 3 Ω'luktan 2 A geçer.",
+       "sayfa": 203
       },
       {
        "id": "3.4-03",
        "tur": "secmeli",
-       "soru": "Bir devreye paralel bağlanan direnç sayısı artırılırsa devrenin eşdeğer direnci nasıl değişir?",
-       "secenekler": [
-        "Artar.",
-        "Değişmez.",
-        "Azalır.",
-        "En büyük dirence eşit olur."
+       "soru": "Evlerdeki elektrikli cihazlar ve araçların farları paralel bağlanır.\nParalel bağlamayla ilgili,",
+       "oncul": [
+        "Paralel bağlı elemanlardan biri bozulduğunda diğerleri çalışmaya devam eder.",
+        "Paralel kol sayısı arttıkça devrenin eşdeğer direnci artar.",
+        "Paralel bağlı her elemanın uçları arasındaki potansiyel fark eşittir."
        ],
-       "dogru": 2,
-       "bilgi": "Dirençlerin paralel bağlanması iletkenin kesit alanının artırılmasına benzer; kesit alanı artan iletkenin direnci azalır.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Paralel kolların her biri ayrı bir akım yolu oluşturduğundan biri bozulsa da diğerleri çalışır ve uçlarındaki potansiyel farklar eşittir. Kol sayısı arttıkça kesit alanı artmış gibi olur, eşdeğer direnç azalır.",
        "sayfa": 199
       },
       {
        "id": "3.4-04",
-       "tur": "dy",
-       "ifade": "Paralel bağlı dirençlerin eşdeğer direnci, devredeki dirençlerin her birinden daha küçüktür.",
-       "dogru": true,
-       "bilgi": "Paralel bağlı dirençlerin uçları arasındaki potansiyel farklar eşittir; kol akımlarının toplamı ana kol akımını verir.",
-       "sayfa": 199
-      },
-      {
-       "id": "3.4-05",
-       "tur": "eslestir",
-       "yonerge": "Devre elemanlarını ve durumları doğru açıklamalarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Voltmetre",
-         "İç direnci çok büyüktür, elemana paralel bağlanır."
-        ],
-        [
-         "Ampermetre",
-         "Direnci çok küçüktür, elemana seri bağlanır."
-        ],
-        [
-         "Araç farları",
-         "Biri arızalanınca diğeri çalışsın diye paralel bağlanır."
-        ],
-        [
-         "Kısa devre",
-         "Akımın tamamına yakını dirençsiz telden geçer."
-        ]
+       "tur": "secmeli",
+       "soru": "Bir öğrenci, üretece bağlı bir lambadan geçen akımı ölçmek isterken ampermetreyi yanlışlıkla lambaya paralel bağlıyor.\nBuna göre,",
+       "oncul": [
+        "Ampermetre lambadan geçen akımı doğru olarak ölçer.",
+        "Lamba ışık vermez ya da çok sönük yanar.",
+        "Ampermetreden, lamba üzerinden geçenden çok daha büyük akım geçer."
        ],
-       "bilgi": "Ampermetre bir elemana paralel bağlanırsa kısa devre oluşur ve eleman çalışmaz.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Ampermetrenin direnci çok küçüktür; lambaya paralel bağlanınca kısa devre oluşur, akımın tamamına yakını ampermetreden geçer ve lamba çalışmaz. Ampermetre ölçüm için devreye seri bağlanmalıdır.",
        "sayfa": 194
       },
       {
+       "id": "3.4-05",
+       "tur": "secmeli",
+       "soru": "Özdeş iki direnç önce seri, sonra paralel bağlanarak aynı üretece bağlanıyor.\nSeri bağlamadaki ana kol akımının paralel bağlamadaki ana kol akımına oranı kaçtır?",
+       "secenekler": [
+        "1/4",
+        "1/2",
+        "1",
+        "2",
+        "4"
+       ],
+       "sirali": true,
+       "dogru": 0,
+       "bilgi": "Seri bağlamada eşdeğer direnç 2R, paralel bağlamada R/2'dir. Aynı potansiyel farkta akım eşdeğer dirençle ters orantılı olduğundan oran (R/2)/(2R) = 1/4'tür.",
+       "sayfa": 199
+      },
+      {
        "id": "3.4-06",
-       "tur": "dy",
-       "ifade": "Voltmetre bir lambaya seri bağlanırsa, iç direnci çok küçük olduğundan lamba daha parlak yanar.",
-       "dogru": false,
-       "bilgi": "Voltmetrenin iç direnci çok büyüktür; seri bağlanırsa devreden ihmal edilecek kadar az akım geçer ve lamba ışık vermez.",
+       "tur": "secmeli",
+       "soru": "Özdeş K, L ve M lambaları seri bağlanarak bir üretece bağlanmıştır. L lambasının uçları, direnci önemsiz bir iletken telle birleştiriliyor.\nBuna göre,",
+       "oncul": [
+        "Devrenin eşdeğer direnci artar.",
+        "M lambasından geçen akım azalır.",
+        "K lambasından geçen akım artar."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Tel L'yi kısa devre eder; akım dirençsiz telden geçtiği için L ışık vermez. Eşdeğer direnç 3R'den 2R'ye düşer, ana kol akımı 3/2 katına çıkar; K ve M'den geçen akım artar.",
        "sayfa": 194
       },
       {
        "id": "3.4-07",
-       "tur": "bosluk",
-       "cumle": "Dirençli bir devre elemanının uçları arasına direnci ihmal edilecek kadar küçük bir tel bağlanması sonucu elemanın çalışmamasına ___ denir.",
-       "cevap": "kısa devre",
-       "celdiriciler": [
-        "açık devre",
-        "topraklama",
-        "sigorta atması"
-       ],
-       "bilgi": "Kısa devrede akımın tamamına yakını teli izlediği için devre elemanından çok az akım geçer.",
-       "sayfa": 194
-      },
-      {
-       "id": "3.4-08",
        "tur": "secmeli",
-       "soru": "Dirençlerin seri bağlanması aşağıdakilerden hangisine benzetilebilir?",
+       "soru": "Dirençlerin bağlanmasıyla ilgili aşağıdakilerden hangisi yanlıştır?",
        "secenekler": [
-        "İletkenin kesit alanının artırılmasına",
-        "İletkenin boyunun uzatılmasına",
-        "İletkenin cinsinin değiştirilmesine",
-        "İletkenin kısaltılmasına"
-       ],
-       "dogru": 1,
-       "bilgi": "Boyu uzayan iletkenin direnci artacağından seri bağlı direnç sayısı arttıkça eşdeğer direnç de artar.",
-       "sayfa": 195
-      },
-      {
-       "id": "3.4-09",
-       "tur": "secmeli",
-       "soru": "Paralel bağlı dirençlerde ana kol akımı kollara nasıl paylaşılır?",
-       "secenekler": [
-        "Kollardaki dirençlerle doğru orantılı",
-        "Her durumda eşit olarak",
-        "Yalnızca en büyük dirençli koldan geçecek şekilde",
-        "Kollardaki dirençlerle ters orantılı"
+        "Seri bağlı dirençlerin eşdeğeri en büyük dirençten büyüktür.",
+        "Dirençlerin seri bağlanması iletkenin boyunun uzatılmasına benzer.",
+        "Paralel bağlı dirençlerin eşdeğeri en küçük dirençten küçüktür.",
+        "Paralel kollarda direnci büyük olan koldan daha büyük akım geçer.",
+        "Seri bağlı dirençlerin potansiyel farklarının toplamı üretecinkine eşittir."
        ],
        "dogru": 3,
-       "bilgi": "Paralel kollarda direnci küçük olan koldan daha büyük akım geçer.",
+       "bilgi": "Paralel kolların uçlarındaki potansiyel fark eşit olduğundan akım dirençle ters orantılı paylaşılır; direnci küçük olan koldan daha büyük akım geçer.",
        "sayfa": 199
-      },
-      {
-       "id": "3.4-10",
-       "tur": "bosluk",
-       "cumle": "Seri ve paralel bağlı dirençlerin aynı devrede kullanıldığı bağlanma türüne dirençlerin ___ bağlanması denir.",
-       "cevap": "birleşik",
-       "celdiriciler": [
-        "ters",
-        "düz",
-        "zincirleme"
-       ],
-       "bilgi": "Birleşik devrelerde seri dirençler doğrudan toplanır, paralel dirençler için eşdeğer direnç modeli kullanılır.",
-       "sayfa": 203
       }
      ]
     },
@@ -1499,122 +1829,112 @@
      "kartlar": [
       {
        "id": "3.5-01",
-       "tur": "bosluk",
-       "cumle": "Üreteçlerin zıt kutuplarının birbirine bağlanmasıyla oluşturulan seri bağlanmaya ___ seri bağlanma denir.",
-       "cevap": "düz",
-       "celdiriciler": [
-        "ters",
-        "paralel",
-        "birleşik"
+       "tur": "secmeli",
+       "soru": "Potansiyel farkları 12 V, 6 V ve 4 V olan üç üreteçten 12 V ve 6 V'luk olanlar düz seri bağlanmış, 4 V'luk üreteç ise bunlara ters bağlanmıştır. Bu üreteç grubu 2 Ω'luk bir dirence bağlanıyor.\nDirençten geçen akım kaç A'dir? (Üreteçlerin iç dirençleri önemsizdir.)",
+       "secenekler": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "7"
        ],
-       "bilgi": "Düz seri bağlı üreteçlerin toplam potansiyel farkı, üreteçlerin potansiyel farklarının toplamına eşittir.",
+       "sirali": true,
+       "dogru": 4,
+       "bilgi": "Düz seri bağlı üreteçlerin potansiyel farkları toplanır, ters bağlı olanınki çıkarılır: 12 + 6 − 4 = 14 V. Akım 14/2 = 7 A'dir.",
        "sayfa": 210
       },
       {
        "id": "3.5-02",
        "tur": "secmeli",
-       "soru": "Direnç değişmeden devredeki düz seri bağlı özdeş üreteç sayısı artırılırsa ne olur?",
+       "soru": "Potansiyel farkı ε olan özdeş üç üreteç önce düz seri, sonra paralel bağlanarak aynı R direncine bağlanıyor. (Üreteçlerin iç dirençleri önemsizdir.)\nBuna göre,",
+       "oncul": [
+        "Seri bağlamada dirençten geçen akım, paralel bağlamadakinin 3 katıdır.",
+        "Paralel bağlamada her bir üreteçten çekilen akım, seri bağlamada her bir üreteçten çekilen akımın 1/9'udur.",
+        "Paralel bağlamada üreteçler daha kısa sürede tükenir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Potansiyel fark değişmez, üreteçler daha geç tükenir.",
-        "Toplam potansiyel fark azalır, akım azalır.",
-        "Potansiyel fark ve akım artar, üreteçler çabuk tükenir.",
-        "Devreden akım geçmez."
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
        ],
        "dogru": 2,
-       "bilgi": "Seri bağlama daha yüksek potansiyel fark elde etmek amacıyla tercih edilir.",
-       "sayfa": 210
+       "bilgi": "Seri bağlamada potansiyel fark 3ε, akım 3ε/R'dir ve bu akım her üreteçten geçer. Paralel bağlamada potansiyel fark ε, ana akım ε/R'dir; her üreteçten ε/3R çekilir. Daha az akım çekilen paralel üreteçler daha geç tükenir.",
+       "sayfa": 212
       },
       {
        "id": "3.5-03",
-       "tur": "dy",
-       "ifade": "Potansiyel farkları eşit iki üreteç ters seri bağlandığında devrede akım oluşmaz.",
-       "dogru": true,
-       "bilgi": "Ters seri bağlamada üreteçlerin aynı kutupları birbirine bağlanır ve potansiyel farklar birbirinden çıkarılır.",
+       "tur": "secmeli",
+       "soru": "Özdeş lambalı iki devrenin birinde iki özdeş pil düz seri, diğerinde iki özdeş pil paralel bağlıdır. Her iki devrede de pillerden biri bozularak akım geçirmez hâle geliyor. (Pillerin iç dirençleri önemsizdir.)\nBuna göre,",
+       "oncul": [
+        "Paralel bağlı devredeki lambadan geçen akım azalır.",
+        "Seri bağlı devrede akım kesilir.",
+        "Paralel bağlı devre çalışmaya devam eder."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Seri bağlamada akım her pilin içinden geçtiğinden bozuk pil devreyi açar. Paralel bağlamada sağlam pil aynı potansiyel farkı sağlamaya devam eder; iç dirençler önemsiz olduğundan lambanın akımı değişmez.",
        "sayfa": 210
       },
       {
        "id": "3.5-04",
        "tur": "secmeli",
-       "soru": "Paralel bağlı özdeş üreteçlerin devreye sağladığı potansiyel fark için ne söylenebilir?",
+       "soru": "Elektrikli yılan balığının vücudunda, her biri küçük bir pil gibi çalışan binlerce elektrosit hücresi, birinin pozitif ucu diğerinin negatif ucuna gelecek biçimde art arda dizilmiştir. Bu sayede balık, avını sersemletecek büyüklükte potansiyel fark oluşturabilir.\nBu dizilişle ilgili aşağıdakilerden hangisi söylenebilir?",
        "secenekler": [
-        "Tek bir üretecin potansiyel farkına eşittir.",
-        "Üreteçlerin potansiyel farklarının toplamına eşittir.",
-        "Sıfırdır.",
-        "Üreteç sayısıyla doğru orantılı artar."
-       ],
-       "dogru": 0,
-       "bilgi": "Paralel bağlamada üreteçlerin aynı kutupları kendi aralarında birbirine bağlanır.",
-       "sayfa": 212
-      },
-      {
-       "id": "3.5-05",
-       "tur": "dy",
-       "ifade": "Paralel bağlı üreteç sayısı artırıldığında her bir üreteçten çekilen akım artar ve üreteçler daha çabuk tükenir.",
-       "dogru": false,
-       "bilgi": "Paralel bağlı üreteç sayısı arttıkça her birinden çekilen akım azalır ve üreteçler daha geç tükenir.",
-       "sayfa": 212
-      },
-      {
-       "id": "3.5-06",
-       "tur": "eslestir",
-       "yonerge": "Üreteçlerin bağlanma türlerini özellikleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Düz seri bağlanma",
-         "Daha yüksek toplam potansiyel fark sağlar."
-        ],
-        [
-         "Paralel bağlanma",
-         "Daha uzun pil ömrü sağlar."
-        ],
-        [
-         "Ters seri bağlanma",
-         "Potansiyel farklar birbirinden çıkarılır."
-        ]
-       ],
-       "bilgi": "Üreteçlerin bağlanma şekli devredeki toplam potansiyel farkı, akımı ve devrenin performansını belirler.",
-       "sayfa": 215
-      },
-      {
-       "id": "3.5-07",
-       "tur": "secmeli",
-       "soru": "Üreteçlerin seri bağlı olduğu bir devrede üreteçlerden biri arızalanırsa ne olur?",
-       "secenekler": [
-        "Diğer üreteçler akım vermeye devam eder.",
-        "Devrede akım oluşmaz.",
-        "Potansiyel fark iki katına çıkar.",
-        "Ana kol akımı değişmez."
+        "Hücreler paralel bağlı üreteçler gibi davranır; toplam potansiyel fark tek hücreninkine eşittir.",
+        "Hücreler düz seri bağlı üreteçler gibi davranır; potansiyel farkları toplanır.",
+        "Hücreler ters seri bağlı üreteçler gibi davranır; potansiyel farkları birbirini yok eder.",
+        "Hücre sayısı arttıkça toplam potansiyel fark azalır.",
+        "Hücrelerin potansiyel farkı, aralarındaki uzaklık arttıkça artar."
        ],
        "dogru": 1,
-       "bilgi": "Paralel bağlı üreteçlerden biri bozulduğunda ise diğerleri devreye akım vermeye devam eder.",
-       "sayfa": 210
-      },
-      {
-       "id": "3.5-08",
-       "tur": "bosluk",
-       "cumle": "Elektrikli yılan balıklarında elektrik üretimi, her biri pil gibi çalışan ve uç uca dizilmiş ___ adlı hücrelerde gerçekleşir.",
-       "cevap": "elektrosit",
-       "celdiriciler": [
-        "nöron",
-        "eritrosit",
-        "lökosit"
-       ],
-       "bilgi": "Bu hücrelerde birinin pozitif ucu diğerinin negatif ucuna gelecek şekilde dizilmiştir.",
+       "bilgi": "Zıt kutupların uç uca bağlanması düz seri bağlamadır. Toplam potansiyel fark tek tek potansiyel farkların toplamına eşit olduğundan çok sayıda hücreyle yüksek potansiyel fark elde edilir.",
        "sayfa": 208
       },
       {
-       "id": "3.5-09",
+       "id": "3.5-05",
        "tur": "secmeli",
-       "soru": "Ters seri bağlı iki üreteçten oluşan bir devrede akımın yönü nasıl belirlenir?",
-       "secenekler": [
-        "Potansiyel farkı küçük olan üretecin oluşturduğu akım yönündedir.",
-        "Her zaman saat yönündedir.",
-        "Dirence bağlı olarak rastgele değişir.",
-        "Potansiyel farkı büyük olan üretecin oluşturduğu akım yönündedir."
+       "soru": "Potansiyel farkı 9 V olan K üreteci ile 3 V olan L üreteci ters seri bağlanarak 3 Ω'luk bir dirence bağlanıyor. (Üreteçlerin iç dirençleri önemsizdir.)\nBuna göre,",
+       "oncul": [
+        "Dirençten 2 A akım geçer.",
+        "Akımın yönü, K'nin tek başına oluşturacağı akımın yönündedir.",
+        "L yerine 9 V'luk bir üreteç aynı biçimde bağlansaydı dirençten akım geçmezdi."
        ],
-       "dogru": 3,
-       "bilgi": "Ters seri bağlı üreteçlerin potansiyel farkları eşitse devrede akım oluşmaz.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Ters seri bağlamada potansiyel farklar çıkarılır: 9 − 3 = 6 V, akım 6/3 = 2 A'dir ve potansiyel farkı büyük olan K'nin belirlediği yöndedir. Potansiyel farklar eşit olsaydı net potansiyel fark sıfır olur, akım oluşmazdı.",
        "sayfa": 210
+      },
+      {
+       "id": "3.5-06",
+       "tur": "secmeli",
+       "soru": "Üreteçlerin bağlanma biçimleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Düz seri bağlamada toplam potansiyel fark, üreteçlerin potansiyel farklarının toplamıdır.",
+        "Ters seri bağlamada üreteçlerin aynı kutupları birbirine bağlanır.",
+        "Özdeş üreteçlerin paralel bağlanması üreteçlerin kullanım süresini uzatır.",
+        "Paralel bağlı özdeş üreteçlerin toplam potansiyel farkı tek bir üretecinkine eşittir.",
+        "Düz seri bağlı özdeş üreteç sayısı artırılırsa üreteçler daha geç tükenir."
+       ],
+       "dogru": 4,
+       "bilgi": "Düz seri bağlı üreteç sayısı arttıkça potansiyel fark ve akım artar; her üreteçten daha büyük akım çekildiği için üreteçler daha çabuk tükenir. Seri bağlama yüksek potansiyel fark, paralel bağlama uzun kullanım süresi için tercih edilir.",
+       "sayfa": 215
       }
      ]
     },
@@ -1625,108 +1945,96 @@
       {
        "id": "3.6-01",
        "tur": "secmeli",
-       "soru": "Elektronik cihazları ve canlıları aşırı akımdan koruyan, akım güvenli sınırı aşınca devreyi kesen alet hangisidir?",
+       "soru": "Bir kişinin vücut direnci kuruyken 110 000 Ω, ıslakken 1100 Ω olarak ölçülüyor.\nBu kişi ıslakken 220 V'luk şebeke gerilimine temas ederse vücudundan geçen akım kaç mA olur?",
        "secenekler": [
-        "Sigorta",
-        "Voltmetre",
-        "Reosta",
-        "Dimmer"
+        "2",
+        "20",
+        "100",
+        "200",
+        "2000"
        ],
-       "dogru": 0,
-       "bilgi": "Sigortanın içindeki direnç elektrik enerjisini ısıya dönüştürür; akım arttıkça açığa çıkan ısı da artar.",
+       "sirali": true,
+       "dogru": 3,
+       "bilgi": "I = V/R = 220/1100 = 0,2 A = 200 mA'dir. Kuru vücuttan 220/110 000 = 2 mA geçerdi. Islak vücudun direnci çok küçük olduğundan aynı potansiyel farkta 100 kat büyük akım geçer.",
        "sayfa": 217
       },
       {
        "id": "3.6-02",
-       "tur": "dy",
-       "ifade": "Islak vücudun direnci kuru vücuda göre çok daha küçük olduğundan aynı potansiyel farkta ıslak vücuttan daha fazla akım geçer.",
-       "dogru": true,
-       "bilgi": "İnsan vücudunun direnci kuruyken yaklaşık 100.000-500.000 Ω, ıslakken yaklaşık 500-1000 Ω'dur.",
+       "tur": "secmeli",
+       "soru": "Bir evde aynı sigortaya bağlı prizlere takılı ısıtıcı, ütü ve fırın art arda çalıştırılıyor. Prizler birbirine paralel bağlıdır.\nBuna göre,",
+       "oncul": [
+        "Sigortadan geçen toplam akım artar.",
+        "Çalışan cihaz sayısı arttıkça her cihazın uçlarındaki potansiyel fark azalır.",
+        "Akım güvenli sınırı aşarsa sigorta devreyi keserek kabloların aşırı ısınmasını önler."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Paralel bağlı cihaz sayısı arttıkça eşdeğer direnç azalır, çekilen toplam akım artar; her cihazın uçlarındaki potansiyel fark ise şebeke gerilimine eşit kalır. Aşırı akım kabloları ısıtıp yangına yol açabileceğinden sigorta devreyi keser.",
        "sayfa": 217
       },
       {
        "id": "3.6-03",
        "tur": "secmeli",
-       "soru": "Kuru insan vücudunun direnci yaklaşık hangi aralıktadır?",
+       "soru": "Elektrik güvenliği için alınan aşağıdaki önlemlerden hangisinin gerekçesi yanlış verilmiştir?",
        "secenekler": [
-        "500-1000 Ω",
-        "100.000-500.000 Ω",
-        "1-10 Ω",
-        "10-100 Ω"
+        "Tesisatta çalışırken sigorta kapatılır – devrede akım oluşmasın diye.",
+        "Bir prize çok sayıda cihaz takılmaz – çekilen toplam akım aşırı artmasın diye.",
+        "Akıma kapılan kişiye kuru tahta sopayla dokunulur – tahta yalıtkan olduğu için.",
+        "Islak elle prize dokunulmaz – ıslak vücudun direnci küçük olduğu için.",
+        "Hasarlı kablo değiştirilir – direnci arttıkça akımı artacağı için."
        ],
-       "dogru": 1,
-       "bilgi": "Terleme, sıcaklık, bireysel özellikler ve psikolojik durum da vücut direncini etkiler.",
-       "sayfa": 217
+       "dogru": 4,
+       "bilgi": "Aynı potansiyel farkta direnç arttıkça akım azalır; hasarlı kablonun direncinin artması akımı artırmaz. Hasarlı kablo, açıkta kalan iletken nedeniyle çarpılma ve kısa devre tehlikesi oluşturduğu için değiştirilir.",
+       "sayfa": 218
       },
       {
        "id": "3.6-04",
-       "tur": "bosluk",
-       "cumle": "Evlerdeki elektrik tesisatında prizler ve duylar birbirine ___ bağlıdır; bu yüzden çalıştırılan her cihaz eşdeğer direnci azaltır.",
-       "cevap": "paralel",
-       "celdiriciler": [
-        "seri",
-        "ters",
-        "düz"
+       "tur": "secmeli",
+       "soru": "Otomatik sigortalarda, içinden geçen akım güvenli sınırı aştığında ısınan bir iletken şekil değiştirerek mandalı düşürür ve devre açılır.\nSigortayla ilgili,",
+       "oncul": [
+        "Koruduğu devreye seri bağlanmalıdır.",
+        "Çalışması, akımın ısı etkisine dayanır.",
+        "Sigorta attığında devredeki cihazların uçları arasındaki potansiyel fark artar."
        ],
-       "bilgi": "Eşdeğer direnç azaldıkça çekilen akım artar; artan sıcaklık kablo yalıtımını eritip kısa devreye yol açabilir.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Sigorta devreyi kesebilmek için akımın tamamının geçtiği yere, yani devreye seri bağlanır. Akım arttıkça iletkende açığa çıkan ısı artar ve mandal düşer; devre açılınca cihazların uçlarında potansiyel fark kalmaz.",
        "sayfa": 217
       },
       {
        "id": "3.6-05",
-       "tur": "dy",
-       "ifade": "Elektrik kaynağına teması devam eden bir kişiyi kurtarmak için kişi hemen çıplak elle tutulup çekilmelidir.",
-       "dogru": false,
-       "bilgi": "Böyle bir kişiye asla dokunulmamalı; akım durdurulmalı, mümkün değilse iletken olmayan bir malzemeyle temas kesilmeli ve 112 aranmalıdır.",
-       "sayfa": 217
-      },
-      {
-       "id": "3.6-06",
        "tur": "secmeli",
-       "soru": "İnsan vücudundan geçen elektrik akımı hangi bölgenin üzerinden geçtiğinde vereceği zarar daha fazladır?",
+       "soru": "Elektrik çarpmasında vücudun göreceği zararla ilgili,",
+       "oncul": [
+        "Akımın vücuttan geçme süresi uzadıkça zarar artar.",
+        "Akımın kalp üzerinden geçmesi zararı artırır.",
+        "Potansiyel fark değişmezken vücut direnci arttıkça zarar artar."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Kalbin",
-        "Bir elin parmaklarının",
-        "Ayak bileğinin",
-        "Dirseğin"
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I, II ve III"
        ],
-       "dogru": 0,
-       "bilgi": "Vücuttan geçen akımın zararı akımın büyüklüğüne, süresine ve vücutta izlediği yola bağlıdır.",
+       "dogru": 3,
+       "bilgi": "Zararın büyüklüğü vücuttan geçen akımın büyüklüğüne, süresine ve vücutta izlediği yola bağlıdır; kalpten geçen akım en tehlikelisidir. Aynı potansiyel farkta vücut direnci artarsa akım, dolayısıyla zarar azalır.",
        "sayfa": 217
-      },
-      {
-       "id": "3.6-07",
-       "tur": "bosluk",
-       "cumle": "Sigortadan geçen akım güvenli sınırı aştığında ısı etkisiyle sigorta mandalının düşüp devreyi kesmesine ___ denir.",
-       "cevap": "sigorta atması",
-       "celdiriciler": [
-        "kısa devre",
-        "topraklama",
-        "elektrik kaçağı"
-       ],
-       "bilgi": "Sigorta, aşırı akım nedeniyle cihazların ve canlıların zarar görmesini engeller.",
-       "sayfa": 217
-      },
-      {
-       "id": "3.6-08",
-       "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi elektrik akımının tehlikelerinden korunmak için alınması gereken önlemlerdendir?",
-       "secenekler": [
-        "Hasar görmüş kablolar bantlanarak kullanılmaya devam edilmelidir.",
-        "Bir prize birden fazla fiş takılmamalıdır.",
-        "Prizlerin emniyet kapakları çıkarılmalıdır.",
-        "Tamirat sigorta açıkken yapılmalıdır."
-       ],
-       "dogru": 1,
-       "bilgi": "Prizler topraklı olmalı, emniyet kapağı takılmalı ve kullanılmayan cihazların fişi prizden çıkarılmalıdır.",
-       "sayfa": 218
-      },
-      {
-       "id": "3.6-09",
-       "tur": "dy",
-       "ifade": "Elektrik tesisatında, sigorta kapalı konuma getirilmeden hiçbir iş yapılmamalıdır.",
-       "dogru": true,
-       "bilgi": "Tamirat yapan kişiler uygun yalıtkan malzemeden yapılmış kıyafet ve alet kullanmalıdır.",
-       "sayfa": 218
       }
      ]
     },
@@ -1736,126 +2044,91 @@
      "kartlar": [
       {
        "id": "3.7-01",
-       "tur": "bosluk",
-       "cumle": "Elektrikli cihazların elektrik kaçağı tehlikesine karşı bir iletkenle toprağa gömülü sisteme bağlanmasına ___ denir.",
-       "cevap": "topraklama",
-       "celdiriciler": [
-        "yalıtım",
-        "kısa devre",
-        "sigorta"
+       "tur": "secmeli",
+       "soru": "Kasasında elektrik kaçağı bulunan topraksız bir cihazın kasası ile toprak arasındaki potansiyel fark 220 V'tur. Cihaza dokunan bir kişinin vücudu üzerinden toprağa giden yolun toplam direnci 2200 Ω'dur.\nKişiden geçen akım kaç mA'dir?",
+       "secenekler": [
+        "10",
+        "100",
+        "200",
+        "220",
+        "1000"
        ],
-       "bilgi": "Topraklamayla cisimde biriken fazla elektrik yükü güvenli bir şekilde toprağa aktarılır.",
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "I = 220/2200 = 0,1 A = 100 mA'dir. Bu değer insan için güvenli kabul edilen yaklaşık 30 mA sınırının çok üzerindedir. Cihaz topraklı olsaydı kaçak akım direnci çok küçük olan toprak hattından geçerdi.",
        "sayfa": 222
       },
       {
        "id": "3.7-02",
        "tur": "secmeli",
-       "soru": "Binaları ve yapıları yıldırımın zararlı etkilerinden korumak için kullanılan sivri uçlu topraklama sistemi hangisidir?",
-       "secenekler": [
-        "Sigorta",
-        "Reosta",
-        "Transformatör",
-        "Paratoner"
+       "soru": "Bir caminin minaresine yerleştirilen paratoner, bakır bir iletkenle toprağa gömülü bir plakaya bağlıdır.\nBu sistemle ilgili,",
+       "oncul": [
+        "Paratonerin ucunun sivri olması, elektrik yüklerinin sivri uçlarda toplanmasından yararlanmak içindir.",
+        "Bakır iletken yerine plastik bir kablo kullanılsaydı sistem aynı işlevi görürdü.",
+        "Yıldırımın yükü kontrollü biçimde toprağa aktarılır."
        ],
-       "dogru": 3,
-       "bilgi": "Bina çatılarına ve minarelere yerleştirilen yıldırımsavarlar bakır bir iletkenle toprağa bağlıdır.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Yükler sivri uçlarda toplandığından paratoner yıldırımın yükünü kendi üzerinden geçirir ve bakır iletkenle güvenle toprağa aktarır. Plastik yalıtkan olduğu için yükü toprağa iletemez.",
        "sayfa": 222
       },
       {
        "id": "3.7-03",
-       "tur": "dy",
-       "ifade": "Paratonerin sivri yapılmasının nedeni, elektrik yüklerinin sivri alanlarda toplanmasıdır.",
-       "dogru": true,
-       "bilgi": "Paratoner fazla elektrik yüklerini kontrollü ve güvenli bir sistemle toprağa aktarır.",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki uygulamalardan hangisi topraklama amacıyla yapılmaz?",
+       "secenekler": [
+        "Akaryakıt tankerlerinin arkasına yere değen zincir takılması",
+        "Ameliyathane zeminlerinin iletken maddeyle kaplanması",
+        "Elektronik tamircilerinin bileklerine özel bileklik takması",
+        "Binalara bakır iletkenle toprağa bağlı paratoner konması",
+        "Tesisata aşırı akımda devreyi kesen sigorta takılması"
+       ],
+       "dogru": 4,
+       "bilgi": "Sigorta aşırı akıma karşı devreyi keser; fazla yükü toprağa aktarmaz. Tanker zinciri, iletken zemin, topraklı bileklik ve paratoner ise biriken yükü toprağa aktaran topraklama uygulamalarıdır.",
        "sayfa": 222
       },
       {
        "id": "3.7-04",
        "tur": "secmeli",
-       "soru": "Elektrik çarpmasına karşı insan vücudu için güvenli kabul edilen akım sınırı yaklaşık ne kadardır?",
+       "soru": "Topraklama ve elektrik güvenliğiyle ilgili aşağıdakilerden hangisi yanlıştır?",
        "secenekler": [
-        "30 mA",
-        "300 mA",
-        "3 A",
-        "30 A"
+        "Evlerde kullanılan şebeke potansiyel farkı 220 V'tur.",
+        "Vücuttan geçen 1 mA ve daha küçük akımlar genellikle hissedilmez.",
+        "Topraklı prizler bir iletkenle topraktaki topraklama çubuğuna bağlanır.",
+        "Topraklı cihazdaki kaçak akım, direnci çok küçük olan toprak hattını izler.",
+        "Topraklama hattının direnci arttıkça topraklama daha etkili olur."
        ],
-       "dogru": 0,
-       "bilgi": "Elektrik kaçağı olan topraklanmamış bir cihaza dokunmak bu sınırın çok üstünde akıma ve ölümcül kazalara yol açabilir.",
-       "sayfa": 222
+       "dogru": 4,
+       "bilgi": "Kaçak akım direnci en küçük yolu izler; toprak hattının direnci büyürse akımın bir kısmı cihaza dokunan kişinin üzerinden geçebilir. Bu yüzden topraklama hattının direnci çok küçük olmalıdır.",
+       "sayfa": 223
       },
       {
        "id": "3.7-05",
-       "tur": "eslestir",
-       "yonerge": "Günlük hayattaki topraklama uygulamalarını yerleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Petrol tankeri",
-         "Arkasına zincir bağlanması"
-        ],
-        [
-         "Ameliyathane",
-         "Zeminin iletken maddeyle kaplanması"
-        ],
-        [
-         "Elektrikle uğraşan kişiler",
-         "Bileklerine özel bileklik takılması"
-        ],
-        [
-         "Bina ve minareler",
-         "Bakır iletkenle toprağa bağlı yıldırımsavar"
-        ]
-       ],
-       "bilgi": "LPG istasyonlarında da topraklama yapılarak olası tehlikeler önlenir.",
-       "sayfa": 222
-      },
-      {
-       "id": "3.7-06",
-       "tur": "dy",
-       "ifade": "Topraklanmış bir cihazda oluşan elektrik kaçağı, cihaza dokunan canlının üzerinden geçerek toprağa ulaşır.",
-       "dogru": false,
-       "bilgi": "Topraklı cihazda kaçak akım, canlı yerine iç direnci çok düşük olan toprak hattı üzerinden geçer.",
-       "sayfa": 222
-      },
-      {
-       "id": "3.7-07",
        "tur": "secmeli",
-       "soru": "Günlük hayatta evlerde kullanılan şebeke potansiyel farkı kaç volttur?",
+       "soru": "Kasalarında aynı elektrik kaçağı oluşan özdeş iki cihazdan K topraklı, L topraksızdır. Özdeş iki kişi bu cihazlara aynı koşullarda dokunuyor.\nBuna göre,",
+       "oncul": [
+        "K'ye dokunan kişiden geçen akım, L'ye dokunan kişiden geçenden küçüktür.",
+        "L'ye dokunan kişide kaçak akım vücut üzerinden toprağa ulaşır.",
+        "Topraklama, K cihazında kaçağın oluşmasını engellemiştir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "12 V",
-        "1,5 V",
-        "1000 V",
-        "220 V"
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
        ],
-       "dogru": 3,
-       "bilgi": "220 V'ta insan vücudunun ortalama direncinin 500-500.000 Ω arasında olduğu kabul edilir.",
+       "dogru": 1,
+       "bilgi": "Topraklama kaçağı önlemez; kaçak akıma direnci çok küçük bir yol sağlar. K'de akımın çok büyük kısmı toprak hattından geçer. Topraksız L'de ise kaçak akım kişinin vücudu üzerinden toprağa ulaşır.",
        "sayfa": 222
-      },
-      {
-       "id": "3.7-08",
-       "tur": "bosluk",
-       "cumle": "Topraklı prizler bir iletken aracılığıyla topraktaki topraklama ___ bağlanır.",
-       "cevap": "çubuğuna",
-       "celdiriciler": [
-        "sigortasına",
-        "sayacına",
-        "reostasına"
-       ],
-       "bilgi": "Böylece elektrik sistemindeki kaçak akım iletkenler aracılığıyla güvenli bir şekilde toprağa aktarılır.",
-       "sayfa": 222
-      },
-      {
-       "id": "3.7-09",
-       "tur": "secmeli",
-       "soru": "İnsan vücudundan 1 mA veya daha küçük bir akım geçtiğinde ne olur?",
-       "secenekler": [
-        "Akım hissedilmez.",
-        "Solunum kasları felç olur.",
-        "Kalp atışı durabilir.",
-        "3. derece yanık oluşur."
-       ],
-       "dogru": 0,
-       "bilgi": "Akım arttıkça etkiler ağırlaşır: yaklaşık 30 mA'de nefes almada zorluk yaşanabilir.",
-       "sayfa": 223
       }
      ]
     }
@@ -1871,130 +2144,240 @@
      "kartlar": [
       {
        "id": "4.1-01",
-       "tur": "bosluk",
-       "cumle": "Belirli zaman aralıklarında denge noktası etrafında tekrarlanan hareketlere ___ hareket denir.",
-       "cevap": "periyodik",
-       "celdiriciler": [
-        "öteleme",
-        "dönme",
-        "doğrusal"
+       "tur": "secmeli",
+       "soru": "Basit sarkaçla aynı yerde ve küçük genlikle yapılan üç deneyde ip uzunluğu, asılan cismin kütlesi ve ölçülen periyot tabloda verilmiştir.\nBu deney sonuçlarına göre,",
+       "tablo": [
+        [
+         "Deney",
+         "İp uzunluğu",
+         "Kütle",
+         "Periyot"
+        ],
+        [
+         "1",
+         "ℓ",
+         "m",
+         "T"
+        ],
+        [
+         "2",
+         "ℓ",
+         "2m",
+         "T"
+        ],
+        [
+         "3",
+         "4ℓ",
+         "m",
+         "2T"
+        ]
        ],
-       "bilgi": "Basit sarkaç ve yay sarkacının salınımları periyodik hareketlere örnektir.",
-       "sayfa": 244
+       "oncul": [
+        "Periyot, asılan cismin kütlesine bağlı değildir.",
+        "İp uzunluğu arttıkça periyot artar.",
+        "Periyot, ip uzunluğuyla doğru orantılıdır."
+       ],
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "1 ve 2. deneyler yalnızca kütle bakımından farklıdır ve periyot değişmemiştir. 1 ve 3. deneylerde uzunluk 4 katına çıkınca periyot 2 katına çıkmıştır; periyot uzunlukla artar ama doğru orantılı değildir (T ∝ √ℓ).",
+       "sayfa": 248
       },
       {
        "id": "4.1-02",
        "tur": "secmeli",
-       "soru": "Basit bir sarkacın periyodu aşağıdakilerden hangisine bağlı değildir?",
+       "soru": "Dünya'da periyodu T olan bir yay sarkacı Ay'a götürülüyor ve yaya asılan cismin kütlesi 4 katına çıkarılıyor.\nAy'daki sarkacın periyodu kaç T olur?",
        "secenekler": [
-        "İpin uzunluğuna",
-        "Yer çekimi ivmesine",
-        "İpin ucuna asılan cismin kütlesine",
-        "Deneyin yapıldığı gezegene"
+        "1/2",
+        "2",
+        "4",
+        "8",
+        "16"
        ],
-       "dogru": 2,
-       "bilgi": "Basit sarkacın periyodu ip uzunluğuna ve yer çekimi ivmesine bağlıdır; asılan kütleye bağlı değildir.",
-       "sayfa": 248
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "Yay sarkacının periyodu yalnızca kütleye ve yay sabitine bağlıdır (T = 2π√(m/k)); yer çekimi ivmesine bağlı değildir. Kütle 4 katına çıkınca periyot 2 katına çıkar.",
+       "sayfa": 244
       },
       {
        "id": "4.1-03",
-       "tur": "dy",
-       "ifade": "Yay sarkacının periyodu, yer çekimi ivmesinin büyüklüğüne bağlı değildir.",
-       "dogru": true,
-       "bilgi": "Yay sarkacının periyodu yalnızca kütleye ve yay sabitine bağlıdır.",
+       "tur": "secmeli",
+       "soru": "Dünya'da bir uçtan diğer uca 1 s'de giden \"saniyeleri vuran\" bir basit sarkaç, yer çekimi ivmesi Dünya'nınkinin 1/4'ü olan bir gezegene götürülüyor.\nSarkacın bu gezegendeki periyodu kaç s olur?",
+       "secenekler": [
+        "1",
+        "2",
+        "4",
+        "8",
+        "16"
+       ],
+       "sirali": true,
+       "dogru": 2,
+       "bilgi": "Bir uçtan diğer uca gidiş yarım salınımdır; sarkacın Dünya'daki periyodu 2 s'dir. Periyot √(ℓ/g) ile orantılı olduğundan g 1/4'üne inince periyot 2 katına çıkar ve 4 s olur.",
        "sayfa": 244
       },
       {
        "id": "4.1-04",
        "tur": "secmeli",
-       "soru": "Bir yay sarkacının periyodunu artırmak için aşağıdakilerden hangisi yapılabilir?",
-       "secenekler": [
-        "Kütle azaltılmalı, aynı yay kullanılmalıdır.",
-        "Daha sert (yay sabiti büyük) bir yay kullanılmalıdır.",
-        "Kütle artırılmalı ya da daha yumuşak yay kullanılmalıdır.",
-        "Deney yer çekimi ivmesi büyük bir gezegende yapılmalıdır."
+       "soru": "Basit sarkaç ve yay sarkacında yapılan,",
+       "oncul": [
+        "basit sarkacın ipinin uzatılması,",
+        "yay sarkacında yay sabiti daha büyük bir yay kullanılması,",
+        "basit sarkaca daha büyük kütleli bir cisim asılması"
        ],
-       "dogru": 2,
-       "bilgi": "Yay sarkacında kütlenin artması veya yay sabiti küçük yay kullanılması periyodu artırır.",
-       "sayfa": 244
+       "kok": "değişikliklerinden hangileri tek başına yapıldığında sarkacın periyodu artar?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Basit sarkacın periyodu ip uzunluğuyla artar, asılan kütleye bağlı değildir. Yay sarkacında daha sert (yay sabiti büyük) yay periyodu azaltır; kütlenin artması ya da daha yumuşak yay kullanılması periyodu artırır.",
+       "sayfa": 248
       },
       {
        "id": "4.1-05",
-       "tur": "dy",
-       "ifade": "Basit sarkaçta ipin uzunluğu artırılırsa sarkacın periyodu azalır.",
-       "dogru": false,
-       "bilgi": "Sarkaç uzunluğunun artması veya deneyin yer çekimi ivmesi daha küçük bir gezegende yapılması periyodu artırır.",
-       "sayfa": 244
+       "tur": "secmeli",
+       "soru": "Doğal titreşim frekansıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Bir cismin dış etki olmadan serbestçe titreşirken sahip olduğu frekanstır.",
+        "Köprü ve binaların da doğal titreşim frekansları vardır.",
+        "Mühendisler yapı tasarımında yapıların doğal frekansını dikkate alır.",
+        "Gitar telinin doğal frekansı yalnızca telin uzunluğuna bağlıdır.",
+        "Bir sarkacın periyodu arttıkça frekansı azalır."
+       ],
+       "dogru": 3,
+       "bilgi": "Telin doğal titreşim frekansı uzunluğunun yanında kalınlığına ve gerginliğine de bağlıdır; gitarı akort etmek telin gerginliğini değiştirmektir. Periyot ile frekans birbirinin tersidir.",
+       "sayfa": 243
       },
       {
        "id": "4.1-06",
        "tur": "secmeli",
-       "soru": "Sarkacın her salınımını aynı sürede tamamladığını kendi nabzını kullanarak doğrulayan ve sarkaçlı saatlere ilham veren bilim insanı kimdir?",
-       "secenekler": [
-        "Isaac Newton",
-        "Galileo",
-        "Johannes Kepler",
-        "Heinrich Hertz"
-       ],
-       "dogru": 1,
-       "bilgi": "Galileo'nun XVI. yüzyıldaki gözlemleri sonucunda XVII. yüzyılda ilk sarkaçlı saat icat edilmiştir.",
-       "sayfa": 240
-      },
-      {
-       "id": "4.1-07",
-       "tur": "bosluk",
-       "cumle": "Bir cismin dış bir etki olmaksızın yaptığı salınımın frekansına ___ titreşim frekansı denir.",
-       "cevap": "doğal",
-       "celdiriciler": [
-        "zorlanmış",
-        "ortalama",
-        "maksimum"
-       ],
-       "bilgi": "Köprüler ve binalar da doğal titreşim frekanslarına sahiptir; mühendisler tasarımda bunu dikkate alır.",
-       "sayfa": 242
-      },
-      {
-       "id": "4.1-08",
-       "tur": "secmeli",
-       "soru": "Bir uçtan diğer uca 1 saniyede ulaşan \"saniyeleri vuran sarkacın\" periyodu kaç saniyedir?",
-       "secenekler": [
-        "1",
-        "0,5",
-        "2",
-        "4"
-       ],
-       "dogru": 2,
-       "bilgi": "Sarkaçlı duvar saatlerinde sarkaç her 2 s'de bir aynı hareketi tekrarlar.",
-       "sayfa": 244
-      },
-      {
-       "id": "4.1-09",
-       "tur": "eslestir",
-       "yonerge": "Sarkaçlarda yapılan değişiklikleri periyoda etkisiyle eşleştir.",
-       "ciftler": [
-        [
-         "Basit sarkaçta ip uzunluğunun artırılması",
-         "Periyot artar."
+       "soru": "Bir yay sarkacına bağlı cismin denge noktasına göre uzanımının zamana bağlı grafiği şekildeki gibidir.\nSarkacın frekansı kaç Hz'dir?",
+       "grafik": {
+        "x": "t (s)",
+        "y": "x (cm)",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            0.05,
+            3.54
+           ],
+           [
+            0.1,
+            5
+           ],
+           [
+            0.15,
+            3.54
+           ],
+           [
+            0.2,
+            0
+           ],
+           [
+            0.25,
+            -3.54
+           ],
+           [
+            0.3,
+            -5
+           ],
+           [
+            0.35,
+            -3.54
+           ],
+           [
+            0.4,
+            0
+           ],
+           [
+            0.45,
+            3.54
+           ],
+           [
+            0.5,
+            5
+           ],
+           [
+            0.55,
+            3.54
+           ],
+           [
+            0.6,
+            0
+           ],
+           [
+            0.65,
+            -3.54
+           ],
+           [
+            0.7,
+            -5
+           ],
+           [
+            0.75,
+            -3.54
+           ],
+           [
+            0.8,
+            0
+           ]
+          ]
+         }
         ],
-        [
-         "Basit sarkaçta asılan kütlenin artırılması",
-         "Periyot değişmez."
+        "xIsaret": [
+         [
+          0.2,
+          "0,2"
+         ],
+         [
+          0.4,
+          "0,4"
+         ],
+         [
+          0.6,
+          "0,6"
+         ],
+         [
+          0.8,
+          "0,8"
+         ]
         ],
-        [
-         "Yay sarkacında daha sert yay kullanılması",
-         "Periyot azalır."
+        "yIsaret": [
+         [
+          5,
+          "5"
+         ],
+         [
+          -5,
+          "−5"
+         ]
         ]
+       },
+       "secenekler": [
+        "0,4",
+        "1,25",
+        "2,5",
+        "4",
+        "5"
        ],
-       "bilgi": "Periyot artarsa frekans azalır.",
-       "sayfa": 248
-      },
-      {
-       "id": "4.1-10",
-       "tur": "dy",
-       "ifade": "Gitar telinin doğal titreşim frekansı yalnızca telin uzunluğuna bağlıdır; telin kalınlığı ve gerginliği bu frekansı etkilemez.",
-       "dogru": false,
-       "bilgi": "Telin kalınlığı, uzunluğu ve gerginliği birlikte telin doğal titreşim frekansını belirler.",
-       "sayfa": 243
+       "sirali": true,
+       "dogru": 2,
+       "bilgi": "Grafikte bir tam salınım 0,4 s sürer; periyot T = 0,4 s'dir. Frekans periyodun tersidir: f = 1/0,4 = 2,5 Hz. 0,4 periyodun değeridir; frekansla karıştırılmamalıdır.",
+       "sayfa": 244
       }
      ]
     },
@@ -2004,125 +2387,214 @@
      "kartlar": [
       {
        "id": "4.2-01",
-       "tur": "bosluk",
-       "cumle": "Ardışık ve özdeş titreşen iki nokta, örneğin iki dalga tepesi arasındaki uzaklığa ___ denir.",
-       "cevap": "dalga boyu",
-       "celdiriciler": [
-        "genlik",
-        "periyot",
-        "uzanım"
+       "tur": "secmeli",
+       "soru": "Gergin bir yayda ilerleyen periyodik dalganın bir andaki görünümü şekildeki gibidir. Dalgaları üreten kaynağın frekansı 5 Hz'dir.\nDalganın yayılma sürati kaç cm/s'dir?",
+       "grafik": {
+        "x": "x (cm)",
+        "y": "y (cm)",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            2.5,
+            2.83
+           ],
+           [
+            5,
+            4
+           ],
+           [
+            7.5,
+            2.83
+           ],
+           [
+            10,
+            0
+           ],
+           [
+            12.5,
+            -2.83
+           ],
+           [
+            15,
+            -4
+           ],
+           [
+            17.5,
+            -2.83
+           ],
+           [
+            20,
+            0
+           ],
+           [
+            22.5,
+            2.83
+           ],
+           [
+            25,
+            4
+           ],
+           [
+            27.5,
+            2.83
+           ],
+           [
+            30,
+            0
+           ]
+          ]
+         }
+        ],
+        "xIsaret": [
+         [
+          10,
+          "10"
+         ],
+         [
+          20,
+          "20"
+         ],
+         [
+          30,
+          "30"
+         ]
+        ],
+        "yIsaret": [
+         [
+          4,
+          "4"
+         ],
+         [
+          -4,
+          "−4"
+         ]
+        ]
+       },
+       "secenekler": [
+        "20",
+        "25",
+        "40",
+        "50",
+        "100"
        ],
-       "bilgi": "Dalga boyu λ ile gösterilir, SI'daki birimi metredir; bir tam dalganın uzunluğudur.",
+       "sirali": true,
+       "dogru": 4,
+       "bilgi": "Ardışık iki tepe arası 20 cm olduğundan dalga boyu λ = 20 cm'dir. v = λ · f = 20 · 5 = 100 cm/s'dir. Genlik (4 cm) yayılma süratini belirlemez.",
        "sayfa": 253
       },
       {
        "id": "4.2-02",
        "tur": "secmeli",
-       "soru": "Bir saniyede oluşan dalga sayısı olan frekansın SI'daki birimi hangisidir?",
-       "secenekler": [
-        "Saniye",
-        "Hertz",
-        "Metre",
-        "Watt"
+       "soru": "Gergin bir yayda periyodik dalgalar üreten kaynağın frekansı iki katına çıkarılıyor; yayın gerginliği değiştirilmiyor.\nBuna göre yayda oluşan dalgalarla ilgili,",
+       "oncul": [
+        "Periyot iki katına çıkar.",
+        "Yayılma sürati değişmez.",
+        "Dalga boyu yarıya iner."
        ],
-       "dogru": 1,
-       "bilgi": "Frekans f ile gösterilir; 1 Hz = 1 s⁻¹'dir.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Dalgaların yayılma sürati ortama bağlıdır; ortam değişmediğinden sürat sabittir. v = λf'ye göre frekans 2 katına çıkınca dalga boyu yarıya iner; periyot (1/f) de yarıya iner.",
        "sayfa": 253
       },
       {
        "id": "4.2-03",
        "tur": "secmeli",
-       "soru": "1888'de radyo dalgalarını keşfeden ve adı frekans birimine verilen bilim insanı kimdir?",
+       "soru": "Frekansı 4 Hz olan bir kaynağın oluşturduğu dalgalar, yayılma süratinin 40 cm/s olduğu K ortamından 20 cm/s olduğu L ortamına geçiyor.\nDalgaların L ortamındaki dalga boyu kaç cm'dir?",
        "secenekler": [
-        "James Watt",
-        "George Simon Ohm",
-        "Galileo",
-        "Heinrich Rudolf Hertz"
+        "5",
+        "8",
+        "10",
+        "20",
+        "80"
        ],
-       "dogru": 3,
-       "bilgi": "Hertz, radyo dalgalarının da ışık dalgaları gibi yansıma, kırılma ve girişim yapabildiğini göstermiştir.",
+       "sirali": true,
+       "dogru": 0,
+       "bilgi": "Frekans kaynağa bağlıdır, ortam değişince değişmez; L'de de 4 Hz'dir. L'de λ = v/f = 20/4 = 5 cm, K'de ise 40/4 = 10 cm'dir.",
        "sayfa": 253
       },
       {
        "id": "4.2-04",
-       "tur": "dy",
-       "ifade": "Bir dalganın frekansı ve periyodu dalgayı üreten kaynağa bağlıdır; dalga ortam değiştirse de frekansı değişmez.",
-       "dogru": true,
-       "bilgi": "Kaynağın frekansı değişmediği sürece dalganın frekansı ve periyodu da değişmez.",
+       "tur": "secmeli",
+       "soru": "Periyodik dalgalarla ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Dalga boyu, ardışık iki dalga tepesi arasındaki uzaklıktır.",
+        "Genlik büyüdükçe dalganın taşıdığı enerji artar.",
+        "Bir dalganın periyodu ile frekansının çarpımı 1'dir.",
+        "Dalganın frekansı, onu oluşturan kaynağın frekansına eşittir.",
+        "Dalga, ilerlediği ortamdaki maddeyi kendi yönünde taşır."
+       ],
+       "dogru": 4,
+       "bilgi": "Dalga, titreşimle esnek ortama aktarılan enerjiyi taşır; ortamın tanecikleri denge konumları etrafında titreşir, dalgayla birlikte ilerlemez.",
        "sayfa": 253
       },
       {
        "id": "4.2-05",
        "tur": "secmeli",
-       "soru": "Bir dalganın genliği aşağıdakilerden hangisiyle tanımlanır?",
-       "secenekler": [
-        "Bir tam dalganın oluşması için geçen süre",
-        "Maksimum uzanım; dalganın enerjisinin ölçüsü",
-        "Bir saniyede oluşan dalga sayısı",
-        "Ardışık iki dalga çukuru arasındaki uzaklık"
+       "soru": "Bir öğrenci gergin bir yayda önce küçük genlikli, sonra aynı frekansta fakat daha büyük genlikli periyodik dalgalar oluşturuyor.\nİkinci durumda oluşan dalgalarla ilgili,",
+       "oncul": [
+        "Taşıdıkları enerji artar.",
+        "Yayılma süratleri artar.",
+        "Dalga boyları değişmez."
        ],
-       "dogru": 1,
-       "bilgi": "Genlik A ile gösterilir ve SI'daki birimi metredir.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Genlik dalganın enerjisinin ölçüsüdür; büyüdükçe taşınan enerji artar. Sürat ortama, dalga boyu ise sürat ve frekansa bağlıdır; ikisi de değişmediğinden dalga boyu da değişmez.",
        "sayfa": 254
       },
       {
        "id": "4.2-06",
-       "tur": "eslestir",
-       "yonerge": "Dalgalarla ilgili kavramları tanımlarıyla eşleştir.",
-       "ciftler": [
+       "tur": "secmeli",
+       "soru": "Aynı ortamda periyodik dalgalar üreten K, L ve M kaynaklarının frekansları ve oluşturdukları dalgaların dalga boyları tabloda verilmiştir.\nTablodaki x ve y değerleri aşağıdakilerden hangisidir?",
+       "tablo": [
         [
-         "Periyot",
-         "Bir tam dalganın oluşması için geçen süre"
+         "Kaynak",
+         "Frekans (Hz)",
+         "Dalga boyu (cm)"
         ],
         [
-         "Frekans",
-         "Bir saniyede oluşan dalga sayısı"
+         "K",
+         "5",
+         "12"
         ],
         [
-         "Uzanım",
-         "Dalganın bir andaki konumunun denge noktasına dik uzaklığı"
+         "L",
+         "10",
+         "x"
         ],
         [
-         "Dalga tepesi",
-         "Denge konumunun üstündeki en yüksek nokta"
+         "M",
+         "y",
+         "20"
         ]
        ],
-       "bilgi": "Periyot ile frekans birbirinin tersidir: T = 1 / f.",
-       "sayfa": 253
-      },
-      {
-       "id": "4.2-07",
-       "tur": "dy",
-       "ifade": "Aynı ortamda ilerleyen periyodik dalgaların yayılma sürati, kaynağın frekansı artırıldıkça artar.",
-       "dogru": false,
-       "bilgi": "Dalgaların ilerleme sürati yalnızca ortama bağlıdır; frekans artarsa dalga boyu kısalır.",
-       "sayfa": 253
-      },
-      {
-       "id": "4.2-08",
-       "tur": "bosluk",
-       "cumle": "Titreşim hareketiyle aktarılan enerjinin yayılabildiği su, hava ve sarmal yay gibi ortamlara ___ ortamlar denir.",
-       "cevap": "esnek",
-       "celdiriciler": [
-        "yalıtkan",
-        "boş",
-        "kapalı"
-       ],
-       "bilgi": "Dalga, titreşimle esnek ortama aktarılan enerjinin iletilirken ortamda oluşturduğu şekil değişikliğidir.",
-       "sayfa": 253
-      },
-      {
-       "id": "4.2-09",
-       "tur": "secmeli",
-       "soru": "Periyodik bir dalganın periyodu ile frekansı arasındaki ilişki nedir?",
        "secenekler": [
-        "Birbirinin tersidir; çarpımları 1'dir.",
-        "Birbirine eşittir.",
-        "Toplamları her zaman sabittir.",
-        "Aralarında ilişki yoktur."
+        "x = 6, y = 3",
+        "x = 24, y = 3",
+        "x = 6, y = 4",
+        "x = 12, y = 3",
+        "x = 24, y = 4"
        ],
        "dogru": 0,
-       "bilgi": "Dalganın yayılma sürati dalga boyu ile frekansın çarpımına eşittir.",
+       "bilgi": "Aynı ortamda yayılma sürati sabittir: v = 5 · 12 = 60 cm/s. L için λ = 60/10 = 6 cm, M için f = 60/20 = 3 Hz'dir.",
        "sayfa": 257
       }
      ]
@@ -2134,142 +2606,112 @@
       {
        "id": "4.3-01",
        "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi mekanik bir dalgadır?",
-       "secenekler": [
-        "Radyo dalgası",
-        "X ışını",
-        "Ses dalgası",
-        "Mikrodalga"
+       "soru": "Ses dalgaları, ışık dalgaları ve su dalgalarıyla ilgili,",
+       "oncul": [
+        "Ses dalgaları enine dalgalardır.",
+        "Işık dalgaları yayılmak için maddesel ortama ihtiyaç duyar.",
+        "Su dalgaları hem enine hem boyuna dalga özelliği gösterir."
        ],
-       "dogru": 2,
-       "bilgi": "Ses, yay, su ve deprem dalgaları mekanik dalgalardır; enerjiyi taşımak için maddesel ortama ihtiyaç duyarlar.",
-       "sayfa": 260
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Seste titreşim doğrultusu ilerleme doğrultusuna paraleldir; ses boyuna dalgadır. Işık elektromanyetik dalgadır ve boşlukta da yayılır. Su dalgalarında tanecikler hem ilerleme doğrultusunda hem ona dik titreşir.",
+       "sayfa": 262
       },
       {
        "id": "4.3-02",
-       "tur": "dy",
-       "ifade": "Mekanik dalgalar boşlukta ilerleyemez.",
-       "dogru": true,
-       "bilgi": "Elektromanyetik dalgalar ise yüklü parçacıkların ivmeli hareketiyle oluşur ve hem boşlukta hem maddesel ortamda ilerleyebilir.",
-       "sayfa": 260
+       "tur": "secmeli",
+       "soru": "Aşağıdaki elektromanyetik dalgalar,",
+       "oncul": [
+        "Mikrodalga",
+        "X ışınları",
+        "Görünür ışık",
+        "Radyo dalgaları"
+       ],
+       "kok": "frekanslarına göre küçükten büyüğe doğru sıralandığında hangi sıralama doğru olur?",
+       "secenekler": [
+        "I - IV - III - II",
+        "IV - I - II - III",
+        "IV - I - III - II",
+        "IV - III - I - II",
+        "III - I - IV - II"
+       ],
+       "dogru": 2,
+       "bilgi": "Elektromanyetik spektrumda frekans radyo dalgalarından gama ışınlarına doğru artar: radyo, mikrodalga, kızılötesi, görünür, morötesi, X, gama. Frekans arttıkça dalga boyu kısalır, enerji artar.",
+       "sayfa": 261
       },
       {
        "id": "4.3-03",
-       "tur": "bosluk",
-       "cumle": "Titreşim doğrultusu ile ilerleme doğrultusu birbirine dik olan dalgalara ___ dalgalar denir.",
-       "cevap": "enine",
-       "celdiriciler": [
-        "boyuna",
-        "mekanik",
-        "periyodik"
+       "tur": "secmeli",
+       "soru": "Elektromanyetik dalgalar ve kullanım alanlarıyla ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+       "secenekler": [
+        "Mikrodalga – trafik radarları",
+        "Morötesi ışınlar – dezenfeksiyon",
+        "X ışınları – bagaj kontrol cihazları",
+        "Kızılötesi ışınlar – termal kameralar",
+        "Gama ışınları – radyo yayını"
        ],
-       "bilgi": "Yayda oluşturulan dalgalar ve elektromanyetik dalgalar enine dalgalara örnektir.",
-       "sayfa": 262
+       "dogru": 4,
+       "bilgi": "Gama ışınları çok yüksek enerjili olduğundan radyoterapi ve PET cihazında kullanılır; radyo ve televizyon yayını düşük enerjili radyo dalgalarıyla yapılır.",
+       "sayfa": 261
       },
       {
        "id": "4.3-04",
        "tur": "secmeli",
-       "soru": "Ses dalgaları titreşim doğrultusuna göre hangi gruba girer?",
+       "soru": "Röntgen çekimi sırasında hastanın vücudunun görüntülenmeyen bölümleri kurşun önlükle örtülür, teknisyen ise çekim anında odadan çıkar.\nBu önlemlerin temel nedeni aşağıdakilerden hangisidir?",
        "secenekler": [
-        "Enine dalga",
-        "Boyuna dalga",
-        "Hem enine hem boyuna dalga"
+        "X ışınlarının mekanik dalga olması",
+        "X ışınlarının dalga boyunun radyo dalgalarınınkinden uzun olması",
+        "X ışınlarının yüksek enerjileriyle atomları iyonlaştırabilmesi",
+        "X ışınlarının boşlukta yayılamaması",
+        "X ışınlarının görünür ışıktan daha yavaş yayılması"
        ],
-       "dogru": 1,
-       "bilgi": "Boyuna dalgalarda titreşim doğrultusu ilerleme doğrultusuna paraleldir.",
-       "sayfa": 262
+       "dogru": 2,
+       "bilgi": "X ışınları yüksek frekanslı ve yüksek enerjili elektromanyetik dalgalardır; atomları iyonlaştırarak hücrelere zarar verebilir. Görünür ışık ve radyo dalgaları düşük enerjili olduğundan bu etkiyi göstermez.",
+       "sayfa": 263
       },
       {
        "id": "4.3-05",
-       "tur": "eslestir",
-       "yonerge": "Elektromanyetik dalgaları kullanım alanlarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Mikrodalga",
-         "Trafikte araç süratini ölçen radarlar"
-        ],
-        [
-         "Morötesi ışınlar",
-         "Dezenfeksiyon ve diş dolgusu"
-        ],
-        [
-         "X ışınları",
-         "Röntgen ve bagaj kontrol cihazları"
-        ],
-        [
-         "Gama ışınları",
-         "PET cihazı ve radyoterapi"
-        ],
-        [
-         "Kızılötesi ışınlar",
-         "Termal kameralar ve temassız termometreler"
-        ]
+       "tur": "secmeli",
+       "soru": "Bir radyo istasyonu 100 MHz frekansında yayın yapmaktadır.\nBu yayında kullanılan radyo dalgalarının havadaki dalga boyu yaklaşık kaç m'dir? (c = 3·10⁸ m/s)",
+       "secenekler": [
+        "0,3",
+        "3",
+        "30",
+        "300",
+        "3000"
        ],
-       "bilgi": "Elektromanyetik spektrum düşük frekanstan yükseğe radyo, mikrodalga, kızılötesi, görünür, morötesi, X ve gama ışınlarından oluşur.",
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "Dalga boyu λ = c/f = 3·10⁸ / 10⁸ = 3 m'dir. Radyo dalgaları spektrumun en uzun dalga boylu, en düşük enerjili bölgesindedir ve canlı hücrelere zarar vermez.",
        "sayfa": 261
       },
       {
        "id": "4.3-06",
        "tur": "secmeli",
-       "soru": "Görünür bölgede en kısa dalga boyuna sahip ışık hangi renktedir?",
-       "secenekler": [
-        "Kırmızı",
-        "Sarı",
-        "Yeşil",
-        "Mor"
+       "soru": "Görünür ışıktaki kırmızı ve mor ışık karşılaştırıldığında,",
+       "oncul": [
+        "Mor ışığın dalga boyu kırmızı ışığınkinden kısadır.",
+        "Boşlukta mor ışık kırmızı ışıktan daha büyük süratle yayılır.",
+        "Kırmızı ışık, mor ışıktan daha yüksek enerjilidir."
        ],
-       "dogru": 3,
-       "bilgi": "Görünür bölge yaklaşık 380-700 nm arasındadır; en kısa dalga boyu mor, en uzun dalga boyu kırmızı ışığa aittir.",
-       "sayfa": 261
-      },
-      {
-       "id": "4.3-07",
-       "tur": "dy",
-       "ifade": "Radyo dalgaları yüksek enerjili oldukları için canlı hücrelere zarar verir.",
-       "dogru": false,
-       "bilgi": "Radyo dalgaları düşük enerjili olduğundan canlı hücreler üzerinde zararlı etkiye sahip değildir.",
-       "sayfa": 261
-      },
-      {
-       "id": "4.3-08",
-       "tur": "bosluk",
-       "cumle": "Elektromanyetik dalgalar boşlukta yaklaşık 3·10⁸ m/s olan ___ sürati ile yayılır.",
-       "cevap": "ışık",
-       "celdiriciler": [
-        "ses",
-        "deprem dalgası",
-        "su dalgası"
-       ],
-       "bilgi": "Elektromanyetik spektrumda dalga boyu küçüldükçe dalganın enerjisi artar.",
-       "sayfa": 261
-      },
-      {
-       "id": "4.3-09",
-       "tur": "secmeli",
-       "soru": "Uzun süre X ışınlarına maruz kalan hücrelerin zarar görmesinin nedeni nedir?",
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Dalga boylarının çok uzun olması",
-        "Mekanik dalga olmaları",
-        "Yüksek enerjileriyle atomları iyonlaştırabilmeleri",
-        "Boşlukta yayılamamaları"
-       ],
-       "dogru": 2,
-       "bilgi": "Görünür ışık daha düşük enerjili ve uzun dalga boylu olduğundan hücrelerde iyonlaştırıcı etki oluşturmaz.",
-       "sayfa": 263
-      },
-      {
-       "id": "4.3-10",
-       "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi titreşim doğrultusu hem enine hem boyuna olan dalgalara örnektir?",
-       "secenekler": [
-        "Su dalgaları",
-        "Ses dalgaları",
-        "Radyo dalgaları",
-        "Görünür ışık"
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
        ],
        "dogru": 0,
-       "bilgi": "Su dalgaları ve deprem dalgalarının bir bölümü hem enine hem boyuna dalgalardır.",
-       "sayfa": 263
+       "bilgi": "Görünür bölge yaklaşık 380-700 nm arasındadır; en kısa dalga boyu mor, en uzunu kırmızı ışığa aittir. Dalga boyu kısaldıkça enerji artar. Boşlukta tüm elektromanyetik dalgalar aynı süratle (3·10⁸ m/s) yayılır.",
+       "sayfa": 261
       }
      ]
     },
@@ -2280,116 +2722,113 @@
       {
        "id": "4.4-01",
        "tur": "secmeli",
-       "soru": "Ses dalgaları en yüksek süratle hangi ortamda yayılır?",
-       "secenekler": [
-        "Gaz",
-        "Katı",
-        "Sıvı",
-        "Boşluk"
+       "soru": "Sesin bazı ortamlardaki yaklaşık yayılma süratleri tabloda verilmiştir.\nYalnızca tablodaki verilere dayanarak,",
+       "tablo": [
+        [
+         "Ortam",
+         "Hava",
+         "Hava",
+         "Su",
+         "Çelik"
+        ],
+        [
+         "Sıcaklık (°C)",
+         "0",
+         "20",
+         "20",
+         "20"
+        ],
+        [
+         "Ses sürati (m/s)",
+         "331",
+         "343",
+         "1480",
+         "5900"
+        ]
        ],
-       "dogru": 1,
-       "bilgi": "Ses, molekülleri birbirine en yakın olan katılarda en hızlı, gazlarda en yavaş yayılır; boşlukta yayılmaz.",
+       "oncul": [
+        "Ses, yayılmak için maddesel ortama ihtiyaç duyar.",
+        "Ses, havada sıcaklık arttıkça daha büyük süratle yayılır.",
+        "Ses, çelikte sudakinden daha büyük süratle yayılır."
+       ],
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Havadaki iki ölçüm sıcaklıkla süratin arttığını, aynı sıcaklıktaki su ve çelik ölçümleri çelikte süratin daha büyük olduğunu gösterir. Sesin boşlukta yayılmadığı doğru bir bilgidir, ancak tabloda boşluğa ait veri yoktur.",
        "sayfa": 270
       },
       {
        "id": "4.4-02",
-       "tur": "dy",
-       "ifade": "Aynı maddesel ortamda sıcaklık arttıkça ses dalgalarının yayılma sürati artar.",
-       "dogru": true,
-       "bilgi": "Sıcaklık arttıkça ortam moleküllerinin titreşim enerjisi artar; bu yüzden ses sıcak havada daha iyi duyulur.",
+       "tur": "secmeli",
+       "soru": "Bir tekne motorundan çıkan ses, motordan 3060 m uzaktaki bir yüzücüye havadan, aynı uzaklıktaki bir dalgıca sudan ulaşıyor.\nSesin havadaki sürati 340 m/s, sudaki sürati 1530 m/s olduğuna göre ses dalgıca yüzücüden kaç s önce ulaşır?",
+       "secenekler": [
+        "2",
+        "3",
+        "4,5",
+        "5",
+        "7"
+       ],
+       "sirali": true,
+       "dogru": 4,
+       "bilgi": "Ses yüzücüye havada 3060/340 = 9 s'de, dalgıca suda 3060/1530 = 2 s'de ulaşır; fark 7 s'dir. Tanecikleri birbirine daha yakın olan sıvılarda ses gazlardakinden daha hızlı yayılır.",
        "sayfa": 270
       },
       {
        "id": "4.4-03",
-       "tur": "bosluk",
-       "cumle": "Su dalgalarının yayılma sürati suyun ___ arttıkça artar.",
-       "cevap": "derinliği",
-       "celdiriciler": [
-        "tuzluluğu",
-        "genişliği",
-        "bulanıklığı"
+       "tur": "secmeli",
+       "soru": "Açık denizden kıyıya doğru ilerleyen deniz dalgaları, suyun giderek sığlaştığı bölgeye giriyor.\nBu dalgalarla ilgili,",
+       "oncul": [
+        "Yayılma süratleri artar.",
+        "Frekansları azalır.",
+        "Dalga boyları kısalır."
        ],
-       "bilgi": "Açık denizdeki dalgalar sahil gibi sığ bölgelere yaklaştıkça yavaşlar.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Su dalgalarının sürati derinlik azaldıkça azalır. Frekans kaynağa bağlı olduğundan değişmez; v = λf'ye göre sürat azalınca dalga boyu kısalır.",
        "sayfa": 270
       },
       {
        "id": "4.4-04",
        "tur": "secmeli",
-       "soru": "Sesin titreşimle oluştuğunu, yayılmak için maddesel ortama ihtiyaç duyduğunu ve süratinin havanın özelliklerine göre değiştiğini ortaya koyan düşünür kimdir?",
+       "soru": "Bir depremin merkez üssüne eşit uzaklıkta bulunan iki yerleşim yerinden K kayalık, L ise gevşek toprak bir zemin üzerine kurulmuştur.\nBuna göre aşağıdakilerden hangisi söylenebilir?",
        "secenekler": [
-        "Cezeri",
-        "Hazini",
-        "Farabi",
-        "Mimar Sinan"
+        "Deprem dalgaları L'nin zemininde daha büyük süratle yayılır.",
+        "Sarsıntı K'de L'dekinden önce hissedilir.",
+        "Deprem dalgaları iki yere aynı anda ulaşır.",
+        "Depremin büyüklüğü K'de L'dekinden fazladır.",
+        "Deprem dalgalarının sürati zeminin yapısından bağımsızdır."
        ],
-       "dogru": 2,
-       "bilgi": "Farabi (872-950) bu bilgileri yaklaşık bin yıl önce ortaya koymuştur.",
+       "dogru": 1,
+       "bilgi": "Deprem dalgaları kayaç gibi sert zeminlerde daha büyük süratle yayılır; bu yüzden kayalık bölge sarsıntıyı önce hisseder. Büyüklük kaynaktaki enerjiyi gösterir, yere göre değişmez.",
        "sayfa": 270
       },
       {
        "id": "4.4-05",
-       "tur": "dy",
-       "ifade": "Deprem dalgaları kum ve toprak gibi yumuşak zeminlerde, kayaç gibi sert zeminlere göre daha büyük süratle yayılır.",
-       "dogru": false,
-       "bilgi": "Deprem dalgaları sert zeminlerde daha hızlı yayılır; bu nedenle kayalık bölge depremi toprak bölgeden önce hisseder.",
-       "sayfa": 270
-      },
-      {
-       "id": "4.4-06",
        "tur": "secmeli",
-       "soru": "Boşluktan maddesel bir ortama geçen elektromanyetik dalgaların ortalama yayılma sürati nasıl değişir?",
+       "soru": "Dalgaların yayılma süratiyle ilgili aşağıdakilerden hangisi yanlıştır?",
        "secenekler": [
-        "Ortamın yoğunluğu arttıkça azalır.",
-        "Ortamın yoğunluğu arttıkça artar.",
-        "Hiç değişmez.",
-        "Sıfır olur."
+        "Elektromanyetik dalgalar en büyük süratle boşlukta yayılır, maddesel ortamda yavaşlar.",
+        "Mekanik dalgaların sürati ortamın esnekliği arttıkça artar.",
+        "Su dalgalarının sürati derinlik arttıkça artar.",
+        "Aynı sıcaklıkta ses gazlarda katılardakinden yavaş yayılır.",
+        "Mekanik dalgaların sürati yalnızca kaynağın frekansına bağlıdır."
        ],
-       "dogru": 0,
-       "bilgi": "Elektromanyetik dalgalar boşlukta ışık süratiyle yayılır.",
-       "sayfa": 270
-      },
-      {
-       "id": "4.4-07",
-       "tur": "eslestir",
-       "yonerge": "Dalgaları yayılma süratlerini artıran etmenle eşleştir.",
-       "ciftler": [
-        [
-         "Ses dalgaları",
-         "Ortam sıcaklığının artması"
-        ],
-        [
-         "Su dalgaları",
-         "Su derinliğinin artması"
-        ],
-        [
-         "Deprem dalgaları",
-         "Zeminin sert olması"
-        ]
-       ],
-       "bilgi": "Mekanik dalgaların yayılma sürati ortamın esnekliği arttıkça artar, yoğunluğu arttıkça azalır.",
+       "dogru": 4,
+       "bilgi": "Dalgaların yayılma sürati ortamın yoğunluk, esneklik ve sıcaklık gibi özelliklerine bağlıdır; kaynağın frekansı değişince sürat değil dalga boyu değişir.",
        "sayfa": 273
-      },
-      {
-       "id": "4.4-08",
-       "tur": "secmeli",
-       "soru": "Bir tekne motoruna eşit uzaklıktaki dalgıç (su altında) ile yüzücüden (su üstünde) hangisi motor sesini önce duyar?",
-       "secenekler": [
-        "Yüzücü; çünkü ses havada daha hızlı yayılır.",
-        "İkisi aynı anda duyar.",
-        "Dalgıç; çünkü ses suda havadan daha hızlı yayılır.",
-        "Dalgıç; çünkü ses suda daha yavaş yayılır."
-       ],
-       "dogru": 2,
-       "bilgi": "Tren sesinin raylarda havadakinden yaklaşık 14 kat hızlı yayılması da sesin ortama bağlılığını gösterir.",
-       "sayfa": 270
-      },
-      {
-       "id": "4.4-09",
-       "tur": "dy",
-       "ifade": "Mekanik dalgaların yayılma sürati, yayıldıkları ortamdan bağımsız olarak her yerde aynıdır.",
-       "dogru": false,
-       "bilgi": "Dalgaların yayılma sürati ortamın yoğunluk, esneklik ve sıcaklık gibi fiziksel özelliklerine göre değişir.",
-       "sayfa": 270
       }
      ]
     },
@@ -2399,134 +2838,121 @@
      "kartlar": [
       {
        "id": "4.5-01",
-       "tur": "bosluk",
-       "cumle": "Dalgaların bir engele çarparak aynı ortama geri dönmesine ___ denir.",
-       "cevap": "yansıma",
-       "celdiriciler": [
-        "kırılma",
-        "rezonans",
-        "girişim"
+       "tur": "secmeli",
+       "soru": "Bir dalga leğeninin derin bölgesinde dalga boyu 4 cm olan doğrusal dalgalar 20 cm/s süratle ilerlemektedir. Dalgalar, süratlerinin 15 cm/s olduğu sığ bölgeye geçiyor.\nSığ bölgedeki dalga boyu kaç cm'dir?",
+       "secenekler": [
+        "2,5",
+        "3",
+        "4",
+        "5",
+        "15"
        ],
-       "bilgi": "Dalgalar engele çarptığında yön değiştirir; dalgakıranlar bu özellikten yararlanır.",
-       "sayfa": 277
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "Kaynağın frekansı f = 20/4 = 5 Hz'dir ve ortam değişince değişmez. Sığ bölgede λ = 15/5 = 3 cm olur; dalgalar sığ ortamda yavaşlar ve dalga boyu kısalır.",
+       "sayfa": 283
       },
       {
        "id": "4.5-02",
-       "tur": "dy",
-       "ifade": "Sabit derinlikteki bir dalga leğeninde yansıyan dalgaların frekansı, sürati ve dalga boyu değişmez; yalnızca yönü değişir.",
-       "dogru": true,
-       "bilgi": "Dalganın frekansı kaynağın frekansına bağlıdır.",
-       "sayfa": 277
+       "tur": "secmeli",
+       "soru": "Doğrusal su dalgaları derin ortamdan sığ ortama, ayırıcı yüzeye eğik olarak geçiyor.\nBu geçişte,",
+       "oncul": [
+        "Dalgaların frekansı değişmez.",
+        "Dalgalar normalden uzaklaşarak kırılır.",
+        "Dalga boyu kısalır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Sığ ortamda dalgalar yavaşlar; frekans değişmediğinden dalga boyu kısalır ve dalgalar normale yaklaşarak kırılır. Sığdan derine geçişte ise normalden uzaklaşarak kırılır.",
+       "sayfa": 283
       },
       {
        "id": "4.5-03",
        "tur": "secmeli",
-       "soru": "Yansıma yasalarına göre aşağıdakilerden hangisi doğrudur?",
-       "secenekler": [
-        "Gelme açısı yansıma açısının iki katıdır.",
-        "Gelme açısı yansıma açısına eşittir.",
-        "Yansıma açısı her zaman 90°'dir.",
-        "Gelme açısı yansıma açısından küçüktür."
+       "soru": "Sabit derinlikteki bir dalga leğeninde doğrusal dalgalar düz bir engele, gelme açısı 40° olacak biçimde çarpıp yansıyor.\nBuna göre,",
+       "oncul": [
+        "Yansıyan dalgaların dalga boyu gelen dalgalarınkinden kısadır.",
+        "Yansıma açısı 40°'dir.",
+        "Yansıyan dalgaların frekansı gelen dalgalarınkinden küçüktür."
        ],
-       "dogru": 1,
-       "bilgi": "Gelen dalga, yansıyan dalga ve yüzey normali aynı düzlemdedir.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Yansımada gelme açısı yansıma açısına eşittir. Dalgalar aynı ortamda kaldığından sürat ve dalga boyu, kaynak aynı olduğundan frekans değişmez; yalnızca yön değişir.",
        "sayfa": 278
       },
       {
        "id": "4.5-04",
        "tur": "secmeli",
-       "soru": "Derin ortamdan sığ ortama geçen doğrusal su dalgaları için aşağıdakilerden hangisi doğrudur?",
+       "soru": "Bir kişi, karşısındaki dik bir yamaca doğru bağırıyor ve sesinin yankısını 0,5 s sonra duyuyor.\nSesin havadaki sürati 340 m/s olduğuna göre kişi ile yamaç arasındaki uzaklık kaç m'dir?",
        "secenekler": [
-        "Hızlanır, dalga boyu uzar, normalden uzaklaşarak kırılır.",
-        "Yavaşlar, dalga boyu uzar, normalden uzaklaşır.",
-        "Yavaşlar, dalga boyu kısalır, normale yaklaşarak kırılır.",
-        "Sürati değişmez, yalnızca frekansı azalır."
+        "85",
+        "170",
+        "255",
+        "340",
+        "680"
        ],
-       "dogru": 2,
-       "bilgi": "Sığ ortamdan derin ortama geçen dalgalar ise hızlanır, dalga boyu uzar ve normalden uzaklaşarak kırılır.",
-       "sayfa": 283
+       "sirali": true,
+       "dogru": 0,
+       "bilgi": "Ses yamaca gidip geri döner; 0,5 s'de toplam 340 · 0,5 = 170 m yol alır. Uzaklık bunun yarısı, 85 m'dir. Yankının ayrı duyulabilmesi için engelin en az 17 m uzakta olması gerekir.",
+       "sayfa": 282
       },
       {
        "id": "4.5-05",
-       "tur": "dy",
-       "ifade": "Su dalgaları farklı derinlikteki bir ortama geçip kırılırken frekansları değişir.",
-       "dogru": false,
-       "bilgi": "Kırılma olayında dalga boyu ve yön değişir ancak frekans değişmez.",
+       "tur": "secmeli",
+       "soru": "Su dalgalarının yansıması ve kırılmasıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Sığ ortamdan derin ortama geçen dalgalar hızlanır.",
+        "Ayırıcı yüzeye dik gelen dalgalar ortam değiştirirken ilerleme doğrultusunu değiştirmez.",
+        "Kırılma sırasında dalgaların frekansı değişmez.",
+        "Dalgakıranlar dalgaların yansımasından yararlanır.",
+        "Ayırıcı yüzeye dik gelen dalgaların dalga boyu ortam değiştirince değişmez."
+       ],
+       "dogru": 4,
+       "bilgi": "Ayırıcı yüzeye dik gelen dalgalar kırılmaz, doğrultuları değişmez; ancak sürat değiştiği için dalga boyları değişir. Dalgakırana çarpan dalgalar yansır ve enerjileri büyük oranda azalır.",
        "sayfa": 283
       },
       {
        "id": "4.5-06",
-       "tur": "bosluk",
-       "cumle": "Ses dalgalarının belirli bir mesafedeki sert ve düzgün yüzeylere çarpıp yansımasıyla oluşan ikinci sese ___ denir.",
-       "cevap": "yankı",
-       "celdiriciler": [
-        "rezonans",
-        "uğultu",
-        "girişim"
-       ],
-       "bilgi": "Yankının net algılanması için ses kaynağı ile engel arasında en az 17 m mesafe bulunmalıdır.",
-       "sayfa": 282
-      },
-      {
-       "id": "4.5-07",
        "tur": "secmeli",
-       "soru": "Kıyıdaki yapıları ve tekneleri dalgaların yıpratıcı etkisinden korumak için yapılan ve dalgaların yansımasından yararlanan uzun setlere ne ad verilir?",
-       "secenekler": [
-        "Baraj",
-        "Dalgakıran",
-        "Paratoner",
-        "İskele"
-       ],
-       "dogru": 1,
-       "bilgi": "Dalgakırana çarpan dalgaların yönü değişir ve enerjisi büyük oranda azalır.",
-       "sayfa": 275
-      },
-      {
-       "id": "4.5-08",
-       "tur": "eslestir",
-       "yonerge": "Yansıma ve kırılmayla ilgili kavramları tanımlarıyla eşleştir.",
-       "ciftler": [
+       "soru": "Bir dalga leğeninde sabit frekanslı bir kaynağın oluşturduğu doğrusal dalgaların K, L ve M bölgelerindeki dalga boyları tabloda verilmiştir.\nBölgelerin su derinliklerinin büyükten küçüğe sıralanışı aşağıdakilerden hangisidir?",
+       "tablo": [
         [
-         "Yüzey normali",
-         "Dalganın engelle birleştiği noktada yüzeye dik doğru"
+         "Bölge",
+         "K",
+         "L",
+         "M"
         ],
         [
-         "Gelme açısı",
-         "Gelen dalganın ilerleme doğrultusunun normalle yaptığı açı"
-        ],
-        [
-         "Ayırıcı yüzey",
-         "Farklı derinlikteki iki ortamı ayıran yüzey"
-        ],
-        [
-         "Kırılma",
-         "Derinliği farklı ortama geçen dalganın yön değiştirmesi"
+         "Dalga boyu (cm)",
+         "3",
+         "2",
+         "4"
         ]
        ],
-       "bilgi": "Kırılmada da gelen dalga, kırılan dalga ve yüzey normali aynı düzlemdedir.",
-       "sayfa": 282
-      },
-      {
-       "id": "4.5-09",
-       "tur": "dy",
-       "ifade": "Ayırıcı yüzeye paralel gelen doğrusal su dalgalarının ortam değiştirirken dalga boyu ve sürati değişir, ancak yayılma doğrultusu değişmez.",
-       "dogru": true,
-       "bilgi": "Sürat değişimi, dalgalar ayırıcı yüzeye 90° ile gelmiyorsa yön değişimine yani kırılmaya neden olur.",
-       "sayfa": 283
-      },
-      {
-       "id": "4.5-10",
-       "tur": "secmeli",
-       "soru": "Mimar Sinan'ın kubbe yapısı sayesinde yankıyı en düşük seviyede tuttuğu, akustik açıdan başarılı ustalık eseri hangisidir?",
        "secenekler": [
-        "Süleymaniye Camisi",
-        "Sultanahmet Camisi",
-        "Selimiye Camisi",
-        "Ayasofya"
+        "K, L, M",
+        "L, K, M",
+        "M, K, L",
+        "M, L, K",
+        "K, M, L"
        ],
        "dogru": 2,
-       "bilgi": "Edirne'deki Selimiye Camisi'nde imamın sesi caminin her köşesinde net bir şekilde duyulur.",
-       "sayfa": 282
+       "bilgi": "Frekans sabit olduğundan dalga boyu süratle orantılıdır; su dalgalarının sürati derinlik arttıkça artar. Dalga boyu en büyük olan M en derin, en küçük olan L en sığ bölgedir.",
+       "sayfa": 283
       }
      ]
     },
@@ -2536,148 +2962,149 @@
      "kartlar": [
       {
        "id": "4.6-01",
-       "tur": "bosluk",
-       "cumle": "Bir sisteme dışarıdan gelen titreşimin frekansı sistemin doğal frekansına eşit olduğunda genliğin artarak en büyük değere ulaşmasına ___ denir.",
-       "cevap": "rezonans",
-       "celdiriciler": [
-        "kırılma",
-        "yansıma",
-        "sönümlenme"
+       "tur": "secmeli",
+       "soru": "Bir köprü modeline farklı frekanslarda dış titreşimler uygulanarak modelin titreşim genliği ölçülüyor. Genliğin uygulanan frekansa bağlı grafiği şekildeki gibidir.\nBuna göre,",
+       "grafik": {
+        "x": "f (Hz)",
+        "y": "Genlik (cm)",
+        "seriler": [
+         {
+          "n": [
+           [
+            1,
+            1
+           ],
+           [
+            2,
+            2
+           ],
+           [
+            3,
+            4
+           ],
+           [
+            4,
+            10
+           ],
+           [
+            5,
+            4
+           ],
+           [
+            6,
+            2
+           ],
+           [
+            7,
+            1
+           ]
+          ]
+         }
+        ]
+       },
+       "oncul": [
+        "Modelin doğal titreşim frekansı yaklaşık 4 Hz'dir.",
+        "Uygulanan frekans arttıkça genlik sürekli artar.",
+        "Modelin doğal titreşim periyodu yaklaşık 0,25 s'dir."
        ],
-       "bilgi": "Bir köprüde rezonans oluşursa titreşimler yapının çökmesine neden olabilir; bu yüzden yapı tasarımında dikkate alınır.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Dış titreşimin frekansı doğal frekansa eşit olduğunda rezonans oluşur ve genlik en büyük olur; bu frekans 4 Hz, doğal periyot 1/4 = 0,25 s'dir. 4 Hz'den sonra frekans arttıkça genlik azalır.",
        "sayfa": 293
       },
       {
        "id": "4.6-02",
        "tur": "secmeli",
-       "soru": "Depremin yer altında kırılmanın gerçekleştiği ve enerji salınımının başladığı noktaya ne ad verilir?",
-       "secenekler": [
-        "Merkez üssü",
-        "Fay hattı",
-        "Odak noktası",
-        "Sismik boşluk"
+       "soru": "Bir depremde merkez üssüne yakın K kenti ile uzak L kentinde sarsıntı hissediliyor.\nBu depremle ilgili,",
+       "oncul": [
+        "Depremin büyüklüğü K'de L'dekinden fazladır.",
+        "Zemin ve yapı koşulları aynıysa depremin şiddeti K'de L'dekinden fazladır.",
+        "Depremin şiddeti zemin koşullarına ve yapıların dayanıklılığına bağlıdır."
        ],
-       "dogru": 2,
-       "bilgi": "Yüzeydeki etkiler odak noktasının derinliğine bağlı olarak değişir.",
-       "sayfa": 293
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Büyüklük kaynakta açığa çıkan enerjinin ölçüsüdür ve her deprem için tek değerdir. Şiddet sarsıntının yüzeydeki etkisidir; merkez üssüne uzaklık, zemin ve yapıların dayanıklılığına göre yerden yere değişir.",
+       "sayfa": 294
       },
       {
        "id": "4.6-03",
-       "tur": "dy",
-       "ifade": "Depremin merkez üssü, odak noktasının yer yüzeyine en yakın olan ve depremin etkilerinin en yoğun hissedildiği noktadır.",
-       "dogru": true,
-       "bilgi": "Merkez üssü coğrafi koordinatlarla tanımlanır.",
-       "sayfa": 293
+       "tur": "secmeli",
+       "soru": "Depremle ilgili aşağıdaki kavram–açıklama eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "Odak noktası – yer altında kırılmanın başladığı nokta",
+        "Merkez üssü – yeryüzünde odak noktasına en yakın olan ve etkinin en yoğun olduğu nokta",
+        "Sismograf – yer sarsıntılarını kaydeden cihaz",
+        "Sismogram – sismografın yaptığı kayıt",
+        "Richter ölçeği – depremin şiddetini I–XII arasında derecelendirir"
+       ],
+       "dogru": 4,
+       "bilgi": "Richter ölçeği depremin kaynağında açığa çıkan enerjiyi, yani büyüklüğü ölçer. Şiddeti I–XII arasında derecelendiren Değiştirilmiş Mercalli Şiddet Ölçeği'dir.",
+       "sayfa": 294
       },
       {
        "id": "4.6-04",
-       "tur": "eslestir",
-       "yonerge": "Depremle ilgili kavramları tanımlarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Depremin büyüklüğü",
-         "Kaynakta açığa çıkan enerjinin ölçüsü"
-        ],
-        [
-         "Depremin şiddeti",
-         "Sarsıntının yüzeyde hissedilme derecesi ve etkileri"
-        ],
-        [
-         "Sismograf",
-         "Yer sarsıntılarını zamanla ilişkilendirerek kaydeden cihaz"
-        ],
-        [
-         "Sismogram",
-         "Sismografın yaptığı kayıt"
-        ]
+       "tur": "secmeli",
+       "soru": "Sismik izolatörler binanın temeli ile üst yapısı arasına yerleştirilir. İzolatördeki metal plakalar binanın ağırlığını taşırken kauçuk katmanlar yer hareketinin üst yapıya aktarılmasını azaltır.\nBu bilgilere göre sismik izolatörlerle ilgili aşağıdakilerden hangisi söylenemez?",
+       "secenekler": [
+        "Depremin üst yapıya aktardığı titreşimleri azaltır.",
+        "Metal plakalar düşey yükü taşıma görevi görür.",
+        "Kauçuk katmanlar titreşim enerjisinin bir kısmını sönümler.",
+        "Depremin büyüklüğünü azaltır.",
+        "Binanın deprem sırasında hissettiği sarsıntıyı hafifletir."
        ],
-       "bilgi": "Büyüklük Richter ölçeğiyle, şiddet Değiştirilmiş Mercalli Şiddet Ölçeği ile ifade edilir.",
-       "sayfa": 294
+       "dogru": 3,
+       "bilgi": "İzolatörler yer hareketinin binaya aktarılmasını azaltarak binadaki etkiyi hafifletir. Depremin büyüklüğü ise kaynakta açığa çıkan enerjiyle belirlenir; binaya yapılan bir uygulama onu değiştiremez.",
+       "sayfa": 301
       },
       {
        "id": "4.6-05",
        "tur": "secmeli",
-       "soru": "Depremin şiddeti genellikle hangi ölçekle I'den XII'ye kadar derecelendirilir?",
-       "secenekler": [
-        "Richter ölçeği",
-        "Değiştirilmiş Mercalli Şiddet Ölçeği",
-        "Kelvin ölçeği",
-        "Fahrenheit ölçeği"
+       "soru": "Aşağıdaki olaylardan,",
+       "oncul": [
+        "salıncaktaki çocuğun, salıncağın doğal frekansıyla uyumlu aralıklarla itildiğinde giderek daha yükseğe çıkması,",
+        "belirli bir notadaki güçlü sesle kristal bardağın titreşerek kırılması,",
+        "manyetik rezonans (MR) cihazında atom çekirdeklerinin uygulanan etkiyle rezonansa girmesi"
        ],
-       "dogru": 1,
-       "bilgi": "Depremin şiddeti; odak noktasına uzaklığa, zemin koşullarına ve yapıların dayanıklılığına bağlıdır.",
-       "sayfa": 294
+       "kok": "hangileri rezonansa örnektir?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Dış etkinin frekansı sistemin doğal frekansına eşit olduğunda genlik büyür. Salıncak mekanik, kristal bardak akustik, MR cihazı ise nükleer rezonansa örnektir.",
+       "sayfa": 297
       },
       {
        "id": "4.6-06",
-       "tur": "dy",
-       "ifade": "Depremin büyüklüğü ile şiddeti aynı kavramdır ve deprem her yerde aynı şiddette hissedilir.",
-       "dogru": false,
-       "bilgi": "Büyüklük kaynakta açığa çıkan enerjiyi, şiddet ise yüzeydeki etkiyi ifade eder; aynı deprem farklı yerlerde farklı şiddette hissedilir.",
-       "sayfa": 294
-      },
-      {
-       "id": "4.6-07",
        "tur": "secmeli",
-       "soru": "Deprem büyüklüğünü ölçmek için 1932'de standart bir ölçek geliştirip 1937'de \"Richter ölçeği\" adını veren bilim insanları kimlerdir?",
+       "soru": "Bir depremde belirli yükseklikteki binaların ağır hasar gördüğü, daha alçak ve daha yüksek binaların ise daha az etkilendiği gözleniyor. Binaların yapı kalitesi ve zemin koşulları benzerdir.\nBu durum en iyi aşağıdakilerden hangisiyle açıklanır?",
        "secenekler": [
-        "Heinrich Hertz ve James Watt",
-        "Charles Francis Richter ve Beno Gutenberg",
-        "Galileo ve Isaac Newton",
-        "George Simon Ohm ve Alessandro Volta"
+        "Hasar gören binaların doğal frekansının, deprem dalgalarının frekansına yakın olması",
+        "Depremin büyüklüğünün, hasar gören binaların bulunduğu bölgede diğer bölgelerdekinden fazla olması",
+        "Hasar gören binaların merkez üssüne diğer binalardan çok daha uzak olması",
+        "Hasar gören binalarda sismik izolatör kullanılmış olması",
+        "Deprem dalgalarının alçak binalara daha geç ulaşması"
        ],
-       "dogru": 1,
-       "bilgi": "Richter ölçeği depremin kaynağında ortaya çıkan toplam enerjiyi ölçer ve 1-9 arası rakamlarla ifade edilir.",
-       "sayfa": 295
-      },
-      {
-       "id": "4.6-08",
-       "tur": "bosluk",
-       "cumle": "Deprem ve yer hareketlerini inceleyen bilim dalına ___ (deprem bilimi) denir.",
-       "cevap": "sismoloji",
-       "celdiriciler": [
-        "meteoroloji",
-        "astronomi",
-        "hidroloji"
-       ],
-       "bilgi": "Türkiye'de Kandilli Rasathanesi ve AFAD sismograf ağlarıyla depremler hakkında bilgi verir.",
-       "sayfa": 300
-      },
-      {
-       "id": "4.6-09",
-       "tur": "secmeli",
-       "soru": "Binalarda kullanılan sismik izolatörler hangi malzemelerden oluşturulur?",
-       "secenekler": [
-        "Yalnızca beton bloklardan",
-        "Cam ve plastik katmanlardan",
-        "Yalnızca çelik halatlardan",
-        "Kauçuk ve metal plakalardan"
-       ],
-       "dogru": 3,
-       "bilgi": "Metal plaka binanın ağırlığını taşırken kauçuk plaka deprem dalgalarının şiddetini azaltır.",
-       "sayfa": 301
-      },
-      {
-       "id": "4.6-10",
-       "tur": "dy",
-       "ifade": "Sismik izolatörler binanın temeli ile üst kısmı arasına yerleştirilerek depremin dinamik yüklerinin üst yapıya daha az iletilmesini sağlar.",
-       "dogru": true,
-       "bilgi": "Sismik izolatörler özellikle hastaneler, müzeler, köprüler ve kamu binaları gibi önemli yapılarda tercih edilir.",
-       "sayfa": 301
-      },
-      {
-       "id": "4.6-11",
-       "tur": "secmeli",
-       "soru": "Manyetik rezonans cihazlarının atom çekirdekleriyle rezonansa girerek görüntüleme yapması hangi rezonans türüne örnektir?",
-       "secenekler": [
-        "Akustik rezonans",
-        "Nükleer rezonans",
-        "Optik rezonans",
-        "Mekanik rezonans"
-       ],
-       "dogru": 1,
-       "bilgi": "Nükleer rezonans atom çekirdeğindeki parçacıkların, akustik rezonans ses dalgalarının titreşimiyle ilgilidir.",
-       "sayfa": 297
+       "dogru": 0,
+       "bilgi": "Doğal frekansı deprem dalgalarının frekansına yakın olan binalarda rezonans oluşur, titreşim genliği büyür ve hasar artar. Bu yüzden mühendisler yapıların doğal frekansını tasarımda dikkate alır.",
+       "sayfa": 293
       }
      ]
     }

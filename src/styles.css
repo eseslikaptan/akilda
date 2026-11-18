@@ -1207,6 +1207,119 @@ h3 {
   margin: 0;
   text-wrap: pretty;
 }
+.soru-metni.uzun {
+  font-size: 18.5px;
+  line-height: 1.45;
+}
+/* YKS biçimi: parça/durum, tablo, grafik, öncüller ve kök */
+.soru-govde {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.soru-parca {
+  margin: 0;
+  font: 500 16.5px/1.55 var(--font-sans);
+  color: var(--ink);
+  text-wrap: pretty;
+}
+.soru-kok {
+  margin: 2px 0 0;
+  font: 800 17.5px/1.45 var(--font-sans);
+  text-wrap: pretty;
+}
+.soru-kok u,
+.soru-metni u {
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+.onculler {
+  list-style: none;
+  margin: 0;
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--ders);
+  border-radius: var(--r-s);
+}
+.onculler li {
+  display: flex;
+  gap: 10px;
+  font: 600 16px/1.5 var(--font-sans);
+}
+.oncul-no {
+  flex: 0 0 2.2em;
+  font-weight: 800;
+  color: var(--ders);
+}
+.soru-tablo-kap {
+  overflow-x: auto;
+}
+.soru-tablo {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 15px;
+  background: var(--surface);
+}
+.soru-tablo th,
+.soru-tablo td {
+  border: 1px solid var(--line);
+  padding: 7px 9px;
+  text-align: center;
+}
+.soru-tablo thead th {
+  background: var(--surface-2);
+  font-weight: 800;
+}
+.soru-tablo tbody th {
+  font-weight: 700;
+  text-align: left;
+}
+.soru-grafik {
+  width: 100%;
+  max-width: 380px;
+  align-self: center;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-s);
+}
+.soru-grafik .eksen {
+  stroke: var(--ink);
+  stroke-width: 1.6;
+}
+.soru-grafik .kilavuz {
+  stroke: var(--ink-3);
+  stroke-width: 1;
+  stroke-dasharray: 3 4;
+  opacity: 0.55;
+}
+.soru-grafik text {
+  fill: var(--ink-2);
+  font: 600 12px var(--font-sans);
+  /* çizgilerin üstünde okunaklı kalsın */
+  paint-order: stroke;
+  stroke: var(--surface);
+  stroke-width: 4px;
+  stroke-linejoin: round;
+}
+.soru-grafik .eksen-ad {
+  fill: var(--ink);
+  font-weight: 800;
+}
+.soru-grafik .seri-ad {
+  font-weight: 800;
+  font-size: 13px;
+}
+.kacanlar .soru-govde,
+.kacanlar .soru-metni {
+  margin-bottom: 8px;
+}
+.kacanlar .soru-metni {
+  font-size: 16px;
+}
 .soru-kaynak {
   margin: auto 0 0;
   font-size: 12.5px;

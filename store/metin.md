@@ -24,10 +24,10 @@ App Store Connect → Uygulamam → Uygulama Bilgileri / 1.0 sürümü alanları
 çıkmış soru,ösym,ders kitabı,tarih,coğrafya,edebiyat,biyoloji,kimya,fizik,felsefe,ezber,deneme
 ```
 
-## Tanıtım metni (158/170)
+## Tanıtım metni (163/170)
 
 ```
-Okuduğun bilgiyi unutmak üzereyken tekrar soran YKS uygulaması. MEB kitaplarından 4.370 bilgi, ÖSYM'nin 2018–2026'da sorduğu 1.385 bilgi. Ücretsiz, reklamsız.
+Okuduğun bilgiyi unutmak üzereyken YKS tarzı sorularla yeniden soran uygulama. MEB kitaplarından 2.649, ÖSYM'nin sorduğu bilgilerden 913 soru. Ücretsiz, reklamsız.
 ```
 
 ## Açıklama
@@ -35,16 +35,17 @@ Okuduğun bilgiyi unutmak üzereyken tekrar soran YKS uygulaması. MEB kitaplar�
 ```
 Okuduğun akılda kalsın.
 
-Akılda, YKS'ye hazırlanırken okuduğun bilgileri unutmaman için tasarlandı. Konu anlatmaz, test kitabı da değildir: bir bilgiyi tam unutmak üzereyken kısa bir soruyla yeniden sorar. Böylece bilgi kısa süreli hafızandan kalıcı hafızana geçer.
+Akılda, YKS'ye hazırlanırken okuduğun bilgileri unutmaman için tasarlandı. Konu anlatmaz: okuduğun bilgiyi tam unutmak üzereyken, sınavdaki gibi YKS tarzı bir soruyla yeniden sorar. Böylece bilgi kısa süreli hafızandan kalıcı hafızana geçer.
 
 MEB KİTAPLARINDAN, KAYNAĞIYLA
-• Millî Eğitim Bakanlığının güncel ders kitaplarından 4.370 bilgi kartı
-• Her kartın altında bilginin geçtiği kitap sayfasına bağlantı
+• Millî Eğitim Bakanlığının güncel ders kitaplarına dayanan 2.649 YKS tarzı soru
+• Öncüllü (I, II, III), parça yorumu, tablolu ve grafikli sorular; hepsi 5 şıklı
+• Her sorunun çözümü ve bilginin geçtiği kitap sayfasına bağlantı
 • TYT ve AYT düzeninde: Tarih, Coğrafya, Türk Dili ve Edebiyatı, Felsefe, Din Kültürü, Fizik, Kimya, Biyoloji
 • Alanına göre (Sayısal, Eşit Ağırlık, Sözel) kendini ayarlar
 
 ÖSYM'NİN SORDUĞU BİLGİLER, YIL YIL
-• 2018–2026 YKS'de sorulan 1.385 bilgi
+• 2018–2026 YKS'de sorulan bilgilerden 913 özgün soru
 • 2026'dan 2018'e her sınavı ayrı çalış, ders ders ilerle
 • Her konuda ÖSYM'nin o konudan kaç soru sorduğunu gör
 • "Asıl soruyu gör" ile MEB'in resmî çıkmış soru kitabında sorunun kendisine git
@@ -53,12 +54,12 @@ AKILLI TEKRAR
 • FSRS aralıklı tekrar algoritması: her bilgi, unutma ihtimalin arttığında karşına çıkar
 • Ön test: yeni konuya 5 soruyla başla, bildiklerin ileri tarihe atılsın
 • Karıştırılanlar: Mondros–Sevr, mitoz–mayoz gibi benzer kavramları art arda sor
-• Yanlış defteri, yazarak cevaplama, "aslında tahmin ettim" düğmesi
+• Yanlış defteri, şıkları gizleyerek çalışma, "aslında tahmin ettim" düğmesi
 • Son tur: sınavdan önce her bilgiyi en az bir kez gör
 
 YKS'YE ÖZEL
 • 2027 YKS geri sayımı ve günlük tempo hedefi
-• ÖSYM ders dağılımında süreli bilgi denemesi, net hesabı (4 yanlış 1 doğruyu götürür)
+• ÖSYM ders dağılımında süreli deneme, net hesabı (4 yanlış 1 doğruyu götürür)
 • Deneme geçmişi ve net grafiği
 
 MOTİVASYON
@@ -70,7 +71,7 @@ MOTİVASYON
 GİZLİLİK
 Hesap yok, reklam yok, takip yok. İlerlemen yalnızca telefonunda saklanır.
 
-Ders kitaplarının hakları Millî Eğitim Bakanlığına, sınav sorularının hakları ÖSYM'ye aittir. Uygulamada kitapların ve soruların metni yer almaz; kartlar bu kaynaklardaki bilgilere dayanılarak ayrıca yazılmıştır. Akılda, MEB ya da ÖSYM ile bağlantılı resmî bir uygulama değildir.
+Ders kitaplarının hakları Millî Eğitim Bakanlığına, sınav sorularının hakları ÖSYM'ye aittir. Uygulamada kitapların ve soruların metni yer almaz; sorular bu kaynaklardaki bilgilere dayanılarak ayrıca yazılmıştır. Akılda, MEB ya da ÖSYM ile bağlantılı resmî bir uygulama değildir.
 ```
 
 ## Bu sürümdeki yenilikler

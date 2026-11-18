@@ -31,8 +31,8 @@ export function Kurulum({ dizin }: { dizin: Dizin }) {
             Okuduğun <em>akılda</em> kalsın.
           </h1>
           <p>
-            MEB ders kitaplarındaki bilgileri kısa sorularla tekrar ettir. Unutmak üzere olduğun bilgiyi tam zamanında
-            karşına çıkarır.
+            MEB ders kitaplarındaki bilgileri YKS tarzı sorularla tekrar ettir. Unutmak üzere olduğun bilgiyi tam
+            zamanında karşına çıkarır.
           </p>
           <label className="alan">
             <span>Sana nasıl seslenelim?</span>

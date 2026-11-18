@@ -22,10 +22,17 @@
      "kartlar": [
       {
        "id": "1.1-01",
-       "tur": "dy",
-       "ifade": "Bilimsel bilgiye ulaşmada deney ve gözlemin yanı sıra akıl yürütme de kullanılabilir.",
-       "dogru": true,
-       "bilgi": "Bilimsel bilgi; deney, gözlem ve akıl yürütmenin ayrı ayrı ya da birlikte kullanılmasıyla elde edilebilir.",
+       "tur": "secmeli",
+       "soru": "Einstein, 1916'da genel görelilik kuramına dayanarak kütle çekim dalgalarının var olması gerektiğini matematiksel akıl yürütmeyle öngörmüştür. Bu öngörü, dalgalar yaklaşık yüz yıl sonra son derece hassas dedektörlerle gözlenene kadar pek çok araştırmaya yön vermiştir.\nBu bilgiler aşağıdakilerden hangisini destekler?",
+       "secenekler": [
+        "Bilimsel bilgiye akıl yürütme yoluyla da ulaşılabileceğini",
+        "Bilimsel bilginin yalnızca deney yapılarak üretilebileceğini",
+        "Gözlemle doğrulanmamış öngörülerin bilimde kullanılamayacağını",
+        "Teknolojik gelişmelerin bilimsel çalışmaları etkilemediğini",
+        "Bilimsel bilginin bir kez ortaya konduktan sonra değişmediğini"
+       ],
+       "dogru": 0,
+       "bilgi": "Dalgalar önce kuramdan akıl yürütmeyle öngörülmüş, hassas dedektörler geliştirilince gözlenmiştir. Bilimsel bilgi deney, gözlem ve akıl yürütmenin ayrı ayrı ya da birlikte kullanılmasıyla elde edilir; teknolojik gelişmeler öngörülerin sınanmasını sağlar.",
        "sayfa": 340,
        "yil": "2018-TYT"
       }
@@ -42,27 +49,17 @@
      "kartlar": [
       {
        "id": "1.2-01",
-       "tur": "eslestir",
-       "yonerge": "Nicelikleri SI birim sistemindeki birimleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Zaman",
-         "Saniye"
-        ],
-        [
-         "Sıcaklık",
-         "Kelvin"
-        ],
-        [
-         "Uzunluk",
-         "Metre"
-        ],
-        [
-         "Kütle",
-         "Kilogram"
-        ]
+       "tur": "secmeli",
+       "soru": "Bir öğrencinin deney raporuna yazdığı aşağıdaki ölçüm sonuçlarından hangisinde nicelik, SI birim sistemindeki birimiyle ifade edilmemiştir?",
+       "secenekler": [
+        "Koşucunun ortalama sürati 5 m/s'dir.",
+        "Laboratuvarın sıcaklığı 295 K'dir.",
+        "Bilyenin kütlesi 200 g'dır.",
+        "Sarkacın periyodu 2 s'dir.",
+        "Masanın uzunluğu 1,2 m'dir."
        ],
-       "bilgi": "SI birim sisteminde zamanın birimi saniye, sıcaklığın kelvin, uzunluğun metre, kütlenin kilogramdır; dakika, santigrat derece ve kilometre SI birimi değildir.",
+       "dogru": 2,
+       "bilgi": "SI'da kütlenin birimi kilogramdır; 200 g yerine 0,2 kg yazılmalıdır. Uzunluk metre, zaman saniye, sıcaklık kelvin, sürat m/s ile SI'da ifade edilir. Santigrat derece, gram, dakika, km/h ve kilometre SI birimi değildir.",
        "sayfa": 340,
        "yil": "2020-TYT"
       }
@@ -78,73 +75,124 @@
      "kartlar": [
       {
        "id": "1.3-01",
-       "tur": "dy",
-       "ifade": "Sabit sıcaklık ve basınçta saf bir maddenin hacmi arttıkça özkütlesi de artar.",
-       "dogru": false,
-       "bilgi": "Özkütle maddeyi ayırt eden bir özelliktir; aynı koşullarda saf bir maddenin özkütlesi miktarından bağımsızdır, özkütle–hacim grafiği yatay bir doğrudur.",
+       "tur": "secmeli",
+       "soru": "Birbiriyle karışabilen K ve L sıvılarının kütle-hacim grafikleri şekildeki gibidir. Bu sıvılardan eşit kütlelerde alınarak homojen bir karışım hazırlanıyor.\nKarışımın hacmi, karıştırılan sıvıların hacimleri toplamına eşit olduğuna göre karışımın özkütlesi kaç g/cm³'tür?",
+       "grafik": {
+        "x": "V (cm³)",
+        "y": "m (g)",
+        "seriler": [
+         {
+          "ad": "K",
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            10,
+            20
+           ]
+          ]
+         },
+         {
+          "ad": "L",
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            20,
+            10
+           ]
+          ]
+         }
+        ]
+       },
+       "secenekler": [
+        "0,8",
+        "1",
+        "1,25",
+        "1,5",
+        "2"
+       ],
+       "sirali": true,
+       "dogru": 0,
+       "bilgi": "Grafiklerin eğimi özkütleyi verir: K için 20/10 = 2, L için 10/20 = 0,5 g/cm³. m kütleli K'nin hacmi m/2, L'ninki 2m'dir; karışımın özkütlesi 2m / 2,5m = 0,8 g/cm³. 1,25 eşit hacimlerle hazırlanan karışımın özkütlesidir.",
        "sayfa": 340,
        "yil": "2019-TYT"
       },
       {
        "id": "1.3-02",
-       "tur": "bosluk",
-       "cumle": "Boyutu ve biçimi aynı kalan bir eşyanın daha ağır olması isteniyorsa eşya, ___ daha büyük bir malzemeden yapılmalıdır.",
-       "cevap": "özkütlesi",
-       "celdiriciler": [
-        "öz ısısı",
-        "esnekliği",
-        "ısı iletkenliği"
+       "tur": "secmeli",
+       "soru": "Birbirine karışmayan K, L ve M sıvıları ile bu sıvılarda çözünmeyen bir X cismiyle yapılan deneylerde şu gözlemler yapılıyor:\n• K ve L aynı kaba konduğunda K, L'nin üstünde toplanıyor.\n• X cismi K'de batıyor, L'de yüzüyor.\n• X cismi M'de batıyor.\nBuna göre,",
+       "oncul": [
+        "Özkütlesi en büyük olan sıvı L'dir.",
+        "K'nin özkütlesi M'ninkinden büyüktür.",
+        "M ile L aynı kaba konursa M üstte toplanır."
        ],
-       "bilgi": "Hacmi aynı kalan bir cismin kütlesini artırmanın yolu özkütlesi büyük bir malzeme kullanmaktır; yalnızca boyutu büyütmek özkütleyi değiştirmez.",
-       "sayfa": 341,
-       "yil": "2022-TYT"
+       "kok": "yargılarından hangileri kesinlikle doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "X, K ve M'de battığına göre özkütlesi bu sıvılarınkinden büyük, L'de yüzdüğüne göre L'ninkinden küçüktür. L en yoğun sıvıdır ve M'yle aynı kaba konunca altta kalır. K ile M'nin özkütleleri ise karşılaştırılamaz.",
+       "sayfa": 343,
+       "yil": "2026-TYT"
       },
       {
        "id": "1.3-03",
        "tur": "secmeli",
-       "soru": "Ağırlığı önemsiz bir balonun bulunduğu gaz ortamında yükselebilmesi için balonu dolduran gazın özkütlesi nasıl olmalıdır?",
+       "soru": "Özkütle ve özkütle farkından yararlanılan durumlarla ilgili aşağıdaki yargılardan hangisi yanlıştır?",
        "secenekler": [
-        "Çevresindeki gazın özkütlesine eşit olmalıdır",
-        "Çevresindeki gazın özkütlesinden büyük olmalıdır",
-        "Çevresindeki gazın özkütlesinden küçük olmalıdır",
-        "Sıcaklıktan bağımsız olarak sabit kalmalıdır"
+        "Hacmi değişmeden daha ağır yapılmak istenen bir eşya, özkütlesi daha büyük bir malzemeden üretilmelidir.",
+        "Ağırlığı önemsiz bir balon, içindeki gazın özkütlesi çevredeki havanınkinden küçükse yükselir.",
+        "Saf bir maddeden alınan örneğin hacmi arttıkça, aynı koşullarda özkütlesi de artar.",
+        "Kabın dibindeki bir cisim, sıvıda çözünen bir madde eklenip sıvının özkütlesi cisminkini aşınca yüzer.",
+        "Ebru yapılırken boyaların su yüzeyinde kalabilmesi için suyun özkütlesi boyalarınkinden büyük olmalıdır."
        ],
        "dogru": 2,
-       "bilgi": "Ağırlığı önemsiz bir balon, içindeki gazın özkütlesi çevresindeki atmosferin özkütlesinden küçükse havalanır.",
+       "bilgi": "Özkütle maddeyi ayırt eden bir özelliktir; aynı koşullarda saf bir maddenin örneğinin hacmi arttıkça kütlesi de aynı oranda artar ve özkütlesi değişmez. Diğer yargılar, özkütlesi küçük olanın üstte kaldığı durumlardır.",
        "sayfa": 341,
        "yil": "2023-TYT"
       },
       {
        "id": "1.3-04",
-       "tur": "dy",
-       "ifade": "Ebru sanatında boyaların su yüzeyinde kalabilmesi için teknedeki suyun özkütlesinin boyalarınkinden küçük olması gerekir.",
-       "dogru": false,
-       "bilgi": "Birbirine karışmayan maddelerden özkütlesi küçük olan üstte kalır; ebruda boyaların yüzmesi için teknedeki suyun özkütlesi boyalarınkinden büyük olmalıdır.",
-       "sayfa": 342,
-       "yil": "2024-TYT"
-      },
-      {
-       "id": "1.3-05",
-       "tur": "dy",
-       "ifade": "Suyun dibinde duran bir cisim, suya çözünen bir madde eklenerek sıvının özkütlesi cisminkinden büyük hâle getirilirse yüzmeye başlar.",
-       "dogru": true,
-       "bilgi": "Bir cisim özkütlesi sıvınınkinden büyükse batar, küçükse yüzer; sıvının özkütlesini artırmak batmış bir cismi yüzdürebilir.",
-       "sayfa": 342,
-       "yil": "2025-TYT"
-      },
-      {
-       "id": "1.3-06",
-       "tur": "bosluk",
-       "cumle": "Birbirine karışmayan sıvılar bir kapta katmanlara ayrıldığında sıvıların alttan üste dizilişini ___ belirler.",
-       "cevap": "özkütleleri",
-       "celdiriciler": [
-        "kütleleri",
-        "hacimleri",
-        "kaba dökülme sıraları"
+       "tur": "secmeli",
+       "soru": "K ve L maddelerinden alınan örneklerin kütleleri ve hacimleri tabloda verilmiştir. Tamamı K maddesinden yapılmış içi dolu bir süs eşyasının kütlesi 120 g'dır. Aynı boyut ve biçimdeki içi dolu ikinci bir süs eşyası K ve L maddelerinden birlikte yapıldığında kütlesi 300 g oluyor.\nİkinci süs eşyasında kullanılan L maddesinin hacmi kaç cm³'tür?",
+       "tablo": [
+        [
+         "Madde",
+         "Kütle (g)",
+         "Hacim (cm³)"
+        ],
+        [
+         "K",
+         "30",
+         "10"
+        ],
+        [
+         "L",
+         "40",
+         "5"
+        ]
        ],
-       "bilgi": "Karışmayan sıvılar özkütlesi büyük olan altta kalacak biçimde dizilir; sıvıların kütle sıralaması ise hacimlerine bağlı olduğundan farklı olabilir.",
-       "sayfa": 343,
-       "yil": "2026-TYT"
+       "secenekler": [
+        "20",
+        "24",
+        "28",
+        "32",
+        "36"
+       ],
+       "sirali": true,
+       "dogru": 4,
+       "bilgi": "Özkütleler K için 3, L için 8 g/cm³'tür; eşyanın hacmi 120/3 = 40 cm³'tür. L'nin hacmi V ise 3 · (40 − V) + 8V = 300, V = 36 cm³. Boyutu aynı kalan eşyayı ağırlaştırmak için özkütlesi büyük malzeme kullanılır.",
+       "sayfa": 341,
+       "yil": "2022-TYT"
       }
      ]
     },
@@ -156,30 +204,23 @@
      "kartlar": [
       {
        "id": "1.4-01",
-       "tur": "bosluk",
-       "cumle": "Yağmur damlalarının küresel biçim alma eğilimi ___ sonucudur.",
-       "cevap": "yüzey geriliminin",
-       "celdiriciler": [
-        "kılcallığın",
-        "genleşmenin",
-        "buharlaşmanın"
-       ],
-       "bilgi": "Sıvı yüzeyindeki moleküllerin birbirini içe doğru çekmesiyle oluşan yüzey gerilimi, damlaların küresel biçim almasını sağlar.",
-       "sayfa": 343,
-       "yil": "2021-TYT"
-      },
-      {
-       "id": "1.4-02",
        "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi yüzey geriliminin bir sonucudur?",
-       "secenekler": [
-        "Tren rayları arasında boşluk bırakılması",
-        "Su örümceklerinin su yüzeyinde batmadan yürüyebilmesi",
-        "Buzun suyun üzerinde yüzmesi",
-        "Ağır yüklü gemilerin su üzerinde kalabilmesi"
+       "soru": "Bir öğrenci, su dolu bir kabın yüzeyine dikkatlice bıraktığı çelik bir ataşın batmadan yüzeyde kaldığını gözlüyor. Suya birkaç damla deterjan eklediğinde ise ataş batıyor.\nBu gözlemlerle ilgili,",
+       "oncul": [
+        "Ataşın yüzeyde kalması, çeliğin özkütlesinin suyunkinden küçük olmasından kaynaklanır.",
+        "Deterjan, suyun yüzey gerilimini azaltmıştır.",
+        "Yağmur damlalarının küresele yakın biçim alması da suyun aynı özelliğiyle açıklanır."
        ],
-       "dogru": 1,
-       "bilgi": "Su yüzeyindeki yüzey gerilimi esnek bir zar gibi davranır; bu sayede hafif böcekler su yüzeyinde batmadan yürüyebilir.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Çeliğin özkütlesi sudan büyüktür; ataşı yüzeyde tutan, yüzeydeki moleküllerin birbirini çekmesiyle oluşan yüzey gerilimidir. Deterjan yüzey gerilimini azaltınca ataş batar. Damlaların küresel olması ve su örümceğinin suda yürüyebilmesi de yüzey gerilimiyle açıklanır.",
        "sayfa": 343,
        "yil": "2021-TYT"
       }
@@ -197,50 +238,68 @@
      "kartlar": [
       {
        "id": "1.5-01",
-       "tur": "bosluk",
-       "cumle": "Bir hareketlinin aldığı toplam yolun geçen süreye oranına ___ denir.",
-       "cevap": "ortalama sürat",
-       "celdiriciler": [
-        "ortalama hız",
-        "ivme",
-        "yer değiştirme"
+       "tur": "secmeli",
+       "soru": "Doğrusal bir yolda hareket eden bir bisikletlinin konum-zaman grafiği şekildeki gibidir.\nBisikletlinin 0-10 s aralığındaki ortalama süratinin, ortalama hızının büyüklüğüne oranı kaçtır?",
+       "grafik": {
+        "x": "t (s)",
+        "y": "x (m)",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            4,
+            40
+           ],
+           [
+            6,
+            40
+           ],
+           [
+            10,
+            10
+           ]
+          ]
+         }
+        ]
+       },
+       "secenekler": [
+        "4",
+        "7",
+        "8",
+        "10",
+        "14"
        ],
-       "bilgi": "Ortalama sürat toplam yola, ortalama hız yer değiştirmeye dayanır; bir tur atıp başlangıca dönen koşucunun ortalama hızı sıfır olsa da ortalama sürati sıfır değildir.",
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "Ortalama sürat toplam yolu, ortalama hız yer değiştirmeyi kullanır. Yol 40 + 30 = 70 m, yer değiştirme 10 m'dir; oran 70/10 = 7. Bisikletli başladığı noktaya dönseydi ortalama hızı sıfır olur, ortalama sürati sıfır olmazdı.",
        "sayfa": 344,
        "yil": "2019-TYT"
       },
       {
        "id": "1.5-02",
-       "tur": "dy",
-       "ifade": "Bir hareketlinin aldığı yol yer değiştirmesinin büyüklüğüne eşitse hareketli kesinlikle sabit hızla gitmiştir.",
-       "dogru": false,
-       "bilgi": "Alınan yolun yer değiştirmenin büyüklüğüne eşit olması, hareketin doğrusal bir yolda ve hiç yön değiştirmeden yapıldığını gösterir; hızın sabit olması gerekmez.",
+       "tur": "secmeli",
+       "soru": "Bir hareketlinin belirli bir zaman aralığında aldığı yol, aynı aralıktaki yer değiştirmesinin büyüklüğüne eşittir.\nBu hareketli için bu zaman aralığında,",
+       "oncul": [
+        "Doğrusal bir yörünge izlemiştir.",
+        "Hareket yönü değişmemiştir.",
+        "Hızı sabittir."
+       ],
+       "kok": "yargılarından hangileri kesinlikle doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Yol ile yer değiştirmenin büyüklüğünün eşit olması, hareketin doğrusal ve tek yönlü olduğunu gösterir; hareketli hızlanmış ya da yavaşlamış olabilir. Yer değiştirme yalnızca ilk ve son konuma bağlıdır, izlenen yoldan bağımsızdır.",
        "sayfa": 344,
        "yil": "2023-TYT"
-      },
-      {
-       "id": "1.5-03",
-       "tur": "secmeli",
-       "soru": "Bir yüzücü havuzda bir gidip gelerek başladığı duvara geri dönüyor. Bu hareketteki ortalama hızının büyüklüğü için hangisi doğrudur?",
-       "secenekler": [
-        "Sıfırdır",
-        "Ortalama süratine eşittir",
-        "Ortalama süratinin iki katıdır",
-        "Havuzun uzunluğuyla doğru orantılıdır"
-       ],
-       "dogru": 0,
-       "bilgi": "Başladığı noktaya geri dönen hareketlinin yer değiştirmesi sıfır olduğundan ortalama hızı da sıfırdır; aldığı yol ne kadar uzun olursa olsun bu değişmez.",
-       "sayfa": 344,
-       "yil": "2025-TYT"
-      },
-      {
-       "id": "1.5-04",
-       "tur": "dy",
-       "ifade": "Aynı başlangıç ve bitiş noktaları arasında farklı yollar izleyen iki koşucunun yer değiştirmeleri birbirine eşittir.",
-       "dogru": true,
-       "bilgi": "Yer değiştirme izlenen yoldan bağımsızdır, yalnızca ilk ve son konuma bağlıdır; hareket ters yönde yapılırsa yer değiştirmenin yönü de ters olur.",
-       "sayfa": 345,
-       "yil": "2026-TYT"
       }
      ]
     },
@@ -256,33 +315,39 @@
       {
        "id": "1.6-01",
        "tur": "secmeli",
-       "soru": "Büyük kütleli bir kamyon ile küçük kütleli bir otomobil çarpıştığında birbirlerine uyguladıkları kuvvetler için hangisi doğrudur?",
+       "soru": "Kütlesi 6000 kg olan bir kamyon ile kütlesi 1500 kg olan bir otomobil kafa kafaya çarpışıyor. Çarpışma süresince araçların yalnızca birbirlerine uyguladıkları kuvvetlerin etkisinde kaldığı varsayılıyor.\nBuna göre çarpışma süresince,",
+       "oncul": [
+        "Kamyonun otomobile uyguladığı kuvvet, otomobilin kamyona uyguladığı kuvvetten büyüktür.",
+        "Otomobilin ivmesinin büyüklüğü kamyonunkinin 4 katıdır.",
+        "Otomobilin hızındaki değişimin büyüklüğü kamyonunkinden büyüktür."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Kamyonun uyguladığı kuvvet daha büyüktür",
-        "Otomobilin uyguladığı kuvvet daha büyüktür",
-        "Hızı büyük olanın uyguladığı kuvvet daha büyüktür",
-        "Kuvvetler eşit büyüklükte ve zıt yönlüdür"
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
        ],
        "dogru": 3,
-       "bilgi": "Etki–tepki ilkesine göre çarpışan cisimler, kütleleri ve hızları ne olursa olsun birbirine eşit büyüklükte ve zıt yönlü kuvvet uygular.",
+       "bilgi": "Etki-tepki ilkesine göre kuvvetler eşit büyüklükte ve zıt yönlüdür. Aynı büyüklükteki kuvvetin etkisinde ivme kütleyle ters orantılıdır: 6000/1500 = 4. Etkileşme süreleri aynı olduğundan hızı daha çok değişen otomobildir.",
        "sayfa": 345,
        "yil": "2020-TYT"
       },
       {
        "id": "1.6-02",
-       "tur": "dy",
-       "ifade": "Çarpışan iki cisimden kütlesi küçük olanın ivmesi ve hızındaki değişim daha büyük olur.",
-       "dogru": true,
-       "bilgi": "Eşit büyüklükteki kuvvetin etkisinde kütlesi küçük olan cisim daha büyük ivme kazanır; bu yüzden hızı da daha çok değişir.",
-       "sayfa": 345,
-       "yil": "2020-TYT"
-      },
-      {
-       "id": "1.6-03",
-       "tur": "dy",
-       "ifade": "Yatay bir yüzeyde itilerek hareket ettirilen bir koltuğa etki eden kinetik sürtünme kuvveti, hareket yönüyle aynı yöndedir.",
-       "dogru": false,
-       "bilgi": "Kinetik sürtünme kuvveti her zaman harekete zıt yönlüdür ve cisme etki eden net kuvveti azaltır.",
+       "tur": "secmeli",
+       "soru": "Yatay bir zeminde duran 30 kg kütleli bir koltuğu Ali ve Ayşe aynı yönde, sırasıyla 150 N ve 90 N büyüklüğündeki yatay kuvvetlerle iterek sabit hızla hareket ettiriyor.\nAyşe itmeyi bıraktığı anda koltuğun ivmesinin büyüklüğü kaç m/s² olur?",
+       "secenekler": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "8"
+       ],
+       "sirali": true,
+       "dogru": 2,
+       "bilgi": "Sabit hızda net kuvvet sıfırdır; kinetik sürtünme 150 + 90 = 240 N'dur ve harekete zıttır. Ayşe bırakınca net kuvvet 240 − 150 = 90 N olur ve harekete zıt yöndedir: a = 90/30 = 3 m/s², koltuk yavaşlar. Hareket sürdükçe sürtünme kuvveti değişmez.",
        "sayfa": 346,
        "yil": "2025-TYT"
       }
@@ -298,24 +363,60 @@
      "kartlar": [
       {
        "id": "1.7-01",
-       "tur": "bosluk",
-       "cumle": "Doğrusal bir yolda sabit hızla ilerleyen bir araca etki eden net kuvvet ___.",
-       "cevap": "sıfırdır",
-       "celdiriciler": [
-        "hızıyla doğru orantılıdır",
-        "aracın ağırlığına eşittir",
-        "hareket yönündedir"
+       "tur": "secmeli",
+       "soru": "Doğrusal bir yolda hareket eden bir aracın hız-zaman grafiği şekildeki gibidir.\nAraca 0-4 s aralığında etki eden net kuvvetin büyüklüğü F₁, 10-16 s aralığında etki eden net kuvvetin büyüklüğü F₂ olduğuna göre F₁/F₂ oranı kaçtır?",
+       "grafik": {
+        "x": "t (s)",
+        "y": "v (m/s)",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            4,
+            20
+           ],
+           [
+            10,
+            20
+           ],
+           [
+            16,
+            0
+           ]
+          ]
+         }
+        ]
+       },
+       "secenekler": [
+        "2/3",
+        "3/2",
+        "5/3",
+        "2",
+        "3"
        ],
-       "bilgi": "Eylemsizlik ilkesine göre sabit hızla doğrusal hareket eden cisme etki eden net kuvvet sıfırdır; hızlanan cisme ise hareket yönünde net kuvvet etki eder.",
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "Net kuvvet ivmeyle orantılıdır (F = m · a). İvmelerin büyüklükleri 20/4 = 5 m/s² ve 20/6 = 10/3 m/s²'dir; oran 3/2'dir. 4-10 s aralığında araç sabit hızla gittiğinden üzerine etki eden net kuvvet sıfırdır.",
        "sayfa": 346,
        "yil": "2021-TYT"
       },
       {
        "id": "1.7-02",
-       "tur": "dy",
-       "ifade": "Masada duran bir kitabın Yerküre'ye uyguladığı çekim kuvveti, Yerküre'nin kitaba uyguladığı çekim kuvvetiyle eşit büyüklüktedir.",
-       "dogru": true,
-       "bilgi": "Kütle çekiminde de etki–tepki geçerlidir; ayrıca masanın kitaba uyguladığı tepki kuvveti, hareketsiz duran kitabın ağırlığına eşittir.",
+       "tur": "secmeli",
+       "soru": "Yatay bir zeminde duran bir masanın üzerinde hareketsiz bir kitap bulunmaktadır.\nAşağıda verilen kuvvet çiftlerinden hangisi bir etki-tepki kuvvet çifti değildir?",
+       "secenekler": [
+        "Yerküre'nin kitabı çekmesi – Kitabın Yerküre'yi çekmesi",
+        "Kitabın masaya uyguladığı kuvvet – Masanın kitaba uyguladığı kuvvet",
+        "Kitabın ağırlığı – Masanın kitaba uyguladığı kuvvet",
+        "Masanın zemine uyguladığı kuvvet – Zeminin masaya uyguladığı kuvvet",
+        "Yerküre'nin masayı çekmesi – Masanın Yerküre'yi çekmesi"
+       ],
+       "dogru": 2,
+       "bilgi": "Etki-tepki kuvvetleri farklı cisimlere etki eder; eşit büyüklükte ve zıt yönlüdür. Kitabın ağırlığı ile masanın kitaba uyguladığı kuvvet aynı cisme etki eder; eşit olmaları kitabın dengede olmasındandır. Ağırlığın tepkisi kitabın Yerküre'yi çekmesidir.",
        "sayfa": 346,
        "yil": "2022-TYT"
       }
@@ -332,15 +433,48 @@
       {
        "id": "1.8-01",
        "tur": "secmeli",
-       "soru": "Yatay bir kuvvetle itilmesine rağmen kımıldamayan bir dolaba etki eden statik sürtünme kuvvetinin büyüklüğü neye eşittir?",
-       "secenekler": [
-        "Dolabın ağırlığına",
-        "Ulaşabileceği en büyük statik sürtünme değerine",
-        "Uygulanan yatay kuvvete",
-        "Sıfıra"
+       "soru": "Yatay bir zeminde duran 10 kg kütleli bir dolaba uygulanan yatay F kuvveti sıfırdan başlayarak yavaş yavaş artırılıyor. Zeminin dolaba uyguladığı sürtünme kuvvetinin F'ye bağlı grafiği şekildeki gibidir.\nBuna göre,",
+       "grafik": {
+        "x": "F (N)",
+        "y": "Sürtünme (N)",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            60,
+            60
+           ],
+           [
+            60,
+            50
+           ],
+           [
+            100,
+            50
+           ]
+          ]
+         }
+        ]
+       },
+       "oncul": [
+        "Statik sürtünme kuvvetinin ulaşabileceği en büyük değer 60 N'dur.",
+        "F = 30 N iken dolap hareketsizdir ve sürtünme kuvveti 60 N'dur.",
+        "F = 70 N iken dolabın ivmesinin büyüklüğü 1 m/s²'dir."
        ],
-       "dogru": 2,
-       "bilgi": "Cisim hareketsiz kaldıkça statik sürtünme kuvveti uygulanan kuvveti dengeler; sürtünme katsayısı yalnızca bu kuvvetin ulaşabileceği en büyük değeri belirler.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Dolap kımıldamadıkça statik sürtünme uygulanan kuvvete eşittir (F = 30 N iken 30 N) ve en çok 60 N olabilir. Hareket başlayınca sürtünme 50 N'luk kinetik sürtünmeye düşer; F = 70 N iken a = (70 − 50)/10 = 2 m/s²'dir.",
        "sayfa": 346,
        "yil": "2024-TYT"
       }
@@ -356,15 +490,18 @@
      "kartlar": [
       {
        "id": "1.9-01",
-       "tur": "bosluk",
-       "cumle": "Aynı yükü aynı yüksekliğe daha kısa sürede çıkaran kişinin ___ daha büyüktür.",
-       "cevap": "gücü",
-       "celdiriciler": [
-        "yaptığı iş",
-        "yüke aktardığı potansiyel enerji",
-        "verimi"
+       "tur": "secmeli",
+       "soru": "Ali ve Can, her biri 20 kg kütleli özdeş kolileri yerden 3 m yükseklikteki bir rafa sabit hızla çıkarıyor. Ali 10 koliyi 2 dakikada, Can ise 6 koliyi 1 dakikada rafa yerleştiriyor.\nYalnızca kolilere yapılan iş dikkate alındığına göre Can'ın ortalama gücünün Ali'ninkine oranı kaçtır? (g = 10 m/s²)",
+       "secenekler": [
+        "5/6",
+        "6/5",
+        "3/2",
+        "5/3",
+        "2"
        ],
-       "bilgi": "Güç birim zamanda yapılan iştir; aynı işi daha kısa sürede yapan kişinin gücü daha büyüktür.",
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "Bir koliyi rafa çıkarmak için mgh = 20 · 10 · 3 = 600 J iş gerekir. Ali 6000 J'lük işi 120 s'de (50 W), Can 3600 J'lük işi 60 s'de (60 W) yapar. Daha çok iş yapan Ali olsa da birim zamanda daha çok iş yapan Can'dır; oran 6/5.",
        "sayfa": 347,
        "yil": "2019-TYT"
       }
@@ -382,26 +519,69 @@
       {
        "id": "1.10-01",
        "tur": "secmeli",
-       "soru": "Aynı maddeden oluşan ve kütleleri farklı olan iki örnek için hangisi kesinlikle aynıdır?",
+       "soru": "Kütleleri sırasıyla m, 2m ve m olan K, L ve M sıvılarına hâl değişimi olmadan verilen ısıya bağlı sıcaklık grafikleri şekildeki gibidir.\nBuna göre,",
+       "grafik": {
+        "x": "Q (kJ)",
+        "y": "T (°C)",
+        "seriler": [
+         {
+          "ad": "K",
+          "n": [
+           [
+            0,
+            20
+           ],
+           [
+            4,
+            60
+           ]
+          ]
+         },
+         {
+          "ad": "L",
+          "n": [
+           [
+            0,
+            20
+           ],
+           [
+            4,
+            40
+           ]
+          ]
+         },
+         {
+          "ad": "M",
+          "n": [
+           [
+            0,
+            20
+           ],
+           [
+            4,
+            30
+           ]
+          ]
+         }
+        ]
+       },
+       "oncul": [
+        "K ve L aynı sıvı olabilir.",
+        "L'nin ısı sığası K'ninkinin 2 katıdır.",
+        "M'nin öz ısısı K'ninkinin 2 katıdır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Isı sığası",
-        "Öz ısısı",
-        "İç enerjisi",
-        "Isıtılmak için gereken ısı miktarı"
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
        ],
        "dogru": 1,
-       "bilgi": "Öz ısı maddeyi ayırt eden bir özelliktir ve kütleye bağlı değildir; ısı sığası ise kütleyle birlikte artar.",
+       "bilgi": "Isı sığası Q/ΔT'dir: K için 0,1, L için 0,2, M için 0,4 kJ/°C. Öz ısı, ısı sığasının kütleye oranıdır: K ve L'ninki eşit (0,1/m), M'ninki 0,4/m, yani K'ninkinin 4 katıdır. Öz ısı ayırt edici özelliktir; ısı sığası ise kütleyle artar.",
        "sayfa": 347,
        "yil": "2018-TYT"
-      },
-      {
-       "id": "1.10-02",
-       "tur": "dy",
-       "ifade": "Aynı sıvıdan oluşan iki örnekten kütlesi küçük olanın ısı sığası daha büyüktür.",
-       "dogru": false,
-       "bilgi": "Isı sığası kütleyle artar; eşit ısı verildiğinde ısı sığası küçük olan, yani kütlesi az olan örneğin sıcaklığı daha çok yükselir.",
-       "sayfa": 347,
-       "yil": "2025-TYT"
       }
      ]
     },
@@ -415,24 +595,40 @@
      "kartlar": [
       {
        "id": "1.11-01",
-       "tur": "bosluk",
-       "cumle": "Yalıtılmış bir ortamda birbiriyle ısı alışverişi sona eren maddelerin ___ eşit olur.",
-       "cevap": "sıcaklıkları",
-       "celdiriciler": [
-        "ısı sığaları",
-        "iç enerjileri",
-        "verdikleri ısı miktarları"
+       "tur": "secmeli",
+       "soru": "Öz ısısı 0,2 cal/g·°C olan 100 g kütleli metal bir bilye 100 °C sıcaklığa kadar ısıtılıyor ve ısıca yalıtılmış bir kapta bulunan 30 °C sıcaklığındaki 80 g suyun içine bırakılıyor.\nIsı alışverişi yalnızca bilye ile su arasında olduğuna göre denge sıcaklığı kaç °C olur? (Suyun öz ısısı 1 cal/g·°C'tır.)",
+       "secenekler": [
+        "40",
+        "44",
+        "50",
+        "56",
+        "65"
        ],
-       "bilgi": "Isıl dengede maddelerin son sıcaklıkları eşittir; alınan ya da verilen ısı miktarları ise kütle ve öz ısıya bağlı olduğundan farklı olabilir.",
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "Yalıtılmış ortamda verilen ısı alınan ısıya eşittir: 0,2 · 100 · (100 − T) = 80 · 1 · (T − 30), T = 44 °C. Dengede son sıcaklıklar eşittir; sıcaklık değişimleri ise (56 °C ve 14 °C) ısı sığalarına bağlı olarak farklıdır.",
        "sayfa": 348,
        "yil": "2024-TYT"
       },
       {
        "id": "1.11-02",
-       "tur": "dy",
-       "ifade": "Sıcaklıkları farklı iki cisim kısa bir süre temas ettiğinde aralarında mutlaka ısıl denge kurulur.",
-       "dogru": false,
-       "bilgi": "Temas eden cisimler arasında ısı alışverişi hemen başlar ama ısıl dengeye ulaşmak zaman alır; ısı veren cismin taneciklerinin ortalama kinetik enerjisi azalır.",
+       "tur": "secmeli",
+       "soru": "Sıcaklığı 90 °C olan K cismi ile 10 °C olan L cismi, ısıca yalıtılmış bir ortamda kısa bir süre birbirine temas ettirilip ayrılıyor. Ayrıldıkları anda K'nin sıcaklığı 80 °C, L'nin sıcaklığı 40 °C ölçülüyor.\nBuna göre,",
+       "oncul": [
+        "Ayrıldıkları anda cisimler ısıl dengededir.",
+        "K'nin ısı sığası L'ninkinin 3 katıdır.",
+        "Temas yeterince uzun sürseydi cisimlerin ortak son sıcaklığı 70 °C olurdu."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Sıcaklıklar eşitlenmediğinden denge kurulmamıştır. K'nin verdiği ısı L'nin aldığına eşittir; K'nin sıcaklığı 10 °C, L'ninki 30 °C değiştiğinden K'nin ısı sığası 3 katıdır. Dengede 3 · (90 − T) = T − 10, T = 70 °C. K'nin taneciklerinin ortalama kinetik enerjisi azalmıştır.",
        "sayfa": 348,
        "yil": "2026-TYT"
       }
@@ -449,55 +645,39 @@
      "kartlar": [
       {
        "id": "1.12-01",
-       "tur": "bosluk",
-       "cumle": "Tencere saplarının plastik ya da ahşap gibi malzemelerden yapılmasının nedeni bu malzemelerin ___ küçük olmasıdır.",
-       "cevap": "ısı iletim katsayısının",
-       "celdiriciler": [
-        "özkütlesinin",
-        "genleşme katsayısının",
-        "erime sıcaklığının"
+       "tur": "secmeli",
+       "soru": "Sıcaklığı 80 °C olan bir saunada uzun süre kalmış metal bir kapı kolu ile tahta bir oturağa dokunan kişi, metal kolu daha sıcak hissediyor.\nBu durumun nedeni aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Metal kolun sıcaklığının tahta oturağınkinden yüksek olması",
+        "Metalin ısıyı ele tahtadan daha hızlı iletmesi",
+        "Metalin öz ısısının tahtanınkinden büyük olması",
+        "Tahtanın ısıyı ışıma yoluyla daha çok yayması",
+        "Metalin genleşme katsayısının tahtanınkinden büyük olması"
        ],
-       "bilgi": "Isı iletim katsayısı küçük olan malzemeler ısıyı yavaş iletir; bu yüzden tutma yerlerinde ve ısı yalıtımında tercih edilir.",
-       "sayfa": 348,
-       "yil": "2021-TYT"
-      },
-      {
-       "id": "1.12-02",
-       "tur": "dy",
-       "ifade": "Arasında hava boşluğu bulunan çift camlı pencereler, aynı kalınlıktaki tek parça camdan daha iyi ısı yalıtımı sağlar.",
-       "dogru": true,
-       "bilgi": "Havanın ısı iletim katsayısı camınkinden çok küçük olduğundan iki cam arasındaki hava tabakası ısı kaybını azaltır.",
-       "sayfa": 348,
-       "yil": "2021-TYT"
-      },
-      {
-       "id": "1.12-03",
-       "tur": "dy",
-       "ifade": "Aynı ortamda uzun süre kalmış metal bir plaka tahta bir plakadan daha soğuk hissedilir, çünkü metalin sıcaklığı daha düşüktür.",
-       "dogru": false,
-       "bilgi": "Aynı ortamdaki cisimlerin sıcaklıkları eşittir; ısı iletim katsayısı büyük olan metal elden ısıyı daha hızlı çektiği için daha soğuk hissedilir.",
+       "dogru": 1,
+       "bilgi": "Aynı ortamdaki cisimler aynı sıcaklıktadır. Isı iletim katsayısı büyük olan metal, ısıyı ele birim zamanda daha çok aktardığı için daha sıcak hissedilir; ortam vücuttan soğuk olsaydı daha soğuk hissedilirdi. Isıyı yavaş ileten tahta ve plastik tencere saplarında kullanılır.",
        "sayfa": 349,
        "yil": "2022-TYT"
       },
       {
-       "id": "1.12-04",
-       "tur": "eslestir",
-       "yonerge": "Isı aktarım yollarını özellikleriyle eşleştir.",
-       "ciftler": [
-        [
-         "İletim",
-         "Taneciklerin titreşip birbirine çarpmasıyla, özellikle katılarda"
-        ],
-        [
-         "Konveksiyon",
-         "Akışkanın kendisinin yer değiştirmesiyle"
-        ],
-        [
-         "Işıma",
-         "Maddesel ortama gerek duymadan, elektromanyetik dalgalarla"
-        ]
+       "id": "1.12-02",
+       "tur": "secmeli",
+       "soru": "Su dolu cam bir kabın tabanının yalnızca bir köşesi ısıtılırken suya bırakılan boyanın, ısıtılan bölgenin üstünden yükselip kabın öbür tarafından alçalan bir döngü izlediği gözleniyor.\nBu gözlemle ilgili,",
+       "oncul": [
+        "Suda ısı büyük ölçüde konveksiyonla aktarılmaktadır.",
+        "Isınan suyun özkütlesi azaldığından su yükselmektedir.",
+        "Bu yolla ısı aktarımı boşlukta da gerçekleşebilir."
        ],
-       "bilgi": "Güneş'ten gelen enerji uzay boşluğunu ışıma yoluyla geçer; iletim ve konveksiyon için maddesel bir ortam gerekir.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Isınan akışkanın genleşip özkütlesi azalınca yükselmesi, soğuyanın alçalması konveksiyon akımlarını oluşturur. Konveksiyon ve iletim için maddesel ortam gerekir; Güneş'in enerjisi uzay boşluğunu ışımayla geçer.",
        "sayfa": 349,
        "yil": "2023-TYT"
       }
@@ -513,33 +693,57 @@
      "kartlar": [
       {
        "id": "1.13-01",
-       "tur": "bosluk",
-       "cumle": "Termostatlarda kullanılan ve genleşme katsayıları farklı iki metal şeridin birleştirilmesiyle yapılan, ısınınca bükülen düzeneğe ___ denir.",
-       "cevap": "bimetal",
-       "celdiriciler": [
-        "termokupl",
-        "reosta",
-        "elektromıknatıs"
+       "tur": "secmeli",
+       "soru": "X, Y ve Z metallerinin boyca uzama katsayıları tabloda verilmiştir. Bu metallerden yapılan eşit uzunluktaki şeritler ikişer ikişer perçinlenerek X-Z ve Y-Z bimetal şeritleri hazırlanıyor.\nBuna göre,",
+       "tablo": [
+        [
+         "Metal",
+         "Boyca uzama katsayısı (1/°C)"
+        ],
+        [
+         "X",
+         "12 · 10⁻⁶"
+        ],
+        [
+         "Y",
+         "19 · 10⁻⁶"
+        ],
+        [
+         "Z",
+         "23 · 10⁻⁶"
+        ]
        ],
-       "bilgi": "Bimetal şeritte metaller farklı miktarda genleştiği için şerit ısınınca az genleşen metal tarafına doğru bükülür.",
+       "oncul": [
+        "X-Z şeridi ısıtılırsa X tarafına doğru bükülür.",
+        "Y-Z şeridi soğutulursa Z tarafına doğru bükülür.",
+        "Aynı sıcaklık artışında Y-Z şeridi X-Z şeridinden daha çok bükülür."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Isınan bimetalde çok genleşen metal uzun kalır ve şerit az genleşen metal tarafına bükülür; soğutulunca çok büzülen metal tarafına bükülür. Katsayılar arasındaki fark X-Z'de daha büyük olduğundan daha çok bükülen X-Z'dir. Termostatlar bu ilkeyle çalışır.",
        "sayfa": 349,
        "yil": "2019-TYT"
       },
       {
        "id": "1.13-02",
-       "tur": "dy",
-       "ifade": "Elektrik direkleri arasındaki tellerin yazın kışa göre daha fazla sarkması, metallerin ısınınca genleşmesiyle açıklanır.",
-       "dogru": true,
-       "bilgi": "Isınan metal teller uzar ve sarkar; tren raylarının yazın bükülmemesi için de raylar arasında boşluk bırakılır.",
-       "sayfa": 349,
-       "yil": "2019-TYT"
-      },
-      {
-       "id": "1.13-03",
-       "tur": "dy",
-       "ifade": "Esnek bir zarla kapatılmış bir kaptaki hava soğutulursa zar dışarıya doğru şişer.",
-       "dogru": false,
-       "bilgi": "Soğuyan gaz büzülür ve basıncı düşer; dış basınç baskın geldiğinden zar kabın içine doğru çöker.",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi maddelerin ısınınca genleşmesi ya da soğuyunca büzülmesiyle açıklanamaz?",
+       "secenekler": [
+        "Elektrik tellerinin yazın kışa göre daha fazla sarkması",
+        "Ağzı esnek bir zarla kapatılmış kap soğutulunca zarın içe doğru çökmesi",
+        "Sıkışan metal kavanoz kapağının sıcak suya tutulunca kolayca açılması",
+        "Kışın metal korkuluğun tahta korkuluktan daha soğuk hissedilmesi",
+        "Tren rayları döşenirken raylar arasında boşluk bırakılması"
+       ],
+       "dogru": 3,
+       "bilgi": "Aynı ortamdaki metal ve tahta korkuluk aynı sıcaklıktadır; metalin daha soğuk hissedilmesi ısı iletim katsayısının büyük olmasındandır. Zarın içe çökmesi, soğuyan havanın büzülüp basıncının düşmesiyle açıklanır.",
        "sayfa": 350,
        "yil": "2020-TYT"
       }
@@ -555,48 +759,45 @@
      "kartlar": [
       {
        "id": "1.14-01",
-       "tur": "dy",
-       "ifade": "Aynı cins elektrik yüküyle yüklü iki cisim birbirini çeker.",
-       "dogru": false,
-       "bilgi": "Aynı cins yüklü cisimler birbirini iter, zıt cins yüklü cisimler birbirini çeker.",
-       "sayfa": 350,
-       "yil": "2018-TYT"
-      },
-      {
-       "id": "1.14-02",
-       "tur": "dy",
-       "ifade": "Sürtünme sırasında elektron veren cisim pozitif, elektron alan cisim negatif yüklenir.",
-       "dogru": true,
-       "bilgi": "Sürtünmeyle elektriklenmede yalnızca elektronlar yer değiştirir; elektron kazanan negatif, elektron kaybeden pozitif yüklü hâle gelir.",
-       "sayfa": 350,
-       "yil": "2025-TYT"
-      },
-      {
-       "id": "1.14-03",
-       "tur": "bosluk",
-       "cumle": "Yüklü bir cisim yaklaştırıldığında nötr bir cisimdeki yüklerin uçlara doğru yeniden dağılmasına ___ denir.",
-       "cevap": "kutuplanma",
-       "celdiriciler": [
-        "topraklama",
-        "yalıtım",
-        "iyonlaşma"
+       "tur": "secmeli",
+       "soru": "Saçlara sürtülen plastik bir tarak negatif yükleniyor. Tarak, masadaki nötr küçük kâğıt parçalarına dokundurulmadan yaklaştırıldığında kâğıtları kendine çekiyor.\nBuna göre,",
+       "oncul": [
+        "Sürtünme sırasında saçlardan tarağa elektron geçmiştir.",
+        "Tarağa yaklaşan kâğıt parçalarının net yükü negatif olmuştur.",
+        "Tarak pozitif yüklü olsaydı da kâğıtları çekerdi."
        ],
-       "bilgi": "Kutuplanan nötr cismin yakın ucunda zıt, uzak ucunda aynı cins yük toplanır; yakın uçtaki çekim baskın geldiği için yüklü tarak nötr kâğıdı çeker.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Sürtünmede yalnızca elektronlar yer değiştirir; elektron alan tarak negatif, elektron veren saç pozitif yüklenir. Nötr kâğıt kutuplanır, tarağa yakın ucu zıt yüklenir ve çekim baskın gelir; kâğıdın net yükü sıfır kalır. Tarak pozitif yüklü olsaydı da kutuplanma çekim oluştururdu.",
        "sayfa": 351,
        "yil": "2022-TYT"
       },
       {
-       "id": "1.14-04",
+       "id": "1.14-02",
        "tur": "secmeli",
-       "soru": "Nötr bir elektroskoba dokunmadan yaklaştırılan bir cisim, yapraklarda hiçbir hareket oluşturmuyorsa cisim için ne söylenebilir?",
-       "secenekler": [
-        "Pozitif yüklüdür",
-        "Negatif yüklüdür",
-        "Yükü çok büyüktür",
-        "Nötrdür"
+       "soru": "Nötr bir elektroskobun topuzuna dokunmadan önce K, sonra L cismi yaklaştırılıyor. K yaklaştırılınca yapraklar açılıyor, L yaklaştırılınca yapraklarda hiçbir hareket görülmüyor. Daha sonra K, pozitif yüklü başka bir elektroskobun topuzuna dokunmadan yaklaştırıldığında bu elektroskobun yaprakları biraz daha açılıyor.\nBuna göre,",
+       "oncul": [
+        "L cismi nötrdür.",
+        "K cismi pozitif yüklüdür.",
+        "Yalnızca nötr elektroskopla yapılan deneyden K'nin yükünün işareti belirlenebilir."
        ],
-       "dogru": 3,
-       "bilgi": "Nötr elektroskoba yaklaştırılan pozitif ya da negatif yüklü cisim yaprakları açar, bu yüzden yükün cinsi anlaşılamaz; yapraklar hareketsiz kalıyorsa cisim nötrdür.",
+       "kok": "yargılarından hangileri kesinlikle doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Nötr elektroskoba yaklaştırılan yüklü cisim, yükü pozitif de olsa negatif de olsa yaprakları açar; bu yüzden yükün işareti anlaşılamaz. Yaprakları açmayan L nötrdür. Pozitif yüklü elektroskobun yapraklarını daha çok açan K ise pozitif yüklüdür.",
        "sayfa": 351,
        "yil": "2026-TYT"
       }
@@ -615,33 +816,79 @@
      "kartlar": [
       {
        "id": "1.15-01",
-       "tur": "bosluk",
-       "cumle": "Aynı aydınlatmayı sağlayan akkor flamanlı, floresan ve LED ampullerden eşit sürede en az elektrik enerjisi harcayan ___ ampuldür.",
-       "cevap": "LED",
-       "celdiriciler": [
-        "akkor flamanlı",
-        "floresan",
-        "halojen"
+       "tur": "secmeli",
+       "soru": "Bir evde kullanılan ve aynı aydınlatmayı sağlayan akkor flamanlı (K), floresan (L) ve LED (M) ampullerin güçleri ile bir gündeki kullanım süreleri tabloda verilmiştir.\nBuna göre,",
+       "tablo": [
+        [
+         "Ampul",
+         "Güç (W)",
+         "Günlük kullanım (h)"
+        ],
+        [
+         "K (akkor)",
+         "60",
+         "2"
+        ],
+        [
+         "L (floresan)",
+         "15",
+         "6"
+        ],
+        [
+         "M (LED)",
+         "10",
+         "8"
+        ]
        ],
-       "bilgi": "LED ampuller aynı aydınlatmayı daha düşük güçle sağladığından eşit sürede akkor flamanlı ve floresan ampullerden daha az elektrik enerjisi harcar.",
+       "oncul": [
+        "Bir günde en çok elektrik enerjisini K harcar.",
+        "L'nin bir günde harcadığı enerji M'ninkinden azdır.",
+        "M'nin bir günde harcadığı enerji 0,08 kWh'tir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Harcanan enerji güç ile sürenin çarpımıdır: K 120 Wh, L 90 Wh, M 80 Wh = 0,08 kWh. Aynı aydınlatmayı en düşük güçle sağlayan LED eşit sürede en az enerjiyi harcar; ancak düşük güçlü bir ampul uzun süre yanarsa daha çok enerji harcayabilir.",
        "sayfa": 352,
        "yil": "2023-TYT"
       },
       {
        "id": "1.15-02",
-       "tur": "dy",
-       "ifade": "Bir elektrikli ev aletinin harcadığı elektrik enerjisi yalnızca gücüne bağlıdır, çalıştırıldığı süreye bağlı değildir.",
-       "dogru": false,
-       "bilgi": "Harcanan elektrik enerjisi aletin gücüne ve çalışma süresine bağlıdır; düşük güçlü bir alet uzun süre çalışırsa daha çok enerji harcayabilir.",
+       "tur": "secmeli",
+       "soru": "Gücü 2000 W olan bir elektrikli ısıtıcı günde 30 dakika, gücü 100 W olan bir televizyon ise günde 5 saat çalıştırılıyor.\nIsıtıcının bir günde harcadığı elektrik enerjisinin televizyonunkine oranı kaçtır?",
+       "secenekler": [
+        "1/2",
+        "2",
+        "5",
+        "10",
+        "20"
+       ],
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "Harcanan enerji E = P · t'dir: ısıtıcı 2 kW · 0,5 h = 1 kWh, televizyon 0,1 kW · 5 h = 0,5 kWh harcar; oran 2'dir. 20 yalnızca güçlerin oranıdır; harcanan enerji çalışma süresine de bağlıdır.",
        "sayfa": 353,
        "yil": "2021-TYT"
       },
       {
        "id": "1.15-03",
-       "tur": "dy",
-       "ifade": "Bir üretece paralel bağlanan ampullerin uçları arasındaki potansiyel farkları birbirine eşittir.",
-       "dogru": true,
-       "bilgi": "Paralel bağlı ampullerin gerilimleri eşittir; direnci küçük olan ampulden daha büyük akım geçer ve bu ampul birim zamanda daha çok enerji harcar.",
+       "tur": "secmeli",
+       "soru": "Dirençleri 4 Ω ve 12 Ω olan K ve L lambaları, potansiyel farkı 12 V olan bir üretece paralel bağlanıyor. Lambaların dirençleri sıcaklıkla değişmemektedir.\nK lambasının harcadığı elektrik gücünün L lambasınınkine oranı kaçtır?",
+       "secenekler": [
+        "1/9",
+        "1/3",
+        "1",
+        "3",
+        "9"
+       ],
+       "sirali": true,
+       "dogru": 3,
+       "bilgi": "Paralel bağlı lambaların uçlarındaki potansiyel fark eşittir (12 V). K'den 3 A, L'den 1 A geçer; güçler P = V · I'dan 36 W ve 12 W'tır, oran 3'tür. Direnci küçük lamba daha çok akım çeker ve daha parlak yanar; 1/3 ise seri bağlamadaki orandır.",
        "sayfa": 354,
        "yil": "2024-TYT"
       }
@@ -660,28 +907,78 @@
       {
        "id": "1.16-01",
        "tur": "secmeli",
-       "soru": "Çamurlu zeminde ilerleyen yüklü bir aracın tekerleklerinin zemine uyguladığı basıncı azaltmak için hangisi yapılabilir?",
-       "secenekler": [
-        "Tekerlek sayısını artırarak zeminle temas alanını büyütmek",
-        "Daha dar tekerlekler kullanmak",
-        "Aracı daha hızlı sürmek",
-        "Araca daha fazla yük koymak"
+       "soru": "Yatay ve çamurlu bir zeminde duran 1, 2 ve 3 numaralı araçların ağırlıkları, tekerlek sayıları ve bir tekerleğin zeminle temas alanı tabloda verilmiştir. Araçların ağırlıkları tekerleklerine eşit olarak dağılmaktadır.\nAraçların zemine uyguladığı basınçlar P₁, P₂ ve P₃ arasındaki ilişki aşağıdakilerden hangisidir?",
+       "tablo": [
+        [
+         "Araç",
+         "Ağırlık (N)",
+         "Tekerlek sayısı",
+         "Tekerlek temas alanı (m²)"
+        ],
+        [
+         "1",
+         "20 000",
+         "4",
+         "0,05"
+        ],
+        [
+         "2",
+         "60 000",
+         "6",
+         "0,08"
+        ],
+        [
+         "3",
+         "36 000",
+         "4",
+         "0,1"
+        ]
        ],
-       "dogru": 0,
-       "bilgi": "Katıların basıncı ağırlıkla doğru, temas yüzeyinin alanıyla ters orantılıdır; yükü azaltmak ya da temas alanını artırmak basıncı düşürür.",
+       "secenekler": [
+        "P₁ > P₂ > P₃",
+        "P₂ > P₁ > P₃",
+        "P₂ > P₃ > P₁",
+        "P₃ > P₁ > P₂",
+        "P₁ = P₂ > P₃"
+       ],
+       "dogru": 1,
+       "bilgi": "Katı basıncı P = G/A'dır: P₁ = 20 000/0,2 = 100 kPa, P₂ = 60 000/0,48 = 125 kPa, P₃ = 36 000/0,4 = 90 kPa. En ağır araç, tekerleği fazla olsa da en büyük basıncı uygular; temas alanını artırmak basıncı azaltır.",
        "sayfa": 354,
        "yil": "2021-TYT"
       },
       {
        "id": "1.16-02",
-       "tur": "bosluk",
-       "cumle": "Bir boruda akan suyun sürati borunun daraldığı bölümde artar, suyun basıncı ise bu bölümde ___.",
-       "cevap": "azalır",
-       "celdiriciler": [
-        "artar",
-        "değişmez"
+       "tur": "secmeli",
+       "soru": "Yatay bir boruda sürekli ve düzgün biçimde akan suyun K, L ve M noktalarındaki akış süratleri tabloda verilmiştir.\nBuna göre,",
+       "tablo": [
+        [
+         "Nokta",
+         "K",
+         "L",
+         "M"
+        ],
+        [
+         "Akış sürati (m/s)",
+         "2",
+         "6",
+         "3"
+        ]
        ],
-       "bilgi": "Bernoulli ilkesine göre akışkanın süratinin arttığı yerde basıncı azalır; geniş kesitte akış yavaş, basınç yüksektir.",
+       "oncul": [
+        "Borunun en dar kesitli bölümü L'dedir.",
+        "Suyun basıncı en büyük K'dedir.",
+        "Suyun basıncı L'de M'dekinden büyüktür."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Aynı boruda sürekli akışta kesit daraldıkça akış sürati artar; L en dar bölümdür. Bernoulli ilkesine göre akışkanın sürati arttıkça basıncı azalır: basınç K'de en büyük, L'de en küçüktür.",
        "sayfa": 355,
        "yil": "2022-TYT"
       }
@@ -697,43 +994,58 @@
      "kartlar": [
       {
        "id": "1.17-01",
-       "tur": "dy",
-       "ifade": "Tamamen dolu bir taşırma kabına bırakıldıklarında eşit hacimde su taşıran iki cismin hacimleri kesinlikle eşittir.",
-       "dogru": false,
-       "bilgi": "Taşan sıvının hacmi cismin batan kısmının hacmine eşittir; eşit taşırma kaldırma kuvvetlerinin eşit olduğunu gösterir, ama yüzen cismin hacmi daha büyük olabilir.",
+       "tur": "secmeli",
+       "soru": "Tamamen suyla dolu özdeş iki taşırma kabından birine K, diğerine L cismi bırakılıyor. Dengeye geldiklerinde K suda yüzüyor, L ise kabın dibine batıyor. Her iki kaptan da eşit hacimde su taşıyor.\nBuna göre,",
+       "oncul": [
+        "K ve L'ye etki eden kaldırma kuvvetleri eşittir.",
+        "K'nin hacmi L'ninkinden büyüktür.",
+        "K'nin ağırlığı L'ninkinden büyüktür."
+       ],
+       "kok": "yargılarından hangileri kesinlikle doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Taşan su hacmi batan hacme eşittir; eşit taşırma eşit kaldırma kuvveti demektir. Yüzen K'nin batan hacmi kendi hacminden küçük, batan L'ninki kendi hacmine eşittir; K'nin hacmi büyüktür. K'nin ağırlığı kaldırma kuvvetine eşit, L'ninki ondan büyüktür.",
        "sayfa": 355,
        "yil": "2018-TYT"
       },
       {
        "id": "1.17-02",
-       "tur": "bosluk",
-       "cumle": "Nehirden denize açılan bir geminin suya batan kısmının hacmi ___.",
-       "cevap": "azalır",
-       "celdiriciler": [
-        "artar",
-        "değişmez"
+       "tur": "secmeli",
+       "soru": "Bir tahta blok, özkütlesi 1 g/cm³ olan tatlı suda hacminin 3/4'ü batmış olarak yüzüyor. Aynı blok tuzlu suya konduğunda hacminin 3/5'i batmış olarak yüzüyor.\nTuzlu suyun özkütlesi kaç g/cm³'tür?",
+       "secenekler": [
+        "0,8",
+        "1,05",
+        "1,15",
+        "1,2",
+        "1,25"
        ],
-       "bilgi": "Deniz suyunun özkütlesi tatlı sudan büyük olduğundan yüzen geminin batan hacmi azalır; kaldırma kuvveti ise yine geminin ağırlığına eşit kalır.",
+       "sirali": true,
+       "dogru": 4,
+       "bilgi": "Yüzen cisme etki eden kaldırma kuvveti ağırlığına eşittir ve iki sıvıda da aynıdır: 1 · (3/4)V = d · (3/5)V, d = 1,25 g/cm³. Nehirden denize açılan bir geminin batan hacminin azalması da aynı ilkeyle açıklanır.",
        "sayfa": 356,
        "yil": "2020-TYT"
       },
       {
        "id": "1.17-03",
-       "tur": "dy",
-       "ifade": "Suda tamamen batmış eşit hacimli demir ve alüminyum toplardan demir topa etki eden kaldırma kuvveti daha büyüktür.",
-       "dogru": false,
-       "bilgi": "Kaldırma kuvveti cismin cinsine değil batan hacme ve sıvının özkütlesine bağlıdır; eşit hacimli batmış cisimlere eşit, yüzen cisme ise ağırlığı kadar kaldırma kuvveti etki eder.",
+       "tur": "secmeli",
+       "soru": "Hacimleri eşit tahta, alüminyum ve demir bilyeler suyla dolu bir kaba bırakılıyor. Tahta bilye yüzüyor, alüminyum ve demir bilyeler ise kabın dibine batıyor.\nBilyelere etki eden kaldırma kuvvetlerinin büyüklükleri sırasıyla F₁, F₂ ve F₃ olduğuna göre bunlar arasındaki ilişki nedir?",
+       "secenekler": [
+        "F₁ > F₂ > F₃",
+        "F₁ = F₂ = F₃",
+        "F₂ = F₃ > F₁",
+        "F₃ > F₂ > F₁",
+        "F₁ = F₂ > F₃"
+       ],
+       "dogru": 2,
+       "bilgi": "Kaldırma kuvveti cismin cinsine değil, batan hacme ve sıvının özkütlesine bağlıdır. Tamamen batan alüminyum ve demir bilyelere eşit, hacminin yalnızca bir kısmı batan tahta bilyeye daha küçük kaldırma kuvveti etki eder.",
        "sayfa": 356,
        "yil": "2024-TYT"
-      },
-      {
-       "id": "1.17-04",
-       "tur": "dy",
-       "ifade": "Birbirine karışmayan iki sıvıdan özkütlesi büyük olan üstte bulunuyorsa aradaki engel kaldırıldığında sıvılar yer değiştirir.",
-       "dogru": true,
-       "bilgi": "Karışmayan sıvılarda özkütlesi büyük olan alta iner; bir cisim de özkütlesi kendisininkinden büyük sıvıda yüzer, küçük sıvıda batar.",
-       "sayfa": 357,
-       "yil": "2026-TYT"
       }
      ]
     },
@@ -748,34 +1060,262 @@
      "kartlar": [
       {
        "id": "1.18-01",
-       "tur": "dy",
-       "ifade": "Gerginliği değiştirilmeyen bir gitar telinde oluşan dalganın frekansı artırılsa bile dalganın yayılma sürati değişmez.",
-       "dogru": true,
-       "bilgi": "Teldeki dalganın sürati telin gerginliğine ve yapısına bağlıdır; tel kısaltılıp frekans artırıldığında dalga boyu kısalır, sürat aynı kalır.",
+       "tur": "secmeli",
+       "soru": "Aynı gergin ipte, ipin gerginliği değiştirilmeden farklı zamanlarda üretilen K ve L periyodik dalgalarının bir andaki görünümleri şekildeki gibidir.\nK dalgasının frekansı 6 Hz olduğuna göre L dalgasının frekansı kaç Hz'dir?",
+       "grafik": {
+        "x": "x (cm)",
+        "y": "y (cm)",
+        "seriler": [
+         {
+          "ad": "K",
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            2.5,
+            1.41
+           ],
+           [
+            5,
+            2
+           ],
+           [
+            7.5,
+            1.41
+           ],
+           [
+            10,
+            0
+           ],
+           [
+            12.5,
+            -1.41
+           ],
+           [
+            15,
+            -2
+           ],
+           [
+            17.5,
+            -1.41
+           ],
+           [
+            20,
+            0
+           ],
+           [
+            22.5,
+            1.41
+           ],
+           [
+            25,
+            2
+           ],
+           [
+            27.5,
+            1.41
+           ],
+           [
+            30,
+            0
+           ],
+           [
+            32.5,
+            -1.41
+           ],
+           [
+            35,
+            -2
+           ],
+           [
+            37.5,
+            -1.41
+           ],
+           [
+            40,
+            0
+           ],
+           [
+            42.5,
+            1.41
+           ],
+           [
+            45,
+            2
+           ],
+           [
+            47.5,
+            1.41
+           ],
+           [
+            50,
+            0
+           ],
+           [
+            52.5,
+            -1.41
+           ],
+           [
+            55,
+            -2
+           ],
+           [
+            57.5,
+            -1.41
+           ],
+           [
+            60,
+            0
+           ]
+          ]
+         },
+         {
+          "ad": "L",
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            3.75,
+            2.12
+           ],
+           [
+            7.5,
+            3
+           ],
+           [
+            11.25,
+            2.12
+           ],
+           [
+            15,
+            0
+           ],
+           [
+            18.75,
+            -2.12
+           ],
+           [
+            22.5,
+            -3
+           ],
+           [
+            26.25,
+            -2.12
+           ],
+           [
+            30,
+            0
+           ],
+           [
+            33.75,
+            2.12
+           ],
+           [
+            37.5,
+            3
+           ],
+           [
+            41.25,
+            2.12
+           ],
+           [
+            45,
+            0
+           ],
+           [
+            48.75,
+            -2.12
+           ],
+           [
+            52.5,
+            -3
+           ],
+           [
+            56.25,
+            -2.12
+           ],
+           [
+            60,
+            0
+           ]
+          ]
+         }
+        ],
+        "xIsaret": [
+         [
+          10,
+          "10"
+         ],
+         [
+          20,
+          "20"
+         ],
+         [
+          30,
+          "30"
+         ],
+         [
+          40,
+          "40"
+         ],
+         [
+          50,
+          "50"
+         ],
+         [
+          60,
+          "60"
+         ]
+        ],
+        "yIsaret": [
+         [
+          3,
+          "3"
+         ],
+         [
+          2,
+          "2"
+         ],
+         [
+          -2,
+          "−2"
+         ],
+         [
+          -3,
+          "−3"
+         ]
+        ]
+       },
+       "secenekler": [
+        "4",
+        "6",
+        "8",
+        "9",
+        "12"
+       ],
+       "sirali": true,
+       "dogru": 0,
+       "bilgi": "İpin gerginliği ve yapısı değişmediğinden iki dalganın sürati aynıdır: v = 20 · 6 = 120 cm/s. L'nin dalga boyu 30 cm olduğundan f = 120/30 = 4 Hz'dir. Genliğin büyük olması sürati ya da frekansı değiştirmez; ipteki dalganın sürati gerginliğe ve ipin yapısına bağlıdır.",
        "sayfa": 357,
        "yil": "2020-TYT"
       },
       {
        "id": "1.18-02",
        "tur": "secmeli",
-       "soru": "Gergin bir ipte ilerleyen dalganın sürati aşağıdakilerden hangisine bağlıdır?",
+       "soru": "Bir musluktan durgun su yüzeyine eşit zaman aralıklarıyla düşen damlalar dairesel dalgalar oluşturuyor. Damlama aralığı değiştirilmeden musluk yükseltilerek damlaların daha yüksekten düşmesi sağlanıyor.\nBuna göre oluşan dalgaların genliği, periyodu ve yayılma sürati için aşağıdakilerden hangisi doğrudur?",
        "secenekler": [
-        "Dalganın genliğine",
-        "İpin gerginliğine",
-        "Kaynağın titreşim frekansına",
-        "Dalganın biçimine"
+        "Genlik artar; periyot ve sürat değişmez.",
+        "Genlik artar, periyot kısalır, sürat değişmez.",
+        "Genlik ve sürat artar, periyot değişmez.",
+        "Genlik değişmez, periyot kısalır, sürat artar.",
+        "Genlik ve periyot artar, sürat değişmez."
        ],
-       "dogru": 1,
-       "bilgi": "İpteki dalganın sürati ortamın özelliklerine, yani ipin gerginliğine ve birim uzunluğunun kütlesine bağlıdır; ip daha hızlı sallanırsa yalnızca frekans artar, dalga boyu kısalır.",
-       "sayfa": 358,
-       "yil": "2021-TYT"
-      },
-      {
-       "id": "1.18-03",
-       "tur": "dy",
-       "ifade": "Bir dalga kaynağının titreşim periyodu, oluşturduğu dalgaların genliği artırıldığında kısalır.",
-       "dogru": false,
-       "bilgi": "Genlik dalgaya aktarılan enerjiyle ilgilidir, periyot ise kaynağın titreşim sıklığıyla belirlenir; damlalar aynı aralıkla düştükçe periyot değişmez.",
+       "dogru": 0,
+       "bilgi": "Daha yüksekten düşen damla suya daha çok enerji aktarır; genlik artar. Periyot, damlaların düşme aralığıyla belirlenir ve değişmez. Sürat ortama (derinliğe) bağlıdır; v = λ/T'ye göre dalga boyu da değişmez.",
        "sayfa": 358,
        "yil": "2025-TYT"
       }
@@ -791,15 +1331,17 @@
      "kartlar": [
       {
        "id": "1.19-01",
-       "tur": "bosluk",
-       "cumle": "Titreşim doğrultusu yayılma doğrultusuna dik olan dalgalara ___ dalga denir.",
-       "cevap": "enine",
-       "celdiriciler": [
-        "boyuna",
-        "duran",
-        "yüzey"
+       "tur": "secmeli",
+       "soru": "Gergin bir yayda oluşturulan dalgalarla ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Yayın ucu yaya dik doğrultuda titreştirilirse enine dalgalar oluşur.",
+        "Yayın ucu yay doğrultusunda ileri geri titreştirilirse boyuna dalgalar oluşur.",
+        "Dalga ilerlerken yayın halkaları dalgayla birlikte yayın öbür ucuna taşınır.",
+        "Dalga, kaynaktan aldığı enerjiyi yay boyunca taşır.",
+        "Sabit uçtan yansıyan bir atma ters dönerek geri gelir."
        ],
-       "bilgi": "Gergin bir yayda oluşturulan enine dalgada yayın her noktası, dalganın ilerleme doğrultusuna dik doğrultuda aşağı yukarı titreşir.",
+       "dogru": 2,
+       "bilgi": "Titreşim doğrultusu yayılma doğrultusuna dik olan dalgalar enine, paralel olanlar boyunadır; yayda ikisi de oluşturulabilir. Dalga enerji taşır; yayın halkaları denge konumları çevresinde titreşir, dalgayla birlikte ilerlemez.",
        "sayfa": 359,
        "yil": "2024-TYT"
       }
@@ -816,25 +1358,20 @@
      "kartlar": [
       {
        "id": "1.20-01",
-       "tur": "bosluk",
-       "cumle": "Su dalgaları derin bölgeden sığ bölgeye geçtiğinde dalgaların ___ değişmez.",
-       "cevap": "frekansı",
-       "celdiriciler": [
-        "sürati",
-        "dalga boyu"
+       "tur": "secmeli",
+       "soru": "Doğrusal su dalgaları, bir dalga leğeninin derin bölgesinden sığ bölgesine geçiyor. Derin bölgede dalgaların dalga boyu 3 cm, yayılma sürati 30 cm/s; sığ bölgede yayılma sürati 20 cm/s'dir.\nDalgaların sığ bölgedeki dalga boyu kaç cm'dir?",
+       "secenekler": [
+        "2",
+        "3",
+        "4",
+        "4,5",
+        "6"
        ],
-       "bilgi": "Frekans dalga kaynağına bağlı olduğundan değişmez; sığ bölgede sürat ve dalga boyu küçülür, bu yüzden kıyıya yakın yerde dalga cepheleri sıklaşır.",
+       "sirali": true,
+       "dogru": 0,
+       "bilgi": "Frekans kaynağa bağlıdır, ortam değişince değişmez: f = 30/3 = 10 Hz. Sığ bölgede λ = 20/10 = 2 cm olur. Derinlik arttıkça sürat ve dalga boyu büyür; kıyıya yaklaşan dalgaların tepelerinin sıklaşması bundandır.",
        "sayfa": 359,
        "yil": "2022-TYT"
-      },
-      {
-       "id": "1.20-02",
-       "tur": "dy",
-       "ifade": "Su dalgaları derinliği artan bir bölgeye doğru ilerledikçe yayılma süratleri azalır.",
-       "dogru": false,
-       "bilgi": "Su dalgalarının sürati derinlik arttıkça artar; frekans değişmediği için derin bölgede dalga boyu da büyür.",
-       "sayfa": 360,
-       "yil": "2026-TYT"
       }
      ]
     },
@@ -849,55 +1386,44 @@
       {
        "id": "1.21-01",
        "tur": "secmeli",
-       "soru": "Noktasal bir ışık kaynağından uzaklaştıkça aşağıdakilerden hangisi değişir?",
+       "soru": "Işık şiddeti 36 cd olan noktasal bir kaynak, bir perdeye dik doğrultuda 3 m uzaklıkta bulunmaktadır.\nBuna göre,",
+       "oncul": [
+        "Perdenin kaynağa en yakın noktasındaki aydınlanma şiddeti 4 lx'tür.",
+        "Kaynak perdeye yaklaştırılırsa kaynağın ışık şiddeti artar.",
+        "Kaynak perdeden 6 m uzaklığa getirilirse aynı noktadaki aydınlanma şiddeti 1 lx olur."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Kaynağın ışık şiddeti",
-        "Kaynağın yaydığı toplam ışık akısı",
-        "Bir yüzeyin aydınlanma şiddeti",
-        "Kaynağın yaydığı ışığın rengi"
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
        ],
        "dogru": 2,
-       "bilgi": "Işık şiddeti ve toplam ışık akısı kaynağa özgüdür; bir yüzeyin aydınlanma şiddeti ise kaynağa olan uzaklık arttıkça azalır.",
+       "bilgi": "Işınların dik geldiği noktada E = I/d²'dir: 36/3² = 4 lx, 6 m'de 36/6² = 1 lx. Işık şiddeti (cd) ve toplam ışık akısı (lm) kaynağa özgüdür; uzaklıkla değişen, yüzeyin aydınlanma şiddetidir (lx).",
        "sayfa": 360,
        "yil": "2018-TYT"
       },
       {
        "id": "1.21-02",
-       "tur": "eslestir",
-       "yonerge": "Aydınlanma ile ilgili nicelikleri birimleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Işık şiddeti",
-         "Kandela (cd)"
-        ],
-        [
-         "Işık akısı",
-         "Lümen (lm)"
-        ],
-        [
-         "Aydınlanma şiddeti",
-         "Lüks (lx)"
-        ]
+       "tur": "secmeli",
+       "soru": "Noktasal bir ışık kaynağı, yarıçapı r olan saydam bir kürenin merkezinde bulunmaktadır. Kürenin yarıçapı, kaynak merkezde kalacak biçimde 2r yapılıyor.\nBuna göre,",
+       "oncul": [
+        "küre yüzeyinden geçen toplam ışık akısı,",
+        "küre yüzeyindeki aydınlanma şiddeti,",
+        "kaynağın ışık şiddeti"
        ],
-       "bilgi": "Işık şiddeti kandela, ışık akısı lümen, aydınlanma şiddeti lüks birimiyle ölçülür.",
-       "sayfa": 360,
-       "yil": "2018-TYT"
-      },
-      {
-       "id": "1.21-03",
-       "tur": "dy",
-       "ifade": "Bir yüzeyden geçen ışık akısı, ışınlar yüzeye dik geldiğinde en büyük değerini alır.",
-       "dogru": true,
-       "bilgi": "Bir yüzeyden geçen ışık akısı yüzeyin alanı büyüdükçe artar ve ışınlar dik geldiğinde en büyüktür; ışınlar yüzeye eğik geldikçe azalır.",
-       "sayfa": 361,
-       "yil": "2019-TYT"
-      },
-      {
-       "id": "1.21-04",
-       "tur": "dy",
-       "ifade": "Noktasal bir ışık kaynağını saran saydam kürenin yarıçapı küçültülürse küre yüzeyinden geçen toplam ışık akısı artar.",
-       "dogru": false,
-       "bilgi": "Noktasal kaynağı tamamen saran yüzeyden geçen toplam akı kaynağın ışık şiddetine bağlıdır, yarıçaptan bağımsızdır; yüzey yarı saydam yapılırsa dışarıdaki aydınlanma azalır.",
+       "kok": "niceliklerinden hangileri azalır?",
+       "secenekler": [
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Kaynağı tamamen saran yüzeyden geçen toplam akı (4πI) yalnızca ışık şiddetine bağlıdır, yarıçaptan bağımsızdır. Aynı akı 4 kat büyük alana dağıldığından aydınlanma şiddeti 1/4'üne iner. Işık şiddeti kaynağa özgüdür.",
        "sayfa": 361,
        "yil": "2023-TYT"
       }
@@ -913,15 +1439,23 @@
      "kartlar": [
       {
        "id": "1.22-01",
-       "tur": "bosluk",
-       "cumle": "Düzlem aynada oluşan görüntünün aynaya uzaklığı, cismin aynaya uzaklığına ___.",
-       "cevap": "eşittir",
-       "celdiriciler": [
-        "iki katıdır",
-        "yarısıdır",
-        "ortamın kırıcılığına göre değişir"
+       "tur": "secmeli",
+       "soru": "Düz bir aynanın 3 m önünde duran bir çocuk, aynaya dik doğrultuda 0,5 m/s sabit süratle aynaya doğru yürüyor.\nBuna göre,",
+       "oncul": [
+        "2 s sonra çocuk ile görüntüsü arasındaki uzaklık 4 m olur.",
+        "Çocuk yürürken görüntüsünün boyu değişmez.",
+        "Görüntü çocuğa 1 m/s süratle yaklaşır."
        ],
-       "bilgi": "Düzlem aynada görüntü cisimle aynı boyda ve aynaya aynı uzaklıktadır; ayna ve kişi aynı ortamdaysa ortamın hava ya da su olması bunu değiştirmez.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Düz aynada görüntü cisimle aynı boyda ve aynaya aynı uzaklıktadır. 2 s'de çocuk 1 m yürür; aynaya 2 m, görüntüsüne 4 m uzaklıkta olur. Çocuk ve görüntüsü aynaya 0,5'er m/s süratle yaklaştığından birbirlerine 1 m/s süratle yaklaşırlar.",
        "sayfa": 362,
        "yil": "2020-TYT"
       }
@@ -937,25 +1471,19 @@
      "kartlar": [
       {
        "id": "1.23-01",
-       "tur": "dy",
-       "ifade": "Çukur aynada merkezden geçerek gelen bir ışın, aynadan kendi üzerinden geri yansır.",
-       "dogru": true,
-       "bilgi": "Merkezden geçen ışın ayna yüzeyine dik geldiği için kendi üzerinden döner; ışığı geldiği yöne geri gönderen yansıtıcılar bu tür yansımalardan yararlanır.",
+       "tur": "secmeli",
+       "soru": "Düzlem, çukur ve tümsek aynalarla ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Çukur aynada merkezden geçerek gelen ışın kendi üzerinden geri yansır.",
+        "Tümsek aynada gerçek bir cismin görüntüsü her zaman cisimden küçüktür.",
+        "Düzlem aynada görüntü cisimle aynı boyda ve aynaya aynı uzaklıktadır.",
+        "Dişleri büyütülmüş görmek için tümsek ayna kullanılır.",
+        "Araçların yan aynalarında geniş görüş alanı için tümsek ayna kullanılır."
+       ],
+       "dogru": 3,
+       "bilgi": "Cisimden büyük görüntü oluşturabilen tek ayna çukur aynadır; diş hekiminin aynası çukurdur. Tümsek aynada görüntü her zaman düz, sanal ve küçüktür; görüş alanı geniş olduğundan araç yan aynalarında kullanılır. Merkezden geçen ışın aynaya dik geldiğinden kendi üzerinden döner.",
        "sayfa": 363,
        "yil": "2023-TYT"
-      },
-      {
-       "id": "1.23-02",
-       "tur": "bosluk",
-       "cumle": "Düzlem, tümsek ve çukur aynalardan bir cismin görüntüsünü cisimden daha büyük oluşturabilen yalnızca ___ aynadır.",
-       "cevap": "çukur",
-       "celdiriciler": [
-        "düzlem",
-        "tümsek"
-       ],
-       "bilgi": "Düzlem aynada görüntü cisimle aynı boyda, tümsek aynada her zaman cisimden küçüktür; çukur ayna ise cismin konumuna göre büyük görüntü de oluşturabilir.",
-       "sayfa": 363,
-       "yil": "2026-TYT"
       }
      ]
     },
@@ -970,23 +1498,17 @@
      "kartlar": [
       {
        "id": "1.24-01",
-       "tur": "bosluk",
-       "cumle": "Işık, kırıcılık indisi küçük olan bir ortamdan büyük olan bir ortama eğik geçerken normale ___ kırılır.",
-       "cevap": "yaklaşarak",
-       "celdiriciler": [
-        "uzaklaşarak",
-        "sapmadan"
+       "tur": "secmeli",
+       "soru": "Bir havuzun kenarında duran Ali ile havuzun dibindeki dalgıç Can birbirine bakıyor.\nBuna göre aşağıdakilerden hangisi doğrudur?",
+       "secenekler": [
+        "Ali, Can'ı olduğundan daha derinde görür.",
+        "Can, Ali'yi olduğundan daha yukarıda görür.",
+        "Işık suda havadakinden daha hızlı ilerler.",
+        "Can'dan gelen ışık sudan havaya geçerken normale yaklaşır.",
+        "Ali, Can'ı tam olarak bulunduğu derinlikte görür."
        ],
-       "bilgi": "Işık az kırıcı ortamdan çok kırıcı ortama geçerken normale yaklaşır, tersinde normalden uzaklaşır; sapma miktarı indisler arasındaki farka bağlıdır.",
-       "sayfa": 364,
-       "yil": "2018-TYT"
-      },
-      {
-       "id": "1.24-02",
-       "tur": "dy",
-       "ifade": "Havadan bakan bir gözlemci, denizdeki bir dalgıcı olduğundan daha derinde görür.",
-       "dogru": false,
-       "bilgi": "Sudan havaya geçen ışık normalden uzaklaştığı için havadaki gözlemci sudaki cismi daha yukarıda görür; sudaki gözlemci de havadaki cismi olduğundan yukarıda görür.",
+       "dogru": 1,
+       "bilgi": "Işık kırıcılık indisi büyük ortamdan küçük ortama geçerken normalden uzaklaşır, tersinde normale yaklaşır. Bu yüzden havadaki gözlemci sudaki cismi, sudaki gözlemci de havadaki cismi olduğundan daha yukarıda görür.",
        "sayfa": 364,
        "yil": "2025-TYT"
       }
@@ -1002,10 +1524,23 @@
      "kartlar": [
       {
        "id": "1.25-01",
-       "tur": "dy",
-       "ifade": "Yakınsak bir mercekte mavi ışığın odak uzaklığı kırmızı ışığınkinden daha büyüktür.",
-       "dogru": false,
-       "bilgi": "Mavi ışık camda kırmızıdan daha çok kırılır, bu yüzden yakınsak mercekte merceğe daha yakın bir noktada toplanır; aynalarda yansıma ise ışığın rengine bağlı değildir.",
+       "tur": "secmeli",
+       "soru": "Bir öğrenci, ince kenarlı bir cam mercek ile bir çukur aynanın odak uzaklıklarını önce kırmızı, sonra mavi ışık kullanarak ölçüyor.\nBuna göre,",
+       "oncul": [
+        "Mercekte mavi ışıkla ölçülen odak uzaklığı, kırmızı ışıkla ölçülenden küçüktür.",
+        "Çukur aynada iki ışıkla ölçülen odak uzaklıkları eşittir.",
+        "Kırmızı ışığın camdaki sürati mavi ışığınkinden küçüktür."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Camın kırıcılık indisi mavi ışık için daha büyüktür; mavi ışık daha çok kırılır, mercekte daha yakın noktada toplanır ve camda daha yavaş ilerler. Yansıma ışığın rengine bağlı olmadığından aynanın odak uzaklığı değişmez.",
        "sayfa": 365,
        "yil": "2024-TYT"
       }
@@ -1022,29 +1557,16 @@
       {
        "id": "1.26-01",
        "tur": "secmeli",
-       "soru": "Yalnızca sarı ışıkla aydınlatılan mavi boyalı bir cisim hangi renkte görünür?",
+       "soru": "Beyaz ışık altında K cismi sarı, L cismi mavi, M cismi cyan (camgöbeği) renkte görünmektedir. Cisimlerin boyaları yalnızca kendi renklerini oluşturan ana renk ışıklarını yansıtmaktadır.\nCisimler yalnızca sarı ışıkla aydınlatılırsa hangi renklerde görünür?",
        "secenekler": [
-        "Yeşil",
-        "Sarı",
-        "Mavi",
-        "Siyah"
+        "K: sarı, L: siyah, M: yeşil",
+        "K: sarı, L: mavi, M: cyan",
+        "K: beyaz, L: siyah, M: yeşil",
+        "K: sarı, L: yeşil, M: siyah",
+        "K: kırmızı, L: siyah, M: mavi"
        ],
-       "dogru": 3,
-       "bilgi": "Mavi boya yalnızca mavi ışığı yansıtır; kırmızı ve yeşil ışıktan oluşan sarı ışıkta yansıtacak ışık bulamadığı için siyah görünür.",
-       "sayfa": 366,
-       "yil": "2019-TYT"
-      },
-      {
-       "id": "1.26-02",
-       "tur": "bosluk",
-       "cumle": "Kırmızı ve yeşil renkli ışıklar aynı yüzeye düşürüldüğünde ___ renkli ışık elde edilir.",
-       "cevap": "sarı",
-       "celdiriciler": [
-        "cyan",
-        "magenta",
-        "beyaz"
-       ],
-       "bilgi": "Işıkta kırmızı, yeşil ve mavi ana renklerdir; kırmızı ile yeşil ışığın birleşimi sarı, üçünün birleşimi beyaz ışığı verir.",
+       "dogru": 0,
+       "bilgi": "Sarı ışık kırmızı ve yeşil ışıktan oluşur. Sarı cisim ikisini de yansıtıp sarı; yalnızca maviyi yansıtan cisim yansıtacak ışık bulamayıp siyah; yeşil ve maviyi yansıtan cyan cisim yalnızca yeşili yansıtıp yeşil görünür.",
        "sayfa": 366,
        "yil": "2019-TYT"
       }

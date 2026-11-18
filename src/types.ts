@@ -20,11 +20,31 @@ interface KartOrtak {
   yil?: string;
 }
 
+/** Soruya eşlik eden basit çizgi grafiği (ör. hız-zaman). Noktalar [x, y]. */
+export interface Grafik {
+  x: string;
+  y: string;
+  seriler: { ad?: string; n: [number, number][] }[];
+  /** Eksen işaretleri; verilmezse noktaların değerleri yazılır. ["t", "2t"] gibi sembolik etiketler için. */
+  xIsaret?: [number, string][];
+  yIsaret?: [number, string][];
+}
+
 export interface SecmeliKart extends KartOrtak {
   tur: "secmeli";
+  /** Durum, parça ya da bilgi metni ve soru kökü; paragraflar "\n" ile ayrılır. Son paragraf kök olarak kalın yazılır. */
   soru: string;
+  /** Öncüllü sorularda I, II, III… ifadeleri; varsa şıklar karıştırılmaz */
+  oncul?: string[];
+  /** Öncüllerden sonra gelen soru kökü: "yargılarından hangileri doğrudur?" */
+  kok?: string;
+  /** Tablo: ilk satır başlık */
+  tablo?: string[][];
+  grafik?: Grafik;
   secenekler: string[];
   dogru: number;
+  /** Şıklar verilen sırayla gösterilir (sayısal cevaplar, öncül şıkları) */
+  sirali?: boolean;
 }
 
 export interface DYKart extends KartOrtak {

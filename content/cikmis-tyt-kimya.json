@@ -23,27 +23,17 @@
      "kartlar": [
       {
        "id": "1.1-01",
-       "tur": "eslestir",
-       "yonerge": "Kimya disiplinlerini çalışma alanlarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Analitik kimya",
-         "Bir örnekteki maddelerin türünü ve miktarını belirleme"
-        ],
-        [
-         "Biyokimya",
-         "Canlılardaki kimyasal süreçler"
-        ],
-        [
-         "Polimer kimyası",
-         "Plastik ve kauçuk gibi büyük moleküllerin üretimi"
-        ],
-        [
-         "Organik kimya",
-         "Karbon bileşiklerinin yapısı ve tepkimeleri"
-        ]
+       "tur": "secmeli",
+       "soru": "Kimyanın bazı alt disiplinleri ile bu disiplinlerin çalışma alanına giren çalışmalar eşleştirilmiştir.\nBu eşleştirmelerden hangisi yanlıştır?",
+       "secenekler": [
+        "Alev testindeki renklerden bir su örneğinde hangi metallerin bulunduğunun belirlenmesi – Analitik kimya",
+        "Hücrede glikozun enerji elde etmek için parçalanma basamaklarının incelenmesi – Biyokimya",
+        "Isıya dayanıklı yeni bir plastik türünün geliştirilmesi – Polimer kimyası",
+        "Gübre ve boya gibi maddelerin büyük ölçekte ekonomik olarak üretilmesi – Analitik kimya",
+        "Bir tepkimede açığa çıkan ısının ve tepkime hızının incelenmesi – Fizikokimya"
        ],
-       "bilgi": "Alev renginden yararlanarak bir çözeltide hangi elementlerin bulunduğunu belirlemek analitik kimyanın konusudur.",
+       "dogru": 3,
+       "bilgi": "Kimyasal maddelerin büyük ölçekte ve ekonomik üretimi endüstriyel kimyanın konusudur. Bir örnekteki maddelerin türünü (ör. alev testiyle) ve miktarını belirlemek ise analitik kimyanın çalışma alanıdır.",
        "sayfa": 369,
        "yil": "2022-TYT"
       }
@@ -59,63 +49,94 @@
      "kartlar": [
       {
        "id": "1.2-01",
-       "tur": "eslestir",
-       "yonerge": "Elementleri sembolleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Magnezyum",
-         "Mg"
-        ],
-        [
-         "Mangan",
-         "Mn"
-        ],
-        [
-         "Potasyum",
-         "K"
-        ],
-        [
-         "Bakır",
-         "Cu"
-        ],
-        [
-         "Kurşun",
-         "Pb"
-        ]
+       "tur": "secmeli",
+       "soru": "Bir öğrenci bazı elementlerin adlarını ve sembollerini aşağıdaki gibi eşleştirmiştir.",
+       "oncul": [
+        "Mangan – Mg",
+        "Potasyum – K",
+        "Fosfor – F",
+        "Kurşun – Pb"
        ],
-       "bilgi": "Element sembolleri çoğunlukla Latince adlardan gelir: potasyum K (kalium), bakır Cu (cuprum), kurşun Pb (plumbum), cıva Hg, çinko Zn sembolüyle gösterilir.",
+       "kok": "Bu eşleştirmelerden hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "III ve IV",
+        "II ve IV"
+       ],
+       "dogru": 4,
+       "bilgi": "Mangan Mn, magnezyum Mg; fosfor P, flor F sembolüyle gösterilir. Potasyum (kalium) K, kurşun (plumbum) Pb, bakır (cuprum) Cu gibi sembollerin bir kısmı elementlerin Latince adlarından gelir.",
        "sayfa": 369,
        "yil": "2019-TYT"
       },
       {
        "id": "1.2-02",
-       "tur": "bosluk",
-       "cumle": "Sistematik adı azot trihidrür olan NH₃ bileşiğinin yaygın adı ___ olarak bilinir.",
-       "cevap": "amonyak",
-       "celdiriciler": [
-        "kezzap",
-        "tuz ruhu",
-        "sud kostik"
+       "tur": "secmeli",
+       "soru": "Bazı bileşiklerin formülleri, sistematik adları ve yaygın adları tabloda verilmiştir.\nTablodaki bileşiklerden hangisinin bilgilerinde hata vardır?",
+       "tablo": [
+        [
+         "Formül",
+         "Sistematik ad",
+         "Yaygın ad"
+        ],
+        [
+         "NH₃",
+         "Azot trihidrür",
+         "Amonyak"
+        ],
+        [
+         "HNO₃",
+         "Nitrik asit",
+         "Kezzap"
+        ],
+        [
+         "HCl",
+         "Hidroklorik asit",
+         "Tuz ruhu"
+        ],
+        [
+         "CaO",
+         "Kalsiyum oksit",
+         "Sönmüş kireç"
+        ],
+        [
+         "NaOH",
+         "Sodyum hidroksit",
+         "Sud kostik"
+        ]
        ],
-       "bilgi": "NH₃ amonyak, HNO₃ kezzap, HCl tuz ruhu, NaOH sud kostik, KOH potas kostik yaygın adlarıyla bilinir.",
+       "secenekler": [
+        "NH₃",
+        "HNO₃",
+        "HCl",
+        "CaO",
+        "NaOH"
+       ],
+       "dogru": 3,
+       "bilgi": "CaO sönmemiş kireçtir; suyla tepkimeye girerek sönmüş kireci, Ca(OH)₂'yi oluşturur. Kireç taşı CaCO₃'tür; üçünün yapısında da Ca ve O bulunur. KOH ise potas kostik olarak bilinir.",
        "sayfa": 369,
        "yil": "2021-TYT"
       },
       {
        "id": "1.2-03",
-       "tur": "dy",
-       "ifade": "Sönmüş kireç, sönmemiş kireç ve kireç taşının üçünün yapısında da kalsiyum ve oksijen bulunur.",
-       "dogru": true,
-       "bilgi": "Sönmemiş kireç CaO, sönmüş kireç Ca(OH)₂, kireç taşı ise CaCO₃ formülüne sahiptir.",
-       "sayfa": 369,
-       "yil": "2023-TYT"
-      },
-      {
-       "id": "1.2-04",
-       "tur": "dy",
-       "ifade": "Kimyasal yöntemlerle daha basit saf maddelere ayrıştırılabilen saf maddeler elementtir.",
-       "dogru": false,
-       "bilgi": "Element tek tür atom içerir ve kimyasal yollarla ayrıştırılamaz; NH₃ gibi bileşikler ise kimyasal yöntemlerle kendisini oluşturan elementlere ayrılabilir.",
+       "tur": "secmeli",
+       "soru": "X, Y ve Z saf maddeleriyle ilgili bazı bilgiler şöyledir:\nX: Isıtıldığında iki farklı gaza ayrışır.\nY: Molekülleri iki atomludur ve kimyasal yöntemlerle daha basit maddelere ayrıştırılamaz.\nZ: Tek tür atomdan oluşur ve molekül içermez.\nBuna göre,",
+       "oncul": [
+        "X bir bileşiktir.",
+        "Y'nin molekülleri farklı tür atomlardan oluşur.",
+        "Z bir elementtir."
+       ],
+       "kok": "yargılarından hangileri kesinlikle doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Isıtılınca farklı maddelere ayrışan saf madde bileşiktir. Kimyasal yollarla ayrıştırılamayan Y bir elementtir; molekülleri (O₂, N₂ gibi) aynı tür atomlardan oluşur. Tek tür atom içeren Z de elementtir.",
        "sayfa": 370,
        "yil": "2025-TYT"
       }
@@ -131,43 +152,25 @@
      "kartlar": [
       {
        "id": "1.3-01",
-       "tur": "eslestir",
-       "yonerge": "Güvenlik uyarı işaretlerindeki simgeleri anlamlarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Alev",
-         "Yanıcı madde"
-        ],
-        [
-         "Kurumuş ağaç ve ölü balık",
-         "Çevreye zararlı madde"
-        ],
-        [
-         "Kafatası ve çapraz kemikler",
-         "Toksik madde"
-        ],
-        [
-         "Ele ve yüzeye damlayan sıvı",
-         "Aşındırıcı (yakıcı) madde"
-        ]
+       "tur": "secmeli",
+       "soru": "Laboratuvardaki bir kimyasal maddenin etiketinde yalnızca iki uyarı işareti bulunmaktadır. Bunlardan birinde alev, diğerinde kurumuş bir ağaç ile ölü bir balık simgesi yer almaktadır.\nBu maddeyle ilgili,",
+       "oncul": [
+        "Isı kaynaklarından ve açık alevden uzak tutulmalıdır.",
+        "Seyreltildikten sonra lavaboya dökülerek atılabilir.",
+        "Deriye temas ettiğinde dokuları aşındırdığı bu işaretlerden anlaşılır."
        ],
-       "bilgi": "Kimyasal madde etiketlerindeki uyarı işaretleri maddenin yanıcı, toksik, aşındırıcı ya da çevreye zararlı olduğunu simgelerle gösterir.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Alev işareti yanıcılığı, kurumuş ağaç ve ölü balık işareti çevreye (özellikle sucul canlılara) zararlı olduğunu gösterir; bu yüzden lavaboya dökülmez. Aşındırıcılık ele ve yüzeye damlayan sıvı işaretiyle belirtilir.",
        "sayfa": 370,
        "yil": "2020-TYT"
-      },
-      {
-       "id": "1.3-02",
-       "tur": "bosluk",
-       "cumle": "Belirli hacimde ve derişimde çözelti hazırlamak için kullanılan, ince boynunda hacim çizgisi bulunan cam malzemeye ___ denir.",
-       "cevap": "balon joje",
-       "celdiriciler": [
-        "erlenmayer",
-        "beherglas",
-        "büret"
-       ],
-       "bilgi": "Seyreltme yapılırken derişik çözeltiden belirli hacim pipetle alınır, balon jojeye aktarılır ve hacim çizgisine kadar saf su eklenir.",
-       "sayfa": 370,
-       "yil": "2024-TYT"
       }
      ]
     },
@@ -181,10 +184,23 @@
      "kartlar": [
       {
        "id": "1.4-01",
-       "tur": "dy",
-       "ifade": "Rutherford atom modeline göre elektronlar orbital adı verilen bölgelerde bulunur.",
-       "dogru": false,
-       "bilgi": "Rutherford modeline göre pozitif yükler küçük bir çekirdekte toplanmıştır ve atom hacminin büyük kısmı boşluktur; orbital kavramı modern atom modeline aittir.",
+       "tur": "secmeli",
+       "soru": "Rutherford, çok ince bir altın levhayı pozitif yüklü alfa tanecikleriyle bombardıman etmiştir. Taneciklerin büyük çoğunluğunun levhadan sapmadan geçtiğini, çok az bir kısmının ise büyük açılarla saptığını ya da geri döndüğünü gözlemlemiştir.\nBu deneyin sonuçlarından,",
+       "oncul": [
+        "Atom hacminin büyük kısmı boşluktur.",
+        "Atomun pozitif yükü ve kütlesinin büyük kısmı küçük bir çekirdekte toplanmıştır.",
+        "Elektronlar çekirdek çevresinde orbital adı verilen bölgelerde bulunur."
+       ],
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Sapmadan geçen tanecikler atomun büyük kısmının boş olduğunu, geri dönenler pozitif yükün ve kütlenin küçük, yoğun bir çekirdekte toplandığını gösterir. Orbital kavramı bu deneyden değil, modern atom modelinden gelir.",
        "sayfa": 370,
        "yil": "2024-TYT"
       }
@@ -200,50 +216,72 @@
      "kartlar": [
       {
        "id": "1.5-01",
-       "tur": "bosluk",
-       "cumle": "Proton sayıları aynı, nötron sayıları farklı olan atomlara ___ denir.",
-       "cevap": "izotop",
-       "celdiriciler": [
-        "izoton",
-        "izobar",
-        "izoelektronik"
-       ],
-       "bilgi": "İzotop atomlar aynı elementin atomlarıdır; proton sayıları aynı, nötron sayıları ve dolayısıyla kütle numaraları farklıdır.",
-       "sayfa": 371,
-       "yil": "2019-TYT"
-      },
-      {
-       "id": "1.5-02",
-       "tur": "eslestir",
-       "yonerge": "Kavramları tanımlarıyla eşleştir.",
-       "ciftler": [
+       "tur": "secmeli",
+       "soru": "K, L, M ve N taneciklerinin proton, nötron ve elektron sayıları tabloda verilmiştir. Buna göre,",
+       "tablo": [
         [
-         "İzotop",
-         "Proton sayısı aynı, nötron sayısı farklı atomlar"
+         "Tanecik",
+         "Proton",
+         "Nötron",
+         "Elektron"
         ],
         [
-         "İzoton",
-         "Nötron sayısı aynı atomlar"
+         "K",
+         "8",
+         "8",
+         "10"
         ],
         [
-         "İzobar",
-         "Kütle numarası aynı atomlar"
+         "L",
+         "9",
+         "10",
+         "10"
         ],
         [
-         "İzoelektronik",
-         "Elektron sayısı ve dizilimi aynı tanecikler"
+         "M",
+         "11",
+         "12",
+         "10"
+        ],
+        [
+         "N",
+         "8",
+         "10",
+         "8"
         ]
        ],
-       "bilgi": "Bir atom, elektron kaybettiğinde ya da kazandığında başka bir taneciğin elektron sayısına eşitlenirse onunla izoelektronik olur.",
+       "oncul": [
+        "K ile N'nin kütle numaraları eşittir.",
+        "K, L ve M tanecikleri izoelektroniktir.",
+        "L ile N izoton taneciklerdir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "K, L ve M'nin 10'ar elektronu vardır (O²⁻, F⁻, Na⁺); izoelektroniktir. L ve N'de 10'ar nötron bulunur (izoton). K ile N aynı elementin izotoplarıdır; nötron sayıları farklı olduğundan kütle numaraları 16 ve 18'dir.",
        "sayfa": 371,
        "yil": "2023-TYT"
       },
       {
-       "id": "1.5-03",
-       "tur": "dy",
-       "ifade": "Bir atomun kütle numarası, proton ve elektron sayılarının toplamıdır.",
-       "dogru": false,
-       "bilgi": "Kütle numarası proton ve nötron sayılarının toplamıdır; nötr bir atomda elektron sayısı proton sayısına eşittir.",
+       "id": "1.5-02",
+       "tur": "secmeli",
+       "soru": "X²⁺ iyonunda 18 elektron ve 20 nötron bulunmaktadır. Y atomu X ile izoton olup kütle numarası 39'dur.\nBuna göre Y atomunun proton sayısı kaçtır?",
+       "secenekler": [
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+       ],
+       "sirali": true,
+       "dogru": 2,
+       "bilgi": "X²⁺ iki elektron vermiş olduğundan proton sayısı 18 + 2 = 20'dir. İzoton atomların nötron sayıları eşit olduğundan Y'de 20 nötron vardır. Kütle numarası proton ve nötron sayılarının toplamıdır: Y'nin proton sayısı 39 − 20 = 19.",
        "sayfa": 371,
        "yil": "2026-TYT"
       }
@@ -261,72 +299,97 @@
      "kartlar": [
       {
        "id": "1.6-01",
-       "tur": "dy",
-       "ifade": "Periyodik sistemde aynı periyotta soldan sağa doğru gidildikçe atom yarıçapı genellikle artar.",
-       "dogru": false,
-       "bilgi": "Aynı periyotta soldan sağa çekirdek yükü arttığından atom yarıçapı küçülür; iyonlaşma enerjisi ve elektronegatiflik ise genel olarak artar.",
+       "tur": "secmeli",
+       "soru": "Periyodik sistemin 3. periyodunda bulunan X, Y ve Z elementlerinin atom yarıçapları tabloda verilmiştir. Buna göre,",
+       "tablo": [
+        [
+         "Element",
+         "X",
+         "Y",
+         "Z"
+        ],
+        [
+         "Atom yarıçapı (pm)",
+         "143",
+         "186",
+         "99"
+        ]
+       ],
+       "oncul": [
+        "Atom numarası en büyük olan Z'dir.",
+        "Birinci iyonlaşma enerjisi en büyük olan Y'dir.",
+        "Y'nin metalik özelliği Z'ninkinden fazladır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Aynı periyotta soldan sağa çekirdek yükü arttığından atom yarıçapı küçülür; iyonlaşma enerjisi ve ametal özelliği genel olarak artar. Yarıçapı en büyük olan Y periyodun başında, en küçük olan Z sonundadır; Y'nin iyonlaşma enerjisi en küçüktür.",
        "sayfa": 371,
        "yil": "2018-TYT"
       },
       {
        "id": "1.6-02",
-       "tur": "bosluk",
-       "cumle": "Oda sıcaklığında gaz hâlinde bulunan ve kararlı elektron dizilimi nedeniyle tepkimeye girme eğilimi çok düşük olan elementlere ___ denir.",
-       "cevap": "soy gaz",
-       "celdiriciler": [
-        "halojen",
-        "toprak alkali metal",
-        "yarı metal"
+       "tur": "secmeli",
+       "soru": "Helyum atomunun tek katmanında 2 elektron bulunmasına karşın helyum, periyodik sistemde 2A grubunda değil 8A grubunda yer alır.\nHelyumla ilgili,",
+       "oncul": [
+        "Değerlik elektron sayısı ₁₂Mg ile aynıdır.",
+        "Elektron dizilimi kararlı olduğundan bileşik oluşturma eğilimi çok düşüktür.",
+        "Atom yarıçapı aynı periyottaki hidrojeninkinden büyüktür."
        ],
-       "bilgi": "Soy gazlar periyodun sonunda yer alır; aynı periyottaki metallere göre atom numaraları ve birinci iyonlaşma enerjileri büyük, atom yarıçapları küçüktür.",
-       "sayfa": 372,
-       "yil": "2019-TYT"
-      },
-      {
-       "id": "1.6-03",
-       "tur": "dy",
-       "ifade": "Metal atomları bileşik oluştururken elektron alarak negatif yüklü iyonlara dönüşür.",
-       "dogru": false,
-       "bilgi": "Metaller bileşik oluştururken elektron vererek pozitif yüklü iyonlara (katyon) dönüşür; elektron alma eğilimi ametallerin özelliğidir.",
-       "sayfa": 372,
-       "yil": "2020-TYT"
-      },
-      {
-       "id": "1.6-04",
-       "tur": "dy",
-       "ifade": "Helyum periyodik sistemin 8A grubunda yer almasına karşın en dış katmanında 2 elektron bulunur.",
-       "dogru": true,
-       "bilgi": "Helyumun tek katmanı 2 elektronla dolmuştur ve soy gaz olduğu için 8A grubundadır; bu yüzden değerlik elektron sayısı 2A grubundaki magnezyumla aynıdır.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Helyumun tek katmanı 2 elektronla dolmuştur; soy gaz olduğundan 8A grubundadır ve değerlik elektron sayısı Mg gibi 2'dir. Soy gazlar periyodun sonunda yer alır; yarıçapları küçük, iyonlaşma enerjileri büyüktür. He'nin yarıçapı H'ninkinden küçüktür.",
        "sayfa": 372,
        "yil": "2021-TYT"
       },
       {
-       "id": "1.6-05",
+       "id": "1.6-03",
        "tur": "secmeli",
-       "soru": "Baş grup elementlerinde bir elementin periyot numarasını aşağıdakilerden hangisi belirler?",
+       "soru": "Nötr atomlarının elektron dizilimleri\nX: 2 - 8 - 2\nY: 2 - 8 - 8 - 2\nZ: 2 - 8 - 7\nşeklinde olan X, Y ve Z elementleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
        "secenekler": [
-        "Son katmandaki elektron sayısı",
-        "Elektron bulunan katman sayısı",
-        "Nötron sayısı",
-        "Kütle numarası"
+        "X ile Y aynı gruptadır.",
+        "X ile Z aynı periyottadır.",
+        "Y'nin atom yarıçapı X'inkinden küçüktür.",
+        "Y, periyodik sistemin 4. periyodunda yer alır.",
+        "Z'nin değerlik elektron sayısı 7'dir."
        ],
-       "dogru": 1,
-       "bilgi": "Baş grup elementlerinde katman sayısı periyodu, son katmandaki elektron sayısı grubu belirler; bu yüzden 2-8-2 dizilimli Mg ile 2-8-8-2 dizilimli Ca aynı gruptadır.",
+       "dogru": 2,
+       "bilgi": "Baş grup elementlerinde katman sayısı periyodu, son katmandaki elektron sayısı grubu verir: X 3. periyot 2A, Y 4. periyot 2A, Z 3. periyot 7A grubundadır. Aynı grupta aşağı inildikçe katman sayısı arttığından Y'nin yarıçapı daha büyüktür.",
        "sayfa": 372,
        "yil": "2022-TYT"
       },
       {
-       "id": "1.6-06",
+       "id": "1.6-04",
        "tur": "secmeli",
-       "soru": "Atom numaraları 4, 12 ve 19 olan elementlerle ilgili hangisi doğrudur?",
-       "secenekler": [
-        "Üçü de metaldir",
-        "Üçü de aynı periyottadır",
-        "Üçü de aynı gruptadır",
-        "Üçü de ametaldir"
+       "soru": "Atom numaraları sırasıyla 4, 12 ve 19 olan X, Y ve Z elementleriyle ilgili,",
+       "oncul": [
+        "Üçü de metaldir.",
+        "Bileşiklerinde elektron vererek pozitif yüklü iyon oluştururlar.",
+        "X ile Y aynı gruptadır."
        ],
-       "dogru": 0,
-       "bilgi": "Berilyum ve magnezyum 2A, potasyum 1A grubunda yer alan metallerdir; sırasıyla 2., 3. ve 4. periyotta bulunurlar.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "X (Be) ve Y (Mg) 2A, Z (K) 1A grubundadır; üçü de metaldir. Metaller bileşiklerinde elektron vererek katyon oluşturur (Be²⁺, Mg²⁺, K⁺). Bu elementler sırasıyla 2., 3. ve 4. periyotta yer alır.",
        "sayfa": 373,
        "yil": "2025-TYT"
       }
@@ -345,70 +408,61 @@
      "kartlar": [
       {
        "id": "1.7-01",
-       "tur": "eslestir",
-       "yonerge": "Maddeleri yapılarındaki bağ türüyle eşleştir.",
-       "ciftler": [
-        [
-         "NaCl",
-         "İyonik bağ"
-        ],
-        [
-         "HCl",
-         "Polar kovalent bağ"
-        ],
-        [
-         "Cl₂",
-         "Apolar kovalent bağ"
-        ]
+       "tur": "secmeli",
+       "soru": "Bazı maddeler ve bu maddelerin yapısındaki atomlar arasında bulunan bağ türleri eşleştirilmiştir.\nBu eşleştirmelerden hangisi yanlıştır?",
+       "secenekler": [
+        "NaCl – İyonik bağ",
+        "HCl – Polar kovalent bağ",
+        "CaF₂ – Kovalent bağ",
+        "Cl₂ – Apolar kovalent bağ",
+        "Na – Metalik bağ"
        ],
-       "bilgi": "Metal ile ametal arasında iyonik bağ; farklı ametal atomları arasında polar kovalent, aynı ametal atomları arasında apolar kovalent bağ oluşur.",
-       "sayfa": 373,
-       "yil": "2018-TYT"
-      },
-      {
-       "id": "1.7-02",
-       "tur": "bosluk",
-       "cumle": "Bir metal ile bir ametal arasında elektron alışverişiyle oluşan bağa ___ bağ denir.",
-       "cevap": "iyonik",
-       "celdiriciler": [
-        "kovalent",
-        "metalik",
-        "hidrojen"
-       ],
-       "bilgi": "CaF₂ gibi metal–ametal bileşiklerinde iyonik bağ bulunur; HF ve H₂O'da kovalent, sodyum metalinde metalik, grafitte kovalent bağ vardır.",
+       "dogru": 2,
+       "bilgi": "CaF₂ bir metal (Ca) ile bir ametalden (F) oluştuğu için iyonik bağlıdır. Farklı ametal atomları arasında polar kovalent (HCl), aynı ametal atomları arasında apolar kovalent bağ (Cl₂) oluşur; metal atomları metalik bağla bağlanır.",
        "sayfa": 373,
        "yil": "2020-TYT"
       },
       {
-       "id": "1.7-03",
+       "id": "1.7-02",
        "tur": "secmeli",
-       "soru": "Metallerin aşağıdaki özelliklerinden hangisi elektron denizi modeliyle açıklanabilir?",
-       "secenekler": [
-        "Ametallerle tepkimeye girmeleri",
-        "Asitlerle hidrojen gazı oluşturmaları",
-        "Oksijenle paslanmaları",
-        "Tel ve levha hâline getirilebilmeleri"
+       "soru": "Metalik bağ, pozitif yüklü metal iyonları ile bunların arasında serbestçe hareket eden değerlik elektronları (elektron denizi) arasındaki çekim olarak açıklanır.\nBu modelle metallerin,",
+       "oncul": [
+        "katı ve sıvı hâlde elektriği iletmesi",
+        "dövülerek levha, çekilerek tel hâline getirilebilmesi",
+        "asit çözeltileriyle tepkimeye girerek hidrojen gazı oluşturması"
        ],
-       "dogru": 3,
-       "bilgi": "Serbestçe hareket eden değerlik elektronları metallerin elektriği iletmesini ve tel, levha hâline getirilebilmesini açıklar; tepkimeye girme ise kimyasal bir özelliktir.",
+       "kok": "özelliklerinden hangileri açıklanabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Serbest elektronlar yükü taşıdığı için metaller elektriği iletir; katmanlar kaysa da elektron denizi bağı koruduğundan metaller tel ve levha hâline gelebilir. Asitlerle H₂ oluşturma ise metalin aktifliğine bağlı kimyasal bir özelliktir.",
        "sayfa": 373,
        "yil": "2021-TYT"
       },
       {
-       "id": "1.7-04",
-       "tur": "dy",
-       "ifade": "Yalnızca ametal atomlarından oluşan moleküllerde atomlar arasındaki bağ iyonik bağdır.",
-       "dogru": false,
-       "bilgi": "Ametal atomları elektronlarını ortaklaşa kullanarak kovalent bağ kurar ve moleküller oluşturur; iyonik bağ genellikle metal ile ametal arasında oluşur.",
-       "sayfa": 374,
-       "yil": "2026-TYT"
-      },
-      {
-       "id": "1.7-05",
-       "tur": "dy",
-       "ifade": "S²⁻ iyonunun Lewis gösteriminde kükürt sembolünün çevresinde 8 nokta bulunur.",
-       "dogru": true,
-       "bilgi": "Kükürt atomunun 6 değerlik elektronu vardır; 2 elektron alarak oluşan S²⁻ iyonunda değerlik elektronu sayısı 8'e çıkar.",
+       "id": "1.7-03",
+       "tur": "secmeli",
+       "soru": "₁H, ₁₆S ve ₂₀Ca atomları arasında oluşan H₂S ve CaS bileşikleriyle ilgili,",
+       "oncul": [
+        "CaS'deki S²⁻ iyonunun Lewis gösteriminde kükürt sembolünün çevresinde 8 nokta bulunur.",
+        "H₂S'de kükürt, hidrojenlerden 2 elektron alarak S²⁻ iyonuna dönüşür.",
+        "CaS'de kalsiyum 2 elektron vererek soy gaz elektron dizilimine ulaşır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Kükürdün 6 değerlik elektronu vardır; 2 elektron alan S²⁻'de bu sayı 8 olur. CaS'de Ca elektron vererek Ca²⁺ olur (iyonik bağ). Yalnızca ametal atomlarından oluşan H₂S'de ise elektronlar ortaklaşa kullanılır (kovalent bağ), iyon oluşmaz.",
        "sayfa": 374,
        "yil": "2026-TYT"
       }
@@ -425,46 +479,64 @@
      "kartlar": [
       {
        "id": "1.8-01",
-       "tur": "bosluk",
-       "cumle": "N₂ gibi apolar moleküller arasında yalnızca ___ kuvvetleri bulunur.",
-       "cevap": "London",
-       "celdiriciler": [
-        "dipol-dipol",
-        "iyon-dipol",
-        "hidrojen bağı"
+       "tur": "secmeli",
+       "soru": "Bazı maddelerin 1 atm basınçtaki kaynama noktaları tabloda verilmiştir. Buna göre,",
+       "tablo": [
+        [
+         "Madde",
+         "H₂",
+         "HCl",
+         "Cl₂",
+         "H₂O"
+        ],
+        [
+         "Kaynama noktası (°C)",
+         "−253",
+         "−85",
+         "−34",
+         "100"
+        ]
        ],
-       "bilgi": "Azot molekülünde atomlar arasındaki kovalent bağ güçlü etkileşimdir; moleküller arasındaki London kuvvetleri ise zayıf etkileşimdir.",
-       "sayfa": 374,
-       "yil": "2019-TYT"
+       "oncul": [
+        "Cl₂'nin kaynama noktasının H₂'ninkinden yüksek olması, molekül büyüdükçe London kuvvetlerinin güçlenmesiyle açıklanır.",
+        "HCl molekülleri arasında dipol-dipol etkileşimleri de bulunur.",
+        "H₂O'nun kaynama noktasının yüksek olması, molekül içindeki O–H bağlarının güçlü olmasından kaynaklanır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Kaynamada molekül içi bağlar değil moleküller arası etkileşimler yenilir. H₂O'da hidrojen bağları, HCl'de dipol-dipol ve London, H₂ ile Cl₂'de yalnızca London kuvvetleri vardır; elektron sayısı fazla olan Cl₂'de London kuvvetleri daha güçlüdür.",
+       "sayfa": 375,
+       "yil": "2025-TYT"
       },
       {
        "id": "1.8-02",
        "tur": "secmeli",
-       "soru": "Tanecikleri arasında yalnızca London kuvvetleri bulunan madde hangisidir?",
-       "secenekler": [
-        "H₂O",
-        "HF",
+       "soru": "Sıvı ya da katı hâldeki,",
+       "oncul": [
         "Ne",
-        "HCl"
+        "N₂",
+        "HF",
+        "CO₂"
        ],
-       "dogru": 2,
-       "bilgi": "Soy gaz atomları ve apolar moleküller arasında yalnızca London kuvvetleri bulunur; H₂O ve HF gibi polar moleküller arasında dipol-dipol etkileşimleri ve hidrojen bağları da vardır.",
+       "kok": "maddelerinden hangilerinin tanecikleri arasında yalnızca London kuvvetleri etkindir?",
+       "secenekler": [
+        "I ve II",
+        "I ve IV",
+        "II ve III",
+        "I, II ve IV",
+        "II, III ve IV"
+       ],
+       "dogru": 3,
+       "bilgi": "Soy gaz atomları (Ne) ile apolar moleküller (N₂, CO₂) arasında yalnızca London kuvvetleri bulunur; N₂'deki güçlü N≡N kovalent bağı molekül içi bir etkileşimdir. Polar HF molekülleri arasında hidrojen bağları da vardır.",
        "sayfa": 375,
        "yil": "2024-TYT"
-      },
-      {
-       "id": "1.8-03",
-       "tur": "bosluk",
-       "cumle": "H₂O'nun kaynama noktasının benzer büyüklükteki moleküllerinkinden yüksek olmasının nedeni molekülleri arasındaki ___ bağlarıdır.",
-       "cevap": "hidrojen",
-       "celdiriciler": [
-        "iyonik",
-        "metalik",
-        "apolar kovalent"
-       ],
-       "bilgi": "H₂O'da hidrojen bağı, HCl'de dipol-dipol, H₂ ve Cl₂'de London kuvvetleri etkindir; London kuvvetleri molekül büyüdükçe güçlendiği için Cl₂ H₂'den yüksek sıcaklıkta kaynar.",
-       "sayfa": 375,
-       "yil": "2025-TYT"
       }
      ]
     },
@@ -478,10 +550,23 @@
      "kartlar": [
       {
        "id": "1.9-01",
-       "tur": "dy",
-       "ifade": "Katı karbondioksitin (kuru buz) doğrudan gaz hâline geçmesi kimyasal bir değişimdir.",
-       "dogru": false,
-       "bilgi": "Süblimleşme bir hâl değişimidir ve maddenin kimliğini değiştirmez; hidrojen ile klorun HCl oluşturması gibi yeni maddelerin oluştuğu olaylar kimyasal değişimdir.",
+       "tur": "secmeli",
+       "soru": "Aşağıda bazı olaylar verilmiştir.",
+       "oncul": [
+        "Kuru buzun (katı CO₂) oda koşullarında doğrudan gaza dönüşmesi",
+        "Hidrojen ve klor gazlarının ışık etkisiyle tepkimeye girerek HCl oluşturması",
+        "Sofra tuzunun (NaCl) suda çözünmesi"
+       ],
+       "kok": "Bu olaylardan hangilerinde maddenin kimliği değişir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Süblimleşme ve çözünme fiziksel değişimlerdir; maddelerin kimliği korunur. H₂ ile Cl₂'den farklı özelliklere sahip yeni bir madde (HCl) oluştuğu için bu olay kimyasal değişimdir.",
        "sayfa": 375,
        "yil": "2023-TYT"
       }
@@ -498,96 +583,286 @@
      "kartlar": [
       {
        "id": "1.10-01",
-       "tur": "dy",
-       "ifade": "Aynı sıcaklıkta buhar basıncı daha büyük olan sıvının kaynama sıcaklığı daha düşüktür.",
-       "dogru": true,
-       "bilgi": "Buhar basıncı büyük olan sıvı dış basınca daha düşük sıcaklıkta ulaşır, bu yüzden daha düşük sıcaklıkta kaynar; sıcaklık arttıkça buhar basıncı artar.",
+       "tur": "secmeli",
+       "soru": "X ve Y saf sıvılarının buhar basınçlarının sıcaklıkla değişimi grafikteki gibidir. Buna göre,",
+       "grafik": {
+        "x": "t (°C)",
+        "y": "P (mmHg)",
+        "seriler": [
+         {
+          "ad": "X",
+          "n": [
+           [
+            0,
+            70
+           ],
+           [
+            20,
+            185
+           ],
+           [
+            40,
+            420
+           ],
+           [
+            56,
+            760
+           ]
+          ]
+         },
+         {
+          "ad": "Y",
+          "n": [
+           [
+            0,
+            5
+           ],
+           [
+            20,
+            18
+           ],
+           [
+            40,
+            55
+           ],
+           [
+            60,
+            150
+           ],
+           [
+            80,
+            355
+           ],
+           [
+            100,
+            760
+           ]
+          ]
+         }
+        ],
+        "xIsaret": [
+         [
+          20,
+          "20"
+         ],
+         [
+          56,
+          "56"
+         ],
+         [
+          80,
+          "80"
+         ],
+         [
+          100,
+          "100"
+         ]
+        ],
+        "yIsaret": [
+         [
+          355,
+          "355"
+         ],
+         [
+          760,
+          "760"
+         ]
+        ]
+       },
+       "oncul": [
+        "Normal kaynama noktası daha yüksek olan X'tir.",
+        "Dış basıncın 355 mmHg olduğu bir yerde Y, 80 °C'de kaynar.",
+        "1 atm dış basınçta ve 70 °C'de X gaz hâlindedir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Sıvı, buhar basıncı dış basınca eşit olduğunda kaynar. X 760 mmHg'ye 56 °C'de, Y 100 °C'de ulaştığından normal kaynama noktası yüksek olan Y'dir. Dış basınç 355 mmHg'ye düşünce Y 80 °C'de kaynar; 1 atm'de 70 °C'deki X gazdır.",
        "sayfa": 376,
        "yil": "2018-TYT"
       },
       {
        "id": "1.10-02",
-       "tur": "bosluk",
-       "cumle": "Ağzı açık bir kaptaki sıvı, buhar basıncı ___ eşitlendiğinde kaynamaya başlar.",
-       "cevap": "atmosfer basıncına",
-       "celdiriciler": [
-        "sıvının yüzey gerilimine",
-        "sıvı sütununun basıncına",
-        "kaptaki sıvının ağırlığına"
+       "tur": "secmeli",
+       "soru": "Aynı sıcaklıkta bulunan su örnekleriyle ilgili bilgiler şöyledir:\nK: 1 L'lik kapalı kapta 50 mL su\nL: 2 L'lik kapalı kapta 200 mL su\nM: Ağzı açık, geniş bir kapta 200 mL su\nK ve L kaplarında sıvı-buhar dengesi kurulmuştur.\nBuna göre,",
+       "oncul": [
+        "K ve L kaplarındaki suyun denge buhar basınçları eşittir.",
+        "M'deki su, kaynama noktasının altında olduğu için buharlaşmaz.",
+        "M'deki su daha dar ağızlı bir kaba aktarılırsa buharlaşma hızı artar."
        ],
-       "bilgi": "Kaynama, sıvının buhar basıncının dış basınca eşit olduğu anda başlar; dış basınç azaldıkça kaynama sıcaklığı düşer.",
-       "sayfa": 376,
-       "yil": "2018-TYT"
-      },
-      {
-       "id": "1.10-03",
-       "tur": "dy",
-       "ifade": "Bir sıvının sıcaklığı düşürüldüğünde viskozitesi azalır.",
-       "dogru": false,
-       "bilgi": "Sıcaklık düştükçe tanecikler yavaşlar ve akmaya karşı direnç, yani viskozite artar.",
-       "sayfa": 376,
-       "yil": "2020-TYT"
-      },
-      {
-       "id": "1.10-04",
-       "tur": "dy",
-       "ifade": "Kapalı bir kapta sabit sıcaklıktaki bir sıvının denge buhar basıncı, kaba konan sıvı miktarı artırılırsa artar.",
-       "dogru": false,
-       "bilgi": "Denge buhar basıncı sıvının cinsine ve sıcaklığa bağlıdır; sıvı miktarından ve kabın hacminden bağımsızdır.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Denge buhar basıncı yalnızca sıvının cinsine ve sıcaklığa bağlıdır; sıvı miktarı ve kap hacmi onu değiştirmez. Sıvılar kaynama noktasının altında da buharlaşır; buharlaşma hızı yüzey alanı arttıkça artar, dar ağızlı kapta azalır.",
        "sayfa": 376,
        "yil": "2021-TYT"
       },
       {
-       "id": "1.10-05",
+       "id": "1.10-03",
        "tur": "secmeli",
-       "soru": "Oda sıcaklığında akmaya karşı en fazla direnç gösteren sıvı hangisidir?",
+       "soru": "Aynı sıcaklıkta, ayrı kapalı kaplarda bulunan dört saf sıvı örneğinin hacimleri ve denge buhar basınçları tabloda verilmiştir. Buna göre,",
+       "tablo": [
+        [
+         "Örnek",
+         "Sıvı hacmi (mL)",
+         "Buhar basıncı (mmHg)"
+        ],
+        [
+         "K",
+         "50",
+         "24"
+        ],
+        [
+         "L",
+         "100",
+         "24"
+        ],
+        [
+         "M",
+         "50",
+         "44"
+        ],
+        [
+         "N",
+         "20",
+         "44"
+        ]
+       ],
+       "oncul": [
+        "K ve L aynı cins sıvı olabilir.",
+        "K ile M kesinlikle farklı cins sıvılardır.",
+        "Aynı dış basınçta N'nin kaynama noktası K'ninkinden yüksektir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Su",
-        "Gliserin",
-        "Etil alkol",
-        "Aseton"
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
        ],
        "dogru": 1,
-       "bilgi": "Gliserin molekülleri arasındaki güçlü hidrojen bağları nedeniyle çok viskozdur; oda sıcaklığında etil alkolün viskozitesi de sudan biraz büyüktür.",
-       "sayfa": 377,
-       "yil": "2022-TYT"
-      },
-      {
-       "id": "1.10-06",
-       "tur": "bosluk",
-       "cumle": "Aynı sıcaklıktaki aynı cins iki sıvı örneğinden ___ büyük olan daha hızlı buharlaşır.",
-       "cevap": "yüzey alanı",
-       "celdiriciler": [
-        "bulunduğu kabın hacmi",
-        "sıvı derinliği",
-        "sıvı kütlesi"
-       ],
-       "bilgi": "Buharlaşma hızı sıvının yüzey alanı ve sıcaklığı arttıkça artar; sıvılar açık kapta kaynama noktasının altındaki her sıcaklıkta buharlaşabilir.",
-       "sayfa": 377,
-       "yil": "2024-TYT"
-      },
-      {
-       "id": "1.10-07",
-       "tur": "dy",
-       "ifade": "Tanecikleri arasındaki çekim kuvvetleri güçlü olan sıvıların viskozitesi genellikle daha büyüktür.",
-       "dogru": true,
-       "bilgi": "Aynı viskoziteye ulaşmak için daha yüksek sıcaklığa ısıtılması gereken sıvı, tanecikler arası etkileşimleri daha güçlü olan ve aynı koşulda daha viskoz olan sıvıdır.",
-       "sayfa": 377,
-       "yil": "2025-TYT"
-      },
-      {
-       "id": "1.10-08",
-       "tur": "bosluk",
-       "cumle": "Saf bir sıvının denge buhar basıncı yalnızca sıvının cinsine ve ___ bağlıdır.",
-       "cevap": "sıcaklığa",
-       "celdiriciler": [
-        "sıvı miktarına",
-        "kabın hacmine",
-        "sıvının yüzey alanına"
-       ],
-       "bilgi": "Aynı sıcaklıkta bulunan iki saf sıvının denge buhar basınçları farklıysa sıvıların cinsleri farklıdır.",
+       "bilgi": "Denge buhar basıncı sıvı miktarına bağlı olmadığından aynı sıcaklıkta eşit buhar basıncına sahip K ve L aynı sıvı olabilir; buhar basınçları farklı olan K ve M ise kesinlikle farklı sıvılardır. Buhar basıncı büyük olan N daha düşük sıcaklıkta kaynar.",
        "sayfa": 378,
        "yil": "2026-TYT"
+      },
+      {
+       "id": "1.10-04",
+       "tur": "secmeli",
+       "soru": "X ve Y sıvılarının viskozitelerinin sıcaklıkla değişimi grafikteki gibidir. Buna göre,",
+       "grafik": {
+        "x": "t (°C)",
+        "y": "Viskozite (mPa·s)",
+        "seriler": [
+         {
+          "ad": "X",
+          "n": [
+           [
+            20,
+            16
+           ],
+           [
+            40,
+            8
+           ],
+           [
+            60,
+            4
+           ],
+           [
+            80,
+            2
+           ]
+          ]
+         },
+         {
+          "ad": "Y",
+          "n": [
+           [
+            20,
+            4
+           ],
+           [
+            40,
+            2
+           ],
+           [
+            60,
+            1
+           ],
+           [
+            80,
+            0.5
+           ]
+          ]
+         }
+        ],
+        "xIsaret": [
+         [
+          20,
+          "20"
+         ],
+         [
+          40,
+          "40"
+         ],
+         [
+          60,
+          "60"
+         ],
+         [
+          80,
+          "80"
+         ]
+        ],
+        "yIsaret": [
+         [
+          2,
+          "2"
+         ],
+         [
+          4,
+          "4"
+         ],
+         [
+          8,
+          "8"
+         ],
+         [
+          16,
+          "16"
+         ]
+        ]
+       },
+       "oncul": [
+        "Sıcaklık düşürüldüğünde iki sıvının da viskozitesi azalır.",
+        "Aynı viskoziteye ulaşmak için X'in Y'den daha yüksek sıcaklığa ısıtılması gerekir.",
+        "Tanecikleri arasındaki çekim kuvvetleri daha güçlü olan X'tir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Sıcaklık düştükçe tanecikler yavaşlar ve viskozite artar. X'in 60 °C'deki viskozitesi Y'nin 20 °C'dekine eşittir; X aynı akıcılığa daha yüksek sıcaklıkta ulaşır. Bu, gliserindeki gibi tanecikler arası etkileşimlerinin daha güçlü olduğunu gösterir.",
+       "sayfa": 377,
+       "yil": "2025-TYT"
       }
      ]
     },
@@ -602,15 +877,49 @@
      "kartlar": [
       {
        "id": "1.11-01",
-       "tur": "bosluk",
-       "cumle": "Saf bir madde 1 atm basınçta erime noktası ile kaynama noktası arasındaki sıcaklıklarda ___ hâlde bulunur.",
-       "cevap": "sıvı",
-       "celdiriciler": [
-        "katı",
-        "gaz",
-        "katı-sıvı karışımı"
+       "tur": "secmeli",
+       "soru": "Bazı saf maddelerin 1 atm basınçtaki erime ve kaynama noktaları tabloda verilmiştir.\nBuna göre 1 atm basınçta aşağıdakilerden hangisi yanlıştır?",
+       "tablo": [
+        [
+         "Madde",
+         "Erime noktası (°C)",
+         "Kaynama noktası (°C)"
+        ],
+        [
+         "Cıva",
+         "−39",
+         "357"
+        ],
+        [
+         "Etanol",
+         "−114",
+         "78"
+        ],
+        [
+         "Brom",
+         "−7",
+         "59"
+        ],
+        [
+         "Oksijen",
+         "−218",
+         "−183"
+        ],
+        [
+         "Naftalin",
+         "80",
+         "218"
+        ]
        ],
-       "bilgi": "Katı ve sıvı yalnızca erime noktasında, sıvı ve gaz kaynama noktasında bir arada bulunur; örneğin cıva −39 °C ile 357 °C arasında sıvıdır.",
+       "secenekler": [
+        "−50 °C'de cıva katı hâldedir.",
+        "70 °C'de brom gaz hâlindedir.",
+        "−190 °C'de oksijen gaz hâlindedir.",
+        "25 °C'de naftalin katı hâldedir.",
+        "−100 °C'de etanol sıvı hâlde bulunur."
+       ],
+       "dogru": 2,
+       "bilgi": "Saf madde erime noktasının altında katı, erime ile kaynama noktası arasında sıvı, kaynama noktasının üzerinde gaz hâlindedir. Oksijen −218 °C'de erir, −183 °C'de kaynar; bu yüzden −190 °C'de sıvıdır.",
        "sayfa": 378,
        "yil": "2023-TYT"
       }
@@ -628,24 +937,40 @@
      "kartlar": [
       {
        "id": "1.12-01",
-       "tur": "dy",
-       "ifade": "Dalton atom kuramı kütlenin korunumu, sabit oranlar ve katlı oranlar kanunlarının üçünü de açıklayabilir.",
-       "dogru": true,
-       "bilgi": "Dalton'a göre atomlar tepkimelerde yok olmaz, bileşiklerde belirli tam sayı oranlarında birleşir; bu varsayımlar üç temel kanunu açıklar.",
-       "sayfa": 378,
-       "yil": "2018-TYT"
-      },
-      {
-       "id": "1.12-02",
-       "tur": "bosluk",
-       "cumle": "İki element birden fazla bileşik oluşturduğunda, birinin sabit kütlesiyle birleşen diğerinin kütleleri arasındaki küçük tam sayılı orana ___ denir.",
-       "cevap": "katlı oranlar kanunu",
-       "celdiriciler": [
-        "sabit oranlar kanunu",
-        "kütlenin korunumu kanunu",
-        "birleşen hacim oranları kanunu"
+       "tur": "secmeli",
+       "soru": "Azot ve oksijenden oluşan X ve Y bileşiklerindeki element kütleleri tabloda verilmiştir. X'in formülü NO olduğuna göre,",
+       "tablo": [
+        [
+         "Bileşik",
+         "Azot kütlesi (g)",
+         "Oksijen kütlesi (g)"
+        ],
+        [
+         "X",
+         "7",
+         "8"
+        ],
+        [
+         "Y",
+         "14",
+         "40"
+        ]
        ],
-       "bilgi": "Katlı oranlar kanunu SO₂ ile SO₃ gibi aynı elementlerden oluşan farklı bileşikler için geçerlidir; aynı bileşiğin iki örneği bu kanuna uymaz.",
+       "oncul": [
+        "Eşit kütlede azotla birleşen oksijen kütlelerinin X'teki ve Y'deki oranı 2/5'tir.",
+        "Y'nin formülü N₂O₅'tir.",
+        "Bu sonuç, atomların bileşiklerde küçük tam sayı oranlarında birleştiğini öne süren Dalton atom kuramıyla açıklanabilir."
+       ],
+       "kok": "yargılarından hangileri doğrudur? (N: 14, O: 16)",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Aynı miktar (7 g) azotla X'te 8 g, Y'de 20 g oksijen birleşir; oran 2/5 olduğundan katlı oranlar kanunu sağlanır. Y'de mol oranı N : O = 1 : 2,5 = 2 : 5'tir (N₂O₅). Dalton kuramı kütlenin korunumu, sabit oranlar ve katlı oranlar kanunlarını açıklar.",
        "sayfa": 379,
        "yil": "2022-TYT"
       }
@@ -661,26 +986,25 @@
      "kartlar": [
       {
        "id": "1.13-01",
-       "tur": "bosluk",
-       "cumle": "Normal şartlarda ideal davranan 1 mol gaz ___ hacim kaplar.",
-       "cevap": "22,4 L",
-       "celdiriciler": [
-        "11,2 L",
-        "24,5 L",
-        "1 L"
+       "tur": "secmeli",
+       "soru": "Normal koşullarda 6,72 L hacim kaplayan C₂H₆ gazıyla ilgili,",
+       "oncul": [
+        "0,3 moldür.",
+        "Kütlesi 4,5 gramdır.",
+        "Toplam 1,44·10²⁴ tane atom içerir."
        ],
-       "bilgi": "Normal şartlarda (0 °C, 1 atm) ideal davranan her gazın 1 molü, gazın cinsinden bağımsız olarak 22,4 litre hacim kaplar.",
+       "kok": "yargılarından hangileri doğrudur? (H: 1, C: 12; Avogadro sayısı: 6·10²³)",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Normal koşullarda 1 mol ideal gaz 22,4 L hacim kaplar: 6,72/22,4 = 0,3 mol. C₂H₆'nın mol kütlesi 30 g/mol olduğundan kütle 9 g'dır. Her molekülde 8 atom bulunur: 0,3 · 8 = 2,4 mol atom, yani 2,4 · 6·10²³ = 1,44·10²⁴ tane.",
        "sayfa": 379,
        "yil": "2023-TYT"
-      },
-      {
-       "id": "1.13-02",
-       "tur": "dy",
-       "ifade": "1 mol madde, cinsi ne olursa olsun Avogadro sayısı kadar tanecik içerir.",
-       "dogru": true,
-       "bilgi": "Bir mol, Avogadro sayısı (yaklaşık 6,02 × 10²³) kadar tanecik içeren madde miktarıdır; bir moleküldeki atom sayısı bilinirse toplam atom sayısı da bulunur.",
-       "sayfa": 379,
-       "yil": "2024-TYT"
       }
      ]
     },
@@ -695,24 +1019,86 @@
      "kartlar": [
       {
        "id": "1.14-01",
-       "tur": "bosluk",
-       "cumle": "Bir tepkimede tamamen tükenerek oluşabilecek en fazla ürün miktarını belirleyen tepkene ___ denir.",
-       "cevap": "sınırlayıcı bileşen",
-       "celdiriciler": [
-        "katalizör",
-        "artan madde",
-        "ara ürün"
+       "tur": "secmeli",
+       "soru": "Kapalı bir kapta bulunan 0,4 mol N₂ gazına H₂ gazı yavaş yavaş eklenerek\nN₂(g) + 3H₂(g) → 2NH₃(g)\ntepkimesi tam verimle gerçekleştiriliyor. Oluşan NH₃'ün mol sayısının eklenen H₂'nin mol sayısıyla değişimi grafikteki gibidir. Buna göre,",
+       "grafik": {
+        "x": "Eklenen H₂ (mol)",
+        "y": "NH₃ (mol)",
+        "seriler": [
+         {
+          "n": [
+           [
+            0,
+            0
+           ],
+           [
+            1.2,
+            0.8
+           ],
+           [
+            2,
+            0.8
+           ]
+          ]
+         }
+        ],
+        "xIsaret": [
+         [
+          0.6,
+          "0,6"
+         ],
+         [
+          1.2,
+          "1,2"
+         ],
+         [
+          2,
+          "2,0"
+         ]
+        ],
+        "yIsaret": [
+         [
+          0.4,
+          "0,4"
+         ],
+         [
+          0.8,
+          "0,8"
+         ]
+        ]
+       },
+       "oncul": [
+        "1,2 mol H₂ eklendiğinde kaptaki N₂'nin tamamı harcanmıştır.",
+        "2,0 mol H₂ eklendiğinde tepkimenin sınırlayıcı bileşeni H₂'dir.",
+        "2,0 mol H₂ eklendiğinde kapta toplam 1,2 mol gaz bulunur."
        ],
-       "bilgi": "Tepkenler denklemdeki oranlarda bulunmuyorsa önce tükenen madde sınırlayıcı bileşendir; diğer tepkenin bir kısmı artar.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "0,4 mol N₂, 1,2 mol H₂ ile tükenir ve 0,8 mol NH₃ oluşur; sonra eklenen H₂ artar. 2,0 mol H₂ eklendiğinde sınırlayıcı bileşen N₂'dir; kapta 0,8 mol NH₃ ve 0,8 mol artan H₂, yani toplam 1,6 mol gaz bulunur.",
        "sayfa": 379,
        "yil": "2021-TYT"
       },
       {
        "id": "1.14-02",
-       "tur": "dy",
-       "ifade": "Bir tepkimede elde edilen ürün miktarı teorik olarak hesaplanan miktarın yarısı kadarsa tepkime %50 verimle gerçekleşmiştir.",
-       "dogru": true,
-       "bilgi": "Yüzde verim, gerçekte elde edilen ürün miktarının tepkenlerin tamamı tepkimeye girseydi oluşacak miktara oranıyla belirlenir.",
+       "tur": "secmeli",
+       "soru": "Kireç taşının ısıtılmasıyla\nCaCO₃(k) → CaO(k) + CO₂(g)\ntepkimesi gerçekleşiyor. 50 g CaCO₃ ısıtıldığında 16,8 g CaO elde ediliyor.\nBuna göre tepkimenin verimi yüzde kaçtır? (C: 12, O: 16, Ca: 40)",
+       "secenekler": [
+        "33,6",
+        "40",
+        "60",
+        "75",
+        "80"
+       ],
+       "sirali": true,
+       "dogru": 2,
+       "bilgi": "50 g CaCO₃ 0,5 moldür; tamamı ayrışsaydı 0,5 mol (28 g) CaO oluşurdu. Yüzde verim, elde edilen ürünün teorik ürüne oranıdır: 16,8/28 · 100 = %60. 16,8/50 oranı ise farklı maddelerin kütlelerini karşılaştırır.",
        "sayfa": 380,
        "yil": "2025-TYT"
       }
@@ -731,54 +1117,107 @@
      "kartlar": [
       {
        "id": "1.15-01",
-       "tur": "dy",
-       "ifade": "Apolar bir sıvı olan heksan, polar su ile karıştırıldığında homojen bir karışım oluşturur.",
-       "dogru": false,
-       "bilgi": "Benzer benzeri çözer: polar maddeler polar, apolar maddeler apolar çözücülerde iyi çözünür; etanol suyla homojen, heksan ve CCl₄ suyla heterojen karışım oluşturur.",
+       "tur": "secmeli",
+       "soru": "Oda koşullarında karıştırılan,",
+       "oncul": [
+        "Heksan – su",
+        "İyot (I₂) – karbon tetraklorür (CCl₄)",
+        "Karbon tetraklorür (CCl₄) – su"
+       ],
+       "kok": "madde çiftlerinden hangileri homojen karışım oluşturur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Benzer benzeri çözer: apolar I₂ apolar CCl₄'te çözünerek homojen karışım oluşturur; polar etanol de suyla homojen karışır. Apolar heksan ve CCl₄ polar suyla karışmaz, heterojen karışım oluşturur.",
        "sayfa": 380,
        "yil": "2018-TYT"
       },
       {
        "id": "1.15-02",
-       "tur": "dy",
-       "ifade": "Doymuş bir tuz çözeltisine eklenen tuz çözünmeden dibe çökerse çözeltinin donmaya başlama sıcaklığı daha da düşer.",
-       "dogru": false,
-       "bilgi": "Donma noktası alçalması çözünmüş tanecik derişimine bağlıdır; doymuş çözeltiye eklenip çözünmeyen tuz donma sıcaklığını değiştirmez.",
-       "sayfa": 381,
-       "yil": "2020-TYT"
-      },
-      {
-       "id": "1.15-03",
        "tur": "secmeli",
-       "soru": "Eşit kütlede suda 1'er mol çözünen aşağıdaki maddelerden hangisinin oluşturduğu çözeltinin kaynama noktası en yüksektir?",
-       "secenekler": [
-        "Glikoz",
-        "KNO₃",
-        "CaCl₂",
-        "Üre"
+       "soru": "Eşit kütlede su kullanılarak hazırlanan K, L ve M sulu çözeltilerinde çözünen maddeler ve miktarları tabloda verilmiştir.\nAynı dış basınçta bu çözeltilerin kaynamaya başlama sıcaklıkları arasındaki ilişki aşağıdakilerden hangisidir?",
+       "tablo": [
+        [
+         "Çözelti",
+         "Çözünen madde",
+         "Çözünen miktarı (mol)"
+        ],
+        [
+         "K",
+         "C₆H₁₂O₆ (glikoz)",
+         "0,3"
+        ],
+        [
+         "L",
+         "KNO₃",
+         "0,2"
+        ],
+        [
+         "M",
+         "CaCl₂",
+         "0,15"
+        ]
        ],
-       "dogru": 2,
-       "bilgi": "Kaynama noktası yükselmesi çözünen tanecik sayısıyla artar; suda 3 iyon veren CaCl₂, 2 iyon veren KNO₃'ten ve moleküler çözünen glikoz ile üreden daha etkilidir.",
+       "secenekler": [
+        "K > L > M",
+        "K = L > M",
+        "L > K > M",
+        "M > K > L",
+        "M > L > K"
+       ],
+       "dogru": 4,
+       "bilgi": "Kaynama noktası yükselmesi çözünen tanecik sayısına bağlıdır. Glikoz moleküler çözünür (0,3 mol tanecik); KNO₃ 2 iyon (0,4 mol), CaCl₂ 3 iyon (0,45 mol) verir. Tanecik sayısı en fazla olan M en yüksek sıcaklıkta kaynamaya başlar.",
        "sayfa": 381,
        "yil": "2021-TYT"
       },
       {
-       "id": "1.15-04",
-       "tur": "dy",
-       "ifade": "Bir çözeltiye saf su eklenerek seyreltildiğinde çözünen maddenin miktarı azalır.",
-       "dogru": false,
-       "bilgi": "Seyreltmede çözünen madde miktarı değişmez; çözelti hacmi arttığı için derişim azalır.",
-       "sayfa": 382,
-       "yil": "2022-TYT"
+       "id": "1.15-03",
+       "tur": "secmeli",
+       "soru": "Uçucu olmayan NaCl'nin doymamış sulu çözeltisiyle sabit sıcaklıkta yapılan işlemlerle ilgili,",
+       "oncul": [
+        "Çözeltiye su eklenirse donmaya başlama sıcaklığı yükselir.",
+        "Çözeltide bir miktar daha NaCl çözülürse kaynamaya başlama sıcaklığı yükselir.",
+        "Çözelti doygun hâle geldikten sonra eklenen ve çözünmeden dibe çöken NaCl, donmaya başlama sıcaklığını daha da düşürür."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Donma noktası düşmesi ve kaynama noktası yükselmesi çözünmüş tanecik derişimine bağlıdır. Su eklemek derişimi azaltır ve donma sıcaklığını yükseltir; tuz çözmek derişimi artırır. Doygun çözeltide çözünmeyen tuz derişimi değiştirmez.",
+       "sayfa": 381,
+       "yil": "2020-TYT"
       },
       {
-       "id": "1.15-05",
-       "tur": "dy",
-       "ifade": "Uçucu olmayan bir maddenin sulu çözeltisine su eklendiğinde çözeltinin donmaya başlama sıcaklığı yükselir.",
-       "dogru": true,
-       "bilgi": "Çözünen tanecik derişimi arttıkça donma noktası düşer; su eklemek derişimi azalttığı için donma sıcaklığı saf suyunkine yaklaşır.",
+       "id": "1.15-04",
+       "tur": "secmeli",
+       "soru": "Derişimi 0,6 M olan 50 mL NaOH çözeltisi 250 mL'lik bir balon jojeye aktarılıyor ve hacim çizgisine kadar saf su ekleniyor.\nOluşan çözeltiyle ilgili,",
+       "oncul": [
+        "Çözünmüş NaOH'un mol sayısı azalmıştır.",
+        "Derişimi 0,12 M'dır.",
+        "pH değeri seyreltmeden öncekine göre artmıştır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Seyreltmede çözünenin mol sayısı değişmez: 0,6 · 0,05 = 0,03 mol NaOH. Yeni derişim 0,03/0,25 = 0,12 M'dır. Bazik çözelti seyreltildikçe OH⁻ derişimi azalır, pH 7'ye yaklaşarak düşer. Hassas hacimli çözelti balon jojede hazırlanır.",
        "sayfa": 382,
-       "yil": "2025-TYT"
+       "yil": "2022-TYT"
       }
      ]
     },
@@ -790,27 +1229,17 @@
      "kartlar": [
       {
        "id": "1.16-01",
-       "tur": "eslestir",
-       "yonerge": "Ayırma yöntemlerini dayandıkları fiziksel özellikle eşleştir.",
-       "ciftler": [
-        [
-         "Diyaliz",
-         "Tanecik boyutu"
-        ],
-        [
-         "Yüzdürme",
-         "Yoğunluk"
-        ],
-        [
-         "Basit damıtma",
-         "Kaynama noktası"
-        ],
-        [
-         "Özütleme",
-         "Çözünürlük"
-        ]
+       "tur": "secmeli",
+       "soru": "Böbrekleri yeterince çalışmayan hastalarda kan, yarı geçirgen zarlardan oluşan bir düzenekten geçirilir. Üre gibi küçük tanecikler zardan geçerek kandan uzaklaştırılırken kan hücreleri ve proteinler gibi büyük tanecikler kanda kalır.\nBu ayırma işleminin dayandığı özellik farkı, aşağıdaki ayırma yöntemlerinden hangisinde de temel alınır?",
+       "secenekler": [
+        "Süzme",
+        "Basit damıtma",
+        "Ayırma hunisiyle ayırma",
+        "Özütleme",
+        "Kristallendirme"
        ],
-       "bilgi": "Diyaliz yarı geçirgen zardan geçebilen küçük taneciklerin büyüklerden ayrılmasına, yani tanecik boyutu farkına dayanır.",
+       "dogru": 0,
+       "bilgi": "Diyaliz tanecik boyutu farkına dayanır; süzmede de büyük katı tanecikler süzgecin gözeneklerinden geçemez. Basit damıtma kaynama noktası, ayırma hunisi yoğunluk, özütleme ve kristallendirme çözünürlük farkına dayanır.",
        "sayfa": 383,
        "yil": "2023-TYT"
       }
@@ -827,27 +1256,48 @@
      "kartlar": [
       {
        "id": "1.17-01",
-       "tur": "dy",
-       "ifade": "Bir sulu çözeltinin elektriği iletmesi, onun asit mi baz mı olduğunu anlamak için yeterlidir.",
-       "dogru": false,
-       "bilgi": "Asit ve baz çözeltilerinin ikisi de iyon içerdiği için elektriği iletir; ayırt etmek için turnusol kâğıdı ya da pH ölçümü kullanılır.",
+       "tur": "secmeli",
+       "soru": "X, Y ve Z maddelerinin sulu çözeltileriyle yapılan deneylerin sonuçları tabloda verilmiştir. Buna göre,",
+       "tablo": [
+        [
+         "Çözelti",
+         "Elektrik iletkenliği",
+         "Turnusol kâğıdına etkisi"
+        ],
+        [
+         "X",
+         "İletir",
+         "Maviyi kırmızıya çevirir"
+        ],
+        [
+         "Y",
+         "İletir",
+         "Kırmızıyı maviye çevirir"
+        ],
+        [
+         "Z",
+         "İletmez",
+         "Renk değişimi yok"
+        ]
+       ],
+       "oncul": [
+        "X'in çözeltisinin pH değeri 7'den küçüktür.",
+        "Y, amonyak (NH₃) olabilir.",
+        "İletkenlik ölçümü, X ve Y'nin asit mi baz mı olduğunu ayırt etmek için yeterlidir.",
+        "Z, şeker (C₁₂H₂₂O₁₁) olabilir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "I ve II",
+        "I, II ve IV",
+        "I, III ve IV",
+        "II, III ve IV",
+        "I, II, III ve IV"
+       ],
+       "dogru": 1,
+       "bilgi": "Asit ve baz çözeltilerinin ikisi de iyon içerdiğinden elektriği iletir; ayırt etmek için turnusol ya da pH ölçümü gerekir. NH₃ suda OH⁻ oluşturarak bazik çözelti verir. Şeker moleküler çözündüğünden çözeltisi elektriği iletmez.",
        "sayfa": 383,
        "yil": "2022-TYT"
-      },
-      {
-       "id": "1.17-02",
-       "tur": "secmeli",
-       "soru": "Suda çözündüğünde çözeltinin pH değerini 7'nin üzerine çıkaran gaz hangisidir?",
-       "secenekler": [
-        "CO₂",
-        "SO₂",
-        "NO₂",
-        "NH₃"
-       ],
-       "dogru": 3,
-       "bilgi": "NH₃ suda OH⁻ derişimini artırarak bazik çözelti oluşturur ve kırmızı turnusolu maviye çevirir; CO₂ ise sudaki çözeltisini asidik yapar.",
-       "sayfa": 383,
-       "yil": "2023-TYT"
       }
      ]
     },
@@ -862,85 +1312,107 @@
      "kartlar": [
       {
        "id": "1.18-01",
-       "tur": "dy",
-       "ifade": "Bakır metali hidroklorik asitle tepkimeye girmezken nitrik asitle tepkimeye girer.",
-       "dogru": true,
-       "bilgi": "Bakır gibi yarı soy metaller HCl ile hidrojen gazı oluşturmaz, HNO₃ gibi oksijenli asitlerle ise tepkimeye girer; bu fark iki asidi ayırt etmede kullanılabilir.",
+       "tur": "secmeli",
+       "soru": "X, Y ve Z metallerinin bazı çözeltilerle etkileşimine ait gözlemler tabloda verilmiştir.\nBuna göre X, Y ve Z metalleri sırasıyla aşağıdakilerden hangisinde verilenler olabilir?",
+       "tablo": [
+        [
+         "Metal",
+         "HCl çözeltisi",
+         "NaOH çözeltisi",
+         "Derişik HNO₃"
+        ],
+        [
+         "X",
+         "H₂ gazı çıkar",
+         "H₂ gazı çıkar",
+         "Tepkime verir"
+        ],
+        [
+         "Y",
+         "Tepkime vermez",
+         "Tepkime vermez",
+         "Tepkime verir"
+        ],
+        [
+         "Z",
+         "Tepkime vermez",
+         "Tepkime vermez",
+         "Tepkime vermez"
+        ]
+       ],
+       "secenekler": [
+        "Zn – Cu – Au",
+        "Fe – Cu – Au",
+        "Zn – Au – Cu",
+        "Mg – Ag – Pt",
+        "Cu – Zn – Au"
+       ],
+       "dogru": 0,
+       "bilgi": "X hem asitle hem kuvvetli bazla H₂ oluşturduğundan amfoterdir (Zn, Al, Sn). Y, HCl ile tepkime vermeyip HNO₃ ile tepkimeye girdiğinden yarı soy metaldir (Cu, Ag). Z, HNO₃ ile de tepkime vermeyen soy metaldir (Au, Pt).",
        "sayfa": 384,
        "yil": "2020-TYT"
       },
       {
        "id": "1.18-02",
-       "tur": "bosluk",
-       "cumle": "Bir asit ile bir bazın tepkimesinden tuz ve su oluşmasına ___ tepkimesi denir.",
-       "cevap": "nötralleşme",
-       "celdiriciler": [
-        "yanma",
-        "çözünme",
-        "ayrışma"
+       "tur": "secmeli",
+       "soru": "0,2 mol H₂SO₄ içeren sulu çözeltiye 0,3 mol KOH içeren sulu çözelti ekleniyor.\nOluşan karışımla ilgili,",
+       "oncul": [
+        "Ortam asidiktir.",
+        "Tepkimede 0,4 mol H₂O oluşmuştur.",
+        "Ortamın tamamen nötralleşmesi için 0,1 mol daha KOH gerekir."
        ],
-       "bilgi": "H₂SO₄ ile KOH tepkimesinde olduğu gibi asitteki H⁺ ile bazdaki OH⁻ iyonları birleşerek su oluşturur; geriye tuz kalır.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "H₂SO₄ + 2KOH → K₂SO₄ + 2H₂O denklemine göre 0,2 mol H₂SO₄ 0,4 mol KOH ile tamamen nötralleşir. 0,3 mol OH⁻ ile 0,3 mol H₂O oluşur; 0,1 mol H⁺ arttığı için ortam asidiktir.",
        "sayfa": 384,
        "yil": "2020-TYT"
       },
       {
        "id": "1.18-03",
-       "tur": "dy",
-       "ifade": "Amfoter metaller yalnızca kuvvetli asitlerle tepkimeye girer, kuvvetli bazlarla tepkime vermez.",
-       "dogru": false,
-       "bilgi": "Çinko, alüminyum ve kalay gibi amfoter metaller hem kuvvetli asitlerle hem de kuvvetli bazlarla tepkimeye girerek hidrojen gazı açığa çıkarır.",
-       "sayfa": 384,
-       "yil": "2021-TYT"
-      },
-      {
-       "id": "1.18-04",
-       "tur": "dy",
-       "ifade": "Hidrojen florürün sulu çözeltisi camı aşındırdığı için cam şişelerde saklanmaz.",
-       "dogru": true,
-       "bilgi": "HF çözeltisi asidiktir (pH < 7), camı aşındırır, NaOH ile tuz ve su oluşturur, aktif metallerle H₂ gazı açığa çıkarır.",
-       "sayfa": 385,
-       "yil": "2024-TYT"
-      },
-      {
-       "id": "1.18-05",
        "tur": "secmeli",
-       "soru": "Aşağıdaki metallerden hangisi amfoter özellik gösterir?",
+       "soru": "Bakır ve kalaydan oluşan 119 g'lık bir bronz örneği yeterli miktarda NaOH çözeltisine atılıyor. Örnekteki kalay\nSn(k) + 2NaOH(suda) → Na₂SnO₂(suda) + H₂(g)\ntepkimesine göre tamamen tepkimeye girerken normal koşullarda 4,48 L H₂ gazı açığa çıkıyor.\nBuna göre bronz örneğindeki kalayın kütlece yüzdesi kaçtır? (Sn: 119)",
        "secenekler": [
-        "Kalay",
-        "Bakır",
-        "Altın",
-        "Gümüş"
+        "10",
+        "20",
+        "25",
+        "40",
+        "80"
        ],
-       "dogru": 0,
-       "bilgi": "Kalay amfoter bir metaldir; bu yüzden kalay içeren bir alaşım hem HCl hem de NaOH çözeltisiyle H₂ gazı oluşturabilir.",
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "4,48/22,4 = 0,2 mol H₂ için 0,2 mol Sn (23,8 g) harcanır: 23,8/119 · 100 = %20. Kalay amfoter olduğundan hem asitlerle hem kuvvetli bazlarla H₂ oluşturur; bakır NaOH ile tepkime vermez.",
        "sayfa": 385,
        "yil": "2025-TYT"
       },
       {
-       "id": "1.18-06",
-       "tur": "eslestir",
-       "yonerge": "Metalleri tepkimeye girme eğilimlerine göre sınıflarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Kalsiyum",
-         "Aktif metal"
-        ],
-        [
-         "Altın",
-         "Soy metal"
-        ],
-        [
-         "Alüminyum",
-         "Amfoter metal"
-        ],
-        [
-         "Bakır",
-         "Yarı soy metal"
-        ]
+       "id": "1.18-04",
+       "tur": "secmeli",
+       "soru": "Hidrojen florürün sulu çözeltisi camın yapısındaki silisyum dioksitle tepkimeye girdiğinden cam süsleme ve aşındırma işlerinde kullanılır.\nHF çözeltisiyle ilgili,",
+       "oncul": [
+        "Cam şişelerde saklanmamalıdır.",
+        "NaOH çözeltisiyle tepkimesinden tuz ve su oluşur.",
+        "Kırmızı turnusol kâğıdını maviye çevirir.",
+        "Magnezyum metaliyle tepkimesinden H₂ gazı açığa çıkar."
        ],
-       "bilgi": "Aktif metaller asitlerle H₂ oluşturur, soy metaller nitrik asitle bile tepkime vermez, amfoter metaller hem asit hem kuvvetli baz çözeltileriyle tepkimeye girer.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "I ve II",
+        "II ve III",
+        "I, II ve III",
+        "I, II ve IV",
+        "II, III ve IV"
+       ],
+       "dogru": 3,
+       "bilgi": "HF çözeltisi asidiktir (pH < 7): mavi turnusolu kırmızıya çevirir, NaOH ile tuz ve su oluşturur, aktif metallerle H₂ açığa çıkarır. Camı aşındırdığı için plastik kaplarda saklanır.",
        "sayfa": 385,
-       "yil": "2026-TYT"
+       "yil": "2024-TYT"
       }
      ]
     },
@@ -954,27 +1426,17 @@
      "kartlar": [
       {
        "id": "1.19-01",
-       "tur": "eslestir",
-       "yonerge": "Polimerleri yaygın kullanım alanlarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Politetrafloroeten (PTFE)",
-         "Yapışmaz tava kaplaması"
-        ],
-        [
-         "Polivinil klorür (PVC)",
-         "Su borusu ve pencere doğraması"
-        ],
-        [
-         "Polietilen tereftalat (PET)",
-         "İçecek şişesi"
-        ],
-        [
-         "Polistiren (PS)",
-         "Köpük ambalaj malzemesi"
-        ]
+       "tur": "secmeli",
+       "soru": "Bir polimerle ilgili şu bilgiler veriliyor:\nMonomeri tetrafloroetendir (CF₂=CF₂).\nErime noktası yüksektir ve kimyasal maddelere karşı çok dayanıklıdır.\nYüzeyine maddeler yapışmaz.\nBu polimerin en uygun kullanım alanı aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Yapışmaz tava kaplaması",
+        "İçme suyu boruları",
+        "Gazlı içecek şişeleri",
+        "Köpük ambalaj malzemeleri",
+        "Esnek market poşetleri"
        ],
-       "bilgi": "Teflon olarak da bilinen PTFE, erime noktası çok yüksek ve kimyasal etkilere dayanıklı olduğu için tencere ve tavaların iç yüzeyini kaplamada kullanılır.",
+       "dogru": 0,
+       "bilgi": "Tetrafloroetenin polimeri PTFE (teflon) ısıya ve kimyasallara dayanıklı, yapışmaz bir yüzey oluşturduğundan tava kaplamasında kullanılır. Su borusunda PVC, içecek şişesinde PET, köpük ambalajda polistiren, poşette polietilen kullanılır.",
        "sayfa": 385,
        "yil": "2019-TYT"
       }

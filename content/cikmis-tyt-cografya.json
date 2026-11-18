@@ -22,52 +22,41 @@
      "kartlar": [
       {
        "id": "1.1-01",
-       "tur": "eslestir",
-       "yonerge": "Fiziki coğrafyanın alt dallarını inceleme konularıyla eşleştir.",
-       "ciftler": [
-        [
-         "Klimatoloji",
-         "İklim özellikleri ve dağılışı"
-        ],
-        [
-         "Hidrografya",
-         "Yeryüzündeki sular"
-        ],
-        [
-         "Biyocoğrafya",
-         "Canlıların dağılışı"
-        ],
-        [
-         "Kartografya",
-         "Harita yapım teknikleri"
-        ]
+       "tur": "secmeli",
+       "soru": "Bir araştırmacının Türkiye'de incelediği aşağıdaki konulardan",
+       "oncul": [
+        "Doğu Anadolu'da kar örtüsünün yerde kalma süresinin batı kesimlere göre uzun olması",
+        "Ege kıyılarında yaz kuraklığının süresinin kuzeyden güneye doğru uzaması",
+        "Toros Dağları'nda kireç taşlarının çözünmesiyle karstik şekillerin oluşması"
        ],
-       "bilgi": "Sıcaklık farkları, kar örtüsünün süresi ve sulama ihtiyacı gibi iklime bağlı özellikler klimatolojinin konusudur.",
+       "kok": "hangileri klimatolojinin inceleme alanına girer?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Kar örtüsünün süresi ve yaz kuraklığının uzunluğu sıcaklık ve yağış koşullarına bağlı olduğundan klimatolojinin konusudur. Karstik şekillerin oluşumu ise yer şekillerini inceleyen jeomorfolojinin alanına girer.",
        "sayfa": 165,
        "yil": "2018-TYT"
       },
       {
        "id": "1.1-02",
-       "tur": "dy",
-       "ifade": "Bitki coğrafyası, beşerî coğrafyanın alt dallarından biridir.",
-       "dogru": false,
-       "bilgi": "Bitki coğrafyası fiziki coğrafyaya aittir; nüfus, siyasi ve turizm coğrafyası ise beşerî coğrafyanın alt dallarıdır.",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki araştırma konularından hangisi beşerî coğrafyanın alt dallarından birinin inceleme alanına girer?",
+       "secenekler": [
+        "Akdeniz kıyılarında maki formasyonunun yayılış alanı",
+        "Karstik arazilerde dolin ve uvalaların oluşum süreci",
+        "Göller Yöresi'ndeki göllerin su seviyesindeki mevsimlik değişim",
+        "Kıyı turizminin gelişmesinde ulaşım ağının rolü",
+        "Karadeniz kıyılarında yıllık yağışın doğuya doğru artması"
+       ],
+       "dogru": 3,
+       "bilgi": "Turizm coğrafyası; nüfus ve siyasi coğrafya gibi beşerî coğrafyanın alt dallarındandır. Maki (bitki coğrafyası), dolin (jeomorfoloji), göller (hidrografya) ve yağış (klimatoloji) fiziki coğrafyanın konularıdır.",
        "sayfa": 165,
        "yil": "2019-TYT"
-      },
-      {
-       "id": "1.1-03",
-       "tur": "bosluk",
-       "cumle": "Delikli karst ve kuleli karst gibi yer şekillerinin oluşumunu, gelişimini ve dağılışını inceleyen coğrafya alt dalına ___ denir.",
-       "cevap": "jeomorfoloji",
-       "celdiriciler": [
-        "klimatoloji",
-        "oseanografya",
-        "kartografya"
-       ],
-       "bilgi": "Jeomorfoloji yer şekillerini inceler; yan yana çok sayıda dolinin bulunduğu alanlara delikli karst, koni biçimli karstik tepelere kuleli karst denir.",
-       "sayfa": 165,
-       "yil": "2022-TYT"
       }
      ]
     },
@@ -81,19 +70,50 @@
      "kartlar": [
       {
        "id": "1.2-01",
-       "tur": "dy",
-       "ifade": "21 Mart'ta Ekvator'daki bir yerde gündüz süresi, orta kuşaktaki bir yerden daha uzundur.",
-       "dogru": false,
-       "bilgi": "21 Mart ve 23 Eylül ekinokslarında Güneş ışınları Ekvator'a dik düşer ve Dünya'nın her yerinde gece ile gündüz süreleri eşit olur.",
-       "sayfa": 165,
-       "yil": "2021-TYT"
-      },
-      {
-       "id": "1.2-02",
-       "tur": "dy",
-       "ifade": "Kuzey Yarım Küre'de 21 Aralık'tan sonra gündüz süreleri uzamaya başlar.",
-       "dogru": true,
-       "bilgi": "21 Aralık Kuzey Yarım Küre'de en uzun gecenin yaşandığı tarihtir; bu tarihten 21 Haziran'a kadar gündüzler uzar.",
+       "tur": "secmeli",
+       "soru": "Tabloda aynı gün dört merkezde gerçekleşen gündüz süreleri verilmiştir. Bu gün, L'de yılın en kısa gündüzünün yaşandığı gündür.\nBuna göre,",
+       "tablo": [
+        [
+         "Merkez",
+         "Enlem",
+         "Gündüz süresi"
+        ],
+        [
+         "K",
+         "0°",
+         "12 sa 00 dk"
+        ],
+        [
+         "L",
+         "40° Kuzey",
+         "9 sa 10 dk"
+        ],
+        [
+         "M",
+         "40° Güney",
+         "14 sa 50 dk"
+        ],
+        [
+         "N",
+         "60° Kuzey",
+         "5 sa 30 dk"
+        ]
+       ],
+       "oncul": [
+        "Ölçümler 21 Aralık'ta yapılmıştır.",
+        "Aynı gün M'de yılın en uzun gündüzü yaşanmaktadır.",
+        "Ölçüm gününden üç ay sonra N'deki gündüz süresi K'dekinden uzun olur."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "L Kuzey Yarım Küre'de olduğundan yılın en kısa gündüzü 21 Aralık'tır; bu tarihten sonra kuzeyde gündüzler uzar. Aynı gün Güney Yarım Küre'de (M) en uzun gündüz yaşanır. Üç ay sonra, 21 Mart'ta her yerde gece ve gündüz eşittir.",
        "sayfa": 165,
        "yil": "2021-TYT"
       }
@@ -110,10 +130,17 @@
      "kartlar": [
       {
        "id": "1.3-01",
-       "tur": "dy",
-       "ifade": "Birbirinden çok uzak iki ülkenin konumunu, aralarındaki mesafeyi ve aradaki ülkeleri birlikte görmek için dünya siyasi haritası kullanılmalıdır.",
-       "dogru": true,
-       "bilgi": "Geniş bir alanı bütün olarak göstermek için küçük ölçekli haritalar kullanılır; tek bir ülke ya da bölge haritası uzak ülkeleri birlikte göstermez.",
+       "tur": "secmeli",
+       "soru": "Bir öğrenci, Fas ile Japonya'nın konumlarını, iki ülke arasındaki uzaklığı ve aralarında yer alan ülkeleri tek bir harita üzerinde birlikte görmek istemektedir.\nBu öğrencinin amacına en uygun harita ve bu haritanın özelliği aşağıdakilerin hangisinde birlikte verilmiştir?",
+       "secenekler": [
+        "Dünya siyasi haritası – Ayrıntıları az gösterir",
+        "Japonya siyasi haritası – Ayrıntıları çok gösterir",
+        "Asya fiziki haritası – Bozulma oranı azdır",
+        "Afrika siyasi haritası – Ölçeği büyüktür",
+        "Dünya siyasi haritası – Ölçeği büyüktür"
+       ],
+       "dogru": 0,
+       "bilgi": "Birbirine uzak ülkeleri ve aradaki ülkeleri birlikte göstermek için dünya siyasi haritası gibi küçük ölçekli bir harita gerekir. Ölçek küçüldükçe gösterilen alan genişler, ayrıntı azalır ve bozulma artar.",
        "sayfa": 166,
        "yil": "2022-TYT"
       }
@@ -131,70 +158,125 @@
      "kartlar": [
       {
        "id": "1.4-01",
-       "tur": "eslestir",
-       "yonerge": "Atmosfer katmanlarını özellikleriyle eşleştir.",
-       "ciftler": [
+       "tur": "secmeli",
+       "soru": "Tabloda, orta kuşaktaki bir istasyondan bırakılan sonda balonunun farklı yükseltilerde ölçtüğü sıcaklıklar verilmiştir.\nBuna göre,",
+       "tablo": [
         [
-         "Troposfer",
-         "Su buharının neredeyse tamamını içerir, yukarı çıkıldıkça soğur"
+         "Yükselti (m)",
+         "0",
+         "2.000",
+         "4.000",
+         "6.000",
+         "8.000"
         ],
         [
-         "Stratosfer",
-         "Ozon tabakasının yer aldığı katman"
-        ],
-        [
-         "İyonosfer",
-         "Gazların iyonlaşmasıyla radyo dalgalarını yansıtır"
+         "Sıcaklık (°C)",
+         "18",
+         "5",
+         "−8",
+         "−21",
+         "−34"
         ]
        ],
-       "bilgi": "Hava olaylarının yaşandığı troposferde su buharının neredeyse tamamı bulunur ve sıcaklık genel olarak yukarı doğru düşer.",
+       "oncul": [
+        "Ölçümler, su buharının neredeyse tamamının bulunduğu katmanda yapılmıştır.",
+        "Sıcaklık her 100 metrede ortalama 0,65 °C azalmıştır.",
+        "Ölçüm yapılan katmanda sıcaklığın azalmasının nedeni ozon yoğunluğunun artmasıdır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Troposfer orta kuşakta yaklaşık 11-12 km'ye uzanır; su buharının neredeyse tamamı buradadır. Atmosfer yerden ısındığından sıcaklık her 2.000 m'de 13 °C, yani 100 m'de 0,65 °C düşmüştür. Ozon tabakası ise stratosferdedir.",
        "sayfa": 166,
        "yil": "2020-TYT"
       },
       {
        "id": "1.4-02",
-       "tur": "dy",
-       "ifade": "Akdeniz ikliminin görüldüğü alanlar, dünyadaki turunçgil üretim alanlarıyla büyük ölçüde örtüşür.",
-       "dogru": true,
-       "bilgi": "Kışları ılık ve yağışlı, yazları sıcak ve kurak geçen Akdeniz iklimi turunçgil yetiştiriciliğine uygundur.",
+       "tur": "secmeli",
+       "soru": "Tabloda farklı kıtalarda bulunan K, L ve M istasyonlarına ait bazı iklim verileri verilmiştir.\nBu istasyonlarda görülen iklim tipleri sırasıyla aşağıdakilerin hangisinde doğru verilmiştir?",
+       "tablo": [
+        [
+         "İstasyon",
+         "En soğuk ay (°C)",
+         "En sıcak ay (°C)",
+         "Yıllık yağış (mm)",
+         "En yağışlı mevsim"
+        ],
+        [
+         "K",
+         "11",
+         "27",
+         "620",
+         "Kış"
+        ],
+        [
+         "L",
+         "−26",
+         "7",
+         "250",
+         "Yaz"
+        ],
+        [
+         "M",
+         "26",
+         "28",
+         "2.400",
+         "Yıl boyunca"
+        ]
+       ],
+       "secenekler": [
+        "Akdeniz – Tundra – Ekvatoral",
+        "Akdeniz – Sert karasal – Ekvatoral",
+        "Okyanusal – Tundra – Savan",
+        "Akdeniz – Tundra – Muson",
+        "Çöl – Sert karasal – Ekvatoral"
+       ],
+       "dogru": 0,
+       "bilgi": "Kışı ılık ve yağışlı K'de Akdeniz iklimi görülür; bu iklimin alanları turunçgil üretim alanlarıyla örtüşür. En sıcak ayı 10 °C'nin altında kalan L'de yosun ve likenlerin yetiştiği tundra, her mevsim sıcak ve yağışlı M'de ekvatoral iklim vardır.",
        "sayfa": 166,
        "yil": "2021-TYT"
       },
       {
        "id": "1.4-03",
-       "tur": "bosluk",
-       "cumle": "Kuzey Buz Denizi kıyılarında, kutup dairesi çevresinde görülen ve kısa yazlarda yosun ile likenlerin yetiştiği iklim ___ iklimidir.",
-       "cevap": "tundra",
-       "celdiriciler": [
-        "sert karasal",
-        "okyanusal",
-        "çöl"
+       "tur": "secmeli",
+       "soru": "Atmosferi bulunmayan Ay'ın yüzeyinde gündüz sıcaklığı 120 °C'ye yaklaşırken gece −170 °C'nin altına düşmektedir. Ay'ın yüzeyi ayrıca gök taşlarının açtığı sayısız kraterle kaplıdır.\nBu bilgilerden yola çıkılarak Dünya'daki atmosferin işlevleriyle ilgili aşağıdakilerden hangisine ulaşılamaz?",
+       "secenekler": [
+        "Gece ile gündüz arasındaki sıcaklık farkını azalttığına",
+        "Gök taşlarının büyük bölümünün yeryüzüne ulaşmasını engellediğine",
+        "Gündüzleri yeryüzünün aşırı ısınmasını önlediğine",
+        "Gece ile gündüzün oluşmasını sağladığına",
+        "Yeryüzündeki ısının uzaya hızla kaçmasını önlediğine"
        ],
-       "bilgi": "Tundra iklimi Kuzey Yarım Küre'de kutup dairesi çevresindeki kıyı kesimlerinde görülür; tundra alanları ayrı bir doğal bölge oluşturur.",
-       "sayfa": 167,
-       "yil": "2022-TYT"
-      },
-      {
-       "id": "1.4-04",
-       "tur": "dy",
-       "ifade": "Atmosfer, Güneş enerjisinin hiç tutulmadan doğrudan yeryüzüne ulaşmasını sağlar.",
-       "dogru": false,
-       "bilgi": "Atmosfer Güneş ışınlarının bir kısmını tutar ve yansıtır; ayrıca canlılar için gerekli gazları sağlar ve gök taşlarının büyük bölümünü yeryüzüne ulaşmadan yakar.",
+       "dogru": 3,
+       "bilgi": "Ay'daki büyük sıcaklık farkı ve kraterler, atmosferin Güneş ışınlarının bir kısmını tutup yansıttığını, ısı kaybını yavaşlattığını ve gök taşlarını yaktığını gösterir. Gece ile gündüz ise Dünya'nın kendi ekseni etrafında dönmesiyle oluşur.",
        "sayfa": 167,
        "yil": "2024-TYT"
       },
       {
-       "id": "1.4-05",
+       "id": "1.4-04",
        "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi sıcaklığı etkilediği hâlde Güneş ışınlarının yere düşme açısını değiştirmeyen bir faktördür?",
-       "secenekler": [
-        "Enlem",
-        "Okyanus akıntıları",
-        "Bakı",
-        "Eksen eğikliği"
+       "soru": "Aşağıdaki durumlardan",
+       "oncul": [
+        "Kuzey Yarım Küre'de aynı enlem ve yükseltideki iki yamaçtan güneye bakanın kuzeye bakandan daha sıcak olması",
+        "Norveç kıyılarının, aynı enlemdeki Sibirya kıyılarına göre kışın daha ılık geçmesi",
+        "Ekvator'dan kutuplara doğru yıllık ortalama sıcaklığın genel olarak azalması"
        ],
-       "dogru": 1,
-       "bilgi": "Güneş ışınlarının geliş açısını Dünya'nın şekli, eksen eğikliği, Dünya'nın hareketleri ve yer şekilleri etkiler; okyanus akıntıları sıcaklığı başka yolla etkiler.",
+       "kok": "hangileri Güneş ışınlarının yere düşme açısındaki farklılıkla açıklanabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Bakı ve enlem, ışınların geliş açısını değiştirerek sıcaklığı etkiler. Norveç kıyılarının kışın ılık olması ise sıcak su akıntısının (Golf Stream) etkisidir; okyanus akıntıları sıcaklığı etkilediği hâlde ışınların geliş açısını değiştirmez.",
        "sayfa": 167,
        "yil": "2025-TYT"
       }
@@ -212,24 +294,33 @@
      "kartlar": [
       {
        "id": "1.5-01",
-       "tur": "bosluk",
-       "cumle": "Obruk, dolin, uvala ve polye gibi çözünme çanaklarının sularla dolmasıyla oluşan göllere ___ göller denir.",
-       "cevap": "karstik",
-       "celdiriciler": [
-        "tektonik",
-        "volkanik",
-        "buzul"
+       "tur": "secmeli",
+       "soru": "Bir bölgede yüzeydeki akarsuların kısa mesafede yer altına çekildiği, yan yana sıralanmış çok sayıda çukurluğun bulunduğu görülmektedir. Bu çukurlukların bir kısmı zamanla suyla dolarak küçük göller oluşturmuştur.\nBu bölgeyle ilgili aşağıdakilerden hangisi söylenebilir?",
+       "secenekler": [
+        "Göller, fay hatları boyunca çöken alanlarda oluşmuştur.",
+        "Göllerin oluşumunda kimyasal çözünme etkili olmuştur.",
+        "Bölgede volkanik kayaçlar yaygındır.",
+        "Çukurlukları buzulların aşındırması oluşturmuştur.",
+        "Göller, heyelanların vadileri kapatmasıyla oluşmuştur."
        ],
-       "bilgi": "Karstik göller, suda kolay çözünen kayaçların, özellikle kireç taşının yaygın olduğu alanlarda oluşur.",
+       "dogru": 1,
+       "bilgi": "Akarsuların yer altına çekilmesi ve yan yana dizilen çözünme çukurları (dolin, uvala), kireç taşı gibi kolay çözünen kayaçların yaygın olduğu karstik arazileri gösterir. Bu çanakların suyla dolmasıyla karstik göller oluşur.",
        "sayfa": 168,
        "yil": "2020-TYT"
       },
       {
        "id": "1.5-02",
-       "tur": "dy",
-       "ifade": "Peribacaları ve kırgıbayırlar, bitki örtüsünün zayıf olduğu alanlarda dönemlik akarsuların aşındırmasıyla oluşur.",
-       "dogru": true,
-       "bilgi": "Peribacası ve kırgıbayırlar kurak ve yarı kurak, bitki örtüsü zayıf, kolay aşınan kayaçların bulunduğu alanlarda gelişir.",
+       "tur": "secmeli",
+       "soru": "Peribacaları ve kırgıbayırlar; bitki örtüsünün zayıf olduğu, kolay aşınan kayaçların bulunduğu yamaçlarda sağanak yağışlar ve dönemlik akarsuların aşındırmasıyla oluşur.\nBu yer şekillerinin Türkiye'de aşağıdaki yörelerin hangisinde görülmesi beklenmez?",
+       "secenekler": [
+        "Nevşehir – Ürgüp çevresi",
+        "Erzurum – Narman çevresi",
+        "Manisa – Kula çevresi",
+        "Rize – Çayeli çevresi",
+        "Aksaray – Selime çevresi"
+       ],
+       "dogru": 3,
+       "bilgi": "Peribacaları ve kırgıbayırlar yarı kurak, bitki örtüsü zayıf alanlarda gelişir; Kapadokya (Ürgüp, Selime), Narman ve Kula bu yörelerdendir. Her mevsim bol yağış alan ve sık bitki örtüsüyle kaplı Doğu Karadeniz yamaçlarında bu şekiller oluşmaz.",
        "sayfa": 168,
        "yil": "2023-TYT"
       }
@@ -246,19 +337,55 @@
      "kartlar": [
       {
        "id": "1.6-01",
-       "tur": "dy",
-       "ifade": "Türkiye'deki göllerin tamamı tektonik hareketlerle oluşmuştur.",
-       "dogru": false,
-       "bilgi": "Türkiye'de tektonik göllerin yanında volkanik, karstik, set ve buzul gölleri de vardır; göller ülke geneline dengeli dağılmamıştır.",
-       "sayfa": 169,
-       "yil": "2021-TYT"
-      },
-      {
-       "id": "1.6-02",
-       "tur": "dy",
-       "ifade": "Türkiye'de göllerin yükseltisi genel olarak batıdan doğuya doğru artar.",
-       "dogru": true,
-       "bilgi": "Türkiye'nin yükseltisi batıdan doğuya arttığı için göllerin yükseltisi de genellikle doğuya doğru artar; Van Gölü gibi bazı göllerde taşımacılık yapılır.",
+       "tur": "secmeli",
+       "soru": "Tabloda Türkiye'deki bazı göllerin bulunduğu iller ve yükseltileri verilmiştir.\nTabloya ve bilgilerinize göre,",
+       "tablo": [
+        [
+         "Göl",
+         "İl",
+         "Yükselti (m)"
+        ],
+        [
+         "Sapanca",
+         "Sakarya",
+         "31"
+        ],
+        [
+         "Eğirdir",
+         "Isparta",
+         "917"
+        ],
+        [
+         "Tuz Gölü",
+         "Ankara-Konya-Aksaray",
+         "905"
+        ],
+        [
+         "Van",
+         "Van-Bitlis",
+         "1.648"
+        ],
+        [
+         "Çıldır",
+         "Ardahan-Kars",
+         "1.959"
+        ]
+       ],
+       "oncul": [
+        "Göllerin yükseltisi genel olarak batıdan doğuya doğru artmaktadır.",
+        "Tablodaki göllerin tamamı tektonik hareketlerle oluşmuştur.",
+        "Tablodaki göllerden yüz ölçümü en büyük olanı, en yüksekte bulunanıdır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Türkiye'nin yükseltisi batıdan doğuya arttığından göllerin yükseltisi de genelde doğuya doğru artar. Van ve Çıldır volkanik set gölüdür. En büyük göl, üzerinde feribotla taşımacılık yapılan Van Gölü'dür; en yüksekteki ise Çıldır'dır.",
        "sayfa": 169,
        "yil": "2021-TYT"
       }
@@ -274,15 +401,17 @@
      "kartlar": [
       {
        "id": "1.7-01",
-       "tur": "bosluk",
-       "cumle": "Yıl boyunca yeşil kalan, dünyanın en sık ve orman altı florası en zengin bitki formasyonu ___ ormanlarıdır.",
-       "cevap": "tropikal yağmur",
-       "celdiriciler": [
-        "tayga",
-        "Akdeniz",
-        "muson"
+       "tur": "secmeli",
+       "soru": "Yıl boyunca yeşil kalan, ağaçları 50 metreyi aşabilen ve birkaç kat oluşturan bir bitki formasyonunda ağaçlar ışığa ulaşmak için yarışmakta, orman altında ise çok sayıda bitki türü bulunmaktadır.\nBu bitki formasyonuyla ilgili aşağıdakilerden hangisi söylenemez?",
+       "secenekler": [
+        "Yıllık sıcaklık farkının az olduğu alanlarda yayılış gösterir.",
+        "Her mevsim bol yağış alan alanlarda gelişir.",
+        "Amazon ve Kongo havzalarında geniş alan kaplar.",
+        "Ağaçları kurak mevsimde yapraklarını dökerek su kaybını azaltır.",
+        "Tür çeşitliliği, dünyadaki diğer orman formasyonlarından fazladır."
        ],
-       "bilgi": "Ekvator çevresindeki tropikal yağmur ormanlarında uzun boylu ve ışık isteği yüksek ağaçlar bulunur, bitkiler yılın her döneminde hızla gelişir.",
+       "dogru": 3,
+       "bilgi": "Betimlenen formasyon Ekvator çevresindeki tropikal yağmur ormanlarıdır; sürekli yüksek sıcaklık ve yağış nedeniyle bitkiler yıl boyunca gelişir. Kurak mevsimde yaprak dökme ise muson ormanları gibi kurak dönemi olan alanların bitkilerine özgüdür.",
        "sayfa": 170,
        "yil": "2025-TYT"
       }
@@ -300,68 +429,89 @@
      "kartlar": [
       {
        "id": "1.8-01",
-       "tur": "dy",
-       "ifade": "Hızlı nüfus artışı, bir ülkede beslenme ve işsizlik sorunlarını artırabilir.",
-       "dogru": true,
-       "bilgi": "Hızlı nüfus artışı beslenme, işsizlik ve altyapı sorunlarına yol açar; yaşlı nüfus oranının artması ise yavaş nüfus artışının sonucudur.",
-       "sayfa": 170,
-       "yil": "2018-TYT"
-      },
-      {
-       "id": "1.8-02",
-       "tur": "bosluk",
-       "cumle": "Nüfusunun ortalama yaşı çok düşük olan bir ülkede ___ oranının yüksek olduğu söylenebilir.",
-       "cevap": "doğum",
-       "celdiriciler": [
-        "yaşlı nüfus",
-        "kentleşme",
-        "okuryazarlık"
+       "tur": "secmeli",
+       "soru": "Tabloda K, L ve M ülkelerinin ortanca yaşları verilmiştir.\nBuna göre aşağıdakilerden hangisi söylenebilir?",
+       "tablo": [
+        [
+         "Ülke",
+         "Ortanca yaş"
+        ],
+        [
+         "K",
+         "16"
+        ],
+        [
+         "L",
+         "31"
+        ],
+        [
+         "M",
+         "48"
+        ]
        ],
-       "bilgi": "Ortalama yaşın düşük olması genç nüfusun fazla olduğunu, bu da doğum oranının yüksek olduğunu gösterir.",
+       "secenekler": [
+        "K'de yaşlı nüfusun toplam nüfus içindeki oranı L'dekinden fazladır.",
+        "L'nin nüfus piramidinin tabanı K'nin nüfus piramidininkinden geniştir.",
+        "M'de doğum oranının K'dekinden yüksek olması beklenir.",
+        "İşsizlik ve beslenme sorunlarının en çok K'de görülmesi beklenir.",
+        "M'de çocuk nüfusun oranı L'dekinden fazladır."
+       ],
+       "dogru": 3,
+       "bilgi": "Ortanca yaşın düşük olması genç nüfusun ve doğum oranının yüksek olduğunu gösterir; hızlı nüfus artışı K gibi ülkelerde beslenme, işsizlik ve altyapı sorunlarına yol açar. Ortanca yaşı en yüksek M'de yaşlı oranı fazla, çocuk oranı azdır.",
        "sayfa": 170,
        "yil": "2019-TYT"
       },
       {
-       "id": "1.8-03",
-       "tur": "dy",
-       "ifade": "Tek bir yıla ait nüfus piramidinden ülkenin yıllık nüfus artış hızı doğrudan okunabilir.",
-       "dogru": false,
-       "bilgi": "Nüfus piramidi yaş gruplarına ve cinsiyete göre nüfus oranlarını gösterir; yıllık nüfus artış hızı için farklı yılların verileri gerekir.",
+       "id": "1.8-02",
+       "tur": "secmeli",
+       "soru": "Tabloda bir ülkenin nüfusunun yaş gruplarına ve cinsiyete göre dağılımı, toplam nüfusa oranı olarak verilmiştir.\nYalnızca bu tabloya bakılarak aşağıdakilerden hangisine ulaşılamaz?",
+       "tablo": [
+        [
+         "Yaş grubu",
+         "Erkek (%)",
+         "Kadın (%)"
+        ],
+        [
+         "0-14",
+         "14",
+         "13"
+        ],
+        [
+         "15-64",
+         "32",
+         "32"
+        ],
+        [
+         "65 ve üstü",
+         "4",
+         "5"
+        ]
+       ],
+       "secenekler": [
+        "Bağımlı nüfus oranının %30'un üzerinde olduğuna",
+        "65 yaş ve üstünde kadınların erkeklerden fazla olduğuna",
+        "Çalışma çağındaki nüfusun toplam nüfusun yarısından fazla olduğuna",
+        "Çocuk nüfus oranının yaşlı nüfus oranının üç katı olduğuna",
+        "Yıllık nüfus artış hızının ‰10'un üzerinde olduğuna"
+       ],
+       "dogru": 4,
+       "bilgi": "Tabloya göre bağımlı nüfus %36 (27 + 9), çalışma çağındaki nüfus %64'tür. Nüfus piramidi tek bir yılın yaş ve cinsiyet yapısını gösterir; artış hızını bulmak için farklı yılların nüfusu ya da doğum ve ölüm oranları gerekir.",
        "sayfa": 171,
        "yil": "2020-TYT"
       },
       {
-       "id": "1.8-04",
-       "tur": "dy",
-       "ifade": "Tabanı geniş, tepesi dar bir nüfus piramidi, doğum oranının yüksek ve ortalama ömrün kısa olduğu bir ülkeyi gösterir.",
-       "dogru": true,
-       "bilgi": "Geniş tabanlı piramitler genç nüfuslu, ortanca yaşı düşük ülkelere; tabanı daralan piramitler yaşlanan, gelişmiş ülkelere aittir.",
-       "sayfa": 173,
-       "yil": "2024-TYT"
-      },
-      {
-       "id": "1.8-05",
-       "tur": "eslestir",
-       "yonerge": "Seyrek nüfuslu alanları seyrek nüfusun başlıca nedeniyle eşleştir.",
-       "ciftler": [
-        [
-         "Sahra Çölü",
-         "Yüksek sıcaklık ve su kıtlığı"
-        ],
-        [
-         "Grönland",
-         "Aşırı soğuk"
-        ],
-        [
-         "Amazon Havzası",
-         "Sık ormanlar ve aşırı nem"
-        ],
-        [
-         "Himalayalar",
-         "Yüksek ve engebeli arazi"
-        ]
+       "id": "1.8-03",
+       "tur": "secmeli",
+       "soru": "Aşağıdaki alan – seyrek nüfuslu olmasının başlıca nedeni eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "Sahra Çölü – Yüksek sıcaklık ve su kıtlığı",
+        "Grönland – Aşırı soğuk ve buzullarla kaplı olma",
+        "Amazon Havzası – Sık ormanlar ve aşırı nem",
+        "Tibet Platosu – Yükseltinin ve engebenin fazla olması",
+        "Kuzey Sibirya – Aşırı sıcaklık ve kuraklık"
        ],
-       "bilgi": "Sıcak çöllerde seyrek nüfusun temel nedeni yüksek sıcaklık ve su kıtlığıdır; kutuplarda soğuk, dağlarda yükselti ve engebe nüfusu sınırlar.",
+       "dogru": 4,
+       "bilgi": "Kuzey Sibirya'da seyrek nüfusun temel nedeni aşırı soğuk ve uzun kışlardır. Sıcak çöllerde sıcaklık ve su kıtlığı, ekvatoral ormanlarda sık bitki örtüsü ve nem, yüksek platolarda yükselti ve engebe nüfusu sınırlar.",
        "sayfa": 174,
        "yil": "2026-TYT"
       }
@@ -378,23 +528,17 @@
      "kartlar": [
       {
        "id": "1.9-01",
-       "tur": "eslestir",
-       "yonerge": "Meslekleri dâhil oldukları ekonomik faaliyet grubuyla eşleştir.",
-       "ciftler": [
-        [
-         "Ormancılık",
-         "Birincil faaliyet"
-        ],
-        [
-         "Otomobil fabrikasında montaj",
-         "İkincil faaliyet"
-        ],
-        [
-         "Turist rehberliği",
-         "Üçüncül faaliyet"
-        ]
+       "tur": "secmeli",
+       "soru": "Zonguldak'ta yaşayan K kişisi yer altındaki ocaklarda taş kömürü çıkarmakta, Karabük'te yaşayan L kişisi bu kömürün kullanıldığı demir-çelik fabrikasında çalışmakta, M kişisi ise üretilen çelik ürünlerini tırla limana taşımaktadır.\nK, L ve M'nin faaliyetleri ekonomik faaliyet gruplarına göre sırasıyla aşağıdakilerin hangisinde doğru verilmiştir?",
+       "secenekler": [
+        "Birincil – İkincil – Üçüncül",
+        "İkincil – İkincil – Üçüncül",
+        "Birincil – Üçüncül – İkincil",
+        "İkincil – Birincil – Üçüncül",
+        "Birincil – İkincil – İkincil"
        ],
-       "bilgi": "Ham maddeyi doğadan elde etmek birincil, ham maddeyi fabrikada işlemek ikincil, ulaşım ve eğitim gibi hizmet sunmak üçüncül faaliyettir.",
+       "dogru": 0,
+       "bilgi": "Madencilik ham maddeyi doğrudan doğadan elde ettiği için birincil, demir-çelik üretimi ham maddeyi işlediği için ikincil, taşımacılık hizmet sunduğu için üçüncül faaliyettir.",
        "sayfa": 174,
        "yil": "2022-TYT"
       }
@@ -412,49 +556,58 @@
      "kartlar": [
       {
        "id": "1.10-01",
-       "tur": "dy",
-       "ifade": "Serbest ticaret bölgesi gibi beşerî ölçütlerle belirlenen bölgelerin sınırları, karstik kayaç bölgelerine göre daha kısa sürede değişebilir.",
-       "dogru": true,
-       "bilgi": "Beşerî ölçütlere dayanan bölgelerin sınırları kısa sürede değişebilirken iklim ya da kayaç gibi doğal ölçütlere dayanan bölgelerin sınırları uzun sürede değişir.",
+       "tur": "secmeli",
+       "soru": "Bölgeler, belirlenmelerinde kullanılan ölçütlere bağlı olarak farklı sürelerde değişime uğrar.\nAşağıdaki bölgelerden hangisinin sınırlarının en kısa sürede değişmesi beklenir?",
+       "secenekler": [
+        "Tundra ikliminin görüldüğü bölge",
+        "Karstik kayaçların yayılış bölgesi",
+        "Bir serbest ticaret bölgesi",
+        "Akdeniz ikliminin görüldüğü bölge",
+        "Volkanik arazilerin yayılış bölgesi"
+       ],
+       "dogru": 2,
+       "bilgi": "Serbest ticaret bölgeleri ile il ve ilçe sınırları gibi beşerî ölçütlerle belirlenen bölgelerin sınırları kararlarla kısa sürede değişebilir. İklim ve kayaç gibi doğal ölçütlere dayanan bölgelerin sınırları ise çok uzun sürede değişir.",
        "sayfa": 174,
        "yil": "2020-TYT"
       },
       {
        "id": "1.10-02",
-       "tur": "bosluk",
-       "cumle": "Belirli bir merkezden yönetilen ve hizmetlerin insanlara ulaştırılması amacıyla oluşturulan bölgelere ___ bölge denir.",
-       "cevap": "işlevsel",
-       "celdiriciler": [
-        "şekilsel",
-        "doğal",
-        "kültürel"
+       "tur": "secmeli",
+       "soru": "Aşağıdaki bölgelerden",
+       "oncul": [
+        "Karayolları bölge müdürlüğünün hizmet verdiği alan",
+        "Bir kalkınma ajansının merkezden yönettiği iller",
+        "Çay tarımının yapıldığı alan",
+        "Büyükbaş hayvancılığın yoğun olduğu alan"
        ],
-       "bilgi": "Kalkınma projesi bölgeleri, bir merkezden yönetilen ve mekânsal organizasyonu amaçlayan işlevsel bölgelere örnektir.",
-       "sayfa": 175,
-       "yil": "2023-TYT"
-      },
-      {
-       "id": "1.10-03",
-       "tur": "dy",
-       "ifade": "Karayolları hizmet bölgesi, tek bir unsurun türdeşliğine göre belirlenen şekilsel bölgelere örnektir.",
-       "dogru": false,
-       "bilgi": "Karayolları hizmet bölgesi işlevsel bölgedir; hayvancılık, çay üretimi ya da kültür bölgeleri ise şekilsel bölgelere örnektir.",
+       "kok": "hangileri şekilsel bölgeye örnektir?",
+       "secenekler": [
+        "Yalnız III",
+        "I ve II",
+        "I ve IV",
+        "II ve III",
+        "III ve IV"
+       ],
+       "dogru": 4,
+       "bilgi": "Çay tarımı ve hayvancılık bölgeleri, tek bir unsurun türdeşliğine göre belirlenen şekilsel bölgelerdir. Karayolları hizmet bölgesi ve kalkınma ajansı bölgeleri ise bir merkezden yönetilen işlevsel bölgelerdir.",
        "sayfa": 175,
        "yil": "2025-TYT"
       },
       {
-       "id": "1.10-04",
-       "tur": "bosluk",
-       "cumle": "İl ve ilçe sınırları gibi ___ bölgelerin sınırları, dağlık ya da çöl bölgelerine göre çok daha kısa sürede değişebilir.",
-       "cevap": "yönetsel",
-       "celdiriciler": [
-        "iklim",
-        "bitki örtüsü",
-        "yer şekli"
+       "id": "1.10-03",
+       "tur": "secmeli",
+       "soru": "Orta Karadeniz Kalkınma Ajansı, Samsun'daki merkezinden Samsun, Tokat, Çorum ve Amasya illerine yönelik kalkınma programlarını yürütmekte; bu illerdeki yatırım ve hizmetleri bir bütün olarak planlamaktadır.\nBu ajansın faaliyet alanı için aşağıdakilerden hangisi söylenebilir?",
+       "secenekler": [
+        "Tek bir doğal unsurun türdeşliğine göre belirlenmiş şekilsel bir bölgedir.",
+        "Bir merkezden yönetilen işlevsel bir bölgedir.",
+        "Sınırları doğal ölçütlere göre çizildiğinden çok uzun sürede değişir.",
+        "İklim özellikleri bakımından türdeş bir bölgedir.",
+        "Karadeniz Bölgesi'nin tamamını kapsar."
        ],
-       "bilgi": "Belirli bir amaçla çizilen yönetsel bölgelerin sınırları kararlarla kısa sürede değişebilir; doğal bölgelerin sınırları ise uzun sürede değişir.",
+       "dogru": 1,
+       "bilgi": "Kalkınma ajansı bölgeleri belirli bir merkezden yönetilen ve mekânsal organizasyonu amaçlayan işlevsel bölgelerdir; sınırları kararlarla değişebilir. Tek bir unsurun türdeşliğine göre belirlenen bölgeler ise şekilsel bölgelerdir.",
        "sayfa": 175,
-       "yil": "2026-TYT"
+       "yil": "2023-TYT"
       }
      ]
     },
@@ -472,83 +625,139 @@
       {
        "id": "1.11-01",
        "tur": "secmeli",
-       "soru": "Aşağıdaki doğal afetlerden hangisinin oluşumunda iklim belirleyici değildir?",
-       "secenekler": [
-        "Kuraklık",
-        "Muson yağışlarına bağlı sel",
+       "soru": "Kış mevsiminde, karla kaplı yüksek dağların denize kadar sokulduğu bir kıyının açıklarında, deniz tabanında büyük bir deprem meydana gelmiştir.\nBu depremin aşağıdaki olaylardan",
+       "oncul": [
+        "Tsunami",
         "Çığ",
-        "Tsunami"
+        "Heyelan ve kaya düşmesi",
+        "Erozyon"
+       ],
+       "kok": "hangilerini doğrudan tetiklemesi beklenir?",
+       "secenekler": [
+        "I ve II",
+        "I ve IV",
+        "II ve III",
+        "I, II ve III",
+        "II, III ve IV"
        ],
        "dogru": 3,
-       "bilgi": "Kuraklık, sel ve çığ iklim kaynaklı afetlerdir; tsunami ise deprem gibi yer kabuğundaki hareketlerden kaynaklanır.",
-       "sayfa": 176,
-       "yil": "2018-TYT"
-      },
-      {
-       "id": "1.11-02",
-       "tur": "dy",
-       "ifade": "Erozyon, büyük depremlerin doğrudan tetiklediği afetlerdendir.",
-       "dogru": false,
-       "bilgi": "Büyük depremler heyelan, çığ, tsunami ve kaya düşmesini tetikleyebilir; erozyon ise su, rüzgâr ve insan etkisiyle zamanla gelişir.",
+       "bilgi": "Büyük depremler deniz tabanını oynatarak tsunamiye, sarsıntıyla yamaçlarda çığ, heyelan ve kaya düşmesine yol açabilir. Erozyon ise su ve rüzgârın uzun sürede gerçekleştirdiği aşındırmadır; depremin doğrudan sonucu sayılmaz.",
        "sayfa": 176,
        "yil": "2019-TYT"
       },
       {
-       "id": "1.11-03",
-       "tur": "bosluk",
-       "cumle": "Kar erimesi sonucu toprağın suya doygun hâle gelmesi ve sismik sarsıntılar, heyelan gibi ___ hareketlerine yol açabilir.",
-       "cevap": "kütle",
-       "celdiriciler": [
-        "hava",
-        "levha",
-        "dalga"
+       "id": "1.11-02",
+       "tur": "secmeli",
+       "soru": "Tabloda K, L, M, N ve P yamaçlarının bazı özellikleri verilmiştir.\nBu yamaçlardan hangisinde heyelan riski en fazladır?",
+       "tablo": [
+        [
+         "Yamaç",
+         "Eğim",
+         "Tabakaların uzanışı",
+         "Zemin",
+         "Bitki örtüsü"
+        ],
+        [
+         "K",
+         "Az",
+         "Eğime dik",
+         "Kuru",
+         "Sık orman"
+        ],
+        [
+         "L",
+         "Fazla",
+         "Eğime paralel",
+         "Suya doygun",
+         "Seyrek"
+        ],
+        [
+         "M",
+         "Fazla",
+         "Eğime dik",
+         "Kuru",
+         "Sık orman"
+        ],
+        [
+         "N",
+         "Az",
+         "Eğime paralel",
+         "Kuru",
+         "Seyrek"
+        ],
+        [
+         "P",
+         "Fazla",
+         "Eğime dik",
+         "Suya doygun",
+         "Sık orman"
+        ]
        ],
-       "bilgi": "Zeminin suya doyması ve deprem ya da volkanizmaya bağlı sarsıntılar kütle hareketlerini başlatan etkenler arasındadır.",
-       "sayfa": 176,
-       "yil": "2021-TYT"
+       "secenekler": [
+        "K",
+        "L",
+        "M",
+        "N",
+        "P"
+       ],
+       "sirali": true,
+       "dogru": 1,
+       "bilgi": "Eğimin fazla olması, tabakaların yamaç eğimine paralel uzanması, zeminin kar erimesi ya da yağışla suya doyması ve bitki örtüsünün seyrekliği heyelanı kolaylaştırır. Bu koşulların hepsi L'de bir aradadır.",
+       "sayfa": 177,
+       "yil": "2025-TYT"
+      },
+      {
+       "id": "1.11-03",
+       "tur": "secmeli",
+       "soru": "Türkiye'deki doğal afetlerin dağılışıyla ilgili aşağıdaki karşılaştırmalardan hangisi yanlıştır?",
+       "secenekler": [
+        "Çığ, Tunceli'de Sivas'a göre daha sık görülür.",
+        "Su baskını, Çukurova'da Tuz Gölü çevresine göre daha sık görülür.",
+        "Heyelan, Doğu Karadeniz'de Konya Ovası'na göre daha sık görülür.",
+        "Kuraklık riski, Rize'de Şanlıurfa'ya göre daha fazladır.",
+        "Deprem riski, Bingöl'de Konya'ya göre daha fazladır."
+       ],
+       "dogru": 3,
+       "bilgi": "Kuraklık riski, yağışın az olduğu Güneydoğu Anadolu'da her mevsim yağışlı Doğu Karadeniz'den fazladır. Çığ eğimli ve uzun süre karla kaplı dağlarda, su baskını taşkın ovalarında, deprem ise fay hatları üzerindeki yerlerde sık görülür.",
+       "sayfa": 177,
+       "yil": "2024-TYT"
       },
       {
        "id": "1.11-04",
-       "tur": "dy",
-       "ifade": "Erozyonu azaltmak için tarlalar eğime dik sürülmeli ve çayırlarda aşırı otlatma önlenmelidir.",
-       "dogru": true,
-       "bilgi": "Eğime paralel sürüm erozyonu artırır; eğime dik sürüm, nöbetleşe ekim ve aşırı otlatmanın önlenmesi erozyona karşı alınan önlemlerdir.",
+       "tur": "secmeli",
+       "soru": "Eğimli bir arazide tarım yapan bir çiftçinin aşağıdaki uygulamalarından hangisi toprak erozyonunu artırır?",
+       "secenekler": [
+        "Tarlasını eğime dik doğrultuda sürmesi",
+        "Yamaçları basamaklar (taraçalar) hâlinde düzenlemesi",
+        "Tarlasında nöbetleşe ekim yapması",
+        "Tarla kenarlarına rüzgâr perdesi olarak ağaç dikmesi",
+        "Merasında kapasitenin üzerinde hayvan otlatması"
+       ],
+       "dogru": 4,
+       "bilgi": "Aşırı otlatma toprağı koruyan bitki örtüsünü yok ederek erozyonu artırır. Eğime dik sürüm, taraçalama, nöbetleşe ekim ve ağaçlandırma ise toprağın su ve rüzgârla taşınmasını azaltır.",
        "sayfa": 177,
        "yil": "2023-TYT"
       },
       {
        "id": "1.11-05",
-       "tur": "dy",
-       "ifade": "Türkiye'de çığ olayları Tunceli'de Sivas'a göre daha sık görülür.",
-       "dogru": true,
-       "bilgi": "Çığ, eğimli ve uzun süre kar örtüsü bulunan Doğu Anadolu dağlarında sık görülür; Çukurova çevresinde su baskını sıklığı Tuz Gölü çevresinden fazladır.",
-       "sayfa": 177,
-       "yil": "2024-TYT"
-      },
-      {
-       "id": "1.11-06",
-       "tur": "bosluk",
-       "cumle": "Heyelan riski; zeminin suya doyduğu, eğimin fazla olduğu ve tabakaların yamaç eğimine ___ uzandığı yerlerde artar.",
-       "cevap": "paralel",
-       "celdiriciler": [
-        "dik",
-        "çapraz"
+       "tur": "secmeli",
+       "soru": "Afet yönetimi kapsamında yapılan aşağıdaki çalışmalardan",
+       "oncul": [
+        "Enkaz altında kalanların aranıp kurtarılması",
+        "Okullarda deprem tatbikatı yapılması",
+        "Afet bölgesinde geçici barınma alanları kurulması",
+        "Binaların depreme dayanıklılığının denetlenmesi"
        ],
-       "bilgi": "Tabakaların eğim yönünde uzanması, zeminin suya doyması ve arazi eğiminin fazla olması heyelanı kolaylaştırır.",
-       "sayfa": 177,
-       "yil": "2025-TYT"
-      },
-      {
-       "id": "1.11-07",
-       "tur": "bosluk",
-       "cumle": "Afet yönetiminde afet öncesini kapsayan ve eğitim, bilinçlendirme gibi çalışmaları içeren sürece ___ yönetimi denir.",
-       "cevap": "risk",
-       "celdiriciler": [
-        "kriz",
-        "hasar",
-        "müdahale"
+       "kok": "hangileri risk yönetiminin kapsamındadır?",
+       "secenekler": [
+        "Yalnız II",
+        "I ve III",
+        "II ve IV",
+        "III ve IV",
+        "I, II ve IV"
        ],
-       "bilgi": "Afet yönetimi risk ve kriz yönetiminden oluşur; arama kurtarma, barınma ve hasar tespiti afet sonrasındaki kriz yönetiminin konusudur.",
+       "dogru": 2,
+       "bilgi": "Risk yönetimi, afet öncesinde zararları azaltmaya yönelik eğitim, tatbikat ve yapı denetimi gibi çalışmaları kapsar. Arama-kurtarma, barınma ve hasar tespiti afet sonrasındaki kriz yönetiminin konusudur.",
        "sayfa": 178,
        "yil": "2026-TYT"
       }

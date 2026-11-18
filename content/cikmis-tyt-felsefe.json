@@ -23,35 +23,41 @@
      "kartlar": [
       {
        "id": "1.1-01",
-       "tur": "dy",
-       "ifade": "Felsefe, sorunlara herkes için geçerli, kesin ve hazır çözümler sunar.",
-       "dogru": false,
-       "bilgi": "Felsefe yaşamdan kopuk değildir; hayatın anlamını ve görünenin ardındaki gerçeği sorgular, ancak herkese uyan hazır çözümler sunmaz.",
-       "sayfa": 182,
-       "yil": "2019-TYT"
-      },
-      {
-       "id": "1.1-02",
-       "tur": "bosluk",
-       "cumle": "Platon'un Şölen adlı eserinde bilge ile bilgisiz arasında yer alan ve bilgeliği seven kişi ___ olarak tanımlanır.",
-       "cevap": "filozof",
-       "celdiriciler": [
-        "sofist",
-        "bilge",
-        "hatip"
+       "tur": "secmeli",
+       "soru": "Tanrılar bilgeliği aramaz, çünkü zaten bilgedirler. Bilgisizler de onu aramaz; çünkü bilgisizliğin en kötü yanı, insanın iyi ve bilge olmadığı hâlde kendini yeterli sanmasıdır. Kendinde bir eksiklik görmeyen, o eksikliği gidermeyi de istemez. Bilgeliği arayan kişi ise ne bilgedir ne de bütünüyle bilgisizdir; o, ikisinin arasında duran ve eksikliğinin farkında olan kişidir.\nBu parçaya göre bilgeliği arayan kişiyi diğerlerinden ayıran temel özellik aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Bilgisizliğinin farkında olması",
+        "Bilgeliğe zaten sahip olması",
+        "Kendini yeterli görmesi",
+        "Bilgiyi başkalarından öğrenmesi",
+        "Bilgeliğin imkânsız olduğunu düşünmesi"
        ],
-       "bilgi": "Platon'a göre bilge zaten bildiği, cahil de eksikliğinin farkında olmadığı için bilgiyi aramaz; bilgeliği arzulayan filozof ikisinin arasındadır.",
+       "dogru": 0,
+       "bilgi": "Platon'a göre bilge zaten bildiği, bilgisiz ise eksikliğinin farkında olmadığı için bilgeliği aramaz. Bilgeliği seven ve arayan filozof, eksikliğini bilerek ikisinin arasında durur.",
        "sayfa": 182,
        "yil": "2020-TYT"
       },
       {
-       "id": "1.1-03",
-       "tur": "dy",
-       "ifade": "Çağdaş felsefe, \"İyi nedir?\" gibi geleneksel soruların yanında yapay zekâ ve insan klonlama gibi güncel konuları da ele alır.",
-       "dogru": true,
-       "bilgi": "Felsefe bilimler gibi hızla ilerlemese de güncel olandan bağını koparmaz; insana ve doğaya dair her konuyla ilgilenir.",
-       "sayfa": 183,
-       "yil": "2021-TYT"
+       "id": "1.1-02",
+       "tur": "secmeli",
+       "soru": "Felsefe, insanın yaşamından kopuk bir uğraş değildir; hayatın anlamını ve görünenin ardındaki gerçekliği sorgular. Ancak bilimler gibi sorunları kesin biçimde çözen, herkesçe kabul edilen sonuçlara ulaşmaz. Bugün felsefe, \"İyi nedir?\" gibi binlerce yıllık soruların yanında yapay zekâ, insan klonlama ve çevre sorunları gibi güncel konuları da tartışmaktadır.\nBu parçaya göre,",
+       "oncul": [
+        "Felsefe, insan yaşamına ilişkin sorunlara yönelir.",
+        "Felsefe, ulaştığı kesin sonuçlarla bilimin yerini almayı hedefler.",
+        "Felsefenin ilgi alanı, çağın koşullarına bağlı olarak genişleyebilir."
+       ],
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Felsefe yaşamla ilgilidir ve güncel sorunlarla da ilgilenir; ancak herkese uyan kesin ve hazır çözümler sunmaz. Bu nedenle bilimin yerini almak gibi bir amaç taşıdığı söylenemez.",
+       "sayfa": 182,
+       "yil": "2019-TYT"
       }
      ]
     },
@@ -68,70 +74,70 @@
       {
        "id": "1.2-01",
        "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi felsefi bir soru değildir?",
+       "soru": "Felsefi sorular genel ve soyut nitelik taşır; deney ya da gözlemle kesin olarak yanıtlanamaz ve her yanıt yeni soruları doğurur.\nBuna göre aşağıdakilerden hangisi felsefi bir soru değildir?",
        "secenekler": [
-        "Adalet nedir?",
-        "Güzellik kişiden kişiye değişir mi?",
-        "Bilgi mümkün müdür?",
-        "Bu otobüs şehir merkezine gider mi?"
+        "Bir eylemi ahlaki kılan nedir?",
+        "Yapay zekâ bir gün bilinç sahibi olabilir mi?",
+        "Bilgilerimizin doğruluğundan nasıl emin olabiliriz?",
+        "Bu yıl kaç öğrenci üniversiteye yerleşti?",
+        "Bir sanat eserini değerli kılan nedir?"
        ],
        "dogru": 3,
-       "bilgi": "Felsefi soruların kesin ve herkese uygulanabilecek yanıtları yoktur; gündelik, bilgi edinmeye yönelik pratik sorular ise felsefi değildir.",
+       "bilgi": "Üniversiteye yerleşen öğrenci sayısı, verilerle kesin olarak yanıtlanan olgusal bir sorudur. Yapay zekânın bilinç sahibi olup olamayacağı ise insanın özünü sorgulatan felsefi bir sorudur.",
        "sayfa": 183,
        "yil": "2022-TYT"
       },
       {
        "id": "1.2-02",
-       "tur": "bosluk",
-       "cumle": "Bertrand Russell'a göre filozof, kesinlik barındırmayan düşünsel yaşamla barışık olduğu için ___ yönünü daha çok kullanır.",
-       "cevap": "eleştirel",
-       "celdiriciler": [
-        "dogmatik",
-        "deneysel",
-        "duygusal"
+       "tur": "secmeli",
+       "soru": "Felsefe, sorularına bilimler gibi kesin yanıtlar veremediği için çoğu zaman eksik bir uğraş olarak görülür. Oysa felsefenin değeri tam da bu belirsizlikte yatar. Kesinlik taşımayan düşünsel yaşamla barışık olan filozof, alışılmış kanıları sorgusuz kabul etmekten kurtulur ve zihnini yeni olanaklara açar. Bu yüzden felsefe tamamlanmış bir bilgi bütünü değil, hiç bitmeyen bir sohbettir.\nBu parçada felsefeyle ilgili aşağıdakilerden hangisi vurgulanmaktadır?",
+       "secenekler": [
+        "Belirsizliğin onu dogmatizmden uzak tuttuğu",
+        "Bilimsel yöntemi benimsediği ölçüde değer kazandığı",
+        "Sorularına verdiği yanıtların zamanla kesinleştiği",
+        "Gündelik yaşamın pratik sorunlarına çözüm ürettiği",
+        "Geleneksel kanıları korumayı amaç edindiği"
        ],
-       "bilgi": "Felsefe kesinlikten uzak ve sorgulayıcı yapısıyla dogmatizmden uzak durur; bu durum Russell'a göre bir dezavantaj değildir.",
+       "dogru": 0,
+       "bilgi": "Parçaya göre kesin sonuçlara ulaşamamak felsefe için bir eksiklik değildir; filozofu eleştirel kılar ve dogmatizmden korur. Russell da felsefenin değerini bu belirsizlikte görür.",
        "sayfa": 184,
        "yil": "2022-TYT"
       },
       {
        "id": "1.2-03",
-       "tur": "dy",
-       "ifade": "Felsefi sorgulama, temel sorulara ilişkin hakikatlere ulaşıldığında tamamlanan bir süreçtir.",
-       "dogru": false,
-       "bilgi": "Felsefe hiç bitmeyen bir sohbettir; mutlak ve kesin sonuçlar içermez, temel sorulara ilişkin arayış hiçbir zaman tamamlanmaz.",
-       "sayfa": 184,
-       "yil": "2023-TYT"
-      },
-      {
-       "id": "1.2-04",
-       "tur": "dy",
-       "ifade": "Yapay zekânın insanın bilinçli zihnine eş değer bir varoluşa sahip olup olamayacağı, insanın özüne ilişkin felsefi bir sorudur.",
-       "dogru": true,
-       "bilgi": "\"İnsanı insan yapan nedir?\" ve \"Bilinç yapay zekâ için zorunlu mudur?\" gibi sorular, yapay zekâ bağlamında insanın özünü sorgulayan felsefi sorulardır.",
-       "sayfa": 185,
-       "yil": "2023-TYT"
-      },
-      {
-       "id": "1.2-05",
-       "tur": "dy",
-       "ifade": "Filozof, sözcüklerin tarih içindeki anlam değişimlerini bir anlam bilimci gibi inceler.",
-       "dogru": false,
-       "bilgi": "Sözcüklerin anlamını ve değişimini anlam bilimi (semantik) inceler; filozof ise dilin kendisiyle değil, dilin işaret ettiği şeyle ve ona erişimle ilgilenir.",
+       "tur": "secmeli",
+       "soru": "Bir anlam bilimci \"adalet\" sözcüğünün kökenini, tarih içinde hangi anlamlarda kullanıldığını ve bugün hangi bağlamlarda geçtiğini inceler. Filozof ise ----. Onun için dil, ulaşılmak istenen şeye giden yolda yalnızca bir araçtır.\nBu parçada boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+       "secenekler": [
+        "adaletin ne olduğunu, yani sözcüğün işaret ettiği şeyin özünü sorgular",
+        "sözcüğün farklı dillerdeki karşılıklarını karşılaştırarak sözlük hazırlar",
+        "sözcüğün halk arasında ne sıklıkla kullanıldığını istatistikle belirler",
+        "sözcüğün ses yapısındaki değişimleri tarihsel belgelerle açıklar",
+        "sözcüğün edebî metinlerdeki kullanımlarını üslup açısından değerlendirir"
+       ],
+       "dogru": 0,
+       "bilgi": "Sözcüklerin anlamını ve tarihsel değişimini anlam bilimi inceler. Filozof ise dilin kendisiyle değil, dilin işaret ettiği şeyle, örneğin adaletin özüyle ve ona nasıl ulaşılacağıyla ilgilenir.",
        "sayfa": 185,
        "yil": "2024-TYT"
       },
       {
-       "id": "1.2-06",
-       "tur": "bosluk",
-       "cumle": "Bir şeyi o şey yapan ve tanımında zorunlu olan niteliklere ___, bulunmasa da o şeyin kendisi olmaya devam ettiği niteliklere ilineksel nitelikler denir.",
-       "cevap": "özsel",
-       "celdiriciler": [
-        "nicel",
-        "ikincil",
-        "göreli"
+       "id": "1.2-04",
+       "tur": "secmeli",
+       "soru": "Felsefe, olguları kavramsal düzeyde inceler. Örneğin bir filozof \"insan\" kavramını çözümlerken bir kişinin uzun ya da kısa boylu, esmer ya da sarışın olmasını önemsemez; çünkü bu nitelikler değişse de kişi insan olmayı sürdürür. Onu asıl ilgilendiren, insanı insan yapan ve bulunmadığında insandan söz edilemeyecek olan niteliklerdir.\nBu parçaya göre,",
+       "oncul": [
+        "Felsefe, bir kavramın özsel niteliklerini ilineksel niteliklerinden ayırt etmeye çalışır.",
+        "Bir şeyin ilineksel nitelikleri değiştiğinde o şey başka bir şeye dönüşür.",
+        "Boy ve ten rengi, insan kavramının özsel nitelikleri arasındadır."
        ],
-       "bilgi": "Felsefe olguları kavramsal derinliğe inerek inceler; bir kavramın özsel ve ilineksel unsurlarını birbirinden ayırır.",
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Bir şeyi o şey yapan ve tanımında zorunlu olan nitelikler özsel, bulunmasa da şeyin kendisi olarak kalmasını engellemeyen nitelikler ilinekseldir. Boy ve ten rengi insan için ilineksel niteliklerdir.",
        "sayfa": 186,
        "yil": "2026-TYT"
       }
@@ -147,24 +153,17 @@
      "kartlar": [
       {
        "id": "1.3-01",
-       "tur": "dy",
-       "ifade": "Sokrates'e göre bilgelik, her şeyi bilmek değil, neyi bilip neyi bilmediğini bilmektir.",
-       "dogru": true,
-       "bilgi": "Felsefe eğitimi, kişiye bildiği konuda konuşmayı, bilmediğinde susmayı öğreterek kavramsal bilgiyi pratik yaşama aktarır.",
-       "sayfa": 186,
-       "yil": "2018-TYT"
-      },
-      {
-       "id": "1.3-02",
-       "tur": "bosluk",
-       "cumle": "Hegel'in \"Minerva'nın baykuşu ancak ___ uçmaya başlar.\" sözü, felsefenin bir dönemi olaylar yaşandıktan sonra kavradığını anlatır.",
-       "cevap": "gün batarken",
-       "celdiriciler": [
-        "şafak sökerken",
-        "gün ortasında",
-        "fırtınadan önce"
+       "tur": "secmeli",
+       "soru": "Hegel'e göre her birey kendi zamanının çocuğudur; felsefe de kendi çağının düşüncede kavranmasıdır. Felsefe, dünyanın nasıl olması gerektiğini öğretmek için her zaman geç kalır. Çünkü bir dönem ancak olgunlaşıp tamamlandıktan sonra düşüncede kavranabilir. Minerva'nın baykuşu ancak alacakaranlık çökerken kanatlanır.\nBu parçaya göre felsefe ile ilgili aşağıdakilerden hangisi söylenebilir?",
+       "secenekler": [
+        "İçinde doğduğu çağı olaylar olup bittikten sonra kavradığı",
+        "Toplumsal olayları önceden kestirerek onlara yön verdiği",
+        "Tarihsel koşullardan bağımsız, evrensel ilkeler ortaya koyduğu",
+        "Bilimsel buluşların ortaya çıkmasına öncülük ettiği",
+        "Bireyin gündelik kararlarına doğrudan yol gösterdiği"
        ],
-       "bilgi": "Hegel'e göre herkes kendi zamanının çocuğudur ve felsefe de kendi zamanını, olaylar olup bittikten sonra düşüncede özetler.",
+       "dogru": 0,
+       "bilgi": "Minerva'nın baykuşu benzetmesi, felsefenin bir dönemi ancak o dönem tamamlandıktan sonra düşüncede özetleyebildiğini anlatır; felsefe olayları önceden belirlemez, kendi zamanına bağlıdır.",
        "sayfa": 187,
        "yil": "2024-TYT"
       }
@@ -183,31 +182,18 @@
       {
        "id": "1.4-01",
        "tur": "secmeli",
-       "soru": "Birkaç örneğe bakarak aceleyle bütün bir grup hakkında genelleme yapılmasına hangi hatalı akıl yürütme denir?",
+       "soru": "İlk kez gittiği bir şehirde bindiği iki taksinin şoförü kendisinden fazla ücret isteyen bir turist, \"Bu şehrin bütün taksicileri müşteriyi dolandırıyor.\" sonucuna varmıştır.\nBu akıl yürütmede yapılan hata aşağıdakilerden hangisidir?",
        "secenekler": [
-        "Yetersiz örnek (aceleci genelleme)",
-        "Otoriteye başvurma",
-        "Kısır döngü",
-        "Kişiye saldırı"
+        "Yetersiz örnekten genel bir yargıya varmak",
+        "Bir otoritenin sözünü kanıt olarak kullanmak",
+        "Kanıtlanacak olanı öncülde varsaymak",
+        "Görüş yerine görüşü savunan kişiyi hedef almak",
+        "Duygulara seslenerek bir yargıyı kabul ettirmek"
        ],
        "dogru": 0,
-       "bilgi": "Sınırlı ya da az sayıdaki örnekten hızla genel bir yargıya varmak, yetersiz örnek hatalı akıl yürütmesidir.",
+       "bilgi": "İki örnekten bütün taksiciler hakkında genelleme yapmak yetersiz örnek (aceleci genelleme) hatasıdır. Otoriteye başvurma, kısır döngü ve kişiye saldırı ise farklı akıl yürütme hatalarıdır.",
        "sayfa": 187,
        "yil": "2025-TYT"
-      },
-      {
-       "id": "1.4-02",
-       "tur": "bosluk",
-       "cumle": "Alan Turing'in Taklit Oyunu'ndan esinlenen testine göre bir makinenin düşünüp düşünmediği, onun ___ davranışlarına bakılarak belirlenir.",
-       "cevap": "gözlemlenebilir",
-       "celdiriciler": [
-        "biyolojik",
-        "bilinçdışı",
-        "duygusal"
-       ],
-       "bilgi": "Turing testinde sorgulayıcı, yazılı iletişimde insanı makineden tutarlı biçimde ayırt edemezse makine testi geçmiş sayılır.",
-       "sayfa": 188,
-       "yil": "2026-TYT"
       }
      ]
     },
@@ -222,10 +208,17 @@
      "kartlar": [
       {
        "id": "1.5-01",
-       "tur": "dy",
-       "ifade": "Searle'ün Çin Odası Argümanı'na göre sorulara doğru yanıtlar üreten bir yapay zekâ, sembolleri işlediği için içerikleri de kavramış olur.",
-       "dogru": false,
-       "bilgi": "Searle'e göre Çince bilmeden kurallarla doğru yanıt veren kişi gibi yapay zekâ da sembolleri işler ama anlamaz; içerikleri kavramak insana özgüdür.",
+       "tur": "secmeli",
+       "soru": "Alan Turing'e göre bir makinenin düşünüp düşünmediği, onun gözlemlenebilir davranışına bakılarak belirlenmelidir: Yazılı bir sohbette sorgulayıcı, karşısındakinin insan mı makine mi olduğunu tutarlı biçimde ayırt edemiyorsa makine düşünüyor sayılır.\nJohn Searle ise şu durumu düşünmemizi ister: Çince bilmeyen biri, bir odada kural kitabına bakarak kendisine verilen Çince sorulara kusursuz Çince yanıtlar üretmektedir. Dışarıdakiler onun Çince bildiğini sanır; oysa o, yalnızca sembolleri kurallara göre eşleştirmektedir.\nSearle'ün bu düşünce deneyi, Turing'in yaklaşımına yönelik aşağıdaki eleştirilerden hangisini içerir?",
+       "secenekler": [
+        "Doğru yanıtlar üretmenin, anlamayı kanıtlamaya yetmediği",
+        "Makinelerin hiçbir zaman doğru yanıt üretemeyeceği",
+        "Dil öğrenmenin yalnızca kurallarla mümkün olduğu",
+        "İnsanların makineleri her zaman ayırt edebileceği",
+        "Düşünmenin yalnızca gözlemlenebilir davranışlardan ibaret olduğu"
+       ],
+       "dogru": 0,
+       "bilgi": "Turing düşünmeyi gözlemlenebilir davranışla ölçer. Searle'e göre ise odadaki kişi gibi yapay zekâ da sembolleri kurallara göre işler ama anlamlarını kavramaz; doğru çıktı, anlamanın kanıtı değildir.",
        "sayfa": 187,
        "yil": "2025-TYT"
       }
@@ -242,27 +235,19 @@
      "kartlar": [
       {
        "id": "1.6-01",
-       "tur": "dy",
-       "ifade": "İnsanı tözsel değil işlevsel olarak tanımlayan yaklaşıma göre insanın neliği; dil, din, sanat ve bilim gibi ürettiği edimlere bakılarak anlaşılır.",
-       "dogru": true,
-       "bilgi": "Bu yaklaşıma göre insanı metafizik bir öz ya da doğal bir içgüdü değil, yaptığı işler belirler; dil, söylence, din, sanat, bilim ve tarih bu işlerin parçalarıdır.",
+       "tur": "secmeli",
+       "soru": "I. Görüş: İnsanı metafizik bir özle ya da doğal içgüdüleriyle tanımlamak yanıltıcıdır. İnsanın ne olduğu; dil, mit, din, sanat, bilim ve tarih gibi ortaya koyduğu etkinliklerin bütününe bakılarak anlaşılabilir.\nII. Görüş: İnsan da hayvan gibi yaylardan oluşan bir makinedir, yalnızca daha karmaşıktır. Ruh dediğimiz şey de beynin maddi yapısından doğan bir hareket ilkesinden ibarettir.\nBu görüşlerle ilgili aşağıdakilerden hangisi söylenebilir?",
+       "secenekler": [
+        "Birincisi insanı etkinlikleriyle, ikincisi maddi yapısıyla açıklar.",
+        "Birincisi insanın özünü bedeninde, ikincisi kültüründe arar.",
+        "İkisi de insanı doğuştan getirdiği içgüdülerle açıklar.",
+        "İkisi de insanın değişmez metafizik bir özü olduğunu kabul eder.",
+        "Birincisi ruhu maddeye indirger, ikincisi kültürü belirleyici sayar."
+       ],
+       "dogru": 0,
+       "bilgi": "Birinci görüş insanı tözsel değil işlevsel olarak, ürettiği kültürel etkinliklerle tanımlar. İkinci görüş La Mettrie'nin mekanist materyalizmidir: İnsan karmaşık bir makinedir, ruh maddeye indirgenir.",
        "sayfa": 188,
        "yil": "2018-TYT"
-      },
-      {
-       "id": "1.6-02",
-       "tur": "secmeli",
-       "soru": "İnsanı ve hayvanı yaylardan oluşan birer makine olarak gören, ruhu da bedenin maddi bir parçasına indirgeyen düşünür kimdir?",
-       "secenekler": [
-        "Descartes",
-        "La Mettrie",
-        "Berkeley",
-        "Leibniz"
-       ],
-       "dogru": 1,
-       "bilgi": "La Mettrie'ye göre insan hayvandan daha karmaşık bir makinedir; ruh da maddeye indirgenebilen bir hareket ilkesidir.",
-       "sayfa": 189,
-       "yil": "2019-TYT"
       }
      ]
     },
@@ -277,33 +262,33 @@
      "kartlar": [
       {
        "id": "1.7-01",
-       "tur": "dy",
-       "ifade": "Yüzyıllarca kesin kabul edilen yer merkezli evren modelinin yanlış çıkması, \"Doğru bilgi mümkün müdür?\" sorusunu gündeme getirir.",
-       "dogru": true,
-       "bilgi": "Batlamyus astronomisinin modern bilimle çürütülmesi, bugün kesin sanılan bilgilerin de yanlış çıkabileceğini düşündürerek doğru bilginin imkânını sorgulatır.",
+       "tur": "secmeli",
+       "soru": "Yüzyıllar boyunca Dünya'nın evrenin merkezinde durduğu ve gök cisimlerinin onun çevresinde döndüğü kesin bir bilgi olarak kabul edildi. Bu görüş gökyüzündeki hareketleri büyük ölçüde açıklayabildiği için uzun süre sorgulanmadı; ancak modern astronomi onun yanlış olduğunu gösterdi.\nBu durum, aşağıdaki sorulardan hangisinin sorulmasına en uygun zemini hazırlar?",
+       "secenekler": [
+        "Doğru bilgiye ulaşmak mümkün müdür?",
+        "Evrenin bir başlangıcı var mıdır?",
+        "Bilimsel bilgi topluma nasıl yarar sağlar?",
+        "Bilim insanının sorumlulukları nelerdir?",
+        "Evrendeki düzen bir yaratıcıyı gerektirir mi?"
+       ],
+       "dogru": 0,
+       "bilgi": "Kesin sanılan yer merkezli modelin yanlış çıkması, bugün kesin kabul ettiğimiz bilgilerin de yanlış olabileceğini düşündürür ve bilgi felsefesinin \"Doğru bilgi mümkün müdür?\" sorusunu gündeme getirir.",
        "sayfa": 189,
        "yil": "2018-TYT"
       },
       {
        "id": "1.7-02",
-       "tur": "bosluk",
-       "cumle": "Descartes, her şeyden şüphe etse de şüphe ettiğinden şüphe edemeyeceğini belirterek \"___\" önermesine ulaşır.",
-       "cevap": "Düşünüyorum, o hâlde varım.",
-       "celdiriciler": [
-        "Bildiğim tek şey, hiçbir şey bilmediğimdir.",
-        "Var olmak algılanmaktır.",
-        "İnsan her şeyin ölçüsüdür."
+       "tur": "secmeli",
+       "soru": "I. Düşünür: Bildiğim her şeyden şüphe edebilirim; ancak şüphe ettiğim sırada şüphe eden bir şey olarak var olduğumdan şüphe edemem. O hâlde \"Düşünüyorum, o hâlde varım.\" önermesi kesindir.\nII. Düşünür: Kuşku duyabilmek için bazı önermelerin kuşkunun dışında kalması gerekir; tıpkı kapının dönebilmesi için menteşelerinin yerinde durması gibi. Her şeyden aynı anda kuşku duyan biri, kuşkusunu dile getirdiği sözcüklerin anlamından bile emin olamaz.\nBu iki düşünürün ortak yönü aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Kuşkunun dokunamadığı kesin bir şeyin bulunduğunu kabul etme",
+        "Bilginin tek kaynağının duyular olduğunu savunma",
+        "Doğru bilgiye ulaşmanın imkânsız olduğunu ileri sürme",
+        "Kuşkuyu bilgiye ulaşmanın önündeki engel sayma",
+        "Kesin bilginin yalnızca deney yoluyla elde edilebileceğini savunma"
        ],
-       "bilgi": "Descartes bu önermeyle kuşkuculuğa karşı, düşünen bir şey olarak kendi varlığının kesin bilgisine ulaşılabileceğini göstermeye çalışmıştır.",
-       "sayfa": 189,
-       "yil": "2019-TYT"
-      },
-      {
-       "id": "1.7-03",
-       "tur": "dy",
-       "ifade": "Her şeyden aynı anda kuşku duymak mümkündür; kuşku hiçbir kesinliği önceden varsaymaz.",
-       "dogru": false,
-       "bilgi": "Bu görüşe göre kuşku, bazı önermelerin kuşkudan muaf olmasına bağlıdır; kapının döndüğü menteşeler gibi sabit önermeler olmadan her şeyden kuşkulanan kuşku işlemez.",
+       "dogru": 0,
+       "bilgi": "Descartes, kuşkunun ulaşamadığı \"Düşünüyorum, o hâlde varım.\" önermesine varır. İkinci görüşe göre de kuşku, kendisi kuşkuya açık olmayan sabit önermelere dayanır; ikisi de sınırsız kuşkuyu reddeder.",
        "sayfa": 190,
        "yil": "2025-TYT"
       }
@@ -319,70 +304,77 @@
      "kartlar": [
       {
        "id": "1.8-01",
-       "tur": "bosluk",
-       "cumle": "Felsefe sorunlarının dilin mantığının yanlış anlaşılmasından doğduğunu öne süren Wittgenstein, ___ felsefenin önemli temsilcilerindendir.",
-       "cevap": "çözümleyici",
-       "celdiriciler": [
-        "yararcı",
-        "sezgici",
-        "eleştirici"
+       "tur": "secmeli",
+       "soru": "Kovandan yeni çıkarılmış bir balmumu parçası çiçek kokar; belirli bir rengi, biçimi ve büyüklüğü vardır, parmakla vurulduğunda ses çıkarır. Onu ateşe yaklaştırdığımızda kokusu uçar, rengi değişir, biçimini kaybeder ve sıvılaşır. Duyularla algıladığım her şey değiştiği hâlde önümde yine aynı balmumunun durduğunu kimse inkâr etmez.\nBu örnekle ulaşılmak istenen sonuç aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Nesneleri gerçekte duyularla değil, akılla kavrarız.",
+        "Duyular, nesnelerin değişmeyen özünü doğrudan algılar.",
+        "Nesnelerin nitelikleri algılayana göre değiştiği için bilgi görelidir.",
+        "Bir nesnenin varlığı, onun algılanmasına bağlıdır.",
+        "Bilgi, izlenimlerin alışkanlıkla birleşmesinden oluşur."
        ],
-       "bilgi": "Wittgenstein Tractatus'ta söylenebilecek olanın açıkça söylenmesini, üzerine konuşulamayan konusunda ise susulmasını önermiştir.",
-       "sayfa": 190,
-       "yil": "2018-TYT"
-      },
-      {
-       "id": "1.8-02",
-       "tur": "dy",
-       "ifade": "Descartes'ın balmumu örneği, bilginin güvenilir kaynağının duyular olduğunu göstermek için kullanılır.",
-       "dogru": false,
-       "bilgi": "Eriyen balmumu tüm duyusal niteliklerini yitirse de aynı balmumu kalır; Descartes bu örnekle cisimleri duyularla değil akılla bildiğimizi savunur.",
+       "dogru": 0,
+       "bilgi": "Bütün duyusal nitelikler değiştiği hâlde balmumunun aynı kalması, onu duyularla değil aklın kavrayışıyla bildiğimizi gösterir. Descartes bu örnekle rasyonalist tutumunu destekler.",
        "sayfa": 190,
        "yil": "2020-TYT"
       },
       {
-       "id": "1.8-03",
-       "tur": "bosluk",
-       "cumle": "Soyut kuramlar yerine düşüncelerin pratik sonuçlarını ve yararını ölçüt alan felsefi akıma ___ denir.",
-       "cevap": "pragmatizm",
-       "celdiriciler": [
-        "pozitivizm",
-        "rasyonalizm",
-        "monizm"
+       "id": "1.8-02",
+       "tur": "secmeli",
+       "soru": "Doğruluğu deneyime başvurmadan yalnızca akılla bilinebilen önermeler apriori, doğruluğu ancak deneyimle bilinebilen önermeler ise aposteriori bilgiyi dile getirir.\nBuna göre,",
+       "oncul": [
+        "Bekâr olan hiç kimse evli değildir.",
+        "Demir ısıtıldığında genleşir.",
+        "Bir üçgenin iç açılarının toplamı 180 derecedir."
        ],
-       "bilgi": "Pragmatizme göre bir düşüncenin değeri, gündelik yaşamda sağladığı sonuç ve yarara göre belirlenir.",
+       "kok": "önermelerinden hangileri apriori bilgiye örnektir?",
+       "secenekler": [
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Bekârın evli olmaması ve üçgenin iç açıları toplamı akılla, deneyime başvurmadan bilinir. Demirin ısıtılınca genleştiği ise ancak deneyle öğrenilebilen aposteriori bir bilgidir.",
        "sayfa": 191,
        "yil": "2022-TYT"
       },
       {
-       "id": "1.8-04",
-       "tur": "dy",
-       "ifade": "\"Demir ısıtılınca genleşir.\" önermesi apriori bir bilgidir.",
-       "dogru": false,
-       "bilgi": "Apriori bilgi yalnızca akıldan türetilir ve deneyimle çürütülemez; ısıtılan demirin genleşmesi ise deneyle öğrenilen aposteriori bir bilgidir.",
-       "sayfa": 191,
-       "yil": "2022-TYT"
-      },
-      {
-       "id": "1.8-05",
-       "tur": "dy",
-       "ifade": "Hiç görmediği bir mavi tonunu zihninde tasarlayabilen kişi örneği, bütün bilgimizin yalnızca duyu izlenimlerinden geldiği görüşüne yöneltilmiş bir eleştiridir.",
-       "dogru": true,
-       "bilgi": "Duyularla hiç algılanmamış bir renk tonunun zihinde oluşturulabilmesi, tüm bilginin dış dünyadan edinilen izlenimlerden oluştuğu görüşünü sarsar.",
+       "id": "1.8-03",
+       "tur": "secmeli",
+       "soru": "Bütün düşüncelerimizin, daha önce duyularla edindiğimiz izlenimlerin kopyaları olduğu ileri sürülür. Oysa mavinin bütün tonlarını görmüş ama yalnızca tek bir tonunu hiç görmemiş biri, bu tonları koyudan açığa doğru sıraladığında eksik tonun yerini fark eder ve o tonu zihninde canlandırabilir.\nBu örnek aşağıdaki görüşlerden hangisine yöneltilmiş bir eleştiridir?",
+       "secenekler": [
+        "Bütün bilgilerimiz deneyimden gelir.",
+        "Bilginin kaynağı yalnızca akıldır.",
+        "İnsan hiçbir konuda kesin bilgiye ulaşamaz.",
+        "Bir bilginin değeri, pratik yararıyla ölçülür.",
+        "Bilgi, zihnin kategorileriyle duyu verilerinin birleşmesidir."
+       ],
+       "dogru": 0,
+       "bilgi": "Hiç algılanmamış bir renk tonunun zihinde oluşturulabilmesi, bütün bilginin duyu izlenimlerinden geldiğini savunan empirizmi sarsar. Bilginin değerini pratik sonuçlarıyla ölçen ise pragmatizmdir.",
        "sayfa": 192,
        "yil": "2023-TYT"
       },
       {
-       "id": "1.8-06",
-       "tur": "bosluk",
-       "cumle": "Kant'a göre algıladığımız dünyayı zihnimizdeki evrensel ve zorunlu ___ aracılığıyla kurarız.",
-       "cevap": "kategoriler",
-       "celdiriciler": [
-        "idealar",
-        "izlenimler",
-        "doğuştan fikirler"
+       "id": "1.8-04",
+       "tur": "secmeli",
+       "soru": "Bilgilerimizin hepsi deneyimle başlar; ama bu, hepsinin deneyimden kaynaklandığı anlamına gelmez. Zihin, duyulardan gelen malzemeyi edilgen biçimde kaydetmez; onu kendi evrensel ve zorunlu kategorileriyle düzenleyerek nesneyi kurar. Bu kategoriler kişiden kişiye değişmez, insan türüne özgüdür.\nBu görüşe göre,",
+       "oncul": [
+        "Bilgi, duyu verileriyle zihnin etkinliğinin birlikte işlemesiyle oluşur.",
+        "Bilginin evrenselliği, zihnin yapısının bütün insanlarda ortak olmasına dayanır.",
+        "Zihin, doğuştan getirdiği hazır bilgilerle dış dünyayı deneyime gerek duymadan bilir."
        ],
-       "bilgi": "Kant'a göre bilginin kaynağı deneyimdir ama zihin edilgen değildir; bilgi bireye göre değil, insan türüne özgü zihinsel kalıplara göre oluşur.",
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Kant'a göre içeriksiz düşünceler boş, kavramsız sezgiler kördür; bilgi duyu verileriyle zihnin kategorilerinin birleşimidir. Kategoriler insan türüne özgü olduğundan bilgi evrenseldir.",
        "sayfa": 192,
        "yil": "2025-TYT"
       }
@@ -399,35 +391,41 @@
      "kartlar": [
       {
        "id": "1.9-01",
-       "tur": "bosluk",
-       "cumle": "Bilgi felsefesinde bir yargının olguya uygun olması ___, yargının konusu olan şeyin var olması ise gerçeklik olarak adlandırılır.",
-       "cevap": "doğruluk",
-       "celdiriciler": [
-        "tutarlılık",
-        "geçerlilik",
-        "kesinlik"
+       "tur": "secmeli",
+       "soru": "Bahçedeki bir ağaca bakan biri \"Bu bir kiraz ağacıdır.\" der; oysa ağaç bir vişne ağacıdır. Bilgi felsefesinde gerçeklik var olanla, doğruluk ise bir yargının var olana uygun olmasıyla ilgilidir.\nBuna göre,",
+       "oncul": [
+        "Bir yargının yanlış olması, konusu olan nesnenin var olmadığını gösterir.",
+        "Örnekteki ağaç gerçek olduğu hâlde onunla ilgili yargı yanlıştır.",
+        "Doğruluk, nesnelerin değil yargıların bir niteliğidir."
        ],
-       "bilgi": "Copernicus'un tezlerinin gerçekte mümkün olması gerekmediğini, gözleme uyan isabetli hesapların yeterli olduğunu söylemesi doğruluk-gerçeklik ayrımına dayanır.",
-       "sayfa": 193,
-       "yil": "2021-TYT"
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Ağaç gerçektir ama onunla ilgili yargı olguya uymadığı için yanlıştır. Gerçeklik varlıkla, doğruluk ise yargının olguya uygunluğuyla ilgilidir; yargının yanlışlığı nesnenin yokluğunu göstermez.",
+       "sayfa": 194,
+       "yil": "2024-TYT"
       },
       {
        "id": "1.9-02",
-       "tur": "dy",
-       "ifade": "Nietzsche'ye göre hakikat, özneden bağımsız olarak var olan ve keşfedilmeyi bekleyen bir şeydir.",
-       "dogru": false,
-       "bilgi": "Nietzsche'ye göre hakikat keşfedilmez, icat edilir; özne olguları bulunduğu konuma göre yorumladığı için özneden bağımsız mutlak bir hakikat yoktur.",
+       "tur": "secmeli",
+       "soru": "Bu düşünüre göre olgular yoktur, yalnızca yorumlar vardır. Her özne dünyaya kendi bakış açısından bakar ve olguları bulunduğu konuma göre anlamlandırır. Bu yüzden hakikat, filozofun ya da bilim insanının keşfetmeyi beklediği hazır bir şey değil, insanın kendi yaşamsal ihtiyaçlarına göre ortaya koyduğu bir şeydir.\nBu görüşe göre aşağıdakilerden hangisi söylenemez?",
+       "secenekler": [
+        "Bilgi, bilenin bakış açısından bağımsız değildir.",
+        "Aynı olgu farklı biçimlerde yorumlanabilir.",
+        "Hakikat, insan tarafından oluşturulur.",
+        "Herkes için geçerli, mutlak bir hakikat bulunmaz.",
+        "Hakikat, özneden bağımsız olarak keşfedilir."
+       ],
+       "dogru": 4,
+       "bilgi": "Nietzsche'nin perspektivizmine göre hakikat keşfedilmez, icat edilir; özne olguları bulunduğu konuma göre yorumladığından özneden bağımsız, mutlak bir hakikat yoktur.",
        "sayfa": 193,
        "yil": "2021-TYT"
-      },
-      {
-       "id": "1.9-03",
-       "tur": "dy",
-       "ifade": "Gerçekten var olan bir ağaç hakkında \"Bu bir kiraz ağacıdır.\" yargısının yanlış çıkması, gerçeklik ile doğruluğun farklı kavramlar olduğunu gösterir.",
-       "dogru": true,
-       "bilgi": "Gerçeklik var olanla, doğruluk ise yargının var olana uygunluğuyla ilgilidir; nesne gerçek olduğu hâlde onunla ilgili yargı yanlış olabilir.",
-       "sayfa": 194,
-       "yil": "2024-TYT"
       }
      ]
     },
@@ -442,19 +440,23 @@
      "kartlar": [
       {
        "id": "1.10-01",
-       "tur": "dy",
-       "ifade": "İnsanı ve evreni anlamanın tek güvenilir aracı bilimdir.",
-       "dogru": false,
-       "bilgi": "Bilim belli bir yaklaşımın tekelinde değildir ve evreni anlamanın tek yolu da değildir; felsefe, sanat ve din de var olanı anlamanın yollarıdır.",
-       "sayfa": 194,
-       "yil": "2019-TYT"
-      },
-      {
-       "id": "1.10-02",
-       "tur": "dy",
-       "ifade": "Bilimsel gelişmeler; kişisel motivasyonlardan, ahlaki değerlerden ve siyasi beklentilerden yalıtılmış biçimde gerçekleşir.",
-       "dogru": false,
-       "bilgi": "Bilim, kişisel değer yargıları ve toplumsal koşullarla iç içedir; bilimsel buluşlar tarihsel bir bağlam içinde ortaya çıkar.",
+       "tur": "secmeli",
+       "soru": "Bilimsel bilginin değeri tartışılmaz; ancak bilimi evreni anlamanın tek yolu saymak doğru değildir. Felsefe, sanat ve din de insanın var olanı anlamlandırma çabalarıdır. Üstelik bilim, onu yapan insanların merakından, değer yargılarından ve içinde bulundukları toplumun beklentilerinden yalıtılmış bir etkinlik de değildir.\nBu parçaya göre,",
+       "oncul": [
+        "Bilim, gerçekliği kavramanın biricik güvenilir yoludur.",
+        "Bilimsel etkinlik, tarihsel ve toplumsal bağlamından etkilenir.",
+        "Bilimin dışındaki alanlar da insanın evreni anlama çabasına katkı sağlar."
+       ],
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Parçaya göre bilim evreni anlamanın tek yolu değildir ve kişisel değerlerle toplumsal koşullardan yalıtılmış biçimde gelişmez; felsefe, sanat ve din de var olanı anlamanın yollarıdır.",
        "sayfa": 195,
        "yil": "2024-TYT"
       }
@@ -470,26 +472,35 @@
      "kartlar": [
       {
        "id": "1.11-01",
-       "tur": "bosluk",
-       "cumle": "MacIntyre'a göre modern dünyada ahlak dili, ait olduğu düşünce bütünlüğünü yitirmiş bölük pörçük ___ hâlindedir.",
-       "cevap": "fragmanlar",
-       "celdiriciler": [
-        "yasalar",
-        "ödevler",
-        "sözleşmeler"
+       "tur": "secmeli",
+       "soru": "I. Görüş: İyinin ne olduğunu gerçekten bilen kişi kötü davranamaz; kimse bile isteye kötülük yapmaz, kötülük bilgisizliğin sonucudur.\nII. Görüş: İnsan iyiyi bildiği hâlde kötüyü seçebilir; çünkü iyilik ve kötülük, insanın iradesini özgürce nasıl kullandığına bağlıdır.\nBu iki görüşü birbirinden ayıran temel nokta aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Ahlaki eylemi belirleyenin bilgi mi irade mi olduğu",
+        "İyi eylemin mutluluğa götürüp götürmediği",
+        "Ahlak yasalarının evrensel olup olmadığı",
+        "İnsanın doğuştan iyi mi kötü mü olduğu",
+        "Ahlaki değerlerin toplumdan topluma değişip değişmediği"
        ],
-       "bilgi": "MacIntyre, modern ahlak dilinde temel ahlaki kavramların ait oldukları bağlamdan koparıldığını ve yalnızca ahlakın suretine sahip olduğumuzu savunur.",
-       "sayfa": 195,
-       "yil": "2019-TYT"
+       "dogru": 0,
+       "bilgi": "Birinci görüş kötülüğü bilgisizliğe bağlayan Sokrates'e aittir. İkinci görüş ise iyiliği ve kötülüğü bilgiden çok, insanın özgür iradesini nasıl kullandığına bağlar.",
+       "sayfa": 196,
+       "yil": "2025-TYT"
       },
       {
        "id": "1.11-02",
-       "tur": "dy",
-       "ifade": "\"Hiç kimse bile isteye kötülük yapmaz.\" görüşü, kötülüğü bilgisizliğe bağlayan Sokrates'in ahlak anlayışını yansıtır.",
-       "dogru": true,
-       "bilgi": "Sokrates'e göre kötülük bilgisizlikten doğar; buna karşı çıkanlar ise iyilik ve kötülüğün insanın iradesini özgürce nasıl kullandığına bağlı olduğunu savunur.",
-       "sayfa": 196,
-       "yil": "2025-TYT"
+       "tur": "secmeli",
+       "soru": "Büyük bir felaketten sonra bilimden geriye yalnızca dağınık parçaların kaldığını düşünelim. İnsanlar ezberledikleri terimleri kullanmayı sürdürür, ama bu terimlerin anlam kazandığı kuramsal bütünlüğü artık bilmezler. Bu düşünüre göre modern dünyada ahlak dili de böyledir: \"Erdem\", \"ödev\", \"hak\" gibi kavramlar, ait oldukları düşünce bütünlüğünden koparılmış fragmanlar olarak kullanılmaktadır. Elimizde ahlakın kendisi değil, yalnızca sureti vardır.\nBu parçada asıl yakınılan durum aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Ahlaki kavramların ait oldukları bağlamdan kopması",
+        "Ahlak kurallarının yazılı bir metne dönüştürülmemiş olması",
+        "Bilimsel gelişmelerin ahlaki değerleri önemsizleştirmesi",
+        "Ahlaki kavramların sayısının giderek azalması",
+        "Toplumların ortak bir ahlak dili oluşturmaya çalışması"
+       ],
+       "dogru": 0,
+       "bilgi": "MacIntyre'a göre modern ahlak dili, temel kavramların ait olduğu düşünce bütünlüğünü yitirmiş bölük pörçük fragmanlardan oluşur; bu yüzden elimizde ahlakın yalnızca sureti kalmıştır.",
+       "sayfa": 195,
+       "yil": "2019-TYT"
       }
      ]
     },
@@ -503,49 +514,35 @@
      "kartlar": [
       {
        "id": "1.12-01",
-       "tur": "bosluk",
-       "cumle": "Levinas'a göre ahlaki değerlendirmenin merkezinde, başkasına yönelen ___ kavramı yer alır.",
-       "cevap": "sorumluluk",
-       "celdiriciler": [
-        "haz",
-        "çıkar",
-        "erdem"
+       "tur": "secmeli",
+       "soru": "Bu görüşe göre doğadaki her olay gibi insanın her eylemi de kendisinden önceki nedenlerin zorunlu sonucudur. Nedenlerin tamamını bilen bir zihin, bir insanın gelecekte ne yapacağını da kesin olarak önceden bilebilir; insan yaşamı, baştan sona yazılmış bir kitap gibidir.\nBu görüşü savunan biri aşağıdaki yargılardan hangisine karşı çıkar?",
+       "secenekler": [
+        "İnsan eylemleri de doğa yasalarına bağlıdır.",
+        "Geçmişteki koşullar bugünkü seçimlerimizi belirler.",
+        "İnsan, hiçbir nedenle belirlenmeden seçim yapabilir.",
+        "Yeterli bilgiyle insan davranışları önceden kestirilebilir.",
+        "Karakterimiz, yetiştiğimiz çevrenin etkisiyle biçimlenir."
        ],
-       "bilgi": "Levinas'a göre yalnızca kendimizi korumaya yönelik eylemler ahlaki değildir; ahlak, kendimiz dışında bir başkasının varlığını kabul etmeyi zorunlu olarak içerir.",
-       "sayfa": 196,
-       "yil": "2019-TYT"
+       "dogru": 2,
+       "bilgi": "Determinizme göre eylemler önceki nedenlerle zorunlu olarak belirlenir; nedensiz özgür seçimi savunan indeterminizmi reddeder. Fatalizm ise ne yapılırsa yapılsın sonucun değişmeyeceğini savunan kadercilik anlayışıdır.",
+       "sayfa": 197,
+       "yil": "2026-TYT"
       },
       {
        "id": "1.12-02",
-       "tur": "dy",
-       "ifade": "Camus'ye göre özgürlük, hiçbir yasa ve değerle sınırlanmadan her şeyi istediği gibi yapabilmektir.",
-       "dogru": false,
-       "bilgi": "Camus'ye göre özgürlük ne yasanın mutlak egemenliği ne de bütünüyle yokluğudur; bir eylemi seçmek bir değer ve amacın varlığını gerektirir.",
+       "tur": "secmeli",
+       "soru": "Bu düşünüre göre özgürlük, ne yasanın mutlak egemenliği ne de hiçbir yasanın bulunmamasıdır. Her şeyin serbest olduğu bir dünyada seçim yapmanın anlamı kalmaz; çünkü bir eylemi diğerine yeğlemek, ondan önce bir değerin ve bir amacın varlığını gerektirir.\nBu parçaya göre özgürlük ile ilgili aşağıdakilerden hangisi söylenebilir?",
+       "secenekler": [
+        "Değerlere dayanan bir seçme olanağıdır.",
+        "Toplumun koyduğu yasalara tam bir boyun eğiştir.",
+        "Hiçbir değer ya da kurala bağlı olmadan davranabilmektir.",
+        "Yalnızca düşünce dünyasında gerçekleşebilir.",
+        "Doğa yasalarının yarattığı bir yanılsamadır."
+       ],
+       "dogru": 0,
+       "bilgi": "Camus'ye göre özgürlük sınırsızlık değildir; seçim yapmak bir değerin ve amacın varlığını gerektirir. Levinas ise ahlakın merkezine, başkasının varlığını kabul etmeyi içeren sorumluluğu koyar.",
        "sayfa": 197,
        "yil": "2020-TYT"
-      },
-      {
-       "id": "1.12-03",
-       "tur": "bosluk",
-       "cumle": "Ne yapılırsa yapılsın sonucun önceden belirlendiğini ve değişmeyeceğini savunan kaderci görüşe ___ denir.",
-       "cevap": "fatalizm",
-       "celdiriciler": [
-        "indeterminizm",
-        "otodeterminizm",
-        "pragmatizm"
-       ],
-       "bilgi": "Yazgının yanında özgür iradenin de etkili olduğunu düşünen biri, insanın elinden geleni yapıp sonrasını kadere bırakması gerektiğini savunur.",
-       "sayfa": 197,
-       "yil": "2023-TYT"
-      },
-      {
-       "id": "1.12-04",
-       "tur": "dy",
-       "ifade": "Belirlenimciliğe (determinizm) göre insanın gelecekte yapacağı eylemler de önceden belirlenmiştir.",
-       "dogru": true,
-       "bilgi": "Determinizme göre her olay ve eylem önceki nedenlerle zorunlu olarak belirlenir; bir insanın tüm yaşamı baştan sona yazılmış bir kitap gibidir.",
-       "sayfa": 197,
-       "yil": "2026-TYT"
       }
      ]
     },
@@ -559,15 +556,23 @@
      "kartlar": [
       {
        "id": "1.13-01",
-       "tur": "bosluk",
-       "cumle": "Epiküros'a göre gerçek haz, bedende acı çekmemek ve ruhta hiçbir ___ duymamaktır.",
-       "cevap": "huzursuzluk",
-       "celdiriciler": [
-        "sevinç",
-        "istek",
-        "merak"
+       "tur": "secmeli",
+       "soru": "Hazzın yaşamın amacı olduğunu söylediğimizde, sefihlerin hazlarını ya da yeme içmenin sınırsız zevkini kastetmiyoruz. Haz, bedende acı çekmemek ve ruhta tedirginlik duymamaktır. Bu dinginliğe ulaşmak için ise doğal ve zorunlu olmayan isteklerden vazgeçmek gerekir.\nBu görüşe göre,",
+       "oncul": [
+        "Mutluluk, bedensel zevklerin sınırsızca doyurulmasıyla elde edilir.",
+        "Ahlaki eylemin ölçütü, herkes için geçerli evrensel bir ödev yasasıdır.",
+        "Haz, acının ve kaygının yokluğu olarak anlaşılmalıdır."
        ],
-       "bilgi": "Hazzı yaşamın amacı sayan Epiküros, hazdan maddi zevklerin sınırsızca doyurulmasını değil, acıdan kaçınmayı ve ruh dinginliğini anlar.",
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Epiküros hazzı yaşamın amacı sayar ama bunu sınırsız zevk olarak değil, bedende acının ve ruhta huzursuzluğun yokluğu olarak anlar. Ahlakı evrensel bir ödev yasasına değil, hazza dayandırır.",
        "sayfa": 198,
        "yil": "2020-TYT"
       }
@@ -585,15 +590,16 @@
       {
        "id": "1.14-01",
        "tur": "secmeli",
-       "soru": "Tragedyaları etik için yol gösterici bir kaynak sayan \"İyiliğin Kırılganlığı\" adlı eserin yazarı kimdir?",
+       "soru": "Bu düşünüre göre Yunan tragedyalarının kahramanları, ellerinde olmayan talihsizliklerle sarsılır ama iyi olanın peşinden gitmekten vazgeçmez. Bu eserler, iyi bir insan olmanın dünyaya karşı kapanıp dokunulmaz olmak değil, kötü rastlantılar karşısında incinmeyi göze almak olduğunu gösterir. Bu nedenle tragedyalar, etik üzerine düşünmek için değerli bir kaynaktır.\nBu parçaya göre aşağıdakilerden hangisi söylenebilir?",
        "secenekler": [
-        "Hannah Arendt",
-        "Simone de Beauvoir",
-        "Martha Nussbaum",
-        "Iris Murdoch"
+        "İyi yaşam, talihin etkisine kapalı değildir.",
+        "İyi insan, kötü rastlantılardan hiç etkilenmez.",
+        "Mutluluk, yalnızca kişinin iradesine bağlıdır.",
+        "Edebî eserler, etik düşünceye kaynaklık edemez.",
+        "Kırılganlık, iyi bir yaşamın önündeki en büyük engeldir."
        ],
-       "dogru": 2,
-       "bilgi": "Nussbaum'a göre iyi insan olmak, kötü rastlantılar karşısında incinmeyi göze almayı gerektirir; iyi davranış belirsizlikte bile yönünü değiştirmez.",
+       "dogru": 0,
+       "bilgi": "Nussbaum İyiliğin Kırılganlığı'nda iyi yaşamın talihe açık ve kırılgan olduğunu, iyi insanın kötü rastlantılar karşısında incinmeyi göze alarak iyiden yana kalabildiğini savunur.",
        "sayfa": 198,
        "yil": "2024-TYT"
       }
@@ -610,52 +616,35 @@
      "kartlar": [
       {
        "id": "1.15-01",
-       "tur": "eslestir",
-       "yonerge": "Filozofları Tanrı-evren ilişkisine dair görüşleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Platon",
-         "Demiurgos maddeye idealara bakarak biçim verir"
-        ],
-        [
-         "Aristoteles",
-         "Tanrı varlığın yaratıcısı değil amacıdır"
-        ],
-        [
-         "Farabi",
-         "Varlık Tanrı'dan taşma (sudûr) yoluyla çıkar"
-        ],
-        [
-         "Anselmus",
-         "Tanrı her şeyi yoktan var etmiştir"
-        ]
+       "tur": "secmeli",
+       "soru": "Tanrı ile evren arasındaki ilişki, din felsefesinin temel sorunlarından biridir.\nBu soruna ilişkin aşağıdaki filozof–görüş eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "Platon – Demiurgos, maddeye idealara bakarak biçim verir.",
+        "Aristoteles – Tanrı, evrenin yaratıcısı değil, yöneldiği amaçtır.",
+        "Farabi – Varlıklar, Tanrı'dan taşma (sudur) yoluyla meydana gelir.",
+        "Spinoza – Tanrı ile doğa özdeştir; her şey Tanrı'nın içindedir.",
+        "Anselmus – Evren, Tanrı'dan bağımsız olarak ezelden beri vardır."
        ],
-       "bilgi": "Tanrı ile evren arasındaki ilişki din felsefesinin temel problemlerindendir ve filozoflar bu konuda farklı açıklamalar getirmiştir.",
+       "dogru": 4,
+       "bilgi": "Anselmus, Hristiyan inancına uygun olarak Tanrı'nın her şeyi yoktan yarattığını savunur. Spinoza'nın Tanrı ile doğayı özdeş gören görüşü ise panteizmdir.",
        "sayfa": 199,
        "yil": "2018-TYT"
       },
       {
        "id": "1.15-02",
-       "tur": "dy",
-       "ifade": "Gazali'ye göre asıl sanat, yoktan yaratan ve yarattıklarına eşsiz biçimler veren Tanrı'nın sanatıdır.",
-       "dogru": true,
-       "bilgi": "Gazali, ressamın yalnızca var olan malzemeleri bir araya getirdiğini, malzemelerin ve yeteneğin ise Tanrı tarafından yaratıldığını vurgular.",
+       "tur": "secmeli",
+       "soru": "Bir ressamın tablosunu beğendiğimizde onu yapanın ustalığını övmekten geri durmayız. Oysa ressam, var olan boyaları ve tuvali bir araya getirmekten başka bir şey yapmamıştır; ne bu malzemeleri ne de kendisindeki yeteneği o yaratmıştır. Asıl hayranlık duyulması gereken, her şeyi yoktan var eden ve yarattıklarına eşsiz biçimler verendir.\nBu parçada asıl vurgulanmak istenen düşünce aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Gerçek sanatçı, yoktan yaratan Tanrı'dır.",
+        "Sanat eserinin değeri kullanılan malzemeden gelir.",
+        "Sanatçı, doğayı taklit ettiği ölçüde başarılıdır.",
+        "Güzellik, izleyicinin kişisel beğenisine bağlıdır.",
+        "Sanat eseri, sanatçının duygularını dışa vurur."
+       ],
+       "dogru": 0,
+       "bilgi": "Gazali'ye göre ressam yalnızca var olan malzemeyi bir araya getirir; malzemeyi de yeteneği de yaratan Tanrı'dır. Asıl sanat, yoktan yaratıp eşsiz biçimler veren Tanrı'nın sanatıdır.",
        "sayfa": 199,
        "yil": "2019-TYT"
-      },
-      {
-       "id": "1.15-03",
-       "tur": "bosluk",
-       "cumle": "Tanrı ile evreni özdeş gören, aşkın bir Tanrı'yı reddedip her şeyin Tanrı'nın parçası olduğunu savunan görüşe ___ denir.",
-       "cevap": "panteizm",
-       "celdiriciler": [
-        "deizm",
-        "teizm",
-        "agnostisizm"
-       ],
-       "bilgi": "Panteizme göre Tanrı evrenin dışında ya da üstünde değil, evrene içkindir; doğa bir bütün olarak Tanrı ile özdeştir.",
-       "sayfa": 200,
-       "yil": "2022-TYT"
       }
      ]
     },
@@ -670,21 +659,19 @@
      "kartlar": [
       {
        "id": "1.16-01",
-       "tur": "dy",
-       "ifade": "Rawls'a göre adil bir toplumda yasalar, sosyal ve ekonomik eşitsizlikleri gidermek için en az avantajlı olanın yararına düzenlenmelidir.",
-       "dogru": true,
-       "bilgi": "Rawls'ın iki adalet ilkesi eşit temel özgürlükler ve eşitsizliklerin en az avantajlıların yararına düzenlenmesidir; doğuştan farklar devletin temeli yapılamaz.",
+       "tur": "secmeli",
+       "soru": "I. Görüş: Adil bir toplumda herkes eşit temel özgürlüklere sahip olmalıdır. Sosyal ve ekonomik eşitsizliklere ancak toplumun en dezavantajlı kesiminin yararına olacak biçimde izin verilebilir.\nII. Görüş: Devlet bireyin yaşamına yalnızca başkalarının haklarını korumak için müdahale edebilir. Kimse kendi iyiliği için sağlıklı ya da zengin olmaya zorlanamaz.\nBu görüşlerle ilgili aşağıdakilerden hangisi söylenebilir?",
+       "secenekler": [
+        "Birincisi adil paylaşımı, ikincisi müdahalenin sınırını öne çıkarır.",
+        "İkisi de bireyin kendi iyiliği için devletçe zorlanabileceğini savunur.",
+        "Birincisi doğuştan gelen farkları toplumsal düzenin temeli sayar.",
+        "İkincisi ekonomik eşitliği sağlamayı devletin görevi sayar.",
+        "İkisi de temel özgürlüklerin kısıtlanmasını haklı görür."
+       ],
+       "dogru": 0,
+       "bilgi": "Birinci görüş Rawls'ın adalet ilkeleridir: eşit temel özgürlükler ve en az avantajlıların yararına düzenlenen eşitsizlikler. İkinci görüş liberal anlayıştır: Devlet yalnızca başkalarının haklarını korumak için müdahale eder.",
        "sayfa": 200,
        "yil": "2018-TYT"
-      },
-      {
-       "id": "1.16-02",
-       "tur": "dy",
-       "ifade": "Liberal devlet anlayışına göre devlet, bireyin yalnızca kendine zarar veren ihmallerine de yasayla müdahale etmelidir.",
-       "dogru": false,
-       "bilgi": "Liberal anlayışta devlet yalnızca bireysel haklar başkalarınca ihlal edildiğinde müdahale eder; kimse kendi iyiliği için zengin ya da sağlıklı olmaya zorlanamaz.",
-       "sayfa": 201,
-       "yil": "2019-TYT"
       }
      ]
     },
@@ -699,49 +686,41 @@
      "kartlar": [
       {
        "id": "1.17-01",
-       "tur": "bosluk",
-       "cumle": "Sanatın temelini sanatçının duygu, sezgi ve deneyimlerinin yapıta yansımasında gören akıma ___ denir.",
-       "cevap": "dışavurumculuk",
-       "celdiriciler": [
-        "yansıtmacılık",
-        "biçimcilik",
-        "gerçekçilik"
+       "tur": "secmeli",
+       "soru": "I. Bir sanat eserinin değeri, sanatçının duygu, sezgi ve deneyimlerini ne ölçüde özgün ve içten biçimde yansıttığına bağlıdır.\nII. Beğeni yargısı, nesneden herhangi bir çıkar beklenmeden verilir; bu nedenle kişisel bir hoşlanmadan farklı olarak herkes için geçerli olma iddiası taşır.\nIII. Her kültürün kendine özgü estetik ölçütleri vardır; bir beğeni yargısı ancak kendi kültür çevresi içinde geçerlidir.\nBu görüşlerle ilgili aşağıdakilerden hangisi söylenebilir?",
+       "secenekler": [
+        "I. görüş eserin değerini izleyicinin onayına, II. görüş sanatçının içtenliğine bağlar.",
+        "II. görüş beğeniyi genelgeçer sayarken III. görüş onu kültüre göre göreli bulur.",
+        "III. görüş evrensel estetik ölçütleri savunurken II. görüş bunları reddeder.",
+        "I. ve II. görüşler beğeni yargısını kişisel çıkara dayandırır.",
+        "II. ve III. görüşler eserin değerini sanatçının niyetinde arar."
        ],
-       "bilgi": "Dışavurumculuğa göre eserin değeri sanatçının özgünlüğü ve içtenliğiyle belirlenir; sanatçının gerçekliğe bağlı kalma ya da beğeni kazanma sorumluluğu yoktur.",
-       "sayfa": 201,
-       "yil": "2018-TYT"
+       "dogru": 1,
+       "bilgi": "I. görüş dışavurumculuktur. II. görüş Kant'ın çıkar gözetmeyen, genelgeçer beğeni yargısıdır. III. görüş kültürel rölativizmdir; beğeni yargılarını yalnızca kendi kültür çevresinde geçerli sayar.",
+       "sayfa": 202,
+       "yil": "2023-TYT"
       },
       {
        "id": "1.17-02",
-       "tur": "dy",
-       "ifade": "Beğeni yargısını çıkar gözetmeyen, apriori ve genelgeçer bir yargı sayan anlayış, estetik yargıların göreli olduğunu kabul eder.",
-       "dogru": false,
-       "bilgi": "Bu anlayışa göre güzellik nesnenin niteliklerine bağlıdır; çıkarsız beğeni yargısı keyfî ya da göreli değil, genelgeçer ve zorunludur.",
-       "sayfa": 201,
-       "yil": "2019-TYT"
-      },
-      {
-       "id": "1.17-03",
-       "tur": "dy",
-       "ifade": "Doğa güzelliklerinden farklı olarak bir sanat eseri bir konuya ve anlama sahip olduğu için yorumlanabilir.",
-       "dogru": true,
-       "bilgi": "Bir dağ manzarası güzel bulunabilir ama yorumlanamaz; bir dağ resmi ise bir şeyin temsili olduğu için ne ifade ettiği sorulabilir.",
+       "tur": "secmeli",
+       "soru": "Bir dağ manzarasını güzel bulabiliriz ama \"Bu manzara ne anlatıyor?\" diye sormayız. Oysa bir dağ resminin karşısında ressamın bu resimle ne ifade etmek istediğini sorarız; çünkü resim, bir şeyin temsilidir ve bir konuya, bir anlama sahiptir.\nBu parçaya göre,",
+       "oncul": [
+        "Doğa manzaraları güzel bulunamaz.",
+        "Sanat eseri, bir anlam taşıdığı için yorumlanabilir.",
+        "Bir resmin değeri, doğadaki karşılığına benzerliğiyle ölçülür."
+       ],
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Doğa güzel bulunabilir ama yorumlanamaz; sanat eseri ise bir şeyin temsili olduğundan anlamı sorulabilir ve yorumlanabilir. Parçada resmin değerinin benzerlikle ölçüldüğüne dair bir yargı yoktur.",
        "sayfa": 202,
        "yil": "2021-TYT"
-      },
-      {
-       "id": "1.17-04",
-       "tur": "bosluk",
-       "cumle": "Her kültürün kendine özgü estetik değerleri olduğunu ve beğeni yargılarının yalnızca kendi kültür çevresinde geçerli olduğunu savunan yaklaşıma ___ denir.",
-       "cevap": "kültürel rölativizm",
-       "celdiriciler": [
-        "estetik nesnelcilik",
-        "evrenselcilik",
-        "biçimcilik"
-       ],
-       "bilgi": "Kültürel rölativizm, beğenileri tamamen bireysel ya da tamamen birey üstü gören iki karşıt anlayışı uzlaştırıcı bir seçenek olarak görülür.",
-       "sayfa": 202,
-       "yil": "2023-TYT"
       }
      ]
     },
@@ -756,62 +735,33 @@
      "kartlar": [
       {
        "id": "1.18-01",
-       "tur": "eslestir",
-       "yonerge": "Doğa filozoflarını evrenin ana maddesi (arkhe) olarak gördükleri şeyle eşleştir.",
-       "ciftler": [
-        [
-         "Thales",
-         "Su"
-        ],
-        [
-         "Anaksimenes",
-         "Hava"
-        ],
-        [
-         "Herakleitos",
-         "Ateş"
-        ],
-        [
-         "Empedokles",
-         "Toprak, su, hava ve ateş"
-        ]
+       "tur": "secmeli",
+       "soru": "İlk filozoflar, değişen her şeyin ardındaki ilk maddeyi (arkhe) aramıştır.\nBu filozoflarla ilgili aşağıdaki filozof–arkhe eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "Thales – Su",
+        "Anaksimenes – Hava",
+        "Herakleitos – Ateş",
+        "Empedokles – Toprak, su, hava ve ateş",
+        "Anaksimandros – Sayı"
        ],
-       "bilgi": "Anaksimenes, evrenin arkhesi saydığı havayı canlılığın ilkesi olan ruhla özdeş görerek felsefi bir ruh öğretisi geliştirmiştir.",
+       "dogru": 4,
+       "bilgi": "Anaksimandros'a göre arkhe sınırsız ve belirsiz olan apeirondur; sayıyı arkhe sayan Pythagoras'tır. Anaksimenes ise havayı canlılığın ilkesi olan ruhla özdeş görmüştür.",
        "sayfa": 203,
        "yil": "2023-TYT"
       },
       {
        "id": "1.18-02",
-       "tur": "eslestir",
-       "yonerge": "Anadolu'da yaşamış filozofları ilişkilendirildikleri antik kentle eşleştir.",
-       "ciftler": [
-        [
-         "Anaksimenes",
-         "Miletos"
-        ],
-        [
-         "Herakleitos",
-         "Efes (Ephesos)"
-        ],
-        [
-         "Ksenofanes",
-         "Kolophon"
-        ],
-        [
-         "Aristoteles",
-         "Assos"
-        ]
+       "tur": "secmeli",
+       "soru": "Efesli bir filozofa göre evrende hiçbir şey olduğu gibi kalmaz; her şey karşıtların çatışması içinde durmadan değişir. Aynı ırmağa ikinci kez girdiğimizde ne ırmak eskisidir ne de biz. Ancak bu değişimin ardında her şeye yön veren evrensel bir düzen, bir logos bulunur.\nBu parçada sözü edilen filozofla ilgili aşağıdakilerden hangisi söylenemez?",
+       "secenekler": [
+        "Değişimi evrenin temel özelliği olarak gördüğü",
+        "Karşıtlar arasındaki çatışmaya önem verdiği",
+        "Değişimin bir düzen içinde gerçekleştiğini savunduğu",
+        "Değişimi bir yanılsama olarak gördüğü",
+        "Doğayı açıklarken akla dayalı bir ilke aradığı"
        ],
-       "bilgi": "Felsefenin doğuşunda Batı Anadolu kentleri önemli rol oynamış; Miletos, Efes ve Kolophon ilk filozofların yaşadığı merkezler olmuştur.",
-       "sayfa": 203,
-       "yil": "2026-TYT"
-      },
-      {
-       "id": "1.18-03",
-       "tur": "dy",
-       "ifade": "Herakleitos'un \"Aynı ırmakta iki kez yıkanılmaz.\" sözü, değişim problemine ilişkindir.",
-       "dogru": true,
-       "bilgi": "Efesli Herakleitos her şeyin sürekli değiştiğini savunmuş ve bu düşüncesini akan ırmak benzetmesiyle anlatmıştır.",
+       "dogru": 3,
+       "bilgi": "Herakleitos her şeyin karşıtların çatışmasıyla sürekli değiştiğini ve bu değişimin logosa göre gerçekleştiğini savunur; değişimi yanılsama sayan Parmenides'tir. Efes ve Miletos, ilk filozofların yaşadığı Anadolu kentleridir.",
        "sayfa": 203,
        "yil": "2026-TYT"
       }
@@ -827,10 +777,17 @@
      "kartlar": [
       {
        "id": "1.19-01",
-       "tur": "dy",
-       "ifade": "Sokrates, sofistler gibi bilginin ve değerlerin kişiden kişiye değiştiğini savunmuştur.",
-       "dogru": false,
-       "bilgi": "Sokrates doğa yerine insan ve ahlaka yönelmiş; sofistlerin göreceliğine karşı, her bilgiyi sorgulayarak herkes için geçerli mutlak bilgiye ulaşılabileceğini savunmuştur.",
+       "tur": "secmeli",
+       "soru": "I. Görüş: İnsan her şeyin ölçüsüdür. Bir şey bana nasıl görünüyorsa benim için öyle, sana nasıl görünüyorsa senin için öyledir.\nII. Görüş: Bilgelik, neyi bilip neyi bilmediğini bilmektir. Bildiğimizi sandığımız şeyleri sorgulayarak kavramların herkes için geçerli tanımlarına ulaşabiliriz.\nBu iki görüşü birbirinden ayıran temel nokta aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Evrensel bilginin mümkün olup olmadığı",
+        "Evrenin ana maddesinin ne olduğu",
+        "Tanrı'nın varlığının kanıtlanıp kanıtlanamayacağı",
+        "Devletin kimler tarafından yönetilmesi gerektiği",
+        "İnsanın doğayla uyum içinde yaşayıp yaşamadığı"
+       ],
+       "dogru": 0,
+       "bilgi": "Birinci görüş Protagoras'ın, dolayısıyla sofistlerin göreceliğini yansıtır. Sokrates ise sorgulama yoluyla herkes için geçerli bilgiye ulaşılabileceğini savunur ve bilgeliği bilmediğini bilmekte görür.",
        "sayfa": 204,
        "yil": "2022-TYT"
       }
@@ -848,72 +805,79 @@
      "kartlar": [
       {
        "id": "1.20-01",
-       "tur": "bosluk",
-       "cumle": "Aristoteles'e göre başka bir şeyin aracı olarak değil, yalnızca kendisi için istenen nihai iyi ___ olarak adlandırılır.",
-       "cevap": "mutluluk",
-       "celdiriciler": [
-        "zenginlik",
-        "ün",
-        "güç"
+       "tur": "secmeli",
+       "soru": "Erdem, biri aşırılıktan biri eksiklikten doğan iki kötülüğün arasındaki ortadır: Cesaret atılganlık ile korkaklığın, cömertlik ise savurganlık ile cimriliğin arasında yer alır. Ancak bu orta, herkes için aynı olan bir ortalama değildir. Bir güreşçi için az olan yemek miktarı, spora yeni başlayan biri için çok olabilir. Orta, kişiye ve duruma göre akılla belirlenir.\nBu parçaya göre,",
+       "oncul": [
+        "Erdem, aşırı uçlardan kaçınarak ölçülü davranmayı gerektirir.",
+        "Doğru ortanın belirlenmesinde aklın rolü vardır.",
+        "Doğru orta, her durumda aynı olan sabit bir ölçüdür."
        ],
-       "bilgi": "Aristoteles'e göre zenginlik gibi şeyler başka amaçların aracıdır; \"Niçin?\" sorusuna başka bir amaç göstermeyen nihai iyi mutluluktur.",
-       "sayfa": 204,
-       "yil": "2018-TYT"
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Aristoteles'e göre erdem, akılla belirlenen ve kişiye göre değişen doğru ortadır (altın orta). Orta göreli olsa da keyfî değildir; özünde kötü olan eylemlerin bir ortası yoktur.",
+       "sayfa": 206,
+       "yil": "2025-TYT"
       },
       {
        "id": "1.20-02",
-       "tur": "bosluk",
-       "cumle": "Duyularla algıladıklarımızın gerçeğin yalnızca gölgeleri olabileceğini anlatan ___ alegorisi Platon'a aittir.",
-       "cevap": "mağara",
-       "celdiriciler": [
-        "Çin odası",
-        "balmumu",
-        "boş levha"
+       "tur": "secmeli",
+       "soru": "Doğduklarından beri bir mağaranın dibinde zincirli duran insanlar, arkalarında yanan ateşin önünden geçen nesnelerin duvara düşen gölgelerinden başka bir şey görmemiştir ve bu gölgeleri gerçeğin kendisi sanır. İçlerinden biri zincirlerini kırıp dışarı çıktığında önce gözleri kamaşır; sonra yavaş yavaş nesnelerin kendisini ve onları aydınlatan güneşi görür.\nPlaton'un bu alegoriyle anlatmak istediği aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Duyularla algılanan dünyanın gerçeğin yansıması olduğu",
+        "Gerçek bilginin yalnızca duyu deneyimiyle kazanıldığı",
+        "İnsanların bilgiye ulaşmaya hiçbir zaman istekli olmadığı",
+        "Gerçekliğin herkese göre farklı biçimde var olduğu",
+        "Toplumsal kuralların bireyi her koşulda özgürleştirdiği"
        ],
-       "bilgi": "Platon'un mağara alegorisinde ömür boyu duvardaki gölgeleri gören mahkûmlar, duyular aracılığıyla bildiklerimizin bir yanılsama olabileceğini simgeler.",
+       "dogru": 0,
+       "bilgi": "Mağaradaki gölgeler duyularla algılanan dünyayı, dışarıdaki nesneler ve güneş ise akılla kavranan idealar dünyasını simgeler. Platon'a göre duyularla bildiklerimiz gerçeğin yalnızca gölgesidir.",
        "sayfa": 205,
        "yil": "2019-TYT"
       },
       {
        "id": "1.20-03",
-       "tur": "dy",
-       "ifade": "Platon'a göre ruh, bedene girmeden önce idealar evreninde tanıdığı bilgileri hatırlar; bu nedenle bilmek bir anımsamadır.",
-       "dogru": true,
-       "bilgi": "Platon, Menon diyaloğunda eğitimsiz bir kölenin geometri problemini çözmesini, ruhun idealar evreninden getirdiği bilgiyi anımsamasıyla açıklar.",
+       "tur": "secmeli",
+       "soru": "Platon, Menon diyaloğunda geometri eğitimi almamış bir kölenin, kendisine hiçbir bilgi verilmeden yalnızca sorular yöneltilerek bir geometri problemini çözdüğünü anlatır.\nPlaton bu örnekle aşağıdakilerden hangisini temellendirmeye çalışır?",
+       "secenekler": [
+        "Bilmenin, ruhun önceden bildiğini anımsaması olduğunu",
+        "Bilginin yalnızca duyu deneyimiyle kazanılabildiğini",
+        "Bilginin öğretmenden öğrenciye hazır biçimde aktarıldığını",
+        "Geometrinin deneysel bir bilim olduğunu",
+        "Zihnin doğuştan hiçbir bilgi taşımayan boş bir levha olduğunu"
+       ],
+       "dogru": 0,
+       "bilgi": "Platon'a göre ruh bedene girmeden önce idealar dünyasında gerçeği görmüştür; bilmek, unutulanı anımsamaktır. Zihnin doğuştan boş bir levha olduğu görüşü ise Locke'a aittir.",
        "sayfa": 205,
        "yil": "2021-TYT"
       },
       {
        "id": "1.20-04",
-       "tur": "bosluk",
-       "cumle": "Aristoteles'in, erdemi cimrilik ile savurganlık gibi iki aşırı uç arasında doğru ortayı bulmak olarak açıklayan ilkesine ___ denir.",
-       "cevap": "altın orta",
-       "celdiriciler": [
-        "kategorik buyruk",
-        "ataraksia",
-        "entelekheia"
+       "tur": "secmeli",
+       "soru": "Platon ve Aristoteles'in görüşleriyle ilgili,",
+       "oncul": [
+        "Platon, doğa filozoflarından farklı olarak asıl varlığı duyulur dünyanın dışında arar.",
+        "Aristoteles'e göre insan eylemlerinin nihai amacı, yalnızca kendisi için istenen mutluluktur.",
+        "Aristoteles, Platon'dan farklı olarak formları tek tek varlıkların içinde görür."
        ],
-       "bilgi": "Aristoteles'e göre örneğin cesaret, düşüncesizce atılganlık ile korkaklık arasındaki ortadır; cömertlik de cimrilik ile savurganlık arasında yer alır.",
-       "sayfa": 206,
-       "yil": "2021-TYT"
-      },
-      {
-       "id": "1.20-05",
-       "tur": "dy",
-       "ifade": "Platon da doğa filozofları gibi evreni su ya da hava gibi duyulur bir ana maddeyle açıklamıştır.",
-       "dogru": false,
-       "bilgi": "Platon, doğa filozoflarından farklı olarak düşüncesinin merkezine duyu dünyasına ait olmayan ve asıl varlık saydığı ideaları koymuştur.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Platon asıl varlığı değişmeyen idealarda görür. Aristoteles idealar dünyasını reddeder, formun maddeyle birlikte varlıkların içinde olduğunu savunur; ona göre nihai iyi, kendisi için istenen mutluluktur.",
        "sayfa": 206,
        "yil": "2024-TYT"
-      },
-      {
-       "id": "1.20-06",
-       "tur": "dy",
-       "ifade": "Aristoteles'e göre doğru orta kişiye ve koşullara göre değişebilir; yemekteki ölçü bir sporcu ile bir çocuk için aynı değildir.",
-       "dogru": true,
-       "bilgi": "Aristoteles'e göre orta kişiye göreli olsa da akılla belirlenir; özünde kötü olan eylemlerin ise bir ortası yoktur.",
-       "sayfa": 206,
-       "yil": "2025-TYT"
       }
      ]
     },
@@ -929,133 +893,109 @@
      "kartlar": [
       {
        "id": "1.21-01",
-       "tur": "bosluk",
-       "cumle": "Anselmus'un, Tanrı'nın varlığını \"kendisinden daha yetkini düşünülemeyen varlık\" kavramından çıkaran kanıtına ___ kanıt denir.",
-       "cevap": "ontolojik",
-       "celdiriciler": [
-        "kozmolojik",
-        "teleolojik",
-        "ahlaki"
+       "tur": "secmeli",
+       "soru": "İlk Çağ'da daha çok \"Doğa nedir?\" sorusu öne çıkarken Orta Çağ filozofları varlığı ve en yüce varlık olan Tanrı'yı kavramaya yönelmiştir. Bu dönemde Anselmus şöyle akıl yürütür: Tanrı, kendisinden daha yetkini düşünülemeyen varlıktır. Yalnızca zihinde bulunan bir şey, hem zihinde hem gerçeklikte bulunandan daha az yetkindir. O hâlde Tanrı gerçekte de var olmalıdır.\nAnselmus'un bu akıl yürütmesi ile ilgili,",
+       "oncul": [
+        "Tanrı'nın varlığını Tanrı kavramından hareketle kanıtlamaya çalışır.",
+        "Doğadaki düzen ve amaçlılıktan yola çıkar.",
+        "Deneyime başvurmayan, apriori bir kanıttır."
        ],
-       "bilgi": "Anselmus'a göre hem zihinde hem zihin dışında var olan, yalnızca zihinde olandan daha yetkindir; bu yüzden en yetkin varlık olan Tanrı gerçekten vardır.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Anselmus'un ontolojik kanıtı, deneyime başvurmadan Tanrı kavramının tanımından hareket eden apriori bir kanıttır. Doğadaki düzen ve amaçlılıktan yola çıkan kanıt ise teleolojik kanıttır.",
        "sayfa": 207,
        "yil": "2020-TYT"
       },
       {
        "id": "1.21-02",
-       "tur": "bosluk",
-       "cumle": "İlk Çağ filozofları daha çok \"Doğa nedir?\" sorusuna, Orta Çağ filozofları ise daha çok \"___ nedir?\" sorusuna yoğunlaşmıştır.",
-       "cevap": "Varlık",
-       "celdiriciler": [
-        "Bilgi",
-        "Toplum",
-        "Dil"
+       "tur": "secmeli",
+       "soru": "\"Adalet\" diye kendi başına var olan bir şey yoktur; yalnızca adil bulduğumuz tek tek davranışlar vardır. Bu davranışlar arasındaki benzerlikleri gördüğümüzde onları ortak bir adla anarız. Genel kavram, yani tümel, bu genellemeden doğan bir addan ibarettir.\nBu parçadaki görüş, Orta Çağ'daki tümeller tartışmasında aşağıdaki görüşlerden hangisine karşı çıkmaktadır?",
+       "secenekler": [
+        "Tümellerin tek tek varlıklardan bağımsız olarak var olduğu",
+        "Bilginin tek tek varlıklara ilişkin gözlemlerle başladığı",
+        "Dilin birbirine benzeyen şeyleri ortak adlarla andığı",
+        "Genel kavramların benzerliklerden yola çıkılarak zihinde oluşturulduğu",
+        "Farklı adil davranışların birbirine benzeyebildiği"
        ],
-       "bilgi": "Orta Çağ felsefesini İlk Çağ'dan ayıran başlıca unsur, varlığı ve en yüce varlığı bir bütün olarak kavramaya yönelen ontolojik yaklaşımıdır.",
-       "sayfa": 207,
-       "yil": "2025-TYT"
-      },
-      {
-       "id": "1.21-03",
-       "tur": "eslestir",
-       "yonerge": "Orta Çağ filozoflarını tümeller problemine ilişkin görüşleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Augustinus",
-         "Tümeller ayrı varlıklar olarak Tanrı'nın zihnindedir"
-        ],
-        [
-         "Aquinalı Thomas",
-         "Tümeller tek tek varlıkların içinde bulunur"
-        ],
-        [
-         "Ockhamlı William",
-         "Tümeller soyutlama ve genellemelerden ibarettir"
-        ]
-       ],
-       "bilgi": "Ockhamlı William'a göre tümeller kendi başına var olmaz; örneğin \"adalet\", adil bulunan davranışlar arasındaki benzerliklerden dilde oluşturulur.",
+       "dogru": 0,
+       "bilgi": "Parçadaki görüş Ockhamlı William'ın nominalizmidir: Tümeller yalnızca addır. Tümellerin gerçekten var olduğunu savunan realizme, örneğin onları Tanrı'nın zihnine yerleştiren Augustinus'a karşı çıkar.",
        "sayfa": 208,
        "yil": "2021-TYT"
       },
       {
-       "id": "1.21-04",
-       "tur": "dy",
-       "ifade": "Anselmus'a göre Tanrı'nın varlığı, deneyime başvurmadan yalnızca Tanrı kavramının tanımından hareketle kanıtlanabilir.",
-       "dogru": true,
-       "bilgi": "Anselmus'un kanıtı apriori bir kanıttır: Tanrı en mükemmel varlıktır ve var olmak düşünülmüş olmaktan üstün olduğuna göre Tanrı vardır.",
-       "sayfa": 208,
-       "yil": "2024-TYT"
-      },
-      {
-       "id": "1.21-05",
-       "tur": "dy",
-       "ifade": "Gazali'ye göre doğada neden ile sonuç arasında zorunlu bir bağ vardır; ateş her durumda yakar.",
-       "dogru": false,
-       "bilgi": "Gazali'ye göre filozofların nedensellik dediği şey olayların art arda gelmesidir; ateşin yakmayabileceğini düşünmek mantıksal olarak çelişkili değildir.",
+       "id": "1.21-03",
+       "tur": "secmeli",
+       "soru": "I. Ateş ile pamuğun temasından sonra pamuğun yandığını gözlemleriz. Ancak gözlem yalnızca iki olayın art arda geldiğini gösterir, aralarında zorunlu bir bağ olduğunu göstermez. Ateşin pamuğu yakmadığını düşünmek bir çelişki doğurmaz.\nII. Şeylerin belirli doğaları ve bu doğalardan kaynaklanan belirli etkileri vardır. Aklın doğadaki nedenleri kavrayamayacağını söylemek, bilimi ortadan kaldırmak demektir.\nBu görüşler sırasıyla aşağıdaki filozoflardan hangilerine aittir?",
+       "secenekler": [
+        "Gazali – İbn Rüşd",
+        "İbn Rüşd – Gazali",
+        "Farabi – Gazali",
+        "İbn Sina – Farabi",
+        "İbn Rüşd – İbn Sina"
+       ],
+       "dogru": 0,
+       "bilgi": "Gazali'ye göre nedensellik dediğimiz şey olayların art arda gelmesidir; ateş yakmayabilir. İbn Rüşd ise doğadaki değişmez yasaların akılla kavranabileceğini savunarak Gazali'nin bu eleştirisine karşı çıkmıştır.",
        "sayfa": 209,
        "yil": "2018-TYT"
       },
       {
-       "id": "1.21-06",
-       "tur": "bosluk",
-       "cumle": "Maturidi'ye göre insan davranışlarını ___ seçer, seçimlerini iradesiyle eyleme geçirir ve bu yüzden davranışlarından sorumludur.",
-       "cevap": "aklıyla",
-       "celdiriciler": [
-        "sezgisiyle",
-        "duygularıyla",
-        "alışkanlıklarıyla"
+       "id": "1.21-04",
+       "tur": "secmeli",
+       "soru": "Orta Çağ filozoflarının inanç-akıl ilişkisine ve kötülük sorununa yaklaşımlarıyla ilgili,",
+       "oncul": [
+        "Farabi'ye göre din ve felsefe aynı hakikati farklı yollarla dile getirir: Felsefe ispatla, din örnekler ve inandırmayla.",
+        "Aquinalı Thomas'a göre inanç, akla aykırı bilgiler sunarak aklı devre dışı bırakır.",
+        "Augustinus'a göre kötülük, Tanrı'nın yarattığı bağımsız bir varlıktır."
        ],
-       "bilgi": "İslam felsefesinde özgürlük kader ve iradenin yanında akılla da ele alınmış; Maturidi insan özgürlüğünün temeline aklı koymuştur.",
-       "sayfa": 209,
-       "yil": "2020-TYT"
-      },
-      {
-       "id": "1.21-07",
-       "tur": "dy",
-       "ifade": "Farabi'ye göre felsefe ve din aynı konuları ele alır; felsefe hakikati ispatla, din ise örnekler ve inandırma yoluyla ortaya koyar.",
-       "dogru": true,
-       "bilgi": "Farabi'ye göre felsefe ve din aynı hakikate farklı yollardan ulaşır: felsefe akılla kavrayıp ispatlar, din imgelerle anlatıp ikna eder.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Thomas'a göre inanç aklı aşan bilgiler sunar ama ona aykırı değildir, aklı yetkinleştirir. Augustinus'a göre kötülük bir varlık değil, iyiliğin yokluğudur; ahlaki kötülük özgür iradenin yanlış kullanılmasından doğar.",
        "sayfa": 209,
        "yil": "2021-TYT"
       },
       {
-       "id": "1.21-08",
-       "tur": "bosluk",
-       "cumle": "Augustinus'a göre kötülük bir şey değil, iyiliğin ___ ya da noksanlığıdır.",
-       "cevap": "yokluğu",
-       "celdiriciler": [
-        "zıddı",
-        "kaynağı",
-        "gölgesi"
+       "id": "1.21-05",
+       "tur": "secmeli",
+       "soru": "Bu düşünüre göre insan, yapacağı davranışları önce aklıyla değerlendirip seçer; sonra iradesiyle bu seçimi eyleme dönüştürür. Bu nedenle insan, davranışlarının sorumluluğunu taşır.\nBu görüşü savunan bir düşünür aşağıdaki yargılardan hangisine karşı çıkar?",
+       "secenekler": [
+        "İnsanın eylemleri, kendi seçimlerinin sonucudur.",
+        "Akıl, iyi ile kötüyü ayırt etmede insana yol gösterir.",
+        "İnsan, seçerek yaptığı eylemlerden sorumludur.",
+        "İrade, aklın verdiği kararı eyleme dönüştürür.",
+        "İnsanın eylemlerinde seçme gücü yoktur."
        ],
-       "bilgi": "Augustinus'a göre Tanrı kötülüğü yaratmamıştır; ahlaki kötülükler insanın kendisine verilen özgür iradeyi yanlış kullanmasından doğar.",
-       "sayfa": 210,
-       "yil": "2022-TYT"
+       "dogru": 4,
+       "bilgi": "Maturidi insan özgürlüğünün temeline aklı koyar: İnsan aklıyla seçer, iradesiyle eyleme geçirir ve bu yüzden sorumludur. İnsanın hiçbir seçme gücü olmadığını savunan cebirci anlayışı reddeder.",
+       "sayfa": 209,
+       "yil": "2020-TYT"
       },
       {
-       "id": "1.21-09",
-       "tur": "dy",
-       "ifade": "İbn Rüşd, doğadaki değişmez yasaların akılla kavranabileceğini savunarak Gazali'nin akla yönelik eleştirisine karşı çıkmıştır.",
-       "dogru": true,
-       "bilgi": "İbn Rüşd'e göre şeylerin akılla anlaşılamayacağı kabul edilirse bilim de kalmaz; bu yüzden Gazali'nin aklı yetersiz sayan tutumunu eleştirmiştir.",
-       "sayfa": 210,
-       "yil": "2023-TYT"
-      },
-      {
-       "id": "1.21-10",
-       "tur": "dy",
-       "ifade": "Yunus Emre'nin \"Ete kemiğe büründüm, Yunus diye göründüm.\" dizesi, ruhun insanın özü olduğunu ve bedenle görünür hâle geldiğini anlatır.",
-       "dogru": true,
-       "bilgi": "Bir rivayete göre Yunus Emre, Mesnevi'nin ruh-beden ilişkisine dair anlattıklarını bu kısa ve özlü dizeyle ifade edebileceğini söylemiştir.",
-       "sayfa": 211,
-       "yil": "2026-TYT"
-      },
-      {
-       "id": "1.21-11",
-       "tur": "dy",
-       "ifade": "Aquinalı Thomas'a göre inanç, akla aykırı bilgiler sunar ve aklı devre dışı bırakır.",
-       "dogru": false,
-       "bilgi": "Thomas'a göre akıl ve inanç aynı hakikate yönelen iki yoldur; inanç aklın kapasitesini aşan bilgileri sunarak aklı yetkinleştirir.",
+       "id": "1.21-06",
+       "tur": "secmeli",
+       "soru": "Bir rivayete göre Yunus Emre, Mevlana'nın Mesnevi'sinde anlattıklarını kendisinin tek bir dizeyle söyleyebileceğini belirtmiş ve \"Ete kemiğe büründüm, Yunus diye göründüm.\" demiştir.\nBu dizede dile getirilen düşünce aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "İnsanın özü ruhtur; beden bu özün görünür hâlidir.",
+        "İnsan, yalnızca etten ve kemikten oluşan maddi bir varlıktır.",
+        "Ruh, bedenden ayrı düşünülemez ve onunla birlikte yok olur.",
+        "Beden, ruhu yönlendiren ve ona biçim veren asıl güçtür.",
+        "İnsanın kimliğini, içinde yaşadığı toplum belirler."
+       ],
+       "dogru": 0,
+       "bilgi": "Dize, ruhun insanın özü olduğunu ve bu özün beden aracılığıyla görünür hâle geldiğini anlatır. Rivayete göre Yunus Emre, Mesnevi'deki ruh-beden anlayışını bu dizeyle özetlemiştir.",
        "sayfa": 211,
        "yil": "2026-TYT"
       }
@@ -1073,86 +1013,95 @@
      "kartlar": [
       {
        "id": "1.22-01",
-       "tur": "bosluk",
-       "cumle": "Zihin ile bedenin birbirinden farklı iki töz olduğunu savunan Descartes'ın varlık anlayışına ___ denir.",
-       "cevap": "düalizm",
-       "celdiriciler": [
-        "monizm",
-        "materyalizm",
-        "panteizm"
+       "tur": "secmeli",
+       "soru": "Descartes'ın görüşleriyle ilgili,",
+       "oncul": [
+        "Düşünme, beynin maddi bir etkinliğinden ibarettir.",
+        "Uzaktaki tren raylarının birleşiyormuş gibi görünmesi, duyulardan gelen inançlardan kuşku duyulabileceğine örnek olarak gösterilebilir.",
+        "Zihin ve beden, birbirine indirgenemeyen iki ayrı tözdür."
        ],
-       "bilgi": "Descartes'a göre düşünmemizi sağlayan beyin değil zihindir; fiziksel olmayan zihin, yer kaplayan bedenden ayrı bir tözdür.",
-       "sayfa": 212,
-       "yil": "2018-TYT"
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Descartes'a göre duyular bizi yanıltabildiğinden onlardan gelen inançlar kuşkuya açıktır. Düşünen zihin, yer kaplayan bedenden ayrı bir tözdür (düalizm); düşünme beynin maddi etkinliğine indirgenemez.",
+       "sayfa": 214,
+       "yil": "2026-TYT"
       },
       {
        "id": "1.22-02",
-       "tur": "dy",
-       "ifade": "Ütopyalar, sundukları toplum modellerini değişmez biçimde kurguladıkları için değişime kapalı oldukları yönünde eleştirilir.",
-       "dogru": true,
-       "bilgi": "Ütopyalar toplumsal sorunlara çözüm öneren kurgusal düzen tasarımlarıdır; durağan ve tarihsiz modeller öngördükleri için totaliter yönleri olduğu söylenir.",
-       "sayfa": 212,
-       "yil": "2020-TYT"
-      },
-      {
-       "id": "1.22-03",
-       "tur": "bosluk",
-       "cumle": "Hobbes'a göre devletin olmadığı doğa durumunda ___ savaşı yaşanır.",
-       "cevap": "herkesin herkese karşı",
-       "celdiriciler": [
-        "sınıfların birbirine karşı",
-        "devletlerin birbirine karşı",
-        "kuşakların birbirine karşı"
+       "tur": "secmeli",
+       "soru": "Bu düşünüre göre devletin olmadığı bir ortamda insanlar aşağı yukarı eşit güçte ve aynı şeyleri isteyen varlıklar olarak birbirleriyle sürekli çatışır. Herkesin kendi varlığını koruma isteği başkaları için bir tehdit oluşturur. Böyle bir ortamda ne çalışmanın ne bilimin ne de sanatın gelişmesi mümkündür; insan yaşamı yalnız, yoksul ve kısadır.\nBu görüşteki bir düşünür aşağıdaki yargılardan hangisini savunur?",
+       "secenekler": [
+        "Güvenliği sağlayacak güçlü bir siyasi otorite zorunludur.",
+        "İnsan doğuştan iyidir; onu bozan toplumsal düzendir.",
+        "Devlet, sınıf çatışmalarının ürünüdür ve ortadan kalkmalıdır.",
+        "Devletin kaynağı ilahi bir iradedir.",
+        "En iyi yönetim, bilgelerin yönetimidir."
        ],
-       "bilgi": "Hobbes'a göre doğa durumunda sürekli ölüm tehlikesi vardır; insanın varlığını sürdürme güdüsü başkaları için tehdit oluşturduğundan devlet gereklidir.",
+       "dogru": 0,
+       "bilgi": "Hobbes'a göre doğa durumu herkesin herkese karşı savaşıdır; insanlar güvenlik için haklarını bir sözleşmeyle güçlü bir egemene devreder. İnsanın doğuştan iyi olduğu görüşü Rousseau'ya aittir.",
        "sayfa": 212,
        "yil": "2022-TYT"
       },
       {
-       "id": "1.22-04",
-       "tur": "dy",
-       "ifade": "Spinoza, ahlaki doğruların akılla çıkarsanamayacağını, yalnızca deneyimle öğrenilebileceğini savunmuştur.",
-       "dogru": false,
-       "bilgi": "Matematiğin kesinliğinden etkilenen Spinoza, ahlaki doğruların da geometrik yöntemle akıl yoluyla çıkarsanabileceğini düşünmüştür.",
+       "id": "1.22-03",
+       "tur": "secmeli",
+       "soru": "Matematiğin kesinliğinden etkilenen Spinoza, ahlak üzerine yazdığı Etika'yı Eukleides'in geometrisi gibi tanımlar, aksiyomlar ve bunlardan türetilen önermelerle kurmuştur. Ona göre insanın mutluluğa nasıl ulaşacağı da doğru akıl yürütmelerle, âdeta cetvelle bir çizgi çizer gibi gösterilebilir.\nBu bilgilere göre,",
+       "oncul": [
+        "Spinoza'ya göre ahlaki doğrular akıl yoluyla çıkarsanabilir.",
+        "Spinoza, bilginin kesinliğini izlenen yönteme bağlamıştır.",
+        "Spinoza'ya göre ahlaki bilgi yalnızca deneyimle öğrenilebilir."
+       ],
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Spinoza Etika'yı geometrik yöntemle yazmış, ahlaki doğruların da matematikteki gibi akıl yoluyla kesin biçimde çıkarsanabileceğini savunmuştur. Bu, ahlaki bilginin yalnızca deneyime dayandığı görüşüyle çelişir.",
        "sayfa": 213,
        "yil": "2023-TYT"
       },
       {
-       "id": "1.22-05",
-       "tur": "bosluk",
-       "cumle": "Spinoza, Etika adlı eserini Eukleides'ten esinlenerek tanım, aksiyom ve önermelerle ilerleyen ___ yöntemle yazmıştır.",
-       "cevap": "geometrik",
-       "celdiriciler": [
-        "diyalektik",
-        "deneysel",
-        "fenomenolojik"
+       "id": "1.22-04",
+       "tur": "secmeli",
+       "soru": "Dünya'nın hareketsiz olduğunu savunanlar şöyle düşünüyordu: Dünya dönseydi, yüksek bir kuleden bırakılan taş düşerken Dünya altından kayacağı için kulenin dibine değil biraz uzağına düşerdi; taş kulenin dibine düştüğüne göre Dünya hareketsizdir. Galileo buna karşı şu düşünce deneyini önerir: Düzgün hareket eden bir geminin direğinin tepesinden bırakılan taş, geminin arkasına değil, direğin dibine düşer.\nGalileo'nun bu düşünce deneyiyle ulaşmak istediği sonuç aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Kuleden düşen taş, Dünya'nın durduğunu kanıtlamaz.",
+        "Ağır cisimler, hafif cisimlerden daha hızlı düşer.",
+        "Dünya, evrenin hareketsiz merkezinde bulunur.",
+        "Deneyler, doğa olaylarını açıklamada yetersizdir.",
+        "Hareket eden her cisim bir süre sonra durmak zorundadır."
        ],
-       "bilgi": "Spinoza, insanın mutluluğa ulaşma sürecini doğru akıl yürütmelerle âdeta cetvelle çizer gibi göstermeyi amaçlamış; bilginin kesinliğini yönteme bağlamıştır.",
-       "sayfa": 213,
-       "yil": "2024-TYT"
-      },
-      {
-       "id": "1.22-06",
-       "tur": "dy",
-       "ifade": "Galileo'nun hareket eden geminin direğinden bırakılan taş düşünce deneyi, Dünya'nın dönmediğine dair eski bir delili çürütmeyi amaçlar.",
-       "dogru": true,
-       "bilgi": "Galileo'ya göre taş geminin arkasına değil direğin dibine düşer; bu nedenle dikey atılan taşın geri düşmemesi Dünya'nın hareketsiz olduğunu kanıtlamaz.",
+       "dogru": 0,
+       "bilgi": "Hareket eden gemide taş direğin dibine düştüğüne göre, taşın kulenin dibine düşmesi Dünya'nın durduğunu göstermez. Galileo bu düşünce deneyiyle yer merkezli modeli destekleyen eski bir delili çürütür.",
        "sayfa": 214,
        "yil": "2025-TYT"
       },
       {
-       "id": "1.22-07",
-       "tur": "bosluk",
-       "cumle": "Uzaktaki tren raylarının birleşiyor gibi görünmesi, Descartes'ın ___ yanıltıcı olabileceğini göstermek için kullanabileceği bir örnektir.",
-       "cevap": "duyuların",
-       "celdiriciler": [
-        "aklın",
-        "sezginin",
-        "vahyin"
+       "id": "1.22-05",
+       "tur": "secmeli",
+       "soru": "Thomas More, Campanella ve Francis Bacon gibi düşünürlerin yazdığı ütopyalar, yaşadıkları dönemin toplumsal sorunlarına çözüm olarak kurgusal ideal düzenler tasarlar. Ancak bu tasarımlar, toplumu değişmeyen ve tarihsiz bir model içinde dondurdukları için eleştirilir; her şeyin önceden belirlendiği böyle düzenlerin totaliter bir yönü olduğu ileri sürülür.\nBu parçaya göre ütopyalarla ilgili aşağıdakilerden hangisi söylenemez?",
+       "secenekler": [
+        "Yazıldıkları dönemin sorunlarından etkilendikleri",
+        "Var olan düzene yönelik bir eleştiri içerdikleri",
+        "Kurgusal bir ideal toplum düzeni tasarladıkları",
+        "Değişime açık oldukları için övüldükleri",
+        "Bireyin özgürlüğünü sınırlayabildikleri"
        ],
-       "bilgi": "Descartes, Meditasyonlar'ın ilk bölümünde kanaatlerimizin çoğuna kaynaklık eden duyulardan gelen inançların şüphe edilebilir olduğunu gösterir.",
-       "sayfa": 214,
-       "yil": "2026-TYT"
+       "dogru": 3,
+       "bilgi": "Ütopyalar dönemlerinin sorunlarına çözüm olarak ideal düzenler kurgular; ancak durağan ve tarihsiz modeller öngördükleri için değişime kapalı ve totaliter oldukları gerekçesiyle eleştirilir.",
+       "sayfa": 212,
+       "yil": "2020-TYT"
       }
      ]
     },
@@ -1168,101 +1117,111 @@
      "kartlar": [
       {
        "id": "1.23-01",
-       "tur": "bosluk",
-       "cumle": "Kant aydınlanmayı, insanın kendi suçuyla düştüğü ___ durumundan kurtulması olarak tanımlar.",
-       "cevap": "ergin olmayış",
-       "celdiriciler": [
-        "kölelik",
-        "yoksulluk",
-        "yalnızlık"
+       "tur": "secmeli",
+       "soru": "Aydınlanma, insanın kendi suçu olan ergin olmayıştan kurtulmasıdır. Ergin olmayış, kişinin aklını bir başkasının yönlendirmesi olmadan kullanamamasıdır. İnsan bu durumdan kendisi sorumludur; çünkü bunun nedeni akıl eksikliği değil, aklı başkasına danışmadan kullanma kararlılığının ve cesaretinin gösterilememesidir.\nBu parçaya göre ergin olmayışın temel nedeni aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Kişinin aklını kullanma cesareti gösterememesi",
+        "İnsanın doğuştan yeterli akıl yetisine sahip olmaması",
+        "Toplumda eğitim olanaklarının yeterince bulunmaması",
+        "Siyasi baskıların düşünce özgürlüğünü engellemesi",
+        "Bilimsel bilginin topluma yeterince yayılmamış olması"
        ],
-       "bilgi": "Kant'a göre ergin olmayış, insanın kendi aklını kullanma cesareti gösterememesidir; aydınlanma akla güvenip bilgiye dayanarak cehaletten kurtulmaktır.",
+       "dogru": 0,
+       "bilgi": "Kant'a göre ergin olmayışın nedeni akıl eksikliği değil, aklı kullanma cesaretinin gösterilememesidir. Aydınlanmanın parolası \"Aklını kullanma cesaretini göster!\" sözüdür.",
        "sayfa": 214,
        "yil": "2020-TYT"
       },
       {
        "id": "1.23-02",
        "tur": "secmeli",
-       "soru": "Çocuklarda doğuştan mantık ve ahlak ilkeleri bulunmadığını öne sürerek doğuştan fikirleri reddeden filozof kimdir?",
+       "soru": "Bir eylemin ahlaki değeri, onun doğurduğu sonuçlardan ya da kişiye verdiği hoşnutluktan gelmez. Darda kalmış birine yalnızca acıdığı için yardım eden kişinin davranışı sevimli ve övgüye değer olabilir; ama gerçek ahlaki değerini, yardımın bir ödev olduğu bilinciyle yapılmasından alır.\nBu görüşe göre,",
+       "oncul": [
+        "Bir eylemin ahlaki değeri, yol açtığı mutlulukla ölçülür.",
+        "Ödev bilinciyle yapılan eylem ahlaki değer taşır.",
+        "Acıma duygusuyla yapılan yardım, ödevden yapılanla aynı ahlaki değere sahiptir."
+       ],
+       "kok": "yargılarından hangilerine ulaşılabilir?",
        "secenekler": [
-        "Leibniz",
-        "Descartes",
-        "Platon",
-        "Locke"
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
        ],
-       "dogru": 3,
-       "bilgi": "Deneyci Locke'a göre zihin doğuştan boş bir levhadır; tüm bilgiler deneyimle edinilir.",
-       "sayfa": 214,
-       "yil": "2020-TYT"
-      },
-      {
-       "id": "1.23-03",
-       "tur": "bosluk",
-       "cumle": "Hobbes, Locke ve Rousseau, devletin nasıl ortaya çıktığını ___ kavramıyla açıklamıştır.",
-       "cevap": "toplum sözleşmesi",
-       "celdiriciler": [
-        "ilahi hak",
-        "sınıf çatışması",
-        "aile birliği"
-       ],
-       "bilgi": "Antik ve Orta Çağ'da devlet doğal bir kurum sayılmış; devletin kökeni problemi 17. yüzyılda toplum sözleşmesi kavramı etrafında tartışılmıştır.",
-       "sayfa": 215,
-       "yil": "2021-TYT"
-      },
-      {
-       "id": "1.23-04",
-       "tur": "dy",
-       "ifade": "Hegel'e göre bir şeyin hakikati, onun tek bir anlık durumundan değil, tüm gelişim aşamalarını içeren bütününden anlaşılır.",
-       "dogru": true,
-       "bilgi": "Hegel, tomurcuk-çiçek-meyve örneğinde birbirinin yerini alan aşamaların hepsinin bitkinin bütünü için gerekli olduğunu anlatır.",
-       "sayfa": 215,
-       "yil": "2022-TYT"
-      },
-      {
-       "id": "1.23-05",
-       "tur": "dy",
-       "ifade": "Kant'a göre bir yardımın ahlaki değeri, yardım edenin hissettiği acıma duygusundan ya da elde edeceği mutluluktan gelir.",
-       "dogru": false,
-       "bilgi": "Kant'a göre eylem ahlaki değerini ödev bilincinden alır; eylemin ilkesi evrensel yasa olabilmeli ve insan her zaman amaç olarak görülmelidir.",
+       "dogru": 0,
+       "bilgi": "Kant'a göre eylem ahlaki değerini sonuçtan ya da duygudan değil ödev bilincinden alır; eylemin ilkesi evrensel yasa olabilmeli ve insan her zaman amaç olarak görülmelidir.",
        "sayfa": 215,
        "yil": "2023-TYT"
       },
       {
-       "id": "1.23-06",
-       "tur": "bosluk",
-       "cumle": "Locke'a göre renk, koku ve tat gibi algılayana göre değişen ve nesnenin kendisinde bulunmayan nitelikler ___ niteliklerdir.",
-       "cevap": "ikincil",
-       "celdiriciler": [
-        "birincil",
-        "tözsel",
-        "özsel"
+       "id": "1.23-03",
+       "tur": "secmeli",
+       "soru": "Zihnimiz doğuştan hiçbir bilgi taşımayan boş bir levha gibidir. Mantık ve ahlak ilkeleri doğuştan olsaydı, çocuklarda ve hiç eğitim görmemiş insanlarda da bulunmaları gerekirdi. Bütün bilgilerimiz deneyimle edinilir. Nesnelerin büyüklük ve biçim gibi nitelikleri nesnenin kendisinde bulunurken renk, koku ve tat gibi nitelikleri algılayana göre değişir.\nBu görüşteki bir filozof için aşağıdakilerden hangisi söylenemez?",
+       "secenekler": [
+        "Doğuştan fikirlerin varlığını reddettiği",
+        "Bilginin kaynağını deneyim olarak gördüğü",
+        "Nesnelerin bazı niteliklerini algılayana bağlı saydığı",
+        "Bilginin oluşumunda duyulara önem verdiği",
+        "Bazı bilgilerin doğuştan geldiğini savunduğu"
        ],
-       "bilgi": "Locke'a göre büyüklük ve biçim gibi birincil nitelikler nesnededir; insan maddenin tözünü değil yalnızca niteliklerini bilebilir.",
+       "dogru": 4,
+       "bilgi": "Locke'a göre zihin doğuştan boş bir levhadır (tabula rasa). Büyüklük ve biçim gibi birincil nitelikler nesnede bulunur; renk, koku ve tat gibi ikincil nitelikler ise algılayana göre değişir.",
        "sayfa": 216,
        "yil": "2024-TYT"
       },
       {
-       "id": "1.23-07",
-       "tur": "bosluk",
-       "cumle": "Hume'a göre nedensellik fikri, akıl yürütmeden ya da tek tek deneyimlerden değil, tekrarlanan birlikteliklerin zihinde oluşturduğu ___ kaynaklanır.",
-       "cevap": "alışkanlıktan",
-       "celdiriciler": [
-        "doğuştan fikirlerden",
-        "tanrısal iradeden",
-        "matematiksel kesinlikten"
+       "id": "1.23-04",
+       "tur": "secmeli",
+       "soru": "Antik Çağ ve Orta Çağ'da devlet çoğunlukla doğal bir kurum olarak görülmüştür. 17. ve 18. yüzyılda ise Hobbes, Locke ve Rousseau devletin kökenini, insanların doğa durumundan çıkmak için kendi aralarında yaptıkları bir anlaşmayla açıklamıştır. Rousseau'ya göre doğa durumunda özgür ve eşit olan insanlar arasındaki bozulma, birinin bir toprak parçasını çevirip \"Burası benimdir.\" demesiyle başlamıştır.\nBu bilgilere göre,",
+       "oncul": [
+        "Toplum sözleşmesi kuramları, devletin meşruiyetini insanların iradesine dayandırır.",
+        "Rousseau'ya göre özel mülkiyet, insanlar arasındaki eşitsizlik ve çatışmaların kaynağıdır.",
+        "Rousseau, doğa durumunu herkesin herkesle savaştığı bir ortam olarak görür."
        ],
-       "bilgi": "Hume'a göre hiçbir deneyim iki olay arasında zorunlu bir bağ olduğunu göstermez; nedensellik zihinsel bir alışkanlıktır.",
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Toplum sözleşmesi kuramları devleti insanların anlaşmasına dayandırır. Rousseau'ya göre özel mülkiyet eşitsizlik ve çatışmayı doğurmuştur; doğa durumunu herkesin herkese karşı savaşı olarak gören ise Hobbes'tur.",
+       "sayfa": 215,
+       "yil": "2021-TYT"
+      },
+      {
+       "id": "1.23-05",
+       "tur": "secmeli",
+       "soru": "Bir bilardo topunun diğerine çarpmasından sonra ikinci topun hareket ettiğini görürüz. Ancak gözlemlediğimiz yalnızca iki olayın art arda gelmesidir; birinci topun ikinciyi zorunlu olarak harekete geçirdiğini gösteren bir izlenimimiz yoktur. Bu birlikteliği defalarca gördüğümüz için birincisini görünce ikincisini beklemeye başlarız.\nBu parçaya göre neden-sonuç ilişkisine dair düşüncemizin kaynağı aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Tekrarlanan deneyimlerin oluşturduğu alışkanlık",
+        "Zihnin doğuştan getirdiği apriori ilkeler",
+        "Tek bir gözlemin sağladığı kesin bilgi",
+        "Matematiksel akıl yürütmenin zorunluluğu",
+        "Olaylar arasındaki zorunlu bağın doğrudan algılanması"
+       ],
+       "dogru": 0,
+       "bilgi": "Hume'a göre hiçbir izlenim iki olay arasında zorunlu bir bağ göstermez; nedensellik, tekrarlanan birlikteliklerin zihinde oluşturduğu alışkanlıktan doğan bir beklentidir.",
        "sayfa": 216,
        "yil": "2025-TYT"
       },
       {
-       "id": "1.23-08",
-       "tur": "dy",
-       "ifade": "Rousseau'ya göre özel mülkiyet, insan doğasını bozarak toplumsal çatışmalara yol açar.",
-       "dogru": true,
-       "bilgi": "Rousseau mülkiyeti kendi başına değil, bir şeyleri elde etme ve koruma çabasının sürekli çatışma doğurması nedeniyle kötülüğün kaynağı sayar.",
-       "sayfa": 217,
-       "yil": "2026-TYT"
+       "id": "1.23-06",
+       "tur": "secmeli",
+       "soru": "Tomurcuk, çiçek açınca kaybolur; çiçek de meyve belirdiğinde bitkinin gerçek hâli olmadığı ortaya çıkan bir aşamaya dönüşür. Bu aşamalar birbirini dışlar gibi görünse de hepsi bitkinin canlı bütünlüğünün eşit derecede zorunlu anlarıdır.\nBu parçadan hareketle aşağıdakilerden hangisine ulaşılabilir?",
+       "secenekler": [
+        "Bir şeyin hakikati, gelişim sürecinin bütününde kavranır.",
+        "Her yeni aşama, bir önceki aşamanın değersiz olduğunu kanıtlar.",
+        "Değişim, varlığın gerçek olmadığını gösterir.",
+        "Hakikat, sürecin yalnızca son aşamasında ortaya çıkar.",
+        "Gerçekliğin özü değişmeyen tek bir maddedir."
+       ],
+       "dogru": 0,
+       "bilgi": "Hegel'e göre tomurcuk, çiçek ve meyve birbirinin yerini alsa da hepsi bitkinin bütünü için zorunludur; bir şeyin hakikati tek bir anında değil, bütün gelişim sürecinde anlaşılır.",
+       "sayfa": 215,
+       "yil": "2022-TYT"
       }
      ]
     },
@@ -1277,95 +1236,111 @@
      "kartlar": [
       {
        "id": "1.24-01",
-       "tur": "bosluk",
-       "cumle": "Mantıkçı pozitivizm, bir önermenin anlamlı olmasının ölçütü olarak ___ ilkesini benimsemiştir.",
-       "cevap": "doğrulanabilirlik",
-       "celdiriciler": [
-        "yanlışlanabilirlik",
-        "tutarlılık",
-        "yararlılık"
+       "tur": "secmeli",
+       "soru": "Bir zanaatkâr kâğıt kesme bıçağını yapmadan önce onun ne işe yarayacağını ve nasıl yapılacağını tasarlar; bıçağın özü varlığından önce gelir. İnsan için ise durum farklıdır: İnsan önce dünyaya gelir, var olur; ne olacağını sonradan kendi eylemleriyle belirler. Kimse korkak ya da kahraman doğmaz; yaptıklarıyla korkak ya da kahraman olur.\nBu görüşe göre,",
+       "oncul": [
+        "İnsan, kendini kendi seçimleriyle oluşturur.",
+        "İnsan, ne olduğundan kendisi sorumludur.",
+        "İnsanın doğası, o dünyaya gelmeden önce belirlenmiştir."
        ],
-       "bilgi": "Mantıkçı pozitivizmin dayandığı tümevarım ve doğrulanabilirlik, geleceğin geçmişe benzeyeceği varsayımının alışkanlığa dayandığı gerekçesiyle eleştirilmiştir.",
-       "sayfa": 217,
-       "yil": "2020-TYT"
-      },
-      {
-       "id": "1.24-02",
-       "tur": "bosluk",
-       "cumle": "Sartre'a göre insanda ___ özden önce gelir; insan önce var olur, sonra yaptıklarıyla kendini oluşturur.",
-       "cevap": "varoluş",
-       "celdiriciler": [
-        "akıl",
-        "doğa",
-        "kader"
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
        ],
-       "bilgi": "Sartre'a göre masa gibi nesnelerin özü önceden tasarlanır; insan ise önceden belirlenmemiştir, örneğin korkak doğmaz, yaptıklarıyla korkak olur.",
+       "dogru": 1,
+       "bilgi": "Sartre'a göre insanda varoluş özden önce gelir: İnsan önceden belirlenmiş bir doğayla doğmaz, eylemleriyle kendini oluşturur ve bu yüzden ne olduğundan kendisi sorumludur.",
        "sayfa": 217,
        "yil": "2021-TYT"
       },
       {
-       "id": "1.24-03",
-       "tur": "bosluk",
-       "cumle": "Fenomenolojinin temel çağrısı, ön yargılardan ve devralınmış kavramlardan arınarak ___ dönmektir.",
-       "cevap": "şeylerin kendisine",
-       "celdiriciler": [
-        "doğanın yasalarına",
-        "tarihin akışına",
-        "dilin kurallarına"
+       "id": "1.24-02",
+       "tur": "secmeli",
+       "soru": "Bu yaklaşıma göre felsefe, kendini gösteren şeye kendini nasıl gösteriyorsa öyle yönelmelidir. Bunun için devralınmış kuramları, ön yargıları ve sorgulanmadan kabul edilmiş kavramları paranteze almak gerekir. Ayrıca bilinç her zaman bir şeyin bilincidir; nesne, ona yönelen bilinçten yalıtılmış biçimde ele alınamaz.\nBu parçada sözü edilen yaklaşımla ilgili aşağıdakilerden hangisi söylenemez?",
+       "secenekler": [
+        "Şeylerin kendisine dönmeyi amaçladığı",
+        "Ön yargılardan arınmayı yöntem olarak benimsediği",
+        "Bilinci bir şeye yönelen bir yapı olarak gördüğü",
+        "Nesneyi özneden bütünüyle bağımsız saydığı",
+        "Devralınmış kavramlara eleştirel yaklaştığı"
        ],
-       "bilgi": "Heidegger'e göre fenomenoloji, kendini göstereni kendi kendinden hareketle görünür kılmayı ve anlamayı amaçlar.",
+       "dogru": 3,
+       "bilgi": "Fenomenoloji ön yargıları paranteze alarak \"şeylerin kendisine\" dönmeyi amaçlar. Bilinç yönelimseldir; bu yüzden özne ile nesne arasındaki keskin ayrımı kabul etmez, nesneyi bilinçten yalıtılmış saymaz.",
        "sayfa": 218,
        "yil": "2022-TYT"
       },
       {
+       "id": "1.24-03",
+       "tur": "secmeli",
+       "soru": "Bu düşünüre göre Sokrates ve Platon'dan beri felsefe, yaşamı akla ve değişmez ideallere bağlayarak insanın içgüdülerini ve tutkularını bastırmıştır. İnsan, sürüye özgü alışılmış değerlerden kurtulmalı ve yaşamı bütün çelişkileri, acıları ve tutkularıyla olumlamalıdır. Yeni değerleri yaratanlar ise kalabalığın ve pazar yerinin gürültüsünden uzakta dururlar.\nBu görüşe göre,",
+       "oncul": [
+        "Geleneksel akılcı felsefe, yaşamı yadsıdığı için eleştirilmelidir.",
+        "Değerler, bireyin dışında var olan değişmez gerçeklerdir.",
+        "Yeni değerler yaratmak, toplumun alışılmış kabullerinden uzaklaşmayı gerektirir."
+       ],
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Nietzsche, Sokrates'ten beri süren akılcı geleneği yaşam içgüdüsünü bastırdığı için eleştirir; trajik yaşamı olumlamayı ve sürü ahlakından kurtulup yeni değerler yaratmayı savunur.",
+       "sayfa": 219,
+       "yil": "2025-TYT"
+      },
+      {
        "id": "1.24-04",
-       "tur": "dy",
-       "ifade": "Nietzsche'ye göre yeni değerler yaratanlar, kalabalıklardan ve pazar yerinin gürültüsünden uzak dururlar.",
-       "dogru": true,
-       "bilgi": "Böyle Buyurdu Zerdüşt'te Nietzsche, dünyanın şöhretli oyuncuların değil yeni değerler yaratanların çevresinde döndüğünü söyler.",
-       "sayfa": 218,
-       "yil": "2023-TYT"
+       "tur": "secmeli",
+       "soru": "Saatin gösterdiği zaman birbirine eşit ve birbirinin yerine konabilen anlardan oluşur. Oysa yaşadığımız zaman böyle değildir: Bir bekleyişin dakikaları ile bir sevincin dakikaları aynı değildir; her an, öncekini içinde taşıyan bölünmez bir akışın parçasıdır. Yaşanan zamanı saatle ölçmeye çalışmak, akan bir nehri dondurup kovalara doldurmaya benzer.\nBu parçaya göre aşağıdakilerden hangisine ulaşılamaz?",
+       "secenekler": [
+        "Yaşanan zaman ile ölçülen zaman birbirinden farklıdır.",
+        "Yaşanan zamanın anları birbirinden kopuk değildir.",
+        "Ölçme, yaşanan zamanın niteliğini kavramaya yetmez.",
+        "Zamanın yaşanışı kişinin iç durumundan etkilenir.",
+        "Yaşanan zaman eşit parçalara bölünebilir."
+       ],
+       "dogru": 4,
+       "bilgi": "Bergson'a göre yaşanan zaman (süre) parçaların toplamına indirgenemeyen, kesintisiz ve nitel bir akıştır; saatin ölçtüğü eşit ve birbirinin yerine konabilen anlardan oluşan zamandan farklıdır.",
+       "sayfa": 219,
+       "yil": "2026-TYT"
       },
       {
        "id": "1.24-05",
-       "tur": "dy",
-       "ifade": "Dilthey'a göre insan, değişmeyen bir öze sahip olduğu için tarihsellikten bağımsızdır.",
-       "dogru": false,
-       "bilgi": "Dilthey'a göre insan sürekli değişen dinamik bir tarihtir; içinde bulunduğu zamanı kurar, şimdiyi belirleyen geçmişi de anılarıyla taşır.",
+       "tur": "secmeli",
+       "soru": "Bu düşünüre göre insan, değişmeyen bir öze sahip değildir; o, sürekli değişen dinamik bir tarihtir. İnsan içinde yaşadığı zamanı kurar, ama şimdisini belirleyen geçmişi de anıları aracılığıyla kendisiyle birlikte taşır. Bu nedenle insanı anlamak, onun tarihsel yaşantılarını anlamaktan geçer.\nBu görüşe göre insanı anlamak için aşağıdakilerden hangisi yapılmalıdır?",
+       "secenekler": [
+        "Onu tarihsel bağlamıyla birlikte ele almak",
+        "Onun her çağda aynı kalan doğasını belirlemek",
+        "Davranışlarını doğa bilimlerinin yöntemleriyle ölçmek",
+        "Geçmişinden bağımsız olarak şimdiki durumunu incelemek",
+        "Biyolojik yapısını ayrıntılı biçimde çözümlemek"
+       ],
+       "dogru": 0,
+       "bilgi": "Dilthey'a göre insan değişmez bir özle değil, tarihselliğiyle anlaşılır; şimdiyi belirleyen geçmişi taşır. Bu yüzden insan doğa bilimlerinin yöntemleriyle değil, yaşantılarını anlama yoluyla kavranır.",
        "sayfa": 218,
        "yil": "2024-TYT"
       },
       {
        "id": "1.24-06",
-       "tur": "dy",
-       "ifade": "Nietzsche, Sokrates ve Platon'dan beri süren akılcı felsefe geleneğini insanın yaşama içgüdüsünü yok saydığı için eleştirmiştir.",
-       "dogru": true,
-       "bilgi": "Nietzsche'ye göre insan, her türlü oluş ve tutkuyu barındıran trajik yaşama dönerek ve hayatı olumlayarak geleneklerin bağlarından kurtulabilir.",
-       "sayfa": 219,
-       "yil": "2025-TYT"
-      },
-      {
-       "id": "1.24-07",
-       "tur": "bosluk",
-       "cumle": "Bergson'a göre insanın yaşadığı zaman, saatle ölçülen eşit parçalara bölünemeyen kesintisiz bir ___ olarak deneyimlenir.",
-       "cevap": "akış",
-       "celdiriciler": [
-        "döngü",
-        "nokta dizisi",
-        "tekrar"
+       "tur": "secmeli",
+       "soru": "20. yüzyıl felsefesinde öne çıkan akımlarla ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+       "secenekler": [
+        "Mantıkçı pozitivizm – Deneyle doğrulanamayan önermeler anlamsızdır.",
+        "Pragmatizm – Bir düşüncenin değeri pratik sonuçlarıyla ölçülür.",
+        "Varoluşçuluk – İnsanda varoluş özden önce gelir.",
+        "Çözümleyici felsefe – Felsefe sorunlarının çoğu dilin yanlış anlaşılmasından doğar.",
+        "Fenomenoloji – Tek güvenilir bilgi, tümevarımla elde edilen deneydir."
        ],
-       "bilgi": "Bergson'a göre yaşanan zaman parçaların toplamına indirgenemeyen dinamik bir süredir; saatle ölçmek nehri dondurup kovalara doldurmaya benzer.",
-       "sayfa": 219,
-       "yil": "2026-TYT"
-      },
-      {
-       "id": "1.24-08",
-       "tur": "dy",
-       "ifade": "Fenomenolojiye göre nesne, özneden bütünüyle yalıtılmış ve bağımsız bir varlıktır.",
-       "dogru": false,
-       "bilgi": "Fenomenoloji özne ile nesne arasındaki keskin karşıtlığı kabul etmez; nesne öznenin olanaklarıyla biçimlenir, bilinen bilenden bağımsız değildir.",
-       "sayfa": 219,
-       "yil": "2026-TYT"
+       "dogru": 4,
+       "bilgi": "Fenomenoloji ön yargıları paranteze alıp şeylerin kendisine dönmeyi amaçlar; doğrulanabilirliği anlam ölçütü sayan mantıkçı pozitivizmdir. Wittgenstein, çözümleyici felsefenin önemli temsilcilerindendir.",
+       "sayfa": 217,
+       "yil": "2020-TYT"
       }
      ]
     }

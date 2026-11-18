@@ -17,194 +17,147 @@
       {
        "id": "1.1-01",
        "tur": "secmeli",
-       "soru": "İslamiyet Öncesi Dönem'de toylarda ve zafer eğlencelerinde kopuz eşliğinde söylenen; aşk, doğa ve yiğitlik konulu şiirlere ne ad verilir?",
-       "secenekler": [
-        "Sagu",
-        "Koşma",
-        "Koşuk",
-        "Varsağı"
+       "soru": "İslamiyet öncesi Türk edebiyatında koşuk ile ilgili,",
+       "oncul": [
+        "Toy adı verilen şölenlerde ve zafer eğlencelerinde ozanlar tarafından kopuz eşliğinde söylenmiştir.",
+        "Ölen bir kişinin ardından duyulan acıyı dile getiren, yuğ törenlerinde söylenen şiirlerdir.",
+        "Halk edebiyatındaki koşmanın, divan edebiyatındaki gazelin karşılığı sayılır."
        ],
-       "dogru": 2,
-       "bilgi": "Koşuklar, İslamiyet Öncesi Dönem'de toylarda (şenlik, ziyafet) ve savaş sonrası eğlencelerde kopuz eşliğinde söylenen şiirlerdir.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Koşuklar toylarda ve zafer eğlencelerinde ozan, kam, baksı adlı şairlerce kopuz eşliğinde söylenen; doğa, aşk ve yiğitlik konulu şiirlerdir. Halk şiirinde koşmaya, divan şiirinde gazele karşılık gelir. Yuğ törenlerinde ölen için söylenen şiir sagudur.",
        "sayfa": 17
       },
       {
        "id": "1.1-02",
-       "tur": "bosluk",
-       "cumle": "Genellikle 7, 8 veya 11'li hece ölçüsüyle söylenen koşukların nazım birimi ___ olup kafiye düzeni aaab, cccb, dddb biçimindedir.",
-       "cevap": "dörtlük",
-       "celdiriciler": [
-        "beyit",
-        "bent",
-        "dize"
+       "tur": "secmeli",
+       "soru": "XVII. yüzyılda Çukurova ve Toroslardaki Türkmen aşiretleri arasında yaşadığı düşünülen şair, koşmalarının çoğunu güzelleme türünde söylemiştir. Doğayı, sevgiliyi ve ayrılığı yerel söyleyişlerle dolu, yalın ve içten bir Türkçeyle işlemiş; aruza ve dinî-tasavvufi konulara pek yönelmemiştir. Şiirleri, kendisinden sonraki âşıkları derinden etkilemiştir.\nBu parçada sözü edilen şair aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Pir Sultan Abdal",
+        "Köroğlu",
+        "Karacaoğlan",
+        "Dadaloğlu",
+        "Âşık Ömer"
        ],
-       "bilgi": "Koşukların nazım birimi dörtlüktür; kafiye düzeni aaab, cccb, dddb... şeklindedir.",
-       "sayfa": 17
+       "dogru": 2,
+       "bilgi": "Karacaoğlan, güzellemeleriyle âşık tarzı şiirin en lirik sesidir. Pir Sultan Abdal (XVI. yüzyıl) tasavvufi ve toplumsal şiirleriyle, Köroğlu ve Dadaloğlu koçaklamalarıyla, Âşık Ömer ise aruzla da şiir yazmasıyla bilinir.",
+       "sayfa": 14
       },
       {
        "id": "1.1-03",
        "tur": "secmeli",
-       "soru": "İslamiyet Öncesi Dönem'de koşukları kopuz eşliğinde söyleyen halk şairlerine verilen adlar hangi seçenekte doğru verilmiştir?",
-       "secenekler": [
-        "Âşık, dede, şeyh",
-        "Ozan, kam, baksı",
-        "Nedim, kâtip, münşi",
-        "Mutrib, hâfız, meddah"
+       "soru": "Yaylaların çiçek açmış yamacı,\nBir ceylan iner de pınar başına;\nGönlümün derdine yoktur ilacı,\nBakarım da yârin kara kaşına.\nBu dörtlükle ilgili,",
+       "oncul": [
+        "Hece ölçüsünün 6+5 duraklı on birli kalıbıyla söylenmiştir.",
+        "Çapraz kafiye düzeni kullanılmıştır.",
+        "Konusu bakımından koçaklama türüne örnektir.",
+        "İkinci ve dördüncü dizelerde tam kafiyeyle birlikte redif kullanılmıştır."
        ],
-       "dogru": 1,
-       "bilgi": "Koşuklar; ozan, kam, baksı adı verilen halk şairlerince kopuz eşliğinde söylenirdi.",
-       "sayfa": 17
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "I ve II",
+        "I ve III",
+        "II ve IV",
+        "III ve IV",
+        "I, II ve IV"
+       ],
+       "dogru": 4,
+       "bilgi": "Dizeler 11 heceli ve 6+5 duraklıdır; kafiye düzeni abab (çapraz) biçimindedir. 'başına / kaşına' sözcüklerinde 'aş' tam kafiye, '-ına' rediftir. Doğa ve sevgili işlendiği için dörtlük koçaklama değil güzellemedir.",
+       "sayfa": 15
       },
       {
        "id": "1.1-04",
-       "tur": "bosluk",
-       "cumle": "Genellikle lirik konularda saz eşliğinde söylenen koşma, İslamiyet Öncesi Dönem'in ___ adlı şiirlerinden zaman içinde evrilerek ortaya çıkmıştır.",
-       "cevap": "koşuk",
-       "celdiriciler": [
-        "sagu",
-        "sav",
-        "destan"
+       "tur": "secmeli",
+       "soru": "I. Kır atımı eğerleyip binerim,\nDüşman gelsin, yiğit olan dönmesin;\nKılıç çalar, kalkan vurur, yenerim,\nBu ocağın ateşi hiç sönmesin.\nII. Kara toprak aldı benim kuzumu,\nYollarına bakar durur gözlerim;\nKimseler silmez gözümün yaşını,\nYanık yanık yas tutar bu sözlerim.\nBu dörtlükler konusu bakımından sırasıyla hangi koşma türlerine örnektir?",
+       "secenekler": [
+        "Koçaklama – Ağıt",
+        "Güzelleme – Ağıt",
+        "Koçaklama – Taşlama",
+        "Taşlama – Güzelleme",
+        "Ağıt – Koçaklama"
        ],
-       "bilgi": "Koşmalar koşuklardan evrilmiştir; 11 heceli dizelerle söylenir ve kafiye düzeni genellikle aaab (abab), cccb, dddb... şeklindedir.",
-       "sayfa": 27
+       "dogru": 0,
+       "bilgi": "I. dörtlükte savaş ve yiğitlik coşkuyla dile getirildiği için koçaklama; II. dörtlükte bir yakının ölümünden duyulan acı işlendiği için ağıt vardır. Güzelleme doğayı ve sevgiliyi, taşlama ise toplumsal aksaklıkları işler.",
+       "sayfa": 15
       },
       {
        "id": "1.1-05",
-       "tur": "eslestir",
-       "yonerge": "Koşma türlerini işledikleri konularla eşleştir.",
-       "ciftler": [
-        [
-         "Güzelleme",
-         "Sevgi, güzellik ve doğa"
-        ],
-        [
-         "Koçaklama",
-         "Yiğitlik ve kahramanlık"
-        ],
-        [
-         "Ağıt",
-         "Birinin ölümünden duyulan acı"
-        ],
-        [
-         "Taşlama",
-         "Toplumdaki aksaklıkların eleştirisi"
-        ]
+       "tur": "secmeli",
+       "soru": "Koşma ile ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Âşık tarzı halk şiirinde en çok kullanılan nazım biçimidir.",
+        "Aruz ölçüsüyle yazılır ve nazım birimi beyittir.",
+        "Genellikle hece ölçüsünün on birli kalıbıyla söylenir.",
+        "Son dörtlükte şairin mahlası yer alır.",
+        "Kökeni İslamiyet öncesi dönemin koşuklarına dayanır."
        ],
-       "bilgi": "Koşmalar konularına göre güzelleme, koçaklama, ağıt ve taşlama olmak üzere türlere ayrılır.",
-       "sayfa": 15
+       "dogru": 1,
+       "bilgi": "Koşma; 11'li hece ölçüsüyle, dörtlüklerle ve abab (xaxa), cccb, dddb kafiye düzeniyle saz eşliğinde söylenir; son dörtlükte mahlas bulunur. Aruz ölçüsü ve beyit nazım birimi divan şiirine özgüdür.",
+       "sayfa": 27
       },
       {
        "id": "1.1-06",
        "tur": "secmeli",
-       "soru": "Şiirde dize sonlarındaki üç veya daha fazla sesin benzerliğine dayanan kafiye türü hangisidir?",
+       "soru": "İslamiyet öncesi Türk edebiyatının sözlü ürünleri, sonraki dönemlerde halk ve divan edebiyatında benzer işlevli ürünlerle sürmüştür.\nBuna göre aşağıdaki eşleştirmelerden hangisi yanlıştır?",
        "secenekler": [
-        "Yarım kafiye",
-        "Tam kafiye",
-        "Cinaslı kafiye",
-        "Zengin kafiye"
+        "Koşuk – Koşma",
+        "Sagu – Koçaklama",
+        "Sav – Atasözü",
+        "Destan – Mesnevi",
+        "Sagu – Mersiye"
        ],
-       "dogru": 3,
-       "bilgi": "Tek ses benzerliği yarım, iki ses benzerliği tam, üç veya daha fazla ses benzerliği zengin kafiyedir; cinaslı kafiye ise sesteş sözcüklere dayanır.",
-       "sayfa": 15
+       "dogru": 1,
+       "bilgi": "Koşuk halk şiirinde koşmaya, divan şiirinde gazele; sagu ağıta ve mersiyeye; sav atasözüne; destan ise divan şiirinde mesneviye karşılık gelir. Koçaklama, yiğitlik ve savaşı işleyen epik koşmadır.",
+       "sayfa": 17
       },
       {
        "id": "1.1-07",
-       "tur": "bosluk",
-       "cumle": "Şiirde bölüm sonlarında tekrarlanan dizelere nakarat denir; halk şiirinde bu dizelere ___ adı verilir.",
-       "cevap": "kavuştak",
-       "celdiriciler": [
-        "tapşırma",
-        "redif",
-        "matla"
-       ],
-       "bilgi": "Nakarat, halk şiirinde kavuştak olarak adlandırılır.",
-       "sayfa": 15
-      },
-      {
-       "id": "1.1-08",
-       "tur": "dy",
-       "ifade": "Aruz ölçüsü, şiiri oluşturan dizelerin hece sayısı bakımından eşitliğine dayanır.",
-       "dogru": false,
-       "bilgi": "Hece sayısı eşitliğine dayanan ölçü hece ölçüsüdür; aruzda hecelerin ses değeri açısından denkliği esas alınır.",
-       "sayfa": 15
-      },
-      {
-       "id": "1.1-09",
        "tur": "secmeli",
-       "soru": "Koşma ustası, koşmalarını genellikle güzelleme türünde söyleyen Karacaoğlan'ın XVII. yüzyılda nerede yaşadığı düşünülmektedir?",
-       "secenekler": [
-        "Çukurova ve Toroslardaki Türkmen aşiretleri arasında",
-        "İstanbul'da saray çevresinde",
-        "Erzurum ve Kars yöresindeki âşık kahvelerinde",
-        "Rumeli'deki akıncı ocakları ve serhat boylarındaki kalelerde"
-       ],
-       "dogru": 0,
-       "bilgi": "Karacaoğlan'ın şiirleri ve hakkındaki anlatılar, onun XVII. yüzyılda Çukurova ve Toroslardaki Türkmen aşiretleri arasında yaşadığını gösterir.",
-       "sayfa": 14
-      },
-      {
-       "id": "1.1-10",
-       "tur": "eslestir",
-       "yonerge": "\"İyi\" sözcüğünün tarihî biçimlerini görüldükleri eserlerle eşleştir.",
-       "ciftler": [
+       "soru": "Aşağıdaki tabloda bugünkü 'iyi' sözcüğünün farklı yüzyıllarda yazılmış bazı eserlerdeki biçimleri verilmiştir.\nBu tabloya dayanarak aşağıdakilerden hangisi söylenebilir?",
+       "tablo": [
         [
-         "edgü",
-         "Orhun Abideleri (VIII. yüzyıl)"
+         "Eser",
+         "Yüzyıl",
+         "Biçim"
         ],
         [
-         "eygü",
-         "Garibnâme, Âşık Paşa (XIV. yüzyıl)"
+         "Orhun Yazıtları",
+         "VIII.",
+         "edgü"
         ],
         [
-         "eyü",
-         "Hayriyye, Nâbî (XVIII. yüzyıl)"
+         "Garibnâme (Âşık Paşa)",
+         "XIV.",
+         "eygü"
         ],
         [
-         "iyi",
-         "Safahat, Mehmet Âkif Ersoy (XX. yüzyıl)"
+         "Hayriyye (Nâbî)",
+         "XVIII.",
+         "eyü"
+        ],
+        [
+         "Safahat (Mehmet Âkif)",
+         "XX.",
+         "iyi"
         ]
        ],
-       "bilgi": "\"İyi\" sözcüğü edgü > eygü > eyü > iyi biçiminde ses değişimine uğramıştır.",
+       "secenekler": [
+        "Sözcüğün anlamı da biçimiyle birlikte yüzyıllar boyunca değişikliğe uğramıştır.",
+        "Sözcük, zaman içinde ses değişimine uğrayarak bugünkü biçimini almıştır.",
+        "Sözcüğün bugünkü biçimi ilk kez XVIII. yüzyılda kullanılmıştır.",
+        "Sözcüğün eski biçimleri yalnızca manzum eserlerde kullanılmış, düzyazıda görülmemiştir.",
+        "Sözcük, Arapça ve Farsçanın etkisiyle zamanla biçim değiştirmiştir."
+       ],
+       "dogru": 1,
+       "bilgi": "Tablo, sözcüğün edgü > eygü > eyü > iyi biçiminde ses değişimine uğradığını gösterir. Anlam değişimi ve yabancı dil etkisi tabloda yer almaz; düzyazı olan Orhun Yazıtları da eski biçimin yalnızca manzum eserlerde geçmediğini gösterir.",
        "sayfa": 19
-      },
-      {
-       "id": "1.1-11",
-       "tur": "secmeli",
-       "soru": "Bir dizede vurgu, uzunluk veya ses özelliklerinin ve durakların düzenli biçimde tekrarlanmasından doğan ses uygunluğuna ne denir?",
-       "secenekler": [
-        "Ezgi",
-        "Redif",
-        "Ritim",
-        "Nazım birimi"
-       ],
-       "dogru": 2,
-       "bilgi": "Ritim, düzenli tekrarlardan doğan ses uygunluğudur; ezgi ise belli kurallara göre düzenlenmiş, kulağa hoş gelen ses dizisini ifade eden müzik terimidir.",
-       "sayfa": 22
-      },
-      {
-       "id": "1.1-12",
-       "tur": "eslestir",
-       "yonerge": "Sözlü kültür ürünlerini özellikleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Karagöz",
-         "Doğaçlamaya dayalı geleneksel gölge oyunu"
-        ],
-        [
-         "Meddah",
-         "Taklit yaparak hikâye anlatan gösteri"
-        ],
-        [
-         "Dede Korkut Hikâyeleri",
-         "Destandan halk hikâyesine geçişte köprü"
-        ],
-        [
-         "Nasreddin Hoca",
-         "XIII. yüzyılda yaşamış mizah kahramanı"
-        ]
-       ],
-       "bilgi": "Karagöz ve meddah geleneksel Türk tiyatrosuna, Dede Korkut Hikâyeleri ve Nasreddin Hoca fıkraları sözlü kültür mirasına aittir.",
-       "sayfa": 34
       }
      ]
     },
@@ -215,146 +168,110 @@
       {
        "id": "1.2-01",
        "tur": "secmeli",
-       "soru": "Hece ölçüsünün 7, 8 ve 11'li kalıplarıyla ezgi eşliğinde söylenen, farklı nazım birimlerinden oluşan anonim halk edebiyatı nazım biçimi hangisidir?",
-       "secenekler": [
-        "Koşuk",
-        "Türkü",
-        "Sagu",
-        "Gazel"
+       "soru": "Türkü ile ilgili,",
+       "oncul": [
+        "Yalnızca hece ölçüsünün on birli kalıbıyla söylenir.",
+        "Bent ve kavuştak (bağlama) bölümlerinden oluşur; asıl konu bentlerde işlenir.",
+        "Anonim bir nazım biçimi olmakla birlikte söyleyeni ve besteleyeni bilinen örnekleri de vardır."
        ],
-       "dogru": 1,
-       "bilgi": "Türkü, ezgi eşliğinde söylenen anonim halk edebiyatı nazım biçimidir; günümüzde söyleyeni ve besteleyeni bilinen türküler de vardır.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Türkü bent ve kavuştaktan oluşur; 7, 8 ve 11'li gibi farklı hece kalıplarıyla ezgi eşliğinde söylenir. Anonim bir halk edebiyatı ürünüdür ama günümüzde söyleyeni ve besteleyeni bilinen türküler de vardır.",
        "sayfa": 44
       },
       {
        "id": "1.2-02",
-       "tur": "bosluk",
-       "cumle": "Türkülerde asıl konunun işlendiği bölüme ___ denir.",
-       "cevap": "bent",
-       "celdiriciler": [
-        "kavuştak",
-        "döşeme",
-        "matla"
+       "tur": "secmeli",
+       "soru": "Türküleri yüzyıllar boyunca ticaret kervanları, gezgin âşıklar, askerler ve göç eden topluluklar taşıdı. Bir yöreden çıkan türkü, ulaştığı yerde onu söyleyen kaynak kişinin sesine ve yeteneğine göre yeni bir ezgiye, yeni sözlere büründü; aynı türkünün onlarca farklı biçimine rastlamamız bundandır. Yalnızca bir köyde yaşanmış küçük bir olay üzerine yakılan türküler ise o köyün sınırlarını pek aşamadı, kısa sürede unutuldu.\nBu parçadan türkülerle ilgili aşağıdakilerden hangisine ulaşılamaz?",
+       "secenekler": [
+        "Yayılmalarında insan hareketliliğinin etkili olduğuna",
+        "Aktaran kişiye göre değişikliğe uğrayabildiklerine",
+        "Konularının yaygınlığının ömürlerini etkilediğine",
+        "Kitle iletişim araçlarıyla daha hızlı yayıldıklarına",
+        "Aynı türkünün farklı biçimlerinin bulunabildiğine"
        ],
-       "bilgi": "Türküler bent ve kavuştak (bağlama) olmak üzere iki bölümden oluşur; asıl konu bentte işlenir.",
+       "dogru": 3,
+       "bilgi": "Parçada kervanların, âşıkların, askerlerin ve göçlerin türküleri taşıdığı, kaynak kişilerin türküleri değiştirdiği ve yerel olaylar üzerine yakılan türkülerin kısa ömürlü olduğu anlatılır. Radyo, televizyon gibi araçlardan söz edilmez.",
        "sayfa": 44
       },
       {
        "id": "1.2-03",
-       "tur": "bosluk",
-       "cumle": "Türkülerde bentlerin sonunda tekrar edilen dize veya dizelere kavuştak ya da ___ denir.",
-       "cevap": "bağlama",
-       "celdiriciler": [
-        "matla",
-        "döşeme",
-        "redif"
+       "tur": "secmeli",
+       "soru": "Anonim halk şiiri ürünleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Maniler genellikle yedi heceli dizelerden oluşan tek dörtlüklerdir.",
+        "Ninniler, çocuğu uyutmak için ezgiyle söylenen ürünlerdir.",
+        "Ürünlerin son dörtlüğünde söyleyenin mahlası yer alır.",
+        "Ağıtlar, ölüm ya da felaket karşısında duyulan acıyı dile getirir.",
+        "Türkülerde bentlerden sonra tekrarlanan bölüme kavuştak denir."
        ],
-       "bilgi": "Türküler bent ve kavuştak (bağlama) bölümlerinden oluşur; bentlerin ve kavuştakların kendine özgü dize sayısı ve kafiye düzeni vardır.",
+       "dogru": 2,
+       "bilgi": "Anonim ürünlerin söyleyeni bilinmez; son dörtlükte mahlas kullanmak âşık tarzı halk şiirine (koşma, semai, varsağı) özgüdür. Mani, ninni, ağıt ve türkü anonim halk şiirinin başlıca ürünleridir.",
        "sayfa": 44
       },
       {
        "id": "1.2-04",
-       "tur": "dy",
-       "ifade": "Türkülerin tamamı anonimdir; söyleyeni ve besteleyeni bilinen türkü yoktur.",
-       "dogru": false,
-       "bilgi": "Türkü anonim bir halk edebiyatı nazım biçimidir ancak günümüzde söyleyeni ve besteleyeni bilinen türküler de bulunmaktadır.",
-       "sayfa": 44
+       "tur": "secmeli",
+       "soru": "Ressamlığıyla da tanınan şair, halk kültürünün renklerini, motiflerini ve türkülerin söyleyişini şiirine taşımıştır. Karadut adlı kitabında yer alan bir şiirinde türküleri 'dilimizin tuzu biberi' diye niteler. Halk sanatlarına duyduğu sevgi, yalnızca şiirlerinde değil yaptığı resimlerde de kendini gösterir.\nBu parçada sözü edilen sanatçı aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Ahmet Kutsi Tecer",
+        "Bedri Rahmi Eyüboğlu",
+        "Cahit Külebi",
+        "Sabahattin Eyüboğlu",
+        "Necip Fazıl Kısakürek"
+       ],
+       "dogru": 1,
+       "bilgi": "Bedri Rahmi Eyüboğlu (1911-1975) ressam-şairdir; Karadut'taki Türküler Dolusu şiirinde türküleri över, şiirlerinde halk kültürü motiflerine yer verir. Kardeşi Sabahattin Eyüboğlu ise deneme ve çevirileriyle tanınır.",
+       "sayfa": 39
       },
       {
        "id": "1.2-05",
        "tur": "secmeli",
-       "soru": "Erman Artun'a göre türkülerin sözlerinde ve ezgilerinde bu derece çeşitlenme görülmesinin asıl nedeni nedir?",
+       "soru": "Farklı yörelerden derlenen iki 'Turnalar' türküsünün ezgileri birbirinden ayrıdır, bazı dizeleri de değişiktir. Her ikisinde de turna, gurbetteki kişinin sevdiklerine selam ve haber gönderdiği bir haberci olarak karşımıza çıkar.\nBu bilgilerle ilgili,",
+       "oncul": [
+        "İki türkü, aynı türkünün varyantları olarak değerlendirilebilir.",
+        "Turna, halk şiirinde tekrarlanarak motif hâline gelmiş bir unsurdur.",
+        "Türkülerdeki bu farklılık, türkülerin erken dönemde yazıya geçirilmesinden kaynaklanır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Radyo ve televizyonun yaygınlaşması",
-        "Türkülerin erken dönemde yazıya geçirilmesi",
-        "Kaynak kişilerin yetenekleri",
-        "Türkülerin yalnızca saray çevresinde söylenmesi"
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
        ],
        "dogru": 2,
-       "bilgi": "Türkülerin çeşitlenmesinin asıl nedeni, ezgilerde ve sözlerde değişiklik yapabilen kaynak kişilerin yetenekleridir.",
-       "sayfa": 44
+       "bilgi": "Bir eserin, söyleyen ya da anlatan değiştikçe ortaya çıkan farklı biçimlerine varyant denir. Turna, halk şiirinde haberci olarak sık tekrarlanan bir motiftir. Türkülerin farklılaşması yazıya geçirilmenin değil, sözlü aktarımın sonucudur.",
+       "sayfa": 51
       },
       {
        "id": "1.2-06",
        "tur": "secmeli",
-       "soru": "Erman Artun'a göre hangi türkülerin yayılma gücü az ve ömrü kısa olur?",
+       "soru": "Nerdesin ve Orda Bir Köy Var Uzakta şiirlerinin şairi Ahmet Kutsi Tecer ile ilgili,",
+       "oncul": [
+        "Orhan Veli ve Oktay Rifat ile birlikte Garip akımını başlatmıştır.",
+        "Sivas'ta düzenlediği halk şairleri bayramıyla Âşık Veysel'in tanınmasına katkı sağlamıştır.",
+        "Beş Hececiler adıyla anılan şairler arasında yer alır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Efsaneleşmiş büyük aşkları ve sevdaları anlatan uzun türküler",
-        "Büyük felaketleri konu alan türküler",
-        "Oyun havası hâline gelen türküler",
-        "Köy ve kasabalardaki olaylar üzerine yakılan türküler"
-       ],
-       "dogru": 3,
-       "bilgi": "Köy ve kasabalardaki olaylar üzerine yakılan türküler geniş toplulukların ilgisini çekmez, dar çevrede kalır ve kısa ömürlü olur.",
-       "sayfa": 44
-      },
-      {
-       "id": "1.2-07",
-       "tur": "bosluk",
-       "cumle": "Erman Artun'a göre eskiden türküler; ticaret kervanları, gezgin âşıklar, askerler, savaşlar ve ___ yoluyla yavaş ama sürekli biçimde yayılmıştır.",
-       "cevap": "göçler",
-       "celdiriciler": [
-        "gazeteler",
-        "okullar",
-        "matbaalar"
-       ],
-       "bilgi": "Türküleri ticaret kervanları, gezgin âşıklar, askerler, savaşlar ve göçler taşımış; son yıllarda radyo, televizyon gibi araçlar yayılmayı hızlandırmıştır.",
-       "sayfa": 44
-      },
-      {
-       "id": "1.2-08",
-       "tur": "bosluk",
-       "cumle": "Masal, destan, mâni veya türkü gibi bir eserin, anlatanlar değiştikçe aslına göre farklılık gösteren benzerlerine ___ denir.",
-       "cevap": "varyant",
-       "celdiriciler": [
-        "nazire",
-        "tercüme",
-        "şerh"
-       ],
-       "bilgi": "İlk çıkışından sonra anlatanlar veya yazanlar değiştikçe ortaya çıkan farklı metinler, bir eserin varyantlarıdır.",
-       "sayfa": 51
-      },
-      {
-       "id": "1.2-09",
-       "tur": "secmeli",
-       "soru": "\"Ah bu türküler köy türküleri / Dilimizin tuzu biberi\" dizelerinin yer aldığı Türküler Dolusu şiiri hangi şaire aittir?",
-       "secenekler": [
-        "Bedri Rahmi Eyüboğlu",
-        "Ahmet Kutsi Tecer",
-        "Cahit Sıtkı Tarancı",
-        "Necip Fazıl Kısakürek"
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
        ],
        "dogru": 0,
-       "bilgi": "Türküler Dolusu, Bedri Rahmi Eyüboğlu'nun Karadut adlı kitabında yer alan şiiridir.",
-       "sayfa": 39
-      },
-      {
-       "id": "1.2-10",
-       "tur": "secmeli",
-       "soru": "\"Geceleyin bir ses böler uykumu\" dizesiyle başlayan Nerdesin şiiri hangi şaire aittir?",
-       "secenekler": [
-        "Orhan Veli Kanık",
-        "Melih Cevdet Anday",
-        "Ahmet Kutsi Tecer",
-        "Bedri Rahmi Eyüboğlu"
-       ],
-       "dogru": 2,
-       "bilgi": "Nerdesin şiiri, Ahmet Kutsi Tecer'in Bütün Şiirleri adlı kitabında yer alır.",
+       "bilgi": "Ahmet Kutsi Tecer (1901-1967), halk şiirinin ölçüsünü ve söyleyişini çağdaş bir duyarlılıkla kullanmış; Sivas'ta öğretmenken düzenlediği halk şairleri bayramıyla Âşık Veysel'i tanıtmıştır. Garip'i Orhan Veli, Oktay Rifat ve Melih Cevdet başlatmış; Tecer Beş Hececilerden değildir.",
        "sayfa": 50
-      },
-      {
-       "id": "1.2-11",
-       "tur": "secmeli",
-       "soru": "Anonim \"Atem Tutam Men Seni\" metni hangi sözlü kültür ürününe örnektir?",
-       "secenekler": [
-        "Ağıt",
-        "Ninni",
-        "Mâni",
-        "Tekerleme"
-       ],
-       "dogru": 1,
-       "bilgi": "\"Atem Tutam Men Seni\" anonim bir ninnidir; Turnalar ise anonim bir türküdür.",
-       "sayfa": 46
       }
      ]
     },
@@ -365,73 +282,71 @@
       {
        "id": "1.3-01",
        "tur": "secmeli",
-       "soru": "Şiir dinletisi hazırlığında antolojilerden ve güvenilir kaynaklardan temaya uygun şiirlerin belirlendiği aşama hangisidir?",
-       "secenekler": [
-        "Planlama aşaması",
-        "Prova aşaması",
-        "Sunma aşaması",
-        "Derleme aşaması"
+       "soru": "'Türk şiirinin yüzyılları' temalı bir dinletide şiirler, şairlerinin yaşadığı dönemlere göre eskiden yeniye doğru okunacaktır. Dinletiye seçilen şiirlerin şairleri şunlardır:",
+       "oncul": [
+        "Namık Kemal",
+        "Yunus Emre",
+        "Nedîm",
+        "Karacaoğlan",
+        "Fuzûlî"
        ],
-       "dogru": 3,
-       "bilgi": "Derleme aşamasında antolojilerden ve güvenilir kaynaklardan, türünün seçkin örneği olan şiirler seçilir.",
-       "sayfa": 56
-      },
-      {
-       "id": "1.3-02",
-       "tur": "dy",
-       "ifade": "Şiir dinletisinin planlama aşamasında sözün ezgili söylenişine katkı için şiirlerin içeriğine uygun fon müzikleri belirlenir.",
-       "dogru": true,
-       "bilgi": "Planlama aşamasında fon müzikleri, şiirlerin okunma sırası, sunucular, kostümler, tarih, süre ve mekân belirlenir.",
+       "kok": "Bu şairlerin şiirlerinin okunma sırası aşağıdakilerden hangisi olmalıdır?",
+       "secenekler": [
+        "II - V - IV - III - I",
+        "II - IV - V - III - I",
+        "II - V - III - IV - I",
+        "V - II - IV - III - I",
+        "II - V - IV - I - III"
+       ],
+       "dogru": 0,
+       "bilgi": "Yunus Emre XIII-XIV., Fuzûlî XVI., Karacaoğlan XVII., Nedîm XVIII. (Lâle Devri), Namık Kemal XIX. yüzyılda yaşamıştır. Bu nedenle sıra II - V - IV - III - I olmalıdır.",
        "sayfa": 55
       },
       {
+       "id": "1.3-02",
+       "tur": "secmeli",
+       "soru": "Şiiri sesli okumak, onu bir bakıma yeniden yazmaktır. Dizenin sonunda anlam tamamlanmamışsa okuyucu sesini düşürmeden bir sonraki dizeye geçmeli; virgülde kısa, noktada uzun durmalı, vurguyu anlamın yoğunlaştığı sözcüğe yüklemelidir. Her dize sonunda aynı tonda duran, her sözcüğü aynı vurguyla söyleyen biri şiiri okumuş olmaz; yalnızca sözcükleri sıralamış olur.\nBu parçada asıl anlatılmak istenen aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Şiirde durak ve vurgunun anlamın akışına göre belirlenmesi gerektiği",
+        "Şiirlerin sesli okunmaktan çok sessiz okunduğunda daha iyi anlaşıldığı",
+        "Her dizenin sonunda mutlaka uzun bir durak yapılması gerektiği",
+        "Şiir okuyan kişinin şiiri ezberlemesinin okumayı kolaylaştırdığı",
+        "Sesli okumada şiirdeki her sözcüğe eşit vurgu yapılması gerektiği"
+       ],
+       "dogru": 0,
+       "bilgi": "Parçaya göre şiir okuyucusu durakları, vurguyu ve tonlamayı dizelere göre değil anlamın akışına göre belirlemelidir; her dize sonunda aynı tonda durmak ve tekdüze vurgu şiiri anlamsızlaştırır.",
+       "sayfa": 56
+      },
+      {
        "id": "1.3-03",
-       "tur": "dy",
-       "ifade": "Şiir dinletisi için seçilen şiirlerin tümü Türk edebiyatının tek bir döneminden alınmalıdır.",
-       "dogru": false,
-       "bilgi": "Şiir dinletisinde Türk edebiyatının farklı dönemlerinden, belirlenen temaya uygun şiirler seçilir.",
+       "tur": "secmeli",
+       "soru": "Bir şiir dinletisinin programında okunacak şiirler ve şairleri listelenirken bir yanlışlık yapılmıştır.\nAşağıdaki şiir – şair eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "Kaldırımlar – Necip Fazıl Kısakürek",
+        "Otuz Beş Yaş – Cahit Sıtkı Tarancı",
+        "Sessiz Gemi – Ahmet Haşim",
+        "Han Duvarları – Faruk Nafiz Çamlıbel",
+        "Hürriyet Kasîdesi – Namık Kemal"
+       ],
+       "dogru": 2,
+       "bilgi": "Sessiz Gemi, Yahya Kemal Beyatlı'nın şiiridir. Ahmet Haşim'in tanınmış şiirleri arasında O Belde, Merdiven ve Bir Günün Sonunda Arzu sayılabilir.",
        "sayfa": 55
       },
       {
        "id": "1.3-04",
        "tur": "secmeli",
-       "soru": "Şiirlerin ezberlenmesi; vurgu, tonlama, durak ve telaffuz çalışmaları ile bireysel ve toplu çalışmalar şiir dinletisinin hangi aşamasında yapılır?",
+       "soru": "(I) Bir şiir dinletisinin başarısı büyük ölçüde şiirlerin seçimine bağlıdır. (II) Seçilen şiirler hem belirlenen temaya uygun olmalı hem de türünün seçkin örnekleri arasında yer almalıdır. (III) Farklı dönemlerden şiirlere yer vermek, dinleyiciye Türk şiirinin zenginliğini gösterme fırsatı sunar. (IV) Divan şairleri, şiirlerinde genellikle aruz ölçüsünü kullanmıştır. (V) Şiirlerin okunma sırası da temanın akışı gözetilerek belirlenmelidir.\nBu parçada numaralanmış cümlelerden hangisi düşüncenin akışını bozmaktadır?",
        "secenekler": [
-        "Prova aşaması",
-        "Derleme aşaması",
-        "Sunum metni yazma aşaması",
-        "Planlama aşaması"
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
        ],
-       "dogru": 0,
-       "bilgi": "Prova aşamasında şiirler ezberlenir, vurgu ve tonlamaya dikkat edilerek bireysel ve toplu provalar yapılır, mekân ve araçlar kontrol edilir.",
-       "sayfa": 56
-      },
-      {
-       "id": "1.3-05",
-       "tur": "bosluk",
-       "cumle": "Şiir dinletisinin akışında \"başlatma, sürdürme ve ___\" ifadelerine yer verilerek dinleyicilere belli bir plan olduğu hissettirilir.",
-       "cevap": "bitirme",
-       "celdiriciler": [
-        "özetleme",
-        "tartışma",
-        "sorgulama"
-       ],
-       "bilgi": "Sunma aşamasında başlatma, sürdürme ve bitirme ifadeleri kullanılır; göz teması, ses tonu ve beden dili şiirin içeriğine uygun olmalıdır.",
-       "sayfa": 56
-      },
-      {
-       "id": "1.3-06",
-       "tur": "secmeli",
-       "soru": "Şiir dinletisinde temaya ve şiirlerin okunma sırasına uygun bir metnin, Türkçenin etkili kullanımına dikkat edilerek hazırlandığı aşama hangisidir?",
-       "secenekler": [
-        "Derleme aşaması",
-        "Sunum metni yazma aşaması",
-        "Prova aşaması",
-        "Sunma aşaması"
-       ],
-       "dogru": 1,
-       "bilgi": "Sunum metni yazma aşamasında temaya uygun bir sunum metni hazırlanır; bu metinde kısa hikâyelere veya etkileyici sözlere yer verilebilir.",
-       "sayfa": 56
+       "sirali": true,
+       "dogru": 3,
+       "bilgi": "Parça, dinletide şiirlerin seçimini ve sıralanmasını anlatıyor. IV. cümle ise divan şiirinin ölçüsüne ilişkin bir bilgi vererek bu akışın dışına çıkmaktadır.",
+       "sayfa": 55
       }
      ]
     },
@@ -442,148 +357,104 @@
       {
        "id": "1.4-01",
        "tur": "secmeli",
-       "soru": "Kahramanları insanlar, bazen hayvanlar ve olağanüstü varlıklar olan; olayları hayalî, zaman ve mekânı belirsiz olan edebî tür hangisidir?",
-       "secenekler": [
-        "Destan",
-        "Masal",
-        "Halk hikâyesi",
-        "Efsane"
+       "soru": "Evvel zaman içinde, kalbur saman içinde, develer tellal iken pireler berber iken bir padişahın üç oğlu varmış. Padişahın bahçesindeki altın elmaları her gece bir dev çalarmış. Küçük oğlan bir gece nöbet tutmuş, yaralı devin peşine düşüp yerin yedi kat altına inmiş.\nBu parçayla ilgili,",
+       "oncul": [
+        "Masalın döşeme bölümünde kalıplaşmış bir tekerlemeye yer verilmiştir.",
+        "Anlatılanların gerçekten yaşandığına inanılan bir türün özelliklerini taşır.",
+        "Olağanüstü varlık ve olaylara yer verilmiştir."
        ],
-       "dogru": 1,
-       "bilgi": "Masal; olayların hayalî tasarlandığı, zaman ve mekânın belirgin olmadığı, dinleyenleri eğlendirerek eğitmeyi amaçlayan edebî türdür.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "'Evvel zaman içinde…' tekerlemesi masalın döşeme bölümüdür; dev ve yerin yedi kat altı olağanüstülüğü gösterir. Anlatılanların gerçek olduğuna inanılması masalın değil efsanenin özelliğidir.",
        "sayfa": 63
       },
       {
        "id": "1.4-02",
-       "tur": "eslestir",
-       "yonerge": "Masalın bölümlerini işlevleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Döşeme",
-         "Dinleyiciyi hazırlayan giriş tekerlemesi"
-        ],
-        [
-         "Serim",
-         "Olay, kişi, zaman ve mekânın tanıtılması"
-        ],
-        [
-         "Düğüm",
-         "Olayların ve çatışmaların yer alması"
-        ],
-        [
-         "Çözüm",
-         "Olayların sonuca ulaşması"
-        ],
-        [
-         "Dilek",
-         "Anlatıcı ve dinleyenler için iyi dilekler"
-        ]
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi masalı destandan ayıran özelliklerden biridir?",
+       "secenekler": [
+        "Olağanüstü kişi ve olaylara yer vermesi",
+        "Anonim olup sözlü gelenekle yaşaması",
+        "Bir milletin ortak hayatını etkileyen olaylara dayanmaması",
+        "Kahramanlarının insan ya da olağanüstü varlıklar olabilmesi",
+        "Anlatıcıdan anlatıcıya farklılaşarak varyantlar oluşturması"
        ],
-       "bilgi": "Masal sırasıyla döşeme, serim, düğüm, çözüm ve dilek bölümlerinden oluşur; döşeme ve dilekte tekerleme söylenir.",
+       "dogru": 2,
+       "bilgi": "Destan savaş, göç, doğal afet gibi bir milletin ortak hayatını derinden etkileyen olayları anlatır; masal ise hayalî olaylarla dinleyeni eğlendirerek eğitmeyi amaçlar. Olağanüstülük, anonimlik ve varyant iki türde de görülür.",
        "sayfa": 63
       },
       {
        "id": "1.4-03",
-       "tur": "bosluk",
-       "cumle": "Naki Tezel'e göre masalın öz Türkçe karşılığı ___ olup Uygurcada \"öğüt verici hikâye\" anlamına gelir.",
-       "cevap": "ödkünç",
-       "celdiriciler": [
-        "sagu",
-        "sav",
-        "koşuk"
+       "tur": "secmeli",
+       "soru": "Masallarımızın başlıca anlatıcıları kadınlardır; dilimizdeki 'masal anası' terimi de bu yüzden hep kadın anlatıcılar için kullanılmıştır. Masallar özellikle uzun kış gecelerinde ve kadınların bir araya gelip topluca iş yaptığı zamanlarda anlatılırdı. Bu gelenek, eğlence araçlarının çeşitlenmesiyle günümüzde büyük ölçüde zayıflamıştır.\nBu parçadan aşağıdakilerden hangisi çıkarılamaz?",
+       "secenekler": [
+        "Masal anlatma geleneğini yaşatanların çoğunlukla kadınlar olduğu",
+        "Masal anlatımının belirli zaman ve ortamlarla ilişkili olduğu",
+        "Hayattaki değişimlerin sözlü geleneği etkilediği",
+        "Masalların erkekler tarafından hiç anlatılmadığı",
+        "Masal anlatmanın topluca katılınan bir etkinlik olduğu"
        ],
-       "bilgi": "Uygurcada öd \"öğüt\" demektir; ödkünç/ötkünç öğüt verici hikâye, ahlak dersi veren alegorik eser anlamındadır.",
-       "sayfa": 58
+       "dogru": 3,
+       "bilgi": "Parçada kadınların başlıca anlatıcı olduğu söylenir; 'başlıca' sözü erkeklerin hiç anlatmadığı anlamına gelmez. Kış geceleri, toplu iş zamanları ve geleneğin zayıflaması diğer yargıları destekler.",
+       "sayfa": 65
       },
       {
        "id": "1.4-04",
        "tur": "secmeli",
-       "soru": "\"Masal dediğimiz şey, her milletin dönen aynasıdır.\" sözü kime aittir?",
+       "soru": "Uygurcada 'öğüt' anlamına gelen öd kökünden türeyen ödkünç sözcüğü, öğüt veren, ahlak dersi içeren hikâyeler için kullanılmış ve masalın eski Türkçedeki karşılığı olarak gösterilmiştir. Masal araştırmacıları da masalların, bir milletin eski inançlarını, değerlerini ve yaşayışını yansıttığını belirtir.\nBu bilgilere göre masalla ilgili,",
+       "oncul": [
+        "Öğretici bir işlev taşır.",
+        "Toplumun kültürel geçmişine ışık tutan bir kaynak olarak değerlendirilebilir.",
+        "Gerçekte yaşanmış, yeri ve zamanı belli olayları anlatır."
+       ],
+       "kok": "yargılarından hangilerine ulaşılabilir?",
        "secenekler": [
-        "Naki Tezel",
-        "Saim Sakaoğlu",
-        "Ignácz Kúnos",
-        "Eflâtun Cem Güney"
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
        ],
        "dogru": 2,
-       "bilgi": "Ignácz Kúnos'a göre masal aynasında eskilerin ibadetleri ve eski zamanların ahlakı görülür.",
+       "bilgi": "Ödkünç sözcüğünün 'öğüt veren hikâye' anlamı masalın öğretici yönünü, masalların inanç ve değerleri yansıtması da kültürel kaynak oluşunu gösterir. Masalda zaman ve mekân belirsizdir, olaylar hayalîdir.",
        "sayfa": 58
       },
       {
        "id": "1.4-05",
-       "tur": "bosluk",
-       "cumle": "Saim Sakaoğlu'na göre masallarımızın başlıca anlatıcıları ___ olup dilimizdeki \"masal anası\" terimi onlar için kullanılır.",
-       "cevap": "kadınlar",
-       "celdiriciler": [
-        "erkekler",
-        "çocuklar",
-        "âşıklar"
+       "tur": "secmeli",
+       "soru": "Bir köyde anlatılana göre köyün yakınındaki sıra sıra kayalar, bir zamanlar verdiği sözden dönen bir çobanın sürüsüyle birlikte taşa dönüşmesiyle oluşmuştur. Köylüler bu anlatıyı atalarından duydukları gerçek bir olay olarak kabul eder ve kayaların yanından geçerken dua okur.\nBu anlatı aşağıdaki türlerden hangisine örnektir?",
+       "secenekler": [
+        "Masal",
+        "Efsane",
+        "Destan",
+        "Fabl",
+        "Halk hikâyesi"
        ],
-       "bilgi": "Masal anlatma geleneğinin önde gelen yaşatıcıları kadınlardır; \"masal anası\" terimi daima kadın anlatıcılar için kullanılmıştır.",
-       "sayfa": 65
+       "dogru": 1,
+       "bilgi": "Olağanüstü bir olayın gerçekten yaşandığına inanılması ve olayın belli bir yere bağlanması efsanenin özelliğidir. Masalda anlatılanların gerçekliği iddia edilmez; destan ise bir milletin ortak hayatını etkileyen olayları anlatır.",
+       "sayfa": 63
       },
       {
        "id": "1.4-06",
        "tur": "secmeli",
-       "soru": "Saim Sakaoğlu'na göre masallar özellikle hangi zamanlarda anlatılırdı?",
+       "soru": "Sözlü kültürümüzün ve geleneksel Türk tiyatrosunun bazı ürünleriyle ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
        "secenekler": [
-        "Bayram sabahları ve düğün dönüşlerinde",
-        "Savaş sonrasında düzenlenen toylarda",
-        "Kış geceleri ve kadınların topluca iş yaptığı zamanlarda",
-        "Hasat mevsiminde tarlalarda topluca ekin biçilip harman yapılırken"
+        "Karagöz – Deriden tasvirlerle perde arkasında oynatılan gölge oyunu",
+        "Meddah – Taklitlerle tek başına hikâye anlatan sanatçı",
+        "Ortaoyunu – Tasvirlerin perdeye yansıtılmasıyla oynanan oyun",
+        "Dede Korkut Hikâyeleri – Destandan halk hikâyesine geçişin ürünü",
+        "Nasreddin Hoca – XIII. yüzyılda yaşamış fıkra kahramanı"
        ],
        "dogru": 2,
-       "bilgi": "Masallar bilhassa kış geceleri ile kadınların topluca iş yaptıkları zamanlarda anlatılırdı; bu gelenek günümüzde büyük ölçüde zayıflamıştır.",
-       "sayfa": 65
-      },
-      {
-       "id": "1.4-07",
-       "tur": "secmeli",
-       "soru": "Masal dünyasının \"bir fındık kabuğuna sığar, yedi dünyaya sığmaz\" diye anlatıldığı Her Masalın Başı metni hangi yazarın Masallar adlı eserindendir?",
-       "secenekler": [
-        "Eflâtun Cem Güney",
-        "Saim Sakaoğlu",
-        "Naki Tezel",
-        "Ignácz Kúnos"
-       ],
-       "dogru": 0,
-       "bilgi": "Her Masalın Başı, Eflâtun Cem Güney'in Masallar adlı eserinden alınmıştır.",
-       "sayfa": 65
-      },
-      {
-       "id": "1.4-08",
-       "tur": "bosluk",
-       "cumle": "Olmadığı hâlde varmış gibi tasarlanmış, kurgulanmış olay veya duruma ___ denir.",
-       "cevap": "kurmaca",
-       "celdiriciler": [
-        "betimleme",
-        "gerçeklik",
-        "olağanüstülük"
-       ],
-       "bilgi": "Kurmaca, olmadığı hâlde varmış gibi tasarlanan olay veya durumdur; masal da kurmaca bir metin türüdür.",
-       "sayfa": 60
-      },
-      {
-       "id": "1.4-09",
-       "tur": "dy",
-       "ifade": "Masal, sözlü kültür ürünleri arasında öğreticilik yönü ağır basan ve nesilden nesile masal anlatıcılarıyla aktarılan bir türdür.",
-       "dogru": true,
-       "bilgi": "Masal, dinleyenlerin hayal dünyasını zenginleştiren, öğreticilik yönü ağır basan kurmaca bir sözlü kültür ürünüdür.",
+       "bilgi": "Ortaoyunu, perde ve tasvir kullanılmadan açık bir alanda (meydanda) oynanan halk tiyatrosudur; tasvirlerin perdeye yansıtılması Karagöz'e özgüdür. Dede Korkut Hikâyeleri destan ile halk hikâyesi arasında köprüdür.",
        "sayfa": 34
-      },
-      {
-       "id": "1.4-10",
-       "tur": "secmeli",
-       "soru": "Masal türünün temel amacı hangisidir?",
-       "secenekler": [
-        "Tarihî olayları belgelemek",
-        "Toplumdaki aksaklıkları eleştirmek",
-        "Bir milletin kahramanlarını yüceltmek",
-        "Dinleyenleri eğlendirerek eğitmek"
-       ],
-       "dogru": 3,
-       "bilgi": "Masal, dinleyenleri eğlendirerek eğitmeyi amaçlayan edebî bir türdür.",
-       "sayfa": 63
       }
      ]
     },
@@ -594,58 +465,75 @@
       {
        "id": "1.5-01",
        "tur": "secmeli",
-       "soru": "Kare şeklindeki kâğıtlara edebî metnin önemli görülen yerlerinin yazıldığı ve resmedildiği çalışma hangisidir?",
+       "soru": "Film şeridine dönüştürülecek bir masalın bölümlerinden alınan parçalar karışık olarak verilmiştir.",
+       "oncul": [
+        "Onlar ermiş muradına, biz çıkalım kerevetine.",
+        "Evvel zaman içinde, kalbur saman içinde, develer tellal iken pireler berber iken…",
+        "Vaktiyle yoksul bir oduncunun, ormanda babasına yardım eden tek bir oğlu varmış.",
+        "Oğlan, devin sakladığı sihirli aynayı ararken yedi dağ aşmış, sonunda devin sarayında tutsak kalmış.",
+        "Devin uykuya daldığı bir gece aynayı alıp kaçmış, köyüne dönerek yoksulluktan kurtulmuş."
+       ],
+       "kok": "Bu parçaların masalın yapısına göre sıralaması aşağıdakilerden hangisidir?",
        "secenekler": [
-        "Venn şeması",
-        "T diyagramı",
-        "Film şeridi yöntemi",
-        "Kavram haritası"
+        "III - II - IV - V - I",
+        "II - IV - III - V - I",
+        "II - III - IV - V - I",
+        "II - III - V - IV - I",
+        "III - IV - II - V - I"
        ],
        "dogru": 2,
-       "bilgi": "Film şeridi yöntemi, edebî metnin önemli yerlerinin kare şeklindeki kâğıtlara yazılıp resmedildiği bir çalışmadır.",
-       "sayfa": 77
+       "bilgi": "Masal; döşeme (giriş tekerlemesi), serim (kişi ve ortamın tanıtılması), düğüm (olayların karmaşıklaşması), çözüm ve dilek (iyi dilek tekerlemesi) bölümleriyle ilerler: II - III - IV - V - I.",
+       "sayfa": 63
       },
       {
        "id": "1.5-02",
-       "tur": "dy",
-       "ifade": "Film şeridi yöntemiyle metindeki karakterlerin duyguları ve metnin yapı unsurları arasındaki ilişkiler gösterilebilir.",
-       "dogru": true,
-       "bilgi": "Film şeridiyle karakterlerin duyguları, yapı unsurları arasındaki ilişkiler ve ayrıntılar görselleştirilebilir.",
+       "tur": "secmeli",
+       "soru": "Masalların başında ve sonunda yer alan tekerlemelerle ilgili,",
+       "oncul": [
+        "Dinleyiciyi masalın olağanüstü dünyasına hazırlar.",
+        "Ses tekrarlarına ve kafiyeye dayalı ahenkli bir söyleyişe sahiptir.",
+        "Olay örgüsündeki çatışmanın ortaya çıktığı bölümü oluşturur."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Döşeme ve dilek bölümlerindeki tekerlemeler, kafiyeli ve ahenkli kalıp sözlerle dinleyiciyi masala hazırlar ve masalı bağlar. Çatışmanın ortaya çıktığı bölüm ise düğümdür.",
        "sayfa": 77
       },
       {
        "id": "1.5-03",
-       "tur": "bosluk",
-       "cumle": "Bir masal film şeridine dönüştürülürken çalışmaya sözlü bir giriş olarak ___ söylenerek başlanabilir.",
-       "cevap": "tekerleme",
-       "celdiriciler": [
-        "nakarat",
-        "mahlas",
-        "redif"
+       "tur": "secmeli",
+       "soru": "Bir masalı film şeridine dönüştürmek, onu yalnızca resimlemek değildir. Hangi anın kareye taşınacağına karar veren okur, olaylardan hangisinin hikâyeyi ilerlettiğini, hangisinin süs olarak kaldığını ayırt etmek zorundadır. Karakterin yüzüne çizilecek bir ifade bile onun o anda ne hissettiğini düşünmeyi gerektirir. Böylece okur, farkında olmadan metni yeniden okur ve çözümler.\nBu parçada asıl anlatılmak istenen aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Film şeridi hazırlamanın metni derinlemesine kavramayı sağladığı",
+        "Masalların resimlendiğinde daha kolay unutulduğu",
+        "Film şeridinde karakterlerin yüz ifadelerinin çizilmemesi gerektiği",
+        "Masalların resim yeteneği gelişmiş kişilerce daha iyi anlaşıldığı",
+        "Film şeridindeki kare sayısının mümkün olduğunca artırılması gerektiği"
        ],
-       "bilgi": "Film şeridine tekerlemeyle sözlü giriş yaparak, tekerlemeyi kareler hâlinde sunarak veya dikkat çekici bir görselle başlanabilir.",
+       "dogru": 0,
+       "bilgi": "Parçaya göre kareler için önemli anları seçmek, olayları ve karakterlerin duygularını düşünmeyi gerektirir; bu da okurun metni çözümlemesini sağlar. Film şeridi, metni anlamayı derinleştiren bir yöntemdir.",
        "sayfa": 77
       },
       {
        "id": "1.5-04",
-       "tur": "dy",
-       "ifade": "Film şeridi hazırlanırken karelerin sayısı ve yatay ya da dikey oluşu önceden belirlenmez.",
-       "dogru": false,
-       "bilgi": "Film şeridi planlanırken kullanılacak kare sayısına ve karelerin şekline (yatay/dikey) önceden karar verilir.",
-       "sayfa": 77
-      },
-      {
-       "id": "1.5-05",
        "tur": "secmeli",
-       "soru": "Film şeridi çalışmasında karelere yapılan çizimlerin özellikle neyi yansıtması beklenir?",
+       "soru": "Bir masal film şeridine ya da sahneye aktarıldığında anlatıcının sözle aktardıkları görüntüye, harekete ve diyaloğa dönüşür; böylece anlatmaya bağlı bir metin, göstermeye bağlı bir anlatıma kavuşur.\nAşağıdakilerden hangisi anlatmaya bağlı edebî ürünlerden biri değildir?",
        "secenekler": [
-        "Masal karakterlerini ve olay akışını",
-        "Yazarın hayatını ve eserlerini",
-        "Masalın ölçü ve kafiye düzenini",
-        "Masalın varyantlarını"
+        "Destan",
+        "Fabl",
+        "Ortaoyunu",
+        "Halk hikâyesi",
+        "Masal"
        ],
-       "dogru": 0,
-       "bilgi": "Film karelerindeki çizimler masal karakterlerini ve olay akışını yansıtmalıdır.",
+       "dogru": 2,
+       "bilgi": "Ortaoyunu ve Karagöz gibi geleneksel tiyatro ürünleri göstermeye bağlıdır. Destan, fabl, halk hikâyesi ve masal ise bir anlatıcının olayları aktardığı anlatmaya bağlı türlerdir.",
        "sayfa": 77
       }
      ]
@@ -663,194 +551,141 @@
       {
        "id": "2.1-01",
        "tur": "secmeli",
-       "soru": "Divan edebiyatında yaygın kullanılan, beyitle yazılan, 5-15 beyitten oluşan ve aa, ba, ca... biçiminde kafiyelenen nazım biçimi hangisidir?",
-       "secenekler": [
-        "Murabba",
-        "Rubai",
-        "Gazel",
-        "Tuyuğ"
+       "soru": "Aşağıda bir gazelin ilk ve son beyitleri verilmiştir.\nBeni candan usandırdı cefadan yâr usanmaz mı\nFelekler yandı âhımdan murâdım şem'i yanmaz mı\n…\nFuzûlî rind-i şeydâdır hemîşe halka rüsvâdır\nSorun kim bu ne sevdâdır bu sevdâdan usanmaz mı\nBu beyitlerle ilgili,",
+       "oncul": [
+        "İlk beyit, dizeleri kendi arasında kafiyeli olan matla beytidir.",
+        "Son beyit, şairin mahlasının geçtiği makta beytidir.",
+        "Dize sonlarında tekrarlanan 'maz mı' sözleri rediftir.",
+        "Hece ölçüsüyle yazılmıştır."
        ],
-       "dogru": 2,
-       "bilgi": "Gazellerde genellikle aşk, tabiat, güzellik gibi temalar işlenir; beyit sayısı 5-15 arasında değişir.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "I ve II",
+        "I, II ve III",
+        "I, III ve IV",
+        "II, III ve IV",
+        "I, II, III ve IV"
+       ],
+       "dogru": 1,
+       "bilgi": "Gazelin kendi arasında kafiyeli ilk beyti matla, mahlaslı son beyti makta, en güzel beyti beytülgazeldir. 'usan-/yan-' sözcüklerinde 'an' kafiye, 'maz mı' rediftir; gazel aruzla yazılmıştır. XVI. yüzyılda Irak'ta yetişen Fuzûlî, üç dilde şiir yazmış büyük bir lirik şairdir.",
        "sayfa": 92
       },
       {
        "id": "2.1-02",
-       "tur": "eslestir",
-       "yonerge": "Gazelin beyitleriyle ilgili terimleri açıklamalarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Matla",
-         "Gazelin ilk beyti"
-        ],
-        [
-         "Makta",
-         "Gazelin son beyti"
-        ],
-        [
-         "Beytülgazel",
-         "Gazelin en güzel beyti"
-        ]
+       "tur": "secmeli",
+       "soru": "Kanuni Sultan Süleyman döneminde yaşayan şair, devrinde 'sultânü'ş-şuarâ' (şairlerin sultanı) unvanıyla anılmıştır. Gazellerinde tasavvufa pek yer vermeden dünya hayatının güzelliklerini, aşkı ve tabiatı işlemiş; akıcı söyleyişi ve ses ahengiyle dikkat çekmiştir. Divan şiirinin İstanbul Türkçesiyle olgunlaştığı dönemin en büyük gazel şairi kabul edilir.\nBu parçada sözü edilen şair aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Fuzûlî",
+        "Bâkî",
+        "Nef'î",
+        "Nedîm",
+        "Necâtî"
        ],
-       "bilgi": "Gazelin ilk beytine matla, son beytine makta, en güzel beytine beytülgazel denir.",
+       "dogru": 1,
+       "bilgi": "Bâkî (1526-1600), 'sultânü'ş-şuarâ' unvanıyla anılan, dünya zevklerini ahenkli bir dille işleyen gazel ustasıdır. Aynı yüzyılın büyük şairi Fuzûlî ise Irak'ta yetişmiş; aşkı ıstırap ve tasavvufla işlemiştir.",
        "sayfa": 92
       },
       {
        "id": "2.1-03",
        "tur": "secmeli",
-       "soru": "\"Döne döne\" redifli gazelin şairi olan XV. yüzyıl divan şairi Necâtî Bey devrinde hangi unvanla anılmıştır?",
+       "soru": "'Döne döne' redifli gazeliyle tanınan XV. yüzyıl divan şairi Necâtî Bey ile ilgili aşağıdakilerden hangisi yanlıştır?",
        "secenekler": [
-        "Sultânü'ş-şuarâ",
-        "Hüsrev-i Rûm",
-        "Reîsü'ş-şuarâ",
-        "Mevlânâ"
+        "Şiirlerinde atasözlerine ve deyimlere sıkça yer vermiştir.",
+        "Halk söyleyişlerinden yararlanarak sade bir Türkçe kullanmıştır.",
+        "'Döne döne' redifli gazeline Bâkî başta olmak üzere birçok şair nazire yazmıştır.",
+        "Kendisinden sonra gelen pek çok divan şairini etkilemiştir.",
+        "Lâle Devri'nin eğlence hayatını ve Sadabat'ı şiirlerine taşımıştır."
        ],
-       "dogru": 1,
-       "bilgi": "Asıl adı İsa olan Necâtî Bey, devrinde \"Hüsrev-i Rûm\" (Anadolu şairlerinin padişahı) olarak anılmıştır.",
+       "dogru": 4,
+       "bilgi": "Lâle Devri'ni (XVIII. yüzyıl) ve Sadabat'ı şiirine taşıyan şair Nedîm'dir. Necâtî, atasözü ve deyimlerle örülü sade söyleyişiyle kendinden sonrakileri etkilemiş; 'döne döne' redifli gazeline birçok nazire yazılmıştır.",
        "sayfa": 92
       },
       {
        "id": "2.1-04",
-       "tur": "bosluk",
-       "cumle": "Necâtî Bey'in \"döne döne\" redifli gazeline başta ___ olmak üzere pek çok şair nazire yazmıştır.",
-       "cevap": "Bâkî",
-       "celdiriciler": [
-        "Fuzûlî",
-        "Nedîm",
-        "Şeyh Gâlib"
+       "tur": "secmeli",
+       "soru": "Dört dizeden oluşan ve aaxa biçiminde kafiyelenen bu nazım biçimi, aruzun yalnızca 'fâilâtün fâilâtün fâilün' kalıbıyla yazılır. Kafiyelerde çoğunlukla cinasa başvurulması dikkat çeker. Türklerin divan edebiyatına kazandırdığı bu biçim, özellikle XIV ve XV. yüzyıllarda kullanılmıştır.\nBu parçada sözü edilen nazım biçimi aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Rubai",
+        "Tuyuğ",
+        "Murabba",
+        "Şarkı",
+        "Kıta"
        ],
-       "bilgi": "Necâtî şiirleriyle kendisinden sonra gelen birçok şairi etkilemiş; \"döne döne\" redifli gazeline birçok nazire yazılmıştır.",
-       "sayfa": 92
+       "dogru": 1,
+       "bilgi": "Tuyuğ; dört dizeli, aaxa kafiyeli, 'fâilâtün fâilâtün fâilün' kalıbıyla yazılan ve sıkça cinaslı kafiye kullanılan Türklere özgü bir biçimdir; en başarılı örnekleri Kadı Burhaneddin'indir. Rubai de dört dizeli ve aaxa kafiyelidir ama İran kaynaklıdır, ahreb-ahrem kalıplarıyla yazılır.",
+       "sayfa": 105
       },
       {
        "id": "2.1-05",
-       "tur": "dy",
-       "ifade": "Necâtî Bey şiirlerinde halk söyleyişlerinden, atasözü ve deyimlerden uzak durmuş, ağır bir dil kullanmıştır.",
-       "dogru": false,
-       "bilgi": "Necâtî şiirlerinde sade bir Türkçe kullanmış; halk söyleyişlerine, atasözleri ve deyimlere sıkça başvurmuştur.",
-       "sayfa": 92
+       "tur": "secmeli",
+       "soru": "Divan şiirinde bazı nazım biçimleri, belli şairlerin elinde en başarılı örneklerine ulaşmıştır.\nAşağıdaki nazım biçimi – şair eşleştirmelerinden hangisi bu bakımdan yanlıştır?",
+       "secenekler": [
+        "Tuyuğ – Kadı Burhaneddin",
+        "Kaside – Nef'î",
+        "Rubai – Azmizade Hâletî",
+        "Şarkı – Fuzûlî",
+        "Mesnevi – Şeyhî"
+       ],
+       "dogru": 3,
+       "bilgi": "Şarkı, XVIII. yüzyılda Nedîm'in elinde en olgun biçimine ulaşmıştır; Fuzûlî gazel ve mesnevi (Leylâ vü Mecnûn) şairidir. Nef'î kaside, Azmizade Hâletî rubai, Kadı Burhaneddin tuyuğ ustasıdır; Şeyhî Hüsrev ü Şirin ve Harnâme mesnevileriyle tanınır.",
+       "sayfa": 105
       },
       {
        "id": "2.1-06",
        "tur": "secmeli",
-       "soru": "XVI. yüzyılda Irak-ı Arab'da yetişen, devrinin ilimlerini bildiği için kaynaklarda \"Mevlânâ\" unvanıyla anılan büyük lirik şair kimdir?",
+       "soru": "XVIII. yüzyıl şairi Nedîm ile ilgili,",
+       "oncul": [
+        "Şiirlerinde Sadabat başta olmak üzere İstanbul'un mekânlarını ve Lâle Devri'nin eğlence hayatını işlemiştir.",
+        "Konuşma diline ve yerli söyleyişlere yer vererek mahallîleşme akımının önemli temsilcisi olmuştur.",
+        "Hüsn ü Aşk adlı mesnevisiyle Sebk-i Hindî'nin en büyük temsilcisi sayılır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Bâkî",
-        "Nedîm",
-        "Necâtî Bey",
-        "Fuzûlî"
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
        ],
-       "dogru": 3,
-       "bilgi": "Türk edebiyatının en büyük lirik şairi sayılan Fuzûlî, Türkçe, Arapça ve Farsça olmak üzere üç dilde şiir yazmıştır.",
-       "sayfa": 97
-      },
-      {
-       "id": "2.1-07",
-       "tur": "eslestir",
-       "yonerge": "Divan şiiri örneklerini şairleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Şarkı (\"Gül yağını eller sürünür çatlasa bülbül\")",
-         "Osman Nevres"
-        ],
-        [
-         "Murabba (\"Vay gönül vay bu gönül\")",
-         "Ahmed Paşa"
-        ],
-        [
-         "Rubai (\"Âlem dedigin senin ne manâ bilsem\")",
-         "Şeyh Gâlib"
-        ],
-        [
-         "Tuyuğ (\"Hakka şükür koçlarun devrânıdur\")",
-         "Kadı Burhaneddin"
-        ]
-       ],
-       "bilgi": "Divan şiirinde gazelin yanı sıra şarkı, murabba, rubai ve tuyuğ gibi nazım biçimleri de kullanılmıştır.",
-       "sayfa": 105
-      },
-      {
-       "id": "2.1-08",
-       "tur": "eslestir",
-       "yonerge": "Türk şiir geleneklerini bu geleneklere ait örnek türlerle eşleştir.",
-       "ciftler": [
-        [
-         "İslamiyet Öncesi şiir geleneği",
-         "Koşuk"
-        ],
-        [
-         "Âşık tarzı şiir geleneği",
-         "Koşma"
-        ],
-        [
-         "Anonim şiir geleneği",
-         "Mâni"
-        ],
-        [
-         "Dinî-tasavvufi şiir geleneği",
-         "İlahi"
-        ],
-        [
-         "Divan şiiri geleneği",
-         "Gazel"
-        ]
-       ],
-       "bilgi": "Türk şiiri; İslamiyet öncesi, anonim, âşık tarzı, dinî-tasavvufi, divan ve modern şiir gibi farklı geleneklerde gelişmiştir.",
-       "sayfa": 88
-      },
-      {
-       "id": "2.1-09",
-       "tur": "bosluk",
-       "cumle": "Mersiyeler; din, devlet büyüklerinin ya da sevilen birinin ___ ardından yazılan divan şiirleridir.",
-       "cevap": "ölümünün",
-       "celdiriciler": [
-        "doğumunun",
-        "tahta çıkışının",
-        "zaferinin"
-       ],
-       "bilgi": "Mersiye, ölüm ardından yazılan divan şiiridir; bir kedinin ardından bile mersiye yazıldığı görülür.",
-       "sayfa": 109
-      },
-      {
-       "id": "2.1-10",
-       "tur": "secmeli",
-       "soru": "Nedîm'in şiirlerinde vazgeçilmez bir mekân olan Sadabat hangi dönemin en gözde eğlence mekânlarındandır?",
-       "secenekler": [
-        "XVIII. yüzyıl Lâle Devri",
-        "XVI. yüzyıl Kanuni Dönemi",
-        "XIX. yüzyıl Tanzimat Dönemi",
-        "XV. yüzyıl Fetret Devri"
-       ],
-       "dogru": 0,
-       "bilgi": "Sadabat, 18. yüzyıl Lâle Devri'nin gözde mekânlarındandır ve Nedîm'in şiirlerinde zengin bir imgeye dönüşür.",
+       "dogru": 1,
+       "bilgi": "Nedîm, Lâle Devri İstanbul'unu, Sadabat'ı ve eğlence hayatını mahallî bir söyleyişle anlatmış; şarkı türünün en büyük ustası olmuştur. Hüsn ü Aşk, Sebk-i Hindî'nin en büyük temsilcisi Şeyh Gâlib'in mesnevisidir.",
        "sayfa": 107
       },
       {
-       "id": "2.1-11",
-       "tur": "bosluk",
-       "cumle": "Divan şiiri, güzelliğin kaynağı kabul edilen ve \"Mutlak Güzellik\" anlamına gelen ___ kavramını terennüm eder.",
-       "cevap": "Hüsn-i Mutlak",
-       "celdiriciler": [
-        "Elest Bezmi",
-        "Beytülgazel",
-        "Mazmun"
+       "id": "2.1-07",
+       "tur": "secmeli",
+       "soru": "Divan şiiriyle ilgili,",
+       "oncul": [
+        "Sevgilinin boyu serviye, kaşı hilale, yanağı güle benzetilir; bu ortak benzetmeler (mazmunlar) şairden şaire aktarılır.",
+        "Şiirlerde anlatılan aşk, dolaylı olarak Hüsn-i Mutlak'a, yani Allah'ın güzelliğine duyulan aşkı da yansıtabilir.",
+        "Şairler, bir başka şairin şiirine aynı ölçü ve kafiyeyle nazire yazarak ustalıklarını gösterir."
        ],
-       "bilgi": "Divan şiirinin temel konusu dolaylı olarak Hüsn-i Mutlak'a duyulan aşktır; bu güzellikle ilk tanışmanın Elest Bezmi'nde gerçekleştiğine inanılır.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Divan şiiri, az sözle çok şey anlatmayı sağlayan ortak mazmunlara dayanır ve her şair bunları kendi söyleyişiyle yeniler. Şiirin özünde Hüsn-i Mutlak'a duyulan aşk vardır; nazire ise ustalık göstermenin ve yarışmanın yoludur.",
        "sayfa": 104
       },
       {
-       "id": "2.1-12",
+       "id": "2.1-08",
        "tur": "secmeli",
-       "soru": "Divan edebiyatında anlamı bir söz veya beytin içinde ustaca gizleyen, ortak mecaz ve istiarelere dayanan dil ustalığına ne denir?",
+       "soru": "XVI. yüzyıl şairi Bâkî, Kanuni Sultan Süleyman'ın Zigetvar Seferi sırasında ölmesi üzerine bir şiir yazmıştır. Şair bu şiirde padişahın yiğitliğini ve adaletini anarak ölümünden duyulan derin acıyı dile getirmiş, bütün varlıkların bu ölüm karşısında yas tuttuğunu söylemiştir.\nBu şiir, konusu bakımından divan şiirinin aşağıdaki türlerinden hangisine örnektir?",
        "secenekler": [
-        "Nazire",
-        "Mazmun",
-        "Redif",
-        "Mahlas"
+        "Methiye",
+        "Mersiye",
+        "Hicviye",
+        "Naat",
+        "Fahriye"
        ],
        "dogru": 1,
-       "bilgi": "Mazmun, divan şiirinde az sözle çok şey anlatma imkânı sağlar; çağdaş şiirde ise şairler kendilerine özgü sembol ve metaforlar kullanır.",
-       "sayfa": 150
+       "bilgi": "Bir kişinin ölümü üzerine duyulan acıyı dile getiren ve ölenin iyiliklerini anan şiire mersiye denir; Bâkî'nin Kanuni Mersiyesi en ünlü örnektir. Methiye yaşayan birini, naat Hz. Muhammed'i över; fahriyede şair kendini över.",
+       "sayfa": 109
       }
      ]
     },
@@ -861,133 +696,104 @@
       {
        "id": "2.2-01",
        "tur": "secmeli",
-       "soru": "Okura estetik zevk vermeyi amaçlayan, müzikal unsurları öne çıkaran ve anlaşılmak için değil duyulmak ve hissedilmek için yazılan şiir anlayışı hangisidir?",
+       "soru": "Saf (öz) şiir anlayışıyla ilgili,",
+       "oncul": [
+        "Şiirde ahenk ve musiki ön plana çıkar; şiir anlaşılmaktan çok duyulmak ve hissedilmek için yazılır.",
+        "Şiir, toplumu bilinçlendirmek ve bir düşünceyi yaymak için kullanılan bir araç olarak görülür.",
+        "İmgelerin yeniliğine, sözcüklerin ses değerine ve biçim güzelliğine önem verilir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Toplumcu şiir",
-        "Didaktik şiir",
-        "Saf şiir",
-        "Serbest şiir"
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
        ],
        "dogru": 2,
-       "bilgi": "Saf şiirde ahenge, imgelerin yeniliğine, kelimelerin ses ve uyum zenginliğine ve biçim güzelliğine önem verilir.",
+       "bilgi": "Saf şiirde şiir bir amaç için değil, kendi güzelliği için yazılır; ahenk, imge ve biçim ön plandadır. Şiiri toplumu bilinçlendirme aracı sayan anlayış toplumcu ya da didaktik şiirdir.",
        "sayfa": 116
       },
       {
        "id": "2.2-02",
-       "tur": "dy",
-       "ifade": "Saf şiirde biçim güzelliği önemsenmez; asıl amaç düşünceyi açık ve anlaşılır biçimde iletmektir.",
-       "dogru": false,
-       "bilgi": "Saf şiirde biçim güzelliğine önem verilir ve şiir anlaşılmak için değil, duyulmak ve hissedilmek amacıyla yazılır.",
-       "sayfa": 116
+       "tur": "secmeli",
+       "soru": "İlk şiirlerinde şehir, yalnızlık, ölüm korkusu ve bireysel bunalımları işleyen şair, sonraki dönemde metafizik ve mistik bir yöne dönmüştür. Şiirlerini defalarca yeniden işleyerek son biçimlerini tek bir kitapta toplamış; ahenge, imgeye ve biçim kusursuzluğuna verdiği önemle saf şiirin güçlü temsilcilerinden olmuştur. Tohum, Bir Adam Yaratmak ve Reis Bey gibi oyunları da vardır.\nBu parçada sözü edilen sanatçı aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Ahmet Muhip Dıranas",
+        "Necip Fazıl Kısakürek",
+        "Cahit Sıtkı Tarancı",
+        "Ömer Bedrettin Uşaklı",
+        "Asaf Halet Çelebi"
+       ],
+       "dogru": 1,
+       "bilgi": "Necip Fazıl (1904-1983), Kaldırımlar Şairi diye anılır; şiirlerini Çile'de toplamış, metafizik ve mistik ögelere yer vermiştir. Tohum, Bir Adam Yaratmak ve Reis Bey onun oyunlarıdır.",
+       "sayfa": 114
       },
       {
        "id": "2.2-03",
        "tur": "secmeli",
-       "soru": "\"Çile\"nin şairi olarak anılmak isteyen ve \"Kaldırımlar Şairi\" olarak da bilinen şair kimdir?",
+       "soru": "Aşağıdaki şiir anlayışı – şair eşleştirmelerinden hangisi yanlıştır?",
        "secenekler": [
-        "Necip Fazıl Kısakürek",
-        "Ahmet Hamdi Tanpınar",
-        "Arif Nihat Asya",
-        "Ahmet Muhip Dıranas"
+        "Şiir dili musikiye yakındır; anlaşılmak için değil, duyulmak için vardır. – Ahmet Haşim",
+        "Şiir bir yaşantıdır; kesin bir açıklama ya da bildiri değildir. – Behçet Necatigil",
+        "Şiir, insanda estetik ilgi (bedii alaka) uyandıran bir sanattır. – Ahmet Hamdi Tanpınar",
+        "Şiir; ölçüden, kafiyeden ve söz sanatlarından arındırılmalıdır. – Necip Fazıl Kısakürek",
+        "Şiirde aruzun musikisi korunmalı, konuşulan Türkçe esas alınmalıdır. – Yahya Kemal Beyatlı"
        ],
-       "dogru": 0,
-       "bilgi": "Necip Fazıl Kısakürek (1904-1983), saf şiiri tercih etmesiyle çağdaşlarından ayrılır.",
-       "sayfa": 114
-      },
-      {
-       "id": "2.2-04",
-       "tur": "bosluk",
-       "cumle": "Kendine özgü bir şiir dili oluşturan Necip Fazıl Kısakürek, şiirlerinde ___ ve mistik ögelere yer vermiştir.",
-       "cevap": "metafizik",
-       "celdiriciler": [
-        "toplumcu",
-        "mizahi",
-        "didaktik"
-       ],
-       "bilgi": "Necip Fazıl şiirlerinde metafizik ve mistik ögelere yer vermiş, şiirleri ve tiyatrolarıyla tanınmıştır.",
-       "sayfa": 114
-      },
-      {
-       "id": "2.2-05",
-       "tur": "dy",
-       "ifade": "Tohum, Bir Adam Yaratmak, Reis Bey ve Çöle İnen Nur, Necip Fazıl Kısakürek'in eserlerindendir.",
-       "dogru": true,
-       "bilgi": "Necip Fazıl'ın eserlerinden bazıları: Çile, Tohum, Bir Adam Yaratmak, Reis Bey, Künye, Çöle İnen Nur.",
-       "sayfa": 114
-      },
-      {
-       "id": "2.2-06",
-       "tur": "eslestir",
-       "yonerge": "Şiir hakkındaki görüşleri sahipleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Şiir, bizde bedii alaka denen büyüyü kuran bir sanattır.",
-         "Ahmet Hamdi Tanpınar"
-        ],
-        [
-         "Şiir bir yaşantıdır; kesin bir açıklama, bir bildiri değildir.",
-         "Behçet Necatigil"
-        ],
-        [
-         "Şairin lisanı anlaşılmak için değil, duyulmak için vardır.",
-         "Ahmet Haşim"
-        ],
-        [
-         "Şiir, hissin birdenbire lisan oluşudur.",
-         "Yahya Kemal Beyatlı"
-        ]
-       ],
-       "bilgi": "Ahmet Haşim'e göre şiir dili sözden çok musikiye yakın, iki sanat arasında aracı bir dildir.",
+       "dogru": 3,
+       "bilgi": "Ölçüyü, kafiyeyi ve söz sanatlarını şiirden atmayı savunanlar Garip şairleridir (Orhan Veli, Oktay Rifat, Melih Cevdet). Necip Fazıl ise ölçüye, ahenge ve biçim kusursuzluğuna bağlı kalmıştır.",
        "sayfa": 112
       },
       {
-       "id": "2.2-07",
+       "id": "2.2-04",
        "tur": "secmeli",
-       "soru": "\"Ne içindeyim zamanın, / Ne de büsbütün dışında\" dizeleriyle başlayan şiir hangi şaire aittir?",
+       "soru": "'Ne içindeyim zamanın' dizesiyle başlayan şiirin şairi Ahmet Hamdi Tanpınar ile ilgili,",
+       "oncul": [
+        "Şiirlerinde rüya, zaman ve bilinçaltı temalarını musikili bir dille işlemiştir.",
+        "Çile adlı şiir kitabında metafizik endişeyi dile getirmiştir.",
+        "Beş Şehir adlı eserinde şehirleri tarih ve kültür birikimleriyle anlatmıştır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Yahya Kemal Beyatlı",
-        "Ahmet Haşim",
-        "Behçet Necatigil",
-        "Ahmet Hamdi Tanpınar"
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
        ],
        "dogru": 3,
-       "bilgi": "Ne İçindeyim Zamanın, Ahmet Hamdi Tanpınar'ın şiiridir.",
+       "bilgi": "Tanpınar (1901-1962), rüya ve zaman temalarını musikili bir dille işleyen saf şiir temsilcisidir; Beş Şehir denemesi, Huzur ve Saatleri Ayarlama Enstitüsü romanları vardır. Çile, Necip Fazıl'ın şiir kitabıdır.",
        "sayfa": 113
       },
       {
-       "id": "2.2-08",
-       "tur": "bosluk",
-       "cumle": "Bir eserin sesli okuma kurallarına uyularak ve tiyatro tekniklerinden faydalanılarak okunmasına ___ denir.",
-       "cevap": "okuma tiyatrosu",
-       "celdiriciler": [
-        "radyo tiyatrosu",
-        "şiir dinletisi",
-        "doğaçlama"
-       ],
-       "bilgi": "Okuma tiyatrosu, metnin sesli okuma kuralları ve tiyatro teknikleriyle okunmasıdır.",
-       "sayfa": 113
-      },
-      {
-       "id": "2.2-09",
-       "tur": "dy",
-       "ifade": "\"Kalk yiğitim, yine dağbaşını duman aldı\" dizesinin geçtiği Kalk Yiğitim! şiiri Necip Fazıl Kısakürek'in Çile adlı kitabındadır.",
-       "dogru": false,
-       "bilgi": "Kalk Yiğitim! şiiri Arif Nihat Asya'nın Bir Bayrak Rüzgâr Bekliyor adlı kitabında yer alır.",
-       "sayfa": 113
-      },
-      {
-       "id": "2.2-10",
+       "id": "2.2-05",
        "tur": "secmeli",
-       "soru": "\"yunus emre'den bu yana mehmed sıradağlarıyım\" dizesinin yer aldığı mehmed sıradağları şiiri hangi şaire aittir?",
+       "soru": "Bayrak şiiriyle geniş kitlelere ulaşan şair, şiirlerinde vatanı, bayrağı ve millî değerleri coşkulu bir dille işlemiştir. Divan şiirinin nazım biçimlerinden rubaiyi çağdaş bir duyarlılıkla yeniden canlandırmış; 'Kalk yiğitim' diye başlayan şiirini Bir Bayrak Rüzgâr Bekliyor adlı kitabında yayımlamıştır.\nBu parçada sözü edilen şair aşağıdakilerden hangisidir?",
        "secenekler": [
-        "Nâzım Hikmet",
-        "Attilâ İlhan",
         "Arif Nihat Asya",
-        "Behçet Necatigil"
+        "Faruk Nafiz Çamlıbel",
+        "Kemalettin Kamu",
+        "Mehmet Âkif Ersoy",
+        "Behçet Kemal Çağlar"
        ],
-       "dogru": 1,
-       "bilgi": "mehmed sıradağları şiiri Attilâ İlhan'a aittir.",
-       "sayfa": 121
+       "dogru": 0,
+       "bilgi": "Arif Nihat Asya (1904-1975), 'Bayrak Şairi' diye anılır; rubai türünde de başarılı örnekler vermiştir. Kalk Yiğitim! şiiri Bir Bayrak Rüzgâr Bekliyor adlı kitabında yer alır.",
+       "sayfa": 113
+      },
+      {
+       "id": "2.2-06",
+       "tur": "secmeli",
+       "soru": "Cumhuriyet Dönemi'nde şiiri bir amaca araç kılmayan; ahengi, imgeyi ve bireysel duyarlılığı öne çıkaran saf (öz) şiir anlayışı birçok şairce benimsenmiştir.\nAşağıdaki şairlerden hangisi bu anlayışın temsilcilerinden biri değildir?",
+       "secenekler": [
+        "Ahmet Muhip Dıranas",
+        "Ahmet Hamdi Tanpınar",
+        "Nâzım Hikmet",
+        "Cahit Sıtkı Tarancı",
+        "Ziya Osman Saba"
+       ],
+       "dogru": 2,
+       "bilgi": "Nâzım Hikmet, şiiri toplumsal mücadelenin aracı sayan toplumcu gerçekçi şiirin öncüsüdür ve serbest nazmı kullanmıştır. Dıranas, Tanpınar, Cahit Sıtkı ve Ziya Osman Saba saf şiir anlayışına bağlıdır.",
+       "sayfa": 116
       }
      ]
     },
@@ -998,63 +804,73 @@
       {
        "id": "2.3-01",
        "tur": "secmeli",
-       "soru": "Nurullah Ataç'ın \"Nesir güçtür şiirden, diye çok kimselerden işitmiş...\" diye başlayan paragrafı hangi anlatım biçimiyle oluşturulmuştur?",
+       "soru": "I. Gelibolu Yarımadası'nda kış aylarında kuzeydoğudan esen soğuk ve kuru rüzgârlar, hava sıcaklığının gece saatlerinde sıfırın altına düşmesine yol açar. Bu dönemde balıkçılar, fırtına uyarıları nedeniyle çoğu zaman denize açılamaz.\nII. Ayaz, yarımadaya gece yarısı bir hırsız gibi sızdı. Kıyıdaki kayıkların iplerini sabaha kadar kemirdi, pencerelerin aralığından içeri girip ocaklardaki közü bile üşüttü. Sabah olduğunda koy, beyaz ve derin bir sessizliğe gömülmüştü.\nBu metinlerle ilgili aşağıdakilerden hangisi söylenemez?",
        "secenekler": [
-        "Öyküleyici anlatım",
-        "Betimleyici anlatım",
-        "Açıklayıcı anlatım",
-        "Tartışmacı anlatım"
+        "I. metinde bilgi vermek amaçlanmıştır.",
+        "II. metinde benzetme ve kişileştirmeden yararlanılmıştır.",
+        "II. metinde dil, sanat işlevinde kullanılmıştır.",
+        "I. metinde öznel yargılara ve imgelere başvurulmuştur.",
+        "İki metin benzer bir konuyu farklı amaçlarla ele almıştır."
        ],
        "dogru": 3,
-       "bilgi": "Nurullah Ataç'ın Karalama Defteri'nden alınan bu paragraf tartışmacı anlatımla oluşturulmuştur.",
+       "bilgi": "I. metin nesnel bilgiler veren öğretici bir metindir; öznel yargı ya da imge içermez. II. metinde ayaz hırsıza benzetilmiş, ona insana özgü davranışlar yüklenmiş; dil sanat işlevinde kullanılmıştır.",
        "sayfa": 125
       },
       {
        "id": "2.3-02",
-       "tur": "bosluk",
-       "cumle": "Buket Uzuner'in Uzun Beyaz Bulut Gelibolu adlı eserinden alınan ve Gelibolu'nun sert ayazını anlatan paragraf ___ anlatımla oluşturulmuştur.",
-       "cevap": "betimleyici",
-       "celdiriciler": [
-        "tartışmacı",
-        "öyküleyici",
-        "açıklayıcı"
+       "tur": "secmeli",
+       "soru": "Düzyazının şiirden kolay olduğunu söyleyenler yanılıyor. Şiirde ölçü, kafiye ve imge, düşüncedeki bir boşluğu örtebilir; düzyazıda ise yazarın sığınabileceği böyle bir perde yoktur. Kimileri 'Şiir yazmak için yetenek gerekir.' diyecektir. Doğru, ama iyi bir düzyazı da en az o kadar yetenek ve emek ister; üstelik okur, düzyazıdaki her eksikliği hemen fark eder.\nBu parçayla ilgili,",
+       "oncul": [
+        "Karşıt bir görüşe yer verilip bu görüş çürütülmeye çalışılmıştır.",
+        "Şiir ile düzyazı karşılaştırılmıştır.",
+        "Olaylar, zaman sırasına göre aktarılmıştır."
        ],
-       "bilgi": "Gelibolu'nun ayazını ve rüzgârını duyulara seslenerek anlatan paragraf betimleyici anlatıma örnektir.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Parça tartışmacı anlatımla yazılmıştır: 'Düzyazı kolaydır' görüşü ve olası bir itiraz dile getirilip çürütülmüş, şiir ile düzyazı karşılaştırılmıştır. Parçada olay ve zaman sırası yoktur.",
        "sayfa": 125
       },
       {
        "id": "2.3-03",
-       "tur": "bosluk",
-       "cumle": "Öğretici bir metin edebî metne dönüştürülürken iletiler, edebî metinlerin yapısına uygun olarak ___ biçimde verilmelidir.",
-       "cevap": "örtük",
-       "celdiriciler": [
-        "açık",
-        "nesnel",
-        "maddeler hâlinde"
+       "tur": "secmeli",
+       "soru": "Öğretici bir metni edebî metne dönüştüren bir öğrencinin metinde yaptığı değişiklikler şunlardır:",
+       "oncul": [
+        "İletileri açıkça söylemek yerine okura sezdirmek",
+        "Terimleri ve sayısal verileri artırarak anlatımı nesnelleştirmek",
+        "Cümleleri tek anlamlı ve kurallı hâle getirerek yoruma kapatmak"
        ],
-       "bilgi": "Edebî metinlerde iletiler örtük verilir; öğretici metinlerde ise açık iletiler ağırlıktadır.",
+       "kok": "Bu değişikliklerden hangileri edebî metnin özelliklerine uygundur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Edebî metinde iletiler örtük verilir ve metin çok anlamlılığa, yoruma açıktır; eksiltili cümleler de okuru etkin kılar. Terim ve sayısal verilerle kurulan nesnel, tek anlamlı anlatım ise öğretici metinlerin özelliğidir.",
        "sayfa": 126
       },
       {
        "id": "2.3-04",
        "tur": "secmeli",
-       "soru": "Öğretici bir metni edebî metne dönüştürürken eksiltili cümlelere yer vermenin amacı nedir?",
+       "soru": "Öğretici bir metni edebî metne dönüştüren bir öğrenci, cümlelerine söz sanatları katmıştır.\nAşağıdaki cümlelerin hangisinde ayraç içinde verilen söz sanatı yoktur?",
        "secenekler": [
-        "Metni kısaltarak daha nesnel ve bilimsel bir görünüme kavuşturmak",
-        "Okuyucuyu etkin kılıp iletiyi onun tamamlamasını sağlamak",
-        "Yazım ve noktalama hatalarını azaltmak",
-        "Cümleleri kurallı hâle getirmek"
+        "Rüzgâr, bütün gece kapalı pencerelere yalvardı. (kişileştirme)",
+        "Kar, beyaz bir yorgan gibi örttü bütün köyü. (benzetme)",
+        "Bütün mahalle o gece sabaha kadar uyumadı. (ad aktarması)",
+        "Dağlar bile bu acıya dayanamayıp eridi. (abartma)",
+        "Güneş, utancından bulutların ardına saklandı. (karşıtlık)"
        ],
-       "dogru": 1,
-       "bilgi": "Eksiltili cümleler hedef kitleyi daha aktif kılar ve iletinin okuyucu tarafından tamamlanmasını sağlar.",
-       "sayfa": 126
-      },
-      {
-       "id": "2.3-05",
-       "tur": "dy",
-       "ifade": "Öğretici bir metni edebî metne dönüştürürken söz sanatlarından kaçınılmalı, nesnel ve terim ağırlıklı bir dil kullanılmalıdır.",
-       "dogru": false,
-       "bilgi": "Edebî metne dönüştürmede içeriği zenginleştirmek ve metni estetik açıdan güçlendirmek için uygun söz sanatları kullanılır.",
+       "dogru": 4,
+       "bilgi": "Son cümlede güneşin bulutların ardında kalması utanmaya bağlanmış (hüsnütalil), güneşe insan özelliği verilmiştir; karşıtlık (tezat) yoktur. 'Mahalle' sözüyle mahallede oturanlar kastedilmiştir (ad aktarması).",
        "sayfa": 126
       }
      ]
@@ -1066,121 +882,82 @@
       {
        "id": "2.4-01",
        "tur": "secmeli",
-       "soru": "Üslup kaygısı taşımadan, okuyucuyla konuşuyormuş gibi samimi bir dille yazılan gazete veya dergi yazılarına ne ad verilir?",
+       "soru": "Bu sabah vapurda yanımda oturan yaşlı bir beyefendi, gazetesini katlayıp bana döndü: 'Şimdiki gençler mektup yazmıyor, değil mi?' Ne diyeceğimi bilemedim. Siz söyleyin, en son ne zaman birine mektup yazdınız? Hani şu zarfını özenle kapattığımız, pulunu tek tek seçtiğimiz mektuplardan… Ben hatırlamıyorum. Belki de bu akşam bir tane yazarım, kim bilir!\nBu parça aşağıdaki türlerin hangisinden alınmış olabilir?",
        "secenekler": [
+        "Deneme",
         "Söyleşi",
         "Makale",
-        "Eleştiri",
-        "Biyografi"
+        "Fıkra",
+        "Eleştiri"
        ],
-       "dogru": 0,
-       "bilgi": "Samimi bir dille, okuyucuyla konuşur gibi yazılan gazete ve dergi yazıları söyleşi (sohbet) türündendir.",
+       "dogru": 1,
+       "bilgi": "Yazarın okura doğrudan seslenip sorular yönelterek onunla karşılıklı konuşuyormuş gibi yazması söyleşinin özelliğidir. Denemede yazar daha çok kendi kendine konuşur gibidir; fıkrada ise güncel bir konu üzerine görüş bildirilir.",
        "sayfa": 131
       },
       {
        "id": "2.4-02",
-       "tur": "dy",
-       "ifade": "Bir sunucunun yönetiminde ya da sunucusuz olarak belirli bir konuda sohbet havasında geçen hazırlıksız konuşmalar da söyleşi türü içinde değerlendirilir.",
-       "dogru": true,
-       "bilgi": "Söyleşi yalnızca yazılı değildir; sohbet havasındaki hazırlıksız konuşmalar da söyleşi sayılır.",
+       "tur": "secmeli",
+       "soru": "Söyleşi (sohbet) türüyle ilgili,",
+       "oncul": [
+        "Yazar, okurla karşılıklı konuşuyormuş gibi samimi ve içten bir dil kullanır.",
+        "Görüşler bilimsel verilerle kanıtlanır ve kesin bir sonuca bağlanır.",
+        "Bir sunucunun yönetiminde ya da sunucusuz yapılan, sohbet havasındaki hazırlıksız konuşmalar da bu tür içinde değerlendirilir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Söyleşide yazar, okurla konuşur gibi samimi bir dille ve çoğu zaman gündelik konular üzerine yazar; görüşlerini kanıtlama zorunluluğu yoktur. Sohbet havasındaki hazırlıksız konuşmalar da söyleşi sayılır.",
        "sayfa": 131
       },
       {
        "id": "2.4-03",
-       "tur": "bosluk",
-       "cumle": "Edirne'de kışın en soğuk 90 günlük süresinde saraylarda ve büyük konaklarda helva eşliğinde yapılan toplantılara ___ denirdi.",
-       "cevap": "helva sohbetleri",
-       "celdiriciler": [
-        "sıra geceleri",
-        "kış meclisleri",
-        "yârenlik toplantıları"
+       "tur": "secmeli",
+       "soru": "İstanbul'un gündelik hayatını, semtlerini, eğlencelerini ve esnafını samimi ve canlı bir dille anlatan yazar, kendini 'kalem işçisi' olarak nitelemiştir. Okurla sohbet eder gibi yazdığı yazılarıyla söyleşi türünün Türk edebiyatındaki öncüleri arasında sayılır. Şehir Mektupları adlı eserinde mektup biçiminden yararlanmış, okul yıllarını ise Falaka adlı eserinde anlatmıştır.\nBu parçada sözü edilen yazar aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Ahmet Mithat Efendi",
+        "Ahmet Rasim",
+        "Şevket Rado",
+        "Hüseyin Rahmi Gürpınar",
+        "Refik Halit Karay"
        ],
-       "bilgi": "Helva sohbetleri önce toplumun ileri gelenleri arasında yapılmış, zamanla halk arasında da yayılarak gelenek hâline gelmiştir.",
-       "sayfa": 129
+       "dogru": 1,
+       "bilgi": "Ahmet Rasim (1864-1932), Şehir Mektupları ve Falaka gibi eserleriyle İstanbul'un gündelik hayatını sohbet havasında anlatmıştır. Cumhuriyet Dönemi'nde Şevket Rado da söyleşi türünde eser vermiştir.",
+       "sayfa": 130
       },
       {
        "id": "2.4-04",
-       "tur": "dy",
-       "ifade": "Helva sohbetleri yalnızca saray çevresinde kalmış, halk arasında hiç yayılmamıştır.",
-       "dogru": false,
-       "bilgi": "Helva sohbetleri orta hâlli halk arasında da yayılmış; halk arasındakiler samimi ve neşeli, konaklardakiler ise tören havasında geçmiştir.",
-       "sayfa": 129
+       "tur": "secmeli",
+       "soru": "Bazı beyitler ilk okunduğunda konuşurken hemen söylenivermiş kadar kolay görünür; oysa aynı yalınlıkta bir söz söylemeye kalkışan, bunun son derece güç olduğunu anlar. Divan şiirinde ustalığın göstergesi sayılan bu söyleyiş, 'Kayadan indim düze / At bağladım nergize' gibi türkü dizelerinde de karşımıza çıkar.\nBu parçada sözü edilen söyleyiş özelliği aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Sehl-i mümteni",
+        "Tecahül-i arif",
+        "Hüsn-i talil",
+        "Tevriye",
+        "Mazmun"
+       ],
+       "dogru": 0,
+       "bilgi": "Kolay söylenmiş gibi görünen ama benzerini söylemek çok güç olan söze sehl-i mümteni denir. Tevriye bir sözün iki anlamından uzak olanın kastedilmesi, hüsn-i talil bir olayı güzel bir nedene bağlamaktır.",
+       "sayfa": 140
       },
       {
        "id": "2.4-05",
        "tur": "secmeli",
-       "soru": "İstanbul'un gündelik hayatını mektup biçiminde anlatan Şehir Mektupları adlı eserin yazarı kimdir?",
+       "soru": "Divan edebiyatını donuk, kendini tekrar eden bir edebiyat sayanlar yanılır. Yaklaşık yedi yüzyıl yaşayan ve sayısız sanatçı yetiştiren bir edebiyat yerinde saymış olamaz. Bu şairler ortak mazmunları kullansalar da onları her seferinde yeni bir söyleyişle sunmanın, kendilerinden önce söylenmemiş bir söz bulmanın peşindeydiler.\nBu parçaya göre divan şairleriyle ilgili aşağıdakilerden hangisi söylenemez?",
        "secenekler": [
-        "Şevket Rado",
-        "Nurullah Ataç",
-        "Ahmet Rasim",
-        "Şevket Süreyya Aydemir"
+        "Uzun ömürlü bir geleneğin içinde yetiştikleri",
+        "Ortak bir hayal dünyasından yararlandıkları",
+        "Özgün bir söyleyiş peşinde oldukları",
+        "Ortak mazmunları kullanmaktan kaçındıkları",
+        "Kendilerinden önce söylenenleri aşmaya çalıştıkları"
        ],
-       "dogru": 2,
-       "bilgi": "Şehir Mektupları Ahmet Rasim'in eseridir; 18. Mektup'ta lisan bir \"mozaik\"e benzetilir.",
-       "sayfa": 130
-      },
-      {
-       "id": "2.4-06",
-       "tur": "bosluk",
-       "cumle": "Edebî adlı söyleşide aruz için \"Batı'da 'do, re, mi, fa' neyse bizde ___ odur\" denir.",
-       "cevap": "fâ'ilâtün",
-       "celdiriciler": [
-        "beyit",
-        "redif",
-        "matla"
-       ],
-       "bilgi": "Söyleşide aruz \"Doğu âleminin notası\", \"gizli orkestra\" ve \"sözün musikiye dönüştüğü nokta\" olarak nitelendirilir.",
-       "sayfa": 135
-      },
-      {
-       "id": "2.4-07",
-       "tur": "secmeli",
-       "soru": "Şair Haşmet'e \"Öyle bir şiir söylemek isterim ki ne benden önce yazılmış olsun ne de benden sonra söylenmek ihtimali bulunsun.\" diyen kimdir?",
-       "secenekler": [
-        "Nevşehirli İbrahim Paşa",
-        "Koca Ragıp Paşa",
-        "Ahmed Paşa",
-        "Sokullu Mehmed Paşa"
-       ],
-       "dogru": 1,
-       "bilgi": "Bu söz, kütüphanesinin müdürü şair Haşmet'e söyleyen Koca Ragıp Paşa'ya aittir ve divan şairlerinin özgünlük arayışını yansıtır.",
-       "sayfa": 136
-      },
-      {
-       "id": "2.4-08",
-       "tur": "secmeli",
-       "soru": "Cemal Kurnaz'ın, konuşurken hemen söylenivermiş gibi görünen \"Kayadan indim düze / At bağladım nergize\" türkü mısraları için kullandığı kavram hangisidir?",
-       "secenekler": [
-        "Mazmun",
-        "Tevriye",
-        "Sehl-i mümteni",
-        "Hüsn-i talil"
-       ],
-       "dogru": 2,
-       "bilgi": "Cemal Kurnaz, Türküden Şiire adlı eserinde bu mısraları bir sehl-i mümteni örneği olarak değerlendirir.",
-       "sayfa": 140
-      },
-      {
-       "id": "2.4-09",
-       "tur": "dy",
-       "ifade": "Cemal Kurnaz'a göre türküler, çağdaş şiire kaynaklık edemeyecek kadar basit ürünlerdir.",
-       "dogru": false,
-       "bilgi": "Cemal Kurnaz'a göre türküler, diğer halk edebiyatı ürünleriyle birlikte çağdaş şiirimizin kaynakları arasında yer almalıdır.",
-       "sayfa": 140
-      },
-      {
-       "id": "2.4-10",
-       "tur": "secmeli",
-       "soru": "Edebî adlı söyleşide, klasik edebiyatın donuk ve kendini tekrar eden bir edebiyat olmadığına kanıt olarak ne gösterilir?",
-       "secenekler": [
-        "Yaklaşık 700 yıl sürüp çok sayıda sanatkâr yetiştirmesi",
-        "Yalnızca saray çevresinde okunması",
-        "Şairlerin padişahtan ulufe almak için düzenli olarak şiir yazması",
-        "Bütün şiirlerin aynı ölçüyle yazılması"
-       ],
-       "dogru": 0,
-       "bilgi": "Söyleşiye göre klasik edebiyat yerinde sayan bir edebiyat olsaydı 700 yıl sürmez, bu kadar sanatkâr yetişmezdi.",
+       "dogru": 3,
+       "bilgi": "Parçaya göre divan şairleri ortak mazmunları kullanmış, ancak onları yeni bir söyleyişle sunarak özgünlüğe ulaşmaya çalışmıştır. Koca Ragıp Paşa'nın şair Haşmet'e kimsenin söylemediği bir şiir söylemek istediğini anlatması da bu arayışı yansıtır.",
        "sayfa": 142
       }
      ]
@@ -1192,77 +969,69 @@
       {
        "id": "2.5-01",
        "tur": "secmeli",
-       "soru": "Sesli blog olarak da adlandırılan, dinlenmek üzere oluşturulan ve çevrim içi ortamlardan dinlenip indirilebilen ses dosyası hangisidir?",
-       "secenekler": [
-        "Radyo tiyatrosu",
-        "Podcast",
-        "Sesli kitap",
-        "Okuma tiyatrosu"
+       "soru": "Fuad Köprülü'nün Türk Edebiyatında İlk Mutasavvıflar adlı eserinde hayatı ve şiirleri ele alınan Yunus Emre ile ilgili,",
+       "oncul": [
+        "Hüsn ü Aşk adlı mesnevisiyle divan şiirinin son büyük temsilcisi sayılır.",
+        "Tasavvufi düşüncelerini sade ve içten bir Türkçeyle dile getirmiştir.",
+        "Risaletü'n-Nushiyye adlı mesnevisini aruz ölçüsüyle yazmıştır."
        ],
-       "dogru": 1,
-       "bilgi": "Podcast (sesli blog), çevrim içi dinlenebilen veya istenildiğinde dinlemek için indirilebilen ses dosyasıdır.",
-       "sayfa": 146
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Yunus Emre, dinî-tasavvufi halk şiirinin en büyük şairidir; şiirlerinin çoğunu hece ölçüsüyle, bir kısmını ve Risaletü'n-Nushiyye mesnevisini aruzla yazmıştır. Hüsn ü Aşk, Şeyh Gâlib'in eseridir.",
+       "sayfa": 147
       },
       {
        "id": "2.5-02",
-       "tur": "bosluk",
-       "cumle": "Televizyonun yaygın olmadığı dönemlerde yalnızca sesli olarak oynanan radyo programı türüne ___ denir.",
-       "cevap": "radyo tiyatrosu",
-       "celdiriciler": [
-        "okuma tiyatrosu",
-        "podcast",
-        "meddah"
+       "tur": "secmeli",
+       "soru": "Televizyonun evlere henüz girmediği yıllarda radyo tiyatroları, dinleyiciyi yalnızca sesle kurulan bir dünyaya ortak ederdi; ama o dünyaya girmek için yayın saatini beklemek gerekirdi. Bugün sesli bloglar, yani podcastler aynı büyüyü başka bir biçimde sürdürüyor: Dinleyici yolda, mutfakta ya da gece yatmadan önce dilediği bölümü dilediği zaman açabiliyor, hatta indirip sonra dinleyebiliyor.\nBu parçaya göre podcasti radyo tiyatrosundan ayıran özellik aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Yalnızca ses aracılığıyla dinleyiciye ulaşması",
+        "Dinleyicinin yayın saatine bağlı olmaması",
+        "Hayal gücünü harekete geçiren bir anlatıma sahip olması",
+        "Televizyondan önce yaygınlaşmış olması",
+        "Bir oyuncu kadrosuyla seslendirilmesi"
        ],
-       "bilgi": "Radyo tiyatrosu sadece sesle oynanan bir radyo programı türüdür; podcast ise günümüzün sesli içerik biçimidir.",
+       "dogru": 1,
+       "bilgi": "Parçaya göre radyo tiyatrosu da podcast de yalnızca sesle dinleyiciye ulaşır; podcastin farkı, çevrim içi dinlenebilmesi ya da indirilerek istenen zaman dinlenebilmesidir.",
        "sayfa": 146
       },
       {
        "id": "2.5-03",
-       "tur": "dy",
-       "ifade": "Podcastler çevrim içi ortamlardan dinlenebilir veya istenildiği zaman dinlenmek üzere indirilebilir.",
-       "dogru": true,
-       "bilgi": "Sesli blog olarak da adlandırılan podcastler, istenildiği zaman dinlenebilen ses dosyalarıdır; bu yönüyle yayın saatine bağlı radyo programlarından ayrılır.",
-       "sayfa": 146
+       "tur": "secmeli",
+       "soru": "(I) Yunus Emre, XIII. yüzyılın sonu ile XIV. yüzyılın başında Anadolu'da yaşamıştır. (II) Hayatına dair bilgilerin çoğu, kuşaktan kuşağa aktarılan rivayetlere dayanır. (III) Mevlana ise eserlerinin çoğunu Farsça yazmıştır. (IV) Bu rivayetlere göre Tapduk Emre'nin dergâhında yetişmiş, dergâha kırk yıl boyunca odun taşımıştır. (V) Şiirlerinde ilahi aşkı, insan sevgisini ve ölümü sade bir Türkçeyle işlemiştir.\nYunus Emre'yi tanıtan bir podcast için hazırlanan bu metinde numaralanmış cümlelerden hangisi düşüncenin akışını bozmaktadır?",
+       "secenekler": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+       ],
+       "sirali": true,
+       "dogru": 2,
+       "bilgi": "Metin Yunus Emre'nin hayatını ve şiirini tanıtıyor; III. cümle Mevlana'nın eserlerinin diline geçerek konunun dışına çıkıyor. Podcast metninde tutarlılık için her cümle ana düşünceye bağlı olmalıdır.",
+       "sayfa": 147
       },
       {
        "id": "2.5-04",
        "tur": "secmeli",
-       "soru": "Yunus Emre'nin hayatına dair rivayetleri aktaran Fuad Köprülü'nün eseri hangisidir?",
+       "soru": "Tekke çevrelerinde gelişen dinî-tasavvufi halk şiirinin en büyük temsilcisi Yunus Emre'dir.\nAşağıdakilerden hangisi bu şiir geleneğinde kullanılan türlerden biri değildir?",
        "secenekler": [
-        "Edebî Metinleri Çözümleme Metodolojisi",
-        "Divan Dünyası",
-        "Masal Araştırmaları",
-        "Türk Edebiyatında İlk Mutasavvıflar"
+        "İlahi",
+        "Nefes",
+        "Nutuk",
+        "Devriye",
+        "Varsağı"
        ],
-       "dogru": 3,
-       "bilgi": "Fuad Köprülü, Türk Edebiyatında İlk Mutasavvıflar adlı eserinde Yunus Emre'nin hayatına dair rivayetlere yer verir.",
+       "dogru": 4,
+       "bilgi": "İlahi, nefes, nutuk, devriye ve şathiye dinî-tasavvufi halk şiirinin türleridir. Varsağı ise Güney Anadolu'da doğan, 'bre, hey' gibi ünlemlerle söylenen, âşık tarzı halk şiirine ait bir nazım biçimidir.",
        "sayfa": 147
-      },
-      {
-       "id": "2.5-05",
-       "tur": "bosluk",
-       "cumle": "Rivayete göre Yunus Emre, Hacı Bektaş Velî'nin yönlendirmesiyle ___ dergâhına bağlanmış ve orada kırk yıl odunculuk yapmıştır.",
-       "cevap": "Tapduk Emre",
-       "celdiriciler": [
-        "Hacı Bayram-ı Velî",
-        "Ahmed Yesevî",
-        "Mevlânâ"
-       ],
-       "bilgi": "Yunus Emre'nin Tapduk Emre dergâhına kırk yıl boyunca hiç eğri ve yaş odun getirmediği anlatılır.",
-       "sayfa": 147
-      },
-      {
-       "id": "2.5-06",
-       "tur": "bosluk",
-       "cumle": "Podcast konuşma metni oluşturulurken doğruluk, geçerlilik ve ___ ilkelerine dikkat edilmelidir.",
-       "cevap": "tutarlılık",
-       "celdiriciler": [
-        "öznellik",
-        "abartı",
-        "belirsizlik"
-       ],
-       "bilgi": "Podcastte konuşma metni doğruluk, geçerlilik ve tutarlılık ilkelerine uygun olmalı, ana düşünce destekleyici bilgilerle güçlendirilmelidir.",
-       "sayfa": 148
       }
      ]
     }
@@ -1279,154 +1048,124 @@
       {
        "id": "3.1-01",
        "tur": "secmeli",
-       "soru": "Tarihin bilinmeyen dönemlerinde yaşanan; savaş, doğal afet, göç, kahramanlık gibi milletleri derinden etkileyen olayları anlatan manzum eserler hangisidir?",
-       "secenekler": [
-        "Destan",
-        "Masal",
-        "Mesnevi",
-        "Fabl"
+       "soru": "Bir gün Ay Kağan'ın gözü parladı ve bir erkek çocuk doğurdu. Çocuğun yüzü gök renkliydi, ağzı ateş gibi kızıl, gözleri ela, saçları ve kaşları karaydı. Anasının göğsünden ilk sütü emdi, bir daha emmedi; çiğ et, aş ve şarap istedi. Kırk gün sonra büyüdü, yürüdü, oynadı.\nBu parçanın alındığı destanla ilgili,",
+       "oncul": [
+        "Hunlara ait İslamiyet öncesi Türk destanlarındandır.",
+        "Kahramanın doğuşu ve büyümesi olağanüstü özellikler taşır.",
+        "Şairi bilinen bir yapma destan örneğidir."
        ],
-       "dogru": 0,
-       "bilgi": "Destanlarda olağanüstü özelliklere sahip kahramanlar ve bu kahramanların etrafında gelişen olaylar ön plandadır.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Parça Oğuz Kağan Destanı'ndandır: Oğuz'un bir kez süt emip kırk günde büyümesi olağanüstülüktür. Destan Hunlara aittir ve anonimdir; yapma destanlar ise belli bir şair tarafından yazılır.",
        "sayfa": 160
       },
       {
        "id": "3.1-02",
-       "tur": "dy",
-       "ifade": "Doğal destanlarda yer ve zaman unsurları oldukça belirgindir.",
-       "dogru": false,
-       "bilgi": "Destanlarda yer ve zaman unsurları çok belirgin değildir; olağanüstü kahramanlar ve olaylar ön plandadır.",
-       "sayfa": 160
+       "tur": "secmeli",
+       "soru": "Doğal destan ve yapma destanla ilgili,",
+       "oncul": [
+        "Doğal destanların söyleyeni bellidir ve ilk biçimleriyle değişmeden aktarılır.",
+        "Yapma destanlarda yer, zaman ve kişi unsurları doğal destanlara göre daha belirgin ve gerçekçidir.",
+        "Yapma destanlar, bir milletin tarihindeki önemli olaylardan yola çıkan şairler tarafından yazılır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Doğal destanlar halk arasında oluşur, anonimdir ve sözlü gelenekte değişerek yaşar. Yapma destanlar ise tarihî olaylardan yola çıkan şairlerce yazılır; bu yüzden yer, zaman ve kişi unsurları daha belirgindir.",
+       "sayfa": 176
       },
       {
        "id": "3.1-03",
-       "tur": "bosluk",
-       "cumle": "Bir milletin tarihinde önemli görülen olayların şairler tarafından yazılmasıyla oluşan destanlara ___ destan denir.",
-       "cevap": "yapma",
-       "celdiriciler": [
-        "doğal",
-        "dinî",
-        "anonim"
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi yapma destan örneklerinden biri değildir?",
+       "secenekler": [
+        "Üç Şehitler Destanı",
+        "Kuvâyi Milliye Destanı",
+        "Şehname",
+        "Çanakkale Destanı",
+        "Ergenekon Destanı"
        ],
-       "bilgi": "Yapma destanlar şairler tarafından yazılır; doğal destanlar ise halk arasında oluşup sözlü gelenekle yaşar.",
+       "dogru": 4,
+       "bilgi": "Ergenekon, Göktürklere ait anonim (doğal) bir destandır. Üç Şehitler Destanı ve Çanakkale Destanı Fazıl Hüsnü Dağlarca'nın, Kuvâyi Milliye Destanı Nâzım Hikmet'in, Şehname ise İranlı şair Firdevsi'nin yazdığı yapma destanlardır.",
        "sayfa": 176
       },
       {
        "id": "3.1-04",
-       "tur": "dy",
-       "ifade": "Yapma destanlarda doğal destanlardan farklı olarak yer, zaman ve kişi unsurları daha belirgin ve gerçekçidir.",
-       "dogru": true,
-       "bilgi": "Yapma destanlar tarihî olayları konu aldığı için yer, zaman ve kişi unsurları doğal destanlara göre daha gerçekçidir.",
-       "sayfa": 176
+       "tur": "secmeli",
+       "soru": "Edebî eserlerdeki tiplerle ilgili,",
+       "oncul": [
+        "Belli bir düşüncenin, zihniyetin ya da toplumsal kesimin temsilciliğini üstlenen kişilerdir.",
+        "İslamiyet sonrası destanlarda görülen gazi tipi kahramanlar, alp tipinin özelliklerini hiç taşımaz.",
+        "Araba Sevdası'ndaki Bihruz Bey, Tanzimat romanında Batı'ya özenen gülünç tiplerin örneğidir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Tip, bir zihniyetin temsilcisi olan kişidir. İslamiyet öncesi destanların alp tipi, İslamiyet sonrası gazi tipine dönüşmüştür; gazi, alp özelliklerini İslam'ı koruma ülküsüyle birleştirir. Bihruz Bey ve Felatun Bey Tanzimat'ın Batı özentisi tipleridir.",
+       "sayfa": 157
       },
       {
        "id": "3.1-05",
        "tur": "secmeli",
-       "soru": "İnönü Savaşı'nı konu alan yapma destan Üç Şehitler Destanı hangi şaire aittir?",
+       "soru": "Oğuz Kağan Destanı'nda orduya yol gösteren gök tüylü, gök yeleli erkek kurt; Ergenekon Destanı'nda Türkleri demir dağların arasından çıkaran bozkurt ve Bozkurt Destanı'nda soyun devamını sağlayan dişi kurt, farklı anlatılarda tekrarlanarak sembolik bir anlam kazanmıştır.\nBu durum aşağıdaki kavramlardan hangisiyle açıklanabilir?",
        "secenekler": [
-        "Nâzım Hikmet",
-        "Arif Nihat Asya",
-        "Fazıl Hüsnü Dağlarca",
-        "Behçet Necatigil"
+        "Motif",
+        "Tip",
+        "Tema",
+        "Varyant",
+        "Mazmun"
        ],
-       "dogru": 2,
-       "bilgi": "Üç Şehitler Destanı, Fazıl Hüsnü Dağlarca'nın yapma destan örneğidir.",
-       "sayfa": 176
+       "dogru": 0,
+       "bilgi": "Farklı eserlerde tekrarlanan ve toplumun kültürel değerlerini yansıtan unsurlara motif denir; kurt, Türk destanlarının en yaygın motiflerindendir. Varyant aynı eserin farklı söylenişi, mazmun ise divan şiirinin ortak benzetmesidir.",
+       "sayfa": 168
       },
       {
        "id": "3.1-06",
        "tur": "secmeli",
-       "soru": "Destan, masal, roman, hikâye gibi anlatıma dayalı eserlerde belli bir düşüncenin, zihniyetin ve ideolojinin temsilciliğini yüklenen kişilere ne ad verilir?",
+       "soru": "Destanlarla ilgili aşağıdakilerden hangisi yanlıştır?",
        "secenekler": [
-        "Motif",
-        "Anlatıcı",
-        "Mahlas",
-        "Tip"
+        "Olağanüstü özelliklere sahip kahramanlar ön plandadır.",
+        "Savaş, göç, doğal afet gibi toplumu derinden etkileyen olayları anlatır.",
+        "Doğal destanlarda yer ve zaman unsurları çok belirgin değildir.",
+        "Toplumun ortak hafızasını yansıtarak millî duyguları besler.",
+        "Kahramanın iç dünyası ayrıntılı biçimde çözümlenir."
        ],
-       "dogru": 3,
-       "bilgi": "Türk toplumunun kültürel değişim ve dönüşümünü edebî eserlerdeki tipler aracılığıyla takip etmek mümkündür.",
-       "sayfa": 157
+       "dogru": 4,
+       "bilgi": "Destanlarda toplumu ilgilendiren olaylar ve olağanüstü kahramanlar ön plandadır; kahramanın iç dünyası çözümlenmez. Bireyin iç dünyasını ayrıntılı çözümlemek psikolojik roman ve hikâyenin özelliğidir.",
+       "sayfa": 160
       },
       {
        "id": "3.1-07",
-       "tur": "eslestir",
-       "yonerge": "Dönemleri, bu dönemlerin anlatılarında öne çıkan kahraman tipleriyle eşleştir.",
-       "ciftler": [
-        [
-         "İslamiyet öncesi destanlar",
-         "Alp tipi yiğit savaşçılar"
-        ],
-        [
-         "İslamiyet sonrası destan ve halk hikâyeleri",
-         "Gazi tipi kahramanlar"
-        ],
-        [
-         "Tanzimat hikâye ve romanları",
-         "Batı'ya özenen gülünç tipler"
-        ],
-        [
-         "Cumhuriyet roman ve hikâyeleri",
-         "Halkı aydınlatmaya çalışan tipler"
-        ]
-       ],
-       "bilgi": "Alp tipinden gazi tipine, Tanzimat'ın Batı özentisi tiplerinden Cumhuriyet'in aydın tiplerine geçiş toplumdaki dönüşümü yansıtır.",
-       "sayfa": 157
-      },
-      {
-       "id": "3.1-08",
-       "tur": "bosluk",
-       "cumle": "Farklı eserlerde yinelenen, toplumun kültürel değerlerini yansıtan ve sembolik anlam taşıyan tema, olay, kişi, eşya ya da söz kalıplarına ___ denir.",
-       "cevap": "motif",
-       "celdiriciler": [
-        "tip",
-        "tema",
-        "imge"
-       ],
-       "bilgi": "Motif, edebî eserde kendi başına konuya özellik kazandıran ve kültürel değerleri yansıtan ögedir.",
-       "sayfa": 168
-      },
-      {
-       "id": "3.1-09",
        "tur": "secmeli",
-       "soru": "Bir metnin açıklamalar yapılarak ya da soru-cevap şeklinde okunmasına ne ad verilir?",
+       "soru": "Türk dünyasının iki önemli yazarı Cengiz Dağcı ve Cengiz Aytmatov, eserlerinde kendi toplumlarının acılarını ve değerlerini anlatmıştır.\nAşağıdaki yazar – eser eşleştirmelerinden hangisi yanlıştır?",
        "secenekler": [
-        "Okuma tiyatrosu",
-        "Güdümlü okuma",
-        "Göz gezdirerek okuma",
-        "Sessiz okuma"
+        "Cengiz Dağcı – Onlar da İnsandı",
+        "Cengiz Aytmatov – Toprak Ana",
+        "Cengiz Dağcı – Korkunç Yıllar",
+        "Cengiz Aytmatov – Cemile",
+        "Cengiz Dağcı – Beyaz Gemi"
        ],
-       "dogru": 1,
-       "bilgi": "Güdümlü okumada metin açıklamalar yapılarak veya soru-cevap biçiminde okunur.",
-       "sayfa": 159
-      },
-      {
-       "id": "3.1-10",
-       "tur": "dy",
-       "ifade": "İslamiyet'in kabulünden önce ortaya çıkan Türk destanlarında Türklerin Türkistan'daki göçebe yaşam biçiminin izleri görülür.",
-       "dogru": true,
-       "bilgi": "İslamiyet öncesi destanlarda göçebe kültürün izleri görülür ve alp tipi kahramanlar yüceltilir.",
-       "sayfa": 157
-      },
-      {
-       "id": "3.1-11",
-       "tur": "dy",
-       "ifade": "Gazi tipi kahramanlar, alp tipinin özelliklerini hiç taşımayan ve yalnızca bilgeliğiyle öne çıkan devlet adamlarıdır.",
-       "dogru": false,
-       "bilgi": "Gazi tipi kahramanlar İslamiyet'i korumak için mücadele eden ve alp tipinin özelliklerini de taşıyan kişilerdir.",
-       "sayfa": 157
-      },
-      {
-       "id": "3.1-12",
-       "tur": "secmeli",
-       "soru": "Toprakları elinden alınmak istenen Bekir ve kızı Ayşe'nin hikâyesini anlatan Onlar da İnsandı adlı romanın yazarı kimdir?",
-       "secenekler": [
-        "Cengiz Aytmatov",
-        "Cengiz Dağcı",
-        "Kemal Tahir",
-        "Sabahattin Ali"
-       ],
-       "dogru": 1,
-       "bilgi": "Onlar da İnsandı, Cengiz Dağcı'nın romanıdır.",
+       "dogru": 4,
+       "bilgi": "Beyaz Gemi, Kırgız yazar Cengiz Aytmatov'un eseridir; Toprak Ana, Cemile ve Gün Olur Asra Bedel de onundur. Kırım Türkü Cengiz Dağcı ise Korkunç Yıllar, Yurdunu Kaybeden Adam ve Onlar da İnsandı'da Kırım Türklerinin acılarını anlatır.",
        "sayfa": 178
       }
      ]
@@ -1438,152 +1177,126 @@
       {
        "id": "3.2-01",
        "tur": "secmeli",
-       "soru": "Her beyti kendi arasında kafiyeli olan (aa, bb, cc...) ve beyit sayısı sınırsız olan divan şiiri nazım biçimi hangisidir?",
+       "soru": "Yükünün ağırlığından ve sırtındaki yaralardan bıkan bir eşek, çayırda otlayan boynuzlu öküzleri görünce kendisinin de boynuzu olmasını ister. Boynuz bulmak umuduyla yollara düşer, ekili bir tarlaya girer. Tarlanın sahibi onu yakalayıp kulaklarını keser; eşek, boynuz ararken kulaklarından da olur.\nBu hikâyeyi anlatan eser ve yazarı aşağıdakilerin hangisinde birlikte verilmiştir?",
        "secenekler": [
-        "Gazel",
-        "Mesnevi",
-        "Kaside",
-        "Murabba"
+        "Harnâme – Şeyhî",
+        "Hüsrev ü Şîrîn – Şeyhî",
+        "Mantıku't-Tayr – Gülşehrî",
+        "Hayriyye – Nâbî",
+        "Mesnevî – Mevlânâ"
        ],
-       "dogru": 1,
-       "bilgi": "Mesnevilerde genellikle aşk, kahramanlık, tasavvuf ve din gibi temalar işlenir.",
+       "dogru": 0,
+       "bilgi": "Harnâme, XV. yüzyıl şairi Şeyhî'nin hiciv türündeki mesnevisidir; boynuz ararken kulaklarından olan eşek aracılığıyla haddini bilmeyenler eleştirilir. Mantıku't-Tayr Gülşehrî'nin, Hayriyye Nâbî'nin mesnevisidir.",
        "sayfa": 188
       },
       {
        "id": "3.2-02",
-       "tur": "dy",
-       "ifade": "Mesnevilerin beyit sayısı gazellerde olduğu gibi 5-15 beyitle sınırlıdır.",
-       "dogru": false,
-       "bilgi": "Mesnevilerin beyit sayısı sınırsızdır; bu yüzden uzun hikâyelerin anlatımına elverişlidir.",
-       "sayfa": 188
+       "tur": "secmeli",
+       "soru": "Şeyhî'nin Harnâme adlı eseriyle ilgili,",
+       "oncul": [
+        "Mesnevi nazım biçimiyle yazılmıştır.",
+        "Türk edebiyatında hicvin en güzel örneklerinden sayılır.",
+        "Asıl hikâyenin anlatıldığı bölümde, dönemin gazel ve kasidelerine göre daha sade bir dil kullanılmıştır.",
+        "Hece ölçüsüyle ve dörtlükler hâlinde yazılmıştır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "I, II ve III",
+        "I, II ve IV",
+        "I, III ve IV",
+        "II, III ve IV",
+        "I, II, III ve IV"
+       ],
+       "dogru": 0,
+       "bilgi": "Harnâme aruzla yazılmış, hiciv türünün en güzel örneklerinden sayılan bir mesnevidir. Övgü bölümlerinde Arapça ve Farsça sözcükler çoktur; asıl hikâye bölümünde ise açık ve anlaşılır bir dil kullanılmıştır.",
+       "sayfa": 200
       },
       {
        "id": "3.2-03",
-       "tur": "eslestir",
-       "yonerge": "Mesnevileri şairleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Vesîletü'n-Necât (Mevlid)",
-         "Süleyman Çelebi"
-        ],
-        [
-         "Leylâ ve Mecnûn",
-         "Fuzûlî"
-        ],
-        [
-         "Yûsuf ve Zelîhâ",
-         "Şeyyâd Hamza"
-        ],
-        [
-         "İskender-nâme",
-         "Ahmedî"
-        ]
+       "tur": "secmeli",
+       "soru": "Mesnevi nazım biçimiyle ilgili,",
+       "oncul": [
+        "Her beyit kendi arasında kafiyelidir (aa, bb, cc…).",
+        "Beyit sayısı sınırlı olmadığından uzun hikâyeleri anlatmaya elverişlidir.",
+        "Nazım birimi dörtlük olan, hece ölçüsüyle söylenen bir halk şiiri biçimidir."
        ],
-       "bilgi": "Mesnevi biçimi; din, aşk ve kahramanlık gibi farklı konularda uzun eserler için kullanılmıştır.",
-       "sayfa": 185
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Mesnevi, her beyti kendi arasında kafiyeli, beyit sayısı sınırsız bir divan şiiri biçimidir; aşk, din, tasavvuf, ahlak ve kahramanlık konulu uzun hikâyeler bu biçimle yazılmıştır. Genellikle aruzun kısa kalıpları kullanılır.",
+       "sayfa": 188
       },
       {
        "id": "3.2-04",
        "tur": "secmeli",
-       "soru": "Kendisi olmaktan sıkılan bir eşeğin hikâyesini anlatan ve Türk edebiyatında hicvin en güzel örneklerinden sayılan Harnâme hangi şaire aittir?",
+       "soru": "Aşağıdaki mesnevi – şair eşleştirmelerinden hangisi yanlıştır?",
        "secenekler": [
-        "Ahmedî",
-        "Şeyyâd Hamza",
-        "Süleyman Çelebi",
-        "Şeyhî"
+        "Vesîletü'n-Necât – Süleyman Çelebi",
+        "Leylâ vü Mecnûn – Fuzûlî",
+        "Yûsuf u Zelîhâ – Şeyyâd Hamza",
+        "İskendernâme – Ahmedî",
+        "Hüsn ü Aşk – Şeyhî"
        ],
-       "dogru": 3,
-       "bilgi": "Harnâme, XV. yüzyıl şairi Şeyhî'nin mesnevisidir ve hiciv türünün en güzel örneklerinden biri kabul edilir.",
-       "sayfa": 188
+       "dogru": 4,
+       "bilgi": "Hüsn ü Aşk, XVIII. yüzyılda Şeyh Gâlib'in yazdığı alegorik mesnevidir. Şeyhî'nin mesnevileri Hüsrev ü Şîrîn ve Harnâme'dir; Süleyman Çelebi'nin Vesîletü'n-Necât'ı Mevlid adıyla bilinir.",
+       "sayfa": 185
       },
       {
        "id": "3.2-05",
-       "tur": "bosluk",
-       "cumle": "Asıl adı Yusuf Sinaneddin olan ve \"Hekim Sinan\" olarak şöhret bulan Şeyhî, ___'in hekimliğini yapmıştır.",
-       "cevap": "Çelebi Mehmet",
-       "celdiriciler": [
-        "II. Murad",
-        "Fatih Sultan Mehmed",
-        "Yıldırım Bayezid"
+       "tur": "secmeli",
+       "soru": "Bir rivayete göre II. Murad, Şeyhî'yi vezir yapmak istemiş; şair de Nizâmî'nin Hüsrev ü Şîrîn mesnevisini Türkçeye aktarmaya başlamıştır. Eserin bir bölümünü padişaha sunan Şeyhî, aldığı ihsanlarla memleketine dönerken yolda soyulmuş ve Harnâme'yi bu olay üzerine yazmıştır.\nBu rivayete göre,",
+       "oncul": [
+        "Harnâme'nin yazılmasında şairin yaşadığı bir olay etkili olmuştur.",
+        "Şeyhî'nin eserleri saray çevresinde ilgi görmüştür.",
+        "Harnâme, Hüsrev ü Şîrîn'den önce yazılmıştır."
        ],
-       "bilgi": "Şeyhî, Çelebi Mehmet'in hekimliğini yapmış, mesnevi alanında üstat kabul edilmiştir.",
-       "sayfa": 188
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Rivayette Harnâme'nin, şairin ihsanlarla dönerken soyulması üzerine yazıldığı anlatılır; padişahın ihsanı eserin sarayda ilgi gördüğünü gösterir. Harnâme, Hüsrev ü Şîrîn'e başlandıktan sonra yazılmıştır.",
+       "sayfa": 202
       },
       {
        "id": "3.2-06",
        "tur": "secmeli",
-       "soru": "Şeyhî'nin aşk temasını işleyen ve başarılı mesneviler arasında sayılan eseri hangisidir?",
+       "soru": "Masallar ve halk hikâyeleri halkın anlatı ihtiyacını karşılarken mesneviler de aynı ihtiyacı okur-yazar çevrelerde karşılamıştır. Bir olay örgüsü içinde kişileri, mekânı ve çatışmayı işleyen, okuru merakla sona kadar götüren mesneviler bu yüzden bazı araştırmacılarca ortaya çıktıkları dönemin romanı sayılmıştır.\nBu parçaya göre mesnevilerin romana benzetilmesinin nedeni aşağıdakilerden hangisidir?",
        "secenekler": [
-        "Leylâ ve Mecnûn",
-        "Hüsrev ü Şirin",
-        "Yûsuf ve Zelîhâ",
-        "İskender-nâme"
+        "Manzum biçimde yazılmaları",
+        "Olay örgüsüne dayalı anlatılar olmaları",
+        "Batı edebiyatının etkisiyle ortaya çıkmaları",
+        "Halkın konuşma diliyle yazılmaları",
+        "Yalnızca aşk konusunu işlemeleri"
        ],
        "dogru": 1,
-       "bilgi": "Şeyhî'nin eserleri: Divan, Hüsrev ü Şirin ve Harnâme.",
-       "sayfa": 188
-      },
-      {
-       "id": "3.2-07",
-       "tur": "bosluk",
-       "cumle": "Bir rivayete göre Şeyhî, II. Murad'ın onu vezir yapmak istemesi üzerine ___'nin Hüsrev ü Şîrîn mesnevisini Farsçadan Türkçeye çevirmeye başlamıştır.",
-       "cevap": "Nizâmî",
-       "celdiriciler": [
-        "Sadî",
-        "Fuzûlî",
-        "Ahmedî"
-       ],
-       "bilgi": "Rivayete göre Şeyhî, çevirdiği beyitler için aldığı ihsanlarla dönerken haramilerce soyulmuş ve Harnâme'yi bunun üzerine yazmıştır.",
-       "sayfa": 202
-      },
-      {
-       "id": "3.2-08",
-       "tur": "secmeli",
-       "soru": "İsmail Kekeç'in aktardığına göre bazı araştırmacılar mesneviler hakkında hangi görüşü ileri sürmüştür?",
-       "secenekler": [
-        "Destanların devamı olduklarını",
-        "Yalnızca saray çevresindeki okuyucular için yazıldıklarını",
-        "Ortaya çıktıkları dönemin romanı sayılabileceklerini",
-        "Halk hikâyelerinin tek kaynağı olduklarını"
-       ],
-       "dogru": 2,
-       "bilgi": "Mesneviler, masal ve halk hikâyeleri gibi dönemin anlatı ihtiyacını karşılamış; bazı araştırmacılarca dönemin romanı sayılmıştır.",
+       "bilgi": "Parçaya göre mesneviler olay örgüsü, kişi, mekân ve çatışma unsurlarıyla bir hikâye anlattığı için dönemin romanı sayılmıştır. Manzum olmaları ise romandan ayrıldıkları yöndür.",
        "sayfa": 184
       },
       {
-       "id": "3.2-09",
-       "tur": "bosluk",
-       "cumle": "Harnâme'nin övgü bölümlerinde Arapça ve Farsça kelimeler çoktur; asıl hikâyenin anlatıldığı bölümde ise daha ___ bir dil kullanılmıştır.",
-       "cevap": "açık ve anlaşılır",
-       "celdiriciler": [
-        "ağır ve sanatlı",
-        "kapalı ve mecazlı",
-        "eski ve yabancı"
-       ],
-       "bilgi": "Harnâme'nin asıl hikâye bölümünün dili, dönemin gazel ve kaside gibi türlerine göre sadedir.",
-       "sayfa": 200
-      },
-      {
-       "id": "3.2-10",
+       "id": "3.2-07",
        "tur": "secmeli",
-       "soru": "Kıtlık karşısında yoksulların acısını paylaşmayı anlatan Yokluk Acısı metni Şeyh Sadî-i Şirazî'nin hangi eserinden alınmıştır?",
+       "soru": "Türk edebiyatında mesnevi nazım biçimiyle pek çok eser yazılmıştır.\nAşağıdaki eserlerden hangisi mesnevi biçimiyle yazılmamıştır?",
        "secenekler": [
-        "Bostan",
-        "Mesnevî",
-        "Kelile ve Dimne",
-        "Penc-genc"
+        "Kutadgu Bilig",
+        "Garibnâme",
+        "Hayriyye",
+        "Leylâ vü Mecnûn",
+        "Seyahatname"
        ],
-       "dogru": 0,
-       "bilgi": "Yokluk Acısı, Şeyh Sadî-i Şirazî'nin Bostan adlı eserinden alınmıştır.",
-       "sayfa": 198
-      },
-      {
-       "id": "3.2-11",
-       "tur": "dy",
-       "ifade": "Sâmiha Ayverdi'ye göre meddah, dekorsuz ve yardımcısız olarak tam kadrolu bir tiyatro kumpanyasının işini tek başına başaran bir sanatkârdır.",
-       "dogru": true,
-       "bilgi": "Meddah; taklit, cinas, lâtife ve masal ustası olarak omzunda mendil, yanında bastonuyla halkın karşısında tek başına gösteri yapar.",
-       "sayfa": 189
+       "dogru": 4,
+       "bilgi": "Seyahatname, Evliya Çelebi'nin düzyazıyla yazdığı gezi kitabıdır. Kutadgu Bilig (Yusuf Has Hacib) mesnevi biçimiyle yazılmış ilk Türkçe eserdir; Garibnâme Âşık Paşa'nın, Hayriyye Nâbî'nin, Leylâ vü Mecnûn Fuzûlî'nin mesnevisidir.",
+       "sayfa": 188
       }
      ]
     },
@@ -1593,103 +1306,108 @@
      "kartlar": [
       {
        "id": "3.3-01",
-       "tur": "eslestir",
-       "yonerge": "İslamiyet'in kabulünden önceki Türk destanlarını ait oldukları topluluklarla eşleştir.",
-       "ciftler": [
+       "tur": "secmeli",
+       "soru": "Bir öğrenci, Türk destanlarıyla ilgili sunumu için aşağıdaki tabloyu hazırlamış ancak bir satırda yanlışlık yapmıştır.\nBu yanlışlık hangi destanla ilgili satırdadır?",
+       "tablo": [
         [
-         "Yaratılış Destanı",
-         "Altay-Yakut"
+         "Destan",
+         "Topluluk",
+         "Dönem"
         ],
         [
-         "Alp Er Tunga Destanı",
-         "Saka"
+         "Alp Er Tunga",
+         "Saka",
+         "İslamiyet öncesi"
         ],
         [
-         "Oğuz Kağan Destanı",
-         "Hun"
+         "Ergenekon",
+         "Göktürk",
+         "İslamiyet öncesi"
         ],
         [
-         "Ergenekon Destanı",
-         "Göktürk"
+         "Satuk Buğra Han",
+         "Karahanlı",
+         "İslamiyet sonrası"
         ],
         [
-         "Göç Destanı",
-         "Uygur"
+         "Manas",
+         "Kırgız",
+         "İslamiyet öncesi"
+        ],
+        [
+         "Göç",
+         "Uygur",
+         "İslamiyet öncesi"
         ]
        ],
-       "bilgi": "Saka: Alp Er Tunga, Şu; Hun: Oğuz Kağan, Attila; Göktürk: Bozkurt, Ergenekon; Uygur: Türeyiş, Göç destanları.",
+       "secenekler": [
+        "Alp Er Tunga",
+        "Ergenekon",
+        "Satuk Buğra Han",
+        "Manas",
+        "Göç"
+       ],
+       "dogru": 3,
+       "bilgi": "Manas, Kırgız Türklerinin İslamiyet'in kabulünden sonra oluşan destanıdır. Alp Er Tunga (Saka), Ergenekon (Göktürk) ve Göç (Uygur) İslamiyet öncesine; Satuk Buğra Han (Karahanlı) İslamiyet sonrasına aittir.",
        "sayfa": 205
       },
       {
        "id": "3.3-02",
        "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi İslamiyet'in kabulünden sonraki Türk destanlarındandır?",
+       "soru": "'Bir kere görmek, bin kere işitmekten iyidir.' sözü, sunum hazırlayanlar için de geçerlidir. Ergenekon'dan çıkışı anlatan bir konuşmacı, demir dağı eriten ateşi ve yol gösteren bozkurdu ne kadar ustalıkla betimlerse betimlesin, bir minyatür ya da harita dinleyicinin zihninde bu sahneyi çok daha kalıcı biçimde canlandırır. Ancak görsel, anlatılanı desteklemeli; konuşmacının yerini almamalıdır.\nBu parçada asıl anlatılmak istenen aşağıdakilerden hangisidir?",
        "secenekler": [
-        "Şu Destanı",
-        "Bozkurt Destanı",
-        "Satuk Buğra Han Destanı",
-        "Türeyiş Destanı"
+        "Görsellerin, anlatılanı destekleyerek kalıcılığı artırdığı",
+        "Destanların ancak görsellerle anlaşılabileceği",
+        "Konuşmacının betimleme yerine yalnızca görsel kullanması gerektiği",
+        "Minyatürlerin destanları anlatmada haritalardan daha etkili olduğu",
+        "Sunumun uzunluğunun görsel sayısına göre belirlenmesi gerektiği"
        ],
-       "dogru": 2,
-       "bilgi": "Satuk Buğra Han Destanı, İslamiyet'in kabulünden sonraki Karahanlı dönemine aittir.",
-       "sayfa": 205
-      },
-      {
-       "id": "3.3-03",
-       "tur": "bosluk",
-       "cumle": "Kazak-Kırgız Türklerine ait olan ve İslamiyet'in kabulünden sonraki dönemde yer alan destan ___ Destanı'dır.",
-       "cevap": "Manas",
-       "celdiriciler": [
-        "Attila",
-        "Şu",
-        "Ergenekon"
-       ],
-       "bilgi": "Manas Destanı, İslamiyet'in kabulünden sonraki başlıca Türk destanlarındandır ve Kazak-Kırgız Türklerine aittir.",
-       "sayfa": 205
-      },
-      {
-       "id": "3.3-04",
-       "tur": "dy",
-       "ifade": "Battal Gazi, Danişmend Gazi, Sarı Saltuk ve Köroğlu destanları Selçuklu, Beylikler ve Osmanlı dönemlerine aittir.",
-       "dogru": true,
-       "bilgi": "Battal Gazi, Danişmend Gazi, Sarı Saltuk ve Köroğlu destanları İslamiyet sonrası Anadolu sahasında oluşmuştur.",
-       "sayfa": 205
-      },
-      {
-       "id": "3.3-05",
-       "tur": "dy",
-       "ifade": "Bozkurt ve Ergenekon destanları Uygurlara aittir.",
-       "dogru": false,
-       "bilgi": "Bozkurt ve Ergenekon Göktürk destanlarıdır; Uygurlara ait destanlar Türeyiş ve Göç destanlarıdır.",
-       "sayfa": 205
-      },
-      {
-       "id": "3.3-06",
-       "tur": "secmeli",
-       "soru": "\"Bir kere görmek, bin kere işitmekten önemlidir.\" sözü, destanlarla ilgili bir sunum hazırlarken özellikle neyin önemini vurgular?",
-       "secenekler": [
-        "Konuşma süresini kısa tutmanın",
-        "Ezber yapmanın",
-        "Yazılı metinden okumanın",
-        "Sunuda görsel kullanmanın"
-       ],
-       "dogru": 3,
-       "bilgi": "Sunuda görsel kullanmak, içeriği zenginleştirip dinleyicinin konuyu daha iyi kavramasını sağlar.",
+       "dogru": 0,
+       "bilgi": "Parçaya göre görseller anlatılanı somutlaştırıp dinleyicinin zihninde daha kalıcı kılar; ancak konuşmacının yerini almamalı, onu desteklemelidir.",
        "sayfa": 204
       },
       {
-       "id": "3.3-07",
+       "id": "3.3-03",
        "tur": "secmeli",
-       "soru": "Türk destanlarıyla ilgili sunumda görüşler ifade edilirken hangi düşünceyi geliştirme yollarına başvurulması önerilir?",
+       "soru": "Destanlar, bir milletin tarihinin bilinmeyen dönemlerinde yaşadığı ve onu derinden etkileyen olayları anlatan uzun anlatılardır. Destanlar, bir milletin yüzyıllar boyunca biriktirdiği hafızanın aynası gibidir; o aynaya bakan her kuşak, kendi kökünü görür.\nTürk destanlarıyla ilgili bir sunumdan alınan bu parçada,",
+       "oncul": [
+        "Tanımlama",
+        "Benzetme",
+        "Sayısal verilerden yararlanma",
+        "Tanık gösterme"
+       ],
+       "kok": "düşünceyi geliştirme yollarından hangilerine başvurulmuştur?",
        "secenekler": [
-        "Tanımlama, açıklama, benzetme",
-        "Kişileştirme, abartma, tezat",
-        "Cinas, tevriye, tekrir",
-        "Özetleme, doğrudan alıntı, ezberleme"
+        "I ve II",
+        "I ve III",
+        "II ve IV",
+        "I, II ve IV",
+        "II, III ve IV"
        ],
        "dogru": 0,
-       "bilgi": "Sunum aşamasında tanımlama, açıklama ve benzetme gibi düşünceyi geliştirme yolları kullanılır.",
+       "bilgi": "İlk cümlede destanın ne olduğu açıklanmış (tanımlama), ikinci cümlede destanlar aynaya benzetilmiştir. Parçada sayısal veriye ya da bir başkasının sözüne (tanık gösterme) yer verilmemiştir.",
        "sayfa": 206
+      },
+      {
+       "id": "3.3-04",
+       "tur": "secmeli",
+       "soru": "Battal Gazi, Danişmend Gazi ve Sarı Saltuk destanlarıyla ilgili,",
+       "oncul": [
+        "Türklerin İslamiyet'i kabulünden sonraki dönemde oluşmuşlardır.",
+        "Kahramanları, İslam'ı korumak için mücadele eden gazi tipinin özelliklerini taşır.",
+        "Türklerin Orta Asya'daki göçebe yaşayışını ve Hun dönemini anlatırlar."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Battal Gazi, Danişmend Gazi, Sarı Saltuk ve Köroğlu destanları Selçuklu, Beylikler ve Osmanlı dönemlerinde oluşmuştur; kahramanları gazi tipindedir. Orta Asya'daki göçebe yaşayışın izleri İslamiyet öncesi destanlarda görülür.",
+       "sayfa": 205
       }
      ]
     },
@@ -1700,157 +1418,105 @@
       {
        "id": "3.4-01",
        "tur": "secmeli",
-       "soru": "Kahramanları çoğunlukla hayvanlardan seçilen, sonunda ders verme amacı güden, genellikle manzum hikâye türü hangisidir?",
+       "soru": "Kibirli bir horoz, her sabah kümesin damına çıkıp güneşin kendi ötüşüyle doğduğunu söyler, öteki hayvanlara tepeden bakarmış. Bir sabah uyuyakalmış; gözünü açtığında güneşin çoktan doğmuş olduğunu görmüş. Utancından damdan inmiş ve o günden sonra kimseye büyüklük taslamamış.\nBu metinle ilgili,",
+       "oncul": [
+        "Hayvanlara insana özgü davranışlar yüklenmiştir.",
+        "Kibrin insanı gülünç duruma düşüreceği dersi çıkarılabilir.",
+        "Dev, peri gibi olağanüstü varlıklara yer verilmiştir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Destan",
-        "Masal",
-        "Fabl",
-        "Mesnevi"
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
        ],
        "dogru": 2,
-       "bilgi": "Fabl, ders verme amacı taşıyan ve kahramanları çoğunlukla hayvanlar olan, genellikle manzum bir hikâyedir.",
+       "bilgi": "Metin bir fabldır: Horoza insan gibi düşünme ve davranma özelliği verilmiş, sonunda kibrin gülünç duruma düşüreceği dersi verilmiştir. Dev, peri gibi olağanüstü varlıklar masalın özelliğidir; metinde yer almaz.",
        "sayfa": 210
       },
       {
        "id": "3.4-02",
-       "tur": "bosluk",
-       "cumle": "Fabl türünün Türkçe karşılığı olarak ___ sözcüğü kullanılır.",
-       "cevap": "öykünce",
-       "celdiriciler": [
-        "ödkünç",
-        "koşuk",
-        "sav"
+       "tur": "secmeli",
+       "soru": "Aşağıdaki yazar – eser eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "Beydeba – Kelile ve Dimne",
+        "La Fontaine – Masallar",
+        "Mevlânâ – Mesnevî",
+        "Sadî-i Şirazî – Bostan",
+        "Şeyhî – Fîhi Mâfîh"
        ],
-       "bilgi": "Fabl için öykünce karşılığı kullanılır.",
-       "sayfa": 210
+       "dogru": 4,
+       "bilgi": "Fîhi Mâfîh, Mevlânâ'nın sohbetlerinin toplandığı eserdir. Kelile ve Dimne (Beydeba), Masallar (La Fontaine) ve Mesnevî (Mevlânâ) fabl örnekleri içerir; Bostan, Sadî-i Şirazî'nin öğüt veren hikâyelerle dolu eseridir.",
+       "sayfa": 214
       },
       {
        "id": "3.4-03",
-       "tur": "eslestir",
-       "yonerge": "Fabl planındaki bölümleri işlevleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Serim",
-         "Olay, kişileştirilen varlıklar ve çevre tanıtılır."
-        ],
-        [
-         "Düğüm",
-         "Olay anlatılıp merak uyandıran bir noktaya getirilir."
-        ],
-        [
-         "Çözüm",
-         "Olay şaşırtıcı bir sonla bitirilir."
-        ],
-        [
-         "Öğüt",
-         "Ana fikir verilir ya da bir öğüt paylaşılır."
-        ]
+       "tur": "secmeli",
+       "soru": "Aslan ve Av Hayvanları fablının da yer aldığı Mesnevî'nin şairi Mevlânâ Celaleddin Rumi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Eserlerinin çoğunu Farsça yazmıştır.",
+        "Şiire ve musikiye dayalı bir tasavvuf anlayışı geliştirmiştir.",
+        "Düşüncelerini hikâyeler ve fabllar aracılığıyla da anlatmıştır.",
+        "Vaazları Mecâlis-i Seb'a, sohbetleri Fîhi Mâfîh adlı eserlerde toplanmıştır.",
+        "Dîvân-ı Kebîr adlı eserini Türkçe yazmıştır."
        ],
-       "bilgi": "Fabl serim, düğüm, çözüm ve öğüt bölümlerinden oluşur.",
-       "sayfa": 217
+       "dogru": 4,
+       "bilgi": "Mevlânâ (1207-1273) eserlerini çoğunlukla Farsça yazmıştır; Dîvân-ı Kebîr de Farsçadır. Mesnevî, Dîvân-ı Kebîr, Fîhi Mâfîh, Mecâlis-i Seb'a ve Mektûbât onun eserleridir; UNESCO 2007'yi Mevlânâ ve Hoşgörü Yılı ilan etmiştir.",
+       "sayfa": 210
       },
       {
        "id": "3.4-04",
        "tur": "secmeli",
-       "soru": "Aslan ve Av Hayvanları fablının da sahibi olan Mevlana Celaleddin Rumi'nin eserleri hangi seçenekte birlikte verilmiştir?",
-       "secenekler": [
-        "Harnâme, Hüsrev ü Şirin, Divan",
-        "Mesnevî, Dîvân-ı Kebîr, Fîhi Mâfîh",
-        "Leylâ ve Mecnûn, Su Kasîdesi, Divan",
-        "Bostan, Kelile ve Dimne, Masallar"
+       "soru": "Bir fablın bölümlerinden alınan cümleler karışık olarak verilmiştir.",
+       "oncul": [
+        "Büyüklük taslayan, sonunda küçük düşer.",
+        "Ormanda kendini herkesten güçlü sanan bir ayı yaşarmış.",
+        "Bir gün arıların uyarılarına aldırmadan kovanlarına pençesini daldırmış.",
+        "Arılar onu öyle sokmuş ki ayı, kaçacak delik aramış."
        ],
-       "dogru": 1,
-       "bilgi": "Mevlana'nın eserlerinden bazıları: Mesnevî, Dîvân-ı Kebîr, Fîhi Mâfîh, Mecâlis-i Seb'a, Mektûbât.",
-       "sayfa": 210
+       "kok": "Bu cümlelerin fablın yapısına göre sıralaması aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "II - III - I - IV",
+        "II - IV - III - I",
+        "III - II - IV - I",
+        "II - III - IV - I",
+        "I - II - III - IV"
+       ],
+       "dogru": 3,
+       "bilgi": "Fabl serim (kişileştirilen varlığın ve çevrenin tanıtılması), düğüm, çözüm ve öğüt bölümlerinden oluşur: II - III - IV - I. Öğüt çoğunlukla fablın sonunda açık ya da örtük biçimde verilir.",
+       "sayfa": 217
       },
       {
        "id": "3.4-05",
-       "tur": "bosluk",
-       "cumle": "Mevlana'nın doğumunun 800. yıl dönümü nedeniyle UNESCO, ___ yılını \"Mevlana ve Hoşgörü Yılı\" ilan etmiştir.",
-       "cevap": "2007",
-       "celdiriciler": [
-        "1973",
-        "2000",
-        "2017"
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi masal için söylenemeyip yalnızca fabl için söylenebilir?",
+       "secenekler": [
+        "Sözlü gelenekte anonim olarak oluşup yayılabilmesi",
+        "Kahramanlarının çoğunlukla hayvanlar olması",
+        "Döşeme tekerlemesiyle başlaması",
+        "Zaman ve mekânın belirsiz olması",
+        "Kurmaca bir metin olması"
        ],
-       "bilgi": "Görüşleri çağları aşan Mevlana (1207-1273) için UNESCO 2007'yi Mevlana ve Hoşgörü Yılı ilan etmiştir.",
+       "dogru": 1,
+       "bilgi": "Fablın kahramanları çoğunlukla insan tiplerini temsil eden hayvanlardır ve sonunda bir ders verilir; masal kahramanları ise çoğunlukla insanlar ve olağanüstü varlıklardır. Döşeme tekerlemesi masala özgüdür; anonimlik, kurmacalık ve belirsiz zaman-mekân masalda da görülür.",
        "sayfa": 210
       },
       {
        "id": "3.4-06",
-       "tur": "bosluk",
-       "cumle": "Mevlana Celaleddin Rumi, birçok dile çevrilen eserlerini çoğunlukla ___ yazmıştır.",
-       "cevap": "Farsça",
-       "celdiriciler": [
-        "Türkçe",
-        "Arapça",
-        "Çağatayca"
-       ],
-       "bilgi": "Mevlana eserlerini çoğunlukla Farsça yazmış; eserlerinde bilginin ve bilgi sahibi olmanın önemine değinmiştir.",
-       "sayfa": 210
-      },
-      {
-       "id": "3.4-07",
-       "tur": "bosluk",
-       "cumle": "Mevlana'nın vaazlarının toplandığı ve şekil ile ruh bakımından Mesnevî'yi hazırladığı belirtilen eseri ___ adını taşır.",
-       "cevap": "Mecâlis-i Seb'a",
-       "celdiriciler": [
-        "Fîhi Mâfîh",
-        "Mektûbât",
-        "Dîvân-ı Kebîr"
-       ],
-       "bilgi": "Neclâ Pekolcay'a göre Mevlana'nın vaazlarını içeren Mecâlis-i Seb'a, Mesnevî'nin habercisidir.",
-       "sayfa": 221
-      },
-      {
-       "id": "3.4-08",
        "tur": "secmeli",
-       "soru": "Horozla İnci, Horozla Tilki ve Tencereyle Çömlek fablları hangi yazara aittir?",
+       "soru": "Aşağıdaki cümlelerin hangisinde hem kişileştirme (teşhis) hem de konuşturma (intak) sanatı vardır?",
        "secenekler": [
-        "Beydeba",
-        "La Fontaine",
-        "Mevlana",
-        "Eflâtun Cem Güney"
-       ],
-       "dogru": 1,
-       "bilgi": "Horozla İnci, Horozla Tilki ve Tencereyle Çömlek, La Fontaine'in Masallar adlı eserindeki fabllardandır.",
-       "sayfa": 214
-      },
-      {
-       "id": "3.4-09",
-       "tur": "secmeli",
-       "soru": "Beydeba'nın Şaşkın Tilki fablının yer aldığı eser hangisidir?",
-       "secenekler": [
-        "Mesnevî",
-        "Leylâ ve Mecnûn",
-        "Masallar",
-        "Kelile ve Dimne"
-       ],
-       "dogru": 3,
-       "bilgi": "Şaşkın Tilki fablı, Beydeba'nın Kelile ve Dimne adlı eserinden alınmıştır.",
-       "sayfa": 214
-      },
-      {
-       "id": "3.4-10",
-       "tur": "dy",
-       "ifade": "Mevlana'nın düşüncelerinin temel kaynağı Kur'an-ı Kerim, hadisler ve sünnettir; o, aklın yanında aşkın da önemli olduğunu savunur.",
-       "dogru": true,
-       "bilgi": "Mevlana, şiire ve musikiye dayalı yeni bir tasavvuf anlayışı ortaya koymuş ve bütüncül bir bakış açısı geliştirmiştir.",
-       "sayfa": 210
-      },
-      {
-       "id": "3.4-11",
-       "tur": "secmeli",
-       "soru": "Köye ilk traktörün gelişinin anlatıldığı Toprak Ana adlı eserin yazarı kimdir?",
-       "secenekler": [
-        "Cengiz Aytmatov",
-        "Cengiz Dağcı",
-        "Kemal Tahir",
-        "Haldun Taner"
+        "Karınca, ağustosböceğine 'Yazın ne yaptın?' diye sordu.",
+        "Rüzgâr, bütün gece pencereleri öfkeyle dövdü.",
+        "Ağaçlar ilkbaharda yeşil gelinliklerini giydi.",
+        "Ay, bulutların arkasından mahalleye utangaç utangaç baktı.",
+        "Gölün suyu bir ayna kadar durgun ve parlaktı."
        ],
        "dogru": 0,
-       "bilgi": "Toprak Ana, Cengiz Aytmatov'un eseridir.",
-       "sayfa": 216
+       "bilgi": "Karıncaya insan gibi soru sorma özelliği verilmiş (teşhis) ve konuşturulmuştur (intak). Rüzgâr, ağaçlar ve ay cümlelerinde yalnızca kişileştirme vardır, konuşma yoktur; son cümlede ise benzetme vardır.",
+       "sayfa": 210
       }
      ]
     },
@@ -1860,61 +1526,69 @@
      "kartlar": [
       {
        "id": "3.5-01",
-       "tur": "dy",
-       "ifade": "Fabl yazarken verilmek istenen mesaj, öğüt bölümünde açık veya örtük biçimde dile getirilir.",
-       "dogru": true,
-       "bilgi": "Fablın öğüt bölümünde mesaj açık ya da örtük ileti olarak verilir ve olumlu tutum ve değerler öne çıkarılır.",
-       "sayfa": 227
+       "tur": "secmeli",
+       "soru": "Bir kurbağa, çayırda otlayan iri bir öküzü görünce onun kadar büyük olmak istemiş. Kardeşlerine 'Bakın, onun kadar oldum mu?' diye sorarak şişindikçe şişinmiş. Kardeşleri 'Daha değil!' dedikçe biraz daha şişinmiş; sonunda patlayıvermiş.\nBu fablın öğüt bölümünde aşağıdaki atasözlerinden hangisinin kullanılması en uygun olur?",
+       "secenekler": [
+        "Ayağını yorganına göre uzat.",
+        "Damlaya damlaya göl olur.",
+        "Sakla samanı, gelir zamanı.",
+        "Bin işit, bir söyle.",
+        "Üzüm üzüme baka baka kararır."
+       ],
+       "dogru": 0,
+       "bilgi": "Kurbağa gücünün üstünde bir şey isteyerek kendi sonunu hazırlar; bu, 'Ayağını yorganına göre uzat.' atasözüyle örtüşür. Fabl yazarken atasözü ve deyimler, öğüdü pekiştirmek için kurguya uygun biçimde kullanılabilir.",
+       "sayfa": 226
       },
       {
        "id": "3.5-02",
        "tur": "secmeli",
-       "soru": "La Fontaine'in Horozla Tilki ve Tencereyle Çömlek fabllarını Türkçeye çeviren kimdir?",
+       "soru": "Hasan Âli Yücel'in bakanlığı döneminde kurulan Tercüme Bürosu'nda çalışan yazar, Batı klasiklerini dilimize kazandıran çevirmenlerimizin başında gelir; La Fontaine'in fabllarını Türkçeye çevirenlerden biri de odur. Mavi ve Kara adlı kitabında Anadolu kültürüne ve insan sevgisine dayanan denemelerini toplamıştır. Ressam ve şair Bedri Rahmi'nin kardeşidir.\nBu parçada sözü edilen sanatçı aşağıdakilerden hangisidir?",
        "secenekler": [
         "Nurullah Ataç",
-        "Bedri Rahmi Eyüboğlu",
         "Sabahattin Eyüboğlu",
-        "Haldun Taner"
+        "Suut Kemal Yetkin",
+        "Haldun Taner",
+        "Cevat Şakir Kabaağaçlı"
        ],
-       "dogru": 2,
-       "bilgi": "La Fontaine'in Masallar'ındaki fablları Sabahattin Eyüboğlu Türkçeye çevirmiştir.",
+       "dogru": 1,
+       "bilgi": "Sabahattin Eyüboğlu (1908-1973), çevirmen ve deneme yazarıdır; La Fontaine'in Masallar'ındaki fablları Türkçeye çevirmiş, Mavi ve Kara'da denemelerini toplamıştır. Kardeşi Bedri Rahmi Eyüboğlu ressam ve şairdir.",
        "sayfa": 226
       },
       {
        "id": "3.5-03",
-       "tur": "dy",
-       "ifade": "Fabl yazarken atasözü ve deyim gibi söz varlığı unsurları kurguya uygun şekilde kullanılabilir.",
-       "dogru": true,
-       "bilgi": "Fablda atasözü, deyim gibi söz varlığı unsurları kurguya uygun şekilde kullanılmalıdır.",
-       "sayfa": 226
+       "tur": "secmeli",
+       "soru": "Köyünüzden, şehrinizden bir ayrılın; başka sokaklarda yürüyün, başka sofralarda oturun. Göreceksiniz ki doğru bildiğiniz pek çok şey yalnızca alışkanlıkmış. Yolculuk insanın ön yargılarını törpüler; ona kendi hayatına dışarıdan bakmayı, farklı olanı anlamayı öğretir. Evine dönen yolcu, artık yola çıkan kişi değildir.\nBu parçada asıl anlatılmak istenen aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Yolculuğun insanın bakış açısını genişlettiği",
+        "İnsanın en mutlu olduğu yerin kendi evi olduğu",
+        "Yolculuğa çıkmadan önce iyi bir plan yapılması gerektiği",
+        "Farklı kültürlerin zamanla birbirine benzediği",
+        "Alışkanlıkların insan hayatını kolaylaştırdığı"
+       ],
+       "dogru": 0,
+       "bilgi": "Parçaya göre yolculuk ön yargıları törpüleyip farklı olanı anlamayı öğretir, yani insanın bakış açısını genişletir. Yolculuğun erdemleri üzerine yazılar Haldun Taner'in Düşsem Yollara Yollara adlı kitabında da yer alır.",
+       "sayfa": 224
       },
       {
        "id": "3.5-04",
        "tur": "secmeli",
-       "soru": "Fabl yazma sürecinde karşılaşılabilecek engeller hangi türlere ayrılmıştır?",
-       "secenekler": [
-        "Tarihî, coğrafi, siyasi",
-        "Fiziksel, duygusal, bilişsel",
-        "Ekonomik, sosyal, kültürel",
-        "Dilsel, biçimsel, anlamsal"
+       "soru": "Fabl yazmaya hazırlanan bir öğrenci şu kararları almıştır:",
+       "oncul": [
+        "Kişileştirdiği hayvanlara, temsil ettikleri insan tiplerine uygun özellikler vermek",
+        "Öğüdü fablın sonunda açık ya da örtük biçimde dile getirmek",
+        "Olayı uzun bir zaman dilimine yayıp çok sayıda yan olay ve kişiyle zenginleştirmek"
        ],
-       "dogru": 1,
-       "bilgi": "Yazma sürecinde fiziksel, duygusal ve bilişsel engeller öngörülerek bunlara karşı tedbir alınır.",
-       "sayfa": 225
-      },
-      {
-       "id": "3.5-05",
-       "tur": "secmeli",
-       "soru": "\"Köyünüzden mahallenizden, şehrinizden hele bir ayrılın\" diye başlayan Yolculuğun Erdemleri metninin yazarı kimdir?",
+       "kok": "Bu kararlardan hangileri fabl türünün özelliklerine uygundur?",
        "secenekler": [
-        "Ahmet Rasim",
-        "Şevket Rado",
-        "Nurullah Ataç",
-        "Haldun Taner"
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
        ],
        "dogru": 3,
-       "bilgi": "Yolculuğun Erdemleri, Haldun Taner'in Düşsem Yollara Yollara adlı eserinden alınmıştır.",
-       "sayfa": 224
+       "bilgi": "Fablda kişileştirilen varlıklar insan tiplerini temsil eder ve öğüt sonda açık ya da örtük verilir. Fabl kısa bir anlatıdır; çok sayıda yan olay ve kişiye yer verilmez.",
+       "sayfa": 227
       }
      ]
     }
@@ -1931,186 +1605,133 @@
       {
        "id": "4.1-01",
        "tur": "secmeli",
-       "soru": "Bir ön söz ve on üç hikâyeden oluşan, Türkler arasında sözlü olarak yayılıp XV. yüzyılın sonlarında yazıya geçirildiği tahmin edilen eser hangisidir?",
-       "secenekler": [
-        "Kutadgu Bilig",
-        "Dede Korkut Hikâyeleri",
-        "Dîvânu Lugâti't-Türk",
-        "Battal Gazi Destanı"
+       "soru": "Dede Korkut Hikâyeleri ile ilgili,",
+       "oncul": [
+        "Oğuzların dış düşmanlarla mücadelesinin yanı sıra kendi aralarındaki çatışmalar da anlatılır.",
+        "Nazım ve nesir iç içedir; soylama adı verilen manzum bölümler bulunur.",
+        "Divan şiirinin nazım biçimleriyle ve aruz ölçüsüyle yazılmıştır.",
+        "İslamiyet öncesi Türk gelenekleri ile İslami unsurlar bir arada görülür."
        ],
-       "dogru": 1,
-       "bilgi": "Dede Korkut Hikâyeleri bir ön söz ve on üç hikâyeden oluşur; Oğuz Türklerinin mücadelelerini anlatır.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "I ve II",
+        "I ve III",
+        "II ve IV",
+        "I, II ve IV",
+        "I, III ve IV"
+       ],
+       "dogru": 3,
+       "bilgi": "Hikâyelerde Oğuzların Rum, Gürcü gibi düşmanlarla ve olağanüstü güçlerle mücadelesinin yanında iç çatışmaları da anlatılır. Nesir ağırlıklı anlatıda soylamalar manzumdur; eski Türk gelenekleri ile İslami unsurlar iç içedir. Eser XV. yüzyıl sonlarında yazıya geçirilmiştir.",
        "sayfa": 243
       },
       {
        "id": "4.1-02",
-       "tur": "bosluk",
-       "cumle": "Dede Korkut Hikâyeleri'nin ___ yüzyılın sonlarında yazıya geçirildiği tahmin edilmektedir.",
-       "cevap": "XV.",
-       "celdiriciler": [
-        "XI.",
-        "XIII.",
-        "XVII."
+       "tur": "secmeli",
+       "soru": "Bayat boyundan Korkut Ata derler bir er kopdu. Oğuz'un ol kişi tamam bilicisiydi; ne derse olurdu. Gaipten türlü haber söylerdi. Oğuz kavminin müşkülünü ol hâlleder idi. Her ne iş olsa Korkut Ata'ya danışmayınca işlemezlerdi.\nBu parçaya göre Korkut Ata ile ilgili,",
+       "oncul": [
+        "Toplumda sözüne güvenilen, danışılan bilge bir kişidir.",
+        "Gelecekle ilgili haberler verdiğine inanılmaktadır.",
+        "Oğuz beylerinin en güçlü savaşçısı olarak öne çıkar."
        ],
-       "bilgi": "Uzun süre sözlü olarak yaşayan Dede Korkut Hikâyeleri'nin XV. yüzyılın sonlarında yazıya geçirildiği düşünülür.",
-       "sayfa": 243
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Ön söze göre Bayat boyundan Korkut Ata, Oğuzların bilicisidir; geleceğe dair haberler verir, sorunları çözer, her işte ona danışılır. Hikâyelerin sonunda gelip boy boylar, soy soylar. Savaşçılığından söz edilmez.",
+       "sayfa": 237
       },
       {
        "id": "4.1-03",
-       "tur": "dy",
-       "ifade": "Dede Korkut Hikâyeleri'nde Oğuzların yalnızca dış düşmanlarla mücadelesi anlatılır; kendi iç çatışmalarına yer verilmez.",
-       "dogru": false,
-       "bilgi": "Hikâyelerde Oğuzların Rum, Ermeni, Gürcü ve olağanüstü güçlerle mücadelesinin yanı sıra kendi iç çatışmaları da anlatılır.",
-       "sayfa": 243
+       "tur": "secmeli",
+       "soru": "Batı etkisinde gelişen Türk edebiyatının bazı dönemleriyle ilgili bilgiler karışık olarak verilmiştir.",
+       "oncul": [
+        "Genç Kalemler dergisinde yayımlanan Yeni Lisan makalesiyle başlayan, sade dili ve millî konuları benimseyen dönem",
+        "Sanatçıların gazeteler aracılığıyla halkı eğitmeyi amaçladığı, makale ve roman gibi türlerin edebiyatımıza girdiği dönem",
+        "Türk edebiyatında ilk edebî bildiriyi yayımlayan topluluğun etkin olduğu dönem",
+        "Bireysel konuları ağır ve sanatlı bir dille işleyen, roman ve hikâyenin ilk yetkin örneklerini veren dönem"
+       ],
+       "kok": "Bu dönemlerin başlangıç tarihlerine göre eskiden yeniye sıralaması aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "II - IV - III - I",
+        "II - III - IV - I",
+        "IV - II - III - I",
+        "II - IV - I - III",
+        "II - I - IV - III"
+       ],
+       "dogru": 0,
+       "bilgi": "Tanzimat (1860), Servetifünun (1896), Fecriati (1909) ve Millî Edebiyat (1911) dönemleri bu sırayla başlamıştır; Cumhuriyet Dönemi 1923'te başlar. Fecriati, ilk edebî bildiriyi yayımlayan topluluktur.",
+       "sayfa": 239
       },
       {
        "id": "4.1-04",
        "tur": "secmeli",
-       "soru": "Dede Korkut Hikâyeleri'nin ön sözüne göre Oğuz'un bilicisi Korkut Ata hangi boydandır?",
-       "secenekler": [
-        "Kayı",
-        "Salur",
-        "Bayat",
-        "Bayındır"
+       "soru": "İslamiyet öncesi ve Geçiş Dönemi Türk edebiyatıyla ilgili,",
+       "oncul": [
+        "Sözlü dönemin ürünleri çoğunlukla sav, sagu, koşuk ve destandır.",
+        "Yazılı dönemin ilk ürünleri, Köktürklere ait Orhun Yazıtları ile Uygur metinleridir.",
+        "XI-XII. yüzyıllarda Karahanlılar döneminde yazılan eserler Geçiş Dönemi'ni oluşturur."
        ],
-       "dogru": 2,
-       "bilgi": "Ön söze göre Korkut Ata Bayat boyundandır; Oğuzların müşkülünü çözer, her iş ona danışılarak yapılırdı.",
-       "sayfa": 237
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Sözlü dönem (sav, sagu, koşuk, destan) VIII. yüzyıla kadar sürer; VIII-X. yüzyıllar Orhun Yazıtları ve Uygur metinleriyle yazılı dönemdir. Karahanlı dönemi (XI-XII.) Geçiş Dönemi'dir; XIII. yüzyıldan sonra halk ve divan edebiyatı gelişir.",
+       "sayfa": 238
       },
       {
        "id": "4.1-05",
        "tur": "secmeli",
-       "soru": "İslamiyet Öncesi Türk Edebiyatı'nın Sözlü Edebiyat Dönemi'ne ait ürünler çoğunlukla hangileridir?",
+       "soru": "Aşağıdaki eser – yazar eşleştirmelerinden hangisi yanlıştır?",
        "secenekler": [
-        "Gazel, kaside, mesnevi ve rubai",
-        "Roman, hikâye, makale ve tiyatro",
-        "Ninni, mâni, semai ve varsağı",
-        "Sav, sagu, koşuk ve destan"
+        "Kutadgu Bilig – Yusuf Has Hacib",
+        "Dîvânu Lugâti't-Türk – Kaşgarlı Mahmud",
+        "Atabetü'l-Hakâyık – Edib Ahmed Yüknekî",
+        "Dîvân-ı Hikmet – Ali Şir Nevai",
+        "Kısasü'l-Enbiya – Rabguzi"
        ],
        "dogru": 3,
-       "bilgi": "Bilinmeyen dönemlerden VIII. yüzyıla kadar süren Sözlü Edebiyat Dönemi'nin ürünleri çoğunlukla sav, sagu, koşuk ve destanlardır.",
+       "bilgi": "Dîvân-ı Hikmet, Ahmed Yesevî'nin hikmetlerinden oluşur. Kutadgu Bilig, Dîvânu Lugâti't-Türk ve Atabetü'l-Hakâyık Karahanlı dönemi (Geçiş Dönemi) eserleridir; Ali Şir Nevai XV. yüzyıl Çağatay şairidir.",
        "sayfa": 238
       },
       {
        "id": "4.1-06",
-       "tur": "bosluk",
-       "cumle": "VIII. yüzyıldan X. yüzyılın sonuna kadar süren Yazılı Edebiyat Dönemi'nin ürünleri, Köktürklere ait ___ ile Uygurlara ait metinlerdir.",
-       "cevap": "Orhun Yazıtları",
-       "celdiriciler": [
-        "Kutadgu Bilig",
-        "Dîvânu Lugâti't-Türk",
-        "Dede Korkut Hikâyeleri"
+       "tur": "secmeli",
+       "soru": "Aşağıdaki eserlerin hangisinde Millî Mücadele ve bağımsızlık teması işlenmiştir?",
+       "secenekler": [
+        "Küçük Ağa",
+        "Mai ve Siyah",
+        "Araba Sevdası",
+        "Eylül",
+        "İntibah"
        ],
-       "bilgi": "İslamiyet Öncesi Türk Edebiyatı sözlü ve yazılı olmak üzere iki döneme ayrılır.",
-       "sayfa": 238
+       "dogru": 0,
+       "bilgi": "Tarık Buğra'nın Küçük Ağa'sı Millî Mücadele'yi ve bağımsızlık temasını işler. Mai ve Siyah'ta hayal-hakikat çatışması, Araba Sevdası'nda yanlış Batılılaşma, Eylül'de psikolojik bir aşk çatışması, İntibah'ta aşk ve pişmanlık işlenir.",
+       "sayfa": 262
       },
       {
        "id": "4.1-07",
-       "tur": "eslestir",
-       "yonerge": "Batı etkisinde gelişen Türk edebiyatının dönemlerini tarih aralıklarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Tanzimat Dönemi",
-         "1860-1896"
-        ],
-        [
-         "Servetifünun Dönemi",
-         "1896-1901"
-        ],
-        [
-         "Fecriati Dönemi",
-         "1909-1913"
-        ],
-        [
-         "Millî Edebiyat Dönemi",
-         "1911-1923"
-        ],
-        [
-         "Cumhuriyet Dönemi",
-         "1923'ten günümüze"
-        ]
-       ],
-       "bilgi": "Batı Etkisinde Gelişen Türk Edebiyatı; Tanzimat, Servetifünun, Fecriati, Millî Edebiyat ve Cumhuriyet olmak üzere beş döneme ayrılır.",
-       "sayfa": 239
-      },
-      {
-       "id": "4.1-08",
-       "tur": "bosluk",
-       "cumle": "İslamiyet Öncesi Dönem'in devamı olan halk edebiyatı; anonim halk edebiyatı, tekke edebiyatı ve ___ halk edebiyatı olmak üzere üç kolda gelişmiştir.",
-       "cevap": "âşık tarzı",
-       "celdiriciler": [
-        "divan",
-        "saray",
-        "Geçiş Dönemi"
-       ],
-       "bilgi": "Halk edebiyatı anonim, tekke ve âşık tarzı kollarıyla günümüzde de varlığını sürdürür.",
-       "sayfa": 238
-      },
-      {
-       "id": "4.1-09",
        "tur": "secmeli",
-       "soru": "Türklerin İslamiyet'i kabulünden sonra XI-XII. yüzyıllarda yazılan eserlerin oluşturduğu döneme ne ad verilir?",
+       "soru": "Fecriati topluluğuyla ilgili aşağıdakilerden hangisi yanlıştır?",
        "secenekler": [
-        "Geçiş Dönemi (Karahanlı Dönemi)",
-        "Sözlü Edebiyat Dönemi",
-        "Yazılı Edebiyat Dönemi (Köktürk-Uygur)",
-        "Fecriati Dönemi"
+        "1909'da kurulmuş, Türk edebiyatında ilk edebî bildiriyi yayımlamıştır.",
+        "'Sanat şahsi ve muhteremdir.' görüşünü benimsemiştir.",
+        "Servetifünun edebiyatının devamı niteliğinde eserler vermiştir.",
+        "Ahmet Haşim bu topluluk içinde yer almıştır.",
+        "Sade dili ve hece ölçüsünü savunarak Millî Edebiyat'ı başlatmıştır."
        ],
-       "dogru": 0,
-       "bilgi": "Geçiş Dönemi'nin ardından XIII. yüzyıldan itibaren edebiyat halk ve divan edebiyatı olarak iki kolda gelişmiştir.",
-       "sayfa": 238
-      },
-      {
-       "id": "4.1-10",
-       "tur": "bosluk",
-       "cumle": "Servetifünun Dönemi, ___ öncülüğünde Servet-i Fünun dergisi etrafında toplanan sanatçıların faaliyet gösterdiği edebî dönemdir.",
-       "cevap": "Recaizade Mahmut Ekrem",
-       "celdiriciler": [
-        "Namık Kemal",
-        "Ömer Seyfettin",
-        "Şinâsi"
-       ],
-       "bilgi": "Servetifünun'da bireysel konular ağır ve sanatlı bir dille işlenmiş, roman ve hikâyenin ilk yetkin örnekleri verilmiştir.",
+       "dogru": 4,
+       "bilgi": "Fecriati (1909) ilk edebî bildiriyi yayımlamış, 'Sanat şahsi ve muhteremdir' anlayışıyla Servetifünun'un devamı olmuştur; Ahmet Haşim bu topluluktadır. Millî Edebiyat ise 1911'de Genç Kalemler'deki Yeni Lisan makalesiyle başlamıştır.",
        "sayfa": 239
-      },
-      {
-       "id": "4.1-11",
-       "tur": "secmeli",
-       "soru": "Servetifünun'dan daha ileri bir edebiyat oluşturmayı amaçlayan ve Türk edebiyatında ilk edebî bildiriyi yayımlayan topluluk hangisidir?",
-       "secenekler": [
-        "Genç Kalemler",
-        "Fecriati",
-        "Encümen-i Şuarâ",
-        "Servetifünun"
-       ],
-       "dogru": 1,
-       "bilgi": "1909'da ortaya çıkan Fecriati, ilk edebî bildiriyi yayımlamıştır ve Servetifünun edebiyatının devamı niteliğindedir.",
-       "sayfa": 239
-      },
-      {
-       "id": "4.1-12",
-       "tur": "eslestir",
-       "yonerge": "Eserleri temalarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Salur Kazan'ın Yedi Başlı Ejderhayı Öldürdüğü Boy",
-         "Cesaret"
-        ],
-        [
-         "Mai ve Siyah (Halit Ziya Uşaklıgil)",
-         "Hayal-hakikat çatışması"
-        ],
-        [
-         "Küçük Ağa (Tarık Buğra)",
-         "Bağımsızlık"
-        ],
-        [
-         "Balıkçı (Mehmet Emin Yurdakul)",
-         "Geçim sıkıntısı"
-        ]
-       ],
-       "bilgi": "Salur Kazan'da cesaret, Mai ve Siyah'ta hayal-hakikat çatışması, Küçük Ağa'da bağımsızlık, Balıkçı'da geçim sıkıntısı teması işlenir.",
-       "sayfa": 262
       }
      ]
     },
@@ -2121,156 +1742,120 @@
       {
        "id": "4.2-01",
        "tur": "secmeli",
-       "soru": "Vatan, hürriyet, millet, hak ve adalet gibi temaları Türk şiirine kazandıran Namık Kemal hangi unvanla anılır?",
-       "secenekler": [
-        "Kaldırımlar Şairi",
-        "Hüsrev-i Rûm",
-        "Vatan ve Hürriyet Şairi",
-        "Sultânü'ş-şuarâ (Şairlerin sultanı)"
+       "soru": "Görüp ahkâm-ı asrı münharif sıdk u selâmetten\nÇekildik izzet ü ikbâl ile bâb-ı hükûmetten\nNamık Kemal'in Hürriyet Kasîdesi'nin ilk beyti olan bu dizelerle ilgili,",
+       "oncul": [
+        "Dizeleri kendi arasında kafiyeli olan bir matla beytidir.",
+        "Aruz ölçüsüyle yazılmıştır.",
+        "Bireysel aşk duygularını işleyen lirik bir söyleyiş vardır.",
+        "Geleneksel bir nazım biçimi, yeni bir içerikle kullanılmıştır."
        ],
-       "dogru": 2,
-       "bilgi": "Namık Kemal (1840-1888), işlediği temalar nedeniyle \"Vatan ve Hürriyet Şairi\" olarak anılır.",
-       "sayfa": 267
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "I ve II",
+        "I, II ve IV",
+        "I, III ve IV",
+        "II, III ve IV",
+        "I, II, III ve IV"
+       ],
+       "dogru": 1,
+       "bilgi": "Beyitte 'selâmetten / hükûmetten' sözcükleri kafiyelidir ('met' kafiye, '-ten' redif); şiir aruzla yazılmış bir kasidedir. Namık Kemal, kaside gibi eski biçimlere hürriyet, vatan, adalet gibi yeni kavramları taşımıştır; şiirde bireysel aşk yoktur.",
+       "sayfa": 274
       },
       {
        "id": "4.2-02",
-       "tur": "bosluk",
-       "cumle": "Namık Kemal, \"___ için sanat\" anlayışını benimsemiştir.",
-       "cevap": "toplum",
-       "celdiriciler": [
-        "sanat",
-        "birey",
-        "zevk"
+       "tur": "secmeli",
+       "soru": "'Vatan ve Hürriyet Şairi' olarak anılan Namık Kemal ile ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Vatan, hürriyet, millet gibi kavramları şiire kazandırmıştır.",
+        "'Toplum için sanat' anlayışını benimsemiştir.",
+        "Vatan yahut Silistre oyunuyla halkta vatan sevgisi uyandırmak istemiştir.",
+        "İntibah ile ilk edebî romanı, Cezmi ile ilk tarihî romanı yazmıştır.",
+        "Şiirde Batılı nazım biçimlerini ilk kez o denemiştir."
        ],
-       "bilgi": "Toplum için sanat anlayışını benimseyen Namık Kemal; vatan, hürriyet, millet, hak ve adalet temalarını şiire kazandırmıştır.",
+       "dogru": 4,
+       "bilgi": "Namık Kemal şiirde eski nazım biçimlerini kullanıp onlara yeni bir içerik kazandırmıştır; Avrupai nazım şekillerinin denenmesi asıl Abdülhak Hâmid'le başlar. İntibah ilk edebî, Cezmi ilk tarihî romandır.",
        "sayfa": 267
       },
       {
        "id": "4.2-03",
        "tur": "secmeli",
-       "soru": "Vatan yahut Silistre, İntibah, Cezmi, Zavallı Çocuk ve Celâleddin Harzemşah adlı eserler hangi sanatçıya aittir?",
+       "soru": "Tanzimat edebiyatıyla ilgili,",
+       "oncul": [
+        "Birinci dönem sanatçıları edebiyatı halkı eğitmenin bir aracı olarak görmüştür.",
+        "İkinci dönem sanatçıları dilde sadeleşmeyi temel ilke hâline getirmiştir.",
+        "Birinci dönem şairleri sone ve terza-rima gibi Batılı nazım biçimleriyle yenilik yapmıştır."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
        "secenekler": [
-        "Namık Kemal",
-        "Şinâsi",
-        "Recaizade Mahmut Ekrem",
-        "Ahmet Mithat Efendi"
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
        ],
        "dogru": 0,
-       "bilgi": "Namık Kemal roman, tiyatro ve şiir türlerindeki eserleriyle öne çıkmıştır.",
-       "sayfa": 267
+       "bilgi": "Tanzimat'ın birinci döneminde toplum için sanat anlayışı, sosyal konular, sadeleşme çabası ve eski nazım biçimleri öne çıkar. İkinci dönemde bireysel konular işlenmiş, sadeleşme anlayışı terk edilmiştir. Sone ve terza-rima Servetifünun şiirinde yaygınlaşmıştır.",
+       "sayfa": 239
       },
       {
        "id": "4.2-04",
-       "tur": "bosluk",
-       "cumle": "Batı Etkisinde Gelişen Türk Edebiyatı, ___ yılında Tanzimat Fermanı'nın ilanıyla başlayan edebî dönemdir.",
-       "cevap": "1839",
-       "celdiriciler": [
-        "1860",
-        "1876",
-        "1908"
+       "tur": "secmeli",
+       "soru": "Batı etkisindeki Türk edebiyatıyla birlikte edebiyatımız, daha önce bilinmeyen pek çok türle tanışmıştır.\nAşağıdakilerden hangisi Tanzimat Dönemi'nde edebiyatımıza giren türlerden biri değildir?",
+       "secenekler": [
+        "Roman",
+        "Makale",
+        "Fıkra",
+        "Eleştiri",
+        "Tezkire"
        ],
-       "bilgi": "Tanzimat Fermanı 3 Kasım 1839'da Gülhane'de okunmuş; bu dönemde Batı edebiyatı örnek alınmıştır.",
+       "dogru": 4,
+       "bilgi": "Tezkire, şairlerin hayatlarını ve şiirlerinden örnekleri veren bir divan edebiyatı türüdür; Tanzimat'tan çok önce de vardır. Roman, makale, fıkra, eleştiri, modern tiyatro ve hikâye Tanzimat'la birlikte edebiyatımıza girmiştir.",
        "sayfa": 239
       },
       {
        "id": "4.2-05",
-       "tur": "dy",
-       "ifade": "Namık Kemal, klasik şiirin dil ve şekil özelliklerini kullanarak yeni bir şiir anlayışı ortaya koymuştur.",
-       "dogru": true,
-       "bilgi": "Namık Kemal klasik şiirin dil ve şekil özellikleriyle yeni bir şiir anlayışı ortaya çıkarmış, birçok şair ve yazara ilham vermiştir.",
-       "sayfa": 267
+       "tur": "secmeli",
+       "soru": "Agâh Efendi ile birlikte ilk özel Türk gazetesi olan Tercüman-ı Ahvâl'i çıkaran sanatçı, ardından Tasvir-i Efkâr'ı kurmuştur. İlk yerli tiyatro eserimiz sayılan tek perdelik bir komedi yazmış, La Fontaine'den fabl çevirileri yapmıştır. Şiirde yeniliği biçimden çok içerikte, akıl ve ilerleme gibi kavramları işlemekte aramıştır.\nBu parçada sözü edilen sanatçı aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Şinasi",
+        "Namık Kemal",
+        "Ziya Paşa",
+        "Ahmet Mithat Efendi",
+        "Ali Suavi"
+       ],
+       "dogru": 0,
+       "bilgi": "Şinasi; Tercüman-ı Ahvâl (1860) ve Tasvir-i Efkâr gazeteleriyle, ilk yerli tiyatro sayılan Şair Evlenmesi'yle tanınır. Şiirdeki yeniliği şekilden çok muhtevaya aittir; Avrupai şekillerin denenmesi Abdülhak Hâmid'le başlar.",
+       "sayfa": 309
       },
       {
        "id": "4.2-06",
-       "tur": "eslestir",
-       "yonerge": "Edebî dönemleri öne çıkan özellikleriyle eşleştir.",
-       "ciftler": [
-        [
-         "Tanzimat birinci dönem",
-         "Sosyal konular, dilde sadeleşme, eski nazım biçimleri"
-        ],
-        [
-         "Tanzimat ikinci dönem",
-         "Bireysel konular, Batı'dan alınan nazım biçimleri"
-        ],
-        [
-         "Servetifünun Dönemi",
-         "Bireysel konular, ağır ve sanatlı dil"
-        ],
-        [
-         "Millî Edebiyat Dönemi",
-         "Sade dil, millî konular ve Anadolu insanının sorunları"
-        ]
+       "tur": "secmeli",
+       "soru": "Tanzimat aydınları gazeteyi halkı eğitmenin en etkili aracı olarak gördü. Hürriyet, eşitlik, meşrutiyet ve basın özgürlüğü gibi kavramlar ilk kez bu gazetelerin sütunlarında tartışıldı. Yazılar daha geniş bir okur kitlesine ulaşsın diye, divan nesrinin süslü dilinden uzaklaşılıp herkesin anlayabileceği bir dil kullanılmaya çalışıldı.\nBu parçadan Tanzimat gazeteleriyle ilgili aşağıdakilerden hangisine ulaşılamaz?",
+       "secenekler": [
+        "Toplumu bilinçlendirme amacı taşıdığına",
+        "Siyasi kavramların yaygınlaşmasında rol oynadığına",
+        "Yazı dilinin sadeleşmesine katkıda bulunduğuna",
+        "Sanat için sanat anlayışını yaydığına",
+        "Okur kitlesini genişletmeyi amaçladığına"
        ],
-       "bilgi": "Tanzimat'ın ikinci döneminde dilde sadeleşme anlayışı terk edilmiş; Millî Edebiyat'ta ise sadeleşme yeniden temel amaç olmuştur.",
-       "sayfa": 239
+       "dogru": 3,
+       "bilgi": "Parçaya göre Tanzimat gazeteleri halkı eğitmeyi, hürriyet ve meşrutiyet gibi kavramları tartışmayı ve sade bir dille geniş kitlelere ulaşmayı amaçlamıştır. Bu yön, sanat için sanat değil toplum için sanat anlayışıyla örtüşür.",
+       "sayfa": 264
       },
       {
        "id": "4.2-07",
        "tur": "secmeli",
-       "soru": "Batı etkisinde gelişen Türk edebiyatıyla birlikte edebiyatımızın tanıştığı türler hangi seçenekte verilmiştir?",
+       "soru": "'Şair-i Âzam' unvanıyla anılan sanatçı, klasik şiirin kalıplarını kırarak Batılı nazım biçimlerini deneyen ilk şairlerdendir. Eşinin ölümü üzerine yazdığı uzun şiirinde ölüm, Allah ve ruhun ölümsüzlüğü üzerine metafizik sorgulamalar yapmış; Sahra ile Türk edebiyatında Batılı anlamda ilk pastoral şiir örneğini vermiştir.\nBu parçada sözü edilen sanatçı aşağıdakilerden hangisidir?",
        "secenekler": [
-        "Gazel, kaside, mesnevi, rubai",
-        "Koşma, semai, varsağı",
-        "Makale, eleştiri, roman",
-        "Sav, sagu, koşuk"
-       ],
-       "dogru": 2,
-       "bilgi": "Tanzimat'la birlikte makale, fıkra, eleştiri, modern tiyatro, hikâye ve roman gibi türler edebiyatımıza girmiştir.",
-       "sayfa": 239
-      },
-      {
-       "id": "4.2-08",
-       "tur": "bosluk",
-       "cumle": "Mehmet Kaplan'a göre Namık Kemal, Hürriyet Kasîdesi'nin kıvılcımını Encümen-i Şuarâ'dan arkadaşı ___'in divanındaki bir beyitten almıştır.",
-       "cevap": "Leskofçalı Galib",
-       "celdiriciler": [
-        "Şinâsi",
-        "Ziya Paşa",
-        "Nedîm"
-       ],
-       "bilgi": "Hürriyet Kasîdesi vezin, kafiye ve ilham bakımından Leskofçalı Galib'in bir beytinden doğmuştur.",
-       "sayfa": 274
-      },
-      {
-       "id": "4.2-09",
-       "tur": "bosluk",
-       "cumle": "Namık Kemal'in Yeni Türk edebiyatının beyannamesi sayılan makalesi 1866'da ___ gazetesinde yayımlanmıştır.",
-       "cevap": "Tasvir-i Efkâr",
-       "celdiriciler": [
-        "Takvîm-i Vekāyi",
-        "Tercüman-ı Ahvâl",
-        "Servet-i Fünun"
-       ],
-       "bilgi": "Lisân-ı Osmanînin Edebiyatı Hakkında Bazı Mülâhazatı Şamildir makalesi edebiyatın millî hayatı yansıtması gerektiğini vurgular ve Millî Edebiyat'ın ilk habercisidir.",
-       "sayfa": 310
-      },
-      {
-       "id": "4.2-10",
-       "tur": "bosluk",
-       "cumle": "Klasik şiir kalıplarının kırılması ve Avrupai nazım şekillerinin denenmesi asıl ___ ile başlar.",
-       "cevap": "Abdülhak Hâmid",
-       "celdiriciler": [
-        "Şinâsi",
-        "Namık Kemal",
-        "Ziya Paşa"
-       ],
-       "bilgi": "Şinâsi'nin şiirdeki yeniliği şekilden çok muhtevaya aittir; Avrupai şekillerin denenmesi Abdülhak Hâmid'le başlar, Servet-i Fünûn şiiri onu izler.",
-       "sayfa": 309
-      },
-      {
-       "id": "4.2-11",
-       "tur": "secmeli",
-       "soru": "Mustafa Karabulut'a göre Tanzimat gazetelerinde ağırlıklı olarak hangi konular işlenmiştir?",
-       "secenekler": [
-        "Aşk, tabiat, ölüm ve yalnızlık",
-        "Hürriyet, eşitlik, meşrutiyet ve basın hakları",
-        "Tasavvuf, ahlak ve zühd",
-        "Kahramanlık, savaş, göç ve sınır boylarındaki akınlar"
+        "Recaizade Mahmut Ekrem",
+        "Abdülhak Hâmid Tarhan",
+        "Muallim Naci",
+        "Tevfik Fikret",
+        "Namık Kemal"
        ],
        "dogru": 1,
-       "bilgi": "Tanzimat'ta gazeteye büyük önem verilmiş; Namık Kemal ve Ahmet Mithat Efendi'nin gazeteleri ilgi görmüştür.",
-       "sayfa": 264
+       "bilgi": "Abdülhak Hâmid; Makber'de eşinin ölümünü metafizik bir sorgulamayla işlemiş, Sahra ile ilk pastoral şiiri yazmıştır. Avrupai nazım şekillerinin denenmesi asıl onunla başlar; Tarık, Finten ve Eşber gibi oyunları da vardır.",
+       "sayfa": 309
       }
      ]
     },
@@ -2281,60 +1866,68 @@
       {
        "id": "4.3-01",
        "tur": "secmeli",
-       "soru": "Dede Korkut hikâyelerinden birinin canlandırılmasında görev alacak kişiler hangi seçenekte verilmiştir?",
+       "soru": "Omzunda bir mendil, elinde bir değnekle seyircinin karşısına çıkan sanatçı, dekor ve yardımcı olmaksızın farklı kişilerin seslerini, şivelerini, tavırlarını taklit ederek hikâyesini anlatır. Bu yönüyle tek başına, tam kadrolu bir tiyatro topluluğunun işini görür.\nBu parçada sözü edilen geleneksel tiyatro türü aşağıdakilerden hangisidir?",
        "secenekler": [
-        "Yazar, eleştirmen, çevirmen, yayıncı",
-        "Sunucu, jüri üyeleri, hakem heyeti ve seyirciler",
-        "Yönetmen, oyuncu, dekor sorumlusu, teknik ekip",
-        "Editör, musahhih, dizgici, matbaacı"
+        "Karagöz",
+        "Ortaoyunu",
+        "Meddah",
+        "Köy seyirlik oyunu",
+        "Kukla"
        ],
        "dogru": 2,
-       "bilgi": "Canlandırmada yönetmen, oyuncu, dekor sorumlusu ve teknik ekip olarak görev alacak kişiler belirlenir.",
-       "sayfa": 281
+       "bilgi": "Meddah; mendil ve değnekle tek başına seyircinin karşısına çıkıp taklitlerle hikâye anlatan geleneksel tiyatro sanatçısıdır. Karagöz perdede tasvirlerle, ortaoyunu ise açık alanda birden çok oyuncuyla oynanır.",
+       "sayfa": 189
       },
       {
        "id": "4.3-02",
-       "tur": "dy",
-       "ifade": "Canlandırılacak hikâye sahnelere bölünür; her sahne için kısa notlar alınır ve sahne geçişleri belirlenir.",
-       "dogru": true,
-       "bilgi": "Canlandırma planlanırken hikâye sahnelere ayrılır, sahne geçişleri ve uygun dekor, görsel ve işitsel ögeler belirlenir.",
+       "tur": "secmeli",
+       "soru": "Geleneksel Türk tiyatrosuyla ilgili,",
+       "oncul": [
+        "Oyunlar, yazılı bir metne bağlı kalınmadan büyük ölçüde doğaçlamayla sergilenir.",
+        "Karagöz oyununda Karagöz, eğitimli ve süslü bir dille konuşan tipi temsil eder.",
+        "Ortaoyunu, perde arkasında deriden tasvirlerle oynatılan bir gölge oyunudur."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Geleneksel Türk tiyatrosu (Karagöz, ortaoyunu, meddah) doğaçlamaya dayanır. Karagöz oyununda süslü, kalem diliyle konuşan eğitimli tip Hacivat'tır; Karagöz halkın sağduyusunu temsil eder. Ortaoyunu perdesiz, meydanda oynanır.",
        "sayfa": 281
       },
       {
        "id": "4.3-03",
-       "tur": "dy",
-       "ifade": "Dede Korkut hikâyesi canlandırılırken metnin bağlamından tamamen uzaklaşılarak yeni bir olay örgüsü kurulmalıdır.",
-       "dogru": false,
-       "bilgi": "Canlandırmaya özgün yorumlar katılabilir ancak metnin bağlamından uzaklaşılmamalıdır.",
+       "tur": "secmeli",
+       "soru": "Bir Dede Korkut hikâyesini sahneye uyarlayan topluluk, anlatıcının uzun betimlemelerini dekora, kostüme ve ışığa dönüştürdü; kahramanların duygularını ise anlatıcının sözleri yerine diyaloglar, ses tonu ve hareketlerle yansıttı. Böylece hikâyedeki olaylar seyircinin gözü önünde yeniden yaşandı.\nBu parçadan tiyatroyla ilgili aşağıdakilerden hangisine ulaşılabilir?",
+       "secenekler": [
+        "Olayları anlatmak yerine göstermeye dayandığına",
+        "Yalnızca tarihî konuları işleyebildiğine",
+        "Yazılı metne bağlı kalmadan doğaçlamayla oynandığına",
+        "Anlatıcının sahnede mutlaka yer alması gerektiğine",
+        "Seyircinin oyuna katılımını zorunlu kıldığına"
+       ],
+       "dogru": 0,
+       "bilgi": "Parçada anlatıcının sözlerle aktardıklarının dekor, kostüm, diyalog ve hareketle sahnede gösterildiği anlatılıyor: Tiyatro göstermeye bağlı bir türdür. Doğaçlamadan ya da seyirci katılımından söz edilmemektedir.",
        "sayfa": 282
       },
       {
        "id": "4.3-04",
        "tur": "secmeli",
-       "soru": "Canlandırma için Dede Korkut hikâyesi seçildikten sonra hikâyenin hangi unsurları hakkında bilgi edinilmelidir?",
+       "soru": "Bir sınıf, canlandırmak için şu Dede Korkut hikâyesini seçmiştir: Kuru bir çayın üzerine köprü yaptıran kahraman, köprüden geçenden otuz üç, geçmeyenden döve döve kırk akçe alır. Can alan Azrail'e meydan okur; canına karşılık can bulması istenince anası ve babası canlarını vermez, karısı ise kendi canını seve seve verir.\nBu hikâyenin kahramanı aşağıdakilerden hangisidir?",
        "secenekler": [
-        "Yazıya geçirildiği yazmaların sayısı",
-        "Kişiler, zaman, mekân, dil ve anlatım özellikleri",
-        "Ölçü, kafiye düzeni, nazım birimi ve redif özellikleri",
-        "Yabancı dillere yapılan çevirileri"
-       ],
-       "dogru": 1,
-       "bilgi": "Seçilen hikâyedeki kişiler, zaman, mekân, dil ve anlatım özellikleri öğrenilerek amaca uygun bir konuşma stratejisi belirlenir.",
-       "sayfa": 281
-      },
-      {
-       "id": "4.3-05",
-       "tur": "secmeli",
-       "soru": "Canlandırmada oyuncuların rol dağılımı yapılırken başka neyin belirlenmesi gerekir?",
-       "secenekler": [
-        "Sahne yerleşimi ve oyuncuların hareket düzeni",
-        "Hikâyenin yazıya geçirildiği yüzyıl",
-        "Seyircilerin salondaki oturma sırası ve giriş düzeni",
-        "Hikâyenin diğer varyantları"
+        "Deli Dumrul",
+        "Bamsı Beyrek",
+        "Boğaç Han",
+        "Salur Kazan",
+        "Tepegöz"
        ],
        "dogru": 0,
-       "bilgi": "Rol dağılımıyla birlikte sahnelerin yerleşimi ve oyuncuların sahne üzerindeki hareket düzeni belirlenir.",
-       "sayfa": 281
+       "bilgi": "Duha Koca oğlu Deli Dumrul'un hikâyesinde kahraman Azrail'e meydan okur; karısının canını vermeye razı olması üzerine Allah ikisini de bağışlar. Boğaç Han boğayı yenerek ad alır; Tepegöz ise Basat'ın öldürdüğü tek gözlü devdir.",
+       "sayfa": 243
       }
      ]
     },
@@ -2345,144 +1938,120 @@
       {
        "id": "4.4-01",
        "tur": "secmeli",
-       "soru": "Yaşanmış veya yaşanması mümkün olayların kişi, zaman ve mekâna bağlı olarak kurgulandığı, genellikle tek bir olaya dayanan kısa metinlere ne ad verilir?",
-       "secenekler": [
-        "Roman",
-        "Masal",
-        "Hikâye",
-        "Deneme"
+       "soru": "Ömer Seyfettin ile ilgili,",
+       "oncul": [
+        "Maupassant tarzı olay hikâyesinin önde gelen temsilcisidir.",
+        "Hikâyelerinin ağırlık noktasını bireysel bunalımlar ve aşk oluşturur.",
+        "Kaşağı ve Falaka gibi hikâyelerinde çocukluk anılarından yararlanmıştır.",
+        "Genç Kalemler'de yayımlanan Yeni Lisan makalesiyle dilde sadeleşme hareketini başlatmıştır."
        ],
-       "dogru": 2,
-       "bilgi": "Hikâye, genellikle tek bir olaya dayanan, kişi, zaman ve mekâna bağlı kısa kurmaca metindir.",
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "I ve III",
+        "II ve IV",
+        "I, II ve III",
+        "I, II ve IV",
+        "I, III ve IV"
+       ],
+       "dogru": 4,
+       "bilgi": "Ömer Seyfettin (1884-1920), olay hikâyesinin ustasıdır; hikâyelerinde Türk milliyetçiliği, tarihî olaylar, çocukluk anıları ve toplumsal aksaklıklar öne çıkar. Yeni Lisan makalesi Millî Edebiyat'ı başlatmıştır. Pembe İncili Kaftan, Yüksek Ökçeler ve Efruz Bey de onundur.",
        "sayfa": 286
       },
       {
        "id": "4.4-02",
-       "tur": "bosluk",
-       "cumle": "Millî Edebiyat Dönemi, 1911'de ___ dergisinde yayımlanan Ömer Seyfettin'in Yeni Lisan makalesiyle başlar.",
-       "cevap": "Genç Kalemler",
-       "celdiriciler": [
-        "Servet-i Fünun",
-        "Tasvir-i Efkâr",
-        "Türk Yurdu"
+       "tur": "secmeli",
+       "soru": "1911'de Genç Kalemler dergisinde yayımlanan Yeni Lisan makalesinde savunulan görüşlerle ilgili aşağıdakilerden hangisi yanlıştır?",
+       "secenekler": [
+        "Yazı dilinde konuşulan İstanbul Türkçesi esas alınmalıdır.",
+        "Arapça ve Farsça dil bilgisi kuralları ve tamlamalar kullanılmamalıdır.",
+        "Türkçeye yerleşmiş yabancı sözcükler Türkçedeki söylenişleriyle yazılmalıdır.",
+        "Yerleşmiş ilmî terimler dilden atılmamalıdır.",
+        "Dilin zenginleşmesi için öteki Türk lehçelerinden bol sözcük alınmalıdır."
        ],
-       "bilgi": "Millî Edebiyat Dönemi 1911'de Yeni Lisan makalesiyle başlar ve Cumhuriyet'in ilanına kadar sürer.",
-       "sayfa": 239
+       "dogru": 4,
+       "bilgi": "Yeni Lisan'a göre İstanbul Türkçesi esas alınmalı, Arapça ve Farsça kurallar kullanılmamalı, yerleşmiş sözcükler Türkçedeki söylenişleriyle yazılmalı, ilmî terimler korunmalıdır. Diğer Türk lehçelerinden sözcük alınmasına karşı çıkılmıştır.",
+       "sayfa": 294
       },
       {
        "id": "4.4-03",
-       "tur": "dy",
-       "ifade": "Millî Edebiyat Dönemi'nde dilde sadeleşme amaçlanmış; millî konuların yanı sıra Anadolu ve Anadolu insanının sorunları işlenmiştir.",
-       "dogru": true,
-       "bilgi": "Millî Edebiyat Dönemi'nde sade dil, millî konular ve Anadolu gerçeği öne çıkar.",
-       "sayfa": 239
+       "tur": "secmeli",
+       "soru": "Millî Edebiyat Dönemi'nde hikâye ve roman sosyal meselelere yönelmiş, Millî Mücadele en çok işlenen temalardan biri olmuştur. Bu dönemin yazarları Anadolu'yu İstanbul'dan bakan bir gözlemci gibi değil, bizzat o coğrafyada yaşayarak anlatmıştır. Bu yüzden Anadolu, eserlere çoğu zaman yoksulluk, cehalet ve taassupla birlikte girmiştir.\nBu parçaya göre Millî Edebiyat Dönemi hikâye ve romanıyla ilgili,",
+       "oncul": [
+        "Yazarlar Anadolu'yu gözleme ve yaşantıya dayanarak anlatmıştır.",
+        "Anadolu, eserlere idealize edilmiş bir güzellikle yansıtılmıştır.",
+        "Toplumsal meseleler eserlerde geniş yer tutmuştur."
+       ],
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Parçaya göre yazarlar Anadolu'yu yaşayarak anlatmış, sosyal meselelere ve Millî Mücadele'ye yönelmiştir. Anadolu'nun yoksulluk, cehalet ve taassupla yansıtılması, idealize edilmiş bir güzelliği değil gerçekçi bir bakışı gösterir.",
+       "sayfa": 283
       },
       {
        "id": "4.4-04",
        "tur": "secmeli",
-       "soru": "Modern Türk hikâyeciliğinin kurucularından Ömer Seyfettin, Türk edebiyatında hangi hikâye tarzının önde gelen temsilcisidir?",
+       "soru": "Millî Mücadele yıllarında cephe cephe dolaşan yazar, gördüklerini Ateşten Gömlek ve Vurun Kahpeye adlı romanlarına ve Dağa Çıkan Kurt adlı hikâye kitabına yansıtarak mücadelenin edebiyatını yapmıştır. Sinekli Bakkal romanı ve Mor Salkımlı Ev adlı anılarıyla da tanınır.\nBu parçada sözü edilen yazar aşağıdakilerden hangisidir?",
        "secenekler": [
-        "Maupassant tarzı (olay hikâyesi)",
-        "Çehov tarzı (durum hikâyesi)",
-        "Manzum hikâye",
-        "Halk hikâyesi"
+        "Halide Edib Adıvar",
+        "Halide Nusret Zorlutuna",
+        "Suat Derviş",
+        "Müfide Ferit Tek",
+        "Şükûfe Nihal"
        ],
        "dogru": 0,
-       "bilgi": "Ömer Seyfettin (1884-1920), Maupassant tarzı olay hikâyesinin önde gelen temsilcisidir.",
-       "sayfa": 286
+       "bilgi": "Halide Edib Adıvar; Ateşten Gömlek, Vurun Kahpeye ve Dağa Çıkan Kurt'ta Millî Mücadele'yi anlatmıştır. Halide Nusret Zorlutuna ise Bir Devrin Romanı adlı anılarıyla tanınan şair ve yazardır.",
+       "sayfa": 291
       },
       {
        "id": "4.4-05",
-       "tur": "bosluk",
-       "cumle": "Kaşağı, Falaka, Pembe İncili Kaftan, Yüksek Ökçeler ve Efruz Bey ___ adlı yazarın eserleridir.",
-       "cevap": "Ömer Seyfettin",
-       "celdiriciler": [
-        "Halide Edib Adıvar",
-        "Aka Gündüz",
-        "Tarık Buğra"
+       "tur": "secmeli",
+       "soru": "Bodrum'a sürgün edildikten sonra hayatını bu kıyılara adayan yazar, Ege ve Akdeniz kıyılarındaki balıkçıları, süngercileri, denizcileri anlatmıştır. İlk hikâye kitabı Ege Kıyılarında 1939'da yayımlanmış; Merhaba Akdeniz ve Gülen Ada gibi eserleriyle denizi ve Anadolu'nun eski uygarlıklarını edebiyatımıza taşımıştır. Eserlerini bir takma adla yayımlamıştır.\nBu parçada sözü edilen yazar aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Halikarnas Balıkçısı",
+        "Sait Faik Abasıyanık",
+        "Refik Halit Karay",
+        "Mustafa Necati Sepetçioğlu",
+        "Kemal Bilbaşar"
        ],
-       "bilgi": "Ömer Seyfettin hikâyelerinde tarihî olaylara, çocukluk anılarına ve günlük hayat gözlemlerine yer vermiştir.",
-       "sayfa": 286
+       "dogru": 0,
+       "bilgi": "Halikarnas Balıkçısı takma adını kullanan Cevat Şakir Kabaağaçlı (ö. 1973), Ege ve Akdeniz insanını anlatmıştır; Aganta Burina Burinata ve Ötelerin Çocuğu onun romanlarıdır. Sait Faik ise İstanbul'un ve adaların balıkçılarını anlatan durum hikâyecisidir.",
+       "sayfa": 291
       },
       {
        "id": "4.4-06",
-       "tur": "dy",
-       "ifade": "Ömer Seyfettin'in hikâyelerinin ağırlık noktasını bireysel bunalımlar ve aşk oluşturur.",
-       "dogru": false,
-       "bilgi": "Ömer Seyfettin'in hikâyelerinin ağırlık noktasını Türk milliyetçiliği ve millî bilinç oluşturur.",
+       "tur": "secmeli",
+       "soru": "Aşağıdakilerden hangisi olay (Maupassant tarzı) hikâyesini durum (Çehov tarzı) hikâyesinden ayıran özelliklerden biridir?",
+       "secenekler": [
+        "Kurmaca bir metin olması",
+        "Olay, kişi, zaman ve mekân unsurlarına yer vermesi",
+        "Olayların merakla bir sonuca bağlanması",
+        "Romana göre daha kısa olması",
+        "Gerçek ya da gerçeğe uygun olayları anlatması"
+       ],
+       "dogru": 2,
+       "bilgi": "Olay hikâyesi serim, düğüm, çözüm bölümleriyle ilerler; merak ön plandadır ve olaylar bir sonuca bağlanır. Durum hikâyesinde ise hayatın bir kesiti anlatılır, sonuç çoğu zaman okura bırakılır. Diğer özellikler iki tarzda da görülür.",
        "sayfa": 286
       },
       {
        "id": "4.4-07",
        "tur": "secmeli",
-       "soru": "Sevgül Türkmenoğlu'na göre Anadolu, Millî Edebiyat Dönemi hikâye ve romanına daha çok hangi kavramlarla girer?",
+       "soru": "Millî Edebiyat Dönemi'nde ve sonrasında eser veren yazarlarla ilgili aşağıdaki yazar – eser eşleştirmelerinden hangisi yanlıştır?",
        "secenekler": [
-        "Zenginlik, eğlence ve bolluk",
-        "Aşk, ayrılık ve gurbet",
-        "Yoksulluk, cehalet ve taassup",
-        "Tasavvuf, zühd ve ahlak"
-       ],
-       "dogru": 2,
-       "bilgi": "Millî Edebiyat Dönemi hikâye ve romanında sosyal meselelere yönelme vardır; Millî Mücadele en çok işlenen temalardandır.",
-       "sayfa": 283
-      },
-      {
-       "id": "4.4-08",
-       "tur": "dy",
-       "ifade": "Sevgül Türkmenoğlu'na göre Millî Edebiyat Dönemi yazarları Anadolu gerçeğini dışarıdan bakan gözlemciler olarak anlatmıştır.",
-       "dogru": false,
-       "bilgi": "Dönemin yazarları Anadolu'yu dışarıdan bakan bir gözlemci olarak değil, bizzat bu coğrafyada yaşayarak anlatmıştır.",
-       "sayfa": 283
-      },
-      {
-       "id": "4.4-09",
-       "tur": "secmeli",
-       "soru": "Dağa Çıkan Kurt, Vurun Kahpeye ve Ateşten Gömlek adlı eserleriyle İstiklal Mücadelesi'ni edebiyata taşıyan yazar kimdir?",
-       "secenekler": [
-        "Halide Edib Adıvar",
-        "Ömer Seyfettin",
-        "Yakup Kadri Karaosmanoğlu",
-        "Aka Gündüz"
-       ],
-       "dogru": 0,
-       "bilgi": "Halide Edib, cephe cephe dolaşırken yazdığı eserlerle mücadelenin edebiyatını yapmıştır.",
-       "sayfa": 291
-      },
-      {
-       "id": "4.4-10",
-       "tur": "secmeli",
-       "soru": "Ege Kıyılarında, Merhaba Akdeniz ve Gülen Ada gibi eserleriyle Ege ve Akdeniz kıyı insanlarını anlatan Halikarnas Balıkçısı'nın asıl adı nedir?",
-       "secenekler": [
-        "Hakkı Süha Sezgin",
-        "Vedat Günyol",
-        "Mehmet Niyazi",
-        "Cevat Şakir Kabaağaçlı"
+        "Ömer Seyfettin – Yüksek Ökçeler",
+        "Halide Edib Adıvar – Ateşten Gömlek",
+        "Refik Halit Karay – Memleket Hikâyeleri",
+        "Reşat Nuri Güntekin – Kiralık Konak",
+        "Yakup Kadri Karaosmanoğlu – Yaban"
        ],
        "dogru": 3,
-       "bilgi": "Halikarnas Balıkçısı takma adıyla tanınan Cevat Şakir Kabaağaçlı'nın (1886-1973) ilk hikâye kitabı Ege Kıyılarında 1939'da çıkmıştır.",
-       "sayfa": 291
-      },
-      {
-       "id": "4.4-11",
-       "tur": "dy",
-       "ifade": "Yeni Lisan makalesine göre konuşmada İstanbul Türkçesi esas alınmalı, diğer Türk lehçelerinden kelime alınmamalıdır.",
-       "dogru": true,
-       "bilgi": "Yeni Lisan, dilde sadeleşmeyi savunarak İstanbul Türkçesini esas almayı önermiştir.",
-       "sayfa": 294
-      },
-      {
-       "id": "4.4-12",
-       "tur": "secmeli",
-       "soru": "Aşağıdakilerden hangisi Yeni Lisan makalesinde savunulan görüşlerdendir?",
-       "secenekler": [
-        "Arapça ve Farsça tamlamaların yaygınlaştırılması",
-        "İlmî terimler dâhil bütün Arapça ve Farsça kelimelerin dilden atılması",
-        "Arapça ve Farsça kelimelerin Türkçede söylendikleri gibi yazılması",
-        "Diğer Türk lehçelerinden bol kelime alınması"
-       ],
-       "dogru": 2,
-       "bilgi": "Yeni Lisan'a göre Arapça ve Farsça dil bilgisi kuralları kullanılmamalı, kelimeler Türkçedeki söylenişleriyle yazılmalı, ilmî terimler korunmalıdır.",
-       "sayfa": 294
+       "bilgi": "Kiralık Konak, Yakup Kadri Karaosmanoğlu'nun romanıdır; Yaban da onundur. Reşat Nuri Güntekin'in tanınmış eserleri arasında Çalıkuşu, Yaprak Dökümü ve Yeşil Gece sayılabilir.",
+       "sayfa": 286
       }
      ]
     },
@@ -2493,70 +2062,67 @@
       {
        "id": "4.5-01",
        "tur": "secmeli",
-       "soru": "Evlatlarını kaybeden Emine bacının öküzlerini orduya bağışlamasını anlatan Öküzden Tayyare hikâyesinin yazarı kimdir?",
+       "soru": "Millî Edebiyat Dönemi'nde hece ölçüsünü benimseyip yaygınlaştıran ve Beş Hececiler adıyla anılan şairler arasında aşağıdakilerden hangisi yer almaz?",
        "secenekler": [
-        "Ömer Seyfettin",
-        "Aka Gündüz",
-        "Halide Edib Adıvar",
-        "Tarık Buğra"
+        "Faruk Nafiz Çamlıbel",
+        "Halit Fahri Ozansoy",
+        "Orhan Seyfi Orhon",
+        "Enis Behiç Koryürek",
+        "Mehmet Emin Yurdakul"
        ],
-       "dogru": 1,
-       "bilgi": "Öküzden Tayyare, Aka Gündüz'ün hikâyesidir.",
-       "sayfa": 302
+       "dogru": 4,
+       "bilgi": "Beş Hececiler: Faruk Nafiz Çamlıbel, Enis Behiç Koryürek, Halit Fahri Ozansoy, Orhan Seyfi Orhon ve Yusuf Ziya Ortaç. Mehmet Emin Yurdakul, 'Cenge Giderken' gibi şiirleriyle hece ölçüsünün öncüsü sayılır ama bu topluluktan değildir.",
+       "sayfa": 290
       },
       {
        "id": "4.5-02",
-       "tur": "eslestir",
-       "yonerge": "Dizeleri şairleriyle eşleştir.",
-       "ciftler": [
-        [
-         "\"Bu vatan toprağın kara bağrında / Sıradağlar gibi duranlarındır\"",
-         "Orhan Şaik Gökyay"
-        ],
-        [
-         "\"Bir güzelin âşıkıyım ağalar\"",
-         "Pîr Sultan Abdal"
-        ],
-        [
-         "\"Benim gönlüm bir kelebek\"",
-         "Orhan Seyfi Orhon"
-        ],
-        [
-         "\"O kadar dolu ki toprağın şanla\"",
-         "Halit Fahri Ozansoy"
-        ]
+       "tur": "secmeli",
+       "soru": "Aşağıdaki dize – şair eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "Bu vatan toprağın kara bağrında – Orhan Şaik Gökyay",
+        "Bir güzelin âşıkıyım ağalar – Pîr Sultan Abdal",
+        "Benim gönlüm bir kelebek – Orhan Seyfi Orhon",
+        "O kadar dolu ki toprağın şanla – Halit Fahri Ozansoy",
+        "Ne içindeyim zamanın – Ahmet Haşim"
        ],
-       "bilgi": "\"Bu vatan toprağın kara bağrında\" Orhan Şaik Gökyay'ın, \"O kadar dolu ki toprağın şanla\" Halit Fahri Ozansoy'un dizesidir.",
+       "dogru": 4,
+       "bilgi": "'Ne içindeyim zamanın' dizesi Ahmet Hamdi Tanpınar'ın aynı adlı şiirindendir. Diğer dizeler doğru eşleştirilmiştir; Orhan Seyfi Orhon ile Halit Fahri Ozansoy Beş Hececilerdendir.",
        "sayfa": 290
       },
       {
        "id": "4.5-03",
-       "tur": "dy",
-       "ifade": "Bir hikâye şiire dönüştürülürken şiirde verilmek istenen iletiler açık veya örtük biçimde ifade edilebilir.",
-       "dogru": true,
-       "bilgi": "Hikâyeden şiire dönüştürmede iletiler açık ya da örtük verilir; estetik unsurlar ve özgün üslup gözetilir.",
+       "tur": "secmeli",
+       "soru": "Aka Gündüz'ün Öküzden Tayyare hikâyesinde, Millî Mücadele yıllarında evlatlarını yitiren Emine Bacı tek varlığı olan öküzlerini orduya bağışlar. Bu hikâyeyi şiire dönüştürecek bir öğrenci şunları yapmayı planlamıştır:",
+       "oncul": [
+        "Fedakârlık, yokluk, vatan gibi temayı yansıtan sözcükleri belirleyip bunların çağrışımlarından yararlanmak",
+        "Hikâyenin iletisini açık ya da örtük biçimde dile getirmek",
+        "İmge ve söz sanatlarıyla estetik bir anlatım oluşturmak"
+       ],
+       "kok": "Bu planlardan hangileri hikâyeyi şiire dönüştürme çalışmasına uygundur?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Hikâyeyi şiire dönüştürürken temayı yansıtan sözcükler belirlenip çağrışımlarından yararlanılır; ileti açık ya da örtük verilebilir; imge ve söz sanatlarıyla estetik bir anlatım kurulur.",
        "sayfa": 303
       },
       {
        "id": "4.5-04",
        "tur": "secmeli",
-       "soru": "Öküzden Tayyare hikâyesini grupça şiire dönüştürme çalışmasında şiir yazılmadan önce ne belirlenir?",
+       "soru": "Hikâyeci, yaşlı bir kadının tek varlığı olan öküzlerini cepheye gönderdiği o sabahı sayfalarca anlatabilir; köyün yolunu, kadının yüzündeki çizgileri, öküzlerin ağır adımlarını tek tek gösterir. Şair ise aynı sabahı birkaç dizeye sığdırmak zorundadır; ayrıntıların çoğunu atar, kalanları imgelere dönüştürür. Bu yüzden şiirde her sözcük, hikâyedeki bir sayfanın yükünü taşır.\nBu parçada hikâye ile şiir arasındaki fark aşağıdakilerin hangisine dayandırılmıştır?",
        "secenekler": [
-        "Şiirin aruz kalıbı",
-        "Hikâyenin temasını yansıtan kelimeler",
-        "Hikâyenin ilk yayımlandığı dergi ve yayın yılı",
-        "Şairin mahlası"
+        "Anlatımın yoğunluğuna",
+        "Konunun seçimine",
+        "Okur kitlesine",
+        "Yazıldıkları döneme",
+        "Ölçü ve kafiye kullanımına"
        ],
-       "dogru": 1,
-       "bilgi": "Önce hikâyenin temasını yansıtan kelimeler belirlenir, ardından bu kelimelerin çağrışımlarından yararlanılarak şiir yazılır.",
-       "sayfa": 303
-      },
-      {
-       "id": "4.5-05",
-       "tur": "dy",
-       "ifade": "Hikâyeyi şiire dönüştürürken bağlama uygun söz varlığı gözetilmez; yalnızca ölçüye dikkat edilir.",
-       "dogru": false,
-       "bilgi": "Hikâyeyi şiire dönüştürürken bağlama uygun söz varlığından yararlanılır ve dil bilgisi kurallarına dikkat edilir.",
+       "dogru": 0,
+       "bilgi": "Parçaya göre hikâye ayrıntıları genişçe anlatırken şiir aynı konuyu ayrıntıları ayıklayıp imgelere dönüştürerek yoğun biçimde verir. Konu, okur ve ölçü bakımından bir karşılaştırma yapılmamıştır.",
        "sayfa": 303
       }
      ]

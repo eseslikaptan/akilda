@@ -22,37 +22,39 @@
      "kartlar": [
       {
        "id": "1.1-01",
-       "tur": "bosluk",
-       "cumle": "Bir düşünceye ya da atalardan kalan geleneklere, doğru olup olmadığını sorgulamadan körü körüne bağlanmaya ___ denir.",
-       "cevap": "taassup",
-       "celdiriciler": [
-        "tevekkül",
-        "tefekkür",
-        "itidal"
+       "tur": "secmeli",
+       "soru": "\"Onlara, 'Allah'ın indirdiğine uyun.' denildiği zaman, 'Hayır, biz atalarımızı üzerinde bulduğumuz şeye uyarız.' derler. Peki ama ataları bir şey düşünemeyen, doğru yolu da bulamayan kimseler idiyseler de mi?\" (Bakara suresi, 170. ayet)\nBu ayette eleştirilen tutumla ilgili,",
+       "oncul": [
+        "Bir görüşü doğruluğunu sorgulamadan, yalnızca atalardan geldiği için benimsemeye dayanır.",
+        "Vahiy ve akıl gibi doğruyu yanlıştan ayırmaya yarayan ölçüleri devre dışı bırakır.",
+        "Duyularla edinilen bilgilere vahiyden daha fazla güvenmekten kaynaklanır."
        ],
-       "bilgi": "Kur'an, bilgiye ve vahye dayanmadan yalnızca atalarından gördüklerine uymakta direnenleri kınar; bu tutum taassuptur.",
+       "kok": "yargılarından hangileri söylenebilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Ayet, atalardan görüleni sorgulamadan sürdürmeyi (taassup) eleştirir ve ölçü olarak vahyi ('Allah'ın indirdiği') ile aklı ('düşünemeyen') gösterir. Ayette duyulara güvenle ilgili bir eleştiri yoktur; sağlam duyular İslam'da bilgi kaynaklarındandır.",
        "sayfa": 13,
        "yil": "2018-TYT"
       },
       {
        "id": "1.1-02",
-       "tur": "eslestir",
-       "yonerge": "İslam'a göre bilgi edinme yollarını açıklamalarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Sadık haber",
-         "Vahiy ve peygamberden gelen doğru haber"
-        ],
-        [
-         "Selim akıl",
-         "Düşünerek iyiyi kötüden, doğruyu yanlıştan ayırma"
-        ],
-        [
-         "Salim duyular",
-         "Gözlem ve deneyimle bilgi edinme"
-        ]
+       "tur": "secmeli",
+       "soru": "İslam düşüncesinde bilgi edinme yolları sağlam duyular, sağlıklı akıl ve doğru haber (vahiy ve peygamberden gelen haber) olmak üzere üçe ayrılır.\nBuna göre aşağıdakilerden hangisi ancak doğru haber yoluyla bilinebilecek bir bilgiye örnektir?",
+       "secenekler": [
+        "Ateşin dokunduğu şeyi yaktığı",
+        "Bir bütünün kendi parçasından büyük olduğu",
+        "Evrendeki düzenin bir düzenleyiciyi gerektirdiği",
+        "Ahirette insanların hesaba çekileceği",
+        "Suyun ısıtıldığında belli bir sıcaklıkta kaynadığı"
        ],
-       "bilgi": "İslam'da bilgi kaynakları sağlam duyular (salim duyu), sağlıklı akıl (selim akıl) ve doğru haberdir (sadık haber).",
+       "dogru": 3,
+       "bilgi": "Ahiret ve melekler gibi gaybi konular duyu ve akılla tek başına bilinemez; bunlar vahiy ve peygamberin doğru haberiyle öğrenilir. Ateşin yakması ve suyun kaynaması duyularla, bütün-parça ilişkisi ve düzenin bir düzenleyiciyi gerektirmesi akılla bilinir.",
        "sayfa": 13,
        "yil": "2024-TYT"
       }
@@ -68,49 +70,57 @@
      "kartlar": [
       {
        "id": "1.2-01",
-       "tur": "dy",
-       "ifade": "Din, insanın nereden gelip nereye gittiği gibi sorulara cevap vererek ona hayatı anlamlandırma imkânı sunar.",
-       "dogru": true,
-       "bilgi": "Din dünyayı geçici bir imtihan yeri, ahireti gerçek yurt olarak tanıtır; böylece insanı geleceğe dair belirsizlikten kurtarır.",
-       "sayfa": 14,
-       "yil": "2020-TYT"
-      },
-      {
-       "id": "1.2-02",
-       "tur": "bosluk",
-       "cumle": "Delillere, araştırmaya ve bilgiye dayanan imana ___ iman denir.",
-       "cevap": "tahkiki",
-       "celdiriciler": [
-        "taklidi",
-        "icmali",
-        "zahiri"
+       "tur": "secmeli",
+       "soru": "Kur'an'da anlatıldığına göre Hz. İbrahim, geceleyin parlayan bir yıldızı görünce onun Rab olup olamayacağını sorgulamış; yıldız batınca \"Ben batıp gidenleri sevmem.\" demiştir. Ay'ı ve Güneş'i gördüğünde de aynı biçimde düşünmüş, onlar da batınca yüzünü gökleri ve yeri yaratan Allah'a çevirmiştir.\nHz. İbrahim'in bu tutumu aşağıdakilerden hangisine örnektir?",
+       "secenekler": [
+        "İnancı başkalarının onayına bağlamaya",
+        "Atalardan devralınan inancı sürdürmeye",
+        "İnanç konularında duygulara dayanmaya",
+        "Gök cisimlerini kutsal saymanın gerekliliğine",
+        "Gözlem ve akıl yürütmeyle imana ulaşmaya"
        ],
-       "bilgi": "Kur'an tahkiki imanı tavsiye eder; Hz. İbrahim'in gök cisimlerini gözleyip onları yaratana yönelmesi bunun örneğidir.",
+       "dogru": 4,
+       "bilgi": "Hz. İbrahim, gök cisimlerinin batıp kaybolmasından onların ilah olamayacağı sonucuna varmış, gözlem ve akıl yürütmeyle Allah'a yönelmiştir. Bu, Kur'an'ın teşvik ettiği, araştırmaya dayanan tahkiki imana örnektir; sorgulamadan benimsenen iman ise taklidi imandır.",
        "sayfa": 14,
        "yil": "2022-TYT"
       },
       {
-       "id": "1.2-03",
-       "tur": "bosluk",
-       "cumle": "İslam'da imanın davranışa dönüşmesini, yani inanılan iyiliklerin uygulanmasını ifade eden kavrama ___ denir.",
-       "cevap": "salih amel",
-       "celdiriciler": [
-        "ikrar",
-        "tasdik",
-        "niyet"
+       "id": "1.2-02",
+       "tur": "secmeli",
+       "soru": "\"Bedeviler, 'İman ettik.' dediler. De ki: 'Siz iman etmediniz. Ama \"Müslüman olduk.\" deyin. Henüz iman kalplerinize girmedi.'\" (Hucurât suresi, 14. ayet)\nMüşriklerin işkencesi altında inkâr sözü söylemeye zorlanan Ammar bin Yasir ise Hz. Peygamber'e kalbinin imanla dolu olduğunu söylemiş, Peygamber de onu teselli etmiştir.\nBu bilgiler birlikte değerlendirildiğinde aşağıdakilerden hangisine ulaşılabilir?",
+       "secenekler": [
+        "İmanın özünü kalple tasdik oluşturur.",
+        "Dil ile ikrar, tek başına iman için yeterlidir.",
+        "İman, ibadetlerin eksiksiz yapılmasıyla kazanılır.",
+        "Zorlama altında söylenen söz de kişiyi dinden çıkarır.",
+        "İman, toplumun onayıyla geçerlilik kazanır."
        ],
-       "bilgi": "Mümin, doğru bildiği iyiliği niyet ve bilgi düzeyinde bırakmamalı, onu davranışa dönüştürmelidir.",
-       "sayfa": 15,
-       "yil": "2025-TYT"
-      },
-      {
-       "id": "1.2-04",
-       "tur": "dy",
-       "ifade": "İşkence altında zorla inkâr sözü söyletilen bir mümin, kalbi imanla dolu olsa bile dinden çıkmış sayılır.",
-       "dogru": false,
-       "bilgi": "İmanın özü kalple tasdiktir; Ammar b. Yasir örneğinde olduğu gibi zorla söyletilen söz dinden çıkarmaz, kalple inanılmayan dil ikrarı da iman sayılmaz.",
+       "dogru": 0,
+       "bilgi": "Ayet, kalpte tasdik olmadan yapılan dil ikrarının iman sayılmadığını; Ammar örneği ise kalpte iman varken zorla söyletilen sözün kişiyi dinden çıkarmadığını gösterir. İkisi birlikte imanın özünün kalple tasdik olduğunu ortaya koyar.",
        "sayfa": 15,
        "yil": "2026-TYT"
+      },
+      {
+       "id": "1.2-03",
+       "tur": "secmeli",
+       "soru": "\"Asra andolsun ki insan gerçekten ziyan içindedir. Ancak iman edip salih ameller işleyenler, birbirlerine hakkı tavsiye edenler ve sabrı tavsiye edenler başka.\" (Asr suresi, 1-3. ayetler)\nBu sureye göre,",
+       "oncul": [
+        "Salih amel, imandan bağımsız olarak tek başına kurtuluş için yeterlidir.",
+        "İnsanı ziyandan kurtaran sorumluluklar, yalnızca bireysel ibadetlerden ibarettir.",
+        "İman, davranışa dönüştüğünde ve toplumsal sorumlulukla birleştiğinde insanı kurtuluşa götürür."
+       ],
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Sure, ziyandan kurtulmayı imanla salih amelin birlikteliğine ve hakkı, sabrı tavsiye etme gibi toplumsal sorumluluklara bağlar. İman davranışa dönüşmeli, salih amel de imana dayanmalıdır; bu yüzden I ve II'ye ulaşılamaz.",
+       "sayfa": 15,
+       "yil": "2025-TYT"
       }
      ]
     },
@@ -125,15 +135,17 @@
      "kartlar": [
       {
        "id": "1.3-01",
-       "tur": "bosluk",
-       "cumle": "İsrâ suresinin 36. ayetine göre insan, hakkında kesin bilgi sahibi olmadığı şeyin peşine düşmemelidir; çünkü kulak, göz ve ___ bundan sorumludur.",
-       "cevap": "kalp",
-       "celdiriciler": [
-        "dil",
-        "el",
-        "nefis"
+       "tur": "secmeli",
+       "soru": "\"Hakkında bilgin olmayan şeyin ardına düşme. Çünkü kulak, göz ve kalp, bunların hepsi ondan sorumludur.\" (İsrâ suresi, 36. ayet)\n\"De ki: 'Sizi yaratan, size kulak, gözler ve gönüller veren O'dur. Ne kadar da az şükrediyorsunuz!'\" (Mülk suresi, 23. ayet)\nBu ayetlerden aşağıdakilerden hangisine ulaşılamaz?",
+       "secenekler": [
+        "Duyular ve akıl, insana verilmiş nimetlerdendir.",
+        "Duyusal bilgi, vahiyle gelen bilgiden daha güvenilirdir.",
+        "Doğruluğu araştırılmamış bilgiyle hareket edilmemelidir.",
+        "İnsan, bilgi edinme araçlarını kullanma biçiminden sorumludur.",
+        "Bilgi edinme imkânları, şükredilmesi gereken bir lütuftur."
        ],
-       "bilgi": "Kur'an doğruluğu sınanmamış bilgiye uyulmamasını, gelen haberin araştırılmasını ve bilginin gereğinin önce kişinin kendisince yapılmasını öğütler.",
+       "dogru": 1,
+       "bilgi": "İsrâ 36, bilgiye dayanmayan şeyin peşine düşülmemesini ve kulak, göz, kalbin sorumluluğunu; Mülk 23 ise bu yetilerin Allah'ın nimeti olduğunu ve şükür gerektirdiğini bildirir. Ayetlerde duyusal bilgi ile vahiy arasında bir karşılaştırma yoktur.",
        "sayfa": 16,
        "yil": "2026-TYT"
       }
@@ -151,35 +163,35 @@
      "kartlar": [
       {
        "id": "1.4-01",
-       "tur": "dy",
-       "ifade": "Kur'an'a göre insan, varlıklar arasında şerefli kılınmış ve göklerde ve yerde olanlar onun hizmetine verilmiştir.",
-       "dogru": true,
-       "bilgi": "İsrâ suresi 70. ayete göre Allah insanoğlunu şan ve şeref sahibi kılmış, onu yarattıklarının birçoğundan üstün tutmuştur.",
-       "sayfa": 16,
-       "yil": "2021-TYT"
+       "tur": "secmeli",
+       "soru": "\"Dinde zorlama yoktur. Doğruluk sapıklıktan apaçık ayrılmıştır.\" (Bakara suresi, 256. ayet)\n\"De ki: 'Hak, Rabbinizdendir. Artık dileyen iman etsin, dileyen inkâr etsin.'\" (Kehf suresi, 29. ayet)\nBu ayetlerin ortak mesajı aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "İnanmayanlarla toplumsal ilişkinin kesilmesi gerektiği",
+        "İnancın yalnızca bireysel bir duygu olduğu",
+        "İnsanın tercihlerinin sonucundan sorumlu olmadığı",
+        "İnsanın inanç tercihinde özgür bırakıldığı",
+        "İnanç konularında aklın devre dışı bırakılması gerektiği"
+       ],
+       "dogru": 3,
+       "bilgi": "Her iki ayet de inancın zorla kabul ettirilemeyeceğini, insanın inanıp inanmamakta özgür bırakıldığını bildirir. Özgürlük sorumluluğu kaldırmaz; Kehf 29'un devamında yanlış tercihte bulunanları bekleyen sonuç da haber verilir.",
+       "sayfa": 17,
+       "yil": "2024-TYT"
       },
       {
        "id": "1.4-02",
-       "tur": "bosluk",
-       "cumle": "Allah'ın emirlerini yerine getirmek ve yasaklarından kaçınmakla yükümlü olması, insanın ___ sahibi bir varlık olduğunu gösterir.",
-       "cevap": "sorumluluk",
-       "celdiriciler": [
-        "sınırsız güç",
-        "ölümsüzlük",
-        "mutlak bilgi"
+       "tur": "secmeli",
+       "soru": "\"Andolsun, biz insanoğlunu şerefli kıldık. Onları karada ve denizde taşıdık, onları güzel ve temiz şeylerle rızıklandırdık ve yarattıklarımızın birçoğundan cidden üstün kıldık.\" (İsrâ suresi, 70. ayet)\nBu ayetten aşağıdakilerden hangisi çıkarılamaz?",
+       "secenekler": [
+        "İnsana yaratılıştan gelen bir değer verilmiştir.",
+        "Evrendeki nimetlerin önemli bir kısmı insanın yararına sunulmuştur.",
+        "İnsanın onuru, Allah'ın ona yaptığı ikramdan kaynaklanır.",
+        "Karada ve denizde yolculuk imkânı insana verilmiş bir nimettir.",
+        "İnsan, yaratılmış bütün varlıklardan üstün tutulmuştur."
        ],
-       "bilgi": "Hayat çok yönlü sınavlardan oluşan bir yolculuktur; insan dünyaya oyun ve eğlence için değil, kulluk bilinciyle yaşamak için gönderilmiştir.",
-       "sayfa": 17,
-       "yil": "2022-TYT"
-      },
-      {
-       "id": "1.4-03",
-       "tur": "dy",
-       "ifade": "İslam'a göre insan inanç tercihlerinde özgür değildir; inanç zorla kabul ettirilebilir.",
-       "dogru": false,
-       "bilgi": "Kur'an akla vurgu yapar ve insanı inanç, tutum ve davranış seçimlerinde özgür bırakır; İslam inanç esasları hür iradeyi temel alır.",
-       "sayfa": 17,
-       "yil": "2024-TYT"
+       "dogru": 4,
+       "bilgi": "Ayet insanın şerefli kılındığını, nimetlerle rızıklandırıldığını ve yaratılanların 'birçoğundan' üstün tutulduğunu bildirir; bütün varlıklardan üstünlük çıkarılamaz. Bu değer insana sorumluluk da yükler: Kur'an'a göre hayat, kulluk bilinciyle yaşanacak bir sınavdır.",
+       "sayfa": 16,
+       "yil": "2021-TYT"
       }
      ]
     },
@@ -193,10 +205,17 @@
      "kartlar": [
       {
        "id": "1.5-01",
-       "tur": "dy",
-       "ifade": "İslam'a göre peygamberlerin bir kısmına inanıp bir kısmını inkâr eden kişi de mümin sayılır.",
-       "dogru": false,
-       "bilgi": "İslam inanç esasları bir bütündür; Nisâ suresi 150-152. ayetlere göre peygamberler arasında ayrım yapanlar iman etmiş sayılmaz.",
+       "tur": "secmeli",
+       "soru": "\"Peygamber, Rabbinden kendisine indirilene iman etti, müminler de. Her biri Allah'a, meleklerine, kitaplarına ve peygamberlerine iman etti. 'O'nun peygamberlerinden hiçbirini diğerinden ayırt etmeyiz.' dediler.\" (Bakara suresi, 285. ayet)\nBu ayette İslam inanç esaslarının aşağıdaki özelliklerinden hangisi öne çıkmaktadır?",
+       "secenekler": [
+        "Birbirinden ayrılmaz bir bütün olması",
+        "Akıl ve mantıkla çelişmemesi",
+        "Sade, açık ve anlaşılır olması",
+        "İnsanın yaratılışına uygun olması",
+        "Zorlamaya değil, ikna etmeye dayanması"
+       ],
+       "dogru": 0,
+       "bilgi": "Ayet, müminlerin bütün inanç esaslarına birlikte iman ettiğini ve peygamberler arasında ayrım yapmadığını bildirir; inanç esasları bir bütündür. Nisâ 150-152'ye göre peygamberlerin bir kısmına inanıp bir kısmını inkâr eden mümin sayılmaz.",
        "sayfa": 17,
        "yil": "2023-TYT"
       }
@@ -212,10 +231,23 @@
      "kartlar": [
       {
        "id": "1.6-01",
-       "tur": "dy",
-       "ifade": "İslam'a göre ibadet yalnızca belirli şekilsel davranışlardan ibaret değildir; Allah rızası gözetilen her iyi davranış ibadet olabilir.",
-       "dogru": true,
-       "bilgi": "İbadetin kapsamı geniştir; ibadet ve dualar dinin inanç boyutunu tamamlayarak onu yaşanabilir bir hayat tarzına dönüştürür.",
+       "tur": "secmeli",
+       "soru": "İslam'a göre ibadet; namaz, oruç gibi belirli şekillerle yerine getirilen görevlerle sınırlı değildir.\nBuna göre,",
+       "oncul": [
+        "Yolda insanlara eziyet veren bir taşı Allah rızası için kenara çekmek",
+        "Allah rızasını gözeterek ailesinin geçimi için helal yoldan çalışmak",
+        "Adının duyulması amacıyla bir hayır kurumuna büyük bir bağış yapmak"
+       ],
+       "kok": "davranışlarından hangileri geniş anlamda ibadet olarak değerlendirilebilir?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Geniş anlamda ibadet, Allah rızası gözetilerek yapılan her iyi davranıştır; eziyet veren şeyi yoldan kaldırmak ve aile için helal kazanç hadislerde sadaka sayılmıştır. Gösteriş için yapılan bağış ise riya içerdiğinden ibadet niteliği taşımaz.",
        "sayfa": 18,
        "yil": "2022-TYT"
       }
@@ -232,31 +264,19 @@
      "kartlar": [
       {
        "id": "1.7-01",
-       "tur": "bosluk",
-       "cumle": "Osmanlı'da esnafın veresiye alacaklarını yazdığı ve hayırseverlerin kimliklerini gizleyerek yoksulların borcunu ödediği deftere ___ defteri denirdi.",
-       "cevap": "zimem",
-       "celdiriciler": [
-        "tahrir",
-        "mühimme",
-        "tereke"
+       "tur": "secmeli",
+       "soru": "Osmanlı döneminde bazı hayırseverler bakkal ve kasaplara gider, veresiye defterinin rastgele birkaç sayfasındaki borçları öder, kim olduklarını söylemeden ayrılırlardı. Böylece borcu ödenen kişi kime teşekkür edeceğini bilmez, yardım eden de övgü beklemezdi.\nBu uygulama, İslam'ın iyilik anlayışındaki aşağıdaki ilkelerden hangisiyle doğrudan ilgilidir?",
+       "secenekler": [
+        "Ticarette ölçü ve tartıda dürüst davranılması",
+        "Zekâtın yalnızca nakit para olarak verilmesi gerektiği",
+        "Borcun zamanında ve eksiksiz ödenmesinin zorunlu olduğu",
+        "Yardımlaşmanın kamu kurumları eliyle yürütülmesi",
+        "Yardımın riyadan uzak, Allah rızası için yapılması"
        ],
-       "bilgi": "Zimem defterleri aracılığıyla yapılan gizli yardım, yardım edenin gösterişe kapılmasını önler, yardım alanın da minnet altında kalmasını engellerdi.",
+       "dogru": 4,
+       "bilgi": "Zimem defteri uygulamasında yardım gizli yapıldığı için veren gösterişe (riya), alan da minnete düşmez; bu, iyiliğin ihlasla, yalnızca Allah rızası için yapılması ilkesinin yansımasıdır. Kur'an da sadakaları gizlice vermenin daha hayırlı olduğunu bildirir (Bakara, 271).",
        "sayfa": 18,
        "yil": "2019-TYT"
-      },
-      {
-       "id": "1.7-02",
-       "tur": "bosluk",
-       "cumle": "İbadetin gösterişten uzak, yalnızca Allah rızası için yapılmasına ___ denir.",
-       "cevap": "ihlas",
-       "celdiriciler": [
-        "riya",
-        "tevekkül",
-        "kanaat"
-       ],
-       "bilgi": "Samimiyetle yapılan ibadet Allah'a bağlılığı pekiştirir, ahlakı olgunlaştırır, sıkıntılara karşı sabır kazandırır ve sorumluluk bilinci oluşturur.",
-       "sayfa": 19,
-       "yil": "2021-TYT"
       }
      ]
     },
@@ -271,27 +291,17 @@
      "kartlar": [
       {
        "id": "1.8-01",
-       "tur": "eslestir",
-       "yonerge": "Ahlaki değerleri anlamlarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Tevazu",
-         "Alçakgönüllülük, kimseyi küçük görmemek"
-        ],
-        [
-         "Şecaat",
-         "Akla dayanan yiğitlik ve cesaret"
-        ],
-        [
-         "Hikmet",
-         "Bilgiyi yerinde ve doğru kullanma"
-        ],
-        [
-         "Gıpta",
-         "Başkasındaki iyiliğe, onun kaybını istemeden özenmek"
-        ]
+       "tur": "secmeli",
+       "soru": "Aşağıdaki davranış – ahlaki değer eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "Haksızlık karşısında korkaklığa da saldırganlığa da kapılmadan direnmek – Şecaat",
+        "Başkasındaki iyiliğe, onun elinden gitmesini istemeden özenmek – Haset",
+        "Bilgisini yerinde, zamanında ve fayda gözeterek kullanmak – Hikmet",
+        "Harcamalarında ne cimrilik ne de savurganlık yapmak – İtidal",
+        "Başarılı olduğu hâlde kimseyi küçümsemeden insanlarla iç içe yaşamak – Tevazu"
        ],
-       "bilgi": "Mevlana'nın öğütlerinde ölçülülük (itidal), alçakgönüllülük (tevazu), akla dayanan cesaret (şecaat) ve hikmet değerleri öne çıkar.",
+       "dogru": 1,
+       "bilgi": "Başkasındaki nimete, onun yok olmasını istemeden özenmek gıptadır ve övülür; haset ise başkasındaki nimetin yok olmasını istemektir. Şecaat korkaklıkla saldırganlığın, itidal aşırılıkla ihmalin ortasındaki erdemdir.",
        "sayfa": 19,
        "yil": "2024-TYT"
       }
@@ -307,31 +317,17 @@
      "kartlar": [
       {
        "id": "1.9-01",
-       "tur": "eslestir",
-       "yonerge": "İslam sanatına ait eserleri bulundukları yerle eşleştir.",
-       "ciftler": [
-        [
-         "Elhamra Sarayı",
-         "Gırnata (İspanya)"
-        ],
-        [
-         "Mostar Köprüsü",
-         "Bosna-Hersek"
-        ],
-        [
-         "Tac Mahal",
-         "Agra (Hindistan)"
-        ],
-        [
-         "Selimiye Camii",
-         "Edirne"
-        ],
-        [
-         "Mescid-i Nebevi",
-         "Medine"
-        ]
+       "tur": "secmeli",
+       "soru": "Endülüs'te Gırnata'daki Elhamra Sarayı, Hindistan'da Agra'daki Tac Mahal, Balkanlarda Neretva Nehri üzerindeki Mostar Köprüsü ve Edirne'deki Selimiye Camii, İslam medeniyetinin günümüze ulaşan eserlerindendir.\nBu bilgilerden hareketle aşağıdakilerden hangisine ulaşılabilir?",
+       "secenekler": [
+        "İslam sanatı yalnızca Arap Yarımadası'nda gelişme göstermiştir.",
+        "İslam medeniyetinin eserleri yalnızca ibadethanelerden oluşur.",
+        "Bu eserlerin tamamı Osmanlı Devleti döneminde yapılmıştır.",
+        "İslam medeniyeti geniş bir coğrafyada kalıcı izler bırakmıştır.",
+        "İslam mimarisi farklı bölgelerde tek tip bir üslupla uygulanmıştır."
        ],
-       "bilgi": "İslam medeniyetinin sanat eserleri Endülüs'ten Balkanlara, Arabistan'dan Hindistan'a uzanan geniş bir coğrafyaya yayılmıştır.",
+       "dogru": 3,
+       "bilgi": "Saray, türbe, köprü ve camiden oluşan bu eserler İslam medeniyetinin Endülüs'ten Hindistan'a, Balkanlara uzanan geniş bir coğrafyada iz bıraktığını gösterir. Elhamra Nasriler, Tac Mahal Babürlüler döneminin eseridir; yalnızca Mostar ve Selimiye Osmanlı yapısıdır.",
        "sayfa": 20,
        "yil": "2022-TYT"
       }
@@ -348,10 +344,23 @@
      "kartlar": [
       {
        "id": "1.10-01",
-       "tur": "dy",
-       "ifade": "Kur'an'a göre insanın, Allah'ın kendisine verdiği nimetleri tek tek sayıp bitirmesi mümkündür.",
-       "dogru": false,
-       "bilgi": "İbrahim suresine göre Allah gökleri, yeri, yağmuru, nehirleri, Güneş'i ve Ay'ı insanın hizmetine vermiştir; O'nun nimetleri saymakla bitmez.",
+       "tur": "secmeli",
+       "soru": "\"Allah, gökleri ve yeri yaratan, gökten yağmur indirip onunla size rızık olarak çeşitli ürünler çıkarandır… Güneş'i ve Ay'ı da hizmetinize verdi… Allah'ın nimetini saymaya kalksanız sayamazsınız. Şüphesiz insan çok zalim, çok nankördür.\" (İbrahim suresi, 32-34. ayetler)\nBu ayetlerden hareketle,",
+       "oncul": [
+        "Evrendeki varlıklar insanın yararlanabileceği biçimde düzenlenmiştir.",
+        "Nimetlerin tamamını tek tek bilip saymak insanın sorumluluğundadır.",
+        "İnsan, kendisine verilen nimetler karşısında nankörlüğe düşebilir."
+       ],
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Ayetler gök, yer, yağmur, Güneş ve Ay gibi varlıkların insanın hizmetine verildiğini ve insanın nankörlüğe düşebileceğini bildirir. Nimetlerin sayılamayacağı açıkça ifade edildiğinden II'ye ulaşılamaz.",
        "sayfa": 20,
        "yil": "2026-TYT"
       }
@@ -367,15 +376,17 @@
      "kartlar": [
       {
        "id": "1.11-01",
-       "tur": "bosluk",
-       "cumle": "Evrendeki düzenden ve her varlığın belirli bir amaca göre yaratılmasından hareketle Allah'ın varlığını kanıtlayan delile ___ delili denir.",
-       "cevap": "gaye ve nizam",
-       "celdiriciler": [
-        "hudus",
-        "imkân",
-        "ahlak"
+       "tur": "secmeli",
+       "soru": "Bir düşünür şöyle der: \"Bir saatin çarkları, ancak belirli bir amaca hizmet edecek biçimde uyum içinde çalıştığında zamanı gösterebilir. Güneş'in kendi yörüngesinde akması, gece ile gündüzün belli bir ölçüyle art arda gelmesi ve yağmurla kurumuş toprağın yeniden canlanması da evrendeki her şeyin bir amaca göre, bilinçli bir iradeyle düzenlendiğini gösterir.\"\nBu düşünür, Allah'ın varlığını temellendirirken aşağıdaki delillerden hangisine başvurmuştur?",
+       "secenekler": [
+        "Teleolojik delil",
+        "Ontolojik delil",
+        "Hudus delili",
+        "Dinî tecrübe delili",
+        "Kozmolojik delil"
        ],
-       "bilgi": "Gökyüzünün kusursuz yaratılışı, Güneş'in yörüngesinde akması ve yağmurla toprağın canlanması gibi ayetler gaye ve nizam deliline örnektir.",
+       "dogru": 0,
+       "bilgi": "Evrendeki düzen ve amaçlılıktan hareketle bir düzenleyiciye ulaşan delil, gaye ve nizam delili olarak da bilinen teleolojik delildir. Hudus delili âlemin sonradan olduğundan, ontolojik delil zihindeki en mükemmel varlık fikrinden, dinî tecrübe delili kişisel manevi yaşantılardan hareket eder.",
        "sayfa": 21,
        "yil": "2025-TYT"
       }
@@ -392,42 +403,25 @@
      "kartlar": [
       {
        "id": "1.12-01",
-       "tur": "eslestir",
-       "yonerge": "Allah'ın sıfatlarını anlamlarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Kudret",
-         "Her şeye gücünün yetmesi"
-        ],
-        [
-         "İlim",
-         "Her şeyi bilmesi"
-        ],
-        [
-         "Tekvin",
-         "Yaratması, yoktan var etmesi"
-        ],
-        [
-         "Beka",
-         "Varlığının sonunun olmaması"
-        ],
-        [
-         "Vahdaniyet",
-         "Bir ve tek olması"
-        ]
+       "tur": "secmeli",
+       "soru": "\"O, kendisinden başka hiçbir ilah olmayan Allah'tır. Gaybı da görünen âlemi de bilendir… O, yaratan, yoktan var eden, şekil veren Allah'tır. En güzel isimler O'nundur. Göklerde ve yerde ne varsa hepsi O'nu tesbih eder. O, mutlak güç sahibidir, hüküm ve hikmet sahibidir.\" (Haşr suresi, 22-24. ayetler)\nAllah'ın,",
+       "oncul": [
+        "Vahdaniyet",
+        "Beka",
+        "Tekvin"
        ],
-       "bilgi": "Haşr suresinin son ayetlerinde Allah'ın ilim, kudret, tekvin ve birliğine değinilir; varlığının sonsuzluğunu anlatan beka sıfatı ise geçmez.",
+       "kok": "sıfatlarından hangileri hem bu ayetlerde ifade edilmiş hem de zati sıfatlardandır?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "II ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "'Kendisinden başka ilah olmayan' ifadesi vahdaniyeti, 'gaybı ve görüneni bilen' ilmi, 'yaratan, var eden' tekvini, 'mutlak güç sahibi' kudreti anlatır. Vahdaniyet ve beka zati; ilim, kudret ve tekvin subuti sıfatlardır. Beka ise ayetlerde geçmez.",
        "sayfa": 21,
        "yil": "2019-TYT"
-      },
-      {
-       "id": "1.12-02",
-       "tur": "dy",
-       "ifade": "İlim (her şeyi bilme), Allah'ın zatî sıfatlarındandır.",
-       "dogru": false,
-       "bilgi": "İlim subûtî bir sıfattır; vücut, kıdem, beka, vahdaniyet, muhalefetün li'l-havadis ve kıyam bi-nefsihi ise yalnız Allah'a has zatî sıfatlardır.",
-       "sayfa": 22,
-       "yil": "2022-TYT"
       }
      ]
     },
@@ -441,26 +435,25 @@
      "kartlar": [
       {
        "id": "1.13-01",
-       "tur": "dy",
-       "ifade": "Dua adabına göre insan yalnızca sıkıntılı zamanlarında dua etmelidir.",
-       "dogru": false,
-       "bilgi": "Dua yalnız Allah'a, gönülden, sabırla ve hayırlı istekler için yapılmalı; sadece zor zamanlarda değil bir nimete ulaşıldığında da dua edilmelidir.",
+       "tur": "secmeli",
+       "soru": "Dua ve tövbe ile ilgili,",
+       "oncul": [
+        "Dua, kabul edilmesi için Arapça ve belirli kalıp sözlerle yapılmalıdır.",
+        "Dua yalnızca darlık anlarında değil, bir nimete kavuşulduğunda da yapılmalıdır.",
+        "Tövbe, işlenen hatadan pişman olup onu bir daha yapmamaya karar vermeyi içerir."
+       ],
+       "kok": "yargılarından hangileri doğrudur?",
+       "secenekler": [
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Dua her dilde ve kişinin kendi sözleriyle yapılabilir; yalnızca sıkıntı anında değil bolluk ve sevinç anında da yapılmalıdır. Tövbe; pişmanlık, hatayı terk ve tekrarlamama kararlılığıdır, kul hakkı varsa hakkın sahibine iadesi de gerekir.",
        "sayfa": 22,
        "yil": "2021-TYT"
-      },
-      {
-       "id": "1.13-02",
-       "tur": "bosluk",
-       "cumle": "İnsanın işlediği hatayı fark ettiği anda pişman olup ondan vazgeçerek Allah'a yönelmesine ___ denir.",
-       "cevap": "tövbe",
-       "celdiriciler": [
-        "tevekkül",
-        "şükür",
-        "kanaat"
-       ],
-       "bilgi": "Gazali'nin \"Günahı peşin alır, tövbeyi veresiye bırakır.\" sözü, insanın hatalarıyla yüzleşmeyi ertelememesi gerektiğini anlatır.",
-       "sayfa": 23,
-       "yil": "2023-TYT"
       }
      ]
     },
@@ -475,10 +468,17 @@
      "kartlar": [
       {
        "id": "1.14-01",
-       "tur": "dy",
-       "ifade": "Rum suresinin 19. ayetinde, Allah'ın ölü yeryüzünü dirilttiği gibi insanların da öldükten sonra diriltileceği bildirilir.",
-       "dogru": true,
-       "bilgi": "Rum suresinin 18-20. ayetleri Allah'ı anmayı öğütler; insanın topraktan yaratılmasını ve ölümden sonra dirilişi O'nun kudretinin delilleri olarak gösterir.",
+       "tur": "secmeli",
+       "soru": "\"O, ölüden diriyi çıkarır, diriden de ölüyü çıkarır. Yeryüzünü ölümünden sonra diriltir. İşte siz de (kabirlerinizden) böyle çıkarılacaksınız.\" (Rûm suresi, 19. ayet)\n\"O, yaratmayı başlatan, sonra onu tekrarlayacak olandır. Bu, O'na göre daha kolaydır.\" (Rûm suresi, 27. ayet)\nBu ayetlerde öldükten sonra dirilişin mümkün olduğu aşağıdakilerden hangisiyle temellendirilmiştir?",
+       "secenekler": [
+        "İnsanın yaratılıştan getirdiği ahirete inanma eğilimiyle",
+        "Yaratmayı başlatanın onu tekrarlamaya da gücünün yetmesiyle",
+        "Dünyada iyilik ve kötülüklerin karşılığının tam verilmemesiyle",
+        "Ruhun bedenden bağımsız, ölümsüz bir varlık olmasıyla",
+        "Önceki peygamberlerin de ümmetlerine dirilişi haber vermesiyle"
+       ],
+       "dogru": 1,
+       "bilgi": "Ayetler, kurumuş toprağı dirilten ve yaratmayı başlatan Allah'ın onu tekrarlamaya da gücünün yettiğini vurgular. Adaletin ahirette tamamlanması ve fıtrattaki inanma eğilimi de ahiret inancının gerekçeleridir; ancak bu ayetlerde bunlara başvurulmamıştır.",
        "sayfa": 23,
        "yil": "2024-TYT"
       }
@@ -495,45 +495,41 @@
      "kartlar": [
       {
        "id": "1.15-01",
-       "tur": "bosluk",
-       "cumle": "Hz. Muhammed'in, kendisini görünce heyecanlanan birine kendisinin de sıradan bir insan olduğunu söyleyerek onu rahatlatması ___ örneğidir.",
-       "cevap": "tevazu",
-       "celdiriciler": [
-        "şecaat",
-        "cömertlik",
-        "sabır"
+       "tur": "secmeli",
+       "soru": "Malını satın alan kişiden parasını alamayan bir yabancı tüccarın hakkını korumak için Kureyş'in bazı ileri gelenleri, Mekke'de zulme uğrayan herkesi korumaya söz verdikleri Hilfü'l-Fudul adlı bir antlaşma yapmıştı. Gençliğinde bu antlaşmaya katılan Hz. Muhammed, peygamberliğinden yıllar sonra da \"Böyle bir antlaşmaya şimdi çağrılsam yine katılırdım.\" demiştir.\nHz. Muhammed'in bu sözü aşağıdakilerden hangisini göstermektedir?",
+       "secenekler": [
+        "İslam öncesindeki bütün uygulamaları onayladığını",
+        "Yalnızca Müslümanlar arasındaki dayanışmayı önemsediğini",
+        "Mekke yönetiminde resmî bir görev üstlenmek istediğini",
+        "Zulme karşı dayanışmayı her dönemde değerli gördüğünü",
+        "Kabile bağlılığını adaletin önünde tuttuğunu"
        ],
-       "bilgi": "Hz. Muhammed, yanına gelip heyecanlanan birine annesi kurutulmuş et yiyen bir insan olduğunu söyleyerek alçakgönüllülüğünü göstermiştir.",
-       "sayfa": 23,
-       "yil": "2019-TYT"
+       "dogru": 3,
+       "bilgi": "Hz. Muhammed'in İslam'dan önce kurulan bu adalet birliğini peygamberliğinden sonra da övmesi, haksızlığa karşı dayanışmayı her dönemde değerli gördüğünü gösterir. O, cahiliye âdetlerinin tamamını değil, adalete uygun olanları onaylamıştır.",
+       "sayfa": 24,
+       "yil": "2026-TYT"
       },
       {
        "id": "1.15-02",
-       "tur": "bosluk",
-       "cumle": "Hz. Muhammed, gençliğinden itibaren dürüstlüğü ve güvenilirliği nedeniyle Mekkelilerce ___ lakabıyla anılmıştır.",
-       "cevap": "el-Emin",
-       "celdiriciler": [
-        "es-Sıddık",
-        "el-Faruk",
-        "Zinnureyn"
+       "tur": "secmeli",
+       "soru": "Hz. Muhammed otuz beş yaşındayken Kâbe onarılmış, Hacerülesved'i yerine koyma şerefinin hangi kabileye ait olacağı konusunda çıkan anlaşmazlıkta onun hakemliği kabul edilmiştir. Hz. Muhammed taşı bir örtünün üzerine koymuş, her kabileden bir temsilcinin örtünün ucundan tutmasını sağlamış, taşı da kendi eliyle yerine yerleştirmiştir.\nBu olay Hz. Muhammed ile ilgili,",
+       "oncul": [
+        "Kabileler arasındaki üstünlük yarışında kendi kabilesini öne çıkarmıştır.",
+        "Peygamberlikten önce de toplumda güvenilir bir kişi olarak kabul görmüştür.",
+        "Anlaşmazlıkları tarafların hepsini gözeterek çözmeye çalışmıştır."
        ],
-       "bilgi": "Mekkeli müşrikler peygamberliğine karşı çıkıp ona iftira etseler de onu hiçbir zaman yalancılıkla suçlayamamıştır.",
+       "kok": "yargılarından hangilerine kanıt olarak gösterilebilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Mekkelilerin hakemliğini kabul etmesi, dürüstlüğü nedeniyle peygamberlikten önce de el-Emin diye anılan Hz. Muhammed'e duyulan güveni gösterir. Taşı her kabileye taşıtması, kimseyi dışlamayan uzlaştırıcı tutumunu yansıtır.",
        "sayfa": 24,
        "yil": "2020-TYT"
-      },
-      {
-       "id": "1.15-03",
-       "tur": "bosluk",
-       "cumle": "Hz. Muhammed'in gençliğinde katıldığı, Mekke'de haksızlığa uğrayanları ve yabancıları korumayı amaçlayan topluluğa ___ denir.",
-       "cevap": "Hilfü'l-Fudul",
-       "celdiriciler": [
-        "Darü'n-Nedve",
-        "Suffa",
-        "Muahat"
-       ],
-       "bilgi": "Erdemliler Dayanışması anlamına gelen Hilfü'l-Fudul, zulme fırsat vermemek ve zayıfların hakkını korumak için kurulmuştu; Hz. Muhammed hakkı ve adaleti gözetmiştir.",
-       "sayfa": 24,
-       "yil": "2026-TYT"
       }
      ]
     },
@@ -547,10 +543,17 @@
      "kartlar": [
       {
        "id": "1.16-01",
-       "tur": "dy",
-       "ifade": "Kur'an'a göre anne baba, Allah'a ortak koşmaya zorlarsa bu konuda onlara itaat edilmez ama dünyada onlarla iyi geçinilir.",
-       "dogru": true,
-       "bilgi": "Hz. Muhammed, ailesi müşrik olan genç Müslümanlara anne babaya saygıyı bırakmamalarını ama her durumda Allah'ı öncelemelerini öğütlemiştir (Lokman 31:15).",
+       "tur": "secmeli",
+       "soru": "Genç yaşta Müslüman olan Sa'd bin Ebi Vakkas'ın annesi, oğlu yeni dininden dönmedikçe yemek yemeyeceğini söylemiştir. Kur'an'da benzer durumlarla ilgili şöyle buyrulur: \"Eğer onlar seni, hakkında bilgin olmayan bir şeyi bana ortak koşman için zorlarlarsa onlara itaat etme. Dünyada onlarla iyi geçin…\" (Lokman suresi, 15. ayet)\nBu ayete göre bir gencin anne babasıyla ilişkisi konusunda aşağıdakilerden hangisi söylenebilir?",
+       "secenekler": [
+        "İnanç konusunda onlara uymasa da onlara iyi davranmalıdır.",
+        "İnançları farklı ise onlarla bütün ilişkisini kesmelidir.",
+        "Hangi konuda olursa olsun onlara koşulsuz itaat etmelidir.",
+        "Onlara saygı göstermesi, aynı dine mensup olmalarına bağlıdır.",
+        "Onların dinî tercihlerini sorgulamadan benimsemelidir."
+       ],
+       "dogru": 0,
+       "bilgi": "Ayet, anne babanın Allah'a ortak koşmaya zorlaması durumunda onlara itaat edilmemesini, ancak dünyada onlarla iyi geçinilmesini emreder. Hz. Peygamber de ailesi müşrik olan gençlere Allah'ı öncelemelerini ama anne babaya saygıyı bırakmamalarını öğütlemiştir.",
        "sayfa": 25,
        "yil": "2024-TYT"
       }
@@ -567,10 +570,23 @@
      "kartlar": [
       {
        "id": "1.17-01",
-       "tur": "dy",
-       "ifade": "Hz. Muhammed, kurban etlerinin üç günden fazla saklanması yasağını her dönemde değiştirmeden uygulamıştır.",
-       "dogru": false,
-       "bilgi": "Hz. Muhammed yoksulluk yıllarında koyduğu bu yasağı refah artınca kaldırmıştır; İslam, toplumsal hayatın değişen ihtiyaçlarını dikkate alır.",
+       "tur": "secmeli",
+       "soru": "Hz. Peygamber, Medine'ye gelen muhtaçların çoğaldığı bir yıl kurban etlerinin üç günden fazla saklanmasını yasaklamıştır. Ertesi yıl ise \"Yanınıza gelen muhtaçlar sebebiyle sizi bundan men etmiştim. Artık yiyin, saklayın ve sadaka verin.\" buyurmuştur.\nBu bilgilere göre,",
+       "oncul": [
+        "Bazı uygulamalar, toplumun o günkü şartları dikkate alınarak belirlenmiştir.",
+        "Hz. Peygamber'in koyduğu bir uygulama hiçbir koşulda değişmez.",
+        "İbadetlerin temel esasları da toplumsal şartlara göre değiştirilebilir."
+       ],
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "I ve III"
+       ],
+       "dogru": 0,
+       "bilgi": "Yasak, muhtaçların çoğaldığı bir dönemin ihtiyacına göre konmuş, gerekçesi ortadan kalkınca kaldırılmıştır; İslam toplumsal değişimi dikkate alır. Ancak bu değişim gerekçeye bağlı uygulamalarla ilgilidir; ibadetlerin temel esasları değişmez.",
        "sayfa": 25,
        "yil": "2023-TYT"
       }
@@ -586,15 +602,17 @@
      "kartlar": [
       {
        "id": "1.18-01",
-       "tur": "bosluk",
-       "cumle": "İslam öncesi Arap toplumunda haklı ya da haksız olduğuna bakmadan her durumda kendi kabilesini destekleme anlayışına ___ denir.",
-       "cevap": "asabiyet",
-       "celdiriciler": [
-        "ümmet",
-        "uhuvvet",
-        "biat"
+       "tur": "secmeli",
+       "soru": "Hz. Peygamber, \"Zalim de olsa mazlum da olsa kardeşine yardım et.\" buyurmuştur. Sahabiler, \"Mazluma yardım ederiz ama zalime nasıl yardım ederiz?\" diye sorunca da \"Onu zulmünden alıkoyarsın; bu da ona yardımdır.\" karşılığını vermiştir.\nHz. Peygamber'in bu açıklamasıyla İslam öncesi Arap toplumundaki aşağıdaki anlayışlardan hangisi düzeltilmek istenmiştir?",
+       "secenekler": [
+        "Putlara yaklaşmak için kurban adama",
+        "Kız çocuklarını doğar doğmaz diri diri toprağa gömme",
+        "Kan davalarını kuşaklar boyunca sürdürme",
+        "Borç verirken kat kat faiz isteme",
+        "Kabilesini her durumda koşulsuz destekleme"
        ],
-       "bilgi": "İslam asabiyet anlayışı yerine haklının yanında olmayı esas almış, insan ilişkilerinin temeline adaleti koymuştur.",
+       "dogru": 4,
+       "bilgi": "Cahiliye toplumunda haklı ya da haksız olduğuna bakılmadan kendi kabilesini destekleme anlayışı (asabiyet) yaygındı. Hz. Peygamber yardımı, zalimi zulmünden alıkoymak biçiminde yeniden tanımlayarak ilişkilerin temeline adaleti koymuştur.",
        "sayfa": 26,
        "yil": "2020-TYT"
       }
@@ -610,15 +628,23 @@
      "kartlar": [
       {
        "id": "1.19-01",
-       "tur": "bosluk",
-       "cumle": "İslam'a göre insanlar arasında soydan ya da servetten gelen bir üstünlük yoktur; Allah katındaki üstünlük ancak ___ iledir.",
-       "cevap": "takva",
-       "celdiriciler": [
-        "zenginlik",
-        "soy",
-        "makam"
+       "tur": "secmeli",
+       "soru": "Hz. Peygamber, \"Ben ancak güzel ahlakı tamamlamak için gönderildim.\" buyurmuştur. Kur'an'da ise \"Allah katında en değerliniz, O'na karşı gelmekten en çok sakınanınızdır.\" (Hucurât suresi, 13. ayet) denilmektedir.\nBu ifadelerden hareketle İslam ahlakı ile ilgili,",
+       "oncul": [
+        "Ahlak, Hz. Peygamber'in gönderiliş amaçları arasında merkezî bir yere sahiptir.",
+        "Ahlaki erdemler yalnızca Müslümanlar arasındaki ilişkilerde geçerlidir.",
+        "İnsanın değeri soy ya da servetle değil, takva ile ölçülür."
        ],
-       "bilgi": "Hz. Muhammed güzel ahlakı tamamlamak için gönderildiğini bildirmiştir; İslam ahlakı motivasyonunu Allah inancından alır ve tüm yaratılmışlara merhameti öğütler.",
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 2,
+       "bilgi": "Hadis, ahlakın peygamberliğin temel amaçlarından olduğunu; ayet, üstünlüğün soy ve servette değil takvada olduğunu bildirir. İslam ahlakı motivasyonunu Allah inancından alır ve bütün insanlara, hatta tüm canlılara iyiliği öğütler.",
        "sayfa": 26,
        "yil": "2018-TYT"
       }
@@ -634,10 +660,23 @@
      "kartlar": [
       {
        "id": "1.20-01",
-       "tur": "dy",
-       "ifade": "Kur'an, başkalarının evlerine izin almadan ve selam vermeden girilmemesini emrederek özel hayatın gizliliğini korur.",
-       "dogru": true,
-       "bilgi": "Özel yaşamın gizliliği temel insan haklarındandır; Kur'an ve hadisler mahremiyetin araştırılmasını, izinsiz eve girmeyi ve aile sırlarının yayılmasını yasaklar.",
+       "tur": "secmeli",
+       "soru": "\"Ey iman edenler! Kendi evlerinizden başka evlere, izin alıp ev halkına selam vermeden girmeyin…\" (Nûr suresi, 27. ayet)\nBu ayette korunması amaçlanan değer dikkate alındığında,",
+       "oncul": [
+        "Bir arkadaşının telefonundaki yazışmaları ondan habersiz okumak",
+        "Kapısı açık bulunan bir eve izin istemeden girmek",
+        "Bir kişinin özel hayatına ilişkin bilgileri onun rızası olmadan paylaşmak"
+       ],
+       "kok": "davranışlarından hangileri bu değere aykırıdır?",
+       "secenekler": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 4,
+       "bilgi": "Ayet, izinsiz eve girmeyi yasaklayarak özel hayatın gizliliğini korur. Kur'an ve hadisler mahremiyetin araştırılmasını, gizli konuşmaların dinlenmesini ve özel bilgilerin yayılmasını da yasaklar; bu yüzden üç davranış da bu değere aykırıdır.",
        "sayfa": 27,
        "yil": "2020-TYT"
       }
@@ -654,27 +693,23 @@
      "kartlar": [
       {
        "id": "1.21-01",
-       "tur": "eslestir",
-       "yonerge": "Hucurat suresinin 11-12. ayetlerinde yasaklanan davranışları açıklamalarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Alay etmek",
-         "Bir kişiyi ya da topluluğu küçümseyip eğlenceye almak"
-        ],
-        [
-         "Su-i zan",
-         "Başkaları hakkında kötü düşünmek"
-        ],
-        [
-         "Tecessüs",
-         "Başkalarının kusur ve mahremiyetini araştırmak"
-        ],
-        [
-         "Gıybet",
-         "Birini arkasından hoşlanmayacağı şekilde anmak"
-        ]
+       "tur": "secmeli",
+       "soru": "\"Ey iman edenler! Bir topluluk diğer bir toplulukla alay etmesin… Birbirinizi kötü lakaplarla çağırmayın…\" (Hucurât suresi, 11. ayet)\n\"Ey iman edenler! Zannın birçoğundan kaçının… Birbirinizin kusurlarını araştırmayın. Birbirinizi arkadan çekiştirmeyin…\" (Hucurât suresi, 12. ayet)\nBir öğrenci, sınıf arkadaşının kusurlarını bulmak için onun sosyal medya hesaplarını gizlice incelemekte, bulduklarını da o yokken diğer arkadaşlarına anlatmaktadır.\nBu öğrencinin davranışında ayetlerde yasaklanan,",
+       "oncul": [
+        "Kusur araştırma (tecessüs)",
+        "Arkadan çekiştirme (gıybet)",
+        "Kötü lakap takma"
        ],
-       "bilgi": "Hucurat suresi 11-12. ayetler alay etmeyi, kötü lakap takmayı, kötü zannı, kusur araştırmayı ve gıybeti yasaklar; gıybeti ölü kardeşinin etini yemeye benzetir.",
+       "kok": "tutumlarından hangileri vardır?",
+       "secenekler": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 1,
+       "bilgi": "Başkalarının kusurlarını ve gizli hâllerini araştırmak tecessüs, birini arkasından hoşlanmayacağı biçimde anmak gıybettir. Öğrencinin arkadaşına kötü bir lakap taktığına dair bir bilgi yoktur. Ayet gıybeti ölü kardeşinin etini yemeye benzetir.",
        "sayfa": 27,
        "yil": "2021-TYT"
       }
@@ -690,21 +725,19 @@
      "kartlar": [
       {
        "id": "1.22-01",
-       "tur": "dy",
-       "ifade": "İslam mezheplerinin ortaya çıkmasının temel nedeni, ilk dönemde Kur'an nüshalarının az sayıda çoğaltılmış olmasıdır.",
-       "dogru": false,
-       "bilgi": "Mezheplerin oluşumunda İslam'ın farklı toplumlara yayılması, Hz. Muhammed'in vefatıyla oluşan otorite boşluğu, siyasi-dinî sorunlar ve dini anlama farkları etkili olmuştur.",
+       "tur": "secmeli",
+       "soru": "Dinî yorum farklılıklarının ortaya çıkmasında aşağıdakilerden hangisinin etkili olduğu söylenemez?",
+       "secenekler": [
+        "Hz. Peygamber'in vefatından sonra yaşanan halifelik tartışmaları",
+        "İslam'ın farklı kültür ve coğrafyalara yayılması",
+        "Bazı ayetlerin birden fazla anlama gelebilen ifadeler içermesi",
+        "İnsanların bilgi düzeyi, anlayış ve kişilik farklılıkları",
+        "Kur'an'ın farklı bölgelerde farklı metinler hâlinde derlenmesi"
+       ],
+       "dogru": 4,
+       "bilgi": "Siyasi olaylar, coğrafi ve kültürel çeşitlilik, dinî metinlerin farklı anlamalara açık yapısı ve insanların anlayış farkları yorum farklılıklarına yol açmıştır. Kur'an ise Hz. Ebubekir döneminde tek mushafta toplanmış, Hz. Osman döneminde çoğaltılmıştır.",
        "sayfa": 28,
        "yil": "2023-TYT"
-      },
-      {
-       "id": "1.22-02",
-       "tur": "dy",
-       "ifade": "Yaşanılan coğrafyanın şartları, kültürel etkileşim ve insanların kişilik farklılıkları dinî yorum farklılıklarının sebepleri arasındadır.",
-       "dogru": true,
-       "bilgi": "Dinî yorum farklılıklarının coğrafi, sosyal, kültürel ve kişilikten kaynaklanan sebepleri vardır.",
-       "sayfa": 28,
-       "yil": "2026-TYT"
       }
      ]
     },
@@ -719,10 +752,17 @@
      "kartlar": [
       {
        "id": "1.23-01",
-       "tur": "dy",
-       "ifade": "Kur'an'a göre şeytanın insanı kötülüğe zorlayacak bir gücü yoktur; onun çağrısına uyan insan bundan kendisi sorumludur.",
-       "dogru": true,
-       "bilgi": "İbrahim suresi 22. ayette şeytan, kendisine uyanlara \"Beni değil kendinizi kınayın.\" der; bu ayet sorumluluğun bireysel olduğunu vurgular.",
+       "tur": "secmeli",
+       "soru": "\"İş bitirilince şeytan diyecek ki: '…Benim size karşı hiçbir gücüm yoktu. Ancak ben sizi çağırdım, siz de hemen bana uydunuz. O hâlde beni kınamayın, kendinizi kınayın…'\" (İbrahim suresi, 22. ayet)\nBu ayetten aşağıdakilerden hangisine ulaşılabilir?",
+       "secenekler": [
+        "Şeytan, insanı iradesi dışında kötülüğe zorlayabilir.",
+        "İnsan, kötülük çağrısına uymaktan kendisi sorumludur.",
+        "Kötülüklerin sorumluluğu insana değil şeytana aittir.",
+        "Kötülüğe çağrılan insan bu çağrıya uymak zorundadır.",
+        "İnsan iradesi kötülük karşısında tamamen etkisizdir."
+       ],
+       "dogru": 1,
+       "bilgi": "Şeytanın insanı zorlayacak bir gücü yoktur; o yalnızca kötülüğe çağırır, çağrıya uyup uymamak insanın iradesine kalmıştır. Bu yüzden ayette şeytan kendisine uyanlara 'kendinizi kınayın' der; sorumluluk bireyseldir.",
        "sayfa": 29,
        "yil": "2018-TYT"
       }
@@ -739,33 +779,39 @@
      "kartlar": [
       {
        "id": "1.24-01",
-       "tur": "dy",
-       "ifade": "Kur'an'a göre Hz. Muhammed gaybı bilen ve melek niteliği taşıyan bir peygamberdir.",
-       "dogru": false,
-       "bilgi": "Mekkeli müşrikler peygamberin kendileri gibi bir insan olmasına itiraz etmiş; Kur'an peygamberlerin yiyip içen insanlar olduğunu, Hz. Muhammed'in gaybı bilmediğini bildirmiştir.",
+       "tur": "secmeli",
+       "soru": "\"De ki: 'Ben size, Allah'ın hazineleri yanımdadır demiyorum. Gaybı da bilmem. Size, ben bir meleğim de demiyorum. Ben sadece bana vahyolunana uyarım.'\" (En'âm suresi, 50. ayet)\n\"De ki: 'Ben ancak sizin gibi bir insanım. Bana, ilahınızın ancak bir tek ilah olduğu vahyolunuyor.'\" (Kehf suresi, 110. ayet)\nBu ayetlerde Hz. Muhammed'in hangi özelliği vurgulanmaktadır?",
+       "secenekler": [
+        "Dünya nimetlerini dilediğine dağıtabilmesi",
+        "Meleklere özgü nitelikler taşıyan bir varlık olması",
+        "Gaybı bilerek geleceği haber verebilmesi",
+        "Beşer olmakla birlikte vahiy alan bir elçi olması",
+        "Kendi görüşlerini vahiy olarak sunabilmesi"
+       ],
+       "dogru": 3,
+       "bilgi": "Ayetler Hz. Muhammed'in diğer insanlar gibi bir beşer olduğunu, gaybı bilmediğini ve melek olmadığını; onu ayıran özelliğin vahiy alması olduğunu bildirir. Mekkeli müşrikler de peygamberin yiyip içen bir insan olmasına itiraz etmişti.",
        "sayfa": 29,
        "yil": "2018-TYT"
       },
       {
        "id": "1.24-02",
-       "tur": "bosluk",
-       "cumle": "Ahzab suresinin 21. ayetinde Hz. Muhammed'in müminler için güzel bir ___ olduğu bildirilir.",
-       "cevap": "örnek",
-       "celdiriciler": [
-        "hükümdar",
-        "hakem",
-        "komutan"
+       "tur": "secmeli",
+       "soru": "Kız çocuklarının diri diri toprağa gömülebildiği bir toplumda Hz. Muhammed, iki kız çocuğunu ergenlik çağına kadar yetiştiren kişinin kıyamet gününde kendisiyle yan yana olacağını bildirmiştir. Kızı Hz. Fatıma yanına geldiğinde de ayağa kalkıp onu karşılar, yerine oturturdu.\nBu bilgilere göre Hz. Muhammed ile ilgili,",
+       "oncul": [
+        "Kız çocuklarını erkek çocuklardan üstün tutmuştur.",
+        "Toplumun yanlış değer yargılarını değiştirmeye çalışmıştır.",
+        "Sözleriyle öğütlediği tutumu davranışlarıyla da örneklendirmiştir."
        ],
-       "bilgi": "Ayette taklit değil örnek kavramının kullanılması, Hz. Muhammed'e nedenini bilerek, bilinçli biçimde uyulması gerektiğini gösterir.",
-       "sayfa": 30,
-       "yil": "2023-TYT"
-      },
-      {
-       "id": "1.24-03",
-       "tur": "dy",
-       "ifade": "Hz. Muhammed, kız çocuklarının diri diri gömüldüğü bir toplumda kız çocuklarını büyütüp yetiştirenlere ahirette kendisine yakın olmayı müjdelemiştir.",
-       "dogru": true,
-       "bilgi": "Bu hadis, Hz. Muhammed'in yaşadığı toplumun ilerisinde bir yaklaşımla toplumun değer yargılarını ahlaki ilkelere göre düzenlediğini gösterir.",
+       "kok": "yargılarından hangilerine ulaşılabilir?",
+       "secenekler": [
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+       ],
+       "dogru": 3,
+       "bilgi": "Hz. Muhammed, kız çocuklarını değersiz gören topluma karşı onları yetiştirmeyi ahiret mükâfatıyla teşvik etmiş, Hz. Fatıma'ya gösterdiği saygıyla da bunu örneklemiştir; o, müminler için güzel bir örnektir (Ahzâb, 21). Bilgilerde bir üstünlük ifadesi yoktur.",
        "sayfa": 30,
        "yil": "2025-TYT"
       }
@@ -781,31 +827,17 @@
      "kartlar": [
       {
        "id": "1.25-01",
-       "tur": "eslestir",
-       "yonerge": "Peygamberlerin sıfatlarını anlamlarıyla eşleştir.",
-       "ciftler": [
-        [
-         "Sıdk",
-         "Doğru sözlü olmak"
-        ],
-        [
-         "Emanet",
-         "Güvenilir olmak"
-        ],
-        [
-         "Tebliğ",
-         "Vahyi insanlara eksiksiz ulaştırmak"
-        ],
-        [
-         "İsmet",
-         "Günah işlemekten korunmuş olmak"
-        ],
-        [
-         "Fetanet",
-         "Akıllı ve zeki olmak"
-        ]
+       "tur": "secmeli",
+       "soru": "Peygamberlerin sıfatlarıyla ilgili aşağıdaki açıklama – sıfat eşleştirmelerinden hangisi yanlıştır?",
+       "secenekler": [
+        "Allah'ın izniyle olağanüstü olaylar gösterebilmesi – İsmet",
+        "Vahyi eksiksiz ve değiştirmeden insanlara iletmesi – Tebliğ",
+        "Kendisine emanet edilen eşyayı ve vahyi koruması – Emanet",
+        "Muhataplarını ikna edecek akıl ve kavrayışa sahip olması – Fetanet",
+        "Peygamberlikten önce de sonra da yalan söylememesi – Sıdk"
        ],
-       "bilgi": "Peygamberler Allah'ın seçtiği elçilerdir; vahyi insanlara iletir, önce kendileri uygulayarak toplumun ıslahına rehberlik ederler.",
+       "dogru": 0,
+       "bilgi": "İsmet, peygamberlerin günah işlemekten korunmuş olmasıdır. Allah'ın izniyle peygamberler eliyle gerçekleşen olağanüstü olaylar ise mucizedir ve peygamberlik sıfatları arasında sayılmaz.",
        "sayfa": 31,
        "yil": "2019-TYT"
       }
@@ -821,15 +853,17 @@
      "kartlar": [
       {
        "id": "1.26-01",
-       "tur": "bosluk",
-       "cumle": "Hz. Ömer'in Eyle halkına verdiği eman, kiliselere dokunulmayacağını ve kimsenin dini yüzünden zorlanmayacağını güvenceye alarak ___ hürriyetini korur.",
-       "cevap": "inanç ve ibadet",
-       "celdiriciler": [
-        "ticaret",
-        "seyahat",
-        "mülk edinme"
+       "tur": "secmeli",
+       "soru": "Hz. Ömer, Kudüs'ü teslim aldığında şehir halkına verdiği eman belgesinde kiliselerine dokunulmayacağını, onların yıkılmayacağını, haçlarına zarar verilmeyeceğini ve hiç kimsenin dini yüzünden zorlanmayacağını taahhüt etmiştir.\nBu belgede İslam'ın korunmasını gözettiği temel değerlerden hangisi öne çıkmaktadır?",
+       "secenekler": [
+        "Aklın korunması",
+        "Can güvenliği",
+        "İnanç hürriyeti",
+        "Neslin korunması",
+        "Mülkiyet hakkı"
        ],
-       "bilgi": "İslam'ın korunmasını istediği temel değerler can, din, akıl, nesil ve maldır; Hz. Ömer'in emanında inanç ve ibadet hürriyeti öne çıkar.",
+       "dogru": 2,
+       "bilgi": "İslam'ın korunmasını gözettiği beş temel değer din, can, akıl, nesil ve maldır. Hz. Ömer'in emanında ibadethanelerin korunması ve kimsenin dini yüzünden zorlanmaması, din (inanç ve ibadet) hürriyetinin güvence altına alındığını gösterir.",
        "sayfa": 31,
        "yil": "2025-TYT"
       }
@@ -846,15 +880,16 @@
       {
        "id": "1.27-01",
        "tur": "secmeli",
-       "soru": "Esnafın piri olarak anılan ve Ahilik teşkilatının kuruluşuna öncülük eden şahsiyet kimdir?",
+       "soru": "XIII. yüzyılda Anadolu'ya gelerek Kayseri ve Kırşehir'de yaşayan bu şahsiyet, dericilikle geçimini sağlamıştır. Esnaf ve zanaatkârları, mesleki eğitimle ahlak eğitimini birlikte veren ve çıraklıktan ustalığa uzanan bir düzen içinde örgütlemiştir; bu teşkilat yetim ve yoksulların gözetilmesinde de rol üstlenmiştir.\nBu parçada sözü edilen şahsiyet aşağıdakilerden hangisidir?",
        "secenekler": [
         "Ahmed Yesevi",
-        "Ahi Evran",
-        "Aziz Mahmud Hüdayi",
-        "Hacı Bayram Veli"
+        "Hacı Bektaş Veli",
+        "Yunus Emre",
+        "Hacı Bayram Veli",
+        "Ahi Evran"
        ],
-       "dogru": 1,
-       "bilgi": "Ahi Evran'ın öncülük ettiği Ahilik teşkilatı demircilik, marangozluk ve dericilik gibi meslekleri geliştirmiş; yetim ve yoksulların ihtiyaçlarını gözetmiştir.",
+       "dogru": 4,
+       "bilgi": "Esnafın piri sayılan Ahi Evran, Ahilik teşkilatının öncüsüdür; Ahilik dürüstlük, cömertlik ve yiğitliği mesleki eğitimle birleştirmiştir. Hacı Bektaş Veli Makalat'ı, Yunus Emre Türkçe ilahileri, Ahmed Yesevi ise Divan-ı Hikmet'iyle tanınır.",
        "sayfa": 32,
        "yil": "2021-TYT"
       }
@@ -870,10 +905,17 @@
      "kartlar": [
       {
        "id": "1.28-01",
-       "tur": "dy",
-       "ifade": "Mevlevi semasında semazenin sağ elinin göğe, sol elinin yere dönük olması, Allah'tan alınan manevi ihsanın insanlara ulaştırılmasını temsil eder.",
-       "dogru": true,
-       "bilgi": "Mevlevi sema töreninde namaz, Mesnevi dersi ve Kur'an kıraati de yer alır; semadaki her hareket belirli bir anlam taşır.",
+       "tur": "secmeli",
+       "soru": "Bu tasavvufi yorumda dervişler, ney ve kudüm eşliğinde sağ ellerinin avucu göğe, sol ellerinin avucu yere dönük olarak dönerler. Bu duruş, Allah'tan alınan manevi feyzin insanlara ulaştırılması olarak yorumlanır. Dervişin başındaki sikke mezar taşını, üzerindeki tennure ise kefeni simgeler.\nBu parçada sözü edilen tasavvufi yorum aşağıdakilerden hangisidir?",
+       "secenekler": [
+        "Nakşibendilik",
+        "Mevlevilik",
+        "Kadirilik",
+        "Rifailik",
+        "Yesevilik"
+       ],
+       "dogru": 1,
+       "bilgi": "Sema, Mevlevilikte Hak'tan alınan manevi feyzin halka ulaştırılmasını simgeleyen zikir törenidir; sikke mezar taşını, tennure kefeni, hırka kabri temsil eder. Mevlana'nın görüşlerini oğlu Sultan Veled sistemleştirmiştir.",
        "sayfa": 32,
        "yil": "2025-TYT"
       }

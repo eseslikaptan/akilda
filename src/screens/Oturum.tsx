@@ -349,9 +349,9 @@ export function Oturum({ dizin, tip, meydan }: { dizin: Dizin; tip: OturumTipi; 
           className={`yaz-dugme ${p.ayarlar.yazarak ? "acik" : ""}`}
           onClick={() => ayarlariGuncelle({ yazarak: !p.ayarlar.yazarak })}
           aria-pressed={p.ayarlar.yazarak}
-          title="Yazarak cevapla: boşlukları yaz, şıkları önce gizle"
+          title="Şıkları önce gizle: cevabı aklından bul, sonra şıklardan seç"
         >
-          Yaz
+          Gizle
         </button>
       </div>
 
