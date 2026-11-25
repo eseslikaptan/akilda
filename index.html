@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Akılda · YKS bilgi tekrarı</title>
+<meta name="description" content="Okuduğun akılda kalsın. MEB ders kitaplarından ve ÖSYM çıkmış sorularından YKS tarzı sorularla aralıklı tekrar.">
+<link rel="icon" href="./icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="./apple-touch-icon.png">
+<style>
+:root { --bg:#fff8ef; --surface:#fff; --ink:#2a2240; --ink2:#66607a; --accent:#ff8a1f; --accent2:#e86a00; --line:#f2e3cc; color-scheme: light; }
+@media (prefers-color-scheme: dark) { :root { --bg:#161327; --surface:#211d36; --ink:#f7f2ff; --ink2:#bdb4d6; --accent:#ff9a3d; --accent2:#ffb26b; --line:#362f55; color-scheme: dark; } }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif; }
+main { max-width:560px; margin:0 auto; padding:48px 18px; text-align:center; }
+img.logo { width:96px; height:96px; border-radius:22px; }
+h1 { font-size:34px; line-height:1.15; margin:16px 0 6px; }
+h1 em { font-style:normal; color:var(--accent); }
+p { color:var(--ink2); margin:0 0 14px; }
+.dugme { display:inline-block; margin:6px; padding:14px 22px; border-radius:16px; font-weight:700; text-decoration:none; background:var(--accent); color:#fff; }
+.dugme.ikincil { background:transparent; color:var(--ink); border:2px solid var(--line); }
+.kutu { margin:24px 0; padding:18px; border:1px solid var(--line); border-radius:18px; background:var(--surface); }
+.kutu strong { color:var(--ink); }
+nav { margin-top:32px; font-size:14px; }
+nav a { color:var(--ink2); margin:0 8px; }
+[hidden] { display:none; }
+</style>
+</head>
+<body>
+<main>
+  <img class="logo" src="./icon.svg" alt="Akılda">
+  <h1>Okuduğun <em>akılda</em> kalsın.</h1>
+  <p>MEB ders kitaplarından ve 2018–2026 ÖSYM sorularından YKS tarzı sorularla aralıklı tekrar. Kafadan matematik dahil.</p>
+
+  <section id="meydan" class="kutu" hidden>
+    <p id="meydan-metin"></p>
+    <a id="meydan-ac" class="dugme" href="#">Akılda'da aç</a>
+    <p style="margin-top:10px;font-size:14px">Uygulama yüklü değilse önce App Store'dan indir.</p>
+  </section>
+
+  <a id="app-store" class="dugme ikincil" href="#">App Store'dan indir</a>
+
+  <nav>
+    <a href="./gizlilik.html">Gizlilik</a>
+    <a href="./destek.html">Destek</a>
+  </nav>
+</main>
+<script>
+  // App Store yayınından sonra uygulamanın adresi buraya yazılır: https://apps.apple.com/tr/app/akilda/id<Apple ID>
+  var APP_STORE = "";
+  var magaza = document.getElementById("app-store");
+  if (APP_STORE) magaza.href = APP_STORE;
+  else { magaza.textContent = "Çok yakında App Store'da"; magaza.removeAttribute("href"); }
+
+  // Uygulamadan paylaşılan meydan okuma: …/akilda/#/meydan?k=…&a=…&s=…
+  var h = location.hash;
+  if (h.indexOf("#/meydan") === 0) {
+    var sorgu = h.split("?")[1] || "";
+    var q = new URLSearchParams(sorgu);
+    var kac = (q.get("k") || "").split(",").filter(Boolean).length;
+    var ad = (q.get("a") || "Bir arkadaşın").slice(0, 24);
+    document.getElementById("meydan-metin").textContent =
+      ad + " sana meydan okudu: " + kac + " YKS sorusunda " + (q.get("s") || "") + " yaptı. Sen kaç yaparsın?";
+    document.getElementById("meydan-ac").href = "akilda://meydan?" + sorgu;
+    document.getElementById("meydan").hidden = false;
+  }
+</script>
+</body>
+</html>
